@@ -6,3 +6,4 @@
 - [2013-01-01T10:52:59] Update documentation and architectural guides
 - [2013-01-01T20:37:24] Refactor cookie refresher probe logic
 - [2013-01-01T08:40:05] Clean up legacy worker task routines
+- [2013-01-01T10:22:41] Update dependency lockfiles and requirements
