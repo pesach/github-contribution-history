@@ -1,1 +1,2 @@
 - [2013-01-01T10:57:14] Refactor worker polling logic
+- [2013-01-01T11:18:40] Add retries for transient network drops
