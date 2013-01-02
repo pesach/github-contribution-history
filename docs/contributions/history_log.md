@@ -9,3 +9,4 @@
 - [2013-01-01T10:22:41] Update dependency lockfiles and requirements
 - [2013-01-01T08:40:47] Update documentation and architectural guides
 - [2013-01-01T15:03:45] Add Redis rate limit backoff handlers
+- [2013-01-01T22:21:34] Add error handling for yt-dlp rate limits
