@@ -22,3 +22,4 @@
 - [2013-01-02T16:37:44] Update schema migration helpers
 - [2013-01-02T13:50:18] Update documentation and architectural guides
 - [2013-01-02T16:23:40] Update documentation and architectural guides
+- [2013-01-02T08:29:41] Improve logging and health endpoint metrics
