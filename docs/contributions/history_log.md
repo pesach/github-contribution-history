@@ -16,3 +16,4 @@
 - [2013-01-02T20:30:17] Improve ffmpeg streaming pipe buffer management
 - [2013-01-02T10:23:35] Update dependency lockfiles and requirements
 - [2013-01-02T20:36:13] Refactor cookie refresher probe logic
+- [2013-01-02T15:48:02] Add Redis rate limit backoff handlers
