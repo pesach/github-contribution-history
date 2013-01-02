@@ -19,3 +19,4 @@
 - [2013-01-02T15:48:02] Add Redis rate limit backoff handlers
 - [2013-01-02T21:54:38] Refactor cookie refresher probe logic
 - [2013-01-02T16:38:33] Enhance dashboard statistics rendering
+- [2013-01-02T16:37:44] Update schema migration helpers
