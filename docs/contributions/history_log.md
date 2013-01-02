@@ -4,3 +4,4 @@
 - [2013-01-01T19:01:49] Optimize PostgreSQL query execution plans
 - [2013-01-01T12:45:07] Optimize PostgreSQL query execution plans
 - [2013-01-01T10:52:59] Update documentation and architectural guides
+- [2013-01-01T20:37:24] Refactor cookie refresher probe logic
