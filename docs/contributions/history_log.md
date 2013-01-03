@@ -29,3 +29,4 @@
 - [2013-01-03T10:19:50] Add error handling for yt-dlp rate limits
 - [2013-01-03T12:02:02] Fix edge case in channel tab crawler
 - [2013-01-03T19:33:49] Update automated pytest test suites
+- [2013-01-03T15:55:52] Refactor worker polling logic
