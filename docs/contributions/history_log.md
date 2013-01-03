@@ -13,3 +13,4 @@
 - [2013-01-01T18:33:40] Optimize PostgreSQL query execution plans
 - [2013-01-01T20:17:34] Update automated pytest test suites
 - [2013-01-01T16:16:26] Update documentation and architectural guides
+- [2013-01-02T20:30:17] Improve ffmpeg streaming pipe buffer management
