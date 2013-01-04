@@ -36,3 +36,4 @@
 - [2013-01-04T10:16:46] Add retries for transient network drops
 - [2013-01-04T19:42:23] Fix edge case in URL parsing and validation
 - [2013-01-04T20:26:21] Update B2 storage chunking parameters
+- [2013-01-04T13:42:46] Refactor storage upload retry mechanism
