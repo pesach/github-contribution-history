@@ -32,3 +32,4 @@
 - [2013-01-03T15:55:52] Refactor worker polling logic
 - [2013-01-04T12:34:54] Improve ffmpeg streaming pipe buffer management
 - [2013-01-04T22:53:08] Update B2 storage chunking parameters
+- [2013-01-04T14:13:54] Add Prometheus exporter endpoints for queue length
