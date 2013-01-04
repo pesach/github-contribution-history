@@ -24,3 +24,4 @@
 - [2013-01-02T16:23:40] Update documentation and architectural guides
 - [2013-01-02T08:29:41] Improve logging and health endpoint metrics
 - [2013-01-03T10:45:45] Refactor worker polling logic
+- [2013-01-03T22:24:42] Refactor cookie refresher probe logic
