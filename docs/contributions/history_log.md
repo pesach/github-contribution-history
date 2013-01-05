@@ -41,3 +41,4 @@
 - [2013-01-05T12:50:12] Implement streaming upload chunk buffer optimization
 - [2013-01-05T21:51:08] Update automated pytest test suites
 - [2013-01-05T19:28:26] Fix edge case in channel tab crawler
+- [2013-01-05T14:25:51] Fix edge case in URL parsing and validation
