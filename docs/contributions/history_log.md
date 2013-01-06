@@ -39,3 +39,4 @@
 - [2013-01-04T13:42:46] Refactor storage upload retry mechanism
 - [2013-01-04T11:16:22] Improve ffmpeg streaming pipe buffer management
 - [2013-01-05T12:50:12] Implement streaming upload chunk buffer optimization
+- [2013-01-05T21:51:08] Update automated pytest test suites
