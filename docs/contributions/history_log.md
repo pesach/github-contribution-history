@@ -43,3 +43,4 @@
 - [2013-01-05T19:28:26] Fix edge case in channel tab crawler
 - [2013-01-05T14:25:51] Fix edge case in URL parsing and validation
 - [2013-01-06T15:07:47] Clean up legacy worker task routines
+- [2013-01-06T13:27:04] Add retries for transient network drops
