@@ -42,3 +42,4 @@
 - [2013-01-05T21:51:08] Update automated pytest test suites
 - [2013-01-05T19:28:26] Fix edge case in channel tab crawler
 - [2013-01-05T14:25:51] Fix edge case in URL parsing and validation
+- [2013-01-06T15:07:47] Clean up legacy worker task routines
