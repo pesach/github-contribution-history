@@ -51,3 +51,4 @@
 - [2013-01-07T08:22:12] Add Prometheus exporter endpoints for queue length
 - [2013-01-07T14:52:34] Refactor storage upload retry mechanism
 - [2013-01-07T18:04:14] Update automated pytest test suites
+- [2013-01-07T11:15:32] Improve logging and health endpoint metrics
