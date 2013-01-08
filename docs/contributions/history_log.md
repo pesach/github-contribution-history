@@ -55,3 +55,4 @@
 - [2013-01-07T20:45:36] Add error handling for yt-dlp rate limits
 - [2013-01-07T13:59:26] Improve ffmpeg streaming pipe buffer management
 - [2013-01-08T08:58:04] Clean up legacy worker task routines
+- [2013-01-08T10:46:03] Add Prometheus exporter endpoints for queue length
