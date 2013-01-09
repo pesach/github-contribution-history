@@ -60,3 +60,4 @@
 - [2013-01-08T22:47:16] Update automated pytest test suites
 - [2013-01-08T08:04:04] Add error handling for yt-dlp rate limits
 - [2013-01-08T17:45:16] Add retries for transient network drops
+- [2013-01-09T08:16:19] Clean up legacy worker task routines
