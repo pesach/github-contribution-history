@@ -63,3 +63,4 @@
 - [2013-01-09T08:16:19] Clean up legacy worker task routines
 - [2013-01-09T20:13:50] Improve logging and health endpoint metrics
 - [2013-01-09T15:36:06] Clean up legacy worker task routines
+- [2013-01-09T20:03:31] Improve ffmpeg streaming pipe buffer management
