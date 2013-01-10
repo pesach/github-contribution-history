@@ -69,3 +69,4 @@
 - [2013-01-09T21:45:55] Update automated pytest test suites
 - [2013-01-09T17:39:15] Clean up legacy worker task routines
 - [2013-01-09T19:41:09] Fix edge case in channel tab crawler
+- [2013-01-09T21:37:45] Refactor cookie refresher probe logic
