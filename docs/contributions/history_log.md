@@ -65,3 +65,4 @@
 - [2013-01-09T15:36:06] Clean up legacy worker task routines
 - [2013-01-09T20:03:31] Improve ffmpeg streaming pipe buffer management
 - [2013-01-09T14:59:29] Update automated pytest test suites
+- [2013-01-09T21:48:47] Fix edge case in channel tab crawler
