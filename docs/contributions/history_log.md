@@ -71,3 +71,4 @@
 - [2013-01-09T19:41:09] Fix edge case in channel tab crawler
 - [2013-01-09T21:37:45] Refactor cookie refresher probe logic
 - [2013-01-10T08:02:56] Fix edge case in channel tab crawler
+- [2013-01-10T09:19:08] Fix edge case in channel tab crawler
