@@ -90,3 +90,4 @@
 - [2013-01-11T21:49:22] Update documentation and architectural guides
 - [2013-01-11T12:06:50] Add Prometheus exporter endpoints for queue length
 - [2013-01-11T17:52:26] Refactor cookie refresher probe logic
+- [2013-01-11T10:14:17] Update automated pytest test suites
