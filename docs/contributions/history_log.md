@@ -95,3 +95,4 @@
 - [2013-01-12T13:19:39] Update B2 storage chunking parameters
 - [2013-01-12T09:07:33] Improve logging and health endpoint metrics
 - [2013-01-12T14:18:15] Add retries for transient network drops
+- [2013-01-12T15:07:29] Enhance dashboard statistics rendering
