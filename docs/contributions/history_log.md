@@ -92,3 +92,4 @@
 - [2013-01-11T17:52:26] Refactor cookie refresher probe logic
 - [2013-01-11T10:14:17] Update automated pytest test suites
 - [2013-01-12T08:16:22] Refactor cookie refresher probe logic
+- [2013-01-12T13:19:39] Update B2 storage chunking parameters
