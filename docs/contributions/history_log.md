@@ -103,3 +103,4 @@
 - [2013-01-14T14:25:26] Update automated pytest test suites
 - [2013-01-14T17:03:17] Enhance dashboard statistics rendering
 - [2013-01-14T12:38:13] Update dependency lockfiles and requirements
+- [2013-01-14T19:01:41] Update B2 storage chunking parameters
