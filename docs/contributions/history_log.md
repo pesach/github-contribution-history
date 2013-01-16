@@ -114,3 +114,4 @@
 - [2013-01-15T14:06:34] Refactor cookie refresher probe logic
 - [2013-01-15T19:23:55] Update schema migration helpers
 - [2013-01-16T13:41:13] Refactor cookie refresher probe logic
+- [2013-01-16T18:45:43] Update automated pytest test suites
