@@ -115,3 +115,4 @@
 - [2013-01-15T19:23:55] Update schema migration helpers
 - [2013-01-16T13:41:13] Refactor cookie refresher probe logic
 - [2013-01-16T18:45:43] Update automated pytest test suites
+- [2013-01-16T08:07:59] Improve ffmpeg streaming pipe buffer management
