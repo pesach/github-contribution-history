@@ -123,3 +123,4 @@
 - [2013-01-16T18:08:02] Add retries for transient network drops
 - [2013-01-16T08:54:14] Update dependency lockfiles and requirements
 - [2013-01-16T14:54:20] Enhance dashboard statistics rendering
+- [2013-01-16T14:20:36] Add error handling for yt-dlp rate limits
