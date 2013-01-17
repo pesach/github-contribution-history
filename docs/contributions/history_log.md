@@ -136,3 +136,4 @@
 - [2013-01-17T22:23:35] Refactor cookie refresher probe logic
 - [2013-01-17T08:22:02] Optimize PostgreSQL query execution plans
 - [2013-01-17T22:46:20] Add Redis rate limit backoff handlers
+- [2013-01-17T14:51:53] Update schema migration helpers
