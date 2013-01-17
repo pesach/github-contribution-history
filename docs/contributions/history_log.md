@@ -128,3 +128,4 @@
 - [2013-01-16T10:25:25] Implement streaming upload chunk buffer optimization
 - [2013-01-16T10:53:57] Update documentation and architectural guides
 - [2013-01-16T22:27:25] Update documentation and architectural guides
+- [2013-01-17T08:55:16] Improve logging and health endpoint metrics
