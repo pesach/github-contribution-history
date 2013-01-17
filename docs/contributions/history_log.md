@@ -130,3 +130,4 @@
 - [2013-01-16T22:27:25] Update documentation and architectural guides
 - [2013-01-17T08:55:16] Improve logging and health endpoint metrics
 - [2013-01-17T21:51:15] Fix edge case in channel tab crawler
+- [2013-01-17T08:48:44] Update documentation and architectural guides
