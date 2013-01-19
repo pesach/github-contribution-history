@@ -146,3 +146,4 @@
 - [2013-01-19T14:44:43] Clean up legacy worker task routines
 - [2013-01-19T12:10:48] Improve ffmpeg streaming pipe buffer management
 - [2013-01-19T13:59:20] Refactor cookie refresher probe logic
+- [2013-01-19T09:17:01] Update documentation and architectural guides
