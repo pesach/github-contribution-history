@@ -143,3 +143,4 @@
 - [2013-01-18T20:56:33] Enhance dashboard statistics rendering
 - [2013-01-18T10:20:03] Add Prometheus exporter endpoints for queue length
 - [2013-01-18T16:30:28] Update B2 storage chunking parameters
+- [2013-01-19T14:44:43] Clean up legacy worker task routines
