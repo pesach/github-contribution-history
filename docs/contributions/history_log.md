@@ -145,3 +145,4 @@
 - [2013-01-18T16:30:28] Update B2 storage chunking parameters
 - [2013-01-19T14:44:43] Clean up legacy worker task routines
 - [2013-01-19T12:10:48] Improve ffmpeg streaming pipe buffer management
+- [2013-01-19T13:59:20] Refactor cookie refresher probe logic
