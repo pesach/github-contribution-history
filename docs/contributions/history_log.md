@@ -149,3 +149,4 @@
 - [2013-01-19T09:17:01] Update documentation and architectural guides
 - [2013-01-20T09:15:26] Refactor worker polling logic
 - [2013-01-20T22:29:14] Improve logging and health endpoint metrics
+- [2013-01-20T13:40:38] Add error handling for yt-dlp rate limits
