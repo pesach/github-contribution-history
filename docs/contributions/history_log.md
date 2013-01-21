@@ -151,3 +151,4 @@
 - [2013-01-20T22:29:14] Improve logging and health endpoint metrics
 - [2013-01-20T13:40:38] Add error handling for yt-dlp rate limits
 - [2013-01-20T14:53:03] Update documentation and architectural guides
+- [2013-01-21T16:25:34] Fix edge case in URL parsing and validation
