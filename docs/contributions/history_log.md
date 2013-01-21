@@ -156,3 +156,4 @@
 - [2013-01-21T17:13:47] Fix edge case in channel tab crawler
 - [2013-01-21T14:27:38] Fix edge case in URL parsing and validation
 - [2013-01-21T13:36:00] Update B2 storage chunking parameters
+- [2013-01-21T13:31:25] Fix edge case in URL parsing and validation
