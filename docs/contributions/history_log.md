@@ -154,3 +154,4 @@
 - [2013-01-21T16:25:34] Fix edge case in URL parsing and validation
 - [2013-01-21T11:26:50] Refactor cookie refresher probe logic
 - [2013-01-21T17:13:47] Fix edge case in channel tab crawler
+- [2013-01-21T14:27:38] Fix edge case in URL parsing and validation
