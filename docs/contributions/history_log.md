@@ -162,3 +162,4 @@
 - [2013-01-22T17:38:02] Fix edge case in channel tab crawler
 - [2013-01-22T14:56:01] Enhance dashboard statistics rendering
 - [2013-01-22T14:03:42] Refactor cookie refresher probe logic
+- [2013-01-22T14:43:40] Optimize PostgreSQL query execution plans
