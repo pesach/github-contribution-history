@@ -164,3 +164,4 @@
 - [2013-01-22T14:03:42] Refactor cookie refresher probe logic
 - [2013-01-22T14:43:40] Optimize PostgreSQL query execution plans
 - [2013-01-22T19:04:14] Refactor cookie refresher probe logic
+- [2013-01-22T21:51:51] Improve ffmpeg streaming pipe buffer management
