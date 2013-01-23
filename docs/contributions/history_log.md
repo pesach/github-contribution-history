@@ -168,3 +168,4 @@
 - [2013-01-22T17:23:58] Refactor storage upload retry mechanism
 - [2013-01-22T18:13:15] Refactor storage upload retry mechanism
 - [2013-01-23T09:43:58] Clean up legacy worker task routines
+- [2013-01-23T18:08:16] Fix edge case in channel tab crawler
