@@ -173,3 +173,4 @@
 - [2013-01-23T15:28:03] Update dependency lockfiles and requirements
 - [2013-01-23T14:06:39] Enhance dashboard statistics rendering
 - [2013-01-23T14:27:57] Add Prometheus exporter endpoints for queue length
+- [2013-01-23T12:42:06] Improve logging and health endpoint metrics
