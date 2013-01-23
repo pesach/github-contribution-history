@@ -163,3 +163,4 @@
 - [2013-01-22T14:56:01] Enhance dashboard statistics rendering
 - [2013-01-22T14:03:42] Refactor cookie refresher probe logic
 - [2013-01-22T14:43:40] Optimize PostgreSQL query execution plans
+- [2013-01-22T19:04:14] Refactor cookie refresher probe logic
