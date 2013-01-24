@@ -183,3 +183,4 @@
 - [2013-01-23T10:05:58] Clean up legacy worker task routines
 - [2013-01-24T22:50:58] Update schema migration helpers
 - [2013-01-24T15:26:01] Update dependency lockfiles and requirements
+- [2013-01-24T14:01:14] Update documentation and architectural guides
