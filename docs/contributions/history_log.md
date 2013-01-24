@@ -191,3 +191,4 @@
 - [2013-01-24T19:44:12] Refactor cookie refresher probe logic
 - [2013-01-24T22:32:21] Update B2 storage chunking parameters
 - [2013-01-24T11:46:03] Refactor storage upload retry mechanism
+- [2013-01-24T17:13:04] Enhance dashboard statistics rendering
