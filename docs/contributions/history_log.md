@@ -179,3 +179,4 @@
 - [2013-01-23T20:23:39] Fix edge case in URL parsing and validation
 - [2013-01-23T11:15:22] Add error handling for yt-dlp rate limits
 - [2013-01-23T12:54:48] Add retries for transient network drops
+- [2013-01-23T22:15:06] Add retries for transient network drops
