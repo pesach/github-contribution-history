@@ -200,3 +200,4 @@
 - [2013-01-25T15:03:18] Fix edge case in channel tab crawler
 - [2013-01-25T18:27:32] Improve ffmpeg streaming pipe buffer management
 - [2013-01-25T11:46:37] Clean up legacy worker task routines
+- [2013-01-25T16:13:14] Optimize PostgreSQL query execution plans
