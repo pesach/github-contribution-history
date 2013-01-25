@@ -194,3 +194,4 @@
 - [2013-01-24T17:13:04] Enhance dashboard statistics rendering
 - [2013-01-24T15:27:57] Add Prometheus exporter endpoints for queue length
 - [2013-01-25T12:22:54] Improve ffmpeg streaming pipe buffer management
+- [2013-01-25T17:41:59] Add Redis rate limit backoff handlers
