@@ -205,3 +205,4 @@
 - [2013-01-25T22:04:05] Improve ffmpeg streaming pipe buffer management
 - [2013-01-25T13:57:02] Improve ffmpeg streaming pipe buffer management
 - [2013-01-25T12:26:22] Update documentation and architectural guides
+- [2013-01-25T12:39:02] Update documentation and architectural guides
