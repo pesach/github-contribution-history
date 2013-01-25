@@ -195,3 +195,4 @@
 - [2013-01-24T15:27:57] Add Prometheus exporter endpoints for queue length
 - [2013-01-25T12:22:54] Improve ffmpeg streaming pipe buffer management
 - [2013-01-25T17:41:59] Add Redis rate limit backoff handlers
+- [2013-01-25T09:51:50] Fix edge case in URL parsing and validation
