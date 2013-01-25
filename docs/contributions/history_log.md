@@ -181,3 +181,4 @@
 - [2013-01-23T12:54:48] Add retries for transient network drops
 - [2013-01-23T22:15:06] Add retries for transient network drops
 - [2013-01-23T10:05:58] Clean up legacy worker task routines
+- [2013-01-24T22:50:58] Update schema migration helpers
