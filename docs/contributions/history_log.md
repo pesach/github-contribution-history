@@ -193,3 +193,4 @@
 - [2013-01-24T11:46:03] Refactor storage upload retry mechanism
 - [2013-01-24T17:13:04] Enhance dashboard statistics rendering
 - [2013-01-24T15:27:57] Add Prometheus exporter endpoints for queue length
+- [2013-01-25T12:22:54] Improve ffmpeg streaming pipe buffer management
