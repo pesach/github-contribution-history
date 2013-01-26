@@ -202,3 +202,4 @@
 - [2013-01-25T11:46:37] Clean up legacy worker task routines
 - [2013-01-25T16:13:14] Optimize PostgreSQL query execution plans
 - [2013-01-25T19:29:13] Implement streaming upload chunk buffer optimization
+- [2013-01-25T22:04:05] Improve ffmpeg streaming pipe buffer management
