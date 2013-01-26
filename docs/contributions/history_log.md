@@ -209,3 +209,4 @@
 - [2013-01-25T12:36:44] Fix edge case in channel tab crawler
 - [2013-01-26T21:28:39] Optimize PostgreSQL query execution plans
 - [2013-01-26T15:20:41] Update dependency lockfiles and requirements
+- [2013-01-26T12:09:15] Fix edge case in URL parsing and validation
