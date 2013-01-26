@@ -211,3 +211,4 @@
 - [2013-01-26T15:20:41] Update dependency lockfiles and requirements
 - [2013-01-26T12:09:15] Fix edge case in URL parsing and validation
 - [2013-01-26T20:22:44] Refactor worker polling logic
+- [2013-01-26T10:25:28] Improve ffmpeg streaming pipe buffer management
