@@ -207,3 +207,4 @@
 - [2013-01-25T12:26:22] Update documentation and architectural guides
 - [2013-01-25T12:39:02] Update documentation and architectural guides
 - [2013-01-25T12:36:44] Fix edge case in channel tab crawler
+- [2013-01-26T21:28:39] Optimize PostgreSQL query execution plans
