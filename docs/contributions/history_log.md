@@ -214,3 +214,4 @@
 - [2013-01-26T10:25:28] Improve ffmpeg streaming pipe buffer management
 - [2013-01-26T19:06:07] Update dependency lockfiles and requirements
 - [2013-01-28T18:50:07] Update documentation and architectural guides
+- [2013-01-28T14:25:10] Update documentation and architectural guides
