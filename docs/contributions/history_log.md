@@ -225,3 +225,4 @@
 - [2013-01-29T08:36:15] Update automated pytest test suites
 - [2013-01-29T16:30:50] Add Prometheus exporter endpoints for queue length
 - [2013-01-29T16:57:37] Update automated pytest test suites
+- [2013-01-29T08:03:53] Refactor worker polling logic
