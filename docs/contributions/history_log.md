@@ -218,3 +218,4 @@
 - [2013-01-28T21:42:22] Improve logging and health endpoint metrics
 - [2013-01-28T11:15:02] Refactor storage upload retry mechanism
 - [2013-01-28T17:53:32] Fix edge case in channel tab crawler
+- [2013-01-28T19:36:03] Update documentation and architectural guides
