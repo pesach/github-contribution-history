@@ -230,3 +230,4 @@
 - [2013-01-29T08:25:25] Add Redis rate limit backoff handlers
 - [2013-01-29T09:42:19] Update dependency lockfiles and requirements
 - [2013-01-29T18:56:47] Clean up legacy worker task routines
+- [2013-01-29T13:08:00] Optimize PostgreSQL query execution plans
