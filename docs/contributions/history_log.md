@@ -238,3 +238,4 @@
 - [2013-01-30T16:46:48] Enhance dashboard statistics rendering
 - [2013-01-30T18:16:06] Refactor storage upload retry mechanism
 - [2013-01-30T13:33:25] Implement streaming upload chunk buffer optimization
+- [2013-01-30T13:20:22] Update B2 storage chunking parameters
