@@ -235,3 +235,4 @@
 - [2013-01-30T16:09:16] Add retries for transient network drops
 - [2013-01-30T08:16:25] Update dependency lockfiles and requirements
 - [2013-01-30T11:51:53] Update documentation and architectural guides
+- [2013-01-30T16:46:48] Enhance dashboard statistics rendering
