@@ -232,3 +232,4 @@
 - [2013-01-29T18:56:47] Clean up legacy worker task routines
 - [2013-01-29T13:08:00] Optimize PostgreSQL query execution plans
 - [2013-01-30T20:22:15] Add error handling for yt-dlp rate limits
+- [2013-01-30T16:09:16] Add retries for transient network drops
