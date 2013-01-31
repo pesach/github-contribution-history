@@ -250,3 +250,4 @@
 - [2013-01-31T15:41:35] Add retries for transient network drops
 - [2013-01-31T08:37:27] Add Redis rate limit backoff handlers
 - [2013-01-31T14:46:36] Add Prometheus exporter endpoints for queue length
+- [2013-01-31T17:45:09] Update schema migration helpers
