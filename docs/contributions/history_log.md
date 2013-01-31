@@ -241,3 +241,4 @@
 - [2013-01-30T13:20:22] Update B2 storage chunking parameters
 - [2013-01-30T10:05:32] Update B2 storage chunking parameters
 - [2013-01-31T17:44:12] Optimize PostgreSQL query execution plans
+- [2013-01-31T10:58:26] Update B2 storage chunking parameters
