@@ -253,3 +253,4 @@
 - [2013-01-31T17:45:09] Update schema migration helpers
 - [2013-02-01T19:40:14] Clean up legacy worker task routines
 - [2013-02-01T17:57:10] Enhance dashboard statistics rendering
+- [2013-02-01T11:33:26] Update documentation and architectural guides
