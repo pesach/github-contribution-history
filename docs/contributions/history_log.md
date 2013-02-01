@@ -256,3 +256,4 @@
 - [2013-02-01T11:33:26] Update documentation and architectural guides
 - [2013-02-01T21:34:24] Update dependency lockfiles and requirements
 - [2013-02-01T10:17:32] Implement streaming upload chunk buffer optimization
+- [2013-02-01T14:29:20] Update B2 storage chunking parameters
