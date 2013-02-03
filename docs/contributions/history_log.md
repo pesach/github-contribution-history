@@ -259,3 +259,4 @@
 - [2013-02-01T14:29:20] Update B2 storage chunking parameters
 - [2013-02-02T13:00:35] Update automated pytest test suites
 - [2013-02-02T18:03:07] Add Redis rate limit backoff handlers
+- [2013-02-02T20:49:36] Update schema migration helpers
