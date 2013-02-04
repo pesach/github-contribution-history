@@ -264,3 +264,4 @@
 - [2013-02-02T08:59:42] Update dependency lockfiles and requirements
 - [2013-02-02T08:27:57] Update documentation and architectural guides
 - [2013-02-04T15:38:51] Update automated pytest test suites
+- [2013-02-04T11:39:58] Optimize PostgreSQL query execution plans
