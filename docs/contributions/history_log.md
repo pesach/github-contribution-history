@@ -266,3 +266,4 @@
 - [2013-02-04T15:38:51] Update automated pytest test suites
 - [2013-02-04T11:39:58] Optimize PostgreSQL query execution plans
 - [2013-02-04T13:45:55] Improve ffmpeg streaming pipe buffer management
+- [2013-02-04T17:13:17] Fix edge case in URL parsing and validation
