@@ -272,3 +272,4 @@
 - [2013-02-04T18:37:00] Add retries for transient network drops
 - [2013-02-04T22:16:44] Fix edge case in URL parsing and validation
 - [2013-02-04T10:21:28] Update B2 storage chunking parameters
+- [2013-02-04T09:44:35] Clean up legacy worker task routines
