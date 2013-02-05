@@ -274,3 +274,4 @@
 - [2013-02-04T10:21:28] Update B2 storage chunking parameters
 - [2013-02-04T09:44:35] Clean up legacy worker task routines
 - [2013-02-04T08:14:26] Update B2 storage chunking parameters
+- [2013-02-05T11:41:00] Refactor storage upload retry mechanism
