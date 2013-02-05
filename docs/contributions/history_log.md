@@ -278,3 +278,4 @@
 - [2013-02-05T10:30:58] Refactor cookie refresher probe logic
 - [2013-02-05T19:10:26] Update schema migration helpers
 - [2013-02-05T08:10:53] Improve logging and health endpoint metrics
+- [2013-02-05T13:31:56] Add retries for transient network drops
