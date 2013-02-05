@@ -281,3 +281,4 @@
 - [2013-02-05T13:31:56] Add retries for transient network drops
 - [2013-02-05T21:07:42] Refactor cookie refresher probe logic
 - [2013-02-05T19:53:04] Update schema migration helpers
+- [2013-02-05T15:38:53] Fix edge case in URL parsing and validation
