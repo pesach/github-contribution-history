@@ -270,3 +270,4 @@
 - [2013-02-04T18:03:35] Add Redis rate limit backoff handlers
 - [2013-02-04T20:25:17] Add retries for transient network drops
 - [2013-02-04T18:37:00] Add retries for transient network drops
+- [2013-02-04T22:16:44] Fix edge case in URL parsing and validation
