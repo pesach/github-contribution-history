@@ -268,3 +268,4 @@
 - [2013-02-04T13:45:55] Improve ffmpeg streaming pipe buffer management
 - [2013-02-04T17:13:17] Fix edge case in URL parsing and validation
 - [2013-02-04T18:03:35] Add Redis rate limit backoff handlers
+- [2013-02-04T20:25:17] Add retries for transient network drops
