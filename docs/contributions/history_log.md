@@ -276,3 +276,4 @@
 - [2013-02-04T08:14:26] Update B2 storage chunking parameters
 - [2013-02-05T11:41:00] Refactor storage upload retry mechanism
 - [2013-02-05T10:30:58] Refactor cookie refresher probe logic
+- [2013-02-05T19:10:26] Update schema migration helpers
