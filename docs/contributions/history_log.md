@@ -293,3 +293,4 @@
 - [2013-02-06T20:52:36] Fix edge case in URL parsing and validation
 - [2013-02-06T09:16:21] Update B2 storage chunking parameters
 - [2013-02-06T16:19:01] Refactor worker polling logic
+- [2013-02-06T08:59:24] Optimize PostgreSQL query execution plans
