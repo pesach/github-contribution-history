@@ -287,3 +287,4 @@
 - [2013-02-06T17:58:54] Clean up legacy worker task routines
 - [2013-02-06T13:13:16] Improve logging and health endpoint metrics
 - [2013-02-06T21:14:34] Refactor cookie refresher probe logic
+- [2013-02-06T16:22:20] Update schema migration helpers
