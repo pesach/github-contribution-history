@@ -295,3 +295,4 @@
 - [2013-02-06T16:19:01] Refactor worker polling logic
 - [2013-02-06T08:59:24] Optimize PostgreSQL query execution plans
 - [2013-02-06T10:09:45] Optimize PostgreSQL query execution plans
+- [2013-02-06T15:27:02] Clean up legacy worker task routines
