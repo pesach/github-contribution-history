@@ -290,3 +290,4 @@
 - [2013-02-06T16:22:20] Update schema migration helpers
 - [2013-02-06T12:57:33] Add error handling for yt-dlp rate limits
 - [2013-02-06T10:43:45] Update automated pytest test suites
+- [2013-02-06T20:52:36] Fix edge case in URL parsing and validation
