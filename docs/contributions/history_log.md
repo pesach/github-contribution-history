@@ -298,3 +298,4 @@
 - [2013-02-06T15:27:02] Clean up legacy worker task routines
 - [2013-02-07T21:22:46] Update schema migration helpers
 - [2013-02-07T19:53:52] Update documentation and architectural guides
+- [2013-02-07T16:43:11] Optimize PostgreSQL query execution plans
