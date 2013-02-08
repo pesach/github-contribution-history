@@ -300,3 +300,4 @@
 - [2013-02-07T19:53:52] Update documentation and architectural guides
 - [2013-02-07T16:43:11] Optimize PostgreSQL query execution plans
 - [2013-02-07T20:51:23] Update dependency lockfiles and requirements
+- [2013-02-07T20:22:30] Add error handling for yt-dlp rate limits
