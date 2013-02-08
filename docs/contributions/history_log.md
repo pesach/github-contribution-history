@@ -303,3 +303,4 @@
 - [2013-02-07T20:22:30] Add error handling for yt-dlp rate limits
 - [2013-02-07T22:38:34] Improve ffmpeg streaming pipe buffer management
 - [2013-02-07T11:40:31] Add retries for transient network drops
+- [2013-02-08T12:37:33] Add Redis rate limit backoff handlers
