@@ -301,3 +301,4 @@
 - [2013-02-07T16:43:11] Optimize PostgreSQL query execution plans
 - [2013-02-07T20:51:23] Update dependency lockfiles and requirements
 - [2013-02-07T20:22:30] Add error handling for yt-dlp rate limits
+- [2013-02-07T22:38:34] Improve ffmpeg streaming pipe buffer management
