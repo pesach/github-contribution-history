@@ -306,3 +306,4 @@
 - [2013-02-08T12:37:33] Add Redis rate limit backoff handlers
 - [2013-02-08T12:53:50] Update dependency lockfiles and requirements
 - [2013-02-08T13:39:18] Update automated pytest test suites
+- [2013-02-08T09:40:26] Improve logging and health endpoint metrics
