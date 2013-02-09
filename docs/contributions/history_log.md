@@ -307,3 +307,4 @@
 - [2013-02-08T12:53:50] Update dependency lockfiles and requirements
 - [2013-02-08T13:39:18] Update automated pytest test suites
 - [2013-02-08T09:40:26] Improve logging and health endpoint metrics
+- [2013-02-08T21:01:06] Add Prometheus exporter endpoints for queue length
