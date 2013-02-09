@@ -312,3 +312,4 @@
 - [2013-02-09T15:23:26] Fix edge case in channel tab crawler
 - [2013-02-09T19:09:42] Refactor storage upload retry mechanism
 - [2013-02-09T18:51:18] Refactor worker polling logic
+- [2013-02-09T18:54:24] Clean up legacy worker task routines
