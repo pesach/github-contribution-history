@@ -308,3 +308,4 @@
 - [2013-02-08T13:39:18] Update automated pytest test suites
 - [2013-02-08T09:40:26] Improve logging and health endpoint metrics
 - [2013-02-08T21:01:06] Add Prometheus exporter endpoints for queue length
+- [2013-02-08T22:33:57] Enhance dashboard statistics rendering
