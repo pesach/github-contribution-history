@@ -310,3 +310,4 @@
 - [2013-02-08T21:01:06] Add Prometheus exporter endpoints for queue length
 - [2013-02-08T22:33:57] Enhance dashboard statistics rendering
 - [2013-02-09T15:23:26] Fix edge case in channel tab crawler
+- [2013-02-09T19:09:42] Refactor storage upload retry mechanism
