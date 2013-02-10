@@ -314,3 +314,4 @@
 - [2013-02-09T18:51:18] Refactor worker polling logic
 - [2013-02-09T18:54:24] Clean up legacy worker task routines
 - [2013-02-10T17:20:02] Update automated pytest test suites
+- [2013-02-10T11:38:13] Optimize PostgreSQL query execution plans
