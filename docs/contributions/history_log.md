@@ -317,3 +317,4 @@
 - [2013-02-10T11:38:13] Optimize PostgreSQL query execution plans
 - [2013-02-10T19:47:25] Enhance dashboard statistics rendering
 - [2013-02-10T14:29:17] Enhance dashboard statistics rendering
+- [2013-02-10T12:33:14] Improve ffmpeg streaming pipe buffer management
