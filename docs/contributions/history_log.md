@@ -320,3 +320,4 @@
 - [2013-02-10T12:33:14] Improve ffmpeg streaming pipe buffer management
 - [2013-02-11T17:02:04] Implement streaming upload chunk buffer optimization
 - [2013-02-11T18:17:51] Clean up legacy worker task routines
+- [2013-02-11T16:37:45] Update B2 storage chunking parameters
