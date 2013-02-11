@@ -321,3 +321,4 @@
 - [2013-02-11T17:02:04] Implement streaming upload chunk buffer optimization
 - [2013-02-11T18:17:51] Clean up legacy worker task routines
 - [2013-02-11T16:37:45] Update B2 storage chunking parameters
+- [2013-02-11T08:26:25] Add error handling for yt-dlp rate limits
