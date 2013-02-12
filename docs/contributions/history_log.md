@@ -325,3 +325,4 @@
 - [2013-02-11T22:41:25] Implement streaming upload chunk buffer optimization
 - [2013-02-11T18:42:30] Add error handling for yt-dlp rate limits
 - [2013-02-11T10:30:54] Update automated pytest test suites
+- [2013-02-12T17:33:43] Add Prometheus exporter endpoints for queue length
