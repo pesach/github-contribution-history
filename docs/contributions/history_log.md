@@ -328,3 +328,4 @@
 - [2013-02-12T17:33:43] Add Prometheus exporter endpoints for queue length
 - [2013-02-12T14:04:46] Add Prometheus exporter endpoints for queue length
 - [2013-02-12T15:48:12] Add error handling for yt-dlp rate limits
+- [2013-02-12T11:16:01] Refactor cookie refresher probe logic
