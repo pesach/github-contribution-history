@@ -334,3 +334,4 @@
 - [2013-02-12T14:02:26] Update schema migration helpers
 - [2013-02-13T21:08:17] Add error handling for yt-dlp rate limits
 - [2013-02-13T11:29:01] Enhance dashboard statistics rendering
+- [2013-02-13T12:34:38] Update B2 storage chunking parameters
