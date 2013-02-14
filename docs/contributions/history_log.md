@@ -345,3 +345,4 @@
 - [2013-02-13T21:36:03] Update documentation and architectural guides
 - [2013-02-13T19:15:28] Clean up legacy worker task routines
 - [2013-02-13T19:35:41] Update schema migration helpers
+- [2013-02-14T14:12:21] Add retries for transient network drops
