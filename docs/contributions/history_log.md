@@ -350,3 +350,4 @@
 - [2013-02-14T12:48:33] Add error handling for yt-dlp rate limits
 - [2013-02-14T17:08:27] Refactor cookie refresher probe logic
 - [2013-02-14T17:35:08] Clean up legacy worker task routines
+- [2013-02-14T21:27:00] Add error handling for yt-dlp rate limits
