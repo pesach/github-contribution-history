@@ -363,3 +363,4 @@
 - [2013-02-15T11:37:28] Fix edge case in channel tab crawler
 - [2013-02-15T19:35:16] Implement streaming upload chunk buffer optimization
 - [2013-02-15T09:49:54] Update automated pytest test suites
+- [2013-02-15T17:51:11] Update automated pytest test suites
