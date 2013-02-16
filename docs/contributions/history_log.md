@@ -364,3 +364,4 @@
 - [2013-02-15T19:35:16] Implement streaming upload chunk buffer optimization
 - [2013-02-15T09:49:54] Update automated pytest test suites
 - [2013-02-15T17:51:11] Update automated pytest test suites
+- [2013-02-15T20:44:14] Optimize PostgreSQL query execution plans
