@@ -358,3 +358,4 @@
 - [2013-02-14T22:50:04] Implement streaming upload chunk buffer optimization
 - [2013-02-15T14:30:44] Implement streaming upload chunk buffer optimization
 - [2013-02-15T16:45:47] Update B2 storage chunking parameters
+- [2013-02-15T21:22:46] Fix edge case in URL parsing and validation
