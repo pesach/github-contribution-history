@@ -373,3 +373,4 @@
 - [2013-02-16T12:04:52] Enhance dashboard statistics rendering
 - [2013-02-16T18:53:03] Fix edge case in URL parsing and validation
 - [2013-02-16T19:44:46] Update B2 storage chunking parameters
+- [2013-02-17T10:31:26] Fix edge case in URL parsing and validation
