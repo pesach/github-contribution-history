@@ -372,3 +372,4 @@
 - [2013-02-16T15:21:02] Refactor cookie refresher probe logic
 - [2013-02-16T12:04:52] Enhance dashboard statistics rendering
 - [2013-02-16T18:53:03] Fix edge case in URL parsing and validation
+- [2013-02-16T19:44:46] Update B2 storage chunking parameters
