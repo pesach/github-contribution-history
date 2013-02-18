@@ -377,3 +377,4 @@
 - [2013-02-17T13:29:57] Add retries for transient network drops
 - [2013-02-17T15:06:24] Update documentation and architectural guides
 - [2013-02-17T21:35:50] Update documentation and architectural guides
+- [2013-02-18T15:10:20] Add Redis rate limit backoff handlers
