@@ -379,3 +379,4 @@
 - [2013-02-17T21:35:50] Update documentation and architectural guides
 - [2013-02-18T15:10:20] Add Redis rate limit backoff handlers
 - [2013-02-18T22:20:28] Implement streaming upload chunk buffer optimization
+- [2013-02-18T15:09:11] Refactor worker polling logic
