@@ -376,3 +376,4 @@
 - [2013-02-17T10:31:26] Fix edge case in URL parsing and validation
 - [2013-02-17T13:29:57] Add retries for transient network drops
 - [2013-02-17T15:06:24] Update documentation and architectural guides
+- [2013-02-17T21:35:50] Update documentation and architectural guides
