@@ -385,3 +385,4 @@
 - [2013-02-18T22:52:43] Optimize PostgreSQL query execution plans
 - [2013-02-18T20:32:35] Add Prometheus exporter endpoints for queue length
 - [2013-02-18T12:44:49] Add Prometheus exporter endpoints for queue length
+- [2013-02-18T19:40:28] Add error handling for yt-dlp rate limits
