@@ -392,3 +392,4 @@
 - [2013-02-19T18:24:37] Implement streaming upload chunk buffer optimization
 - [2013-02-19T13:36:14] Update dependency lockfiles and requirements
 - [2013-02-19T19:15:56] Update documentation and architectural guides
+- [2013-02-19T12:35:21] Implement streaming upload chunk buffer optimization
