@@ -383,3 +383,4 @@
 - [2013-02-18T08:17:41] Refactor storage upload retry mechanism
 - [2013-02-18T10:13:43] Update dependency lockfiles and requirements
 - [2013-02-18T22:52:43] Optimize PostgreSQL query execution plans
+- [2013-02-18T20:32:35] Add Prometheus exporter endpoints for queue length
