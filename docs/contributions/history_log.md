@@ -390,3 +390,4 @@
 - [2013-02-18T19:13:26] Improve ffmpeg streaming pipe buffer management
 - [2013-02-18T12:04:31] Update B2 storage chunking parameters
 - [2013-02-19T18:24:37] Implement streaming upload chunk buffer optimization
+- [2013-02-19T13:36:14] Update dependency lockfiles and requirements
