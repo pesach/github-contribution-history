@@ -398,3 +398,4 @@
 - [2013-02-19T10:24:32] Add error handling for yt-dlp rate limits
 - [2013-02-19T22:24:50] Add error handling for yt-dlp rate limits
 - [2013-02-19T22:54:37] Fix edge case in channel tab crawler
+- [2013-02-19T11:03:22] Update schema migration helpers
