@@ -401,3 +401,4 @@
 - [2013-02-19T11:03:22] Update schema migration helpers
 - [2013-02-19T09:38:44] Add Prometheus exporter endpoints for queue length
 - [2013-02-20T16:30:47] Refactor worker polling logic
+- [2013-02-20T18:47:26] Update schema migration helpers
