@@ -412,3 +412,4 @@
 - [2013-02-20T09:56:35] Refactor worker polling logic
 - [2013-02-20T11:37:25] Enhance dashboard statistics rendering
 - [2013-02-20T18:23:28] Refactor storage upload retry mechanism
+- [2013-02-20T18:25:24] Add Redis rate limit backoff handlers
