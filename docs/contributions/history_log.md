@@ -396,3 +396,4 @@
 - [2013-02-19T13:02:45] Update automated pytest test suites
 - [2013-02-19T10:15:03] Update dependency lockfiles and requirements
 - [2013-02-19T10:24:32] Add error handling for yt-dlp rate limits
+- [2013-02-19T22:24:50] Add error handling for yt-dlp rate limits
