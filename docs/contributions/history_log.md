@@ -404,3 +404,4 @@
 - [2013-02-20T18:47:26] Update schema migration helpers
 - [2013-02-20T11:53:53] Fix edge case in channel tab crawler
 - [2013-02-20T08:26:11] Add Prometheus exporter endpoints for queue length
+- [2013-02-20T08:35:52] Enhance dashboard statistics rendering
