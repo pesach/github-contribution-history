@@ -397,3 +397,4 @@
 - [2013-02-19T10:15:03] Update dependency lockfiles and requirements
 - [2013-02-19T10:24:32] Add error handling for yt-dlp rate limits
 - [2013-02-19T22:24:50] Add error handling for yt-dlp rate limits
+- [2013-02-19T22:54:37] Fix edge case in channel tab crawler
