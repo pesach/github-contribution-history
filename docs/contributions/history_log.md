@@ -407,3 +407,4 @@
 - [2013-02-20T08:35:52] Enhance dashboard statistics rendering
 - [2013-02-20T19:12:53] Add Redis rate limit backoff handlers
 - [2013-02-20T22:35:00] Fix edge case in URL parsing and validation
+- [2013-02-20T08:37:46] Fix edge case in URL parsing and validation
