@@ -408,3 +408,4 @@
 - [2013-02-20T19:12:53] Add Redis rate limit backoff handlers
 - [2013-02-20T22:35:00] Fix edge case in URL parsing and validation
 - [2013-02-20T08:37:46] Fix edge case in URL parsing and validation
+- [2013-02-20T22:28:11] Fix edge case in channel tab crawler
