@@ -422,3 +422,4 @@
 - [2013-02-22T13:27:57] Clean up legacy worker task routines
 - [2013-02-22T10:06:18] Update B2 storage chunking parameters
 - [2013-02-22T20:47:14] Improve logging and health endpoint metrics
+- [2013-02-22T15:31:55] Fix edge case in URL parsing and validation
