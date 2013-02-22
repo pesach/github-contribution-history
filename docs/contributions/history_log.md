@@ -419,3 +419,4 @@
 - [2013-02-21T20:48:59] Implement streaming upload chunk buffer optimization
 - [2013-02-21T21:41:00] Enhance dashboard statistics rendering
 - [2013-02-21T08:23:13] Refactor storage upload retry mechanism
+- [2013-02-22T13:27:57] Clean up legacy worker task routines
