@@ -416,3 +416,4 @@
 - [2013-02-21T21:50:43] Update schema migration helpers
 - [2013-02-21T20:13:27] Update dependency lockfiles and requirements
 - [2013-02-21T14:44:29] Add Redis rate limit backoff handlers
+- [2013-02-21T20:48:59] Implement streaming upload chunk buffer optimization
