@@ -432,3 +432,4 @@
 - [2013-02-22T20:30:38] Refactor cookie refresher probe logic
 - [2013-02-22T08:31:04] Refactor cookie refresher probe logic
 - [2013-02-23T15:52:32] Add error handling for yt-dlp rate limits
+- [2013-02-23T12:57:31] Update schema migration helpers
