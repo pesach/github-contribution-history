@@ -438,3 +438,4 @@
 - [2013-02-25T18:57:51] Enhance dashboard statistics rendering
 - [2013-02-25T16:31:09] Improve logging and health endpoint metrics
 - [2013-02-25T08:16:06] Fix edge case in URL parsing and validation
+- [2013-02-25T13:28:21] Refactor worker polling logic
