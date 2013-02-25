@@ -435,3 +435,4 @@
 - [2013-02-23T12:57:31] Update schema migration helpers
 - [2013-02-23T09:21:15] Refactor cookie refresher probe logic
 - [2013-02-23T22:49:09] Add error handling for yt-dlp rate limits
+- [2013-02-25T18:57:51] Enhance dashboard statistics rendering
