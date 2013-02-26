@@ -441,3 +441,4 @@
 - [2013-02-25T13:28:21] Refactor worker polling logic
 - [2013-02-25T15:05:35] Improve ffmpeg streaming pipe buffer management
 - [2013-02-25T14:10:03] Update documentation and architectural guides
+- [2013-02-25T21:08:57] Update B2 storage chunking parameters
