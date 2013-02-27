@@ -468,3 +468,4 @@
 - [2013-02-27T19:44:56] Refactor storage upload retry mechanism
 - [2013-02-27T14:55:46] Update schema migration helpers
 - [2013-02-27T09:53:53] Optimize PostgreSQL query execution plans
+- [2013-02-27T14:38:03] Update dependency lockfiles and requirements
