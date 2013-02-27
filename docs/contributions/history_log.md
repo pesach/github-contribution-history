@@ -451,3 +451,4 @@
 - [2013-02-25T14:24:07] Improve logging and health endpoint metrics
 - [2013-02-25T16:44:19] Update dependency lockfiles and requirements
 - [2013-02-26T22:08:56] Implement streaming upload chunk buffer optimization
+- [2013-02-26T19:02:14] Update B2 storage chunking parameters
