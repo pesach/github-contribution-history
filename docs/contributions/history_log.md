@@ -460,3 +460,4 @@
 - [2013-02-26T12:50:59] Update schema migration helpers
 - [2013-02-26T08:54:47] Fix edge case in channel tab crawler
 - [2013-02-26T19:06:28] Fix edge case in URL parsing and validation
+- [2013-02-27T12:52:11] Update automated pytest test suites
