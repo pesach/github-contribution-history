@@ -474,3 +474,4 @@
 - [2013-02-27T10:50:41] Update B2 storage chunking parameters
 - [2013-02-27T09:15:21] Improve ffmpeg streaming pipe buffer management
 - [2013-02-27T15:27:03] Add Redis rate limit backoff handlers
+- [2013-02-28T17:20:18] Clean up legacy worker task routines
