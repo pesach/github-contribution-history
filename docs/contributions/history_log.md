@@ -465,3 +465,4 @@
 - [2013-02-27T12:43:36] Update B2 storage chunking parameters
 - [2013-02-27T13:34:28] Fix edge case in channel tab crawler
 - [2013-02-27T18:15:08] Add Prometheus exporter endpoints for queue length
+- [2013-02-27T19:44:56] Refactor storage upload retry mechanism
