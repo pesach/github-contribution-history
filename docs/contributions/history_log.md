@@ -480,3 +480,4 @@
 - [2013-02-28T15:45:30] Update automated pytest test suites
 - [2013-02-28T13:33:50] Improve logging and health endpoint metrics
 - [2013-02-28T19:41:12] Improve ffmpeg streaming pipe buffer management
+- [2013-02-28T09:05:31] Improve ffmpeg streaming pipe buffer management
