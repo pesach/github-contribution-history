@@ -482,3 +482,4 @@
 - [2013-02-28T19:41:12] Improve ffmpeg streaming pipe buffer management
 - [2013-02-28T09:05:31] Improve ffmpeg streaming pipe buffer management
 - [2013-02-28T10:20:34] Update schema migration helpers
+- [2013-02-28T09:12:43] Fix edge case in URL parsing and validation
