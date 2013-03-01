@@ -493,3 +493,4 @@
 - [2013-03-01T20:52:44] Update documentation and architectural guides
 - [2013-03-01T21:00:22] Update B2 storage chunking parameters
 - [2013-03-01T09:58:38] Improve logging and health endpoint metrics
+- [2013-03-01T12:32:46] Add Prometheus exporter endpoints for queue length
