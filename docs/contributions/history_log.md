@@ -485,3 +485,4 @@
 - [2013-02-28T09:12:43] Fix edge case in URL parsing and validation
 - [2013-03-01T22:56:09] Update dependency lockfiles and requirements
 - [2013-03-01T14:52:42] Optimize PostgreSQL query execution plans
+- [2013-03-01T11:31:56] Improve ffmpeg streaming pipe buffer management
