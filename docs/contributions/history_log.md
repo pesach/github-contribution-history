@@ -479,3 +479,4 @@
 - [2013-02-28T22:36:26] Update B2 storage chunking parameters
 - [2013-02-28T15:45:30] Update automated pytest test suites
 - [2013-02-28T13:33:50] Improve logging and health endpoint metrics
+- [2013-02-28T19:41:12] Improve ffmpeg streaming pipe buffer management
