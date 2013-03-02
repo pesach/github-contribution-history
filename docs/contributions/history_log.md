@@ -486,3 +486,4 @@
 - [2013-03-01T22:56:09] Update dependency lockfiles and requirements
 - [2013-03-01T14:52:42] Optimize PostgreSQL query execution plans
 - [2013-03-01T11:31:56] Improve ffmpeg streaming pipe buffer management
+- [2013-03-01T20:03:21] Clean up legacy worker task routines
