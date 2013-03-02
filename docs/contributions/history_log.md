@@ -490,3 +490,4 @@
 - [2013-03-01T09:09:21] Fix edge case in channel tab crawler
 - [2013-03-01T19:38:18] Update automated pytest test suites
 - [2013-03-01T09:52:52] Improve ffmpeg streaming pipe buffer management
+- [2013-03-01T20:52:44] Update documentation and architectural guides
