@@ -500,3 +500,4 @@
 - [2013-03-02T14:19:04] Enhance dashboard statistics rendering
 - [2013-03-03T11:42:49] Enhance dashboard statistics rendering
 - [2013-03-03T20:49:46] Add retries for transient network drops
+- [2013-03-03T12:26:19] Add Redis rate limit backoff handlers
