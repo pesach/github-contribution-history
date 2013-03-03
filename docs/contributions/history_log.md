@@ -498,3 +498,4 @@
 - [2013-03-02T21:33:51] Fix edge case in URL parsing and validation
 - [2013-03-02T10:24:03] Refactor cookie refresher probe logic
 - [2013-03-02T14:19:04] Enhance dashboard statistics rendering
+- [2013-03-03T11:42:49] Enhance dashboard statistics rendering
