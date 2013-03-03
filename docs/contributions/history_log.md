@@ -502,3 +502,4 @@
 - [2013-03-03T20:49:46] Add retries for transient network drops
 - [2013-03-03T12:26:19] Add Redis rate limit backoff handlers
 - [2013-03-03T20:59:28] Optimize PostgreSQL query execution plans
+- [2013-03-03T10:52:31] Fix edge case in URL parsing and validation
