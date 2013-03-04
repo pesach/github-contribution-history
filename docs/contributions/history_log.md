@@ -505,3 +505,4 @@
 - [2013-03-03T10:52:31] Fix edge case in URL parsing and validation
 - [2013-03-04T15:43:27] Fix edge case in URL parsing and validation
 - [2013-03-04T09:52:06] Clean up legacy worker task routines
+- [2013-03-04T11:07:38] Optimize PostgreSQL query execution plans
