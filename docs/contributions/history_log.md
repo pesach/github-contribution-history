@@ -503,3 +503,4 @@
 - [2013-03-03T12:26:19] Add Redis rate limit backoff handlers
 - [2013-03-03T20:59:28] Optimize PostgreSQL query execution plans
 - [2013-03-03T10:52:31] Fix edge case in URL parsing and validation
+- [2013-03-04T15:43:27] Fix edge case in URL parsing and validation
