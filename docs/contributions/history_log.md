@@ -512,3 +512,4 @@
 - [2013-03-04T22:37:24] Update dependency lockfiles and requirements
 - [2013-03-04T16:23:31] Improve ffmpeg streaming pipe buffer management
 - [2013-03-04T08:31:23] Update schema migration helpers
+- [2013-03-04T12:07:00] Improve logging and health endpoint metrics
