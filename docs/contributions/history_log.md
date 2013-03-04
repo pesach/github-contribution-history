@@ -510,3 +510,4 @@
 - [2013-03-04T19:46:28] Fix edge case in channel tab crawler
 - [2013-03-04T14:27:43] Refactor storage upload retry mechanism
 - [2013-03-04T22:37:24] Update dependency lockfiles and requirements
+- [2013-03-04T16:23:31] Improve ffmpeg streaming pipe buffer management
