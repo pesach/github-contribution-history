@@ -506,3 +506,4 @@
 - [2013-03-04T15:43:27] Fix edge case in URL parsing and validation
 - [2013-03-04T09:52:06] Clean up legacy worker task routines
 - [2013-03-04T11:07:38] Optimize PostgreSQL query execution plans
+- [2013-03-04T12:00:38] Implement streaming upload chunk buffer optimization
