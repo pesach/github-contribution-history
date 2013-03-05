@@ -507,3 +507,4 @@
 - [2013-03-04T09:52:06] Clean up legacy worker task routines
 - [2013-03-04T11:07:38] Optimize PostgreSQL query execution plans
 - [2013-03-04T12:00:38] Implement streaming upload chunk buffer optimization
+- [2013-03-04T19:46:28] Fix edge case in channel tab crawler
