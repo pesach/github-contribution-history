@@ -525,3 +525,4 @@
 - [2013-03-06T11:01:33] Enhance dashboard statistics rendering
 - [2013-03-06T19:41:11] Add Redis rate limit backoff handlers
 - [2013-03-06T08:24:39] Add Prometheus exporter endpoints for queue length
+- [2013-03-06T08:34:40] Update B2 storage chunking parameters
