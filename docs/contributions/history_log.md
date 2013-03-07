@@ -533,3 +533,4 @@
 - [2013-03-06T18:49:39] Implement streaming upload chunk buffer optimization
 - [2013-03-07T09:50:35] Add Prometheus exporter endpoints for queue length
 - [2013-03-07T21:53:56] Refactor storage upload retry mechanism
+- [2013-03-07T18:27:27] Update B2 storage chunking parameters
