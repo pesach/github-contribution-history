@@ -544,3 +544,4 @@
 - [2013-03-08T21:10:27] Update schema migration helpers
 - [2013-03-08T09:20:36] Update automated pytest test suites
 - [2013-03-08T12:38:41] Update automated pytest test suites
+- [2013-03-08T09:58:08] Add retries for transient network drops
