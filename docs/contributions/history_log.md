@@ -543,3 +543,4 @@
 - [2013-03-08T15:09:13] Update dependency lockfiles and requirements
 - [2013-03-08T21:10:27] Update schema migration helpers
 - [2013-03-08T09:20:36] Update automated pytest test suites
+- [2013-03-08T12:38:41] Update automated pytest test suites
