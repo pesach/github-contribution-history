@@ -535,3 +535,4 @@
 - [2013-03-07T21:53:56] Refactor storage upload retry mechanism
 - [2013-03-07T18:27:27] Update B2 storage chunking parameters
 - [2013-03-07T11:56:37] Enhance dashboard statistics rendering
+- [2013-03-07T19:40:57] Fix edge case in channel tab crawler
