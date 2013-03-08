@@ -538,3 +538,4 @@
 - [2013-03-07T19:40:57] Fix edge case in channel tab crawler
 - [2013-03-07T19:14:22] Fix edge case in URL parsing and validation
 - [2013-03-07T19:13:07] Refactor storage upload retry mechanism
+- [2013-03-07T22:51:37] Update schema migration helpers
