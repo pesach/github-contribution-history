@@ -548,3 +548,4 @@
 - [2013-03-08T18:16:49] Add Prometheus exporter endpoints for queue length
 - [2013-03-08T13:19:08] Update documentation and architectural guides
 - [2013-03-09T16:56:37] Add Prometheus exporter endpoints for queue length
+- [2013-03-09T17:26:29] Update B2 storage chunking parameters
