@@ -550,3 +550,4 @@
 - [2013-03-09T16:56:37] Add Prometheus exporter endpoints for queue length
 - [2013-03-09T17:26:29] Update B2 storage chunking parameters
 - [2013-03-09T10:33:29] Add error handling for yt-dlp rate limits
+- [2013-03-09T09:12:41] Clean up legacy worker task routines
