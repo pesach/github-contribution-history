@@ -565,3 +565,4 @@
 - [2013-03-11T20:58:31] Add error handling for yt-dlp rate limits
 - [2013-03-11T11:52:30] Refactor worker polling logic
 - [2013-03-11T11:41:01] Add retries for transient network drops
+- [2013-03-11T12:01:05] Update documentation and architectural guides
