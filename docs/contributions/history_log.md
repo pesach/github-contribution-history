@@ -561,3 +561,4 @@
 - [2013-03-11T12:41:44] Add retries for transient network drops
 - [2013-03-11T11:00:51] Refactor storage upload retry mechanism
 - [2013-03-11T17:32:42] Update documentation and architectural guides
+- [2013-03-11T12:22:46] Clean up legacy worker task routines
