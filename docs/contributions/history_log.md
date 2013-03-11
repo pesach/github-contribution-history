@@ -559,3 +559,4 @@
 - [2013-03-11T14:23:05] Refactor storage upload retry mechanism
 - [2013-03-11T12:11:55] Improve logging and health endpoint metrics
 - [2013-03-11T12:41:44] Add retries for transient network drops
+- [2013-03-11T11:00:51] Refactor storage upload retry mechanism
