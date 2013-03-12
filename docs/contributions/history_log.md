@@ -578,3 +578,4 @@
 - [2013-03-12T16:38:29] Add error handling for yt-dlp rate limits
 - [2013-03-12T13:20:03] Refactor cookie refresher probe logic
 - [2013-03-12T22:30:30] Optimize PostgreSQL query execution plans
+- [2013-03-12T14:02:07] Update schema migration helpers
