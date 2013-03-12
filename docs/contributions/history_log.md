@@ -568,3 +568,4 @@
 - [2013-03-11T12:01:05] Update documentation and architectural guides
 - [2013-03-12T08:51:11] Refactor cookie refresher probe logic
 - [2013-03-12T21:44:06] Optimize PostgreSQL query execution plans
+- [2013-03-12T16:25:31] Fix edge case in URL parsing and validation
