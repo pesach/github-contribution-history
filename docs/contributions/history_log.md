@@ -566,3 +566,4 @@
 - [2013-03-11T11:52:30] Refactor worker polling logic
 - [2013-03-11T11:41:01] Add retries for transient network drops
 - [2013-03-11T12:01:05] Update documentation and architectural guides
+- [2013-03-12T08:51:11] Refactor cookie refresher probe logic
