@@ -569,3 +569,4 @@
 - [2013-03-12T08:51:11] Refactor cookie refresher probe logic
 - [2013-03-12T21:44:06] Optimize PostgreSQL query execution plans
 - [2013-03-12T16:25:31] Fix edge case in URL parsing and validation
+- [2013-03-12T11:24:35] Clean up legacy worker task routines
