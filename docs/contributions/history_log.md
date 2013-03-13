@@ -572,3 +572,4 @@
 - [2013-03-12T11:24:35] Clean up legacy worker task routines
 - [2013-03-12T13:24:52] Add retries for transient network drops
 - [2013-03-12T14:40:52] Add Redis rate limit backoff handlers
+- [2013-03-12T22:12:39] Fix edge case in channel tab crawler
