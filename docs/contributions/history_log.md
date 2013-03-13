@@ -583,3 +583,4 @@
 - [2013-03-13T12:36:07] Improve ffmpeg streaming pipe buffer management
 - [2013-03-13T09:59:00] Improve logging and health endpoint metrics
 - [2013-03-13T14:19:43] Refactor worker polling logic
+- [2013-03-13T13:28:48] Enhance dashboard statistics rendering
