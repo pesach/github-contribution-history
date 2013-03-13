@@ -581,3 +581,4 @@
 - [2013-03-12T14:02:07] Update schema migration helpers
 - [2013-03-13T21:56:22] Add retries for transient network drops
 - [2013-03-13T12:36:07] Improve ffmpeg streaming pipe buffer management
+- [2013-03-13T09:59:00] Improve logging and health endpoint metrics
