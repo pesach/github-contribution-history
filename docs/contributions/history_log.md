@@ -582,3 +582,4 @@
 - [2013-03-13T21:56:22] Add retries for transient network drops
 - [2013-03-13T12:36:07] Improve ffmpeg streaming pipe buffer management
 - [2013-03-13T09:59:00] Improve logging and health endpoint metrics
+- [2013-03-13T14:19:43] Refactor worker polling logic
