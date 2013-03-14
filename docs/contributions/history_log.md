@@ -587,3 +587,4 @@
 - [2013-03-13T13:31:38] Improve logging and health endpoint metrics
 - [2013-03-13T16:41:24] Refactor worker polling logic
 - [2013-03-13T11:06:49] Update schema migration helpers
+- [2013-03-14T16:53:20] Clean up legacy worker task routines
