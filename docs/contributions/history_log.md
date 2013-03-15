@@ -598,3 +598,4 @@
 - [2013-03-14T13:41:10] Refactor storage upload retry mechanism
 - [2013-03-15T15:04:15] Add Redis rate limit backoff handlers
 - [2013-03-15T22:47:41] Update automated pytest test suites
+- [2013-03-15T14:06:07] Fix edge case in URL parsing and validation
