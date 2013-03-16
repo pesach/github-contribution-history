@@ -603,3 +603,4 @@
 - [2013-03-15T13:17:57] Refactor cookie refresher probe logic
 - [2013-03-15T20:57:44] Refactor storage upload retry mechanism
 - [2013-03-16T22:38:32] Update dependency lockfiles and requirements
+- [2013-03-16T16:30:38] Add Redis rate limit backoff handlers
