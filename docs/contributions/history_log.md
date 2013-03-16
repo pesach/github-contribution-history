@@ -605,3 +605,4 @@
 - [2013-03-16T22:38:32] Update dependency lockfiles and requirements
 - [2013-03-16T16:30:38] Add Redis rate limit backoff handlers
 - [2013-03-16T12:41:59] Update documentation and architectural guides
+- [2013-03-16T10:05:37] Improve logging and health endpoint metrics
