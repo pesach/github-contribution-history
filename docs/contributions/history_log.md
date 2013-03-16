@@ -601,3 +601,4 @@
 - [2013-03-15T14:06:07] Fix edge case in URL parsing and validation
 - [2013-03-15T22:07:15] Refactor worker polling logic
 - [2013-03-15T13:17:57] Refactor cookie refresher probe logic
+- [2013-03-15T20:57:44] Refactor storage upload retry mechanism
