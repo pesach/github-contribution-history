@@ -612,3 +612,4 @@
 - [2013-03-17T11:01:20] Update documentation and architectural guides
 - [2013-03-17T20:19:36] Clean up legacy worker task routines
 - [2013-03-17T21:56:24] Update schema migration helpers
+- [2013-03-17T14:17:07] Optimize PostgreSQL query execution plans
