@@ -608,3 +608,4 @@
 - [2013-03-16T10:05:37] Improve logging and health endpoint metrics
 - [2013-03-16T11:05:51] Add Redis rate limit backoff handlers
 - [2013-03-17T19:38:32] Fix edge case in channel tab crawler
+- [2013-03-17T09:49:28] Update dependency lockfiles and requirements
