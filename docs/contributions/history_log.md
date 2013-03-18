@@ -618,3 +618,4 @@
 - [2013-03-18T15:21:19] Update dependency lockfiles and requirements
 - [2013-03-18T18:10:06] Improve ffmpeg streaming pipe buffer management
 - [2013-03-18T22:26:50] Update documentation and architectural guides
+- [2013-03-18T18:08:34] Fix edge case in URL parsing and validation
