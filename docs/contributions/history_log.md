@@ -613,3 +613,4 @@
 - [2013-03-17T20:19:36] Clean up legacy worker task routines
 - [2013-03-17T21:56:24] Update schema migration helpers
 - [2013-03-17T14:17:07] Optimize PostgreSQL query execution plans
+- [2013-03-18T13:14:55] Enhance dashboard statistics rendering
