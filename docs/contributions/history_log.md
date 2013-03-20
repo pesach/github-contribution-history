@@ -633,3 +633,4 @@
 - [2013-03-20T19:52:36] Refactor storage upload retry mechanism
 - [2013-03-20T12:00:38] Add Redis rate limit backoff handlers
 - [2013-03-20T10:27:14] Update dependency lockfiles and requirements
+- [2013-03-20T15:49:30] Update B2 storage chunking parameters
