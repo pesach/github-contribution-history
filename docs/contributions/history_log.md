@@ -631,3 +631,4 @@
 - [2013-03-20T09:34:23] Update dependency lockfiles and requirements
 - [2013-03-20T18:56:59] Optimize PostgreSQL query execution plans
 - [2013-03-20T19:52:36] Refactor storage upload retry mechanism
+- [2013-03-20T12:00:38] Add Redis rate limit backoff handlers
