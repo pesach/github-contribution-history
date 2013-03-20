@@ -621,3 +621,4 @@
 - [2013-03-18T18:08:34] Fix edge case in URL parsing and validation
 - [2013-03-18T19:05:19] Update documentation and architectural guides
 - [2013-03-19T22:38:54] Refactor storage upload retry mechanism
+- [2013-03-19T21:29:22] Add Redis rate limit backoff handlers
