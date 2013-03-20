@@ -635,3 +635,4 @@
 - [2013-03-20T10:27:14] Update dependency lockfiles and requirements
 - [2013-03-20T15:49:30] Update B2 storage chunking parameters
 - [2013-03-20T20:08:20] Fix edge case in channel tab crawler
+- [2013-03-20T09:13:22] Update dependency lockfiles and requirements
