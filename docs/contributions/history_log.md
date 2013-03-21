@@ -644,3 +644,4 @@
 - [2013-03-21T10:14:24] Update schema migration helpers
 - [2013-03-21T20:03:33] Enhance dashboard statistics rendering
 - [2013-03-21T09:49:38] Enhance dashboard statistics rendering
+- [2013-03-21T11:59:36] Refactor storage upload retry mechanism
