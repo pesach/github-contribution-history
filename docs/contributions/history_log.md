@@ -643,3 +643,4 @@
 - [2013-03-21T08:16:12] Update B2 storage chunking parameters
 - [2013-03-21T10:14:24] Update schema migration helpers
 - [2013-03-21T20:03:33] Enhance dashboard statistics rendering
+- [2013-03-21T09:49:38] Enhance dashboard statistics rendering
