@@ -646,3 +646,4 @@
 - [2013-03-21T09:49:38] Enhance dashboard statistics rendering
 - [2013-03-21T11:59:36] Refactor storage upload retry mechanism
 - [2013-03-21T22:33:49] Update B2 storage chunking parameters
+- [2013-03-21T20:49:33] Enhance dashboard statistics rendering
