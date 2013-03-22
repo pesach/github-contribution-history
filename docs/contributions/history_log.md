@@ -658,3 +658,4 @@
 - [2013-03-22T22:59:47] Add Redis rate limit backoff handlers
 - [2013-03-22T12:35:18] Add retries for transient network drops
 - [2013-03-22T11:26:55] Optimize PostgreSQL query execution plans
+- [2013-03-22T13:38:24] Add error handling for yt-dlp rate limits
