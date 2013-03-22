@@ -653,3 +653,4 @@
 - [2013-03-22T22:56:38] Add error handling for yt-dlp rate limits
 - [2013-03-22T19:41:59] Add error handling for yt-dlp rate limits
 - [2013-03-22T18:38:59] Refactor worker polling logic
+- [2013-03-22T15:51:54] Clean up legacy worker task routines
