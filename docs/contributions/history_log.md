@@ -656,3 +656,4 @@
 - [2013-03-22T15:51:54] Clean up legacy worker task routines
 - [2013-03-22T21:06:14] Improve ffmpeg streaming pipe buffer management
 - [2013-03-22T22:59:47] Add Redis rate limit backoff handlers
+- [2013-03-22T12:35:18] Add retries for transient network drops
