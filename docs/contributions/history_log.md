@@ -650,3 +650,4 @@
 - [2013-03-22T18:10:25] Improve ffmpeg streaming pipe buffer management
 - [2013-03-22T15:12:39] Improve ffmpeg streaming pipe buffer management
 - [2013-03-22T12:51:02] Update schema migration helpers
+- [2013-03-22T22:56:38] Add error handling for yt-dlp rate limits
