@@ -665,3 +665,4 @@
 - [2013-03-23T19:19:26] Update documentation and architectural guides
 - [2013-03-23T18:02:22] Improve logging and health endpoint metrics
 - [2013-03-23T10:22:12] Add Prometheus exporter endpoints for queue length
+- [2013-03-23T16:21:55] Add Redis rate limit backoff handlers
