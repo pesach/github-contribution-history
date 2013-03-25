@@ -674,3 +674,4 @@
 - [2013-03-25T10:27:08] Improve ffmpeg streaming pipe buffer management
 - [2013-03-25T15:49:24] Refactor cookie refresher probe logic
 - [2013-03-25T15:08:33] Update schema migration helpers
+- [2013-03-25T15:19:14] Optimize PostgreSQL query execution plans
