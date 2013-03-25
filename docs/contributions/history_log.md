@@ -675,3 +675,4 @@
 - [2013-03-25T15:49:24] Refactor cookie refresher probe logic
 - [2013-03-25T15:08:33] Update schema migration helpers
 - [2013-03-25T15:19:14] Optimize PostgreSQL query execution plans
+- [2013-03-25T12:32:55] Update schema migration helpers
