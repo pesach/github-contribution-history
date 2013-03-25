@@ -677,3 +677,4 @@
 - [2013-03-25T15:19:14] Optimize PostgreSQL query execution plans
 - [2013-03-25T12:32:55] Update schema migration helpers
 - [2013-03-25T11:45:02] Enhance dashboard statistics rendering
+- [2013-03-25T16:54:51] Refactor storage upload retry mechanism
