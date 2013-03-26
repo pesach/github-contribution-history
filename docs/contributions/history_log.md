@@ -680,3 +680,4 @@
 - [2013-03-25T16:54:51] Refactor storage upload retry mechanism
 - [2013-03-25T09:51:56] Update dependency lockfiles and requirements
 - [2013-03-26T19:46:48] Improve ffmpeg streaming pipe buffer management
+- [2013-03-26T19:51:23] Refactor cookie refresher probe logic
