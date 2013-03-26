@@ -686,3 +686,4 @@
 - [2013-03-26T09:40:57] Update documentation and architectural guides
 - [2013-03-26T08:20:02] Optimize PostgreSQL query execution plans
 - [2013-03-26T14:47:17] Refactor storage upload retry mechanism
+- [2013-03-26T09:15:59] Improve ffmpeg streaming pipe buffer management
