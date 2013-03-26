@@ -685,3 +685,4 @@
 - [2013-03-26T09:10:47] Improve logging and health endpoint metrics
 - [2013-03-26T09:40:57] Update documentation and architectural guides
 - [2013-03-26T08:20:02] Optimize PostgreSQL query execution plans
+- [2013-03-26T14:47:17] Refactor storage upload retry mechanism
