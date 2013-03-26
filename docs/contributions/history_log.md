@@ -679,3 +679,4 @@
 - [2013-03-25T11:45:02] Enhance dashboard statistics rendering
 - [2013-03-25T16:54:51] Refactor storage upload retry mechanism
 - [2013-03-25T09:51:56] Update dependency lockfiles and requirements
+- [2013-03-26T19:46:48] Improve ffmpeg streaming pipe buffer management
