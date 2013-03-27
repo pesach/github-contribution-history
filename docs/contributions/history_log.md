@@ -699,3 +699,4 @@
 - [2013-03-27T15:10:29] Update dependency lockfiles and requirements
 - [2013-03-27T13:51:51] Update B2 storage chunking parameters
 - [2013-03-27T20:59:42] Refactor storage upload retry mechanism
+- [2013-03-27T13:04:48] Add Prometheus exporter endpoints for queue length
