@@ -689,3 +689,4 @@
 - [2013-03-26T09:15:59] Improve ffmpeg streaming pipe buffer management
 - [2013-03-26T22:01:45] Update documentation and architectural guides
 - [2013-03-27T16:44:25] Add Prometheus exporter endpoints for queue length
+- [2013-03-27T18:03:07] Refactor worker polling logic
