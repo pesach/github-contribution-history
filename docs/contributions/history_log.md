@@ -700,3 +700,4 @@
 - [2013-03-27T13:51:51] Update B2 storage chunking parameters
 - [2013-03-27T20:59:42] Refactor storage upload retry mechanism
 - [2013-03-27T13:04:48] Add Prometheus exporter endpoints for queue length
+- [2013-03-27T11:21:10] Refactor storage upload retry mechanism
