@@ -723,3 +723,4 @@
 - [2013-03-29T18:17:22] Refactor storage upload retry mechanism
 - [2013-03-29T22:22:45] Refactor storage upload retry mechanism
 - [2013-03-29T10:24:40] Update automated pytest test suites
+- [2013-03-29T08:04:47] Update dependency lockfiles and requirements
