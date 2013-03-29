@@ -716,3 +716,4 @@
 - [2013-03-29T14:35:55] Add Redis rate limit backoff handlers
 - [2013-03-29T15:00:30] Add Prometheus exporter endpoints for queue length
 - [2013-03-29T12:57:46] Fix edge case in URL parsing and validation
+- [2013-03-29T13:50:43] Add error handling for yt-dlp rate limits
