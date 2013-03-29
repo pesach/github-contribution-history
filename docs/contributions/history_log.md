@@ -715,3 +715,4 @@
 - [2013-03-29T08:23:17] Clean up legacy worker task routines
 - [2013-03-29T14:35:55] Add Redis rate limit backoff handlers
 - [2013-03-29T15:00:30] Add Prometheus exporter endpoints for queue length
+- [2013-03-29T12:57:46] Fix edge case in URL parsing and validation
