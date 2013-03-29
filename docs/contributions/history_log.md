@@ -713,3 +713,4 @@
 - [2013-03-29T20:08:12] Update B2 storage chunking parameters
 - [2013-03-29T21:55:26] Add retries for transient network drops
 - [2013-03-29T08:23:17] Clean up legacy worker task routines
+- [2013-03-29T14:35:55] Add Redis rate limit backoff handlers
