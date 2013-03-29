@@ -709,3 +709,4 @@
 - [2013-03-28T12:36:50] Add error handling for yt-dlp rate limits
 - [2013-03-28T22:01:20] Add error handling for yt-dlp rate limits
 - [2013-03-28T09:13:14] Clean up legacy worker task routines
+- [2013-03-28T21:21:57] Add retries for transient network drops
