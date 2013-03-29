@@ -703,3 +703,4 @@
 - [2013-03-27T11:21:10] Refactor storage upload retry mechanism
 - [2013-03-28T11:03:49] Fix edge case in channel tab crawler
 - [2013-03-28T11:33:33] Clean up legacy worker task routines
+- [2013-03-28T20:00:54] Add Prometheus exporter endpoints for queue length
