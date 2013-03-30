@@ -727,3 +727,4 @@
 - [2013-03-30T21:11:27] Update schema migration helpers
 - [2013-03-30T21:46:00] Update automated pytest test suites
 - [2013-03-30T13:19:07] Update documentation and architectural guides
+- [2013-03-30T14:44:06] Add Redis rate limit backoff handlers
