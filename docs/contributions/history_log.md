@@ -728,3 +728,4 @@
 - [2013-03-30T21:46:00] Update automated pytest test suites
 - [2013-03-30T13:19:07] Update documentation and architectural guides
 - [2013-03-30T14:44:06] Add Redis rate limit backoff handlers
+- [2013-03-31T14:42:26] Update dependency lockfiles and requirements
