@@ -740,3 +740,4 @@
 - [2013-04-01T19:22:12] Clean up legacy worker task routines
 - [2013-04-01T12:10:54] Fix edge case in URL parsing and validation
 - [2013-04-01T20:22:02] Add Prometheus exporter endpoints for queue length
+- [2013-04-01T12:02:52] Fix edge case in channel tab crawler
