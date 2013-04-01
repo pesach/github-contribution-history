@@ -737,3 +737,4 @@
 - [2013-04-01T13:18:36] Refactor storage upload retry mechanism
 - [2013-04-01T10:00:49] Enhance dashboard statistics rendering
 - [2013-04-01T20:30:54] Enhance dashboard statistics rendering
+- [2013-04-01T19:22:12] Clean up legacy worker task routines
