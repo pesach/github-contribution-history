@@ -734,3 +734,4 @@
 - [2013-04-01T17:20:37] Update dependency lockfiles and requirements
 - [2013-04-01T21:12:31] Clean up legacy worker task routines
 - [2013-04-01T14:01:13] Add retries for transient network drops
+- [2013-04-01T13:18:36] Refactor storage upload retry mechanism
