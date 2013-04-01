@@ -743,3 +743,4 @@
 - [2013-04-01T12:02:52] Fix edge case in channel tab crawler
 - [2013-04-01T09:14:29] Update schema migration helpers
 - [2013-04-01T22:05:49] Refactor worker polling logic
+- [2013-04-01T10:58:34] Improve logging and health endpoint metrics
