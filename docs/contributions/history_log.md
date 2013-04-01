@@ -733,3 +733,4 @@
 - [2013-03-31T21:24:29] Refactor worker polling logic
 - [2013-04-01T17:20:37] Update dependency lockfiles and requirements
 - [2013-04-01T21:12:31] Clean up legacy worker task routines
+- [2013-04-01T14:01:13] Add retries for transient network drops
