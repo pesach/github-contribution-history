@@ -736,3 +736,4 @@
 - [2013-04-01T14:01:13] Add retries for transient network drops
 - [2013-04-01T13:18:36] Refactor storage upload retry mechanism
 - [2013-04-01T10:00:49] Enhance dashboard statistics rendering
+- [2013-04-01T20:30:54] Enhance dashboard statistics rendering
