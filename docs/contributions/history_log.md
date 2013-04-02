@@ -745,3 +745,4 @@
 - [2013-04-01T22:05:49] Refactor worker polling logic
 - [2013-04-01T10:58:34] Improve logging and health endpoint metrics
 - [2013-04-01T09:18:40] Implement streaming upload chunk buffer optimization
+- [2013-04-02T16:09:07] Update B2 storage chunking parameters
