@@ -751,3 +751,4 @@
 - [2013-04-02T17:15:34] Add error handling for yt-dlp rate limits
 - [2013-04-02T08:54:28] Add retries for transient network drops
 - [2013-04-02T08:10:38] Add Prometheus exporter endpoints for queue length
+- [2013-04-02T08:44:14] Fix edge case in URL parsing and validation
