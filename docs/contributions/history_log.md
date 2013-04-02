@@ -748,3 +748,4 @@
 - [2013-04-02T16:09:07] Update B2 storage chunking parameters
 - [2013-04-02T11:39:31] Update dependency lockfiles and requirements
 - [2013-04-02T19:40:15] Enhance dashboard statistics rendering
+- [2013-04-02T17:15:34] Add error handling for yt-dlp rate limits
