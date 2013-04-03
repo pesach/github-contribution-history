@@ -758,3 +758,4 @@
 - [2013-04-02T20:04:20] Add error handling for yt-dlp rate limits
 - [2013-04-02T19:59:46] Update B2 storage chunking parameters
 - [2013-04-03T19:59:37] Update dependency lockfiles and requirements
+- [2013-04-03T08:19:29] Add error handling for yt-dlp rate limits
