@@ -763,3 +763,4 @@
 - [2013-04-03T20:42:36] Fix edge case in URL parsing and validation
 - [2013-04-03T11:11:08] Update documentation and architectural guides
 - [2013-04-03T11:11:39] Update automated pytest test suites
+- [2013-04-03T08:31:11] Update schema migration helpers
