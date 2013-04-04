@@ -766,3 +766,4 @@
 - [2013-04-03T08:31:11] Update schema migration helpers
 - [2013-04-03T21:56:02] Clean up legacy worker task routines
 - [2013-04-03T14:41:02] Optimize PostgreSQL query execution plans
+- [2013-04-04T12:53:30] Fix edge case in channel tab crawler
