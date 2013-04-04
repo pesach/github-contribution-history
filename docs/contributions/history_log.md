@@ -769,3 +769,4 @@
 - [2013-04-04T12:53:30] Fix edge case in channel tab crawler
 - [2013-04-04T22:35:56] Refactor worker polling logic
 - [2013-04-04T11:08:14] Fix edge case in channel tab crawler
+- [2013-04-04T10:17:21] Add Redis rate limit backoff handlers
