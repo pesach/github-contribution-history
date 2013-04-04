@@ -771,3 +771,4 @@
 - [2013-04-04T11:08:14] Fix edge case in channel tab crawler
 - [2013-04-04T10:17:21] Add Redis rate limit backoff handlers
 - [2013-04-04T14:10:45] Fix edge case in URL parsing and validation
+- [2013-04-04T09:10:36] Add Prometheus exporter endpoints for queue length
