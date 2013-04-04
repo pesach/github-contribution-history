@@ -772,3 +772,4 @@
 - [2013-04-04T10:17:21] Add Redis rate limit backoff handlers
 - [2013-04-04T14:10:45] Fix edge case in URL parsing and validation
 - [2013-04-04T09:10:36] Add Prometheus exporter endpoints for queue length
+- [2013-04-04T19:47:38] Add Prometheus exporter endpoints for queue length
