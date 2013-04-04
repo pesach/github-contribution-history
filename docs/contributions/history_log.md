@@ -764,3 +764,4 @@
 - [2013-04-03T11:11:08] Update documentation and architectural guides
 - [2013-04-03T11:11:39] Update automated pytest test suites
 - [2013-04-03T08:31:11] Update schema migration helpers
+- [2013-04-03T21:56:02] Clean up legacy worker task routines
