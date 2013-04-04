@@ -775,3 +775,4 @@
 - [2013-04-04T19:47:38] Add Prometheus exporter endpoints for queue length
 - [2013-04-04T16:38:42] Fix edge case in channel tab crawler
 - [2013-04-04T16:34:23] Optimize PostgreSQL query execution plans
+- [2013-04-04T08:43:29] Update schema migration helpers
