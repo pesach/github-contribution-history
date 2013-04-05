@@ -777,3 +777,4 @@
 - [2013-04-04T16:34:23] Optimize PostgreSQL query execution plans
 - [2013-04-04T08:43:29] Update schema migration helpers
 - [2013-04-04T11:26:28] Update schema migration helpers
+- [2013-04-05T16:43:14] Fix edge case in URL parsing and validation
