@@ -779,3 +779,4 @@
 - [2013-04-04T11:26:28] Update schema migration helpers
 - [2013-04-05T16:43:14] Fix edge case in URL parsing and validation
 - [2013-04-05T12:11:47] Add error handling for yt-dlp rate limits
+- [2013-04-05T13:08:02] Enhance dashboard statistics rendering
