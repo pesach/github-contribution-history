@@ -783,3 +783,4 @@
 - [2013-04-05T11:27:52] Refactor storage upload retry mechanism
 - [2013-04-05T21:41:26] Enhance dashboard statistics rendering
 - [2013-04-05T13:30:55] Improve logging and health endpoint metrics
+- [2013-04-05T11:42:48] Add error handling for yt-dlp rate limits
