@@ -797,3 +797,4 @@
 - [2013-04-08T17:17:55] Fix edge case in channel tab crawler
 - [2013-04-08T16:54:29] Enhance dashboard statistics rendering
 - [2013-04-08T22:38:20] Improve logging and health endpoint metrics
+- [2013-04-08T16:48:34] Add Redis rate limit backoff handlers
