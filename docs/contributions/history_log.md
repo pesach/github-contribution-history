@@ -790,3 +790,4 @@
 - [2013-04-07T08:41:45] Update automated pytest test suites
 - [2013-04-07T08:20:53] Fix edge case in URL parsing and validation
 - [2013-04-07T09:01:29] Improve logging and health endpoint metrics
+- [2013-04-07T22:37:08] Fix edge case in channel tab crawler
