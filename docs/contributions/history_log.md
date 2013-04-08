@@ -802,3 +802,4 @@
 - [2013-04-08T21:47:06] Add Redis rate limit backoff handlers
 - [2013-04-08T17:36:22] Refactor storage upload retry mechanism
 - [2013-04-08T12:56:32] Add retries for transient network drops
+- [2013-04-08T17:20:24] Update B2 storage chunking parameters
