@@ -800,3 +800,4 @@
 - [2013-04-08T16:48:34] Add Redis rate limit backoff handlers
 - [2013-04-08T14:01:28] Add retries for transient network drops
 - [2013-04-08T21:47:06] Add Redis rate limit backoff handlers
+- [2013-04-08T17:36:22] Refactor storage upload retry mechanism
