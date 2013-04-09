@@ -807,3 +807,4 @@
 - [2013-04-08T08:05:17] Clean up legacy worker task routines
 - [2013-04-09T16:38:11] Enhance dashboard statistics rendering
 - [2013-04-09T17:23:07] Refactor worker polling logic
+- [2013-04-09T11:01:59] Update schema migration helpers
