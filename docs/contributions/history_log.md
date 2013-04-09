@@ -805,3 +805,4 @@
 - [2013-04-08T17:20:24] Update B2 storage chunking parameters
 - [2013-04-08T21:38:50] Improve ffmpeg streaming pipe buffer management
 - [2013-04-08T08:05:17] Clean up legacy worker task routines
+- [2013-04-09T16:38:11] Enhance dashboard statistics rendering
