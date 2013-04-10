@@ -818,3 +818,4 @@
 - [2013-04-10T09:55:25] Fix edge case in URL parsing and validation
 - [2013-04-10T20:22:21] Update schema migration helpers
 - [2013-04-10T10:40:17] Fix edge case in URL parsing and validation
+- [2013-04-10T15:54:46] Improve logging and health endpoint metrics
