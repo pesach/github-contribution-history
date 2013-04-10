@@ -810,3 +810,4 @@
 - [2013-04-09T11:01:59] Update schema migration helpers
 - [2013-04-09T17:25:40] Update schema migration helpers
 - [2013-04-09T20:48:12] Update schema migration helpers
+- [2013-04-09T21:07:51] Add Redis rate limit backoff handlers
