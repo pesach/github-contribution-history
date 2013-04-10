@@ -821,3 +821,4 @@
 - [2013-04-10T15:54:46] Improve logging and health endpoint metrics
 - [2013-04-10T20:04:18] Improve logging and health endpoint metrics
 - [2013-04-10T20:23:33] Improve logging and health endpoint metrics
+- [2013-04-10T08:59:53] Improve ffmpeg streaming pipe buffer management
