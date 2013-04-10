@@ -809,3 +809,4 @@
 - [2013-04-09T17:23:07] Refactor worker polling logic
 - [2013-04-09T11:01:59] Update schema migration helpers
 - [2013-04-09T17:25:40] Update schema migration helpers
+- [2013-04-09T20:48:12] Update schema migration helpers
