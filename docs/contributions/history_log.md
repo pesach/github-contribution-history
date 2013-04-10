@@ -815,3 +815,4 @@
 - [2013-04-09T11:23:48] Improve logging and health endpoint metrics
 - [2013-04-09T20:16:45] Enhance dashboard statistics rendering
 - [2013-04-09T12:29:20] Update dependency lockfiles and requirements
+- [2013-04-10T09:55:25] Fix edge case in URL parsing and validation
