@@ -834,3 +834,4 @@
 - [2013-04-11T13:13:25] Clean up legacy worker task routines
 - [2013-04-11T21:51:19] Improve ffmpeg streaming pipe buffer management
 - [2013-04-11T10:32:34] Refactor worker polling logic
+- [2013-04-11T15:18:31] Add error handling for yt-dlp rate limits
