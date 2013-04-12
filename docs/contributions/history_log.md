@@ -841,3 +841,4 @@
 - [2013-04-12T22:11:36] Enhance dashboard statistics rendering
 - [2013-04-12T21:04:28] Fix edge case in channel tab crawler
 - [2013-04-12T17:56:15] Add error handling for yt-dlp rate limits
+- [2013-04-12T12:14:45] Update B2 storage chunking parameters
