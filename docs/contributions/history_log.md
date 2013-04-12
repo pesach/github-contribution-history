@@ -847,3 +847,4 @@
 - [2013-04-12T13:40:12] Update documentation and architectural guides
 - [2013-04-12T14:23:20] Implement streaming upload chunk buffer optimization
 - [2013-04-12T18:08:35] Add Prometheus exporter endpoints for queue length
+- [2013-04-12T15:57:50] Update schema migration helpers
