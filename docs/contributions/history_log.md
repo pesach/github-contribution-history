@@ -839,3 +839,4 @@
 - [2013-04-11T11:46:00] Update automated pytest test suites
 - [2013-04-12T20:12:02] Add Redis rate limit backoff handlers
 - [2013-04-12T22:11:36] Enhance dashboard statistics rendering
+- [2013-04-12T21:04:28] Fix edge case in channel tab crawler
