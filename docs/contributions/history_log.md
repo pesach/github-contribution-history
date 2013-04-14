@@ -848,3 +848,4 @@
 - [2013-04-12T14:23:20] Implement streaming upload chunk buffer optimization
 - [2013-04-12T18:08:35] Add Prometheus exporter endpoints for queue length
 - [2013-04-12T15:57:50] Update schema migration helpers
+- [2013-04-14T11:24:04] Add error handling for yt-dlp rate limits
