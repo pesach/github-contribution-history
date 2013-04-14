@@ -853,3 +853,4 @@
 - [2013-04-14T14:47:00] Refactor storage upload retry mechanism
 - [2013-04-14T19:27:49] Update automated pytest test suites
 - [2013-04-14T08:53:54] Implement streaming upload chunk buffer optimization
+- [2013-04-14T08:37:23] Update dependency lockfiles and requirements
