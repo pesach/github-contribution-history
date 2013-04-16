@@ -875,3 +875,4 @@
 - [2013-04-16T16:56:11] Add Redis rate limit backoff handlers
 - [2013-04-16T16:14:20] Fix edge case in URL parsing and validation
 - [2013-04-16T18:15:49] Improve ffmpeg streaming pipe buffer management
+- [2013-04-16T14:06:19] Add error handling for yt-dlp rate limits
