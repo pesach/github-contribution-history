@@ -859,3 +859,4 @@
 - [2013-04-15T17:09:02] Fix edge case in channel tab crawler
 - [2013-04-15T22:06:55] Improve ffmpeg streaming pipe buffer management
 - [2013-04-15T15:06:51] Update automated pytest test suites
+- [2013-04-15T21:23:09] Improve ffmpeg streaming pipe buffer management
