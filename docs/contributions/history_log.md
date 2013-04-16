@@ -857,3 +857,4 @@
 - [2013-04-15T21:51:00] Refactor cookie refresher probe logic
 - [2013-04-15T09:23:51] Fix edge case in URL parsing and validation
 - [2013-04-15T17:09:02] Fix edge case in channel tab crawler
+- [2013-04-15T22:06:55] Improve ffmpeg streaming pipe buffer management
