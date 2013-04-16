@@ -873,3 +873,4 @@
 - [2013-04-16T22:06:17] Fix edge case in channel tab crawler
 - [2013-04-16T10:47:41] Implement streaming upload chunk buffer optimization
 - [2013-04-16T16:56:11] Add Redis rate limit backoff handlers
+- [2013-04-16T16:14:20] Fix edge case in URL parsing and validation
