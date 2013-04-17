@@ -884,3 +884,4 @@
 - [2013-04-17T20:40:30] Fix edge case in URL parsing and validation
 - [2013-04-17T08:20:17] Refactor storage upload retry mechanism
 - [2013-04-17T20:54:07] Improve ffmpeg streaming pipe buffer management
+- [2013-04-17T08:54:15] Update dependency lockfiles and requirements
