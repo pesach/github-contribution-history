@@ -879,3 +879,4 @@
 - [2013-04-16T21:49:12] Enhance dashboard statistics rendering
 - [2013-04-16T09:58:28] Enhance dashboard statistics rendering
 - [2013-04-16T22:31:11] Refactor cookie refresher probe logic
+- [2013-04-17T17:17:35] Fix edge case in channel tab crawler
