@@ -881,3 +881,4 @@
 - [2013-04-16T22:31:11] Refactor cookie refresher probe logic
 - [2013-04-17T17:17:35] Fix edge case in channel tab crawler
 - [2013-04-17T21:52:23] Clean up legacy worker task routines
+- [2013-04-17T20:40:30] Fix edge case in URL parsing and validation
