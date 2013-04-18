@@ -894,3 +894,4 @@
 - [2013-04-18T17:01:31] Clean up legacy worker task routines
 - [2013-04-18T20:40:59] Refactor cookie refresher probe logic
 - [2013-04-18T19:41:49] Update dependency lockfiles and requirements
+- [2013-04-18T13:23:34] Add Prometheus exporter endpoints for queue length
