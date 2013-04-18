@@ -889,3 +889,4 @@
 - [2013-04-17T15:35:44] Add retries for transient network drops
 - [2013-04-18T08:01:23] Update documentation and architectural guides
 - [2013-04-18T17:13:03] Optimize PostgreSQL query execution plans
+- [2013-04-18T14:06:32] Fix edge case in channel tab crawler
