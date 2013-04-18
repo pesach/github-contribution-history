@@ -891,3 +891,4 @@
 - [2013-04-18T17:13:03] Optimize PostgreSQL query execution plans
 - [2013-04-18T14:06:32] Fix edge case in channel tab crawler
 - [2013-04-18T11:53:18] Fix edge case in channel tab crawler
+- [2013-04-18T17:01:31] Clean up legacy worker task routines
