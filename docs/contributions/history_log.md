@@ -887,3 +887,4 @@
 - [2013-04-17T08:54:15] Update dependency lockfiles and requirements
 - [2013-04-17T10:17:33] Add Redis rate limit backoff handlers
 - [2013-04-17T15:35:44] Add retries for transient network drops
+- [2013-04-18T08:01:23] Update documentation and architectural guides
