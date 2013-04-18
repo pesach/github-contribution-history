@@ -888,3 +888,4 @@
 - [2013-04-17T10:17:33] Add Redis rate limit backoff handlers
 - [2013-04-17T15:35:44] Add retries for transient network drops
 - [2013-04-18T08:01:23] Update documentation and architectural guides
+- [2013-04-18T17:13:03] Optimize PostgreSQL query execution plans
