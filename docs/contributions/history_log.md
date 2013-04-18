@@ -890,3 +890,4 @@
 - [2013-04-18T08:01:23] Update documentation and architectural guides
 - [2013-04-18T17:13:03] Optimize PostgreSQL query execution plans
 - [2013-04-18T14:06:32] Fix edge case in channel tab crawler
+- [2013-04-18T11:53:18] Fix edge case in channel tab crawler
