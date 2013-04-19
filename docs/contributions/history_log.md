@@ -900,3 +900,4 @@
 - [2013-04-19T18:06:30] Add Prometheus exporter endpoints for queue length
 - [2013-04-19T15:29:38] Add error handling for yt-dlp rate limits
 - [2013-04-19T20:10:33] Fix edge case in URL parsing and validation
+- [2013-04-19T12:36:56] Improve ffmpeg streaming pipe buffer management
