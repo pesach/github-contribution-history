@@ -895,3 +895,4 @@
 - [2013-04-18T20:40:59] Refactor cookie refresher probe logic
 - [2013-04-18T19:41:49] Update dependency lockfiles and requirements
 - [2013-04-18T13:23:34] Add Prometheus exporter endpoints for queue length
+- [2013-04-19T13:14:58] Fix edge case in URL parsing and validation
