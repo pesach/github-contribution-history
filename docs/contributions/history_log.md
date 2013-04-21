@@ -907,3 +907,4 @@
 - [2013-04-21T12:20:21] Optimize PostgreSQL query execution plans
 - [2013-04-21T11:17:44] Refactor storage upload retry mechanism
 - [2013-04-21T18:44:36] Update dependency lockfiles and requirements
+- [2013-04-21T19:44:56] Update B2 storage chunking parameters
