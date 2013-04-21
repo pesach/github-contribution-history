@@ -905,3 +905,4 @@
 - [2013-04-19T08:11:30] Fix edge case in URL parsing and validation
 - [2013-04-19T19:05:34] Add Prometheus exporter endpoints for queue length
 - [2013-04-21T12:20:21] Optimize PostgreSQL query execution plans
+- [2013-04-21T11:17:44] Refactor storage upload retry mechanism
