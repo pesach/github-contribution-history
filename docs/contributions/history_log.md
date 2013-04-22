@@ -913,3 +913,4 @@
 - [2013-04-22T11:23:12] Update B2 storage chunking parameters
 - [2013-04-22T20:08:35] Fix edge case in URL parsing and validation
 - [2013-04-22T09:58:26] Improve ffmpeg streaming pipe buffer management
+- [2013-04-22T09:06:27] Refactor cookie refresher probe logic
