@@ -920,3 +920,4 @@
 - [2013-04-22T19:10:44] Update B2 storage chunking parameters
 - [2013-04-22T19:46:08] Refactor cookie refresher probe logic
 - [2013-04-22T18:50:41] Add error handling for yt-dlp rate limits
+- [2013-04-23T18:35:26] Fix edge case in channel tab crawler
