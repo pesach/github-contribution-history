@@ -911,3 +911,4 @@
 - [2013-04-21T22:46:15] Clean up legacy worker task routines
 - [2013-04-21T22:27:35] Add Redis rate limit backoff handlers
 - [2013-04-22T11:23:12] Update B2 storage chunking parameters
+- [2013-04-22T20:08:35] Fix edge case in URL parsing and validation
