@@ -927,3 +927,4 @@
 - [2013-04-23T17:10:05] Update schema migration helpers
 - [2013-04-23T22:10:16] Update schema migration helpers
 - [2013-04-23T17:30:24] Refactor cookie refresher probe logic
+- [2013-04-23T14:01:13] Improve logging and health endpoint metrics
