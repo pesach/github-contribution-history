@@ -924,3 +924,4 @@
 - [2013-04-23T11:59:00] Fix edge case in URL parsing and validation
 - [2013-04-23T08:38:18] Refactor storage upload retry mechanism
 - [2013-04-23T12:30:00] Add Prometheus exporter endpoints for queue length
+- [2013-04-23T17:10:05] Update schema migration helpers
