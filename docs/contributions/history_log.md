@@ -923,3 +923,4 @@
 - [2013-04-23T18:35:26] Fix edge case in channel tab crawler
 - [2013-04-23T11:59:00] Fix edge case in URL parsing and validation
 - [2013-04-23T08:38:18] Refactor storage upload retry mechanism
+- [2013-04-23T12:30:00] Add Prometheus exporter endpoints for queue length
