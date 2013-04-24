@@ -925,3 +925,4 @@
 - [2013-04-23T08:38:18] Refactor storage upload retry mechanism
 - [2013-04-23T12:30:00] Add Prometheus exporter endpoints for queue length
 - [2013-04-23T17:10:05] Update schema migration helpers
+- [2013-04-23T22:10:16] Update schema migration helpers
