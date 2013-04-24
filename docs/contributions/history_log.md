@@ -937,3 +937,4 @@
 - [2013-04-24T10:03:09] Fix edge case in channel tab crawler
 - [2013-04-24T13:49:28] Fix edge case in URL parsing and validation
 - [2013-04-24T13:35:55] Enhance dashboard statistics rendering
+- [2013-04-24T10:53:11] Add error handling for yt-dlp rate limits
