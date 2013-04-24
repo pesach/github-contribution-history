@@ -939,3 +939,4 @@
 - [2013-04-24T13:35:55] Enhance dashboard statistics rendering
 - [2013-04-24T10:53:11] Add error handling for yt-dlp rate limits
 - [2013-04-24T15:26:11] Improve ffmpeg streaming pipe buffer management
+- [2013-04-24T14:56:22] Refactor cookie refresher probe logic
