@@ -934,3 +934,4 @@
 - [2013-04-24T10:16:48] Add Redis rate limit backoff handlers
 - [2013-04-24T10:18:05] Add Prometheus exporter endpoints for queue length
 - [2013-04-24T13:49:17] Add retries for transient network drops
+- [2013-04-24T10:03:09] Fix edge case in channel tab crawler
