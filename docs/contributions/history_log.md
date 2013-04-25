@@ -942,3 +942,4 @@
 - [2013-04-24T14:56:22] Refactor cookie refresher probe logic
 - [2013-04-24T20:19:49] Update automated pytest test suites
 - [2013-04-24T20:38:07] Update schema migration helpers
+- [2013-04-24T20:09:24] Update dependency lockfiles and requirements
