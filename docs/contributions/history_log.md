@@ -949,3 +949,4 @@
 - [2013-04-25T10:55:58] Refactor storage upload retry mechanism
 - [2013-04-25T15:59:01] Clean up legacy worker task routines
 - [2013-04-25T15:35:50] Clean up legacy worker task routines
+- [2013-04-25T09:35:57] Update dependency lockfiles and requirements
