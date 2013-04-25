@@ -947,3 +947,4 @@
 - [2013-04-25T22:53:57] Update documentation and architectural guides
 - [2013-04-25T19:40:40] Update automated pytest test suites
 - [2013-04-25T10:55:58] Refactor storage upload retry mechanism
+- [2013-04-25T15:59:01] Clean up legacy worker task routines
