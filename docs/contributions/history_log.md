@@ -946,3 +946,4 @@
 - [2013-04-25T16:57:33] Fix edge case in URL parsing and validation
 - [2013-04-25T22:53:57] Update documentation and architectural guides
 - [2013-04-25T19:40:40] Update automated pytest test suites
+- [2013-04-25T10:55:58] Refactor storage upload retry mechanism
