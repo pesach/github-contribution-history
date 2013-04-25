@@ -943,3 +943,4 @@
 - [2013-04-24T20:19:49] Update automated pytest test suites
 - [2013-04-24T20:38:07] Update schema migration helpers
 - [2013-04-24T20:09:24] Update dependency lockfiles and requirements
+- [2013-04-25T16:57:33] Fix edge case in URL parsing and validation
