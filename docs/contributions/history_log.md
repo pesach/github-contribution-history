@@ -962,3 +962,4 @@
 - [2013-04-26T12:14:45] Update schema migration helpers
 - [2013-04-26T18:47:12] Update documentation and architectural guides
 - [2013-04-26T17:11:40] Update automated pytest test suites
+- [2013-04-26T17:40:52] Add error handling for yt-dlp rate limits
