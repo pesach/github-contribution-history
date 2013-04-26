@@ -958,3 +958,4 @@
 - [2013-04-26T22:32:06] Fix edge case in channel tab crawler
 - [2013-04-26T09:11:03] Update schema migration helpers
 - [2013-04-26T11:23:17] Add Redis rate limit backoff handlers
+- [2013-04-26T18:58:28] Refactor cookie refresher probe logic
