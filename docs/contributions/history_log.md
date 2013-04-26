@@ -950,3 +950,4 @@
 - [2013-04-25T15:59:01] Clean up legacy worker task routines
 - [2013-04-25T15:35:50] Clean up legacy worker task routines
 - [2013-04-25T09:35:57] Update dependency lockfiles and requirements
+- [2013-04-26T17:57:11] Improve logging and health endpoint metrics
