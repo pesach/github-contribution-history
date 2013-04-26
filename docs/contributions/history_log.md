@@ -960,3 +960,4 @@
 - [2013-04-26T11:23:17] Add Redis rate limit backoff handlers
 - [2013-04-26T18:58:28] Refactor cookie refresher probe logic
 - [2013-04-26T12:14:45] Update schema migration helpers
+- [2013-04-26T18:47:12] Update documentation and architectural guides
