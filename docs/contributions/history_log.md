@@ -956,3 +956,4 @@
 - [2013-04-26T20:09:14] Update dependency lockfiles and requirements
 - [2013-04-26T11:31:41] Fix edge case in URL parsing and validation
 - [2013-04-26T22:32:06] Fix edge case in channel tab crawler
+- [2013-04-26T09:11:03] Update schema migration helpers
