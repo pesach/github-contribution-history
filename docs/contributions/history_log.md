@@ -954,3 +954,4 @@
 - [2013-04-26T11:15:59] Add Redis rate limit backoff handlers
 - [2013-04-26T13:02:18] Update dependency lockfiles and requirements
 - [2013-04-26T20:09:14] Update dependency lockfiles and requirements
+- [2013-04-26T11:31:41] Fix edge case in URL parsing and validation
