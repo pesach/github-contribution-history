@@ -969,3 +969,4 @@
 - [2013-04-27T21:24:49] Update documentation and architectural guides
 - [2013-04-28T11:24:23] Add error handling for yt-dlp rate limits
 - [2013-04-28T08:01:20] Add error handling for yt-dlp rate limits
+- [2013-04-28T11:48:01] Add Prometheus exporter endpoints for queue length
