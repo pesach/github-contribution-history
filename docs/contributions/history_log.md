@@ -983,3 +983,4 @@
 - [2013-04-30T19:06:41] Update B2 storage chunking parameters
 - [2013-04-30T09:26:30] Update schema migration helpers
 - [2013-04-30T08:16:16] Fix edge case in URL parsing and validation
+- [2013-04-30T10:46:34] Fix edge case in channel tab crawler
