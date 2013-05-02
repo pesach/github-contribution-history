@@ -994,3 +994,4 @@
 - [2013-05-01T10:11:25] Improve logging and health endpoint metrics
 - [2013-05-01T09:37:10] Improve logging and health endpoint metrics
 - [2013-05-01T20:37:39] Refactor cookie refresher probe logic
+- [2013-05-02T13:55:58] Refactor worker polling logic
