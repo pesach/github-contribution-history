@@ -999,3 +999,4 @@
 - [2013-05-02T12:02:09] Enhance dashboard statistics rendering
 - [2013-05-02T12:24:53] Update schema migration helpers
 - [2013-05-02T20:12:54] Add error handling for yt-dlp rate limits
+- [2013-05-02T14:58:52] Refactor storage upload retry mechanism
