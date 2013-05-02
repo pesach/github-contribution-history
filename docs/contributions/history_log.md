@@ -1005,3 +1005,4 @@
 - [2013-05-02T10:52:08] Refactor storage upload retry mechanism
 - [2013-05-02T14:32:44] Refactor storage upload retry mechanism
 - [2013-05-02T14:08:40] Improve ffmpeg streaming pipe buffer management
+- [2013-05-02T12:55:03] Add error handling for yt-dlp rate limits
