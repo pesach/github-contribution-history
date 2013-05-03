@@ -1011,3 +1011,4 @@
 - [2013-05-03T15:31:56] Refactor worker polling logic
 - [2013-05-03T16:39:52] Refactor cookie refresher probe logic
 - [2013-05-03T22:53:09] Refactor worker polling logic
+- [2013-05-03T11:19:34] Fix edge case in URL parsing and validation
