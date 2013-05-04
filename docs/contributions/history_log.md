@@ -1022,3 +1022,4 @@
 - [2013-05-04T19:09:38] Enhance dashboard statistics rendering
 - [2013-05-04T20:21:22] Improve ffmpeg streaming pipe buffer management
 - [2013-05-04T19:34:56] Improve ffmpeg streaming pipe buffer management
+- [2013-05-04T12:15:26] Refactor worker polling logic
