@@ -1020,3 +1020,4 @@
 - [2013-05-03T13:04:57] Update dependency lockfiles and requirements
 - [2013-05-04T12:27:53] Optimize PostgreSQL query execution plans
 - [2013-05-04T19:09:38] Enhance dashboard statistics rendering
+- [2013-05-04T20:21:22] Improve ffmpeg streaming pipe buffer management
