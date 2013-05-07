@@ -1039,3 +1039,4 @@
 - [2013-05-07T22:21:42] Refactor cookie refresher probe logic
 - [2013-05-07T09:41:51] Refactor storage upload retry mechanism
 - [2013-05-07T15:01:58] Fix edge case in channel tab crawler
+- [2013-05-07T11:44:26] Implement streaming upload chunk buffer optimization
