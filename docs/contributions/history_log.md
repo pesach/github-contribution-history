@@ -1046,3 +1046,4 @@
 - [2013-05-07T20:14:50] Update B2 storage chunking parameters
 - [2013-05-07T15:53:17] Update automated pytest test suites
 - [2013-05-07T17:25:27] Optimize PostgreSQL query execution plans
+- [2013-05-07T11:29:58] Improve ffmpeg streaming pipe buffer management
