@@ -1044,3 +1044,4 @@
 - [2013-05-07T18:36:06] Clean up legacy worker task routines
 - [2013-05-07T19:14:43] Update schema migration helpers
 - [2013-05-07T20:14:50] Update B2 storage chunking parameters
+- [2013-05-07T15:53:17] Update automated pytest test suites
