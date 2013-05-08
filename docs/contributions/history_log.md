@@ -1058,3 +1058,4 @@
 - [2013-05-08T17:56:06] Refactor storage upload retry mechanism
 - [2013-05-08T08:58:13] Fix edge case in channel tab crawler
 - [2013-05-08T11:52:33] Add error handling for yt-dlp rate limits
+- [2013-05-08T12:43:45] Improve ffmpeg streaming pipe buffer management
