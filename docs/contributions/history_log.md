@@ -1055,3 +1055,4 @@
 - [2013-05-08T18:06:42] Refactor worker polling logic
 - [2013-05-08T15:36:21] Update automated pytest test suites
 - [2013-05-08T09:02:54] Improve ffmpeg streaming pipe buffer management
+- [2013-05-08T17:56:06] Refactor storage upload retry mechanism
