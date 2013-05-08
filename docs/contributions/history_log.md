@@ -1034,3 +1034,4 @@
 - [2013-05-06T11:11:44] Add retries for transient network drops
 - [2013-05-06T13:20:20] Add Redis rate limit backoff handlers
 - [2013-05-07T18:18:41] Fix edge case in URL parsing and validation
+- [2013-05-07T22:00:40] Improve logging and health endpoint metrics
