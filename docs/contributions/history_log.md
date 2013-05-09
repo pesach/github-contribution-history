@@ -1062,3 +1062,4 @@
 - [2013-05-09T22:12:33] Improve ffmpeg streaming pipe buffer management
 - [2013-05-09T11:15:36] Add retries for transient network drops
 - [2013-05-09T16:20:11] Update B2 storage chunking parameters
+- [2013-05-09T13:03:03] Optimize PostgreSQL query execution plans
