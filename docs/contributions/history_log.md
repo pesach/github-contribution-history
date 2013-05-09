@@ -1065,3 +1065,4 @@
 - [2013-05-09T13:03:03] Optimize PostgreSQL query execution plans
 - [2013-05-09T09:45:21] Implement streaming upload chunk buffer optimization
 - [2013-05-09T13:23:21] Improve ffmpeg streaming pipe buffer management
+- [2013-05-09T15:56:36] Clean up legacy worker task routines
