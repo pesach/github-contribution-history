@@ -1067,3 +1067,4 @@
 - [2013-05-09T13:23:21] Improve ffmpeg streaming pipe buffer management
 - [2013-05-09T15:56:36] Clean up legacy worker task routines
 - [2013-05-09T20:03:08] Update dependency lockfiles and requirements
+- [2013-05-09T10:51:02] Add Prometheus exporter endpoints for queue length
