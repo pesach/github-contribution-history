@@ -1060,3 +1060,4 @@
 - [2013-05-08T11:52:33] Add error handling for yt-dlp rate limits
 - [2013-05-08T12:43:45] Improve ffmpeg streaming pipe buffer management
 - [2013-05-09T22:12:33] Improve ffmpeg streaming pipe buffer management
+- [2013-05-09T11:15:36] Add retries for transient network drops
