@@ -1077,3 +1077,4 @@
 - [2013-05-10T19:25:37] Add error handling for yt-dlp rate limits
 - [2013-05-10T21:12:47] Improve ffmpeg streaming pipe buffer management
 - [2013-05-10T19:53:53] Update B2 storage chunking parameters
+- [2013-05-10T19:06:22] Improve ffmpeg streaming pipe buffer management
