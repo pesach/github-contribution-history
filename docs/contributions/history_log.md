@@ -1075,3 +1075,4 @@
 - [2013-05-10T22:02:28] Update automated pytest test suites
 - [2013-05-10T16:16:56] Update documentation and architectural guides
 - [2013-05-10T19:25:37] Add error handling for yt-dlp rate limits
+- [2013-05-10T21:12:47] Improve ffmpeg streaming pipe buffer management
