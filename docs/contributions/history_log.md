@@ -1086,3 +1086,4 @@
 - [2013-05-13T08:05:45] Fix edge case in URL parsing and validation
 - [2013-05-13T18:41:04] Refactor worker polling logic
 - [2013-05-13T18:38:40] Update schema migration helpers
+- [2013-05-13T16:04:00] Update documentation and architectural guides
