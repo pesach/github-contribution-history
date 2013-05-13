@@ -1084,3 +1084,4 @@
 - [2013-05-13T18:36:04] Update automated pytest test suites
 - [2013-05-13T15:02:02] Add Prometheus exporter endpoints for queue length
 - [2013-05-13T08:05:45] Fix edge case in URL parsing and validation
+- [2013-05-13T18:41:04] Refactor worker polling logic
