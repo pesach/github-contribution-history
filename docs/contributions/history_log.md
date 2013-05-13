@@ -1082,3 +1082,4 @@
 - [2013-05-12T22:05:32] Update B2 storage chunking parameters
 - [2013-05-12T21:34:29] Update dependency lockfiles and requirements
 - [2013-05-13T18:36:04] Update automated pytest test suites
+- [2013-05-13T15:02:02] Add Prometheus exporter endpoints for queue length
