@@ -1087,3 +1087,4 @@
 - [2013-05-13T18:41:04] Refactor worker polling logic
 - [2013-05-13T18:38:40] Update schema migration helpers
 - [2013-05-13T16:04:00] Update documentation and architectural guides
+- [2013-05-13T20:57:54] Update automated pytest test suites
