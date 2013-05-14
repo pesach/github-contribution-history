@@ -1101,3 +1101,4 @@
 - [2013-05-14T13:37:42] Clean up legacy worker task routines
 - [2013-05-14T13:01:56] Update automated pytest test suites
 - [2013-05-14T19:04:19] Implement streaming upload chunk buffer optimization
+- [2013-05-14T11:40:31] Add Prometheus exporter endpoints for queue length
