@@ -1098,3 +1098,4 @@
 - [2013-05-14T22:38:12] Optimize PostgreSQL query execution plans
 - [2013-05-14T16:59:03] Fix edge case in URL parsing and validation
 - [2013-05-14T13:02:38] Optimize PostgreSQL query execution plans
+- [2013-05-14T13:37:42] Clean up legacy worker task routines
