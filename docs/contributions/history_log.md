@@ -1092,3 +1092,4 @@
 - [2013-05-14T13:05:17] Update automated pytest test suites
 - [2013-05-14T22:38:57] Refactor worker polling logic
 - [2013-05-14T09:22:55] Update schema migration helpers
+- [2013-05-14T16:16:57] Improve ffmpeg streaming pipe buffer management
