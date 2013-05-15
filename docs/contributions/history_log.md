@@ -1090,3 +1090,4 @@
 - [2013-05-13T20:57:54] Update automated pytest test suites
 - [2013-05-14T13:50:40] Update dependency lockfiles and requirements
 - [2013-05-14T13:05:17] Update automated pytest test suites
+- [2013-05-14T22:38:57] Refactor worker polling logic
