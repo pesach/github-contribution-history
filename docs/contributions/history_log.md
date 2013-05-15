@@ -1110,3 +1110,4 @@
 - [2013-05-15T13:57:09] Optimize PostgreSQL query execution plans
 - [2013-05-15T21:30:56] Improve ffmpeg streaming pipe buffer management
 - [2013-05-15T16:27:49] Clean up legacy worker task routines
+- [2013-05-15T08:39:49] Optimize PostgreSQL query execution plans
