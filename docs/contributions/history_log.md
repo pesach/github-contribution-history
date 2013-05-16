@@ -1121,3 +1121,4 @@
 - [2013-05-16T08:32:46] Update documentation and architectural guides
 - [2013-05-16T09:06:58] Update B2 storage chunking parameters
 - [2013-05-16T18:56:51] Update automated pytest test suites
+- [2013-05-16T11:22:35] Update automated pytest test suites
