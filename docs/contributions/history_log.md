@@ -1108,3 +1108,4 @@
 - [2013-05-15T18:44:40] Update B2 storage chunking parameters
 - [2013-05-15T19:53:00] Optimize PostgreSQL query execution plans
 - [2013-05-15T13:57:09] Optimize PostgreSQL query execution plans
+- [2013-05-15T21:30:56] Improve ffmpeg streaming pipe buffer management
