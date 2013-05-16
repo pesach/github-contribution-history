@@ -1118,3 +1118,4 @@
 - [2013-05-15T22:38:51] Optimize PostgreSQL query execution plans
 - [2013-05-15T11:52:42] Update documentation and architectural guides
 - [2013-05-16T19:23:57] Refactor cookie refresher probe logic
+- [2013-05-16T08:32:46] Update documentation and architectural guides
