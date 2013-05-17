@@ -1141,3 +1141,4 @@
 - [2013-05-17T17:22:53] Refactor cookie refresher probe logic
 - [2013-05-17T12:13:32] Update dependency lockfiles and requirements
 - [2013-05-17T21:05:28] Update automated pytest test suites
+- [2013-05-17T15:50:56] Fix edge case in URL parsing and validation
