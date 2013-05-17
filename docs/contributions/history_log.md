@@ -1136,3 +1136,4 @@
 - [2013-05-17T21:17:49] Add retries for transient network drops
 - [2013-05-17T20:22:34] Add retries for transient network drops
 - [2013-05-17T16:41:10] Refactor cookie refresher probe logic
+- [2013-05-17T18:02:33] Improve ffmpeg streaming pipe buffer management
