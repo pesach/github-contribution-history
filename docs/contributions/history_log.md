@@ -1139,3 +1139,4 @@
 - [2013-05-17T18:02:33] Improve ffmpeg streaming pipe buffer management
 - [2013-05-17T15:56:16] Improve logging and health endpoint metrics
 - [2013-05-17T17:22:53] Refactor cookie refresher probe logic
+- [2013-05-17T12:13:32] Update dependency lockfiles and requirements
