@@ -1133,3 +1133,4 @@
 - [2013-05-16T12:37:31] Update B2 storage chunking parameters
 - [2013-05-17T08:10:10] Improve ffmpeg streaming pipe buffer management
 - [2013-05-17T18:06:12] Add Prometheus exporter endpoints for queue length
+- [2013-05-17T21:17:49] Add retries for transient network drops
