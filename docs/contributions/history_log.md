@@ -1148,3 +1148,4 @@
 - [2013-05-18T08:27:08] Refactor cookie refresher probe logic
 - [2013-05-18T17:43:12] Improve logging and health endpoint metrics
 - [2013-05-18T14:36:15] Update B2 storage chunking parameters
+- [2013-05-18T16:09:43] Fix edge case in channel tab crawler
