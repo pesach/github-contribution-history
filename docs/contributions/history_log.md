@@ -1145,3 +1145,4 @@
 - [2013-05-17T13:40:51] Enhance dashboard statistics rendering
 - [2013-05-17T12:55:18] Enhance dashboard statistics rendering
 - [2013-05-17T20:39:21] Implement streaming upload chunk buffer optimization
+- [2013-05-18T08:27:08] Refactor cookie refresher probe logic
