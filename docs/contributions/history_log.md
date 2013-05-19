@@ -1152,3 +1152,4 @@
 - [2013-05-19T18:46:57] Update documentation and architectural guides
 - [2013-05-19T17:42:36] Fix edge case in channel tab crawler
 - [2013-05-19T15:40:23] Refactor storage upload retry mechanism
+- [2013-05-19T16:32:33] Add retries for transient network drops
