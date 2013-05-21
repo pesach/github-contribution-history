@@ -1163,3 +1163,4 @@
 - [2013-05-21T08:14:34] Optimize PostgreSQL query execution plans
 - [2013-05-21T16:52:25] Add retries for transient network drops
 - [2013-05-21T17:00:55] Update dependency lockfiles and requirements
+- [2013-05-21T11:49:52] Refactor worker polling logic
