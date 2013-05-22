@@ -1173,3 +1173,4 @@
 - [2013-05-22T18:15:11] Fix edge case in URL parsing and validation
 - [2013-05-22T09:37:35] Improve logging and health endpoint metrics
 - [2013-05-22T17:51:55] Update documentation and architectural guides
+- [2013-05-22T13:12:48] Improve ffmpeg streaming pipe buffer management
