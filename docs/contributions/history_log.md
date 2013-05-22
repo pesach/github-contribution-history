@@ -1165,3 +1165,4 @@
 - [2013-05-21T17:00:55] Update dependency lockfiles and requirements
 - [2013-05-21T11:49:52] Refactor worker polling logic
 - [2013-05-22T22:34:47] Add Prometheus exporter endpoints for queue length
+- [2013-05-22T17:11:06] Add error handling for yt-dlp rate limits
