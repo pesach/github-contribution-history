@@ -1170,3 +1170,4 @@
 - [2013-05-22T14:04:30] Update dependency lockfiles and requirements
 - [2013-05-22T14:23:04] Update schema migration helpers
 - [2013-05-22T09:36:54] Implement streaming upload chunk buffer optimization
+- [2013-05-22T18:15:11] Fix edge case in URL parsing and validation
