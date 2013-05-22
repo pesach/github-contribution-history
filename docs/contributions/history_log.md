@@ -1167,3 +1167,4 @@
 - [2013-05-22T22:34:47] Add Prometheus exporter endpoints for queue length
 - [2013-05-22T17:11:06] Add error handling for yt-dlp rate limits
 - [2013-05-22T20:07:44] Update schema migration helpers
+- [2013-05-22T14:04:30] Update dependency lockfiles and requirements
