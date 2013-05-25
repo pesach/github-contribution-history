@@ -1193,3 +1193,4 @@
 - [2013-05-25T14:43:54] Fix edge case in URL parsing and validation
 - [2013-05-25T14:40:59] Update documentation and architectural guides
 - [2013-05-25T12:41:16] Refactor worker polling logic
+- [2013-05-25T10:12:32] Update documentation and architectural guides
