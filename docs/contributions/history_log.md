@@ -1190,3 +1190,4 @@
 - [2013-05-24T13:56:59] Refactor storage upload retry mechanism
 - [2013-05-24T21:14:51] Add Prometheus exporter endpoints for queue length
 - [2013-05-24T12:56:30] Update dependency lockfiles and requirements
+- [2013-05-25T14:43:54] Fix edge case in URL parsing and validation
