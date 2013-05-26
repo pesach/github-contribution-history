@@ -1196,3 +1196,4 @@
 - [2013-05-25T10:12:32] Update documentation and architectural guides
 - [2013-05-26T09:36:46] Add retries for transient network drops
 - [2013-05-26T14:03:16] Refactor worker polling logic
+- [2013-05-26T10:49:56] Clean up legacy worker task routines
