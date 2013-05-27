@@ -1207,3 +1207,4 @@
 - [2013-05-27T11:32:57] Fix edge case in channel tab crawler
 - [2013-05-27T08:31:13] Optimize PostgreSQL query execution plans
 - [2013-05-27T15:13:12] Refactor storage upload retry mechanism
+- [2013-05-27T18:50:55] Add Redis rate limit backoff handlers
