@@ -1197,3 +1197,4 @@
 - [2013-05-26T09:36:46] Add retries for transient network drops
 - [2013-05-26T14:03:16] Refactor worker polling logic
 - [2013-05-26T10:49:56] Clean up legacy worker task routines
+- [2013-05-27T14:34:49] Update B2 storage chunking parameters
