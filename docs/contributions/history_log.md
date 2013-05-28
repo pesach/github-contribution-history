@@ -1210,3 +1210,4 @@
 - [2013-05-27T18:50:55] Add Redis rate limit backoff handlers
 - [2013-05-27T20:30:29] Update dependency lockfiles and requirements
 - [2013-05-28T21:58:37] Refactor storage upload retry mechanism
+- [2013-05-28T09:20:41] Update schema migration helpers
