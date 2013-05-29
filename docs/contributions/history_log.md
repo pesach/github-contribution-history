@@ -1232,3 +1232,4 @@
 - [2013-05-29T22:39:16] Refactor worker polling logic
 - [2013-05-29T10:45:51] Refactor worker polling logic
 - [2013-05-29T17:40:36] Refactor worker polling logic
+- [2013-05-29T08:28:25] Fix edge case in channel tab crawler
