@@ -1216,3 +1216,4 @@
 - [2013-05-28T21:08:45] Add Prometheus exporter endpoints for queue length
 - [2013-05-28T20:49:19] Update automated pytest test suites
 - [2013-05-28T08:35:39] Enhance dashboard statistics rendering
+- [2013-05-28T21:50:56] Add Prometheus exporter endpoints for queue length
