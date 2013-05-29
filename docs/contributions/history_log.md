@@ -1222,3 +1222,4 @@
 - [2013-05-28T10:14:47] Update dependency lockfiles and requirements
 - [2013-05-28T19:14:35] Improve logging and health endpoint metrics
 - [2013-05-29T22:05:47] Update B2 storage chunking parameters
+- [2013-05-29T17:54:36] Fix edge case in URL parsing and validation
