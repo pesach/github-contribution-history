@@ -1246,3 +1246,4 @@
 - [2013-05-30T22:34:59] Fix edge case in URL parsing and validation
 - [2013-05-30T17:13:36] Update automated pytest test suites
 - [2013-05-30T21:51:34] Enhance dashboard statistics rendering
+- [2013-05-30T18:42:04] Update B2 storage chunking parameters
