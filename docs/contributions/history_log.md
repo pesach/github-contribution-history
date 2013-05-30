@@ -1221,3 +1221,4 @@
 - [2013-05-28T11:13:29] Add error handling for yt-dlp rate limits
 - [2013-05-28T10:14:47] Update dependency lockfiles and requirements
 - [2013-05-28T19:14:35] Improve logging and health endpoint metrics
+- [2013-05-29T22:05:47] Update B2 storage chunking parameters
