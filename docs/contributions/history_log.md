@@ -1225,3 +1225,4 @@
 - [2013-05-29T17:54:36] Fix edge case in URL parsing and validation
 - [2013-05-29T13:01:28] Fix edge case in URL parsing and validation
 - [2013-05-29T09:58:24] Update documentation and architectural guides
+- [2013-05-29T20:46:28] Improve logging and health endpoint metrics
