@@ -1238,3 +1238,4 @@
 - [2013-05-29T16:33:17] Optimize PostgreSQL query execution plans
 - [2013-05-30T16:25:35] Add Redis rate limit backoff handlers
 - [2013-05-30T15:36:20] Update B2 storage chunking parameters
+- [2013-05-30T19:01:42] Clean up legacy worker task routines
