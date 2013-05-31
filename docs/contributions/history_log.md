@@ -1253,3 +1253,4 @@
 - [2013-05-31T08:02:05] Update B2 storage chunking parameters
 - [2013-05-31T16:53:46] Update schema migration helpers
 - [2013-05-31T17:27:39] Update automated pytest test suites
+- [2013-05-31T14:56:34] Update dependency lockfiles and requirements
