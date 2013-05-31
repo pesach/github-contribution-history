@@ -1247,3 +1247,4 @@
 - [2013-05-30T17:13:36] Update automated pytest test suites
 - [2013-05-30T21:51:34] Enhance dashboard statistics rendering
 - [2013-05-30T18:42:04] Update B2 storage chunking parameters
+- [2013-05-31T17:52:38] Clean up legacy worker task routines
