@@ -1250,3 +1250,4 @@
 - [2013-05-31T17:52:38] Clean up legacy worker task routines
 - [2013-05-31T16:22:05] Update documentation and architectural guides
 - [2013-05-31T18:51:05] Improve ffmpeg streaming pipe buffer management
+- [2013-05-31T08:02:05] Update B2 storage chunking parameters
