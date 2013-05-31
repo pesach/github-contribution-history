@@ -1255,3 +1255,4 @@
 - [2013-05-31T17:27:39] Update automated pytest test suites
 - [2013-05-31T14:56:34] Update dependency lockfiles and requirements
 - [2013-05-31T21:01:15] Refactor storage upload retry mechanism
+- [2013-05-31T09:09:15] Add retries for transient network drops
