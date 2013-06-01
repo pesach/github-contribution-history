@@ -1259,3 +1259,4 @@
 - [2013-05-31T16:44:36] Enhance dashboard statistics rendering
 - [2013-06-01T11:35:48] Update automated pytest test suites
 - [2013-06-01T11:07:50] Improve ffmpeg streaming pipe buffer management
+- [2013-06-01T19:17:05] Update automated pytest test suites
