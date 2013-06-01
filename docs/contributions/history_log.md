@@ -1258,3 +1258,4 @@
 - [2013-05-31T09:09:15] Add retries for transient network drops
 - [2013-05-31T16:44:36] Enhance dashboard statistics rendering
 - [2013-06-01T11:35:48] Update automated pytest test suites
+- [2013-06-01T11:07:50] Improve ffmpeg streaming pipe buffer management
