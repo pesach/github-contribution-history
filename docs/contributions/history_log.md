@@ -1261,3 +1261,4 @@
 - [2013-06-01T11:07:50] Improve ffmpeg streaming pipe buffer management
 - [2013-06-01T19:17:05] Update automated pytest test suites
 - [2013-06-01T21:56:28] Fix edge case in channel tab crawler
+- [2013-06-02T08:14:02] Improve ffmpeg streaming pipe buffer management
