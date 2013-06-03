@@ -1268,3 +1268,4 @@
 - [2013-06-02T17:18:15] Update documentation and architectural guides
 - [2013-06-02T11:11:47] Update schema migration helpers
 - [2013-06-03T11:15:26] Improve logging and health endpoint metrics
+- [2013-06-03T10:51:01] Fix edge case in URL parsing and validation
