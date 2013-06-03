@@ -1263,3 +1263,4 @@
 - [2013-06-01T21:56:28] Fix edge case in channel tab crawler
 - [2013-06-02T08:14:02] Improve ffmpeg streaming pipe buffer management
 - [2013-06-02T11:49:44] Update dependency lockfiles and requirements
+- [2013-06-02T21:49:20] Refactor worker polling logic
