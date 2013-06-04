@@ -1288,3 +1288,4 @@
 - [2013-06-04T19:29:00] Update schema migration helpers
 - [2013-06-04T13:23:39] Update schema migration helpers
 - [2013-06-04T16:48:53] Refactor storage upload retry mechanism
+- [2013-06-04T14:41:28] Fix edge case in channel tab crawler
