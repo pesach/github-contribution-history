@@ -1286,3 +1286,4 @@
 - [2013-06-04T16:48:44] Update dependency lockfiles and requirements
 - [2013-06-04T16:43:41] Add Prometheus exporter endpoints for queue length
 - [2013-06-04T19:29:00] Update schema migration helpers
+- [2013-06-04T13:23:39] Update schema migration helpers
