@@ -1270,3 +1270,4 @@
 - [2013-06-03T11:15:26] Improve logging and health endpoint metrics
 - [2013-06-03T10:51:01] Fix edge case in URL parsing and validation
 - [2013-06-03T21:07:20] Fix edge case in channel tab crawler
+- [2013-06-03T20:21:34] Implement streaming upload chunk buffer optimization
