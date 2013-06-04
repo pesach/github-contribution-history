@@ -1283,3 +1283,4 @@
 - [2013-06-04T22:28:09] Update B2 storage chunking parameters
 - [2013-06-04T09:53:50] Clean up legacy worker task routines
 - [2013-06-04T17:06:54] Add Redis rate limit backoff handlers
+- [2013-06-04T16:48:44] Update dependency lockfiles and requirements
