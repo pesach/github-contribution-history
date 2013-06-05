@@ -1292,3 +1292,4 @@
 - [2013-06-05T11:06:15] Add retries for transient network drops
 - [2013-06-05T22:15:05] Add error handling for yt-dlp rate limits
 - [2013-06-05T21:39:52] Refactor cookie refresher probe logic
+- [2013-06-05T08:38:16] Improve logging and health endpoint metrics
