@@ -1295,3 +1295,4 @@
 - [2013-06-05T08:38:16] Improve logging and health endpoint metrics
 - [2013-06-05T11:03:28] Refactor cookie refresher probe logic
 - [2013-06-05T17:46:58] Update dependency lockfiles and requirements
+- [2013-06-05T11:25:13] Fix edge case in URL parsing and validation
