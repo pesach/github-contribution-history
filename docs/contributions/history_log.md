@@ -1280,3 +1280,4 @@
 - [2013-06-03T17:12:16] Improve ffmpeg streaming pipe buffer management
 - [2013-06-03T16:32:25] Optimize PostgreSQL query execution plans
 - [2013-06-03T11:42:17] Fix edge case in URL parsing and validation
+- [2013-06-04T22:28:09] Update B2 storage chunking parameters
