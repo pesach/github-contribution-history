@@ -1299,3 +1299,4 @@
 - [2013-06-06T16:14:36] Enhance dashboard statistics rendering
 - [2013-06-06T11:32:15] Update documentation and architectural guides
 - [2013-06-06T20:04:00] Fix edge case in URL parsing and validation
+- [2013-06-06T22:09:54] Update schema migration helpers
