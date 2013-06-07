@@ -1309,3 +1309,4 @@
 - [2013-06-07T17:50:12] Update dependency lockfiles and requirements
 - [2013-06-07T09:48:34] Update automated pytest test suites
 - [2013-06-07T08:48:49] Add Redis rate limit backoff handlers
+- [2013-06-07T15:30:12] Update documentation and architectural guides
