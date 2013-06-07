@@ -1304,3 +1304,4 @@
 - [2013-06-06T16:41:49] Improve logging and health endpoint metrics
 - [2013-06-06T12:56:29] Update dependency lockfiles and requirements
 - [2013-06-06T09:48:15] Refactor storage upload retry mechanism
+- [2013-06-07T12:50:35] Refactor cookie refresher probe logic
