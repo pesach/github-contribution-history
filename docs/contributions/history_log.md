@@ -1312,3 +1312,4 @@
 - [2013-06-07T15:30:12] Update documentation and architectural guides
 - [2013-06-07T19:22:00] Update B2 storage chunking parameters
 - [2013-06-07T18:12:24] Fix edge case in channel tab crawler
+- [2013-06-07T09:27:49] Update documentation and architectural guides
