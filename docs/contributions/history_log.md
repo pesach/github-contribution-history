@@ -1317,3 +1317,4 @@
 - [2013-06-08T16:17:44] Refactor cookie refresher probe logic
 - [2013-06-08T18:45:35] Clean up legacy worker task routines
 - [2013-06-08T08:40:07] Refactor storage upload retry mechanism
+- [2013-06-08T19:49:12] Optimize PostgreSQL query execution plans
