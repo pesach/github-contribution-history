@@ -1318,3 +1318,4 @@
 - [2013-06-08T18:45:35] Clean up legacy worker task routines
 - [2013-06-08T08:40:07] Refactor storage upload retry mechanism
 - [2013-06-08T19:49:12] Optimize PostgreSQL query execution plans
+- [2013-06-08T09:11:15] Add Redis rate limit backoff handlers
