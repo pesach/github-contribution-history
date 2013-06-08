@@ -1314,3 +1314,4 @@
 - [2013-06-07T18:12:24] Fix edge case in channel tab crawler
 - [2013-06-07T09:27:49] Update documentation and architectural guides
 - [2013-06-07T18:34:03] Add Redis rate limit backoff handlers
+- [2013-06-08T16:17:44] Refactor cookie refresher probe logic
