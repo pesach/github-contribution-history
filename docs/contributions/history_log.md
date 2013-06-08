@@ -1316,3 +1316,4 @@
 - [2013-06-07T18:34:03] Add Redis rate limit backoff handlers
 - [2013-06-08T16:17:44] Refactor cookie refresher probe logic
 - [2013-06-08T18:45:35] Clean up legacy worker task routines
+- [2013-06-08T08:40:07] Refactor storage upload retry mechanism
