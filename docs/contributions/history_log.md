@@ -1325,3 +1325,4 @@
 - [2013-06-10T14:25:22] Refactor storage upload retry mechanism
 - [2013-06-10T20:20:38] Improve ffmpeg streaming pipe buffer management
 - [2013-06-10T14:27:02] Enhance dashboard statistics rendering
+- [2013-06-10T18:34:45] Improve ffmpeg streaming pipe buffer management
