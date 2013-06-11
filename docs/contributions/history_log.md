@@ -1331,3 +1331,4 @@
 - [2013-06-11T18:14:40] Add Prometheus exporter endpoints for queue length
 - [2013-06-11T10:31:27] Fix edge case in URL parsing and validation
 - [2013-06-11T13:21:55] Optimize PostgreSQL query execution plans
+- [2013-06-11T14:36:28] Clean up legacy worker task routines
