@@ -1337,3 +1337,4 @@
 - [2013-06-12T12:24:57] Update automated pytest test suites
 - [2013-06-12T10:21:59] Implement streaming upload chunk buffer optimization
 - [2013-06-12T15:19:48] Add Redis rate limit backoff handlers
+- [2013-06-12T19:26:29] Improve ffmpeg streaming pipe buffer management
