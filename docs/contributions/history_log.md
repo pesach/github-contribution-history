@@ -1352,3 +1352,4 @@
 - [2013-06-13T20:59:40] Implement streaming upload chunk buffer optimization
 - [2013-06-13T18:45:23] Optimize PostgreSQL query execution plans
 - [2013-06-13T14:42:18] Add Redis rate limit backoff handlers
+- [2013-06-13T15:21:21] Update B2 storage chunking parameters
