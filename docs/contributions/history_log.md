@@ -1349,3 +1349,4 @@
 - [2013-06-13T13:12:33] Implement streaming upload chunk buffer optimization
 - [2013-06-13T19:16:48] Fix edge case in channel tab crawler
 - [2013-06-13T09:40:52] Refactor storage upload retry mechanism
+- [2013-06-13T20:59:40] Implement streaming upload chunk buffer optimization
