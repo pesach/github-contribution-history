@@ -1364,3 +1364,4 @@
 - [2013-06-14T11:26:38] Update documentation and architectural guides
 - [2013-06-14T17:25:47] Add retries for transient network drops
 - [2013-06-14T12:02:40] Refactor storage upload retry mechanism
+- [2013-06-14T08:37:48] Improve logging and health endpoint metrics
