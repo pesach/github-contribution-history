@@ -1357,3 +1357,4 @@
 - [2013-06-13T15:26:56] Enhance dashboard statistics rendering
 - [2013-06-14T12:56:05] Enhance dashboard statistics rendering
 - [2013-06-14T15:43:07] Update documentation and architectural guides
+- [2013-06-14T17:51:29] Add retries for transient network drops
