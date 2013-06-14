@@ -1355,3 +1355,4 @@
 - [2013-06-13T15:21:21] Update B2 storage chunking parameters
 - [2013-06-13T15:50:17] Fix edge case in URL parsing and validation
 - [2013-06-13T15:26:56] Enhance dashboard statistics rendering
+- [2013-06-14T12:56:05] Enhance dashboard statistics rendering
