@@ -1359,3 +1359,4 @@
 - [2013-06-14T15:43:07] Update documentation and architectural guides
 - [2013-06-14T17:51:29] Add retries for transient network drops
 - [2013-06-14T16:05:11] Implement streaming upload chunk buffer optimization
+- [2013-06-14T15:01:31] Refactor storage upload retry mechanism
