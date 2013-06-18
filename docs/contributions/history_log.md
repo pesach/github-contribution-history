@@ -1372,3 +1372,4 @@
 - [2013-06-18T22:42:26] Add retries for transient network drops
 - [2013-06-18T19:24:07] Add Redis rate limit backoff handlers
 - [2013-06-18T14:12:58] Fix edge case in URL parsing and validation
+- [2013-06-18T15:17:22] Update automated pytest test suites
