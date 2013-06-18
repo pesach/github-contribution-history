@@ -1377,3 +1377,4 @@
 - [2013-06-18T13:19:13] Refactor storage upload retry mechanism
 - [2013-06-18T08:24:09] Update documentation and architectural guides
 - [2013-06-18T18:59:17] Fix edge case in channel tab crawler
+- [2013-06-18T08:54:19] Update documentation and architectural guides
