@@ -1384,3 +1384,4 @@
 - [2013-06-18T22:53:47] Refactor cookie refresher probe logic
 - [2013-06-18T13:44:22] Update automated pytest test suites
 - [2013-06-19T14:33:52] Refactor worker polling logic
+- [2013-06-19T16:21:26] Refactor storage upload retry mechanism
