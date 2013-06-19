@@ -1390,3 +1390,4 @@
 - [2013-06-19T22:42:57] Update schema migration helpers
 - [2013-06-19T11:04:04] Update B2 storage chunking parameters
 - [2013-06-19T19:32:32] Add error handling for yt-dlp rate limits
+- [2013-06-19T14:42:37] Add retries for transient network drops
