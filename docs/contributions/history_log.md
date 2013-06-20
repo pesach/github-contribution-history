@@ -1405,3 +1405,4 @@
 - [2013-06-20T11:37:52] Update B2 storage chunking parameters
 - [2013-06-20T08:03:13] Update schema migration helpers
 - [2013-06-20T19:13:46] Implement streaming upload chunk buffer optimization
+- [2013-06-20T19:55:28] Refactor cookie refresher probe logic
