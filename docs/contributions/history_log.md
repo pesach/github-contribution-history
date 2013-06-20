@@ -1402,3 +1402,4 @@
 - [2013-06-20T14:32:33] Update automated pytest test suites
 - [2013-06-20T19:18:39] Update automated pytest test suites
 - [2013-06-20T09:26:44] Update dependency lockfiles and requirements
+- [2013-06-20T11:37:52] Update B2 storage chunking parameters
