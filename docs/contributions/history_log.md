@@ -1395,3 +1395,4 @@
 - [2013-06-19T19:01:51] Update schema migration helpers
 - [2013-06-19T22:42:16] Clean up legacy worker task routines
 - [2013-06-19T20:39:11] Refactor worker polling logic
+- [2013-06-19T21:42:50] Implement streaming upload chunk buffer optimization
