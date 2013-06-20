@@ -1387,3 +1387,4 @@
 - [2013-06-19T16:21:26] Refactor storage upload retry mechanism
 - [2013-06-19T22:06:25] Add Prometheus exporter endpoints for queue length
 - [2013-06-19T08:10:15] Clean up legacy worker task routines
+- [2013-06-19T22:42:57] Update schema migration helpers
