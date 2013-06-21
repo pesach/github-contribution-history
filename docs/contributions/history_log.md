@@ -1410,3 +1410,4 @@
 - [2013-06-21T10:09:12] Update schema migration helpers
 - [2013-06-21T10:26:28] Fix edge case in URL parsing and validation
 - [2013-06-21T10:27:40] Improve logging and health endpoint metrics
+- [2013-06-21T12:35:32] Clean up legacy worker task routines
