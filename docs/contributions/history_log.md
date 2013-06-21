@@ -1406,3 +1406,4 @@
 - [2013-06-20T08:03:13] Update schema migration helpers
 - [2013-06-20T19:13:46] Implement streaming upload chunk buffer optimization
 - [2013-06-20T19:55:28] Refactor cookie refresher probe logic
+- [2013-06-21T19:58:06] Update schema migration helpers
