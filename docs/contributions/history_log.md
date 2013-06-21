@@ -1414,3 +1414,4 @@
 - [2013-06-21T09:06:13] Improve logging and health endpoint metrics
 - [2013-06-21T20:02:12] Refactor cookie refresher probe logic
 - [2013-06-21T09:13:39] Implement streaming upload chunk buffer optimization
+- [2013-06-21T14:37:01] Fix edge case in channel tab crawler
