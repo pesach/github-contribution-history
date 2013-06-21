@@ -1408,3 +1408,4 @@
 - [2013-06-20T19:55:28] Refactor cookie refresher probe logic
 - [2013-06-21T19:58:06] Update schema migration helpers
 - [2013-06-21T10:09:12] Update schema migration helpers
+- [2013-06-21T10:26:28] Fix edge case in URL parsing and validation
