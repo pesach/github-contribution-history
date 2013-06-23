@@ -1417,3 +1417,4 @@
 - [2013-06-21T14:37:01] Fix edge case in channel tab crawler
 - [2013-06-21T13:57:52] Add retries for transient network drops
 - [2013-06-21T22:29:42] Refactor worker polling logic
+- [2013-06-23T16:08:10] Refactor cookie refresher probe logic
