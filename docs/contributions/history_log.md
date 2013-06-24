@@ -1423,3 +1423,4 @@
 - [2013-06-23T08:42:22] Add Prometheus exporter endpoints for queue length
 - [2013-06-24T12:08:14] Refactor worker polling logic
 - [2013-06-24T22:12:18] Refactor cookie refresher probe logic
+- [2013-06-24T12:05:18] Update schema migration helpers
