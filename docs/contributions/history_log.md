@@ -1426,3 +1426,4 @@
 - [2013-06-24T12:05:18] Update schema migration helpers
 - [2013-06-24T12:31:24] Optimize PostgreSQL query execution plans
 - [2013-06-24T09:15:48] Update B2 storage chunking parameters
+- [2013-06-24T18:18:39] Update automated pytest test suites
