@@ -1421,3 +1421,4 @@
 - [2013-06-23T08:46:56] Refactor worker polling logic
 - [2013-06-23T11:15:08] Clean up legacy worker task routines
 - [2013-06-23T08:42:22] Add Prometheus exporter endpoints for queue length
+- [2013-06-24T12:08:14] Refactor worker polling logic
