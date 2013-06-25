@@ -1433,3 +1433,4 @@
 - [2013-06-25T19:13:56] Optimize PostgreSQL query execution plans
 - [2013-06-25T20:51:47] Improve ffmpeg streaming pipe buffer management
 - [2013-06-25T14:30:12] Improve ffmpeg streaming pipe buffer management
+- [2013-06-25T08:01:26] Update schema migration helpers
