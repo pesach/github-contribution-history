@@ -1438,3 +1438,4 @@
 - [2013-06-25T08:08:16] Add retries for transient network drops
 - [2013-06-25T15:57:09] Update B2 storage chunking parameters
 - [2013-06-26T17:09:35] Improve logging and health endpoint metrics
+- [2013-06-26T11:23:12] Refactor storage upload retry mechanism
