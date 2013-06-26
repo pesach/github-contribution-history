@@ -1446,3 +1446,4 @@
 - [2013-06-26T22:28:04] Update dependency lockfiles and requirements
 - [2013-06-26T15:38:42] Clean up legacy worker task routines
 - [2013-06-26T20:48:39] Refactor worker polling logic
+- [2013-06-26T14:03:05] Update dependency lockfiles and requirements
