@@ -1440,3 +1440,4 @@
 - [2013-06-26T17:09:35] Improve logging and health endpoint metrics
 - [2013-06-26T11:23:12] Refactor storage upload retry mechanism
 - [2013-06-26T13:11:39] Refactor storage upload retry mechanism
+- [2013-06-26T11:37:14] Update documentation and architectural guides
