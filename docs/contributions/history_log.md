@@ -1441,3 +1441,4 @@
 - [2013-06-26T11:23:12] Refactor storage upload retry mechanism
 - [2013-06-26T13:11:39] Refactor storage upload retry mechanism
 - [2013-06-26T11:37:14] Update documentation and architectural guides
+- [2013-06-26T14:01:37] Refactor storage upload retry mechanism
