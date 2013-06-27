@@ -1461,3 +1461,4 @@
 - [2013-06-27T20:04:56] Add retries for transient network drops
 - [2013-06-27T09:16:59] Update automated pytest test suites
 - [2013-06-27T21:54:20] Optimize PostgreSQL query execution plans
+- [2013-06-27T17:33:52] Optimize PostgreSQL query execution plans
