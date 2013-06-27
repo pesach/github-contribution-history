@@ -1450,3 +1450,4 @@
 - [2013-06-26T13:13:08] Refactor worker polling logic
 - [2013-06-27T17:24:07] Improve ffmpeg streaming pipe buffer management
 - [2013-06-27T18:30:04] Add retries for transient network drops
+- [2013-06-27T09:19:16] Add Prometheus exporter endpoints for queue length
