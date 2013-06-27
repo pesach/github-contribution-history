@@ -1449,3 +1449,4 @@
 - [2013-06-26T14:03:05] Update dependency lockfiles and requirements
 - [2013-06-26T13:13:08] Refactor worker polling logic
 - [2013-06-27T17:24:07] Improve ffmpeg streaming pipe buffer management
+- [2013-06-27T18:30:04] Add retries for transient network drops
