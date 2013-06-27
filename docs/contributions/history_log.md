@@ -1443,3 +1443,4 @@
 - [2013-06-26T11:37:14] Update documentation and architectural guides
 - [2013-06-26T14:01:37] Refactor storage upload retry mechanism
 - [2013-06-26T20:20:37] Refactor cookie refresher probe logic
+- [2013-06-26T22:28:04] Update dependency lockfiles and requirements
