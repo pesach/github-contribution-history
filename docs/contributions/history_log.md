@@ -1459,3 +1459,4 @@
 - [2013-06-27T22:17:21] Update documentation and architectural guides
 - [2013-06-27T15:40:01] Update schema migration helpers
 - [2013-06-27T20:04:56] Add retries for transient network drops
+- [2013-06-27T09:16:59] Update automated pytest test suites
