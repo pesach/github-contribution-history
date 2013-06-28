@@ -1460,3 +1460,4 @@
 - [2013-06-27T15:40:01] Update schema migration helpers
 - [2013-06-27T20:04:56] Add retries for transient network drops
 - [2013-06-27T09:16:59] Update automated pytest test suites
+- [2013-06-27T21:54:20] Optimize PostgreSQL query execution plans
