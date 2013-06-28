@@ -1458,3 +1458,4 @@
 - [2013-06-27T10:57:47] Clean up legacy worker task routines
 - [2013-06-27T22:17:21] Update documentation and architectural guides
 - [2013-06-27T15:40:01] Update schema migration helpers
+- [2013-06-27T20:04:56] Add retries for transient network drops
