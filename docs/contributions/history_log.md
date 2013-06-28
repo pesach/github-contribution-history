@@ -1463,3 +1463,4 @@
 - [2013-06-27T21:54:20] Optimize PostgreSQL query execution plans
 - [2013-06-27T17:33:52] Optimize PostgreSQL query execution plans
 - [2013-06-28T12:12:21] Refactor worker polling logic
+- [2013-06-28T09:43:25] Refactor storage upload retry mechanism
