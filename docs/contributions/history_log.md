@@ -1467,3 +1467,4 @@
 - [2013-06-28T12:21:12] Refactor cookie refresher probe logic
 - [2013-06-28T15:22:42] Refactor worker polling logic
 - [2013-06-28T09:59:12] Update B2 storage chunking parameters
+- [2013-06-28T21:41:12] Fix edge case in URL parsing and validation
