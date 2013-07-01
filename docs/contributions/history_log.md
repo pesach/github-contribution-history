@@ -1480,3 +1480,4 @@
 - [2013-06-30T15:34:59] Add retries for transient network drops
 - [2013-06-30T08:38:23] Improve ffmpeg streaming pipe buffer management
 - [2013-06-30T21:15:22] Refactor cookie refresher probe logic
+- [2013-07-01T18:21:26] Clean up legacy worker task routines
