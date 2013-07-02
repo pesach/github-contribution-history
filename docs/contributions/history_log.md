@@ -1485,3 +1485,4 @@
 - [2013-07-01T19:37:01] Improve ffmpeg streaming pipe buffer management
 - [2013-07-01T12:38:49] Update dependency lockfiles and requirements
 - [2013-07-01T17:03:10] Refactor cookie refresher probe logic
+- [2013-07-01T22:34:02] Fix edge case in channel tab crawler
