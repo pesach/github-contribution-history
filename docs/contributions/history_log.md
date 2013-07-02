@@ -1503,3 +1503,4 @@
 - [2013-07-02T10:25:35] Refactor cookie refresher probe logic
 - [2013-07-02T10:22:38] Add Redis rate limit backoff handlers
 - [2013-07-02T10:44:00] Improve ffmpeg streaming pipe buffer management
+- [2013-07-02T18:49:39] Refactor storage upload retry mechanism
