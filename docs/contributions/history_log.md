@@ -1494,3 +1494,4 @@
 - [2013-07-01T19:33:21] Improve logging and health endpoint metrics
 - [2013-07-01T20:46:35] Update documentation and architectural guides
 - [2013-07-02T15:32:41] Optimize PostgreSQL query execution plans
+- [2013-07-02T08:22:44] Fix edge case in channel tab crawler
