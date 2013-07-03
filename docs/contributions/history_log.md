@@ -1497,3 +1497,4 @@
 - [2013-07-02T08:22:44] Fix edge case in channel tab crawler
 - [2013-07-02T10:39:30] Update dependency lockfiles and requirements
 - [2013-07-02T15:49:42] Add Prometheus exporter endpoints for queue length
+- [2013-07-02T20:19:42] Improve ffmpeg streaming pipe buffer management
