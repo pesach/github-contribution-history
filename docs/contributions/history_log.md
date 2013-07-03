@@ -1508,3 +1508,4 @@
 - [2013-07-03T09:12:01] Implement streaming upload chunk buffer optimization
 - [2013-07-03T20:20:42] Improve logging and health endpoint metrics
 - [2013-07-03T12:02:16] Update schema migration helpers
+- [2013-07-03T16:27:07] Add error handling for yt-dlp rate limits
