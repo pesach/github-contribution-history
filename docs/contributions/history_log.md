@@ -1514,3 +1514,4 @@
 - [2013-07-03T13:15:08] Update documentation and architectural guides
 - [2013-07-03T15:15:15] Refactor storage upload retry mechanism
 - [2013-07-03T13:44:26] Add Prometheus exporter endpoints for queue length
+- [2013-07-03T14:36:14] Clean up legacy worker task routines
