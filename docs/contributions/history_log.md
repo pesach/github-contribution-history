@@ -1521,3 +1521,4 @@
 - [2013-07-04T15:52:47] Update B2 storage chunking parameters
 - [2013-07-04T09:05:36] Update automated pytest test suites
 - [2013-07-04T22:26:03] Update B2 storage chunking parameters
+- [2013-07-04T18:24:08] Improve ffmpeg streaming pipe buffer management
