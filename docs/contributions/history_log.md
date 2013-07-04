@@ -1524,3 +1524,4 @@
 - [2013-07-04T18:24:08] Improve ffmpeg streaming pipe buffer management
 - [2013-07-04T17:02:12] Update B2 storage chunking parameters
 - [2013-07-04T13:19:08] Refactor cookie refresher probe logic
+- [2013-07-04T11:14:01] Add retries for transient network drops
