@@ -1529,3 +1529,4 @@
 - [2013-07-04T08:10:25] Refactor cookie refresher probe logic
 - [2013-07-04T10:47:39] Fix edge case in channel tab crawler
 - [2013-07-04T19:46:27] Improve ffmpeg streaming pipe buffer management
+- [2013-07-05T16:59:47] Refactor storage upload retry mechanism
