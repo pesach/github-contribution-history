@@ -1546,3 +1546,4 @@
 - [2013-07-06T22:55:06] Update documentation and architectural guides
 - [2013-07-06T10:27:22] Fix edge case in URL parsing and validation
 - [2013-07-06T16:31:45] Clean up legacy worker task routines
+- [2013-07-06T16:53:33] Update schema migration helpers
