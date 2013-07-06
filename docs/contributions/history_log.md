@@ -1536,3 +1536,4 @@
 - [2013-07-05T19:50:19] Optimize PostgreSQL query execution plans
 - [2013-07-05T14:20:23] Implement streaming upload chunk buffer optimization
 - [2013-07-05T10:03:10] Add retries for transient network drops
+- [2013-07-05T20:51:49] Fix edge case in channel tab crawler
