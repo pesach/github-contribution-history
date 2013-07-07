@@ -1548,3 +1548,4 @@
 - [2013-07-06T16:31:45] Clean up legacy worker task routines
 - [2013-07-06T16:53:33] Update schema migration helpers
 - [2013-07-06T11:13:24] Update automated pytest test suites
+- [2013-07-07T16:29:51] Update dependency lockfiles and requirements
