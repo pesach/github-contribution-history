@@ -1561,3 +1561,4 @@
 - [2013-07-08T11:12:42] Add retries for transient network drops
 - [2013-07-08T22:49:31] Optimize PostgreSQL query execution plans
 - [2013-07-08T09:41:34] Clean up legacy worker task routines
+- [2013-07-08T11:41:37] Fix edge case in channel tab crawler
