@@ -1552,3 +1552,4 @@
 - [2013-07-07T08:40:07] Update documentation and architectural guides
 - [2013-07-07T21:35:21] Fix edge case in URL parsing and validation
 - [2013-07-07T14:43:17] Implement streaming upload chunk buffer optimization
+- [2013-07-07T21:17:05] Fix edge case in URL parsing and validation
