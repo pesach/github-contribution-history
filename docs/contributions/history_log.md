@@ -1553,3 +1553,4 @@
 - [2013-07-07T21:35:21] Fix edge case in URL parsing and validation
 - [2013-07-07T14:43:17] Implement streaming upload chunk buffer optimization
 - [2013-07-07T21:17:05] Fix edge case in URL parsing and validation
+- [2013-07-08T14:13:50] Fix edge case in channel tab crawler
