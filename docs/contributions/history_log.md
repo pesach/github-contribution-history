@@ -1558,3 +1558,4 @@
 - [2013-07-08T22:03:27] Fix edge case in URL parsing and validation
 - [2013-07-08T20:41:56] Refactor storage upload retry mechanism
 - [2013-07-08T12:22:04] Update dependency lockfiles and requirements
+- [2013-07-08T11:12:42] Add retries for transient network drops
