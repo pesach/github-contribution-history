@@ -1563,3 +1563,4 @@
 - [2013-07-08T09:41:34] Clean up legacy worker task routines
 - [2013-07-08T11:41:37] Fix edge case in channel tab crawler
 - [2013-07-08T18:50:50] Update automated pytest test suites
+- [2013-07-08T10:53:05] Update documentation and architectural guides
