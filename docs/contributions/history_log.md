@@ -1568,3 +1568,4 @@
 - [2013-07-09T14:33:55] Update dependency lockfiles and requirements
 - [2013-07-09T14:51:19] Optimize PostgreSQL query execution plans
 - [2013-07-09T11:31:25] Refactor cookie refresher probe logic
+- [2013-07-09T08:57:48] Add retries for transient network drops
