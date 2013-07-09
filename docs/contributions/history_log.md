@@ -1570,3 +1570,4 @@
 - [2013-07-09T11:31:25] Refactor cookie refresher probe logic
 - [2013-07-09T08:57:48] Add retries for transient network drops
 - [2013-07-09T19:30:56] Refactor cookie refresher probe logic
+- [2013-07-09T17:33:29] Update dependency lockfiles and requirements
