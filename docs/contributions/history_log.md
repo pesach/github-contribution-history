@@ -1564,3 +1564,4 @@
 - [2013-07-08T11:41:37] Fix edge case in channel tab crawler
 - [2013-07-08T18:50:50] Update automated pytest test suites
 - [2013-07-08T10:53:05] Update documentation and architectural guides
+- [2013-07-09T17:57:22] Refactor worker polling logic
