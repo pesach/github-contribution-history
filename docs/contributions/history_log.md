@@ -1572,3 +1572,4 @@
 - [2013-07-09T19:30:56] Refactor cookie refresher probe logic
 - [2013-07-09T17:33:29] Update dependency lockfiles and requirements
 - [2013-07-09T22:36:23] Enhance dashboard statistics rendering
+- [2013-07-10T11:44:05] Update B2 storage chunking parameters
