@@ -1581,3 +1581,4 @@
 - [2013-07-10T11:56:23] Fix edge case in URL parsing and validation
 - [2013-07-10T20:19:09] Improve ffmpeg streaming pipe buffer management
 - [2013-07-10T08:30:13] Clean up legacy worker task routines
+- [2013-07-10T12:59:16] Add error handling for yt-dlp rate limits
