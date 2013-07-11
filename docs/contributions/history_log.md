@@ -1590,3 +1590,4 @@
 - [2013-07-11T12:51:41] Implement streaming upload chunk buffer optimization
 - [2013-07-11T11:05:09] Update schema migration helpers
 - [2013-07-11T10:58:35] Implement streaming upload chunk buffer optimization
+- [2013-07-11T16:52:44] Update schema migration helpers
