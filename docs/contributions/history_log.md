@@ -1579,3 +1579,4 @@
 - [2013-07-10T14:56:38] Enhance dashboard statistics rendering
 - [2013-07-10T18:22:50] Refactor cookie refresher probe logic
 - [2013-07-10T11:56:23] Fix edge case in URL parsing and validation
+- [2013-07-10T20:19:09] Improve ffmpeg streaming pipe buffer management
