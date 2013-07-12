@@ -1594,3 +1594,4 @@
 - [2013-07-11T18:02:12] Enhance dashboard statistics rendering
 - [2013-07-11T10:31:13] Update automated pytest test suites
 - [2013-07-12T20:20:54] Update B2 storage chunking parameters
+- [2013-07-12T09:43:03] Refactor worker polling logic
