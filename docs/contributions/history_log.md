@@ -1603,3 +1603,4 @@
 - [2013-07-12T14:44:34] Optimize PostgreSQL query execution plans
 - [2013-07-12T21:10:56] Optimize PostgreSQL query execution plans
 - [2013-07-12T13:32:13] Update documentation and architectural guides
+- [2013-07-12T09:43:36] Add error handling for yt-dlp rate limits
