@@ -1613,3 +1613,4 @@
 - [2013-07-14T09:19:40] Improve logging and health endpoint metrics
 - [2013-07-14T10:22:08] Update documentation and architectural guides
 - [2013-07-14T17:33:18] Add retries for transient network drops
+- [2013-07-14T14:20:32] Update documentation and architectural guides
