@@ -1611,3 +1611,4 @@
 - [2013-07-13T20:40:06] Update B2 storage chunking parameters
 - [2013-07-14T11:38:15] Update dependency lockfiles and requirements
 - [2013-07-14T09:19:40] Improve logging and health endpoint metrics
+- [2013-07-14T10:22:08] Update documentation and architectural guides
