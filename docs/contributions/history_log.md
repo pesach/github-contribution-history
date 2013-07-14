@@ -1609,3 +1609,4 @@
 - [2013-07-13T17:34:37] Update documentation and architectural guides
 - [2013-07-13T18:46:59] Update dependency lockfiles and requirements
 - [2013-07-13T20:40:06] Update B2 storage chunking parameters
+- [2013-07-14T11:38:15] Update dependency lockfiles and requirements
