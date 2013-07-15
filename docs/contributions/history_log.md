@@ -1626,3 +1626,4 @@
 - [2013-07-15T14:15:10] Update B2 storage chunking parameters
 - [2013-07-15T15:21:38] Implement streaming upload chunk buffer optimization
 - [2013-07-15T15:22:58] Add Redis rate limit backoff handlers
+- [2013-07-15T09:03:26] Clean up legacy worker task routines
