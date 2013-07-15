@@ -1615,3 +1615,4 @@
 - [2013-07-14T17:33:18] Add retries for transient network drops
 - [2013-07-14T14:20:32] Update documentation and architectural guides
 - [2013-07-14T18:01:51] Clean up legacy worker task routines
+- [2013-07-15T14:16:13] Update dependency lockfiles and requirements
