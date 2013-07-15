@@ -1624,3 +1624,4 @@
 - [2013-07-15T21:53:33] Update automated pytest test suites
 - [2013-07-15T13:13:10] Update schema migration helpers
 - [2013-07-15T14:15:10] Update B2 storage chunking parameters
+- [2013-07-15T15:21:38] Implement streaming upload chunk buffer optimization
