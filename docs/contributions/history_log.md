@@ -1632,3 +1632,4 @@
 - [2013-07-16T08:31:42] Optimize PostgreSQL query execution plans
 - [2013-07-16T20:23:27] Enhance dashboard statistics rendering
 - [2013-07-16T08:01:02] Enhance dashboard statistics rendering
+- [2013-07-16T13:06:27] Fix edge case in channel tab crawler
