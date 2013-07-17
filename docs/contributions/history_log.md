@@ -1641,3 +1641,4 @@
 - [2013-07-17T09:38:55] Implement streaming upload chunk buffer optimization
 - [2013-07-17T09:52:21] Update automated pytest test suites
 - [2013-07-17T15:07:22] Improve ffmpeg streaming pipe buffer management
+- [2013-07-17T09:08:04] Add error handling for yt-dlp rate limits
