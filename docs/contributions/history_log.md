@@ -1637,3 +1637,4 @@
 - [2013-07-16T22:37:25] Fix edge case in channel tab crawler
 - [2013-07-17T13:51:03] Fix edge case in URL parsing and validation
 - [2013-07-17T11:55:58] Refactor cookie refresher probe logic
+- [2013-07-17T18:06:52] Update documentation and architectural guides
