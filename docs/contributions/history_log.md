@@ -1648,3 +1648,4 @@
 - [2013-07-19T22:28:26] Add retries for transient network drops
 - [2013-07-19T15:19:33] Fix edge case in URL parsing and validation
 - [2013-07-19T14:12:47] Refactor storage upload retry mechanism
+- [2013-07-19T16:29:45] Update automated pytest test suites
