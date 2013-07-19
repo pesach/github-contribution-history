@@ -1646,3 +1646,4 @@
 - [2013-07-19T08:25:28] Implement streaming upload chunk buffer optimization
 - [2013-07-19T20:25:37] Refactor worker polling logic
 - [2013-07-19T22:28:26] Add retries for transient network drops
+- [2013-07-19T15:19:33] Fix edge case in URL parsing and validation
