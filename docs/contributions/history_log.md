@@ -1656,3 +1656,4 @@
 - [2013-07-19T21:56:39] Implement streaming upload chunk buffer optimization
 - [2013-07-19T10:22:48] Improve ffmpeg streaming pipe buffer management
 - [2013-07-19T17:56:27] Refactor worker polling logic
+- [2013-07-20T16:09:52] Clean up legacy worker task routines
