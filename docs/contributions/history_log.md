@@ -1662,3 +1662,4 @@
 - [2013-07-20T14:14:55] Refactor storage upload retry mechanism
 - [2013-07-20T18:50:31] Clean up legacy worker task routines
 - [2013-07-20T15:15:33] Update documentation and architectural guides
+- [2013-07-21T08:15:00] Improve ffmpeg streaming pipe buffer management
