@@ -1657,3 +1657,4 @@
 - [2013-07-19T10:22:48] Improve ffmpeg streaming pipe buffer management
 - [2013-07-19T17:56:27] Refactor worker polling logic
 - [2013-07-20T16:09:52] Clean up legacy worker task routines
+- [2013-07-20T20:44:51] Update schema migration helpers
