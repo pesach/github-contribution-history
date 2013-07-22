@@ -1666,3 +1666,4 @@
 - [2013-07-21T22:03:58] Add retries for transient network drops
 - [2013-07-21T10:27:15] Add Redis rate limit backoff handlers
 - [2013-07-21T19:49:16] Implement streaming upload chunk buffer optimization
+- [2013-07-22T14:58:43] Refactor storage upload retry mechanism
