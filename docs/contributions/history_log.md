@@ -1674,3 +1674,4 @@
 - [2013-07-22T21:04:22] Refactor storage upload retry mechanism
 - [2013-07-24T14:58:11] Refactor storage upload retry mechanism
 - [2013-07-24T16:19:54] Clean up legacy worker task routines
+- [2013-07-24T18:09:08] Refactor storage upload retry mechanism
