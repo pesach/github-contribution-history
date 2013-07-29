@@ -1692,3 +1692,4 @@
 - [2013-07-29T11:41:49] Update B2 storage chunking parameters
 - [2013-07-29T22:35:39] Enhance dashboard statistics rendering
 - [2013-07-29T15:31:23] Update dependency lockfiles and requirements
+- [2013-07-29T17:48:40] Enhance dashboard statistics rendering
