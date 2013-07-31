@@ -1703,3 +1703,4 @@
 - [2013-07-31T18:58:10] Update B2 storage chunking parameters
 - [2013-07-31T08:17:18] Improve ffmpeg streaming pipe buffer management
 - [2013-07-31T19:14:36] Add retries for transient network drops
+- [2013-07-31T12:46:17] Improve ffmpeg streaming pipe buffer management
