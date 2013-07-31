@@ -1700,3 +1700,4 @@
 - [2013-07-31T12:00:46] Improve ffmpeg streaming pipe buffer management
 - [2013-07-31T22:57:43] Refactor cookie refresher probe logic
 - [2013-07-31T21:46:09] Fix edge case in URL parsing and validation
+- [2013-07-31T18:58:10] Update B2 storage chunking parameters
