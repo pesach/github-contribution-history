@@ -1706,3 +1706,4 @@
 - [2013-07-31T12:46:17] Improve ffmpeg streaming pipe buffer management
 - [2013-07-31T18:14:12] Update B2 storage chunking parameters
 - [2013-07-31T16:51:23] Update dependency lockfiles and requirements
+- [2013-07-31T10:39:41] Update automated pytest test suites
