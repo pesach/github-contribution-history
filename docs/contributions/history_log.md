@@ -1713,3 +1713,4 @@
 - [2013-08-01T22:12:44] Improve ffmpeg streaming pipe buffer management
 - [2013-08-01T12:32:04] Enhance dashboard statistics rendering
 - [2013-08-01T21:34:01] Improve logging and health endpoint metrics
+- [2013-08-01T14:45:48] Update schema migration helpers
