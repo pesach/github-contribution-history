@@ -1720,3 +1720,4 @@
 - [2013-08-01T12:23:25] Fix edge case in channel tab crawler
 - [2013-08-01T10:50:55] Improve logging and health endpoint metrics
 - [2013-08-01T08:26:54] Update schema migration helpers
+- [2013-08-01T09:20:54] Add retries for transient network drops
