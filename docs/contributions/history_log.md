@@ -1717,3 +1717,4 @@
 - [2013-08-01T21:47:21] Update documentation and architectural guides
 - [2013-08-01T19:40:18] Add retries for transient network drops
 - [2013-08-01T16:10:58] Optimize PostgreSQL query execution plans
+- [2013-08-01T12:23:25] Fix edge case in channel tab crawler
