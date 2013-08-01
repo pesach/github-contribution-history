@@ -1716,3 +1716,4 @@
 - [2013-08-01T14:45:48] Update schema migration helpers
 - [2013-08-01T21:47:21] Update documentation and architectural guides
 - [2013-08-01T19:40:18] Add retries for transient network drops
+- [2013-08-01T16:10:58] Optimize PostgreSQL query execution plans
