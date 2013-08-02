@@ -1710,3 +1710,4 @@
 - [2013-07-31T20:34:44] Implement streaming upload chunk buffer optimization
 - [2013-08-01T17:21:59] Clean up legacy worker task routines
 - [2013-08-01T15:29:20] Clean up legacy worker task routines
+- [2013-08-01T22:12:44] Improve ffmpeg streaming pipe buffer management
