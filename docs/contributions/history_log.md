@@ -1730,3 +1730,4 @@
 - [2013-08-05T17:22:12] Optimize PostgreSQL query execution plans
 - [2013-08-05T15:19:07] Improve logging and health endpoint metrics
 - [2013-08-05T22:24:18] Improve logging and health endpoint metrics
+- [2013-08-05T18:08:09] Update schema migration helpers
