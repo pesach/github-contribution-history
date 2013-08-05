@@ -1727,3 +1727,4 @@
 - [2013-08-04T21:47:18] Update automated pytest test suites
 - [2013-08-05T21:32:08] Improve ffmpeg streaming pipe buffer management
 - [2013-08-05T22:52:35] Clean up legacy worker task routines
+- [2013-08-05T17:22:12] Optimize PostgreSQL query execution plans
