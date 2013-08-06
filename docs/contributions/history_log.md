@@ -1736,3 +1736,4 @@
 - [2013-08-06T16:40:01] Clean up legacy worker task routines
 - [2013-08-06T18:45:59] Refactor storage upload retry mechanism
 - [2013-08-06T21:36:04] Update automated pytest test suites
+- [2013-08-06T19:27:06] Fix edge case in channel tab crawler
