@@ -1733,3 +1733,4 @@
 - [2013-08-05T18:08:09] Update schema migration helpers
 - [2013-08-06T19:00:13] Clean up legacy worker task routines
 - [2013-08-06T14:10:38] Improve ffmpeg streaming pipe buffer management
+- [2013-08-06T16:40:01] Clean up legacy worker task routines
