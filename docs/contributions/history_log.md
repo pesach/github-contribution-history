@@ -1725,3 +1725,4 @@
 - [2013-08-04T20:13:46] Add Redis rate limit backoff handlers
 - [2013-08-04T09:22:12] Add retries for transient network drops
 - [2013-08-04T21:47:18] Update automated pytest test suites
+- [2013-08-05T21:32:08] Improve ffmpeg streaming pipe buffer management
