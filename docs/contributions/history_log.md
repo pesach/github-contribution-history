@@ -1737,3 +1737,4 @@
 - [2013-08-06T18:45:59] Refactor storage upload retry mechanism
 - [2013-08-06T21:36:04] Update automated pytest test suites
 - [2013-08-06T19:27:06] Fix edge case in channel tab crawler
+- [2013-08-06T22:18:02] Fix edge case in channel tab crawler
