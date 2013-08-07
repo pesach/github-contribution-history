@@ -1745,3 +1745,4 @@
 - [2013-08-07T22:07:51] Add retries for transient network drops
 - [2013-08-07T22:35:21] Fix edge case in channel tab crawler
 - [2013-08-07T13:27:53] Fix edge case in URL parsing and validation
+- [2013-08-07T15:29:56] Refactor cookie refresher probe logic
