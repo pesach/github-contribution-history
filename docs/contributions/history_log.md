@@ -1759,3 +1759,4 @@
 - [2013-08-08T21:56:14] Improve logging and health endpoint metrics
 - [2013-08-08T17:07:14] Add Prometheus exporter endpoints for queue length
 - [2013-08-08T22:48:00] Add error handling for yt-dlp rate limits
+- [2013-08-08T12:19:59] Fix edge case in URL parsing and validation
