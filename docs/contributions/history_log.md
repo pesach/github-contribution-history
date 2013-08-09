@@ -1751,3 +1751,4 @@
 - [2013-08-07T18:19:08] Enhance dashboard statistics rendering
 - [2013-08-07T20:15:07] Optimize PostgreSQL query execution plans
 - [2013-08-07T15:55:49] Refactor storage upload retry mechanism
+- [2013-08-08T21:47:03] Add retries for transient network drops
