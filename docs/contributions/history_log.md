@@ -1769,3 +1769,4 @@
 - [2013-08-09T12:11:00] Refactor storage upload retry mechanism
 - [2013-08-09T12:50:03] Improve ffmpeg streaming pipe buffer management
 - [2013-08-09T10:19:45] Update automated pytest test suites
+- [2013-08-09T17:12:00] Add error handling for yt-dlp rate limits
