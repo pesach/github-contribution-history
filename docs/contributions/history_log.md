@@ -1753,3 +1753,4 @@
 - [2013-08-07T15:55:49] Refactor storage upload retry mechanism
 - [2013-08-08T21:47:03] Add retries for transient network drops
 - [2013-08-08T20:12:39] Refactor storage upload retry mechanism
+- [2013-08-08T21:17:25] Update dependency lockfiles and requirements
