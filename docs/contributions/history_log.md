@@ -1773,3 +1773,4 @@
 - [2013-08-09T17:00:59] Update automated pytest test suites
 - [2013-08-09T11:44:14] Improve logging and health endpoint metrics
 - [2013-08-12T14:44:25] Clean up legacy worker task routines
+- [2013-08-12T16:41:06] Refactor storage upload retry mechanism
