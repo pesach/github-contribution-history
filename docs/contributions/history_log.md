@@ -1777,3 +1777,4 @@
 - [2013-08-12T18:33:16] Fix edge case in channel tab crawler
 - [2013-08-12T14:51:23] Enhance dashboard statistics rendering
 - [2013-08-12T12:02:13] Add Redis rate limit backoff handlers
+- [2013-08-12T17:08:26] Refactor worker polling logic
