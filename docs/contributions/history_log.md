@@ -1779,3 +1779,4 @@
 - [2013-08-12T12:02:13] Add Redis rate limit backoff handlers
 - [2013-08-12T17:08:26] Refactor worker polling logic
 - [2013-08-12T11:31:00] Refactor storage upload retry mechanism
+- [2013-08-12T21:44:50] Add retries for transient network drops
