@@ -1782,3 +1782,4 @@
 - [2013-08-12T21:44:50] Add retries for transient network drops
 - [2013-08-12T12:02:38] Enhance dashboard statistics rendering
 - [2013-08-13T14:52:35] Improve logging and health endpoint metrics
+- [2013-08-13T15:26:48] Refactor cookie refresher probe logic
