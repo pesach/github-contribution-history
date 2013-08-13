@@ -1786,3 +1786,4 @@
 - [2013-08-13T11:31:34] Update B2 storage chunking parameters
 - [2013-08-13T21:23:54] Update automated pytest test suites
 - [2013-08-13T22:00:30] Update dependency lockfiles and requirements
+- [2013-08-13T16:55:11] Add Redis rate limit backoff handlers
