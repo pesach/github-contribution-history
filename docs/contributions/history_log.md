@@ -1783,3 +1783,4 @@
 - [2013-08-12T12:02:38] Enhance dashboard statistics rendering
 - [2013-08-13T14:52:35] Improve logging and health endpoint metrics
 - [2013-08-13T15:26:48] Refactor cookie refresher probe logic
+- [2013-08-13T11:31:34] Update B2 storage chunking parameters
