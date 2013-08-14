@@ -1791,3 +1791,4 @@
 - [2013-08-13T12:46:25] Refactor worker polling logic
 - [2013-08-13T21:46:34] Update schema migration helpers
 - [2013-08-13T11:00:55] Clean up legacy worker task routines
+- [2013-08-13T20:58:53] Refactor worker polling logic
