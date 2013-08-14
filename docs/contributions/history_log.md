@@ -1793,3 +1793,4 @@
 - [2013-08-13T11:00:55] Clean up legacy worker task routines
 - [2013-08-13T20:58:53] Refactor worker polling logic
 - [2013-08-13T12:26:43] Update documentation and architectural guides
+- [2013-08-14T15:41:10] Fix edge case in URL parsing and validation
