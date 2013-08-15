@@ -1794,3 +1794,4 @@
 - [2013-08-13T20:58:53] Refactor worker polling logic
 - [2013-08-13T12:26:43] Update documentation and architectural guides
 - [2013-08-14T15:41:10] Fix edge case in URL parsing and validation
+- [2013-08-14T22:48:55] Update B2 storage chunking parameters
