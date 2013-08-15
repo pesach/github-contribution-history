@@ -1806,3 +1806,4 @@
 - [2013-08-15T15:38:22] Add retries for transient network drops
 - [2013-08-15T22:51:14] Refactor worker polling logic
 - [2013-08-15T20:58:36] Refactor storage upload retry mechanism
+- [2013-08-15T16:50:21] Update B2 storage chunking parameters
