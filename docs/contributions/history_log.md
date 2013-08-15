@@ -1802,3 +1802,4 @@
 - [2013-08-14T19:47:06] Refactor storage upload retry mechanism
 - [2013-08-15T16:00:46] Refactor worker polling logic
 - [2013-08-15T13:20:06] Fix edge case in channel tab crawler
+- [2013-08-15T17:03:58] Add retries for transient network drops
