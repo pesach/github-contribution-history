@@ -1809,3 +1809,4 @@
 - [2013-08-15T16:50:21] Update B2 storage chunking parameters
 - [2013-08-16T09:53:15] Improve ffmpeg streaming pipe buffer management
 - [2013-08-16T20:58:51] Improve ffmpeg streaming pipe buffer management
+- [2013-08-16T10:28:34] Update schema migration helpers
