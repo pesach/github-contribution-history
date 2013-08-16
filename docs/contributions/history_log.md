@@ -1810,3 +1810,4 @@
 - [2013-08-16T09:53:15] Improve ffmpeg streaming pipe buffer management
 - [2013-08-16T20:58:51] Improve ffmpeg streaming pipe buffer management
 - [2013-08-16T10:28:34] Update schema migration helpers
+- [2013-08-16T17:25:14] Refactor cookie refresher probe logic
