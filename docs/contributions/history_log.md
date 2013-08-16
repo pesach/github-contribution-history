@@ -1805,3 +1805,4 @@
 - [2013-08-15T17:03:58] Add retries for transient network drops
 - [2013-08-15T15:38:22] Add retries for transient network drops
 - [2013-08-15T22:51:14] Refactor worker polling logic
+- [2013-08-15T20:58:36] Refactor storage upload retry mechanism
