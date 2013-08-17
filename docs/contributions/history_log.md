@@ -1820,3 +1820,4 @@
 - [2013-08-17T08:02:06] Enhance dashboard statistics rendering
 - [2013-08-17T12:26:11] Add error handling for yt-dlp rate limits
 - [2013-08-17T14:18:05] Update schema migration helpers
+- [2013-08-17T14:50:04] Add error handling for yt-dlp rate limits
