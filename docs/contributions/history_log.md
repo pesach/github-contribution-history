@@ -1827,3 +1827,4 @@
 - [2013-08-18T09:29:54] Update schema migration helpers
 - [2013-08-18T20:30:44] Improve ffmpeg streaming pipe buffer management
 - [2013-08-18T11:02:20] Improve ffmpeg streaming pipe buffer management
+- [2013-08-18T16:43:10] Enhance dashboard statistics rendering
