@@ -1823,3 +1823,4 @@
 - [2013-08-17T14:50:04] Add error handling for yt-dlp rate limits
 - [2013-08-17T18:35:32] Improve logging and health endpoint metrics
 - [2013-08-18T22:28:35] Update automated pytest test suites
+- [2013-08-18T17:19:16] Improve ffmpeg streaming pipe buffer management
