@@ -1833,3 +1833,4 @@
 - [2013-08-19T13:27:58] Add retries for transient network drops
 - [2013-08-19T17:00:49] Update automated pytest test suites
 - [2013-08-19T20:20:31] Fix edge case in channel tab crawler
+- [2013-08-19T19:08:37] Refactor cookie refresher probe logic
