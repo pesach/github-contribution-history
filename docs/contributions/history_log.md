@@ -1825,3 +1825,4 @@
 - [2013-08-18T22:28:35] Update automated pytest test suites
 - [2013-08-18T17:19:16] Improve ffmpeg streaming pipe buffer management
 - [2013-08-18T09:29:54] Update schema migration helpers
+- [2013-08-18T20:30:44] Improve ffmpeg streaming pipe buffer management
