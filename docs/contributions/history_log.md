@@ -1836,3 +1836,4 @@
 - [2013-08-19T19:08:37] Refactor cookie refresher probe logic
 - [2013-08-19T11:56:42] Refactor cookie refresher probe logic
 - [2013-08-19T18:09:11] Update dependency lockfiles and requirements
+- [2013-08-19T16:15:35] Fix edge case in channel tab crawler
