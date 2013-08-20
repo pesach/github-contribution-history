@@ -1842,3 +1842,4 @@
 - [2013-08-19T20:13:03] Add Prometheus exporter endpoints for queue length
 - [2013-08-19T14:33:22] Refactor cookie refresher probe logic
 - [2013-08-19T19:42:54] Update dependency lockfiles and requirements
+- [2013-08-20T08:13:47] Update schema migration helpers
