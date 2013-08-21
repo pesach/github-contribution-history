@@ -1863,3 +1863,4 @@
 - [2013-08-21T14:07:42] Update B2 storage chunking parameters
 - [2013-08-21T22:11:19] Optimize PostgreSQL query execution plans
 - [2013-08-21T13:37:50] Refactor worker polling logic
+- [2013-08-21T19:02:33] Fix edge case in channel tab crawler
