@@ -1862,3 +1862,4 @@
 - [2013-08-21T19:54:53] Add Redis rate limit backoff handlers
 - [2013-08-21T14:07:42] Update B2 storage chunking parameters
 - [2013-08-21T22:11:19] Optimize PostgreSQL query execution plans
+- [2013-08-21T13:37:50] Refactor worker polling logic
