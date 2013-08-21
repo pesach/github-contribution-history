@@ -1844,3 +1844,4 @@
 - [2013-08-19T19:42:54] Update dependency lockfiles and requirements
 - [2013-08-20T08:13:47] Update schema migration helpers
 - [2013-08-20T14:17:52] Enhance dashboard statistics rendering
+- [2013-08-20T21:03:55] Add Prometheus exporter endpoints for queue length
