@@ -1858,3 +1858,4 @@
 - [2013-08-21T14:25:30] Add Prometheus exporter endpoints for queue length
 - [2013-08-21T14:22:45] Update dependency lockfiles and requirements
 - [2013-08-21T13:10:57] Fix edge case in URL parsing and validation
+- [2013-08-21T15:28:07] Add retries for transient network drops
