@@ -1864,3 +1864,4 @@
 - [2013-08-21T22:11:19] Optimize PostgreSQL query execution plans
 - [2013-08-21T13:37:50] Refactor worker polling logic
 - [2013-08-21T19:02:33] Fix edge case in channel tab crawler
+- [2013-08-22T14:30:38] Optimize PostgreSQL query execution plans
