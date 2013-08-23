@@ -1867,3 +1867,4 @@
 - [2013-08-22T14:30:38] Optimize PostgreSQL query execution plans
 - [2013-08-22T15:42:50] Add Redis rate limit backoff handlers
 - [2013-08-22T22:48:51] Update documentation and architectural guides
+- [2013-08-22T20:40:19] Fix edge case in URL parsing and validation
