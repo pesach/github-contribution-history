@@ -1866,3 +1866,4 @@
 - [2013-08-21T19:02:33] Fix edge case in channel tab crawler
 - [2013-08-22T14:30:38] Optimize PostgreSQL query execution plans
 - [2013-08-22T15:42:50] Add Redis rate limit backoff handlers
+- [2013-08-22T22:48:51] Update documentation and architectural guides
