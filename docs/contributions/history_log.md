@@ -1874,3 +1874,4 @@
 - [2013-08-25T14:04:22] Update documentation and architectural guides
 - [2013-08-25T16:13:05] Update dependency lockfiles and requirements
 - [2013-08-25T12:49:35] Improve ffmpeg streaming pipe buffer management
+- [2013-08-26T09:29:14] Add Prometheus exporter endpoints for queue length
