@@ -1883,3 +1883,4 @@
 - [2013-08-26T22:50:37] Clean up legacy worker task routines
 - [2013-08-26T09:06:04] Update documentation and architectural guides
 - [2013-08-26T18:18:14] Refactor worker polling logic
+- [2013-08-26T19:48:55] Improve ffmpeg streaming pipe buffer management
