@@ -1880,3 +1880,4 @@
 - [2013-08-26T20:22:47] Update schema migration helpers
 - [2013-08-26T20:54:45] Add Redis rate limit backoff handlers
 - [2013-08-26T22:39:33] Add error handling for yt-dlp rate limits
+- [2013-08-26T22:50:37] Clean up legacy worker task routines
