@@ -1890,3 +1890,4 @@
 - [2013-08-28T22:22:28] Update automated pytest test suites
 - [2013-08-28T08:58:21] Update documentation and architectural guides
 - [2013-08-28T13:46:03] Fix edge case in channel tab crawler
+- [2013-08-28T09:10:58] Update documentation and architectural guides
