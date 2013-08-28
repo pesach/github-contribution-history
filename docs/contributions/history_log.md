@@ -1884,3 +1884,4 @@
 - [2013-08-26T09:06:04] Update documentation and architectural guides
 - [2013-08-26T18:18:14] Refactor worker polling logic
 - [2013-08-26T19:48:55] Improve ffmpeg streaming pipe buffer management
+- [2013-08-28T15:38:54] Fix edge case in channel tab crawler
