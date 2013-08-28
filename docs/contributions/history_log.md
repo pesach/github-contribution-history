@@ -1895,3 +1895,4 @@
 - [2013-08-28T18:07:54] Refactor cookie refresher probe logic
 - [2013-08-28T22:51:13] Clean up legacy worker task routines
 - [2013-08-28T14:46:07] Implement streaming upload chunk buffer optimization
+- [2013-08-28T16:46:08] Refactor storage upload retry mechanism
