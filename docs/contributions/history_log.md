@@ -1904,3 +1904,4 @@
 - [2013-08-29T12:42:06] Update B2 storage chunking parameters
 - [2013-08-29T12:26:55] Refactor worker polling logic
 - [2013-08-29T22:42:47] Update dependency lockfiles and requirements
+- [2013-08-29T17:54:29] Update schema migration helpers
