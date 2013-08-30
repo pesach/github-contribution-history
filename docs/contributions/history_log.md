@@ -1911,3 +1911,4 @@
 - [2013-08-30T22:39:26] Add retries for transient network drops
 - [2013-08-30T20:32:56] Add error handling for yt-dlp rate limits
 - [2013-08-30T16:29:04] Update dependency lockfiles and requirements
+- [2013-08-30T14:14:40] Update B2 storage chunking parameters
