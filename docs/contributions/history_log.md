@@ -1903,3 +1903,4 @@
 - [2013-08-29T09:18:29] Update automated pytest test suites
 - [2013-08-29T12:42:06] Update B2 storage chunking parameters
 - [2013-08-29T12:26:55] Refactor worker polling logic
+- [2013-08-29T22:42:47] Update dependency lockfiles and requirements
