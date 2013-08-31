@@ -1908,3 +1908,4 @@
 - [2013-08-30T20:06:29] Refactor cookie refresher probe logic
 - [2013-08-30T17:20:14] Refactor worker polling logic
 - [2013-08-30T20:57:24] Improve logging and health endpoint metrics
+- [2013-08-30T22:39:26] Add retries for transient network drops
