@@ -1905,3 +1905,4 @@
 - [2013-08-29T12:26:55] Refactor worker polling logic
 - [2013-08-29T22:42:47] Update dependency lockfiles and requirements
 - [2013-08-29T17:54:29] Update schema migration helpers
+- [2013-08-30T20:06:29] Refactor cookie refresher probe logic
