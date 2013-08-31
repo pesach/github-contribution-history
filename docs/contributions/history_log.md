@@ -1913,3 +1913,4 @@
 - [2013-08-30T16:29:04] Update dependency lockfiles and requirements
 - [2013-08-30T14:14:40] Update B2 storage chunking parameters
 - [2013-08-31T13:37:27] Update documentation and architectural guides
+- [2013-08-31T11:18:22] Fix edge case in URL parsing and validation
