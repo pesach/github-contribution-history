@@ -1918,3 +1918,4 @@
 - [2013-08-31T18:16:25] Update dependency lockfiles and requirements
 - [2013-08-31T12:59:53] Improve logging and health endpoint metrics
 - [2013-09-01T18:35:36] Update documentation and architectural guides
+- [2013-09-01T08:19:53] Add error handling for yt-dlp rate limits
