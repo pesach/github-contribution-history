@@ -1926,3 +1926,4 @@
 - [2013-09-02T21:26:45] Clean up legacy worker task routines
 - [2013-09-02T18:42:35] Add retries for transient network drops
 - [2013-09-02T20:18:02] Update B2 storage chunking parameters
+- [2013-09-02T18:24:07] Enhance dashboard statistics rendering
