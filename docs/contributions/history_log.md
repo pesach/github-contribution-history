@@ -1923,3 +1923,4 @@
 - [2013-09-02T15:21:19] Update B2 storage chunking parameters
 - [2013-09-02T20:27:06] Update dependency lockfiles and requirements
 - [2013-09-02T09:16:45] Refactor storage upload retry mechanism
+- [2013-09-02T21:26:45] Clean up legacy worker task routines
