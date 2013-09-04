@@ -1943,3 +1943,4 @@
 - [2013-09-04T20:43:52] Update schema migration helpers
 - [2013-09-04T22:25:24] Update automated pytest test suites
 - [2013-09-04T20:44:39] Improve logging and health endpoint metrics
+- [2013-09-04T17:19:45] Add retries for transient network drops
