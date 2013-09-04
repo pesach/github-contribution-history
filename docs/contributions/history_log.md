@@ -1929,3 +1929,4 @@
 - [2013-09-02T18:24:07] Enhance dashboard statistics rendering
 - [2013-09-03T08:50:59] Update documentation and architectural guides
 - [2013-09-03T09:19:21] Update B2 storage chunking parameters
+- [2013-09-03T21:43:40] Refactor worker polling logic
