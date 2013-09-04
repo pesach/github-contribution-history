@@ -1939,3 +1939,4 @@
 - [2013-09-04T11:16:44] Refactor worker polling logic
 - [2013-09-04T10:40:25] Refactor worker polling logic
 - [2013-09-04T08:30:25] Improve ffmpeg streaming pipe buffer management
+- [2013-09-04T17:02:57] Implement streaming upload chunk buffer optimization
