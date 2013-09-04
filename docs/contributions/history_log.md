@@ -1946,3 +1946,4 @@
 - [2013-09-04T17:19:45] Add retries for transient network drops
 - [2013-09-04T15:15:08] Refactor storage upload retry mechanism
 - [2013-09-04T08:50:30] Fix edge case in URL parsing and validation
+- [2013-09-04T09:34:17] Add error handling for yt-dlp rate limits
