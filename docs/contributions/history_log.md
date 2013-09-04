@@ -1950,3 +1950,4 @@
 - [2013-09-04T09:41:12] Update dependency lockfiles and requirements
 - [2013-09-04T16:36:23] Refactor cookie refresher probe logic
 - [2013-09-04T15:45:19] Add retries for transient network drops
+- [2013-09-04T11:34:47] Improve ffmpeg streaming pipe buffer management
