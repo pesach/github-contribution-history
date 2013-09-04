@@ -1949,3 +1949,4 @@
 - [2013-09-04T09:34:17] Add error handling for yt-dlp rate limits
 - [2013-09-04T09:41:12] Update dependency lockfiles and requirements
 - [2013-09-04T16:36:23] Refactor cookie refresher probe logic
+- [2013-09-04T15:45:19] Add retries for transient network drops
