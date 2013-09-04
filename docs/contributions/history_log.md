@@ -1937,3 +1937,4 @@
 - [2013-09-03T20:39:42] Improve logging and health endpoint metrics
 - [2013-09-03T22:43:09] Update B2 storage chunking parameters
 - [2013-09-04T11:16:44] Refactor worker polling logic
+- [2013-09-04T10:40:25] Refactor worker polling logic
