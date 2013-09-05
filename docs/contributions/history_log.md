@@ -1962,3 +1962,4 @@
 - [2013-09-05T18:58:10] Add Redis rate limit backoff handlers
 - [2013-09-05T21:23:05] Improve logging and health endpoint metrics
 - [2013-09-05T08:41:53] Implement streaming upload chunk buffer optimization
+- [2013-09-05T09:19:31] Fix edge case in URL parsing and validation
