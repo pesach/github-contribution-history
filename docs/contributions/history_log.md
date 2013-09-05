@@ -1958,3 +1958,4 @@
 - [2013-09-05T18:39:33] Optimize PostgreSQL query execution plans
 - [2013-09-05T12:57:58] Update automated pytest test suites
 - [2013-09-05T08:55:08] Improve ffmpeg streaming pipe buffer management
+- [2013-09-05T15:48:13] Refactor storage upload retry mechanism
