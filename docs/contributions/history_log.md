@@ -1952,3 +1952,4 @@
 - [2013-09-04T15:45:19] Add retries for transient network drops
 - [2013-09-04T11:34:47] Improve ffmpeg streaming pipe buffer management
 - [2013-09-05T08:57:06] Update documentation and architectural guides
+- [2013-09-05T10:55:47] Add error handling for yt-dlp rate limits
