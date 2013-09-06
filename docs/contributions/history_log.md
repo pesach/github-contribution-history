@@ -1968,3 +1968,4 @@
 - [2013-09-05T17:47:31] Enhance dashboard statistics rendering
 - [2013-09-06T18:11:07] Refactor cookie refresher probe logic
 - [2013-09-06T17:58:09] Refactor storage upload retry mechanism
+- [2013-09-06T17:30:01] Clean up legacy worker task routines
