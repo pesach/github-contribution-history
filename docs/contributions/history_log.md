@@ -1971,3 +1971,4 @@
 - [2013-09-06T17:30:01] Clean up legacy worker task routines
 - [2013-09-06T11:04:29] Update automated pytest test suites
 - [2013-09-06T08:12:40] Fix edge case in channel tab crawler
+- [2013-09-06T14:05:54] Update B2 storage chunking parameters
