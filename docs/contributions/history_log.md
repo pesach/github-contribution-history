@@ -1972,3 +1972,4 @@
 - [2013-09-06T11:04:29] Update automated pytest test suites
 - [2013-09-06T08:12:40] Fix edge case in channel tab crawler
 - [2013-09-06T14:05:54] Update B2 storage chunking parameters
+- [2013-09-06T14:45:13] Optimize PostgreSQL query execution plans
