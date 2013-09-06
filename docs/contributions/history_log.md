@@ -1970,3 +1970,4 @@
 - [2013-09-06T17:58:09] Refactor storage upload retry mechanism
 - [2013-09-06T17:30:01] Clean up legacy worker task routines
 - [2013-09-06T11:04:29] Update automated pytest test suites
+- [2013-09-06T08:12:40] Fix edge case in channel tab crawler
