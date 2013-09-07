@@ -1973,3 +1973,4 @@
 - [2013-09-06T08:12:40] Fix edge case in channel tab crawler
 - [2013-09-06T14:05:54] Update B2 storage chunking parameters
 - [2013-09-06T14:45:13] Optimize PostgreSQL query execution plans
+- [2013-09-07T17:16:57] Clean up legacy worker task routines
