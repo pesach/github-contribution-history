@@ -1977,3 +1977,4 @@
 - [2013-09-07T15:27:41] Add retries for transient network drops
 - [2013-09-07T14:04:55] Enhance dashboard statistics rendering
 - [2013-09-07T08:51:03] Refactor storage upload retry mechanism
+- [2013-09-08T14:13:45] Improve logging and health endpoint metrics
