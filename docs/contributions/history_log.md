@@ -1980,3 +1980,4 @@
 - [2013-09-08T14:13:45] Improve logging and health endpoint metrics
 - [2013-09-08T14:11:20] Fix edge case in URL parsing and validation
 - [2013-09-08T18:43:30] Update automated pytest test suites
+- [2013-09-08T20:08:05] Refactor cookie refresher probe logic
