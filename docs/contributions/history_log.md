@@ -1982,3 +1982,4 @@
 - [2013-09-08T18:43:30] Update automated pytest test suites
 - [2013-09-08T20:08:05] Refactor cookie refresher probe logic
 - [2013-09-09T14:01:28] Update dependency lockfiles and requirements
+- [2013-09-09T20:05:49] Add Prometheus exporter endpoints for queue length
