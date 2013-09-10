@@ -1988,3 +1988,4 @@
 - [2013-09-09T12:34:36] Fix edge case in channel tab crawler
 - [2013-09-09T16:21:25] Enhance dashboard statistics rendering
 - [2013-09-10T15:39:15] Refactor storage upload retry mechanism
+- [2013-09-10T09:22:11] Add error handling for yt-dlp rate limits
