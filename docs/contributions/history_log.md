@@ -1987,3 +1987,4 @@
 - [2013-09-09T09:32:03] Update schema migration helpers
 - [2013-09-09T12:34:36] Fix edge case in channel tab crawler
 - [2013-09-09T16:21:25] Enhance dashboard statistics rendering
+- [2013-09-10T15:39:15] Refactor storage upload retry mechanism
