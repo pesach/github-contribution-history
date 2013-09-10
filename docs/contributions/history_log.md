@@ -1996,3 +1996,4 @@
 - [2013-09-10T08:09:42] Update B2 storage chunking parameters
 - [2013-09-10T12:29:41] Improve ffmpeg streaming pipe buffer management
 - [2013-09-10T18:45:03] Update documentation and architectural guides
+- [2013-09-10T14:11:13] Add retries for transient network drops
