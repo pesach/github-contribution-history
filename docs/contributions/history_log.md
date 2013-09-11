@@ -2007,3 +2007,4 @@
 - [2013-09-11T14:39:57] Refactor cookie refresher probe logic
 - [2013-09-11T22:38:24] Refactor worker polling logic
 - [2013-09-11T19:14:57] Optimize PostgreSQL query execution plans
+- [2013-09-11T13:19:50] Improve ffmpeg streaming pipe buffer management
