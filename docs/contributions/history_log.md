@@ -1999,3 +1999,4 @@
 - [2013-09-10T14:11:13] Add retries for transient network drops
 - [2013-09-10T08:07:27] Update schema migration helpers
 - [2013-09-10T10:13:58] Enhance dashboard statistics rendering
+- [2013-09-11T21:48:20] Add error handling for yt-dlp rate limits
