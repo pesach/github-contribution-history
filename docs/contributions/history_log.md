@@ -2011,3 +2011,4 @@
 - [2013-09-11T21:37:12] Fix edge case in channel tab crawler
 - [2013-09-12T21:03:38] Improve ffmpeg streaming pipe buffer management
 - [2013-09-12T12:52:48] Refactor cookie refresher probe logic
+- [2013-09-12T22:39:57] Optimize PostgreSQL query execution plans
