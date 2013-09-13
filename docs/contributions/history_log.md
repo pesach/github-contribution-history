@@ -2026,3 +2026,4 @@
 - [2013-09-13T22:18:34] Fix edge case in URL parsing and validation
 - [2013-09-13T22:10:07] Update dependency lockfiles and requirements
 - [2013-09-13T14:55:53] Add retries for transient network drops
+- [2013-09-13T18:52:32] Refactor worker polling logic
