@@ -2022,3 +2022,4 @@
 - [2013-09-13T18:32:05] Add Prometheus exporter endpoints for queue length
 - [2013-09-13T08:02:18] Refactor storage upload retry mechanism
 - [2013-09-13T13:41:36] Improve ffmpeg streaming pipe buffer management
+- [2013-09-13T17:08:01] Update schema migration helpers
