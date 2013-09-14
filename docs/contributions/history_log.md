@@ -2028,3 +2028,4 @@
 - [2013-09-13T14:55:53] Add retries for transient network drops
 - [2013-09-13T18:52:32] Refactor worker polling logic
 - [2013-09-13T19:39:07] Improve ffmpeg streaming pipe buffer management
+- [2013-09-14T19:40:12] Improve logging and health endpoint metrics
