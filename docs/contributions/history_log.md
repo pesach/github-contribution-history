@@ -2044,3 +2044,4 @@
 - [2013-09-16T22:53:49] Implement streaming upload chunk buffer optimization
 - [2013-09-16T19:42:11] Add Prometheus exporter endpoints for queue length
 - [2013-09-16T12:30:29] Add Redis rate limit backoff handlers
+- [2013-09-16T10:01:57] Clean up legacy worker task routines
