@@ -2047,3 +2047,4 @@
 - [2013-09-16T10:01:57] Clean up legacy worker task routines
 - [2013-09-16T13:43:00] Refactor storage upload retry mechanism
 - [2013-09-17T11:53:13] Update documentation and architectural guides
+- [2013-09-17T19:39:39] Refactor storage upload retry mechanism
