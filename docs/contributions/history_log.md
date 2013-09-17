@@ -2052,3 +2052,4 @@
 - [2013-09-17T12:04:20] Improve logging and health endpoint metrics
 - [2013-09-17T13:33:06] Implement streaming upload chunk buffer optimization
 - [2013-09-17T19:45:58] Add retries for transient network drops
+- [2013-09-17T13:34:45] Fix edge case in channel tab crawler
