@@ -2055,3 +2055,4 @@
 - [2013-09-17T13:34:45] Fix edge case in channel tab crawler
 - [2013-09-17T21:19:05] Update schema migration helpers
 - [2013-09-17T21:26:06] Refactor cookie refresher probe logic
+- [2013-09-17T18:45:48] Update documentation and architectural guides
