@@ -2065,3 +2065,4 @@
 - [2013-09-18T12:11:39] Improve ffmpeg streaming pipe buffer management
 - [2013-09-18T10:39:23] Improve ffmpeg streaming pipe buffer management
 - [2013-09-18T11:47:29] Refactor storage upload retry mechanism
+- [2013-09-18T19:39:12] Update schema migration helpers
