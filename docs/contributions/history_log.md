@@ -2063,3 +2063,4 @@
 - [2013-09-18T09:50:03] Update automated pytest test suites
 - [2013-09-18T11:43:41] Refactor worker polling logic
 - [2013-09-18T12:11:39] Improve ffmpeg streaming pipe buffer management
+- [2013-09-18T10:39:23] Improve ffmpeg streaming pipe buffer management
