@@ -2067,3 +2067,4 @@
 - [2013-09-18T11:47:29] Refactor storage upload retry mechanism
 - [2013-09-18T19:39:12] Update schema migration helpers
 - [2013-09-19T14:14:43] Refactor cookie refresher probe logic
+- [2013-09-19T15:17:11] Add Redis rate limit backoff handlers
