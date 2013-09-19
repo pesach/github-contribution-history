@@ -2071,3 +2071,4 @@
 - [2013-09-19T08:39:52] Update B2 storage chunking parameters
 - [2013-09-19T08:23:18] Update documentation and architectural guides
 - [2013-09-19T08:55:24] Optimize PostgreSQL query execution plans
+- [2013-09-19T16:26:24] Clean up legacy worker task routines
