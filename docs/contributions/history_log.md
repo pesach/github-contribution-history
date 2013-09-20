@@ -2080,3 +2080,4 @@
 - [2013-09-19T14:15:35] Fix edge case in URL parsing and validation
 - [2013-09-19T10:21:48] Improve logging and health endpoint metrics
 - [2013-09-20T13:09:48] Fix edge case in channel tab crawler
+- [2013-09-20T17:05:57] Update documentation and architectural guides
