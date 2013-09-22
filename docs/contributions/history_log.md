@@ -2093,3 +2093,4 @@
 - [2013-09-21T18:00:16] Improve logging and health endpoint metrics
 - [2013-09-21T11:29:55] Optimize PostgreSQL query execution plans
 - [2013-09-21T20:29:13] Refactor cookie refresher probe logic
+- [2013-09-22T14:49:04] Add error handling for yt-dlp rate limits
