@@ -2098,3 +2098,4 @@
 - [2013-09-22T11:14:05] Add error handling for yt-dlp rate limits
 - [2013-09-22T10:36:49] Update documentation and architectural guides
 - [2013-09-23T22:08:59] Implement streaming upload chunk buffer optimization
+- [2013-09-23T08:30:02] Clean up legacy worker task routines
