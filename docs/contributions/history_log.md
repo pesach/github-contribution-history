@@ -2110,3 +2110,4 @@
 - [2013-09-23T09:26:31] Add Prometheus exporter endpoints for queue length
 - [2013-09-23T18:02:55] Update documentation and architectural guides
 - [2013-09-23T16:18:35] Add retries for transient network drops
+- [2013-09-23T14:53:36] Update schema migration helpers
