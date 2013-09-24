@@ -2117,3 +2117,4 @@
 - [2013-09-24T22:49:04] Improve ffmpeg streaming pipe buffer management
 - [2013-09-24T10:27:48] Optimize PostgreSQL query execution plans
 - [2013-09-24T20:45:50] Improve logging and health endpoint metrics
+- [2013-09-24T16:41:01] Add Redis rate limit backoff handlers
