@@ -2121,3 +2121,4 @@
 - [2013-09-24T13:50:29] Add Redis rate limit backoff handlers
 - [2013-09-24T10:54:48] Update dependency lockfiles and requirements
 - [2013-09-24T17:40:19] Enhance dashboard statistics rendering
+- [2013-09-24T21:17:41] Add Prometheus exporter endpoints for queue length
