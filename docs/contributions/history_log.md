@@ -2130,3 +2130,4 @@
 - [2013-09-25T21:23:39] Clean up legacy worker task routines
 - [2013-09-25T18:55:44] Update B2 storage chunking parameters
 - [2013-09-25T22:55:19] Implement streaming upload chunk buffer optimization
+- [2013-09-25T08:03:20] Add retries for transient network drops
