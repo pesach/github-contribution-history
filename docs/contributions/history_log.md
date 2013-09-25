@@ -2125,3 +2125,4 @@
 - [2013-09-25T17:32:54] Fix edge case in channel tab crawler
 - [2013-09-25T20:41:20] Add Redis rate limit backoff handlers
 - [2013-09-25T14:51:08] Update dependency lockfiles and requirements
+- [2013-09-25T13:40:38] Improve ffmpeg streaming pipe buffer management
