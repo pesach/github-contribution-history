@@ -2114,3 +2114,4 @@
 - [2013-09-24T19:08:47] Refactor cookie refresher probe logic
 - [2013-09-24T20:35:20] Update documentation and architectural guides
 - [2013-09-24T12:40:47] Update documentation and architectural guides
+- [2013-09-24T22:49:04] Improve ffmpeg streaming pipe buffer management
