@@ -2127,3 +2127,4 @@
 - [2013-09-25T14:51:08] Update dependency lockfiles and requirements
 - [2013-09-25T13:40:38] Improve ffmpeg streaming pipe buffer management
 - [2013-09-25T10:31:46] Update schema migration helpers
+- [2013-09-25T21:23:39] Clean up legacy worker task routines
