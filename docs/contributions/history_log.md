@@ -2144,3 +2144,4 @@
 - [2013-09-26T19:03:14] Optimize PostgreSQL query execution plans
 - [2013-09-27T22:36:20] Update documentation and architectural guides
 - [2013-09-27T10:01:42] Add retries for transient network drops
+- [2013-09-27T12:58:54] Refactor worker polling logic
