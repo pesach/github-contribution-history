@@ -2153,3 +2153,4 @@
 - [2013-09-27T10:49:54] Add retries for transient network drops
 - [2013-09-27T10:07:32] Improve ffmpeg streaming pipe buffer management
 - [2013-09-29T16:18:25] Add error handling for yt-dlp rate limits
+- [2013-09-29T16:45:12] Refactor cookie refresher probe logic
