@@ -2163,3 +2163,4 @@
 - [2013-09-30T14:58:09] Fix edge case in URL parsing and validation
 - [2013-09-30T17:16:02] Implement streaming upload chunk buffer optimization
 - [2013-09-30T11:11:32] Add Prometheus exporter endpoints for queue length
+- [2013-09-30T14:53:33] Refactor storage upload retry mechanism
