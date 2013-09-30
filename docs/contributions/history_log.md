@@ -2158,3 +2158,4 @@
 - [2013-09-29T08:05:59] Enhance dashboard statistics rendering
 - [2013-09-29T08:04:41] Add Prometheus exporter endpoints for queue length
 - [2013-09-30T11:21:30] Clean up legacy worker task routines
+- [2013-09-30T17:26:36] Clean up legacy worker task routines
