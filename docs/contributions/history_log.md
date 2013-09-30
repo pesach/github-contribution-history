@@ -2160,3 +2160,4 @@
 - [2013-09-30T11:21:30] Clean up legacy worker task routines
 - [2013-09-30T17:26:36] Clean up legacy worker task routines
 - [2013-09-30T15:50:04] Update B2 storage chunking parameters
+- [2013-09-30T14:58:09] Fix edge case in URL parsing and validation
