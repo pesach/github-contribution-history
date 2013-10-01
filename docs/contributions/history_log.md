@@ -2175,3 +2175,4 @@
 - [2013-10-01T08:33:12] Optimize PostgreSQL query execution plans
 - [2013-10-01T21:34:34] Add Redis rate limit backoff handlers
 - [2013-10-01T10:57:59] Optimize PostgreSQL query execution plans
+- [2013-10-01T18:50:49] Add Redis rate limit backoff handlers
