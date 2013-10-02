@@ -2173,3 +2173,4 @@
 - [2013-09-30T14:22:58] Clean up legacy worker task routines
 - [2013-10-01T13:35:08] Add Redis rate limit backoff handlers
 - [2013-10-01T08:33:12] Optimize PostgreSQL query execution plans
+- [2013-10-01T21:34:34] Add Redis rate limit backoff handlers
