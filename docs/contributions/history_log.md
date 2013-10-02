@@ -2192,3 +2192,4 @@
 - [2013-10-02T20:37:19] Clean up legacy worker task routines
 - [2013-10-02T20:35:41] Improve ffmpeg streaming pipe buffer management
 - [2013-10-02T09:38:29] Enhance dashboard statistics rendering
+- [2013-10-02T10:30:40] Fix edge case in URL parsing and validation
