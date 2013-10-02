@@ -2186,3 +2186,4 @@
 - [2013-10-02T21:32:12] Fix edge case in URL parsing and validation
 - [2013-10-02T11:12:58] Implement streaming upload chunk buffer optimization
 - [2013-10-02T11:50:12] Optimize PostgreSQL query execution plans
+- [2013-10-02T19:32:48] Clean up legacy worker task routines
