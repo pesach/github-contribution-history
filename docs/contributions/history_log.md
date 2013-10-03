@@ -2189,3 +2189,4 @@
 - [2013-10-02T19:32:48] Clean up legacy worker task routines
 - [2013-10-02T12:05:10] Improve ffmpeg streaming pipe buffer management
 - [2013-10-02T14:43:09] Fix edge case in URL parsing and validation
+- [2013-10-02T20:37:19] Clean up legacy worker task routines
