@@ -2199,3 +2199,4 @@
 - [2013-10-03T16:46:39] Refactor cookie refresher probe logic
 - [2013-10-03T20:58:38] Add Redis rate limit backoff handlers
 - [2013-10-03T14:03:02] Clean up legacy worker task routines
+- [2013-10-03T11:07:09] Refactor cookie refresher probe logic
