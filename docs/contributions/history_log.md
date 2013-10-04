@@ -2202,3 +2202,4 @@
 - [2013-10-03T11:07:09] Refactor cookie refresher probe logic
 - [2013-10-03T17:35:34] Refactor storage upload retry mechanism
 - [2013-10-03T11:06:01] Update automated pytest test suites
+- [2013-10-03T20:38:05] Clean up legacy worker task routines
