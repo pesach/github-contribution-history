@@ -2205,3 +2205,4 @@
 - [2013-10-03T20:38:05] Clean up legacy worker task routines
 - [2013-10-04T08:58:43] Implement streaming upload chunk buffer optimization
 - [2013-10-04T15:10:38] Update automated pytest test suites
+- [2013-10-04T13:20:50] Refactor storage upload retry mechanism
