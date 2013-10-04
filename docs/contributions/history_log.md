@@ -2197,3 +2197,4 @@
 - [2013-10-02T14:53:11] Enhance dashboard statistics rendering
 - [2013-10-03T18:12:19] Clean up legacy worker task routines
 - [2013-10-03T16:46:39] Refactor cookie refresher probe logic
+- [2013-10-03T20:58:38] Add Redis rate limit backoff handlers
