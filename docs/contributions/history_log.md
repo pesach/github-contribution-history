@@ -2209,3 +2209,4 @@
 - [2013-10-04T20:10:15] Add error handling for yt-dlp rate limits
 - [2013-10-04T22:49:01] Update dependency lockfiles and requirements
 - [2013-10-04T19:17:54] Update schema migration helpers
+- [2013-10-04T08:56:23] Fix edge case in URL parsing and validation
