@@ -2210,3 +2210,4 @@
 - [2013-10-04T22:49:01] Update dependency lockfiles and requirements
 - [2013-10-04T19:17:54] Update schema migration helpers
 - [2013-10-04T08:56:23] Fix edge case in URL parsing and validation
+- [2013-10-05T15:51:02] Add Redis rate limit backoff handlers
