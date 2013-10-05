@@ -2212,3 +2212,4 @@
 - [2013-10-04T08:56:23] Fix edge case in URL parsing and validation
 - [2013-10-05T15:51:02] Add Redis rate limit backoff handlers
 - [2013-10-05T15:34:33] Add Prometheus exporter endpoints for queue length
+- [2013-10-05T18:08:50] Clean up legacy worker task routines
