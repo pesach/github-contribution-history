@@ -2218,3 +2218,4 @@
 - [2013-10-06T14:21:29] Refactor worker polling logic
 - [2013-10-06T11:26:05] Clean up legacy worker task routines
 - [2013-10-06T15:39:03] Improve ffmpeg streaming pipe buffer management
+- [2013-10-06T10:59:41] Improve logging and health endpoint metrics
