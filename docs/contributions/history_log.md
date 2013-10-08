@@ -2234,3 +2234,4 @@
 - [2013-10-08T09:28:54] Update automated pytest test suites
 - [2013-10-08T19:56:28] Implement streaming upload chunk buffer optimization
 - [2013-10-08T15:02:12] Fix edge case in channel tab crawler
+- [2013-10-08T18:09:38] Add Prometheus exporter endpoints for queue length
