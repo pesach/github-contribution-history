@@ -2227,3 +2227,4 @@
 - [2013-10-07T17:42:58] Update schema migration helpers
 - [2013-10-07T19:01:32] Fix edge case in URL parsing and validation
 - [2013-10-08T13:12:27] Refactor storage upload retry mechanism
+- [2013-10-08T16:40:18] Improve ffmpeg streaming pipe buffer management
