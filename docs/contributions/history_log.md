@@ -2233,3 +2233,4 @@
 - [2013-10-08T10:41:01] Improve ffmpeg streaming pipe buffer management
 - [2013-10-08T09:28:54] Update automated pytest test suites
 - [2013-10-08T19:56:28] Implement streaming upload chunk buffer optimization
+- [2013-10-08T15:02:12] Fix edge case in channel tab crawler
