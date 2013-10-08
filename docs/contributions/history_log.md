@@ -2220,3 +2220,4 @@
 - [2013-10-06T15:39:03] Improve ffmpeg streaming pipe buffer management
 - [2013-10-06T10:59:41] Improve logging and health endpoint metrics
 - [2013-10-06T14:43:56] Refactor storage upload retry mechanism
+- [2013-10-07T20:25:41] Improve logging and health endpoint metrics
