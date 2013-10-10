@@ -2250,3 +2250,4 @@
 - [2013-10-10T11:36:46] Fix edge case in channel tab crawler
 - [2013-10-10T15:10:51] Add retries for transient network drops
 - [2013-10-10T17:36:37] Update schema migration helpers
+- [2013-10-10T08:02:25] Add retries for transient network drops
