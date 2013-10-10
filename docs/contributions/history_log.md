@@ -2241,3 +2241,4 @@
 - [2013-10-08T21:36:35] Add retries for transient network drops
 - [2013-10-08T08:23:07] Clean up legacy worker task routines
 - [2013-10-08T10:35:25] Update documentation and architectural guides
+- [2013-10-10T18:22:06] Update documentation and architectural guides
