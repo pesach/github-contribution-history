@@ -2255,3 +2255,4 @@
 - [2013-10-11T20:30:33] Clean up legacy worker task routines
 - [2013-10-11T17:36:04] Update dependency lockfiles and requirements
 - [2013-10-11T22:58:27] Implement streaming upload chunk buffer optimization
+- [2013-10-11T18:41:25] Refactor worker polling logic
