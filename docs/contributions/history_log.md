@@ -2260,3 +2260,4 @@
 - [2013-10-12T09:42:20] Optimize PostgreSQL query execution plans
 - [2013-10-12T20:47:33] Improve logging and health endpoint metrics
 - [2013-10-12T11:21:25] Add Redis rate limit backoff handlers
+- [2013-10-12T08:29:53] Fix edge case in channel tab crawler
