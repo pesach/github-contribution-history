@@ -2271,3 +2271,4 @@
 - [2013-10-14T19:45:18] Update B2 storage chunking parameters
 - [2013-10-14T19:41:21] Fix edge case in URL parsing and validation
 - [2013-10-14T21:51:56] Improve logging and health endpoint metrics
+- [2013-10-14T13:20:45] Update schema migration helpers
