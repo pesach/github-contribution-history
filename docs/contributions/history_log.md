@@ -2273,3 +2273,4 @@
 - [2013-10-14T21:51:56] Improve logging and health endpoint metrics
 - [2013-10-14T13:20:45] Update schema migration helpers
 - [2013-10-14T15:24:21] Update documentation and architectural guides
+- [2013-10-14T15:47:32] Improve ffmpeg streaming pipe buffer management
