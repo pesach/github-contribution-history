@@ -2276,3 +2276,4 @@
 - [2013-10-14T15:47:32] Improve ffmpeg streaming pipe buffer management
 - [2013-10-14T18:42:23] Optimize PostgreSQL query execution plans
 - [2013-10-14T15:20:31] Add Redis rate limit backoff handlers
+- [2013-10-14T13:37:03] Fix edge case in URL parsing and validation
