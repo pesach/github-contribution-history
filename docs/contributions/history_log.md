@@ -2284,3 +2284,4 @@
 - [2013-10-15T21:03:54] Add Redis rate limit backoff handlers
 - [2013-10-15T12:08:26] Update automated pytest test suites
 - [2013-10-15T08:20:05] Update dependency lockfiles and requirements
+- [2013-10-15T17:15:47] Update schema migration helpers
