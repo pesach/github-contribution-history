@@ -2280,3 +2280,4 @@
 - [2013-10-14T13:05:33] Fix edge case in URL parsing and validation
 - [2013-10-15T22:07:24] Refactor cookie refresher probe logic
 - [2013-10-15T09:53:15] Fix edge case in URL parsing and validation
+- [2013-10-15T15:21:19] Implement streaming upload chunk buffer optimization
