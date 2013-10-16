@@ -2286,3 +2286,4 @@
 - [2013-10-15T08:20:05] Update dependency lockfiles and requirements
 - [2013-10-15T17:15:47] Update schema migration helpers
 - [2013-10-16T09:20:24] Add Prometheus exporter endpoints for queue length
+- [2013-10-16T19:49:07] Refactor worker polling logic
