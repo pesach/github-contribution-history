@@ -2291,3 +2291,4 @@
 - [2013-10-16T09:30:45] Update schema migration helpers
 - [2013-10-16T11:08:22] Clean up legacy worker task routines
 - [2013-10-16T16:43:03] Update documentation and architectural guides
+- [2013-10-16T15:33:15] Improve logging and health endpoint metrics
