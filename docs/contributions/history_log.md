@@ -2295,3 +2295,4 @@
 - [2013-10-16T22:11:27] Refactor storage upload retry mechanism
 - [2013-10-16T15:02:41] Add Redis rate limit backoff handlers
 - [2013-10-16T16:13:03] Add retries for transient network drops
+- [2013-10-17T12:17:50] Fix edge case in channel tab crawler
