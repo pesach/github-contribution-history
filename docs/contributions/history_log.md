@@ -2301,3 +2301,4 @@
 - [2013-10-17T19:40:08] Improve ffmpeg streaming pipe buffer management
 - [2013-10-17T18:25:30] Add Prometheus exporter endpoints for queue length
 - [2013-10-17T15:15:21] Add error handling for yt-dlp rate limits
+- [2013-10-17T18:33:40] Improve ffmpeg streaming pipe buffer management
