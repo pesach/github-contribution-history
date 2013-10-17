@@ -2298,3 +2298,4 @@
 - [2013-10-17T12:17:50] Fix edge case in channel tab crawler
 - [2013-10-17T12:59:25] Fix edge case in URL parsing and validation
 - [2013-10-17T14:03:09] Update dependency lockfiles and requirements
+- [2013-10-17T19:40:08] Improve ffmpeg streaming pipe buffer management
