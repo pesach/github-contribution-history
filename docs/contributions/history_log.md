@@ -2306,3 +2306,4 @@
 - [2013-10-17T22:06:08] Clean up legacy worker task routines
 - [2013-10-17T15:43:20] Add Prometheus exporter endpoints for queue length
 - [2013-10-18T20:00:33] Refactor storage upload retry mechanism
+- [2013-10-18T09:02:50] Update B2 storage chunking parameters
