@@ -2303,3 +2303,4 @@
 - [2013-10-17T15:15:21] Add error handling for yt-dlp rate limits
 - [2013-10-17T18:33:40] Improve ffmpeg streaming pipe buffer management
 - [2013-10-17T13:02:15] Update automated pytest test suites
+- [2013-10-17T22:06:08] Clean up legacy worker task routines
