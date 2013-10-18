@@ -2308,3 +2308,4 @@
 - [2013-10-18T20:00:33] Refactor storage upload retry mechanism
 - [2013-10-18T09:02:50] Update B2 storage chunking parameters
 - [2013-10-18T21:41:36] Refactor storage upload retry mechanism
+- [2013-10-18T14:12:50] Clean up legacy worker task routines
