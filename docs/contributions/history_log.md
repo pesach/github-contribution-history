@@ -2318,3 +2318,4 @@
 - [2013-10-20T08:38:23] Update documentation and architectural guides
 - [2013-10-20T10:47:51] Update B2 storage chunking parameters
 - [2013-10-20T18:01:37] Optimize PostgreSQL query execution plans
+- [2013-10-20T10:23:55] Update documentation and architectural guides
