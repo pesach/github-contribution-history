@@ -2323,3 +2323,4 @@
 - [2013-10-21T13:46:14] Add error handling for yt-dlp rate limits
 - [2013-10-21T18:53:15] Refactor cookie refresher probe logic
 - [2013-10-21T14:16:28] Update documentation and architectural guides
+- [2013-10-21T11:28:22] Update schema migration helpers
