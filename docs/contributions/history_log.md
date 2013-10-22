@@ -2326,3 +2326,4 @@
 - [2013-10-21T11:28:22] Update schema migration helpers
 - [2013-10-21T17:39:54] Update dependency lockfiles and requirements
 - [2013-10-21T14:05:42] Update B2 storage chunking parameters
+- [2013-10-21T22:09:04] Implement streaming upload chunk buffer optimization
