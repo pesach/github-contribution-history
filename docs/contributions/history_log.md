@@ -2346,3 +2346,4 @@
 - [2013-10-23T11:49:31] Fix edge case in URL parsing and validation
 - [2013-10-23T13:46:48] Enhance dashboard statistics rendering
 - [2013-10-23T22:48:03] Update B2 storage chunking parameters
+- [2013-10-23T14:08:45] Clean up legacy worker task routines
