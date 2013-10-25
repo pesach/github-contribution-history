@@ -2363,3 +2363,4 @@
 - [2013-10-25T18:19:11] Update documentation and architectural guides
 - [2013-10-25T16:41:25] Add Redis rate limit backoff handlers
 - [2013-10-25T19:05:03] Refactor storage upload retry mechanism
+- [2013-10-25T19:13:23] Clean up legacy worker task routines
