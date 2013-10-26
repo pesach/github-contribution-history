@@ -2368,3 +2368,4 @@
 - [2013-10-25T14:15:19] Add Redis rate limit backoff handlers
 - [2013-10-26T22:39:17] Fix edge case in URL parsing and validation
 - [2013-10-26T14:49:51] Refactor storage upload retry mechanism
+- [2013-10-26T13:53:45] Add Redis rate limit backoff handlers
