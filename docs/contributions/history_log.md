@@ -2377,3 +2377,4 @@
 - [2013-10-27T13:36:14] Update automated pytest test suites
 - [2013-10-27T10:36:11] Refactor storage upload retry mechanism
 - [2013-10-27T21:13:58] Refactor worker polling logic
+- [2013-10-28T19:29:23] Clean up legacy worker task routines
