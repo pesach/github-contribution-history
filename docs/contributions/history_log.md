@@ -2381,3 +2381,4 @@
 - [2013-10-28T16:25:03] Refactor cookie refresher probe logic
 - [2013-10-28T22:01:40] Optimize PostgreSQL query execution plans
 - [2013-10-28T14:54:30] Add retries for transient network drops
+- [2013-10-28T08:25:23] Add Redis rate limit backoff handlers
