@@ -2383,3 +2383,4 @@
 - [2013-10-28T14:54:30] Add retries for transient network drops
 - [2013-10-28T08:25:23] Add Redis rate limit backoff handlers
 - [2013-10-28T19:36:42] Improve logging and health endpoint metrics
+- [2013-10-28T13:15:04] Improve logging and health endpoint metrics
