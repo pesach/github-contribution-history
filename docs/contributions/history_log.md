@@ -2385,3 +2385,4 @@
 - [2013-10-28T19:36:42] Improve logging and health endpoint metrics
 - [2013-10-28T13:15:04] Improve logging and health endpoint metrics
 - [2013-10-28T21:41:50] Update automated pytest test suites
+- [2013-10-28T19:59:23] Add retries for transient network drops
