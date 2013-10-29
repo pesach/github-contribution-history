@@ -2389,3 +2389,4 @@
 - [2013-10-28T11:06:04] Refactor worker polling logic
 - [2013-10-28T17:53:59] Update B2 storage chunking parameters
 - [2013-10-29T08:33:48] Refactor storage upload retry mechanism
+- [2013-10-29T10:17:22] Update schema migration helpers
