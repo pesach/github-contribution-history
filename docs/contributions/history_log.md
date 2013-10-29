@@ -2392,3 +2392,4 @@
 - [2013-10-29T10:17:22] Update schema migration helpers
 - [2013-10-29T19:03:45] Refactor storage upload retry mechanism
 - [2013-10-29T10:15:45] Update schema migration helpers
+- [2013-10-29T18:39:50] Clean up legacy worker task routines
