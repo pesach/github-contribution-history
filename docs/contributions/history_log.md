@@ -2391,3 +2391,4 @@
 - [2013-10-29T08:33:48] Refactor storage upload retry mechanism
 - [2013-10-29T10:17:22] Update schema migration helpers
 - [2013-10-29T19:03:45] Refactor storage upload retry mechanism
+- [2013-10-29T10:15:45] Update schema migration helpers
