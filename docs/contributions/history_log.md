@@ -2379,3 +2379,4 @@
 - [2013-10-27T21:13:58] Refactor worker polling logic
 - [2013-10-28T19:29:23] Clean up legacy worker task routines
 - [2013-10-28T16:25:03] Refactor cookie refresher probe logic
+- [2013-10-28T22:01:40] Optimize PostgreSQL query execution plans
