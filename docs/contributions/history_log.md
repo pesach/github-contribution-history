@@ -2393,3 +2393,4 @@
 - [2013-10-29T19:03:45] Refactor storage upload retry mechanism
 - [2013-10-29T10:15:45] Update schema migration helpers
 - [2013-10-29T18:39:50] Clean up legacy worker task routines
+- [2013-10-29T22:20:09] Add Redis rate limit backoff handlers
