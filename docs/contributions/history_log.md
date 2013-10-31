@@ -2403,3 +2403,4 @@
 - [2013-10-31T10:56:09] Fix edge case in URL parsing and validation
 - [2013-10-31T22:56:42] Refactor storage upload retry mechanism
 - [2013-10-31T18:31:25] Refactor worker polling logic
+- [2013-10-31T17:52:40] Update automated pytest test suites
