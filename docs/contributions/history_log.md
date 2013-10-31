@@ -2402,3 +2402,4 @@
 - [2013-10-31T08:42:24] Update documentation and architectural guides
 - [2013-10-31T10:56:09] Fix edge case in URL parsing and validation
 - [2013-10-31T22:56:42] Refactor storage upload retry mechanism
+- [2013-10-31T18:31:25] Refactor worker polling logic
