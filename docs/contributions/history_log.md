@@ -2416,3 +2416,4 @@
 - [2013-11-01T10:55:03] Enhance dashboard statistics rendering
 - [2013-11-01T21:38:41] Improve logging and health endpoint metrics
 - [2013-11-01T15:04:44] Refactor cookie refresher probe logic
+- [2013-11-01T12:12:21] Update schema migration helpers
