@@ -2401,3 +2401,4 @@
 - [2013-10-31T19:19:13] Add retries for transient network drops
 - [2013-10-31T08:42:24] Update documentation and architectural guides
 - [2013-10-31T10:56:09] Fix edge case in URL parsing and validation
+- [2013-10-31T22:56:42] Refactor storage upload retry mechanism
