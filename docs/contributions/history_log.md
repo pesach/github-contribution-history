@@ -2418,3 +2418,4 @@
 - [2013-11-01T15:04:44] Refactor cookie refresher probe logic
 - [2013-11-01T12:12:21] Update schema migration helpers
 - [2013-11-01T17:11:55] Add retries for transient network drops
+- [2013-11-01T15:27:34] Optimize PostgreSQL query execution plans
