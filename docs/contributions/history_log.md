@@ -2431,3 +2431,4 @@
 - [2013-11-04T19:36:14] Clean up legacy worker task routines
 - [2013-11-04T15:57:28] Update dependency lockfiles and requirements
 - [2013-11-04T22:28:35] Optimize PostgreSQL query execution plans
+- [2013-11-04T14:41:59] Fix edge case in URL parsing and validation
