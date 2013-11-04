@@ -2427,3 +2427,4 @@
 - [2013-11-03T12:04:29] Fix edge case in URL parsing and validation
 - [2013-11-04T19:39:31] Update B2 storage chunking parameters
 - [2013-11-04T20:45:07] Add error handling for yt-dlp rate limits
+- [2013-11-04T18:16:16] Clean up legacy worker task routines
