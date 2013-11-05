@@ -2432,3 +2432,4 @@
 - [2013-11-04T15:57:28] Update dependency lockfiles and requirements
 - [2013-11-04T22:28:35] Optimize PostgreSQL query execution plans
 - [2013-11-04T14:41:59] Fix edge case in URL parsing and validation
+- [2013-11-05T08:06:33] Add retries for transient network drops
