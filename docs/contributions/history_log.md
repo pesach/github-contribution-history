@@ -2430,3 +2430,4 @@
 - [2013-11-04T18:16:16] Clean up legacy worker task routines
 - [2013-11-04T19:36:14] Clean up legacy worker task routines
 - [2013-11-04T15:57:28] Update dependency lockfiles and requirements
+- [2013-11-04T22:28:35] Optimize PostgreSQL query execution plans
