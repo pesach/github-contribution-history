@@ -2453,3 +2453,4 @@
 - [2013-11-06T15:21:20] Update documentation and architectural guides
 - [2013-11-06T15:18:43] Fix edge case in URL parsing and validation
 - [2013-11-06T09:41:26] Update documentation and architectural guides
+- [2013-11-06T11:46:26] Clean up legacy worker task routines
