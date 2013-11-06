@@ -2436,3 +2436,4 @@
 - [2013-11-05T12:45:39] Add Prometheus exporter endpoints for queue length
 - [2013-11-05T15:53:59] Update schema migration helpers
 - [2013-11-05T14:08:08] Fix edge case in URL parsing and validation
+- [2013-11-05T21:30:19] Add Redis rate limit backoff handlers
