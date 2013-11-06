@@ -2438,3 +2438,4 @@
 - [2013-11-05T14:08:08] Fix edge case in URL parsing and validation
 - [2013-11-05T21:30:19] Add Redis rate limit backoff handlers
 - [2013-11-05T12:12:52] Clean up legacy worker task routines
+- [2013-11-05T22:12:50] Add error handling for yt-dlp rate limits
