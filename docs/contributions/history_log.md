@@ -2446,3 +2446,4 @@
 - [2013-11-06T15:17:53] Fix edge case in channel tab crawler
 - [2013-11-06T11:31:18] Clean up legacy worker task routines
 - [2013-11-06T20:58:46] Update dependency lockfiles and requirements
+- [2013-11-06T20:34:33] Refactor cookie refresher probe logic
