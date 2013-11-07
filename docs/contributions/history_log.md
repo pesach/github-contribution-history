@@ -2465,3 +2465,4 @@
 - [2013-11-07T11:31:13] Optimize PostgreSQL query execution plans
 - [2013-11-07T22:53:11] Add retries for transient network drops
 - [2013-11-07T11:23:39] Improve logging and health endpoint metrics
+- [2013-11-07T16:37:31] Fix edge case in URL parsing and validation
