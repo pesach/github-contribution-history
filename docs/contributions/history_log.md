@@ -2470,3 +2470,4 @@
 - [2013-11-08T19:31:21] Refactor storage upload retry mechanism
 - [2013-11-08T15:42:40] Update automated pytest test suites
 - [2013-11-08T16:06:12] Improve logging and health endpoint metrics
+- [2013-11-08T15:21:32] Add error handling for yt-dlp rate limits
