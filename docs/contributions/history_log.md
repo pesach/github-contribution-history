@@ -2467,3 +2467,4 @@
 - [2013-11-07T11:23:39] Improve logging and health endpoint metrics
 - [2013-11-07T16:37:31] Fix edge case in URL parsing and validation
 - [2013-11-08T12:35:14] Add Prometheus exporter endpoints for queue length
+- [2013-11-08T19:31:21] Refactor storage upload retry mechanism
