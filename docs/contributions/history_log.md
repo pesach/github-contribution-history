@@ -2482,3 +2482,4 @@
 - [2013-11-10T19:17:06] Update documentation and architectural guides
 - [2013-11-10T21:47:20] Add Redis rate limit backoff handlers
 - [2013-11-10T16:12:24] Clean up legacy worker task routines
+- [2013-11-10T10:53:01] Update B2 storage chunking parameters
