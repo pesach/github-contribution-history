@@ -2490,3 +2490,4 @@
 - [2013-11-11T20:58:07] Optimize PostgreSQL query execution plans
 - [2013-11-11T15:55:48] Clean up legacy worker task routines
 - [2013-11-11T14:08:27] Add retries for transient network drops
+- [2013-11-11T12:15:44] Optimize PostgreSQL query execution plans
