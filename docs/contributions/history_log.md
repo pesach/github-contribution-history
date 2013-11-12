@@ -2495,3 +2495,4 @@
 - [2013-11-11T19:48:05] Improve logging and health endpoint metrics
 - [2013-11-11T21:27:20] Optimize PostgreSQL query execution plans
 - [2013-11-11T19:55:20] Clean up legacy worker task routines
+- [2013-11-11T21:12:04] Fix edge case in URL parsing and validation
