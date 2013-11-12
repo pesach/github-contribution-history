@@ -2505,3 +2505,4 @@
 - [2013-11-12T15:49:30] Implement streaming upload chunk buffer optimization
 - [2013-11-12T11:01:37] Optimize PostgreSQL query execution plans
 - [2013-11-12T10:26:19] Refactor cookie refresher probe logic
+- [2013-11-12T12:08:20] Refactor worker polling logic
