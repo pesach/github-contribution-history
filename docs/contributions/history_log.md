@@ -2504,3 +2504,4 @@
 - [2013-11-12T20:28:13] Update schema migration helpers
 - [2013-11-12T15:49:30] Implement streaming upload chunk buffer optimization
 - [2013-11-12T11:01:37] Optimize PostgreSQL query execution plans
+- [2013-11-12T10:26:19] Refactor cookie refresher probe logic
