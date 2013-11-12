@@ -2503,3 +2503,4 @@
 - [2013-11-12T19:52:25] Add retries for transient network drops
 - [2013-11-12T20:28:13] Update schema migration helpers
 - [2013-11-12T15:49:30] Implement streaming upload chunk buffer optimization
+- [2013-11-12T11:01:37] Optimize PostgreSQL query execution plans
