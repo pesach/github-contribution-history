@@ -2514,3 +2514,4 @@
 - [2013-11-13T22:50:21] Update B2 storage chunking parameters
 - [2013-11-13T21:19:43] Fix edge case in URL parsing and validation
 - [2013-11-13T21:03:14] Refactor cookie refresher probe logic
+- [2013-11-13T18:47:15] Implement streaming upload chunk buffer optimization
