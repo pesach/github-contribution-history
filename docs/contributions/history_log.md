@@ -2518,3 +2518,4 @@
 - [2013-11-13T14:13:24] Implement streaming upload chunk buffer optimization
 - [2013-11-13T11:43:23] Optimize PostgreSQL query execution plans
 - [2013-11-13T21:05:35] Fix edge case in channel tab crawler
+- [2013-11-13T12:46:53] Refactor storage upload retry mechanism
