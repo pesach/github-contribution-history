@@ -2511,3 +2511,4 @@
 - [2013-11-12T09:34:27] Enhance dashboard statistics rendering
 - [2013-11-13T13:31:25] Optimize PostgreSQL query execution plans
 - [2013-11-13T09:16:23] Improve ffmpeg streaming pipe buffer management
+- [2013-11-13T22:50:21] Update B2 storage chunking parameters
