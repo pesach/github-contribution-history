@@ -2523,3 +2523,4 @@
 - [2013-11-14T13:19:47] Update B2 storage chunking parameters
 - [2013-11-14T20:04:16] Update B2 storage chunking parameters
 - [2013-11-14T19:53:25] Enhance dashboard statistics rendering
+- [2013-11-14T11:14:57] Add retries for transient network drops
