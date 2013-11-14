@@ -2526,3 +2526,4 @@
 - [2013-11-14T11:14:57] Add retries for transient network drops
 - [2013-11-14T21:09:47] Improve logging and health endpoint metrics
 - [2013-11-14T09:36:16] Add retries for transient network drops
+- [2013-11-14T10:38:19] Update dependency lockfiles and requirements
