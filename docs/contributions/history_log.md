@@ -2535,3 +2535,4 @@
 - [2013-11-15T09:31:57] Refactor cookie refresher probe logic
 - [2013-11-15T20:41:21] Fix edge case in channel tab crawler
 - [2013-11-15T19:10:02] Update documentation and architectural guides
+- [2013-11-15T16:39:05] Add retries for transient network drops
