@@ -2548,3 +2548,4 @@
 - [2013-11-18T16:11:27] Improve logging and health endpoint metrics
 - [2013-11-18T09:12:32] Update documentation and architectural guides
 - [2013-11-18T14:46:14] Implement streaming upload chunk buffer optimization
+- [2013-11-18T11:07:28] Improve ffmpeg streaming pipe buffer management
