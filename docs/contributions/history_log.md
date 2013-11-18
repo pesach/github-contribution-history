@@ -2544,3 +2544,4 @@
 - [2013-11-17T09:43:05] Fix edge case in channel tab crawler
 - [2013-11-18T11:01:05] Update dependency lockfiles and requirements
 - [2013-11-18T15:25:39] Improve ffmpeg streaming pipe buffer management
+- [2013-11-18T13:12:06] Add retries for transient network drops
