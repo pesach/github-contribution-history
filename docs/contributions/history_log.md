@@ -2545,3 +2545,4 @@
 - [2013-11-18T11:01:05] Update dependency lockfiles and requirements
 - [2013-11-18T15:25:39] Improve ffmpeg streaming pipe buffer management
 - [2013-11-18T13:12:06] Add retries for transient network drops
+- [2013-11-18T16:11:27] Improve logging and health endpoint metrics
