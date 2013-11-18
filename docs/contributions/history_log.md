@@ -2542,3 +2542,4 @@
 - [2013-11-17T19:45:04] Improve logging and health endpoint metrics
 - [2013-11-17T19:45:39] Update B2 storage chunking parameters
 - [2013-11-17T09:43:05] Fix edge case in channel tab crawler
+- [2013-11-18T11:01:05] Update dependency lockfiles and requirements
