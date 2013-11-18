@@ -2539,3 +2539,4 @@
 - [2013-11-15T20:23:35] Update B2 storage chunking parameters
 - [2013-11-15T08:05:53] Add Redis rate limit backoff handlers
 - [2013-11-15T20:17:12] Improve logging and health endpoint metrics
+- [2013-11-17T19:45:04] Improve logging and health endpoint metrics
