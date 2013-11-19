@@ -2568,3 +2568,4 @@
 - [2013-11-19T14:17:53] Improve logging and health endpoint metrics
 - [2013-11-19T13:13:10] Refactor storage upload retry mechanism
 - [2013-11-19T18:05:35] Refactor worker polling logic
+- [2013-11-19T16:40:34] Improve ffmpeg streaming pipe buffer management
