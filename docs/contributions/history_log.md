@@ -2572,3 +2572,4 @@
 - [2013-11-19T14:54:46] Update schema migration helpers
 - [2013-11-19T13:34:01] Fix edge case in channel tab crawler
 - [2013-11-19T21:51:09] Fix edge case in URL parsing and validation
+- [2013-11-21T09:40:52] Update dependency lockfiles and requirements
