@@ -2578,3 +2578,4 @@
 - [2013-11-21T08:06:25] Update automated pytest test suites
 - [2013-11-21T09:06:15] Update automated pytest test suites
 - [2013-11-21T20:17:53] Fix edge case in URL parsing and validation
+- [2013-11-21T11:51:55] Clean up legacy worker task routines
