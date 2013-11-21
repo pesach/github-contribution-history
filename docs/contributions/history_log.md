@@ -2574,3 +2574,4 @@
 - [2013-11-19T21:51:09] Fix edge case in URL parsing and validation
 - [2013-11-21T09:40:52] Update dependency lockfiles and requirements
 - [2013-11-21T18:33:14] Refactor worker polling logic
+- [2013-11-21T18:45:59] Clean up legacy worker task routines
