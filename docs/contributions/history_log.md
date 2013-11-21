@@ -2584,3 +2584,4 @@
 - [2013-11-21T21:54:36] Update B2 storage chunking parameters
 - [2013-11-21T14:17:47] Update B2 storage chunking parameters
 - [2013-11-21T20:07:51] Add Prometheus exporter endpoints for queue length
+- [2013-11-21T15:51:49] Implement streaming upload chunk buffer optimization
