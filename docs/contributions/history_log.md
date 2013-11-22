@@ -2595,3 +2595,4 @@
 - [2013-11-22T10:46:02] Refactor storage upload retry mechanism
 - [2013-11-22T18:34:29] Update schema migration helpers
 - [2013-11-22T17:47:48] Enhance dashboard statistics rendering
+- [2013-11-22T09:39:23] Clean up legacy worker task routines
