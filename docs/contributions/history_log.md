@@ -2581,3 +2581,4 @@
 - [2013-11-21T11:51:55] Clean up legacy worker task routines
 - [2013-11-21T11:43:08] Improve ffmpeg streaming pipe buffer management
 - [2013-11-21T22:26:50] Update automated pytest test suites
+- [2013-11-21T21:54:36] Update B2 storage chunking parameters
