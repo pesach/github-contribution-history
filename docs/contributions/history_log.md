@@ -2583,3 +2583,4 @@
 - [2013-11-21T22:26:50] Update automated pytest test suites
 - [2013-11-21T21:54:36] Update B2 storage chunking parameters
 - [2013-11-21T14:17:47] Update B2 storage chunking parameters
+- [2013-11-21T20:07:51] Add Prometheus exporter endpoints for queue length
