@@ -2592,3 +2592,4 @@
 - [2013-11-22T20:02:52] Update schema migration helpers
 - [2013-11-22T18:07:03] Add Prometheus exporter endpoints for queue length
 - [2013-11-22T22:18:04] Optimize PostgreSQL query execution plans
+- [2013-11-22T10:46:02] Refactor storage upload retry mechanism
