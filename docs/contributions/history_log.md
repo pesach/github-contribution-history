@@ -2580,3 +2580,4 @@
 - [2013-11-21T20:17:53] Fix edge case in URL parsing and validation
 - [2013-11-21T11:51:55] Clean up legacy worker task routines
 - [2013-11-21T11:43:08] Improve ffmpeg streaming pipe buffer management
+- [2013-11-21T22:26:50] Update automated pytest test suites
