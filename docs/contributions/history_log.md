@@ -2600,3 +2600,4 @@
 - [2013-11-22T13:53:19] Add Redis rate limit backoff handlers
 - [2013-11-22T15:13:41] Optimize PostgreSQL query execution plans
 - [2013-11-23T18:40:54] Refactor worker polling logic
+- [2013-11-23T09:26:08] Fix edge case in channel tab crawler
