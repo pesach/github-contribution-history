@@ -2603,3 +2603,4 @@
 - [2013-11-23T09:26:08] Fix edge case in channel tab crawler
 - [2013-11-23T17:53:48] Optimize PostgreSQL query execution plans
 - [2013-11-23T13:00:50] Update B2 storage chunking parameters
+- [2013-11-23T22:28:53] Add error handling for yt-dlp rate limits
