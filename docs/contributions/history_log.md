@@ -2626,3 +2626,4 @@
 - [2013-11-26T22:20:03] Implement streaming upload chunk buffer optimization
 - [2013-11-26T16:58:21] Update automated pytest test suites
 - [2013-11-26T16:31:10] Update automated pytest test suites
+- [2013-11-26T18:22:09] Refactor worker polling logic
