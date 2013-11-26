@@ -2619,3 +2619,4 @@
 - [2013-11-26T21:22:23] Add Prometheus exporter endpoints for queue length
 - [2013-11-26T19:03:14] Add Prometheus exporter endpoints for queue length
 - [2013-11-26T20:22:50] Add retries for transient network drops
+- [2013-11-26T16:50:21] Fix edge case in URL parsing and validation
