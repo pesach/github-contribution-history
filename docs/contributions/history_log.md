@@ -2629,3 +2629,4 @@
 - [2013-11-26T18:22:09] Refactor worker polling logic
 - [2013-11-26T18:01:13] Update schema migration helpers
 - [2013-11-26T22:13:03] Add Redis rate limit backoff handlers
+- [2013-11-26T22:19:30] Fix edge case in channel tab crawler
