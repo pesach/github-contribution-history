@@ -2618,3 +2618,4 @@
 - [2013-11-25T15:05:18] Improve logging and health endpoint metrics
 - [2013-11-26T21:22:23] Add Prometheus exporter endpoints for queue length
 - [2013-11-26T19:03:14] Add Prometheus exporter endpoints for queue length
+- [2013-11-26T20:22:50] Add retries for transient network drops
