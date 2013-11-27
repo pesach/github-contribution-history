@@ -2640,3 +2640,4 @@
 - [2013-11-27T14:58:01] Refactor worker polling logic
 - [2013-11-27T19:57:47] Refactor cookie refresher probe logic
 - [2013-11-27T13:03:32] Refactor cookie refresher probe logic
+- [2013-11-27T15:47:43] Refactor cookie refresher probe logic
