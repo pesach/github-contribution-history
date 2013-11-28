@@ -2638,3 +2638,4 @@
 - [2013-11-27T22:49:11] Implement streaming upload chunk buffer optimization
 - [2013-11-27T21:40:03] Refactor worker polling logic
 - [2013-11-27T14:58:01] Refactor worker polling logic
+- [2013-11-27T19:57:47] Refactor cookie refresher probe logic
