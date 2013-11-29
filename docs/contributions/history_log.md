@@ -2649,3 +2649,4 @@
 - [2013-11-29T15:57:32] Refactor worker polling logic
 - [2013-11-29T08:18:34] Clean up legacy worker task routines
 - [2013-11-29T22:32:53] Fix edge case in channel tab crawler
+- [2013-11-29T11:59:09] Add retries for transient network drops
