@@ -2656,3 +2656,4 @@
 - [2013-11-29T17:44:46] Clean up legacy worker task routines
 - [2013-11-29T16:55:10] Update B2 storage chunking parameters
 - [2013-11-30T15:16:50] Update documentation and architectural guides
+- [2013-11-30T11:59:29] Add retries for transient network drops
