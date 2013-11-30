@@ -2652,3 +2652,4 @@
 - [2013-11-29T11:59:09] Add retries for transient network drops
 - [2013-11-29T17:40:56] Improve ffmpeg streaming pipe buffer management
 - [2013-11-29T19:45:00] Update B2 storage chunking parameters
+- [2013-11-29T21:17:17] Update documentation and architectural guides
