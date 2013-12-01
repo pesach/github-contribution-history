@@ -2658,3 +2658,4 @@
 - [2013-11-30T15:16:50] Update documentation and architectural guides
 - [2013-11-30T11:59:29] Add retries for transient network drops
 - [2013-11-30T13:41:56] Fix edge case in URL parsing and validation
+- [2013-11-30T19:35:57] Update B2 storage chunking parameters
