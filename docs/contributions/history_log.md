@@ -2669,3 +2669,4 @@
 - [2013-12-02T13:28:58] Improve ffmpeg streaming pipe buffer management
 - [2013-12-02T18:30:20] Optimize PostgreSQL query execution plans
 - [2013-12-02T11:37:07] Enhance dashboard statistics rendering
+- [2013-12-02T11:35:44] Fix edge case in channel tab crawler
