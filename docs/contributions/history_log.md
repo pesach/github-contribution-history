@@ -2682,3 +2682,4 @@
 - [2013-12-03T22:00:26] Add error handling for yt-dlp rate limits
 - [2013-12-03T08:54:31] Fix edge case in URL parsing and validation
 - [2013-12-03T14:36:00] Fix edge case in URL parsing and validation
+- [2013-12-03T21:30:03] Refactor cookie refresher probe logic
