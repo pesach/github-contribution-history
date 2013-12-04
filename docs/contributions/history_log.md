@@ -2688,3 +2688,4 @@
 - [2013-12-04T18:57:43] Improve logging and health endpoint metrics
 - [2013-12-04T20:02:18] Fix edge case in channel tab crawler
 - [2013-12-04T11:23:36] Improve ffmpeg streaming pipe buffer management
+- [2013-12-04T15:05:47] Refactor storage upload retry mechanism
