@@ -2699,3 +2699,4 @@
 - [2013-12-05T09:08:37] Implement streaming upload chunk buffer optimization
 - [2013-12-05T18:23:46] Fix edge case in channel tab crawler
 - [2013-12-05T11:46:31] Add error handling for yt-dlp rate limits
+- [2013-12-05T17:38:43] Add Prometheus exporter endpoints for queue length
