@@ -2710,3 +2710,4 @@
 - [2013-12-06T14:03:41] Improve ffmpeg streaming pipe buffer management
 - [2013-12-06T08:33:08] Enhance dashboard statistics rendering
 - [2013-12-06T13:51:56] Add Prometheus exporter endpoints for queue length
+- [2013-12-06T16:23:36] Update schema migration helpers
