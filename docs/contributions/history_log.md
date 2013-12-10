@@ -2722,3 +2722,4 @@
 - [2013-12-09T10:00:00] Optimize PostgreSQL query execution plans
 - [2013-12-09T18:01:58] Improve ffmpeg streaming pipe buffer management
 - [2013-12-10T20:37:59] Improve logging and health endpoint metrics
+- [2013-12-10T17:42:41] Improve ffmpeg streaming pipe buffer management
