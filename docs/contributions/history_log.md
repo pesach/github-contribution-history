@@ -2731,3 +2731,4 @@
 - [2013-12-10T12:30:08] Add retries for transient network drops
 - [2013-12-10T15:40:27] Update B2 storage chunking parameters
 - [2013-12-10T17:35:43] Update schema migration helpers
+- [2013-12-10T20:29:47] Improve logging and health endpoint metrics
