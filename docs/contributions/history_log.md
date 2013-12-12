@@ -2734,3 +2734,4 @@
 - [2013-12-10T20:29:47] Improve logging and health endpoint metrics
 - [2013-12-10T15:55:39] Fix edge case in URL parsing and validation
 - [2013-12-12T12:21:29] Implement streaming upload chunk buffer optimization
+- [2013-12-12T18:35:52] Refactor worker polling logic
