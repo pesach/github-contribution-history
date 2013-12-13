@@ -2737,3 +2737,4 @@
 - [2013-12-12T18:35:52] Refactor worker polling logic
 - [2013-12-12T20:02:37] Refactor cookie refresher probe logic
 - [2013-12-12T18:19:14] Update B2 storage chunking parameters
+- [2013-12-12T19:19:32] Refactor cookie refresher probe logic
