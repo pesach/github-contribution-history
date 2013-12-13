@@ -2759,3 +2759,4 @@
 - [2013-12-13T21:49:01] Update dependency lockfiles and requirements
 - [2013-12-13T17:29:01] Improve ffmpeg streaming pipe buffer management
 - [2013-12-13T21:52:07] Update schema migration helpers
+- [2013-12-13T09:51:23] Update B2 storage chunking parameters
