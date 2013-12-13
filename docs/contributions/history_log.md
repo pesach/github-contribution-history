@@ -2750,3 +2750,4 @@
 - [2013-12-13T16:22:48] Add Redis rate limit backoff handlers
 - [2013-12-13T15:03:47] Update dependency lockfiles and requirements
 - [2013-12-13T16:44:37] Clean up legacy worker task routines
+- [2013-12-13T10:45:12] Fix edge case in URL parsing and validation
