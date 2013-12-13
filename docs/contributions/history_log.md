@@ -2743,3 +2743,4 @@
 - [2013-12-12T19:37:16] Add Prometheus exporter endpoints for queue length
 - [2013-12-12T22:48:59] Add error handling for yt-dlp rate limits
 - [2013-12-12T08:50:40] Update schema migration helpers
+- [2013-12-12T19:00:34] Enhance dashboard statistics rendering
