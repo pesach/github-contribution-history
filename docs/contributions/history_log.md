@@ -2755,3 +2755,4 @@
 - [2013-12-13T11:21:56] Enhance dashboard statistics rendering
 - [2013-12-13T20:13:37] Update automated pytest test suites
 - [2013-12-13T12:46:47] Implement streaming upload chunk buffer optimization
+- [2013-12-13T19:24:52] Add Prometheus exporter endpoints for queue length
