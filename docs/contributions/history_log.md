@@ -2764,3 +2764,4 @@
 - [2013-12-13T19:22:38] Update automated pytest test suites
 - [2013-12-14T21:08:06] Refactor cookie refresher probe logic
 - [2013-12-14T13:22:26] Fix edge case in channel tab crawler
+- [2013-12-14T10:15:55] Update B2 storage chunking parameters
