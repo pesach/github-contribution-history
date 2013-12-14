@@ -2761,3 +2761,4 @@
 - [2013-12-13T21:52:07] Update schema migration helpers
 - [2013-12-13T09:51:23] Update B2 storage chunking parameters
 - [2013-12-13T16:26:14] Update B2 storage chunking parameters
+- [2013-12-13T19:22:38] Update automated pytest test suites
