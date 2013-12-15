@@ -2766,3 +2766,4 @@
 - [2013-12-14T13:22:26] Fix edge case in channel tab crawler
 - [2013-12-14T10:15:55] Update B2 storage chunking parameters
 - [2013-12-14T10:35:48] Improve logging and health endpoint metrics
+- [2013-12-14T22:05:17] Refactor worker polling logic
