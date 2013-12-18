@@ -2795,3 +2795,4 @@
 - [2013-12-17T21:04:14] Add error handling for yt-dlp rate limits
 - [2013-12-18T16:10:54] Add retries for transient network drops
 - [2013-12-18T15:40:27] Fix edge case in URL parsing and validation
+- [2013-12-18T14:25:27] Refactor cookie refresher probe logic
