@@ -2801,3 +2801,4 @@
 - [2013-12-18T09:41:39] Update schema migration helpers
 - [2013-12-18T11:27:30] Update documentation and architectural guides
 - [2013-12-18T20:47:44] Optimize PostgreSQL query execution plans
+- [2013-12-18T12:40:05] Add Redis rate limit backoff handlers
