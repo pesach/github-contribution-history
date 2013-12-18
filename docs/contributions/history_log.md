@@ -2798,3 +2798,4 @@
 - [2013-12-18T14:25:27] Refactor cookie refresher probe logic
 - [2013-12-18T14:42:40] Update automated pytest test suites
 - [2013-12-18T15:41:34] Refactor worker polling logic
+- [2013-12-18T09:41:39] Update schema migration helpers
