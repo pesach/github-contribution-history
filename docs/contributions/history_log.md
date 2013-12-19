@@ -2802,3 +2802,4 @@
 - [2013-12-18T11:27:30] Update documentation and architectural guides
 - [2013-12-18T20:47:44] Optimize PostgreSQL query execution plans
 - [2013-12-18T12:40:05] Add Redis rate limit backoff handlers
+- [2013-12-19T09:11:59] Add error handling for yt-dlp rate limits
