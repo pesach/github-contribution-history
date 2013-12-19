@@ -2806,3 +2806,4 @@
 - [2013-12-19T18:16:48] Refactor cookie refresher probe logic
 - [2013-12-19T14:12:16] Update schema migration helpers
 - [2013-12-19T12:17:07] Optimize PostgreSQL query execution plans
+- [2013-12-19T14:48:16] Fix edge case in URL parsing and validation
