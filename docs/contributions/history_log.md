@@ -2809,3 +2809,4 @@
 - [2013-12-19T14:48:16] Fix edge case in URL parsing and validation
 - [2013-12-19T17:15:27] Update schema migration helpers
 - [2013-12-19T18:07:47] Implement streaming upload chunk buffer optimization
+- [2013-12-19T18:49:21] Add error handling for yt-dlp rate limits
