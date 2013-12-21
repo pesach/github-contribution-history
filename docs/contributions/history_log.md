@@ -2812,3 +2812,4 @@
 - [2013-12-19T18:49:21] Add error handling for yt-dlp rate limits
 - [2013-12-19T18:14:17] Add Redis rate limit backoff handlers
 - [2013-12-19T08:27:20] Improve logging and health endpoint metrics
+- [2013-12-20T22:34:59] Improve ffmpeg streaming pipe buffer management
