@@ -2837,3 +2837,4 @@
 - [2013-12-23T09:24:30] Add retries for transient network drops
 - [2013-12-23T17:07:00] Improve ffmpeg streaming pipe buffer management
 - [2013-12-23T08:09:39] Refactor worker polling logic
+- [2013-12-23T08:58:19] Add Redis rate limit backoff handlers
