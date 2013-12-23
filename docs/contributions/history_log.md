@@ -2845,3 +2845,4 @@
 - [2013-12-23T08:39:26] Fix edge case in channel tab crawler
 - [2013-12-23T15:31:17] Add error handling for yt-dlp rate limits
 - [2013-12-23T13:17:16] Implement streaming upload chunk buffer optimization
+- [2013-12-23T13:43:38] Refactor worker polling logic
