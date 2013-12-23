@@ -2840,3 +2840,4 @@
 - [2013-12-23T08:58:19] Add Redis rate limit backoff handlers
 - [2013-12-23T12:49:57] Add Prometheus exporter endpoints for queue length
 - [2013-12-23T08:37:45] Add retries for transient network drops
+- [2013-12-23T09:13:54] Improve logging and health endpoint metrics
