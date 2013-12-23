@@ -2833,3 +2833,4 @@
 - [2013-12-22T13:15:56] Update documentation and architectural guides
 - [2013-12-22T22:06:48] Enhance dashboard statistics rendering
 - [2013-12-23T12:37:32] Update automated pytest test suites
+- [2013-12-23T08:02:46] Fix edge case in channel tab crawler
