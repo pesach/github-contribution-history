@@ -2835,3 +2835,4 @@
 - [2013-12-23T12:37:32] Update automated pytest test suites
 - [2013-12-23T08:02:46] Fix edge case in channel tab crawler
 - [2013-12-23T09:24:30] Add retries for transient network drops
+- [2013-12-23T17:07:00] Improve ffmpeg streaming pipe buffer management
