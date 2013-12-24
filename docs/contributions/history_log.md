@@ -2848,3 +2848,4 @@
 - [2013-12-23T13:43:38] Refactor worker polling logic
 - [2013-12-23T09:42:41] Update schema migration helpers
 - [2013-12-24T12:18:13] Clean up legacy worker task routines
+- [2013-12-24T12:36:02] Optimize PostgreSQL query execution plans
