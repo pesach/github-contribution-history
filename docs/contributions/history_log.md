@@ -2856,3 +2856,4 @@
 - [2013-12-24T16:54:18] Implement streaming upload chunk buffer optimization
 - [2013-12-25T20:58:39] Add retries for transient network drops
 - [2013-12-25T17:11:11] Add retries for transient network drops
+- [2013-12-25T18:37:12] Implement streaming upload chunk buffer optimization
