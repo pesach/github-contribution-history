@@ -2864,3 +2864,4 @@
 - [2013-12-25T10:41:48] Implement streaming upload chunk buffer optimization
 - [2013-12-26T18:22:34] Add Redis rate limit backoff handlers
 - [2013-12-26T11:56:56] Fix edge case in URL parsing and validation
+- [2013-12-26T12:46:12] Fix edge case in URL parsing and validation
