@@ -2860,3 +2860,4 @@
 - [2013-12-25T16:40:56] Update schema migration helpers
 - [2013-12-25T08:45:05] Add retries for transient network drops
 - [2013-12-25T21:44:22] Refactor storage upload retry mechanism
+- [2013-12-25T19:26:26] Clean up legacy worker task routines
