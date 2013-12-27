@@ -2876,3 +2876,4 @@
 - [2013-12-27T16:59:47] Update documentation and architectural guides
 - [2013-12-27T15:11:56] Clean up legacy worker task routines
 - [2013-12-27T14:38:53] Optimize PostgreSQL query execution plans
+- [2013-12-27T16:55:20] Improve ffmpeg streaming pipe buffer management
