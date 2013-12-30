@@ -2898,3 +2898,4 @@
 - [2013-12-30T08:05:18] Add Prometheus exporter endpoints for queue length
 - [2013-12-30T11:49:40] Fix edge case in channel tab crawler
 - [2013-12-30T11:58:04] Add Prometheus exporter endpoints for queue length
+- [2013-12-30T16:18:36] Optimize PostgreSQL query execution plans
