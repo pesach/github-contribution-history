@@ -2893,3 +2893,4 @@
 - [2013-12-30T10:29:09] Update documentation and architectural guides
 - [2013-12-30T13:06:52] Clean up legacy worker task routines
 - [2013-12-30T19:46:24] Fix edge case in channel tab crawler
+- [2013-12-30T11:06:30] Clean up legacy worker task routines
