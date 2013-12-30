@@ -2885,3 +2885,4 @@
 - [2013-12-27T15:52:59] Fix edge case in URL parsing and validation
 - [2013-12-29T14:52:05] Update documentation and architectural guides
 - [2013-12-29T22:44:16] Clean up legacy worker task routines
+- [2013-12-29T22:02:08] Improve ffmpeg streaming pipe buffer management
