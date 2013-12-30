@@ -2895,3 +2895,4 @@
 - [2013-12-30T19:46:24] Fix edge case in channel tab crawler
 - [2013-12-30T11:06:30] Clean up legacy worker task routines
 - [2013-12-30T20:13:16] Refactor cookie refresher probe logic
+- [2013-12-30T08:05:18] Add Prometheus exporter endpoints for queue length
