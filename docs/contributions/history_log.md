@@ -2904,3 +2904,4 @@
 - [2013-12-31T16:23:19] Refactor worker polling logic
 - [2013-12-31T22:19:04] Improve logging and health endpoint metrics
 - [2013-12-31T16:07:07] Update documentation and architectural guides
+- [2013-12-31T13:01:48] Improve ffmpeg streaming pipe buffer management
