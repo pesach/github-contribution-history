@@ -2905,3 +2905,4 @@
 - [2013-12-31T22:19:04] Improve logging and health endpoint metrics
 - [2013-12-31T16:07:07] Update documentation and architectural guides
 - [2013-12-31T13:01:48] Improve ffmpeg streaming pipe buffer management
+- [2013-12-31T14:49:58] Refactor storage upload retry mechanism
