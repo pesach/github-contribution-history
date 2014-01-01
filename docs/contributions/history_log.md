@@ -2900,3 +2900,4 @@
 - [2013-12-30T11:58:04] Add Prometheus exporter endpoints for queue length
 - [2013-12-30T16:18:36] Optimize PostgreSQL query execution plans
 - [2013-12-31T18:13:41] Add Prometheus exporter endpoints for queue length
+- [2013-12-31T22:23:42] Update B2 storage chunking parameters
