@@ -2922,3 +2922,4 @@
 - [2014-01-02T22:45:55] Clean up legacy worker task routines
 - [2014-01-02T18:35:42] Update documentation and architectural guides
 - [2014-01-02T09:47:11] Update automated pytest test suites
+- [2014-01-02T13:58:16] Improve ffmpeg streaming pipe buffer management
