@@ -2906,3 +2906,4 @@
 - [2013-12-31T16:07:07] Update documentation and architectural guides
 - [2013-12-31T13:01:48] Improve ffmpeg streaming pipe buffer management
 - [2013-12-31T14:49:58] Refactor storage upload retry mechanism
+- [2014-01-01T19:50:35] Update schema migration helpers
