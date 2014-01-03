@@ -2925,3 +2925,4 @@
 - [2014-01-02T13:58:16] Improve ffmpeg streaming pipe buffer management
 - [2014-01-02T20:49:11] Update automated pytest test suites
 - [2014-01-02T14:00:17] Optimize PostgreSQL query execution plans
+- [2014-01-02T21:05:38] Add error handling for yt-dlp rate limits
