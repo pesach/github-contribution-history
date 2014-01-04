@@ -2936,3 +2936,4 @@
 - [2014-01-03T16:30:04] Add error handling for yt-dlp rate limits
 - [2014-01-03T11:44:45] Improve ffmpeg streaming pipe buffer management
 - [2014-01-03T13:10:00] Update dependency lockfiles and requirements
+- [2014-01-03T22:48:26] Refactor worker polling logic
