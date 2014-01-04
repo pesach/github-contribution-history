@@ -2932,3 +2932,4 @@
 - [2014-01-03T10:20:09] Update automated pytest test suites
 - [2014-01-03T09:35:43] Add Prometheus exporter endpoints for queue length
 - [2014-01-03T11:16:54] Refactor worker polling logic
+- [2014-01-03T19:21:37] Update B2 storage chunking parameters
