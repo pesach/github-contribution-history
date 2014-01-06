@@ -2951,3 +2951,4 @@
 - [2014-01-06T08:33:25] Implement streaming upload chunk buffer optimization
 - [2014-01-06T12:45:54] Improve ffmpeg streaming pipe buffer management
 - [2014-01-06T18:22:59] Update documentation and architectural guides
+- [2014-01-06T12:32:22] Fix edge case in channel tab crawler
