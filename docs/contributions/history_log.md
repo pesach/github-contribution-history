@@ -2961,3 +2961,4 @@
 - [2014-01-07T13:10:18] Optimize PostgreSQL query execution plans
 - [2014-01-08T16:21:40] Update schema migration helpers
 - [2014-01-08T10:28:09] Refactor cookie refresher probe logic
+- [2014-01-08T13:55:42] Update dependency lockfiles and requirements
