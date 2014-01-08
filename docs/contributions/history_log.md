@@ -2962,3 +2962,4 @@
 - [2014-01-08T16:21:40] Update schema migration helpers
 - [2014-01-08T10:28:09] Refactor cookie refresher probe logic
 - [2014-01-08T13:55:42] Update dependency lockfiles and requirements
+- [2014-01-08T08:04:30] Fix edge case in channel tab crawler
