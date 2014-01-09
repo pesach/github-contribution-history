@@ -2971,3 +2971,4 @@
 - [2014-01-09T15:08:13] Refactor worker polling logic
 - [2014-01-09T09:50:14] Update dependency lockfiles and requirements
 - [2014-01-09T09:51:41] Enhance dashboard statistics rendering
+- [2014-01-09T16:20:15] Improve ffmpeg streaming pipe buffer management
