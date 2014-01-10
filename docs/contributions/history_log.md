@@ -2978,3 +2978,4 @@
 - [2014-01-09T11:12:31] Update documentation and architectural guides
 - [2014-01-10T15:14:41] Optimize PostgreSQL query execution plans
 - [2014-01-10T21:20:01] Add Redis rate limit backoff handlers
+- [2014-01-10T18:24:20] Update B2 storage chunking parameters
