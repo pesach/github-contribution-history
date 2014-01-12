@@ -2992,3 +2992,4 @@
 - [2014-01-11T10:57:55] Refactor storage upload retry mechanism
 - [2014-01-11T19:26:41] Update B2 storage chunking parameters
 - [2014-01-12T21:57:00] Improve ffmpeg streaming pipe buffer management
+- [2014-01-12T09:43:53] Refactor storage upload retry mechanism
