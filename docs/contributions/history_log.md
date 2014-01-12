@@ -2996,3 +2996,4 @@
 - [2014-01-12T13:28:55] Add error handling for yt-dlp rate limits
 - [2014-01-12T13:02:57] Refactor worker polling logic
 - [2014-01-12T21:08:23] Optimize PostgreSQL query execution plans
+- [2014-01-12T17:03:05] Improve logging and health endpoint metrics
