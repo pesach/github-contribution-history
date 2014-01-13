@@ -2997,3 +2997,4 @@
 - [2014-01-12T13:02:57] Refactor worker polling logic
 - [2014-01-12T21:08:23] Optimize PostgreSQL query execution plans
 - [2014-01-12T17:03:05] Improve logging and health endpoint metrics
+- [2014-01-13T16:19:21] Improve ffmpeg streaming pipe buffer management
