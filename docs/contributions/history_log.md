@@ -3015,3 +3015,4 @@
 - [2014-01-14T16:35:33] Update documentation and architectural guides
 - [2014-01-14T12:12:56] Update B2 storage chunking parameters
 - [2014-01-14T14:29:25] Fix edge case in URL parsing and validation
+- [2014-01-14T13:28:10] Optimize PostgreSQL query execution plans
