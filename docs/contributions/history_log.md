@@ -3002,3 +3002,4 @@
 - [2014-01-13T12:40:55] Improve logging and health endpoint metrics
 - [2014-01-13T17:40:19] Update documentation and architectural guides
 - [2014-01-13T15:29:19] Refactor worker polling logic
+- [2014-01-13T19:06:47] Fix edge case in channel tab crawler
