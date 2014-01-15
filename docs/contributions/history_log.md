@@ -3023,3 +3023,4 @@
 - [2014-01-15T21:03:07] Add retries for transient network drops
 - [2014-01-15T17:10:09] Add retries for transient network drops
 - [2014-01-15T15:45:32] Add Prometheus exporter endpoints for queue length
+- [2014-01-15T17:53:53] Update documentation and architectural guides
