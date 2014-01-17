@@ -3028,3 +3028,4 @@
 - [2014-01-15T09:31:48] Optimize PostgreSQL query execution plans
 - [2014-01-15T08:22:00] Improve logging and health endpoint metrics
 - [2014-01-15T12:21:30] Fix edge case in channel tab crawler
+- [2014-01-16T19:00:39] Fix edge case in channel tab crawler
