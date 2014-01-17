@@ -3040,3 +3040,4 @@
 - [2014-01-16T22:44:03] Update schema migration helpers
 - [2014-01-16T15:20:40] Update automated pytest test suites
 - [2014-01-17T17:50:39] Add Redis rate limit backoff handlers
+- [2014-01-17T17:25:37] Update B2 storage chunking parameters
