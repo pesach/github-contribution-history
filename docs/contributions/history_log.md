@@ -3050,3 +3050,4 @@
 - [2014-01-18T10:11:55] Improve logging and health endpoint metrics
 - [2014-01-18T13:30:05] Add Prometheus exporter endpoints for queue length
 - [2014-01-18T20:00:46] Update schema migration helpers
+- [2014-01-19T17:43:46] Optimize PostgreSQL query execution plans
