@@ -3063,3 +3063,4 @@
 - [2014-01-20T21:59:12] Fix edge case in URL parsing and validation
 - [2014-01-20T10:58:59] Update dependency lockfiles and requirements
 - [2014-01-20T19:34:55] Refactor cookie refresher probe logic
+- [2014-01-20T13:55:12] Update dependency lockfiles and requirements
