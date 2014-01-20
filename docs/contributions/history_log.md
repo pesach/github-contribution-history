@@ -3058,3 +3058,4 @@
 - [2014-01-20T12:55:42] Implement streaming upload chunk buffer optimization
 - [2014-01-20T13:55:54] Optimize PostgreSQL query execution plans
 - [2014-01-20T12:20:34] Fix edge case in channel tab crawler
+- [2014-01-20T08:27:50] Update schema migration helpers
