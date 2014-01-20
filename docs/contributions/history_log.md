@@ -3054,3 +3054,4 @@
 - [2014-01-19T11:22:01] Update dependency lockfiles and requirements
 - [2014-01-19T11:19:43] Enhance dashboard statistics rendering
 - [2014-01-20T21:39:21] Improve ffmpeg streaming pipe buffer management
+- [2014-01-20T11:30:43] Fix edge case in channel tab crawler
