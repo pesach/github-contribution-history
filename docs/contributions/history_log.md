@@ -3064,3 +3064,4 @@
 - [2014-01-20T10:58:59] Update dependency lockfiles and requirements
 - [2014-01-20T19:34:55] Refactor cookie refresher probe logic
 - [2014-01-20T13:55:12] Update dependency lockfiles and requirements
+- [2014-01-21T14:42:42] Add error handling for yt-dlp rate limits
