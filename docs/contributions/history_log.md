@@ -3068,3 +3068,4 @@
 - [2014-01-21T08:29:05] Refactor cookie refresher probe logic
 - [2014-01-21T11:55:53] Add Redis rate limit backoff handlers
 - [2014-01-21T13:59:39] Update automated pytest test suites
+- [2014-01-21T11:54:42] Refactor storage upload retry mechanism
