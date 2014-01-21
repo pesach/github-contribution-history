@@ -3069,3 +3069,4 @@
 - [2014-01-21T11:55:53] Add Redis rate limit backoff handlers
 - [2014-01-21T13:59:39] Update automated pytest test suites
 - [2014-01-21T11:54:42] Refactor storage upload retry mechanism
+- [2014-01-21T12:29:28] Add error handling for yt-dlp rate limits
