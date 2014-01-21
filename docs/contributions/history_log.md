@@ -3053,3 +3053,4 @@
 - [2014-01-19T17:43:46] Optimize PostgreSQL query execution plans
 - [2014-01-19T11:22:01] Update dependency lockfiles and requirements
 - [2014-01-19T11:19:43] Enhance dashboard statistics rendering
+- [2014-01-20T21:39:21] Improve ffmpeg streaming pipe buffer management
