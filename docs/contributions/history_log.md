@@ -3090,3 +3090,4 @@
 - [2014-01-22T14:39:40] Improve logging and health endpoint metrics
 - [2014-01-22T08:17:23] Add retries for transient network drops
 - [2014-01-22T12:58:44] Improve logging and health endpoint metrics
+- [2014-01-22T11:53:47] Refactor storage upload retry mechanism
