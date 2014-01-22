@@ -3074,3 +3074,4 @@
 - [2014-01-21T22:17:43] Refactor cookie refresher probe logic
 - [2014-01-21T12:52:07] Update automated pytest test suites
 - [2014-01-21T21:38:53] Fix edge case in URL parsing and validation
+- [2014-01-21T21:36:44] Add Prometheus exporter endpoints for queue length
