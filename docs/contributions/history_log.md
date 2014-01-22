@@ -3077,3 +3077,4 @@
 - [2014-01-21T21:36:44] Add Prometheus exporter endpoints for queue length
 - [2014-01-21T21:16:06] Refactor cookie refresher probe logic
 - [2014-01-22T22:16:13] Add Redis rate limit backoff handlers
+- [2014-01-22T16:24:16] Update schema migration helpers
