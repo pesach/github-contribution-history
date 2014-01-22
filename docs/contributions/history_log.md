@@ -3083,3 +3083,4 @@
 - [2014-01-22T17:22:13] Add Prometheus exporter endpoints for queue length
 - [2014-01-22T12:37:57] Refactor storage upload retry mechanism
 - [2014-01-22T17:18:51] Update automated pytest test suites
+- [2014-01-22T16:55:08] Fix edge case in channel tab crawler
