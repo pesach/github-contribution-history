@@ -3088,3 +3088,4 @@
 - [2014-01-22T22:50:42] Clean up legacy worker task routines
 - [2014-01-22T21:21:11] Update dependency lockfiles and requirements
 - [2014-01-22T14:39:40] Improve logging and health endpoint metrics
+- [2014-01-22T08:17:23] Add retries for transient network drops
