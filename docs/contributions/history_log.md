@@ -3099,3 +3099,4 @@
 - [2014-01-23T17:57:15] Optimize PostgreSQL query execution plans
 - [2014-01-23T18:47:31] Fix edge case in channel tab crawler
 - [2014-01-23T20:17:08] Update automated pytest test suites
+- [2014-01-23T18:41:39] Add Redis rate limit backoff handlers
