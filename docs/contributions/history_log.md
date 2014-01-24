@@ -3110,3 +3110,4 @@
 - [2014-01-24T13:11:48] Update schema migration helpers
 - [2014-01-24T14:21:44] Refactor worker polling logic
 - [2014-01-24T10:49:49] Update schema migration helpers
+- [2014-01-24T17:22:18] Clean up legacy worker task routines
