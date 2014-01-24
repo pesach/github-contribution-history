@@ -3108,3 +3108,4 @@
 - [2014-01-24T11:49:54] Add error handling for yt-dlp rate limits
 - [2014-01-24T18:22:08] Add Redis rate limit backoff handlers
 - [2014-01-24T13:11:48] Update schema migration helpers
+- [2014-01-24T14:21:44] Refactor worker polling logic
