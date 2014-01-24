@@ -3102,3 +3102,4 @@
 - [2014-01-23T18:41:39] Add Redis rate limit backoff handlers
 - [2014-01-23T21:13:27] Add Redis rate limit backoff handlers
 - [2014-01-24T15:08:58] Add Prometheus exporter endpoints for queue length
+- [2014-01-24T14:00:22] Fix edge case in channel tab crawler
