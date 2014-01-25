@@ -3118,3 +3118,4 @@
 - [2014-01-24T17:17:32] Add retries for transient network drops
 - [2014-01-25T21:37:53] Improve ffmpeg streaming pipe buffer management
 - [2014-01-25T13:38:44] Fix edge case in URL parsing and validation
+- [2014-01-25T09:13:38] Update automated pytest test suites
