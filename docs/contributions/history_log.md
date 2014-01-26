@@ -3116,3 +3116,4 @@
 - [2014-01-24T16:13:06] Add Redis rate limit backoff handlers
 - [2014-01-24T21:27:43] Update documentation and architectural guides
 - [2014-01-24T17:17:32] Add retries for transient network drops
+- [2014-01-25T21:37:53] Improve ffmpeg streaming pipe buffer management
