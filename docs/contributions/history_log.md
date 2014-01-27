@@ -3120,3 +3120,4 @@
 - [2014-01-25T13:38:44] Fix edge case in URL parsing and validation
 - [2014-01-25T09:13:38] Update automated pytest test suites
 - [2014-01-25T13:02:00] Clean up legacy worker task routines
+- [2014-01-27T08:52:36] Add Redis rate limit backoff handlers
