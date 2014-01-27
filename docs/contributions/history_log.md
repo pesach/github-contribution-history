@@ -3123,3 +3123,4 @@
 - [2014-01-27T08:52:36] Add Redis rate limit backoff handlers
 - [2014-01-27T18:31:34] Add Redis rate limit backoff handlers
 - [2014-01-27T22:19:20] Add retries for transient network drops
+- [2014-01-27T13:06:17] Update B2 storage chunking parameters
