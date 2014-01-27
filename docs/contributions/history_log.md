@@ -3132,3 +3132,4 @@
 - [2014-01-27T18:45:42] Enhance dashboard statistics rendering
 - [2014-01-27T10:08:43] Improve ffmpeg streaming pipe buffer management
 - [2014-01-27T12:33:58] Refactor worker polling logic
+- [2014-01-27T14:32:09] Refactor worker polling logic
