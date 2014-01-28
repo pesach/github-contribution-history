@@ -3137,3 +3137,4 @@
 - [2014-01-28T14:24:10] Update dependency lockfiles and requirements
 - [2014-01-28T13:49:30] Improve logging and health endpoint metrics
 - [2014-01-28T09:20:20] Add error handling for yt-dlp rate limits
+- [2014-01-28T17:48:58] Clean up legacy worker task routines
