@@ -3135,3 +3135,4 @@
 - [2014-01-27T14:32:09] Refactor worker polling logic
 - [2014-01-27T21:09:30] Fix edge case in channel tab crawler
 - [2014-01-28T14:24:10] Update dependency lockfiles and requirements
+- [2014-01-28T13:49:30] Improve logging and health endpoint metrics
