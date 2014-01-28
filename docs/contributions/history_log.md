@@ -3127,3 +3127,4 @@
 - [2014-01-27T10:58:32] Fix edge case in channel tab crawler
 - [2014-01-27T09:45:19] Update B2 storage chunking parameters
 - [2014-01-27T08:27:45] Add retries for transient network drops
+- [2014-01-27T22:30:59] Optimize PostgreSQL query execution plans
