@@ -3152,3 +3152,4 @@
 - [2014-01-29T14:44:43] Update documentation and architectural guides
 - [2014-01-29T22:21:47] Update automated pytest test suites
 - [2014-01-29T08:38:23] Add retries for transient network drops
+- [2014-01-29T11:58:32] Clean up legacy worker task routines
