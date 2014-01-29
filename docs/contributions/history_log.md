@@ -3143,3 +3143,4 @@
 - [2014-01-28T12:43:52] Refactor storage upload retry mechanism
 - [2014-01-28T17:08:43] Enhance dashboard statistics rendering
 - [2014-01-28T11:39:17] Fix edge case in channel tab crawler
+- [2014-01-29T16:05:04] Update schema migration helpers
