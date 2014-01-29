@@ -3145,3 +3145,4 @@
 - [2014-01-28T11:39:17] Fix edge case in channel tab crawler
 - [2014-01-29T16:05:04] Update schema migration helpers
 - [2014-01-29T15:31:54] Add Redis rate limit backoff handlers
+- [2014-01-29T09:49:49] Update schema migration helpers
