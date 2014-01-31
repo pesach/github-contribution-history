@@ -3173,3 +3173,4 @@
 - [2014-01-31T17:23:26] Add Prometheus exporter endpoints for queue length
 - [2014-01-31T18:47:04] Update automated pytest test suites
 - [2014-01-31T09:28:59] Update schema migration helpers
+- [2014-01-31T12:53:26] Refactor cookie refresher probe logic
