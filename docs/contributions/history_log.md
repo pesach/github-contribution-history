@@ -3162,3 +3162,4 @@
 - [2014-01-30T15:23:15] Update dependency lockfiles and requirements
 - [2014-01-30T19:10:19] Refactor cookie refresher probe logic
 - [2014-01-31T17:59:38] Improve logging and health endpoint metrics
+- [2014-01-31T17:23:10] Update B2 storage chunking parameters
