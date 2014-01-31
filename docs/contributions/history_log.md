@@ -3172,3 +3172,4 @@
 - [2014-01-31T19:16:38] Update B2 storage chunking parameters
 - [2014-01-31T17:23:26] Add Prometheus exporter endpoints for queue length
 - [2014-01-31T18:47:04] Update automated pytest test suites
+- [2014-01-31T09:28:59] Update schema migration helpers
