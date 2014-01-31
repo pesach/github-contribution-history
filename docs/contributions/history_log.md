@@ -3168,3 +3168,4 @@
 - [2014-01-31T19:03:00] Update documentation and architectural guides
 - [2014-01-31T20:28:53] Update automated pytest test suites
 - [2014-01-31T13:00:05] Improve logging and health endpoint metrics
+- [2014-01-31T18:39:51] Add Prometheus exporter endpoints for queue length
