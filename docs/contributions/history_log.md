@@ -3185,3 +3185,4 @@
 - [2014-02-03T15:11:23] Add error handling for yt-dlp rate limits
 - [2014-02-03T14:00:54] Add error handling for yt-dlp rate limits
 - [2014-02-03T09:58:45] Refactor storage upload retry mechanism
+- [2014-02-03T17:54:46] Fix edge case in URL parsing and validation
