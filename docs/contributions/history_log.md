@@ -3191,3 +3191,4 @@
 - [2014-02-04T20:03:18] Add retries for transient network drops
 - [2014-02-04T15:06:26] Improve logging and health endpoint metrics
 - [2014-02-04T08:42:25] Add Prometheus exporter endpoints for queue length
+- [2014-02-04T13:32:49] Fix edge case in channel tab crawler
