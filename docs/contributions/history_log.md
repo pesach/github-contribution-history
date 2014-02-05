@@ -3199,3 +3199,4 @@
 - [2014-02-05T08:08:28] Clean up legacy worker task routines
 - [2014-02-05T13:10:26] Improve ffmpeg streaming pipe buffer management
 - [2014-02-05T10:30:31] Improve logging and health endpoint metrics
+- [2014-02-05T13:41:29] Add retries for transient network drops
