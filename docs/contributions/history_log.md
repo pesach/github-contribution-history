@@ -3187,3 +3187,4 @@
 - [2014-02-03T09:58:45] Refactor storage upload retry mechanism
 - [2014-02-03T17:54:46] Fix edge case in URL parsing and validation
 - [2014-02-04T19:31:58] Update automated pytest test suites
+- [2014-02-04T19:41:40] Fix edge case in channel tab crawler
