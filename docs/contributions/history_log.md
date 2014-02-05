@@ -3201,3 +3201,4 @@
 - [2014-02-05T10:30:31] Improve logging and health endpoint metrics
 - [2014-02-05T13:41:29] Add retries for transient network drops
 - [2014-02-05T16:56:33] Update documentation and architectural guides
+- [2014-02-05T09:35:57] Refactor storage upload retry mechanism
