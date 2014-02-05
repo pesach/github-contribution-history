@@ -3194,3 +3194,4 @@
 - [2014-02-04T13:32:49] Fix edge case in channel tab crawler
 - [2014-02-04T13:56:58] Update documentation and architectural guides
 - [2014-02-05T15:08:06] Add error handling for yt-dlp rate limits
+- [2014-02-05T13:01:31] Add error handling for yt-dlp rate limits
