@@ -3205,3 +3205,4 @@
 - [2014-02-06T09:11:35] Enhance dashboard statistics rendering
 - [2014-02-06T22:19:18] Update dependency lockfiles and requirements
 - [2014-02-06T19:39:09] Update schema migration helpers
+- [2014-02-06T18:06:51] Fix edge case in URL parsing and validation
