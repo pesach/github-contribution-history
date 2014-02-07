@@ -3216,3 +3216,4 @@
 - [2014-02-07T16:25:48] Refactor storage upload retry mechanism
 - [2014-02-07T17:55:56] Update B2 storage chunking parameters
 - [2014-02-07T15:33:13] Fix edge case in URL parsing and validation
+- [2014-02-07T18:45:18] Implement streaming upload chunk buffer optimization
