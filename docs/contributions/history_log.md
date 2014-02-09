@@ -3218,3 +3218,4 @@
 - [2014-02-07T15:33:13] Fix edge case in URL parsing and validation
 - [2014-02-07T18:45:18] Implement streaming upload chunk buffer optimization
 - [2014-02-07T09:13:49] Add retries for transient network drops
+- [2014-02-09T14:45:28] Implement streaming upload chunk buffer optimization
