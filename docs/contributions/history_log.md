@@ -3223,3 +3223,4 @@
 - [2014-02-09T12:22:43] Improve logging and health endpoint metrics
 - [2014-02-09T17:57:17] Add retries for transient network drops
 - [2014-02-10T18:43:00] Update B2 storage chunking parameters
+- [2014-02-10T13:03:15] Improve ffmpeg streaming pipe buffer management
