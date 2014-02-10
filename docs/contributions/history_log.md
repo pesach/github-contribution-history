@@ -3231,3 +3231,4 @@
 - [2014-02-10T09:36:47] Fix edge case in channel tab crawler
 - [2014-02-10T15:29:28] Update dependency lockfiles and requirements
 - [2014-02-10T12:25:07] Update documentation and architectural guides
+- [2014-02-10T12:16:56] Implement streaming upload chunk buffer optimization
