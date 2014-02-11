@@ -3234,3 +3234,4 @@
 - [2014-02-10T12:16:56] Implement streaming upload chunk buffer optimization
 - [2014-02-10T20:44:45] Update dependency lockfiles and requirements
 - [2014-02-11T20:50:24] Add Redis rate limit backoff handlers
+- [2014-02-11T13:53:39] Add retries for transient network drops
