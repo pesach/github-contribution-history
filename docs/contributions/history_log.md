@@ -3251,3 +3251,4 @@
 - [2014-02-12T10:49:42] Optimize PostgreSQL query execution plans
 - [2014-02-12T22:54:25] Fix edge case in URL parsing and validation
 - [2014-02-12T09:54:47] Refactor storage upload retry mechanism
+- [2014-02-12T12:54:15] Update automated pytest test suites
