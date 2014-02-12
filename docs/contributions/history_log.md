@@ -3243,3 +3243,4 @@
 - [2014-02-12T11:36:25] Refactor storage upload retry mechanism
 - [2014-02-12T14:38:27] Fix edge case in channel tab crawler
 - [2014-02-12T13:04:47] Clean up legacy worker task routines
+- [2014-02-12T14:19:01] Refactor cookie refresher probe logic
