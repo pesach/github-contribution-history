@@ -3253,3 +3253,4 @@
 - [2014-02-12T09:54:47] Refactor storage upload retry mechanism
 - [2014-02-12T12:54:15] Update automated pytest test suites
 - [2014-02-12T08:50:09] Update schema migration helpers
+- [2014-02-12T21:55:55] Update dependency lockfiles and requirements
