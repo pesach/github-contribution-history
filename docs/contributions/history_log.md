@@ -3255,3 +3255,4 @@
 - [2014-02-12T08:50:09] Update schema migration helpers
 - [2014-02-12T21:55:55] Update dependency lockfiles and requirements
 - [2014-02-13T19:19:20] Update B2 storage chunking parameters
+- [2014-02-13T14:40:43] Refactor cookie refresher probe logic
