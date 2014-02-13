@@ -3258,3 +3258,4 @@
 - [2014-02-13T14:40:43] Refactor cookie refresher probe logic
 - [2014-02-13T22:13:44] Update schema migration helpers
 - [2014-02-13T11:44:15] Update automated pytest test suites
+- [2014-02-13T13:26:09] Fix edge case in URL parsing and validation
