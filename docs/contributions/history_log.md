@@ -3245,3 +3245,4 @@
 - [2014-02-12T13:04:47] Clean up legacy worker task routines
 - [2014-02-12T14:19:01] Refactor cookie refresher probe logic
 - [2014-02-12T20:12:29] Add retries for transient network drops
+- [2014-02-12T21:29:14] Refactor cookie refresher probe logic
