@@ -3249,3 +3249,4 @@
 - [2014-02-12T16:07:59] Improve logging and health endpoint metrics
 - [2014-02-12T22:53:50] Fix edge case in URL parsing and validation
 - [2014-02-12T10:49:42] Optimize PostgreSQL query execution plans
+- [2014-02-12T22:54:25] Fix edge case in URL parsing and validation
