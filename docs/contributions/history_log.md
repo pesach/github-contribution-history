@@ -3247,3 +3247,4 @@
 - [2014-02-12T20:12:29] Add retries for transient network drops
 - [2014-02-12T21:29:14] Refactor cookie refresher probe logic
 - [2014-02-12T16:07:59] Improve logging and health endpoint metrics
+- [2014-02-12T22:53:50] Fix edge case in URL parsing and validation
