@@ -3275,3 +3275,4 @@
 - [2014-02-14T17:23:55] Improve ffmpeg streaming pipe buffer management
 - [2014-02-15T11:15:02] Update documentation and architectural guides
 - [2014-02-15T14:51:47] Add Redis rate limit backoff handlers
+- [2014-02-15T13:38:52] Improve logging and health endpoint metrics
