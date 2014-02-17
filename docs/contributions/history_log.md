@@ -3285,3 +3285,4 @@
 - [2014-02-17T10:59:35] Add error handling for yt-dlp rate limits
 - [2014-02-17T22:36:07] Add error handling for yt-dlp rate limits
 - [2014-02-17T09:08:02] Add Redis rate limit backoff handlers
+- [2014-02-17T09:01:16] Clean up legacy worker task routines
