@@ -3297,3 +3297,4 @@
 - [2014-02-18T21:30:35] Improve ffmpeg streaming pipe buffer management
 - [2014-02-18T16:43:15] Add error handling for yt-dlp rate limits
 - [2014-02-18T20:56:35] Update automated pytest test suites
+- [2014-02-18T10:37:40] Update schema migration helpers
