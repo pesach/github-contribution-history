@@ -3280,3 +3280,4 @@
 - [2014-02-16T16:00:14] Fix edge case in channel tab crawler
 - [2014-02-16T12:30:39] Optimize PostgreSQL query execution plans
 - [2014-02-16T10:51:56] Update automated pytest test suites
+- [2014-02-17T19:51:36] Add Prometheus exporter endpoints for queue length
