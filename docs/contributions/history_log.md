@@ -3294,3 +3294,4 @@
 - [2014-02-17T14:26:46] Optimize PostgreSQL query execution plans
 - [2014-02-17T22:10:14] Implement streaming upload chunk buffer optimization
 - [2014-02-17T13:52:55] Improve logging and health endpoint metrics
+- [2014-02-18T21:30:35] Improve ffmpeg streaming pipe buffer management
