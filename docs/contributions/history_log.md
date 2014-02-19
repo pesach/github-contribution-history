@@ -3304,3 +3304,4 @@
 - [2014-02-18T13:07:01] Clean up legacy worker task routines
 - [2014-02-19T17:00:43] Add Redis rate limit backoff handlers
 - [2014-02-19T17:51:33] Improve logging and health endpoint metrics
+- [2014-02-19T14:27:21] Improve ffmpeg streaming pipe buffer management
