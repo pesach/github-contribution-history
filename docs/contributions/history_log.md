@@ -3302,3 +3302,4 @@
 - [2014-02-18T10:26:15] Add Redis rate limit backoff handlers
 - [2014-02-18T09:27:04] Add Prometheus exporter endpoints for queue length
 - [2014-02-18T13:07:01] Clean up legacy worker task routines
+- [2014-02-19T17:00:43] Add Redis rate limit backoff handlers
