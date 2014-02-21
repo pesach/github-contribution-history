@@ -3334,3 +3334,4 @@
 - [2014-02-21T09:18:08] Improve logging and health endpoint metrics
 - [2014-02-21T20:33:37] Add retries for transient network drops
 - [2014-02-21T18:23:12] Update dependency lockfiles and requirements
+- [2014-02-21T13:50:14] Improve logging and health endpoint metrics
