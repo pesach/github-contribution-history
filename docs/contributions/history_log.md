@@ -3321,3 +3321,4 @@
 - [2014-02-20T17:18:32] Refactor storage upload retry mechanism
 - [2014-02-20T21:33:49] Fix edge case in channel tab crawler
 - [2014-02-20T18:48:24] Add retries for transient network drops
+- [2014-02-20T22:03:35] Update B2 storage chunking parameters
