@@ -3328,3 +3328,4 @@
 - [2014-02-20T13:40:19] Update documentation and architectural guides
 - [2014-02-20T21:35:18] Fix edge case in channel tab crawler
 - [2014-02-20T10:59:31] Refactor storage upload retry mechanism
+- [2014-02-21T09:59:53] Refactor storage upload retry mechanism
