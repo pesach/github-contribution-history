@@ -3323,3 +3323,4 @@
 - [2014-02-20T18:48:24] Add retries for transient network drops
 - [2014-02-20T22:03:35] Update B2 storage chunking parameters
 - [2014-02-20T15:50:58] Refactor storage upload retry mechanism
+- [2014-02-20T22:01:16] Update schema migration helpers
