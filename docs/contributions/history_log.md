@@ -3330,3 +3330,4 @@
 - [2014-02-20T10:59:31] Refactor storage upload retry mechanism
 - [2014-02-21T09:59:53] Refactor storage upload retry mechanism
 - [2014-02-21T18:33:00] Update automated pytest test suites
+- [2014-02-21T18:51:46] Update B2 storage chunking parameters
