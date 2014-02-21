@@ -3340,3 +3340,4 @@
 - [2014-02-21T21:15:28] Add Redis rate limit backoff handlers
 - [2014-02-21T18:50:57] Improve ffmpeg streaming pipe buffer management
 - [2014-02-21T13:55:01] Update automated pytest test suites
+- [2014-02-21T14:30:54] Update schema migration helpers
