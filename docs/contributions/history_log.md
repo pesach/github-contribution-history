@@ -3319,3 +3319,4 @@
 - [2014-02-20T12:38:35] Update dependency lockfiles and requirements
 - [2014-02-20T08:42:40] Fix edge case in channel tab crawler
 - [2014-02-20T17:18:32] Refactor storage upload retry mechanism
+- [2014-02-20T21:33:49] Fix edge case in channel tab crawler
