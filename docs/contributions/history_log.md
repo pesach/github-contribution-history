@@ -3337,3 +3337,4 @@
 - [2014-02-21T13:50:14] Improve logging and health endpoint metrics
 - [2014-02-21T11:07:54] Improve ffmpeg streaming pipe buffer management
 - [2014-02-21T20:59:29] Update B2 storage chunking parameters
+- [2014-02-21T21:15:28] Add Redis rate limit backoff handlers
