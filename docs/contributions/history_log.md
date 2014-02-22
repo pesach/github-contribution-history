@@ -3344,3 +3344,4 @@
 - [2014-02-21T09:15:32] Clean up legacy worker task routines
 - [2014-02-21T17:39:22] Fix edge case in channel tab crawler
 - [2014-02-22T21:47:30] Improve logging and health endpoint metrics
+- [2014-02-22T13:27:04] Improve logging and health endpoint metrics
