@@ -3336,3 +3336,4 @@
 - [2014-02-21T18:23:12] Update dependency lockfiles and requirements
 - [2014-02-21T13:50:14] Improve logging and health endpoint metrics
 - [2014-02-21T11:07:54] Improve ffmpeg streaming pipe buffer management
+- [2014-02-21T20:59:29] Update B2 storage chunking parameters
