@@ -3347,3 +3347,4 @@
 - [2014-02-22T13:27:04] Improve logging and health endpoint metrics
 - [2014-02-22T22:09:37] Add Redis rate limit backoff handlers
 - [2014-02-22T22:05:36] Clean up legacy worker task routines
+- [2014-02-24T18:54:38] Add Prometheus exporter endpoints for queue length
