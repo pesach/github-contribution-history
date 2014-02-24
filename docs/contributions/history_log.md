@@ -3353,3 +3353,4 @@
 - [2014-02-24T20:53:07] Add Prometheus exporter endpoints for queue length
 - [2014-02-24T13:39:31] Add Prometheus exporter endpoints for queue length
 - [2014-02-24T17:31:47] Add retries for transient network drops
+- [2014-02-24T12:02:53] Add Redis rate limit backoff handlers
