@@ -3355,3 +3355,4 @@
 - [2014-02-24T17:31:47] Add retries for transient network drops
 - [2014-02-24T12:02:53] Add Redis rate limit backoff handlers
 - [2014-02-24T09:54:21] Fix edge case in channel tab crawler
+- [2014-02-25T18:22:30] Refactor cookie refresher probe logic
