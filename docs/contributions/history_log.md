@@ -3358,3 +3358,4 @@
 - [2014-02-25T18:22:30] Refactor cookie refresher probe logic
 - [2014-02-25T16:35:51] Fix edge case in channel tab crawler
 - [2014-02-25T14:41:01] Update B2 storage chunking parameters
+- [2014-02-25T15:35:17] Add Prometheus exporter endpoints for queue length
