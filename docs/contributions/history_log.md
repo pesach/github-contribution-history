@@ -3363,3 +3363,4 @@
 - [2014-02-25T09:22:49] Enhance dashboard statistics rendering
 - [2014-02-25T19:52:34] Add error handling for yt-dlp rate limits
 - [2014-02-25T20:35:42] Add Prometheus exporter endpoints for queue length
+- [2014-02-25T09:12:43] Clean up legacy worker task routines
