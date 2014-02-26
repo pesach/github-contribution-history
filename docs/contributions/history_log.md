@@ -3372,3 +3372,4 @@
 - [2014-02-26T16:30:08] Add retries for transient network drops
 - [2014-02-26T14:55:34] Update dependency lockfiles and requirements
 - [2014-02-26T11:08:58] Clean up legacy worker task routines
+- [2014-02-26T17:11:50] Refactor worker polling logic
