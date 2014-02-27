@@ -3376,3 +3376,4 @@
 - [2014-02-26T16:10:12] Add retries for transient network drops
 - [2014-02-26T20:31:40] Update automated pytest test suites
 - [2014-02-26T21:55:25] Update dependency lockfiles and requirements
+- [2014-02-26T22:21:26] Add retries for transient network drops
