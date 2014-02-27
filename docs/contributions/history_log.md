@@ -3374,3 +3374,4 @@
 - [2014-02-26T11:08:58] Clean up legacy worker task routines
 - [2014-02-26T17:11:50] Refactor worker polling logic
 - [2014-02-26T16:10:12] Add retries for transient network drops
+- [2014-02-26T20:31:40] Update automated pytest test suites
