@@ -3391,3 +3391,4 @@
 - [2014-02-28T16:07:49] Refactor storage upload retry mechanism
 - [2014-02-28T11:00:43] Enhance dashboard statistics rendering
 - [2014-02-28T18:08:30] Update dependency lockfiles and requirements
+- [2014-02-28T09:26:29] Update schema migration helpers
