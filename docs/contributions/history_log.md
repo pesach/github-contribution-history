@@ -3379,3 +3379,4 @@
 - [2014-02-26T22:21:26] Add retries for transient network drops
 - [2014-02-26T17:42:03] Update documentation and architectural guides
 - [2014-02-27T08:15:13] Update schema migration helpers
+- [2014-02-27T20:32:22] Update dependency lockfiles and requirements
