@@ -3394,3 +3394,4 @@
 - [2014-02-28T09:26:29] Update schema migration helpers
 - [2014-02-28T20:09:57] Improve logging and health endpoint metrics
 - [2014-03-01T13:51:57] Update B2 storage chunking parameters
+- [2014-03-01T11:02:33] Add Prometheus exporter endpoints for queue length
