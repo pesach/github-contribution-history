@@ -3413,3 +3413,4 @@
 - [2014-03-04T18:06:42] Add Redis rate limit backoff handlers
 - [2014-03-04T12:15:37] Add retries for transient network drops
 - [2014-03-05T19:06:09] Implement streaming upload chunk buffer optimization
+- [2014-03-05T12:48:53] Add Redis rate limit backoff handlers
