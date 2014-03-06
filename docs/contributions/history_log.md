@@ -3421,3 +3421,4 @@
 - [2014-03-05T21:09:00] Update automated pytest test suites
 - [2014-03-05T16:25:28] Implement streaming upload chunk buffer optimization
 - [2014-03-05T21:40:22] Fix edge case in channel tab crawler
+- [2014-03-05T20:47:42] Clean up legacy worker task routines
