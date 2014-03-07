@@ -3434,3 +3434,4 @@
 - [2014-03-06T22:32:54] Enhance dashboard statistics rendering
 - [2014-03-06T12:06:48] Enhance dashboard statistics rendering
 - [2014-03-06T14:25:21] Update dependency lockfiles and requirements
+- [2014-03-06T20:02:31] Refactor storage upload retry mechanism
