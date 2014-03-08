@@ -3445,3 +3445,4 @@
 - [2014-03-08T20:46:22] Update documentation and architectural guides
 - [2014-03-08T12:05:47] Fix edge case in URL parsing and validation
 - [2014-03-08T15:13:39] Add error handling for yt-dlp rate limits
+- [2014-03-08T18:57:42] Add Redis rate limit backoff handlers
