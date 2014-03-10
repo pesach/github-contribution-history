@@ -3455,3 +3455,4 @@
 - [2014-03-10T09:41:42] Add retries for transient network drops
 - [2014-03-10T09:51:25] Update B2 storage chunking parameters
 - [2014-03-10T21:31:02] Add Redis rate limit backoff handlers
+- [2014-03-10T19:41:13] Update documentation and architectural guides
