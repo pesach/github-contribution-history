@@ -3452,3 +3452,4 @@
 - [2014-03-09T12:41:22] Improve logging and health endpoint metrics
 - [2014-03-09T13:04:23] Add error handling for yt-dlp rate limits
 - [2014-03-09T08:05:13] Add error handling for yt-dlp rate limits
+- [2014-03-10T09:41:42] Add retries for transient network drops
