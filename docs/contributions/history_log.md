@@ -3460,3 +3460,4 @@
 - [2014-03-10T21:13:59] Update automated pytest test suites
 - [2014-03-10T17:35:13] Update documentation and architectural guides
 - [2014-03-10T16:36:42] Fix edge case in URL parsing and validation
+- [2014-03-10T21:05:18] Add Prometheus exporter endpoints for queue length
