@@ -3472,3 +3472,4 @@
 - [2014-03-11T21:06:51] Update documentation and architectural guides
 - [2014-03-11T13:21:52] Add error handling for yt-dlp rate limits
 - [2014-03-12T19:25:56] Fix edge case in channel tab crawler
+- [2014-03-12T10:35:06] Refactor worker polling logic
