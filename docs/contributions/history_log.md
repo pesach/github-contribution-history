@@ -3481,3 +3481,4 @@
 - [2014-03-12T17:14:51] Improve logging and health endpoint metrics
 - [2014-03-12T12:35:32] Update dependency lockfiles and requirements
 - [2014-03-12T21:51:33] Refactor worker polling logic
+- [2014-03-12T11:43:28] Add Prometheus exporter endpoints for queue length
