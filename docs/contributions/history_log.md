@@ -3485,3 +3485,4 @@
 - [2014-03-13T16:00:09] Update dependency lockfiles and requirements
 - [2014-03-13T22:09:27] Add error handling for yt-dlp rate limits
 - [2014-03-13T11:09:53] Enhance dashboard statistics rendering
+- [2014-03-13T19:17:46] Update schema migration helpers
