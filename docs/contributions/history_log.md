@@ -3480,3 +3480,4 @@
 - [2014-03-12T09:56:45] Add error handling for yt-dlp rate limits
 - [2014-03-12T17:14:51] Improve logging and health endpoint metrics
 - [2014-03-12T12:35:32] Update dependency lockfiles and requirements
+- [2014-03-12T21:51:33] Refactor worker polling logic
