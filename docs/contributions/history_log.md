@@ -3492,3 +3492,4 @@
 - [2014-03-13T12:35:23] Update documentation and architectural guides
 - [2014-03-13T12:24:22] Fix edge case in channel tab crawler
 - [2014-03-13T22:27:53] Update documentation and architectural guides
+- [2014-03-13T11:28:07] Update schema migration helpers
