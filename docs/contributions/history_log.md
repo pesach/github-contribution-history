@@ -3487,3 +3487,4 @@
 - [2014-03-13T11:09:53] Enhance dashboard statistics rendering
 - [2014-03-13T19:17:46] Update schema migration helpers
 - [2014-03-13T11:46:29] Add Redis rate limit backoff handlers
+- [2014-03-13T22:13:09] Enhance dashboard statistics rendering
