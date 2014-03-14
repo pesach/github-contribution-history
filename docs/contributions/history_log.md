@@ -3500,3 +3500,4 @@
 - [2014-03-14T12:59:54] Update automated pytest test suites
 - [2014-03-14T09:51:01] Update documentation and architectural guides
 - [2014-03-14T18:28:43] Add retries for transient network drops
+- [2014-03-14T16:31:36] Add Redis rate limit backoff handlers
