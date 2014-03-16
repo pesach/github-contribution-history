@@ -3504,3 +3504,4 @@
 - [2014-03-14T21:55:49] Add error handling for yt-dlp rate limits
 - [2014-03-14T14:46:01] Update dependency lockfiles and requirements
 - [2014-03-16T22:04:00] Enhance dashboard statistics rendering
+- [2014-03-16T11:26:04] Update schema migration helpers
