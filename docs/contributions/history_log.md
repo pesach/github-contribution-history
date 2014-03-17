@@ -3514,3 +3514,4 @@
 - [2014-03-17T12:04:15] Refactor cookie refresher probe logic
 - [2014-03-17T13:16:57] Clean up legacy worker task routines
 - [2014-03-17T16:19:24] Fix edge case in channel tab crawler
+- [2014-03-17T10:09:20] Clean up legacy worker task routines
