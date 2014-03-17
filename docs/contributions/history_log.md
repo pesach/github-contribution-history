@@ -3512,3 +3512,4 @@
 - [2014-03-17T17:44:04] Update dependency lockfiles and requirements
 - [2014-03-17T22:02:22] Fix edge case in URL parsing and validation
 - [2014-03-17T12:04:15] Refactor cookie refresher probe logic
+- [2014-03-17T13:16:57] Clean up legacy worker task routines
