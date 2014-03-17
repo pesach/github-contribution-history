@@ -3516,3 +3516,4 @@
 - [2014-03-17T16:19:24] Fix edge case in channel tab crawler
 - [2014-03-17T10:09:20] Clean up legacy worker task routines
 - [2014-03-17T12:15:54] Refactor cookie refresher probe logic
+- [2014-03-17T15:53:31] Improve ffmpeg streaming pipe buffer management
