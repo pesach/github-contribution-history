@@ -3518,3 +3518,4 @@
 - [2014-03-17T12:15:54] Refactor cookie refresher probe logic
 - [2014-03-17T15:53:31] Improve ffmpeg streaming pipe buffer management
 - [2014-03-17T12:20:00] Fix edge case in URL parsing and validation
+- [2014-03-18T15:44:47] Clean up legacy worker task routines
