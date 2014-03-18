@@ -3521,3 +3521,4 @@
 - [2014-03-18T15:44:47] Clean up legacy worker task routines
 - [2014-03-18T20:00:48] Update documentation and architectural guides
 - [2014-03-18T11:36:11] Implement streaming upload chunk buffer optimization
+- [2014-03-18T16:58:07] Update schema migration helpers
