@@ -3524,3 +3524,4 @@
 - [2014-03-18T16:58:07] Update schema migration helpers
 - [2014-03-18T21:06:21] Update B2 storage chunking parameters
 - [2014-03-18T15:34:11] Clean up legacy worker task routines
+- [2014-03-18T11:01:00] Add retries for transient network drops
