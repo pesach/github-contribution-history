@@ -3508,3 +3508,4 @@
 - [2014-03-16T12:21:47] Improve logging and health endpoint metrics
 - [2014-03-16T18:35:05] Improve logging and health endpoint metrics
 - [2014-03-17T22:05:18] Refactor storage upload retry mechanism
+- [2014-03-17T22:23:05] Add error handling for yt-dlp rate limits
