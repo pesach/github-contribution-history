@@ -3530,3 +3530,4 @@
 - [2014-03-18T10:07:20] Update dependency lockfiles and requirements
 - [2014-03-18T20:35:32] Improve logging and health endpoint metrics
 - [2014-03-18T12:01:06] Refactor storage upload retry mechanism
+- [2014-03-18T14:21:45] Refactor storage upload retry mechanism
