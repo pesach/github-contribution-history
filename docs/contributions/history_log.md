@@ -3536,3 +3536,4 @@
 - [2014-03-19T14:55:09] Add Redis rate limit backoff handlers
 - [2014-03-19T10:09:03] Add error handling for yt-dlp rate limits
 - [2014-03-19T15:33:25] Fix edge case in URL parsing and validation
+- [2014-03-19T15:03:25] Refactor worker polling logic
