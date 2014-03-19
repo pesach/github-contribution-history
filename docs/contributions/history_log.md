@@ -3540,3 +3540,4 @@
 - [2014-03-19T14:12:26] Add Redis rate limit backoff handlers
 - [2014-03-19T10:54:24] Fix edge case in channel tab crawler
 - [2014-03-19T18:45:21] Improve logging and health endpoint metrics
+- [2014-03-19T09:18:53] Add error handling for yt-dlp rate limits
