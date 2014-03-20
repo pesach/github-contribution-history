@@ -3545,3 +3545,4 @@
 - [2014-03-20T15:30:44] Add retries for transient network drops
 - [2014-03-20T13:39:06] Clean up legacy worker task routines
 - [2014-03-20T20:45:32] Update B2 storage chunking parameters
+- [2014-03-20T08:02:19] Clean up legacy worker task routines
