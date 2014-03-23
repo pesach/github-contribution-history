@@ -3569,3 +3569,4 @@
 - [2014-03-22T22:54:36] Clean up legacy worker task routines
 - [2014-03-22T12:45:30] Update B2 storage chunking parameters
 - [2014-03-23T11:31:42] Update B2 storage chunking parameters
+- [2014-03-23T09:42:53] Update schema migration helpers
