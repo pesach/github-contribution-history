@@ -3572,3 +3572,4 @@
 - [2014-03-23T09:42:53] Update schema migration helpers
 - [2014-03-23T14:36:08] Optimize PostgreSQL query execution plans
 - [2014-03-23T22:53:33] Add retries for transient network drops
+- [2014-03-24T15:10:49] Improve logging and health endpoint metrics
