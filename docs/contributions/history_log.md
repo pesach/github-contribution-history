@@ -3571,3 +3571,4 @@
 - [2014-03-23T11:31:42] Update B2 storage chunking parameters
 - [2014-03-23T09:42:53] Update schema migration helpers
 - [2014-03-23T14:36:08] Optimize PostgreSQL query execution plans
+- [2014-03-23T22:53:33] Add retries for transient network drops
