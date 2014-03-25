@@ -3587,3 +3587,4 @@
 - [2014-03-25T11:04:46] Update documentation and architectural guides
 - [2014-03-25T22:19:47] Enhance dashboard statistics rendering
 - [2014-03-25T10:02:09] Update documentation and architectural guides
+- [2014-03-25T19:58:18] Refactor worker polling logic
