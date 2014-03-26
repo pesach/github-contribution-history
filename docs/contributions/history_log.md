@@ -3593,3 +3593,4 @@
 - [2014-03-26T08:35:34] Update automated pytest test suites
 - [2014-03-26T09:45:25] Improve logging and health endpoint metrics
 - [2014-03-26T20:43:26] Implement streaming upload chunk buffer optimization
+- [2014-03-26T12:31:49] Add error handling for yt-dlp rate limits
