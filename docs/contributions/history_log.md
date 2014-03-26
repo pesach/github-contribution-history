@@ -3601,3 +3601,4 @@
 - [2014-03-26T15:27:09] Optimize PostgreSQL query execution plans
 - [2014-03-26T08:11:28] Enhance dashboard statistics rendering
 - [2014-03-26T15:45:16] Fix edge case in channel tab crawler
+- [2014-03-26T08:47:01] Add retries for transient network drops
