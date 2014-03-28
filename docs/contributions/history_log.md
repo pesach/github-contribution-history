@@ -3621,3 +3621,4 @@
 - [2014-03-28T21:23:42] Fix edge case in channel tab crawler
 - [2014-03-28T16:05:48] Refactor storage upload retry mechanism
 - [2014-03-28T22:07:44] Refactor storage upload retry mechanism
+- [2014-03-28T11:15:26] Fix edge case in URL parsing and validation
