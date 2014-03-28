@@ -3623,3 +3623,4 @@
 - [2014-03-28T22:07:44] Refactor storage upload retry mechanism
 - [2014-03-28T11:15:26] Fix edge case in URL parsing and validation
 - [2014-03-28T09:39:33] Clean up legacy worker task routines
+- [2014-03-28T14:47:23] Add retries for transient network drops
