@@ -3625,3 +3625,4 @@
 - [2014-03-28T09:39:33] Clean up legacy worker task routines
 - [2014-03-28T14:47:23] Add retries for transient network drops
 - [2014-03-28T20:25:31] Update documentation and architectural guides
+- [2014-03-28T12:04:16] Improve ffmpeg streaming pipe buffer management
