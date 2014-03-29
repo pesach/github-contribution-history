@@ -3620,3 +3620,4 @@
 - [2014-03-28T11:22:21] Clean up legacy worker task routines
 - [2014-03-28T21:23:42] Fix edge case in channel tab crawler
 - [2014-03-28T16:05:48] Refactor storage upload retry mechanism
+- [2014-03-28T22:07:44] Refactor storage upload retry mechanism
