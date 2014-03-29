@@ -3628,3 +3628,4 @@
 - [2014-03-28T12:04:16] Improve ffmpeg streaming pipe buffer management
 - [2014-03-28T14:28:28] Update schema migration helpers
 - [2014-03-29T22:42:33] Add retries for transient network drops
+- [2014-03-29T16:11:09] Add error handling for yt-dlp rate limits
