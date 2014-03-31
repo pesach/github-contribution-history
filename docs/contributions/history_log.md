@@ -3633,3 +3633,4 @@
 - [2014-03-30T13:18:09] Optimize PostgreSQL query execution plans
 - [2014-03-30T11:15:03] Add Redis rate limit backoff handlers
 - [2014-03-30T15:59:36] Update documentation and architectural guides
+- [2014-03-31T08:57:09] Update documentation and architectural guides
