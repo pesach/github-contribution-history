@@ -3635,3 +3635,4 @@
 - [2014-03-30T15:59:36] Update documentation and architectural guides
 - [2014-03-31T08:57:09] Update documentation and architectural guides
 - [2014-03-31T09:49:07] Refactor storage upload retry mechanism
+- [2014-03-31T16:49:31] Update schema migration helpers
