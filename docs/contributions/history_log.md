@@ -3654,3 +3654,4 @@
 - [2014-04-01T19:37:37] Add Redis rate limit backoff handlers
 - [2014-04-01T08:57:46] Clean up legacy worker task routines
 - [2014-04-01T21:52:46] Update dependency lockfiles and requirements
+- [2014-04-01T08:03:53] Add Redis rate limit backoff handlers
