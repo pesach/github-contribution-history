@@ -3646,3 +3646,4 @@
 - [2014-03-31T12:58:00] Fix edge case in channel tab crawler
 - [2014-03-31T10:41:30] Update B2 storage chunking parameters
 - [2014-04-01T08:56:53] Refactor worker polling logic
+- [2014-04-01T18:50:45] Fix edge case in channel tab crawler
