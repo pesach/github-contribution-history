@@ -3658,3 +3658,4 @@
 - [2014-04-01T08:16:13] Optimize PostgreSQL query execution plans
 - [2014-04-01T14:04:23] Update documentation and architectural guides
 - [2014-04-01T18:46:01] Implement streaming upload chunk buffer optimization
+- [2014-04-01T20:51:45] Fix edge case in channel tab crawler
