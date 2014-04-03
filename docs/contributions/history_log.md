@@ -3661,3 +3661,4 @@
 - [2014-04-01T20:51:45] Fix edge case in channel tab crawler
 - [2014-04-03T12:03:05] Improve logging and health endpoint metrics
 - [2014-04-03T16:57:19] Implement streaming upload chunk buffer optimization
+- [2014-04-03T12:28:27] Refactor storage upload retry mechanism
