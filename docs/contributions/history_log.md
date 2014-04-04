@@ -3672,3 +3672,4 @@
 - [2014-04-04T11:40:10] Update dependency lockfiles and requirements
 - [2014-04-04T08:22:34] Update B2 storage chunking parameters
 - [2014-04-04T19:07:27] Optimize PostgreSQL query execution plans
+- [2014-04-04T08:29:54] Refactor worker polling logic
