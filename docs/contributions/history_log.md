@@ -3677,3 +3677,4 @@
 - [2014-04-04T17:36:22] Update documentation and architectural guides
 - [2014-04-05T15:02:43] Refactor storage upload retry mechanism
 - [2014-04-05T09:30:26] Refactor cookie refresher probe logic
+- [2014-04-05T18:58:58] Clean up legacy worker task routines
