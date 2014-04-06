@@ -3682,3 +3682,4 @@
 - [2014-04-06T10:45:49] Add retries for transient network drops
 - [2014-04-06T14:02:48] Update automated pytest test suites
 - [2014-04-06T11:30:46] Update B2 storage chunking parameters
+- [2014-04-06T08:11:27] Add error handling for yt-dlp rate limits
