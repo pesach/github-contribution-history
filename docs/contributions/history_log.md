@@ -3681,3 +3681,4 @@
 - [2014-04-05T12:05:03] Improve logging and health endpoint metrics
 - [2014-04-06T10:45:49] Add retries for transient network drops
 - [2014-04-06T14:02:48] Update automated pytest test suites
+- [2014-04-06T11:30:46] Update B2 storage chunking parameters
