@@ -3679,3 +3679,4 @@
 - [2014-04-05T09:30:26] Refactor cookie refresher probe logic
 - [2014-04-05T18:58:58] Clean up legacy worker task routines
 - [2014-04-05T12:05:03] Improve logging and health endpoint metrics
+- [2014-04-06T10:45:49] Add retries for transient network drops
