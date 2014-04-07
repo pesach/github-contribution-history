@@ -3687,3 +3687,4 @@
 - [2014-04-07T14:18:38] Add Prometheus exporter endpoints for queue length
 - [2014-04-07T22:42:07] Update B2 storage chunking parameters
 - [2014-04-07T20:49:50] Optimize PostgreSQL query execution plans
+- [2014-04-07T14:39:09] Add Redis rate limit backoff handlers
