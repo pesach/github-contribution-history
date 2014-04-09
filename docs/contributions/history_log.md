@@ -3704,3 +3704,4 @@
 - [2014-04-09T08:41:18] Update automated pytest test suites
 - [2014-04-09T14:29:27] Add error handling for yt-dlp rate limits
 - [2014-04-09T08:11:04] Update B2 storage chunking parameters
+- [2014-04-09T09:38:01] Fix edge case in URL parsing and validation
