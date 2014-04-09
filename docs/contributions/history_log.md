@@ -3706,3 +3706,4 @@
 - [2014-04-09T08:11:04] Update B2 storage chunking parameters
 - [2014-04-09T09:38:01] Fix edge case in URL parsing and validation
 - [2014-04-09T12:32:36] Refactor storage upload retry mechanism
+- [2014-04-09T13:26:49] Add Redis rate limit backoff handlers
