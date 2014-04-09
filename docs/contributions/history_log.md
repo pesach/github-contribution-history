@@ -3700,3 +3700,4 @@
 - [2014-04-09T20:25:54] Improve ffmpeg streaming pipe buffer management
 - [2014-04-09T19:43:22] Add Prometheus exporter endpoints for queue length
 - [2014-04-09T16:30:30] Clean up legacy worker task routines
+- [2014-04-09T19:05:36] Refactor cookie refresher probe logic
