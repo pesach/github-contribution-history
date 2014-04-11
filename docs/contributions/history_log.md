@@ -3722,3 +3722,4 @@
 - [2014-04-10T20:09:23] Update automated pytest test suites
 - [2014-04-10T10:18:32] Add Redis rate limit backoff handlers
 - [2014-04-10T22:22:04] Update automated pytest test suites
+- [2014-04-11T16:39:32] Clean up legacy worker task routines
