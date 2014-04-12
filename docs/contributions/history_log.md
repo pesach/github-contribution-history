@@ -3731,3 +3731,4 @@
 - [2014-04-11T17:13:50] Optimize PostgreSQL query execution plans
 - [2014-04-11T15:18:41] Add Prometheus exporter endpoints for queue length
 - [2014-04-11T14:33:01] Update dependency lockfiles and requirements
+- [2014-04-12T16:29:49] Add Redis rate limit backoff handlers
