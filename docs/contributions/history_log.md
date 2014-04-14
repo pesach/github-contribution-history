@@ -3748,3 +3748,4 @@
 - [2014-04-14T13:39:25] Update dependency lockfiles and requirements
 - [2014-04-14T09:01:28] Fix edge case in URL parsing and validation
 - [2014-04-14T22:18:42] Fix edge case in channel tab crawler
+- [2014-04-14T14:16:48] Refactor cookie refresher probe logic
