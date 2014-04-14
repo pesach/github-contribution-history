@@ -3740,3 +3740,4 @@
 - [2014-04-13T19:08:31] Improve logging and health endpoint metrics
 - [2014-04-13T17:53:02] Add error handling for yt-dlp rate limits
 - [2014-04-13T15:07:05] Add Redis rate limit backoff handlers
+- [2014-04-14T09:34:00] Fix edge case in URL parsing and validation
