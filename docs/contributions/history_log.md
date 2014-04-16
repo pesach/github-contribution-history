@@ -3764,3 +3764,4 @@
 - [2014-04-16T11:10:24] Refactor cookie refresher probe logic
 - [2014-04-16T11:24:44] Refactor storage upload retry mechanism
 - [2014-04-16T14:40:48] Update documentation and architectural guides
+- [2014-04-16T10:59:53] Update B2 storage chunking parameters
