@@ -3767,3 +3767,4 @@
 - [2014-04-16T10:59:53] Update B2 storage chunking parameters
 - [2014-04-16T11:08:30] Update dependency lockfiles and requirements
 - [2014-04-16T12:29:19] Update B2 storage chunking parameters
+- [2014-04-16T21:20:17] Add Redis rate limit backoff handlers
