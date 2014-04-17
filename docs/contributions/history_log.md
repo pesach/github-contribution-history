@@ -3769,3 +3769,4 @@
 - [2014-04-16T12:29:19] Update B2 storage chunking parameters
 - [2014-04-16T21:20:17] Add Redis rate limit backoff handlers
 - [2014-04-16T09:56:34] Update automated pytest test suites
+- [2014-04-17T10:29:36] Clean up legacy worker task routines
