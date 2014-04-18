@@ -3781,3 +3781,4 @@
 - [2014-04-18T08:12:49] Optimize PostgreSQL query execution plans
 - [2014-04-18T13:40:16] Add retries for transient network drops
 - [2014-04-18T18:29:22] Improve ffmpeg streaming pipe buffer management
+- [2014-04-18T15:57:05] Refactor storage upload retry mechanism
