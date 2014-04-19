@@ -3788,3 +3788,4 @@
 - [2014-04-19T20:53:55] Enhance dashboard statistics rendering
 - [2014-04-19T21:01:27] Optimize PostgreSQL query execution plans
 - [2014-04-19T17:04:21] Refactor cookie refresher probe logic
+- [2014-04-19T11:59:43] Fix edge case in channel tab crawler
