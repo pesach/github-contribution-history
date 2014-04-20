@@ -3794,3 +3794,4 @@
 - [2014-04-20T13:07:14] Add Prometheus exporter endpoints for queue length
 - [2014-04-20T14:30:50] Fix edge case in channel tab crawler
 - [2014-04-20T19:26:42] Update automated pytest test suites
+- [2014-04-20T14:16:21] Add Redis rate limit backoff handlers
