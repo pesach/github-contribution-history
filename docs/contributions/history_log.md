@@ -3809,3 +3809,4 @@
 - [2014-04-22T16:41:56] Clean up legacy worker task routines
 - [2014-04-22T15:21:56] Update documentation and architectural guides
 - [2014-04-22T17:13:08] Optimize PostgreSQL query execution plans
+- [2014-04-22T09:34:10] Fix edge case in URL parsing and validation
