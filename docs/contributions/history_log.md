@@ -3805,3 +3805,4 @@
 - [2014-04-22T21:27:39] Add retries for transient network drops
 - [2014-04-22T10:06:31] Refactor storage upload retry mechanism
 - [2014-04-22T08:20:09] Refactor cookie refresher probe logic
+- [2014-04-22T15:37:48] Add retries for transient network drops
