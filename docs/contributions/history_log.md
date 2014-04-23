@@ -3817,3 +3817,4 @@
 - [2014-04-23T11:42:38] Implement streaming upload chunk buffer optimization
 - [2014-04-23T09:52:19] Improve logging and health endpoint metrics
 - [2014-04-23T12:06:37] Update schema migration helpers
+- [2014-04-23T13:23:11] Fix edge case in channel tab crawler
