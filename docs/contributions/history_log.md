@@ -3818,3 +3818,4 @@
 - [2014-04-23T09:52:19] Improve logging and health endpoint metrics
 - [2014-04-23T12:06:37] Update schema migration helpers
 - [2014-04-23T13:23:11] Fix edge case in channel tab crawler
+- [2014-04-23T11:17:55] Optimize PostgreSQL query execution plans
