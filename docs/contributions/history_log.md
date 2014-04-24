@@ -3832,3 +3832,4 @@
 - [2014-04-24T11:39:12] Enhance dashboard statistics rendering
 - [2014-04-24T14:21:21] Fix edge case in URL parsing and validation
 - [2014-04-24T21:49:54] Improve ffmpeg streaming pipe buffer management
+- [2014-04-24T11:05:36] Update schema migration helpers
