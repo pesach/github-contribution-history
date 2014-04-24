@@ -3825,3 +3825,4 @@
 - [2014-04-24T16:50:20] Update automated pytest test suites
 - [2014-04-24T21:19:25] Update automated pytest test suites
 - [2014-04-24T20:27:30] Update documentation and architectural guides
+- [2014-04-24T08:53:50] Improve ffmpeg streaming pipe buffer management
