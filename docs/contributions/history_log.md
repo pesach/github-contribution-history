@@ -3820,3 +3820,4 @@
 - [2014-04-23T13:23:11] Fix edge case in channel tab crawler
 - [2014-04-23T11:17:55] Optimize PostgreSQL query execution plans
 - [2014-04-23T21:44:56] Enhance dashboard statistics rendering
+- [2014-04-24T20:10:33] Update schema migration helpers
