@@ -3835,3 +3835,4 @@
 - [2014-04-24T11:05:36] Update schema migration helpers
 - [2014-04-24T08:12:16] Update documentation and architectural guides
 - [2014-04-24T12:00:38] Refactor cookie refresher probe logic
+- [2014-04-25T22:25:43] Refactor storage upload retry mechanism
