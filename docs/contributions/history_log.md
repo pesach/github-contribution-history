@@ -3841,3 +3841,4 @@
 - [2014-04-25T14:08:26] Fix edge case in URL parsing and validation
 - [2014-04-25T10:33:06] Refactor storage upload retry mechanism
 - [2014-04-25T09:01:21] Implement streaming upload chunk buffer optimization
+- [2014-04-25T22:18:17] Refactor storage upload retry mechanism
