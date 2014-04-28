@@ -3848,3 +3848,4 @@
 - [2014-04-27T20:20:01] Refactor cookie refresher probe logic
 - [2014-04-27T15:15:45] Clean up legacy worker task routines
 - [2014-04-27T10:20:40] Refactor storage upload retry mechanism
+- [2014-04-28T09:26:01] Refactor worker polling logic
