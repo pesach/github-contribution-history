@@ -3856,3 +3856,4 @@
 - [2014-04-28T17:02:44] Improve logging and health endpoint metrics
 - [2014-04-28T09:31:37] Add Prometheus exporter endpoints for queue length
 - [2014-04-28T11:28:05] Optimize PostgreSQL query execution plans
+- [2014-04-28T08:03:26] Add Redis rate limit backoff handlers
