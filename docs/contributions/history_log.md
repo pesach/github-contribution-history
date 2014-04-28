@@ -3854,3 +3854,4 @@
 - [2014-04-28T22:27:03] Optimize PostgreSQL query execution plans
 - [2014-04-28T08:01:56] Add error handling for yt-dlp rate limits
 - [2014-04-28T17:02:44] Improve logging and health endpoint metrics
+- [2014-04-28T09:31:37] Add Prometheus exporter endpoints for queue length
