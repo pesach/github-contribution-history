@@ -3869,3 +3869,4 @@
 - [2014-04-29T19:35:50] Update schema migration helpers
 - [2014-04-29T19:07:31] Clean up legacy worker task routines
 - [2014-04-29T09:23:58] Update automated pytest test suites
+- [2014-04-29T19:43:12] Add retries for transient network drops
