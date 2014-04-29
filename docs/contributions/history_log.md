@@ -3860,3 +3860,4 @@
 - [2014-04-28T16:32:32] Update documentation and architectural guides
 - [2014-04-29T16:17:47] Update automated pytest test suites
 - [2014-04-29T16:06:48] Implement streaming upload chunk buffer optimization
+- [2014-04-29T18:07:13] Clean up legacy worker task routines
