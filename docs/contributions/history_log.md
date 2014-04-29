@@ -3862,3 +3862,4 @@
 - [2014-04-29T16:06:48] Implement streaming upload chunk buffer optimization
 - [2014-04-29T18:07:13] Clean up legacy worker task routines
 - [2014-04-29T10:32:12] Optimize PostgreSQL query execution plans
+- [2014-04-29T12:47:19] Add Prometheus exporter endpoints for queue length
