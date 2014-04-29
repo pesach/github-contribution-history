@@ -3849,3 +3849,4 @@
 - [2014-04-27T15:15:45] Clean up legacy worker task routines
 - [2014-04-27T10:20:40] Refactor storage upload retry mechanism
 - [2014-04-28T09:26:01] Refactor worker polling logic
+- [2014-04-28T21:41:33] Fix edge case in channel tab crawler
