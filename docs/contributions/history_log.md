@@ -3886,3 +3886,4 @@
 - [2014-04-30T11:38:04] Clean up legacy worker task routines
 - [2014-04-30T11:26:38] Refactor storage upload retry mechanism
 - [2014-04-30T11:37:19] Improve logging and health endpoint metrics
+- [2014-04-30T08:53:13] Update B2 storage chunking parameters
