@@ -3885,3 +3885,4 @@
 - [2014-04-30T14:47:20] Add Prometheus exporter endpoints for queue length
 - [2014-04-30T11:38:04] Clean up legacy worker task routines
 - [2014-04-30T11:26:38] Refactor storage upload retry mechanism
+- [2014-04-30T11:37:19] Improve logging and health endpoint metrics
