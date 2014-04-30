@@ -3872,3 +3872,4 @@
 - [2014-04-29T19:43:12] Add retries for transient network drops
 - [2014-04-29T13:02:46] Improve logging and health endpoint metrics
 - [2014-04-29T22:52:22] Fix edge case in URL parsing and validation
+- [2014-04-30T14:16:47] Fix edge case in channel tab crawler
