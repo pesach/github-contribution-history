@@ -3877,3 +3877,4 @@
 - [2014-04-30T22:54:05] Add error handling for yt-dlp rate limits
 - [2014-04-30T13:00:07] Fix edge case in URL parsing and validation
 - [2014-04-30T10:58:00] Refactor storage upload retry mechanism
+- [2014-04-30T16:31:47] Clean up legacy worker task routines
