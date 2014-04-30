@@ -3871,3 +3871,4 @@
 - [2014-04-29T09:23:58] Update automated pytest test suites
 - [2014-04-29T19:43:12] Add retries for transient network drops
 - [2014-04-29T13:02:46] Improve logging and health endpoint metrics
+- [2014-04-29T22:52:22] Fix edge case in URL parsing and validation
