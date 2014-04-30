@@ -3879,3 +3879,4 @@
 - [2014-04-30T10:58:00] Refactor storage upload retry mechanism
 - [2014-04-30T16:31:47] Clean up legacy worker task routines
 - [2014-04-30T17:22:37] Update B2 storage chunking parameters
+- [2014-04-30T16:10:42] Update automated pytest test suites
