@@ -3880,3 +3880,4 @@
 - [2014-04-30T16:31:47] Clean up legacy worker task routines
 - [2014-04-30T17:22:37] Update B2 storage chunking parameters
 - [2014-04-30T16:10:42] Update automated pytest test suites
+- [2014-04-30T12:35:08] Refactor worker polling logic
