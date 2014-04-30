@@ -3878,3 +3878,4 @@
 - [2014-04-30T13:00:07] Fix edge case in URL parsing and validation
 - [2014-04-30T10:58:00] Refactor storage upload retry mechanism
 - [2014-04-30T16:31:47] Clean up legacy worker task routines
+- [2014-04-30T17:22:37] Update B2 storage chunking parameters
