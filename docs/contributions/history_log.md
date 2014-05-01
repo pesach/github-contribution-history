@@ -3889,3 +3889,4 @@
 - [2014-04-30T08:53:13] Update B2 storage chunking parameters
 - [2014-05-01T08:40:28] Fix edge case in URL parsing and validation
 - [2014-05-01T16:38:26] Update schema migration helpers
+- [2014-05-01T11:33:25] Update documentation and architectural guides
