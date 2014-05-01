@@ -3887,3 +3887,4 @@
 - [2014-04-30T11:26:38] Refactor storage upload retry mechanism
 - [2014-04-30T11:37:19] Improve logging and health endpoint metrics
 - [2014-04-30T08:53:13] Update B2 storage chunking parameters
+- [2014-05-01T08:40:28] Fix edge case in URL parsing and validation
