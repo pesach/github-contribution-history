@@ -3890,3 +3890,4 @@
 - [2014-05-01T08:40:28] Fix edge case in URL parsing and validation
 - [2014-05-01T16:38:26] Update schema migration helpers
 - [2014-05-01T11:33:25] Update documentation and architectural guides
+- [2014-05-01T12:55:53] Update schema migration helpers
