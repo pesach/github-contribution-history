@@ -3902,3 +3902,4 @@
 - [2014-05-01T17:43:06] Implement streaming upload chunk buffer optimization
 - [2014-05-02T14:28:43] Update automated pytest test suites
 - [2014-05-02T13:38:53] Update dependency lockfiles and requirements
+- [2014-05-02T09:01:30] Add retries for transient network drops
