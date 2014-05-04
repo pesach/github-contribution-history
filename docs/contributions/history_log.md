@@ -3919,3 +3919,4 @@
 - [2014-05-03T15:45:43] Add Prometheus exporter endpoints for queue length
 - [2014-05-03T22:46:29] Implement streaming upload chunk buffer optimization
 - [2014-05-03T19:28:24] Update automated pytest test suites
+- [2014-05-03T22:58:19] Update schema migration helpers
