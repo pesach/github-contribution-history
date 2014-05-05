@@ -3922,3 +3922,4 @@
 - [2014-05-03T22:58:19] Update schema migration helpers
 - [2014-05-05T20:48:11] Refactor storage upload retry mechanism
 - [2014-05-05T19:07:07] Update documentation and architectural guides
+- [2014-05-05T09:09:20] Fix edge case in URL parsing and validation
