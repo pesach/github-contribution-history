@@ -3944,3 +3944,4 @@
 - [2014-05-06T14:04:07] Update dependency lockfiles and requirements
 - [2014-05-06T21:37:32] Refactor storage upload retry mechanism
 - [2014-05-06T12:17:21] Improve ffmpeg streaming pipe buffer management
+- [2014-05-06T15:56:46] Clean up legacy worker task routines
