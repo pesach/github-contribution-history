@@ -3941,3 +3941,4 @@
 - [2014-05-06T18:05:49] Update automated pytest test suites
 - [2014-05-06T18:01:24] Add Prometheus exporter endpoints for queue length
 - [2014-05-06T14:10:31] Improve ffmpeg streaming pipe buffer management
+- [2014-05-06T14:04:07] Update dependency lockfiles and requirements
