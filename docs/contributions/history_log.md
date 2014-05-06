@@ -3932,3 +3932,4 @@
 - [2014-05-05T09:31:27] Optimize PostgreSQL query execution plans
 - [2014-05-05T22:02:40] Refactor worker polling logic
 - [2014-05-06T15:25:55] Refactor worker polling logic
+- [2014-05-06T18:57:35] Update schema migration helpers
