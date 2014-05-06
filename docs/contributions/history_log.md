@@ -3939,3 +3939,4 @@
 - [2014-05-06T19:37:31] Clean up legacy worker task routines
 - [2014-05-06T17:41:26] Add error handling for yt-dlp rate limits
 - [2014-05-06T18:05:49] Update automated pytest test suites
+- [2014-05-06T18:01:24] Add Prometheus exporter endpoints for queue length
