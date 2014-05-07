@@ -3949,3 +3949,4 @@
 - [2014-05-07T13:20:11] Update schema migration helpers
 - [2014-05-07T20:24:54] Fix edge case in channel tab crawler
 - [2014-05-07T17:46:51] Refactor storage upload retry mechanism
+- [2014-05-07T14:44:50] Update B2 storage chunking parameters
