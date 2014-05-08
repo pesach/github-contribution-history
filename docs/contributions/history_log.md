@@ -3968,3 +3968,4 @@
 - [2014-05-08T20:32:02] Enhance dashboard statistics rendering
 - [2014-05-08T14:11:55] Update B2 storage chunking parameters
 - [2014-05-08T19:39:21] Improve logging and health endpoint metrics
+- [2014-05-08T10:48:59] Refactor worker polling logic
