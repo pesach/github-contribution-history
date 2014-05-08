@@ -3951,3 +3951,4 @@
 - [2014-05-07T17:46:51] Refactor storage upload retry mechanism
 - [2014-05-07T14:44:50] Update B2 storage chunking parameters
 - [2014-05-07T18:08:28] Clean up legacy worker task routines
+- [2014-05-07T20:33:31] Add error handling for yt-dlp rate limits
