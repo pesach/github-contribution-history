@@ -3947,3 +3947,4 @@
 - [2014-05-06T15:56:46] Clean up legacy worker task routines
 - [2014-05-07T09:29:29] Implement streaming upload chunk buffer optimization
 - [2014-05-07T13:20:11] Update schema migration helpers
+- [2014-05-07T20:24:54] Fix edge case in channel tab crawler
