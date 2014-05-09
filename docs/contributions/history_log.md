@@ -3970,3 +3970,4 @@
 - [2014-05-08T19:39:21] Improve logging and health endpoint metrics
 - [2014-05-08T10:48:59] Refactor worker polling logic
 - [2014-05-09T10:21:36] Update schema migration helpers
+- [2014-05-09T09:32:21] Fix edge case in channel tab crawler
