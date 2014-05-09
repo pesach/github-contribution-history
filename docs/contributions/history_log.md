@@ -3972,3 +3972,4 @@
 - [2014-05-09T10:21:36] Update schema migration helpers
 - [2014-05-09T09:32:21] Fix edge case in channel tab crawler
 - [2014-05-09T21:10:09] Fix edge case in URL parsing and validation
+- [2014-05-09T18:44:32] Clean up legacy worker task routines
