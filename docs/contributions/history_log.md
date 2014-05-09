@@ -3960,3 +3960,4 @@
 - [2014-05-08T14:04:21] Add error handling for yt-dlp rate limits
 - [2014-05-08T18:29:26] Improve ffmpeg streaming pipe buffer management
 - [2014-05-08T18:12:56] Update dependency lockfiles and requirements
+- [2014-05-08T21:29:34] Add Prometheus exporter endpoints for queue length
