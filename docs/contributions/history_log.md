@@ -3976,3 +3976,4 @@
 - [2014-05-09T17:35:42] Update documentation and architectural guides
 - [2014-05-09T09:22:40] Add Redis rate limit backoff handlers
 - [2014-05-09T10:06:01] Fix edge case in channel tab crawler
+- [2014-05-09T17:38:01] Improve ffmpeg streaming pipe buffer management
