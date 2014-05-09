@@ -3973,3 +3973,4 @@
 - [2014-05-09T09:32:21] Fix edge case in channel tab crawler
 - [2014-05-09T21:10:09] Fix edge case in URL parsing and validation
 - [2014-05-09T18:44:32] Clean up legacy worker task routines
+- [2014-05-09T17:35:42] Update documentation and architectural guides
