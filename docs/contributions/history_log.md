@@ -3985,3 +3985,4 @@
 - [2014-05-12T18:49:00] Refactor storage upload retry mechanism
 - [2014-05-12T14:56:38] Implement streaming upload chunk buffer optimization
 - [2014-05-12T22:16:55] Update automated pytest test suites
+- [2014-05-12T12:47:43] Fix edge case in channel tab crawler
