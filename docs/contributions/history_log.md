@@ -3993,3 +3993,4 @@
 - [2014-05-12T17:41:36] Refactor cookie refresher probe logic
 - [2014-05-13T14:46:42] Add retries for transient network drops
 - [2014-05-13T20:36:52] Clean up legacy worker task routines
+- [2014-05-13T17:29:26] Update dependency lockfiles and requirements
