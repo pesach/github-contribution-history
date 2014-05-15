@@ -4003,3 +4003,4 @@
 - [2014-05-14T22:50:53] Add Prometheus exporter endpoints for queue length
 - [2014-05-14T19:29:29] Fix edge case in channel tab crawler
 - [2014-05-14T18:19:11] Update schema migration helpers
+- [2014-05-15T13:25:01] Add error handling for yt-dlp rate limits
