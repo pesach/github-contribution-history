@@ -4012,3 +4012,4 @@
 - [2014-05-15T22:30:41] Update dependency lockfiles and requirements
 - [2014-05-15T21:36:53] Refactor worker polling logic
 - [2014-05-15T22:10:00] Optimize PostgreSQL query execution plans
+- [2014-05-15T21:10:17] Fix edge case in channel tab crawler
