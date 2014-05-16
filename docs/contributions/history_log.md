@@ -4021,3 +4021,4 @@
 - [2014-05-16T11:49:12] Update dependency lockfiles and requirements
 - [2014-05-16T22:40:52] Fix edge case in channel tab crawler
 - [2014-05-16T14:20:36] Refactor storage upload retry mechanism
+- [2014-05-16T15:20:13] Refactor worker polling logic
