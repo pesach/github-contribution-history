@@ -4015,3 +4015,4 @@
 - [2014-05-15T21:10:17] Fix edge case in channel tab crawler
 - [2014-05-15T15:20:46] Improve ffmpeg streaming pipe buffer management
 - [2014-05-16T22:17:01] Add error handling for yt-dlp rate limits
+- [2014-05-16T20:00:46] Add retries for transient network drops
