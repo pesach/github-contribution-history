@@ -4035,3 +4035,4 @@
 - [2014-05-18T15:39:00] Refactor worker polling logic
 - [2014-05-18T15:14:12] Update documentation and architectural guides
 - [2014-05-18T10:27:39] Add retries for transient network drops
+- [2014-05-18T14:49:12] Update B2 storage chunking parameters
