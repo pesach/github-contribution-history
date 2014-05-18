@@ -4032,3 +4032,4 @@
 - [2014-05-17T11:17:03] Update schema migration helpers
 - [2014-05-17T09:41:00] Update dependency lockfiles and requirements
 - [2014-05-17T22:13:30] Add retries for transient network drops
+- [2014-05-18T15:39:00] Refactor worker polling logic
