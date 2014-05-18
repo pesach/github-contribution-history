@@ -4031,3 +4031,4 @@
 - [2014-05-17T20:46:26] Add Redis rate limit backoff handlers
 - [2014-05-17T11:17:03] Update schema migration helpers
 - [2014-05-17T09:41:00] Update dependency lockfiles and requirements
+- [2014-05-17T22:13:30] Add retries for transient network drops
