@@ -4034,3 +4034,4 @@
 - [2014-05-17T22:13:30] Add retries for transient network drops
 - [2014-05-18T15:39:00] Refactor worker polling logic
 - [2014-05-18T15:14:12] Update documentation and architectural guides
+- [2014-05-18T10:27:39] Add retries for transient network drops
