@@ -4036,3 +4036,4 @@
 - [2014-05-18T15:14:12] Update documentation and architectural guides
 - [2014-05-18T10:27:39] Add retries for transient network drops
 - [2014-05-18T14:49:12] Update B2 storage chunking parameters
+- [2014-05-19T16:44:30] Implement streaming upload chunk buffer optimization
