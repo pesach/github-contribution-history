@@ -4052,3 +4052,4 @@
 - [2014-05-19T10:45:19] Update schema migration helpers
 - [2014-05-19T17:50:14] Optimize PostgreSQL query execution plans
 - [2014-05-20T22:30:11] Clean up legacy worker task routines
+- [2014-05-20T09:43:13] Add Prometheus exporter endpoints for queue length
