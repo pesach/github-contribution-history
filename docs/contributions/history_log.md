@@ -4047,3 +4047,4 @@
 - [2014-05-19T08:06:22] Optimize PostgreSQL query execution plans
 - [2014-05-19T19:07:38] Improve ffmpeg streaming pipe buffer management
 - [2014-05-19T21:08:50] Refactor worker polling logic
+- [2014-05-19T20:15:07] Refactor worker polling logic
