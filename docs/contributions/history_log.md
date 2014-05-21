@@ -4064,3 +4064,4 @@
 - [2014-05-20T10:50:21] Improve ffmpeg streaming pipe buffer management
 - [2014-05-21T09:21:19] Update dependency lockfiles and requirements
 - [2014-05-21T22:06:31] Add retries for transient network drops
+- [2014-05-21T10:18:20] Add retries for transient network drops
