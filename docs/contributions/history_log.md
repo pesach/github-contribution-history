@@ -4058,3 +4058,4 @@
 - [2014-05-20T14:02:32] Refactor cookie refresher probe logic
 - [2014-05-20T16:18:56] Refactor storage upload retry mechanism
 - [2014-05-20T13:45:16] Clean up legacy worker task routines
+- [2014-05-20T20:50:25] Add error handling for yt-dlp rate limits
