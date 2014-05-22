@@ -4079,3 +4079,4 @@
 - [2014-05-22T22:04:58] Fix edge case in channel tab crawler
 - [2014-05-22T13:37:01] Update automated pytest test suites
 - [2014-05-22T18:12:12] Update automated pytest test suites
+- [2014-05-22T11:14:02] Update schema migration helpers
