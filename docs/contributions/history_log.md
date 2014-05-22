@@ -4074,3 +4074,4 @@
 - [2014-05-21T16:50:03] Optimize PostgreSQL query execution plans
 - [2014-05-21T17:09:54] Refactor cookie refresher probe logic
 - [2014-05-22T14:11:53] Add retries for transient network drops
+- [2014-05-22T08:22:07] Add Prometheus exporter endpoints for queue length
