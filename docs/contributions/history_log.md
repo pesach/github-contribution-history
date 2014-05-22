@@ -4066,3 +4066,4 @@
 - [2014-05-21T22:06:31] Add retries for transient network drops
 - [2014-05-21T10:18:20] Add retries for transient network drops
 - [2014-05-21T13:59:54] Optimize PostgreSQL query execution plans
+- [2014-05-21T21:58:19] Add Redis rate limit backoff handlers
