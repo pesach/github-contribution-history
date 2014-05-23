@@ -4093,3 +4093,4 @@
 - [2014-05-23T16:39:08] Update dependency lockfiles and requirements
 - [2014-05-23T10:24:08] Implement streaming upload chunk buffer optimization
 - [2014-05-23T09:47:44] Add Prometheus exporter endpoints for queue length
+- [2014-05-23T09:45:50] Fix edge case in URL parsing and validation
