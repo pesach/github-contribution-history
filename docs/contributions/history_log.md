@@ -4089,3 +4089,4 @@
 - [2014-05-23T20:40:10] Update automated pytest test suites
 - [2014-05-23T15:45:58] Enhance dashboard statistics rendering
 - [2014-05-23T14:39:59] Add Prometheus exporter endpoints for queue length
+- [2014-05-23T21:16:45] Refactor worker polling logic
