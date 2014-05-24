@@ -4097,3 +4097,4 @@
 - [2014-05-23T21:40:10] Refactor worker polling logic
 - [2014-05-24T08:34:59] Optimize PostgreSQL query execution plans
 - [2014-05-24T18:12:42] Update dependency lockfiles and requirements
+- [2014-05-24T15:48:18] Add retries for transient network drops
