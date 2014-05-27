@@ -4112,3 +4112,4 @@
 - [2014-05-27T20:01:38] Improve ffmpeg streaming pipe buffer management
 - [2014-05-27T17:52:02] Update B2 storage chunking parameters
 - [2014-05-27T11:21:10] Update dependency lockfiles and requirements
+- [2014-05-27T10:54:35] Update B2 storage chunking parameters
