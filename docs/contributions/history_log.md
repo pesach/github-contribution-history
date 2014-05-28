@@ -4121,3 +4121,4 @@
 - [2014-05-28T14:56:16] Enhance dashboard statistics rendering
 - [2014-05-28T16:55:11] Update automated pytest test suites
 - [2014-05-28T09:52:02] Fix edge case in channel tab crawler
+- [2014-05-28T11:11:58] Refactor cookie refresher probe logic
