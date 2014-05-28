@@ -4120,3 +4120,4 @@
 - [2014-05-28T08:30:44] Update dependency lockfiles and requirements
 - [2014-05-28T14:56:16] Enhance dashboard statistics rendering
 - [2014-05-28T16:55:11] Update automated pytest test suites
+- [2014-05-28T09:52:02] Fix edge case in channel tab crawler
