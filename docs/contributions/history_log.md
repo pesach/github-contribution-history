@@ -4116,3 +4116,4 @@
 - [2014-05-27T18:56:08] Add retries for transient network drops
 - [2014-05-27T12:00:49] Add Prometheus exporter endpoints for queue length
 - [2014-05-28T19:25:57] Optimize PostgreSQL query execution plans
+- [2014-05-28T13:44:21] Add error handling for yt-dlp rate limits
