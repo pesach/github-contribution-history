@@ -4133,3 +4133,4 @@
 - [2014-05-29T14:48:12] Add Redis rate limit backoff handlers
 - [2014-05-29T19:49:10] Update dependency lockfiles and requirements
 - [2014-05-29T09:17:04] Update dependency lockfiles and requirements
+- [2014-05-29T09:58:38] Update documentation and architectural guides
