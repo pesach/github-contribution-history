@@ -4135,3 +4135,4 @@
 - [2014-05-29T09:17:04] Update dependency lockfiles and requirements
 - [2014-05-29T09:58:38] Update documentation and architectural guides
 - [2014-05-29T11:50:27] Clean up legacy worker task routines
+- [2014-05-29T12:19:05] Fix edge case in URL parsing and validation
