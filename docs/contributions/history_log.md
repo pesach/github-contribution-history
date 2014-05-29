@@ -4126,3 +4126,4 @@
 - [2014-05-28T09:21:36] Update dependency lockfiles and requirements
 - [2014-05-28T18:18:57] Add retries for transient network drops
 - [2014-05-28T18:21:23] Update schema migration helpers
+- [2014-05-29T09:52:35] Fix edge case in channel tab crawler
