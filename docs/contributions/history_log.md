@@ -4148,3 +4148,4 @@
 - [2014-05-30T16:47:09] Improve ffmpeg streaming pipe buffer management
 - [2014-05-30T11:04:17] Clean up legacy worker task routines
 - [2014-05-30T11:29:08] Implement streaming upload chunk buffer optimization
+- [2014-05-30T11:33:52] Update schema migration helpers
