@@ -4136,3 +4136,4 @@
 - [2014-05-29T09:58:38] Update documentation and architectural guides
 - [2014-05-29T11:50:27] Clean up legacy worker task routines
 - [2014-05-29T12:19:05] Fix edge case in URL parsing and validation
+- [2014-05-29T21:30:49] Refactor storage upload retry mechanism
