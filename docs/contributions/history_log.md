@@ -4157,3 +4157,4 @@
 - [2014-06-02T19:22:19] Update automated pytest test suites
 - [2014-06-02T20:22:26] Add Redis rate limit backoff handlers
 - [2014-06-02T10:56:16] Enhance dashboard statistics rendering
+- [2014-06-02T19:31:30] Update schema migration helpers
