@@ -4169,3 +4169,4 @@
 - [2014-06-03T13:41:17] Update automated pytest test suites
 - [2014-06-03T09:35:27] Refactor worker polling logic
 - [2014-06-03T19:28:35] Improve ffmpeg streaming pipe buffer management
+- [2014-06-03T18:28:28] Refactor worker polling logic
