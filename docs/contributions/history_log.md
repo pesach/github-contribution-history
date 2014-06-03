@@ -4167,3 +4167,4 @@
 - [2014-06-03T16:44:46] Improve ffmpeg streaming pipe buffer management
 - [2014-06-03T09:39:26] Implement streaming upload chunk buffer optimization
 - [2014-06-03T13:41:17] Update automated pytest test suites
+- [2014-06-03T09:35:27] Refactor worker polling logic
