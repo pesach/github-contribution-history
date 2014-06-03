@@ -4171,3 +4171,4 @@
 - [2014-06-03T19:28:35] Improve ffmpeg streaming pipe buffer management
 - [2014-06-03T18:28:28] Refactor worker polling logic
 - [2014-06-03T15:17:43] Refactor cookie refresher probe logic
+- [2014-06-03T18:03:14] Update B2 storage chunking parameters
