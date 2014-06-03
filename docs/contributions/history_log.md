@@ -4164,3 +4164,4 @@
 - [2014-06-02T20:38:29] Implement streaming upload chunk buffer optimization
 - [2014-06-02T12:19:19] Refactor storage upload retry mechanism
 - [2014-06-03T16:11:53] Refactor storage upload retry mechanism
+- [2014-06-03T16:44:46] Improve ffmpeg streaming pipe buffer management
