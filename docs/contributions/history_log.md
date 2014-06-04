@@ -4184,3 +4184,4 @@
 - [2014-06-04T19:05:57] Update B2 storage chunking parameters
 - [2014-06-04T15:43:19] Fix edge case in URL parsing and validation
 - [2014-06-04T16:34:46] Add error handling for yt-dlp rate limits
+- [2014-06-04T19:54:45] Improve logging and health endpoint metrics
