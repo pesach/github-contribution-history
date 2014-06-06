@@ -4197,3 +4197,4 @@
 - [2014-06-06T18:23:09] Refactor storage upload retry mechanism
 - [2014-06-06T15:35:25] Optimize PostgreSQL query execution plans
 - [2014-06-06T22:51:36] Improve ffmpeg streaming pipe buffer management
+- [2014-06-06T09:07:14] Add Prometheus exporter endpoints for queue length
