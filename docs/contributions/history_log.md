@@ -4203,3 +4203,4 @@
 - [2014-06-07T21:22:28] Update B2 storage chunking parameters
 - [2014-06-07T10:02:09] Update documentation and architectural guides
 - [2014-06-07T20:14:10] Optimize PostgreSQL query execution plans
+- [2014-06-07T08:22:45] Add Redis rate limit backoff handlers
