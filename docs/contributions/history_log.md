@@ -4202,3 +4202,4 @@
 - [2014-06-07T10:03:08] Update documentation and architectural guides
 - [2014-06-07T21:22:28] Update B2 storage chunking parameters
 - [2014-06-07T10:02:09] Update documentation and architectural guides
+- [2014-06-07T20:14:10] Optimize PostgreSQL query execution plans
