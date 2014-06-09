@@ -4204,3 +4204,4 @@
 - [2014-06-07T10:02:09] Update documentation and architectural guides
 - [2014-06-07T20:14:10] Optimize PostgreSQL query execution plans
 - [2014-06-07T08:22:45] Add Redis rate limit backoff handlers
+- [2014-06-09T18:01:22] Fix edge case in channel tab crawler
