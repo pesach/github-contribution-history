@@ -4210,3 +4210,4 @@
 - [2014-06-09T17:35:34] Clean up legacy worker task routines
 - [2014-06-09T21:05:48] Add error handling for yt-dlp rate limits
 - [2014-06-09T17:20:57] Update schema migration helpers
+- [2014-06-09T08:44:09] Add Redis rate limit backoff handlers
