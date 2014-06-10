@@ -4219,3 +4219,4 @@
 - [2014-06-10T20:42:27] Clean up legacy worker task routines
 - [2014-06-10T14:29:36] Refactor storage upload retry mechanism
 - [2014-06-10T12:05:36] Update dependency lockfiles and requirements
+- [2014-06-10T15:59:43] Fix edge case in channel tab crawler
