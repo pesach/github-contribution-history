@@ -4239,3 +4239,4 @@
 - [2014-06-12T20:10:35] Fix edge case in channel tab crawler
 - [2014-06-12T13:55:37] Refactor cookie refresher probe logic
 - [2014-06-12T17:32:41] Add retries for transient network drops
+- [2014-06-12T08:57:28] Update documentation and architectural guides
