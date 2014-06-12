@@ -4238,3 +4238,4 @@
 - [2014-06-12T10:33:47] Improve logging and health endpoint metrics
 - [2014-06-12T20:10:35] Fix edge case in channel tab crawler
 - [2014-06-12T13:55:37] Refactor cookie refresher probe logic
+- [2014-06-12T17:32:41] Add retries for transient network drops
