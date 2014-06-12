@@ -4233,3 +4233,4 @@
 - [2014-06-12T17:56:36] Optimize PostgreSQL query execution plans
 - [2014-06-12T14:50:13] Update dependency lockfiles and requirements
 - [2014-06-12T11:54:56] Fix edge case in channel tab crawler
+- [2014-06-12T14:22:46] Add retries for transient network drops
