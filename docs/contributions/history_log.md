@@ -4251,3 +4251,4 @@
 - [2014-06-13T13:43:37] Update B2 storage chunking parameters
 - [2014-06-13T09:56:56] Update B2 storage chunking parameters
 - [2014-06-13T14:52:56] Improve logging and health endpoint metrics
+- [2014-06-13T16:17:35] Clean up legacy worker task routines
