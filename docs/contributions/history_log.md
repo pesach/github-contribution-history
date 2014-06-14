@@ -4254,3 +4254,4 @@
 - [2014-06-13T16:17:35] Clean up legacy worker task routines
 - [2014-06-13T11:07:17] Refactor worker polling logic
 - [2014-06-13T20:56:42] Update dependency lockfiles and requirements
+- [2014-06-14T18:24:52] Add Redis rate limit backoff handlers
