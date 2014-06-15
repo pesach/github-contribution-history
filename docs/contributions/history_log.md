@@ -4259,3 +4259,4 @@
 - [2014-06-14T16:47:04] Fix edge case in URL parsing and validation
 - [2014-06-15T15:10:13] Improve ffmpeg streaming pipe buffer management
 - [2014-06-15T13:45:16] Update schema migration helpers
+- [2014-06-15T16:44:19] Update documentation and architectural guides
