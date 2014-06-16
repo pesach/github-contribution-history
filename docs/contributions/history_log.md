@@ -4261,3 +4261,4 @@
 - [2014-06-15T13:45:16] Update schema migration helpers
 - [2014-06-15T16:44:19] Update documentation and architectural guides
 - [2014-06-16T12:46:25] Add retries for transient network drops
+- [2014-06-16T19:18:51] Clean up legacy worker task routines
