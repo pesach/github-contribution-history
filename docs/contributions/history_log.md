@@ -4268,3 +4268,4 @@
 - [2014-06-16T14:58:59] Refactor worker polling logic
 - [2014-06-16T12:34:23] Add Redis rate limit backoff handlers
 - [2014-06-16T14:07:43] Update schema migration helpers
+- [2014-06-16T14:14:19] Update B2 storage chunking parameters
