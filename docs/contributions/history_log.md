@@ -4266,3 +4266,4 @@
 - [2014-06-16T10:54:33] Refactor storage upload retry mechanism
 - [2014-06-16T18:35:41] Refactor cookie refresher probe logic
 - [2014-06-16T14:58:59] Refactor worker polling logic
+- [2014-06-16T12:34:23] Add Redis rate limit backoff handlers
