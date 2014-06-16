@@ -4263,3 +4263,4 @@
 - [2014-06-16T12:46:25] Add retries for transient network drops
 - [2014-06-16T19:18:51] Clean up legacy worker task routines
 - [2014-06-16T16:49:52] Update schema migration helpers
+- [2014-06-16T10:54:33] Refactor storage upload retry mechanism
