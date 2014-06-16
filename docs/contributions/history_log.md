@@ -4270,3 +4270,4 @@
 - [2014-06-16T14:07:43] Update schema migration helpers
 - [2014-06-16T14:14:19] Update B2 storage chunking parameters
 - [2014-06-16T17:51:03] Add error handling for yt-dlp rate limits
+- [2014-06-16T15:16:58] Refactor worker polling logic
