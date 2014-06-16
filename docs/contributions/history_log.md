@@ -4264,3 +4264,4 @@
 - [2014-06-16T19:18:51] Clean up legacy worker task routines
 - [2014-06-16T16:49:52] Update schema migration helpers
 - [2014-06-16T10:54:33] Refactor storage upload retry mechanism
+- [2014-06-16T18:35:41] Refactor cookie refresher probe logic
