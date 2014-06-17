@@ -4279,3 +4279,4 @@
 - [2014-06-17T15:23:33] Refactor worker polling logic
 - [2014-06-17T11:33:50] Update automated pytest test suites
 - [2014-06-17T13:37:20] Refactor storage upload retry mechanism
+- [2014-06-17T11:31:52] Clean up legacy worker task routines
