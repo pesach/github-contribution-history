@@ -4283,3 +4283,4 @@
 - [2014-06-17T16:06:57] Refactor worker polling logic
 - [2014-06-17T22:41:29] Refactor worker polling logic
 - [2014-06-17T08:21:12] Implement streaming upload chunk buffer optimization
+- [2014-06-17T10:01:51] Update B2 storage chunking parameters
