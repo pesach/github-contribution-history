@@ -4288,3 +4288,4 @@
 - [2014-06-17T08:00:03] Improve logging and health endpoint metrics
 - [2014-06-17T15:15:05] Update schema migration helpers
 - [2014-06-17T14:50:02] Fix edge case in channel tab crawler
+- [2014-06-18T13:58:20] Refactor cookie refresher probe logic
