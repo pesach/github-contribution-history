@@ -4293,3 +4293,4 @@
 - [2014-06-18T12:23:21] Fix edge case in URL parsing and validation
 - [2014-06-18T14:43:21] Fix edge case in URL parsing and validation
 - [2014-06-18T18:28:37] Refactor cookie refresher probe logic
+- [2014-06-18T10:38:50] Add Redis rate limit backoff handlers
