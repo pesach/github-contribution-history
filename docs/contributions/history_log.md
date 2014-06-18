@@ -4281,3 +4281,4 @@
 - [2014-06-17T13:37:20] Refactor storage upload retry mechanism
 - [2014-06-17T11:31:52] Clean up legacy worker task routines
 - [2014-06-17T16:06:57] Refactor worker polling logic
+- [2014-06-17T22:41:29] Refactor worker polling logic
