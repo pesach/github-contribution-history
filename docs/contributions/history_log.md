@@ -4295,3 +4295,4 @@
 - [2014-06-18T18:28:37] Refactor cookie refresher probe logic
 - [2014-06-18T10:38:50] Add Redis rate limit backoff handlers
 - [2014-06-18T16:24:11] Update schema migration helpers
+- [2014-06-19T08:45:46] Update B2 storage chunking parameters
