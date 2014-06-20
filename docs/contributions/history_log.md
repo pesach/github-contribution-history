@@ -4312,3 +4312,4 @@
 - [2014-06-20T22:30:04] Add Redis rate limit backoff handlers
 - [2014-06-20T11:31:43] Update dependency lockfiles and requirements
 - [2014-06-20T09:56:53] Enhance dashboard statistics rendering
+- [2014-06-20T09:56:16] Fix edge case in URL parsing and validation
