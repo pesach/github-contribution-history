@@ -4325,3 +4325,4 @@
 - [2014-06-21T19:38:01] Add retries for transient network drops
 - [2014-06-22T17:44:36] Update automated pytest test suites
 - [2014-06-22T16:00:43] Enhance dashboard statistics rendering
+- [2014-06-22T14:33:28] Refactor cookie refresher probe logic
