@@ -4328,3 +4328,4 @@
 - [2014-06-22T14:33:28] Refactor cookie refresher probe logic
 - [2014-06-22T14:07:17] Fix edge case in URL parsing and validation
 - [2014-06-22T19:04:10] Improve ffmpeg streaming pipe buffer management
+- [2014-06-23T15:57:56] Add error handling for yt-dlp rate limits
