@@ -4336,3 +4336,4 @@
 - [2014-06-23T14:48:13] Refactor cookie refresher probe logic
 - [2014-06-23T19:43:34] Update B2 storage chunking parameters
 - [2014-06-23T18:19:42] Add error handling for yt-dlp rate limits
+- [2014-06-23T10:28:09] Add Redis rate limit backoff handlers
