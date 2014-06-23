@@ -4337,3 +4337,4 @@
 - [2014-06-23T19:43:34] Update B2 storage chunking parameters
 - [2014-06-23T18:19:42] Add error handling for yt-dlp rate limits
 - [2014-06-23T10:28:09] Add Redis rate limit backoff handlers
+- [2014-06-23T16:04:12] Refactor worker polling logic
