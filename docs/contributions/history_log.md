@@ -4344,3 +4344,4 @@
 - [2014-06-23T21:45:10] Update automated pytest test suites
 - [2014-06-26T10:14:58] Refactor cookie refresher probe logic
 - [2014-06-26T11:01:11] Fix edge case in channel tab crawler
+- [2014-06-26T13:54:43] Fix edge case in URL parsing and validation
