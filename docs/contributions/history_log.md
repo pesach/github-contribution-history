@@ -4352,3 +4352,4 @@
 - [2014-06-26T13:50:52] Enhance dashboard statistics rendering
 - [2014-06-27T18:16:02] Improve logging and health endpoint metrics
 - [2014-06-27T19:46:45] Enhance dashboard statistics rendering
+- [2014-06-27T18:06:38] Clean up legacy worker task routines
