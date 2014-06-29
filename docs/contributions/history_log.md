@@ -4360,3 +4360,4 @@
 - [2014-06-27T14:32:47] Refactor cookie refresher probe logic
 - [2014-06-29T08:20:22] Add Redis rate limit backoff handlers
 - [2014-06-29T21:40:20] Implement streaming upload chunk buffer optimization
+- [2014-06-29T12:17:42] Add Prometheus exporter endpoints for queue length
