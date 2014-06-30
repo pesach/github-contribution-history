@@ -4375,3 +4375,4 @@
 - [2014-06-30T19:18:15] Enhance dashboard statistics rendering
 - [2014-06-30T12:47:43] Update dependency lockfiles and requirements
 - [2014-06-30T19:51:47] Update automated pytest test suites
+- [2014-06-30T11:31:22] Refactor cookie refresher probe logic
