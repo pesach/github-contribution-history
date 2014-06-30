@@ -4366,3 +4366,4 @@
 - [2014-06-30T09:32:02] Refactor storage upload retry mechanism
 - [2014-06-30T08:05:55] Fix edge case in channel tab crawler
 - [2014-06-30T21:11:18] Improve ffmpeg streaming pipe buffer management
+- [2014-06-30T09:38:47] Update B2 storage chunking parameters
