@@ -4371,3 +4371,4 @@
 - [2014-06-30T15:19:53] Optimize PostgreSQL query execution plans
 - [2014-06-30T15:05:12] Refactor cookie refresher probe logic
 - [2014-06-30T12:11:19] Refactor storage upload retry mechanism
+- [2014-06-30T12:35:39] Add retries for transient network drops
