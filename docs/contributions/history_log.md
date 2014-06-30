@@ -4364,3 +4364,4 @@
 - [2014-06-29T14:33:24] Update documentation and architectural guides
 - [2014-06-30T16:25:22] Add Redis rate limit backoff handlers
 - [2014-06-30T09:32:02] Refactor storage upload retry mechanism
+- [2014-06-30T08:05:55] Fix edge case in channel tab crawler
