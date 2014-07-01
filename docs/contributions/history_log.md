@@ -4381,3 +4381,4 @@
 - [2014-07-01T15:24:40] Add Prometheus exporter endpoints for queue length
 - [2014-07-01T19:48:17] Update B2 storage chunking parameters
 - [2014-07-01T21:42:21] Add Redis rate limit backoff handlers
+- [2014-07-01T19:25:40] Improve logging and health endpoint metrics
