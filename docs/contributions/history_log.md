@@ -4379,3 +4379,4 @@
 - [2014-07-01T17:06:44] Improve logging and health endpoint metrics
 - [2014-07-01T10:09:25] Update documentation and architectural guides
 - [2014-07-01T15:24:40] Add Prometheus exporter endpoints for queue length
+- [2014-07-01T19:48:17] Update B2 storage chunking parameters
