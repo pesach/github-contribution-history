@@ -4387,3 +4387,4 @@
 - [2014-07-01T19:02:06] Update documentation and architectural guides
 - [2014-07-01T08:51:58] Add error handling for yt-dlp rate limits
 - [2014-07-01T13:30:50] Refactor storage upload retry mechanism
+- [2014-07-01T09:27:55] Add Prometheus exporter endpoints for queue length
