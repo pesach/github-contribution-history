@@ -4401,3 +4401,4 @@
 - [2014-07-02T10:57:44] Optimize PostgreSQL query execution plans
 - [2014-07-02T16:38:35] Optimize PostgreSQL query execution plans
 - [2014-07-02T09:53:00] Optimize PostgreSQL query execution plans
+- [2014-07-02T13:32:16] Fix edge case in URL parsing and validation
