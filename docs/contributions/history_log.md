@@ -4393,3 +4393,4 @@
 - [2014-07-02T16:11:07] Add retries for transient network drops
 - [2014-07-02T18:20:13] Implement streaming upload chunk buffer optimization
 - [2014-07-02T18:40:19] Improve logging and health endpoint metrics
+- [2014-07-02T19:31:20] Update schema migration helpers
