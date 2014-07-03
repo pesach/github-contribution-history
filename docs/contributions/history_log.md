@@ -4396,3 +4396,4 @@
 - [2014-07-02T19:31:20] Update schema migration helpers
 - [2014-07-02T11:48:43] Add retries for transient network drops
 - [2014-07-02T15:41:44] Improve ffmpeg streaming pipe buffer management
+- [2014-07-02T21:26:24] Update automated pytest test suites
