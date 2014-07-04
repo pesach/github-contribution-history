@@ -4404,3 +4404,4 @@
 - [2014-07-02T13:32:16] Fix edge case in URL parsing and validation
 - [2014-07-03T16:40:49] Update documentation and architectural guides
 - [2014-07-03T22:34:58] Improve logging and health endpoint metrics
+- [2014-07-03T21:37:09] Add Redis rate limit backoff handlers
