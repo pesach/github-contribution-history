@@ -4421,3 +4421,4 @@
 - [2014-07-04T14:25:29] Improve logging and health endpoint metrics
 - [2014-07-05T20:05:03] Refactor cookie refresher probe logic
 - [2014-07-05T12:29:40] Optimize PostgreSQL query execution plans
+- [2014-07-05T17:39:22] Fix edge case in URL parsing and validation
