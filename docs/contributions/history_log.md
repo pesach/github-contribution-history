@@ -4420,3 +4420,4 @@
 - [2014-07-04T11:45:08] Refactor cookie refresher probe logic
 - [2014-07-04T14:25:29] Improve logging and health endpoint metrics
 - [2014-07-05T20:05:03] Refactor cookie refresher probe logic
+- [2014-07-05T12:29:40] Optimize PostgreSQL query execution plans
