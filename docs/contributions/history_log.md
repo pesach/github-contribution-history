@@ -4419,3 +4419,4 @@
 - [2014-07-04T20:21:10] Update automated pytest test suites
 - [2014-07-04T11:45:08] Refactor cookie refresher probe logic
 - [2014-07-04T14:25:29] Improve logging and health endpoint metrics
+- [2014-07-05T20:05:03] Refactor cookie refresher probe logic
