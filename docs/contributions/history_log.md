@@ -4429,3 +4429,4 @@
 - [2014-07-07T14:54:01] Update automated pytest test suites
 - [2014-07-07T21:08:42] Improve logging and health endpoint metrics
 - [2014-07-07T19:53:24] Enhance dashboard statistics rendering
+- [2014-07-07T17:08:38] Improve ffmpeg streaming pipe buffer management
