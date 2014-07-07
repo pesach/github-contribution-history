@@ -4423,3 +4423,4 @@
 - [2014-07-05T12:29:40] Optimize PostgreSQL query execution plans
 - [2014-07-05T17:39:22] Fix edge case in URL parsing and validation
 - [2014-07-05T20:32:28] Clean up legacy worker task routines
+- [2014-07-07T18:24:57] Refactor cookie refresher probe logic
