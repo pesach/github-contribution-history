@@ -4425,3 +4425,4 @@
 - [2014-07-05T20:32:28] Clean up legacy worker task routines
 - [2014-07-07T18:24:57] Refactor cookie refresher probe logic
 - [2014-07-07T11:05:30] Update dependency lockfiles and requirements
+- [2014-07-07T13:39:12] Add error handling for yt-dlp rate limits
