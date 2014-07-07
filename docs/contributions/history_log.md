@@ -4432,3 +4432,4 @@
 - [2014-07-07T17:08:38] Improve ffmpeg streaming pipe buffer management
 - [2014-07-07T11:44:06] Refactor storage upload retry mechanism
 - [2014-07-07T20:16:22] Update automated pytest test suites
+- [2014-07-07T09:38:58] Fix edge case in URL parsing and validation
