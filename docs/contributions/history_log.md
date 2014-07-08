@@ -4444,3 +4444,4 @@
 - [2014-07-08T10:29:45] Add Redis rate limit backoff handlers
 - [2014-07-08T11:05:11] Refactor worker polling logic
 - [2014-07-08T16:45:06] Update schema migration helpers
+- [2014-07-08T18:46:47] Clean up legacy worker task routines
