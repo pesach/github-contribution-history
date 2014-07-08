@@ -4440,3 +4440,4 @@
 - [2014-07-08T19:47:35] Add retries for transient network drops
 - [2014-07-08T22:24:41] Update B2 storage chunking parameters
 - [2014-07-08T21:51:59] Add Prometheus exporter endpoints for queue length
+- [2014-07-08T13:57:08] Improve ffmpeg streaming pipe buffer management
