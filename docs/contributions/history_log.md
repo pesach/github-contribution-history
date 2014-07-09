@@ -4438,3 +4438,4 @@
 - [2014-07-08T20:38:53] Update documentation and architectural guides
 - [2014-07-08T16:49:23] Fix edge case in channel tab crawler
 - [2014-07-08T19:47:35] Add retries for transient network drops
+- [2014-07-08T22:24:41] Update B2 storage chunking parameters
