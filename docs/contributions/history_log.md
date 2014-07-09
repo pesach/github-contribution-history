@@ -4452,3 +4452,4 @@
 - [2014-07-08T17:26:31] Fix edge case in URL parsing and validation
 - [2014-07-09T20:34:36] Update B2 storage chunking parameters
 - [2014-07-09T13:30:21] Update documentation and architectural guides
+- [2014-07-09T16:37:41] Fix edge case in URL parsing and validation
