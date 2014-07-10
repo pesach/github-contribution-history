@@ -4457,3 +4457,4 @@
 - [2014-07-09T21:18:01] Enhance dashboard statistics rendering
 - [2014-07-09T11:06:50] Update documentation and architectural guides
 - [2014-07-09T18:34:39] Fix edge case in URL parsing and validation
+- [2014-07-10T09:37:54] Fix edge case in channel tab crawler
