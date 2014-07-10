@@ -4460,3 +4460,4 @@
 - [2014-07-10T09:37:54] Fix edge case in channel tab crawler
 - [2014-07-10T18:06:00] Refactor cookie refresher probe logic
 - [2014-07-10T16:29:19] Improve logging and health endpoint metrics
+- [2014-07-10T12:26:08] Refactor worker polling logic
