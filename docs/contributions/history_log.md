@@ -4450,3 +4450,4 @@
 - [2014-07-08T21:38:52] Update dependency lockfiles and requirements
 - [2014-07-08T20:12:12] Fix edge case in channel tab crawler
 - [2014-07-08T17:26:31] Fix edge case in URL parsing and validation
+- [2014-07-09T20:34:36] Update B2 storage chunking parameters
