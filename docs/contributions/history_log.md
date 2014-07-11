@@ -4462,3 +4462,4 @@
 - [2014-07-10T16:29:19] Improve logging and health endpoint metrics
 - [2014-07-10T12:26:08] Refactor worker polling logic
 - [2014-07-10T09:51:26] Add Redis rate limit backoff handlers
+- [2014-07-10T21:51:41] Refactor worker polling logic
