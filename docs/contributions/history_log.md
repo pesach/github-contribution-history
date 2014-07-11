@@ -4473,3 +4473,4 @@
 - [2014-07-11T19:10:45] Fix edge case in URL parsing and validation
 - [2014-07-11T21:03:22] Add retries for transient network drops
 - [2014-07-11T16:39:36] Update schema migration helpers
+- [2014-07-11T10:27:39] Update B2 storage chunking parameters
