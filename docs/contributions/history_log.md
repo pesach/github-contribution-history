@@ -4474,3 +4474,4 @@
 - [2014-07-11T21:03:22] Add retries for transient network drops
 - [2014-07-11T16:39:36] Update schema migration helpers
 - [2014-07-11T10:27:39] Update B2 storage chunking parameters
+- [2014-07-12T18:46:49] Update documentation and architectural guides
