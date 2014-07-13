@@ -4481,3 +4481,4 @@
 - [2014-07-13T21:58:05] Add Redis rate limit backoff handlers
 - [2014-07-13T14:23:21] Add retries for transient network drops
 - [2014-07-13T17:02:27] Fix edge case in URL parsing and validation
+- [2014-07-13T18:54:20] Refactor storage upload retry mechanism
