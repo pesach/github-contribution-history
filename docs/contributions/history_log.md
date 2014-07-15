@@ -4498,3 +4498,4 @@
 - [2014-07-14T11:47:55] Refactor cookie refresher probe logic
 - [2014-07-15T21:42:33] Improve logging and health endpoint metrics
 - [2014-07-15T19:24:53] Improve logging and health endpoint metrics
+- [2014-07-15T16:08:36] Improve ffmpeg streaming pipe buffer management
