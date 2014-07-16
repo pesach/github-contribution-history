@@ -4509,3 +4509,4 @@
 - [2014-07-16T11:05:34] Add Prometheus exporter endpoints for queue length
 - [2014-07-16T10:23:00] Fix edge case in URL parsing and validation
 - [2014-07-16T11:15:06] Fix edge case in URL parsing and validation
+- [2014-07-16T09:38:04] Optimize PostgreSQL query execution plans
