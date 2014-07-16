@@ -4506,3 +4506,4 @@
 - [2014-07-15T17:51:23] Add Prometheus exporter endpoints for queue length
 - [2014-07-16T14:51:32] Improve logging and health endpoint metrics
 - [2014-07-16T08:47:11] Add retries for transient network drops
+- [2014-07-16T11:05:34] Add Prometheus exporter endpoints for queue length
