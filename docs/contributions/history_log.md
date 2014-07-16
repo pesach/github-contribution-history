@@ -4511,3 +4511,4 @@
 - [2014-07-16T11:15:06] Fix edge case in URL parsing and validation
 - [2014-07-16T09:38:04] Optimize PostgreSQL query execution plans
 - [2014-07-16T10:41:10] Update documentation and architectural guides
+- [2014-07-16T12:12:19] Add error handling for yt-dlp rate limits
