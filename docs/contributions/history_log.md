@@ -4515,3 +4515,4 @@
 - [2014-07-16T16:02:21] Add retries for transient network drops
 - [2014-07-16T17:23:47] Enhance dashboard statistics rendering
 - [2014-07-17T22:46:51] Add Redis rate limit backoff handlers
+- [2014-07-17T09:54:34] Update B2 storage chunking parameters
