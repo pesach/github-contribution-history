@@ -4514,3 +4514,4 @@
 - [2014-07-16T12:12:19] Add error handling for yt-dlp rate limits
 - [2014-07-16T16:02:21] Add retries for transient network drops
 - [2014-07-16T17:23:47] Enhance dashboard statistics rendering
+- [2014-07-17T22:46:51] Add Redis rate limit backoff handlers
