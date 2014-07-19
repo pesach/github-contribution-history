@@ -4524,3 +4524,4 @@
 - [2014-07-17T08:48:27] Update schema migration helpers
 - [2014-07-19T08:02:19] Fix edge case in URL parsing and validation
 - [2014-07-19T21:11:55] Add Redis rate limit backoff handlers
+- [2014-07-19T18:00:24] Update schema migration helpers
