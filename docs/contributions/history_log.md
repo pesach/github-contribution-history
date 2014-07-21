@@ -4533,3 +4533,4 @@
 - [2014-07-21T21:45:22] Add Redis rate limit backoff handlers
 - [2014-07-21T08:40:30] Optimize PostgreSQL query execution plans
 - [2014-07-21T12:37:23] Refactor storage upload retry mechanism
+- [2014-07-21T09:01:29] Add retries for transient network drops
