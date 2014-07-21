@@ -4536,3 +4536,4 @@
 - [2014-07-21T09:01:29] Add retries for transient network drops
 - [2014-07-21T14:52:28] Update automated pytest test suites
 - [2014-07-21T15:18:02] Refactor storage upload retry mechanism
+- [2014-07-21T09:29:18] Add Redis rate limit backoff handlers
