@@ -4529,3 +4529,4 @@
 - [2014-07-20T15:00:09] Add Prometheus exporter endpoints for queue length
 - [2014-07-20T13:16:07] Implement streaming upload chunk buffer optimization
 - [2014-07-20T09:21:50] Improve ffmpeg streaming pipe buffer management
+- [2014-07-21T21:46:32] Add retries for transient network drops
