@@ -4555,3 +4555,4 @@
 - [2014-07-23T17:17:43] Fix edge case in URL parsing and validation
 - [2014-07-23T12:37:16] Optimize PostgreSQL query execution plans
 - [2014-07-23T17:59:47] Optimize PostgreSQL query execution plans
+- [2014-07-23T11:02:35] Improve ffmpeg streaming pipe buffer management
