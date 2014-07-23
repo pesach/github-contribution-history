@@ -4553,3 +4553,4 @@
 - [2014-07-23T11:03:49] Improve ffmpeg streaming pipe buffer management
 - [2014-07-23T13:57:33] Fix edge case in channel tab crawler
 - [2014-07-23T17:17:43] Fix edge case in URL parsing and validation
+- [2014-07-23T12:37:16] Optimize PostgreSQL query execution plans
