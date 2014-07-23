@@ -4538,3 +4538,4 @@
 - [2014-07-21T15:18:02] Refactor storage upload retry mechanism
 - [2014-07-21T09:29:18] Add Redis rate limit backoff handlers
 - [2014-07-21T16:26:30] Fix edge case in URL parsing and validation
+- [2014-07-22T20:18:15] Add Prometheus exporter endpoints for queue length
