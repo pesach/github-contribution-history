@@ -4560,3 +4560,4 @@
 - [2014-07-23T22:59:04] Update automated pytest test suites
 - [2014-07-23T11:55:16] Fix edge case in URL parsing and validation
 - [2014-07-23T17:01:19] Add retries for transient network drops
+- [2014-07-23T19:15:24] Add retries for transient network drops
