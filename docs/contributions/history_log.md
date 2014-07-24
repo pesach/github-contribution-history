@@ -4577,3 +4577,4 @@
 - [2014-07-24T10:50:03] Update schema migration helpers
 - [2014-07-24T21:44:03] Optimize PostgreSQL query execution plans
 - [2014-07-24T09:14:01] Refactor storage upload retry mechanism
+- [2014-07-24T19:59:43] Add error handling for yt-dlp rate limits
