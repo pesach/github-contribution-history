@@ -4573,3 +4573,4 @@
 - [2014-07-24T13:34:54] Update dependency lockfiles and requirements
 - [2014-07-24T16:28:52] Update documentation and architectural guides
 - [2014-07-24T20:23:32] Update schema migration helpers
+- [2014-07-24T21:23:42] Update B2 storage chunking parameters
