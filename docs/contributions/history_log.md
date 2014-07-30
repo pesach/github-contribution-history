@@ -4593,3 +4593,4 @@
 - [2014-07-27T18:01:46] Update automated pytest test suites
 - [2014-07-29T20:28:21] Improve logging and health endpoint metrics
 - [2014-07-29T13:47:22] Update B2 storage chunking parameters
+- [2014-07-29T21:29:16] Fix edge case in channel tab crawler
