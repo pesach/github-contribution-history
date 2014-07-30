@@ -4591,3 +4591,4 @@
 - [2014-07-27T18:40:53] Fix edge case in channel tab crawler
 - [2014-07-27T11:53:40] Update automated pytest test suites
 - [2014-07-27T18:01:46] Update automated pytest test suites
+- [2014-07-29T20:28:21] Improve logging and health endpoint metrics
