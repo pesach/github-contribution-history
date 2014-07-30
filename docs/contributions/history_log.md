@@ -4603,3 +4603,4 @@
 - [2014-07-30T18:34:59] Enhance dashboard statistics rendering
 - [2014-07-30T15:26:52] Fix edge case in channel tab crawler
 - [2014-07-30T16:28:40] Clean up legacy worker task routines
+- [2014-07-30T17:29:41] Add error handling for yt-dlp rate limits
