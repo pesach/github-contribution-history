@@ -4606,3 +4606,4 @@
 - [2014-07-30T17:29:41] Add error handling for yt-dlp rate limits
 - [2014-07-30T21:46:39] Optimize PostgreSQL query execution plans
 - [2014-07-30T10:27:52] Clean up legacy worker task routines
+- [2014-07-30T22:12:10] Update schema migration helpers
