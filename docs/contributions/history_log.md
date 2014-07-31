@@ -4611,3 +4611,4 @@
 - [2014-07-30T16:48:53] Add Prometheus exporter endpoints for queue length
 - [2014-07-30T12:48:32] Improve logging and health endpoint metrics
 - [2014-07-31T09:23:11] Improve logging and health endpoint metrics
+- [2014-07-31T16:23:57] Add Prometheus exporter endpoints for queue length
