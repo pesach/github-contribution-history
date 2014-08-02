@@ -4631,3 +4631,4 @@
 - [2014-08-02T18:45:25] Refactor worker polling logic
 - [2014-08-02T17:54:01] Add Redis rate limit backoff handlers
 - [2014-08-02T21:30:33] Improve ffmpeg streaming pipe buffer management
+- [2014-08-02T12:51:00] Refactor worker polling logic
