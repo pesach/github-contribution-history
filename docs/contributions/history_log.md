@@ -4633,3 +4633,4 @@
 - [2014-08-02T21:30:33] Improve ffmpeg streaming pipe buffer management
 - [2014-08-02T12:51:00] Refactor worker polling logic
 - [2014-08-02T14:14:50] Refactor cookie refresher probe logic
+- [2014-08-02T22:23:41] Clean up legacy worker task routines
