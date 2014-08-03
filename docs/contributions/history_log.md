@@ -4630,3 +4630,4 @@
 - [2014-08-01T16:33:33] Update dependency lockfiles and requirements
 - [2014-08-02T18:45:25] Refactor worker polling logic
 - [2014-08-02T17:54:01] Add Redis rate limit backoff handlers
+- [2014-08-02T21:30:33] Improve ffmpeg streaming pipe buffer management
