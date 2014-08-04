@@ -4651,3 +4651,4 @@
 - [2014-08-04T16:12:04] Optimize PostgreSQL query execution plans
 - [2014-08-04T09:53:41] Update automated pytest test suites
 - [2014-08-04T19:30:53] Update B2 storage chunking parameters
+- [2014-08-04T11:12:27] Update schema migration helpers
