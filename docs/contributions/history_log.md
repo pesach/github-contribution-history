@@ -4650,3 +4650,4 @@
 - [2014-08-04T22:25:13] Enhance dashboard statistics rendering
 - [2014-08-04T16:12:04] Optimize PostgreSQL query execution plans
 - [2014-08-04T09:53:41] Update automated pytest test suites
+- [2014-08-04T19:30:53] Update B2 storage chunking parameters
