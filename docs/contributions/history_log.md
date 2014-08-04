@@ -4640,3 +4640,4 @@
 - [2014-08-03T14:01:11] Update schema migration helpers
 - [2014-08-03T15:55:49] Clean up legacy worker task routines
 - [2014-08-04T13:22:51] Refactor cookie refresher probe logic
+- [2014-08-04T19:34:24] Optimize PostgreSQL query execution plans
