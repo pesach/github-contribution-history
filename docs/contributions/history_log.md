@@ -4639,3 +4639,4 @@
 - [2014-08-03T10:08:27] Update automated pytest test suites
 - [2014-08-03T14:01:11] Update schema migration helpers
 - [2014-08-03T15:55:49] Clean up legacy worker task routines
+- [2014-08-04T13:22:51] Refactor cookie refresher probe logic
