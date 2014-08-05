@@ -4646,3 +4646,4 @@
 - [2014-08-04T17:24:03] Fix edge case in URL parsing and validation
 - [2014-08-04T14:07:26] Update schema migration helpers
 - [2014-08-04T12:13:46] Optimize PostgreSQL query execution plans
+- [2014-08-04T22:29:19] Refactor worker polling logic
