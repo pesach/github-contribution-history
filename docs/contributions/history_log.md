@@ -4653,3 +4653,4 @@
 - [2014-08-04T19:30:53] Update B2 storage chunking parameters
 - [2014-08-04T11:12:27] Update schema migration helpers
 - [2014-08-05T18:15:22] Refactor storage upload retry mechanism
+- [2014-08-05T17:24:36] Fix edge case in URL parsing and validation
