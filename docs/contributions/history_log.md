@@ -4663,3 +4663,4 @@
 - [2014-08-05T16:19:41] Fix edge case in channel tab crawler
 - [2014-08-05T12:50:24] Refactor storage upload retry mechanism
 - [2014-08-05T15:31:50] Update automated pytest test suites
+- [2014-08-05T12:08:53] Update documentation and architectural guides
