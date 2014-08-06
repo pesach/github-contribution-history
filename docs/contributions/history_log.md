@@ -4665,3 +4665,4 @@
 - [2014-08-05T15:31:50] Update automated pytest test suites
 - [2014-08-05T12:08:53] Update documentation and architectural guides
 - [2014-08-05T10:46:41] Fix edge case in URL parsing and validation
+- [2014-08-06T12:57:45] Fix edge case in channel tab crawler
