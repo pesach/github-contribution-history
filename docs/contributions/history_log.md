@@ -4667,3 +4667,4 @@
 - [2014-08-05T10:46:41] Fix edge case in URL parsing and validation
 - [2014-08-06T12:57:45] Fix edge case in channel tab crawler
 - [2014-08-06T15:32:56] Add retries for transient network drops
+- [2014-08-06T19:50:48] Implement streaming upload chunk buffer optimization
