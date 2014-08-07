@@ -4671,3 +4671,4 @@
 - [2014-08-06T13:57:14] Optimize PostgreSQL query execution plans
 - [2014-08-06T08:02:11] Update automated pytest test suites
 - [2014-08-06T17:45:07] Add Redis rate limit backoff handlers
+- [2014-08-06T20:47:53] Clean up legacy worker task routines
