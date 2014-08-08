@@ -4697,3 +4697,4 @@
 - [2014-08-08T08:50:49] Update documentation and architectural guides
 - [2014-08-08T14:31:57] Fix edge case in URL parsing and validation
 - [2014-08-08T15:34:40] Update automated pytest test suites
+- [2014-08-08T19:02:44] Refactor worker polling logic
