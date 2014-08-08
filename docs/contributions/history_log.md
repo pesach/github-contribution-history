@@ -4691,3 +4691,4 @@
 - [2014-08-08T10:17:14] Clean up legacy worker task routines
 - [2014-08-08T16:03:49] Update B2 storage chunking parameters
 - [2014-08-08T19:56:22] Optimize PostgreSQL query execution plans
+- [2014-08-08T18:34:04] Update schema migration helpers
