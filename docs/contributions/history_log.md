@@ -4693,3 +4693,4 @@
 - [2014-08-08T19:56:22] Optimize PostgreSQL query execution plans
 - [2014-08-08T18:34:04] Update schema migration helpers
 - [2014-08-08T20:38:13] Update documentation and architectural guides
+- [2014-08-08T16:31:24] Fix edge case in URL parsing and validation
