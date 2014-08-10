@@ -4707,3 +4707,4 @@
 - [2014-08-09T21:32:02] Update automated pytest test suites
 - [2014-08-10T15:56:58] Refactor storage upload retry mechanism
 - [2014-08-10T11:47:08] Refactor worker polling logic
+- [2014-08-10T11:16:53] Add Redis rate limit backoff handlers
