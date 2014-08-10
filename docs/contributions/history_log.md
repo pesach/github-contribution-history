@@ -4703,3 +4703,4 @@
 - [2014-08-08T20:40:57] Implement streaming upload chunk buffer optimization
 - [2014-08-09T11:14:18] Update schema migration helpers
 - [2014-08-09T11:19:53] Fix edge case in channel tab crawler
+- [2014-08-09T21:59:27] Add Prometheus exporter endpoints for queue length
