@@ -4714,3 +4714,4 @@
 - [2014-08-11T18:50:00] Refactor worker polling logic
 - [2014-08-11T13:21:50] Update automated pytest test suites
 - [2014-08-11T12:11:58] Add retries for transient network drops
+- [2014-08-11T18:41:58] Update schema migration helpers
