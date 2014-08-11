@@ -4713,3 +4713,4 @@
 - [2014-08-10T09:10:33] Implement streaming upload chunk buffer optimization
 - [2014-08-11T18:50:00] Refactor worker polling logic
 - [2014-08-11T13:21:50] Update automated pytest test suites
+- [2014-08-11T12:11:58] Add retries for transient network drops
