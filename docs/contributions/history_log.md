@@ -4716,3 +4716,4 @@
 - [2014-08-11T12:11:58] Add retries for transient network drops
 - [2014-08-11T18:41:58] Update schema migration helpers
 - [2014-08-11T11:27:56] Add error handling for yt-dlp rate limits
+- [2014-08-11T16:50:32] Update schema migration helpers
