@@ -4720,3 +4720,4 @@
 - [2014-08-11T16:30:38] Enhance dashboard statistics rendering
 - [2014-08-11T10:13:33] Add Redis rate limit backoff handlers
 - [2014-08-11T19:35:08] Improve logging and health endpoint metrics
+- [2014-08-11T21:05:15] Add error handling for yt-dlp rate limits
