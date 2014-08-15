@@ -4732,3 +4732,4 @@
 - [2014-08-12T15:53:31] Improve ffmpeg streaming pipe buffer management
 - [2014-08-15T10:03:40] Refactor storage upload retry mechanism
 - [2014-08-15T10:52:19] Implement streaming upload chunk buffer optimization
+- [2014-08-15T09:32:15] Add Redis rate limit backoff handlers
