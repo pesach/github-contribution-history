@@ -4730,3 +4730,4 @@
 - [2014-08-12T20:38:49] Update schema migration helpers
 - [2014-08-12T10:46:02] Improve logging and health endpoint metrics
 - [2014-08-12T15:53:31] Improve ffmpeg streaming pipe buffer management
+- [2014-08-15T10:03:40] Refactor storage upload retry mechanism
