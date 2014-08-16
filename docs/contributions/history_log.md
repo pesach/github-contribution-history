@@ -4741,3 +4741,4 @@
 - [2014-08-15T21:01:35] Update documentation and architectural guides
 - [2014-08-16T15:10:56] Add error handling for yt-dlp rate limits
 - [2014-08-16T22:45:47] Clean up legacy worker task routines
+- [2014-08-16T17:32:34] Add error handling for yt-dlp rate limits
