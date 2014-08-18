@@ -4751,3 +4751,4 @@
 - [2014-08-18T09:50:13] Update dependency lockfiles and requirements
 - [2014-08-18T20:53:46] Refactor cookie refresher probe logic
 - [2014-08-18T09:07:11] Fix edge case in URL parsing and validation
+- [2014-08-18T17:29:22] Add retries for transient network drops
