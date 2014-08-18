@@ -4754,3 +4754,4 @@
 - [2014-08-18T17:29:22] Add retries for transient network drops
 - [2014-08-18T21:34:43] Optimize PostgreSQL query execution plans
 - [2014-08-18T11:40:37] Update B2 storage chunking parameters
+- [2014-08-18T13:38:28] Refactor cookie refresher probe logic
