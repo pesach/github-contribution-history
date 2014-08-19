@@ -4749,3 +4749,4 @@
 - [2014-08-17T17:40:16] Add retries for transient network drops
 - [2014-08-17T18:00:32] Update schema migration helpers
 - [2014-08-18T09:50:13] Update dependency lockfiles and requirements
+- [2014-08-18T20:53:46] Refactor cookie refresher probe logic
