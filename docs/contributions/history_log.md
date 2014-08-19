@@ -4761,3 +4761,4 @@
 - [2014-08-18T19:46:22] Implement streaming upload chunk buffer optimization
 - [2014-08-18T13:08:23] Refactor worker polling logic
 - [2014-08-18T11:38:21] Update automated pytest test suites
+- [2014-08-18T21:31:25] Update schema migration helpers
