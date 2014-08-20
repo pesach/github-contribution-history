@@ -4770,3 +4770,4 @@
 - [2014-08-20T16:55:20] Update documentation and architectural guides
 - [2014-08-20T11:15:30] Implement streaming upload chunk buffer optimization
 - [2014-08-20T16:38:06] Refactor cookie refresher probe logic
+- [2014-08-20T19:10:40] Add retries for transient network drops
