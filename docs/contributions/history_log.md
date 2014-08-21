@@ -4785,3 +4785,4 @@
 - [2014-08-21T10:27:10] Clean up legacy worker task routines
 - [2014-08-21T19:57:52] Improve logging and health endpoint metrics
 - [2014-08-21T17:27:11] Improve logging and health endpoint metrics
+- [2014-08-21T10:03:56] Refactor cookie refresher probe logic
