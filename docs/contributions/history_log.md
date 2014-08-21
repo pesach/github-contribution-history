@@ -4781,3 +4781,4 @@
 - [2014-08-21T12:31:27] Optimize PostgreSQL query execution plans
 - [2014-08-21T09:27:53] Refactor storage upload retry mechanism
 - [2014-08-21T22:16:25] Fix edge case in URL parsing and validation
+- [2014-08-21T08:47:48] Update schema migration helpers
