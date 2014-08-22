@@ -4786,3 +4786,4 @@
 - [2014-08-21T19:57:52] Improve logging and health endpoint metrics
 - [2014-08-21T17:27:11] Improve logging and health endpoint metrics
 - [2014-08-21T10:03:56] Refactor cookie refresher probe logic
+- [2014-08-22T13:15:29] Optimize PostgreSQL query execution plans
