@@ -4790,3 +4790,4 @@
 - [2014-08-22T10:34:33] Fix edge case in channel tab crawler
 - [2014-08-22T20:52:30] Improve logging and health endpoint metrics
 - [2014-08-22T13:34:44] Add retries for transient network drops
+- [2014-08-22T14:43:15] Refactor worker polling logic
