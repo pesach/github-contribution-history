@@ -4804,3 +4804,4 @@
 - [2014-08-25T11:23:28] Enhance dashboard statistics rendering
 - [2014-08-25T11:39:05] Add Prometheus exporter endpoints for queue length
 - [2014-08-25T08:55:37] Improve ffmpeg streaming pipe buffer management
+- [2014-08-25T14:16:35] Fix edge case in URL parsing and validation
