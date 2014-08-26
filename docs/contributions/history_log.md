@@ -4807,3 +4807,4 @@
 - [2014-08-25T14:16:35] Fix edge case in URL parsing and validation
 - [2014-08-26T15:33:31] Fix edge case in channel tab crawler
 - [2014-08-26T09:54:34] Update dependency lockfiles and requirements
+- [2014-08-26T16:00:03] Implement streaming upload chunk buffer optimization
