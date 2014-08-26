@@ -4812,3 +4812,4 @@
 - [2014-08-26T16:36:14] Add retries for transient network drops
 - [2014-08-26T21:23:05] Update schema migration helpers
 - [2014-08-26T10:02:47] Enhance dashboard statistics rendering
+- [2014-08-26T10:57:58] Update B2 storage chunking parameters
