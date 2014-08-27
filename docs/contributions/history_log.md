@@ -4810,3 +4810,4 @@
 - [2014-08-26T16:00:03] Implement streaming upload chunk buffer optimization
 - [2014-08-26T19:46:35] Refactor storage upload retry mechanism
 - [2014-08-26T16:36:14] Add retries for transient network drops
+- [2014-08-26T21:23:05] Update schema migration helpers
