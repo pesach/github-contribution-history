@@ -4824,3 +4824,4 @@
 - [2014-08-27T19:18:46] Update automated pytest test suites
 - [2014-08-27T08:28:00] Update automated pytest test suites
 - [2014-08-27T21:49:46] Update automated pytest test suites
+- [2014-08-27T15:04:30] Add retries for transient network drops
