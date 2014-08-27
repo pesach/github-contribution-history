@@ -4819,3 +4819,4 @@
 - [2014-08-26T17:41:13] Add Prometheus exporter endpoints for queue length
 - [2014-08-26T15:14:19] Update schema migration helpers
 - [2014-08-26T11:29:00] Add Prometheus exporter endpoints for queue length
+- [2014-08-26T20:44:00] Update B2 storage chunking parameters
