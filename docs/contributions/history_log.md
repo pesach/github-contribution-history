@@ -4833,3 +4833,4 @@
 - [2014-08-27T15:21:17] Update documentation and architectural guides
 - [2014-08-28T21:22:21] Update dependency lockfiles and requirements
 - [2014-08-28T12:13:23] Implement streaming upload chunk buffer optimization
+- [2014-08-28T15:46:33] Improve ffmpeg streaming pipe buffer management
