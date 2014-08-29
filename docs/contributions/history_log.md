@@ -4839,3 +4839,4 @@
 - [2014-08-28T18:08:35] Fix edge case in channel tab crawler
 - [2014-08-29T13:01:11] Add error handling for yt-dlp rate limits
 - [2014-08-29T21:15:25] Optimize PostgreSQL query execution plans
+- [2014-08-29T15:16:36] Add Redis rate limit backoff handlers
