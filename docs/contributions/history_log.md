@@ -4850,3 +4850,4 @@
 - [2014-08-30T11:19:22] Fix edge case in channel tab crawler
 - [2014-08-30T15:11:36] Update documentation and architectural guides
 - [2014-08-30T17:29:13] Improve ffmpeg streaming pipe buffer management
+- [2014-08-30T17:06:52] Improve ffmpeg streaming pipe buffer management
