@@ -4857,3 +4857,4 @@
 - [2014-08-31T21:17:31] Improve logging and health endpoint metrics
 - [2014-08-31T17:49:21] Update documentation and architectural guides
 - [2014-08-31T14:01:59] Update schema migration helpers
+- [2014-08-31T16:40:13] Update documentation and architectural guides
