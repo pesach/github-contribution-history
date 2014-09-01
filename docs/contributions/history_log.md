@@ -4859,3 +4859,4 @@
 - [2014-08-31T14:01:59] Update schema migration helpers
 - [2014-08-31T16:40:13] Update documentation and architectural guides
 - [2014-09-01T10:37:56] Refactor cookie refresher probe logic
+- [2014-09-01T14:42:35] Update documentation and architectural guides
