@@ -4864,3 +4864,4 @@
 - [2014-09-01T20:35:28] Update documentation and architectural guides
 - [2014-09-01T22:30:51] Update B2 storage chunking parameters
 - [2014-09-01T11:05:02] Fix edge case in URL parsing and validation
+- [2014-09-01T10:02:36] Optimize PostgreSQL query execution plans
