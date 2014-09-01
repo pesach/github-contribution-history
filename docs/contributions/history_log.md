@@ -4866,3 +4866,4 @@
 - [2014-09-01T11:05:02] Fix edge case in URL parsing and validation
 - [2014-09-01T10:02:36] Optimize PostgreSQL query execution plans
 - [2014-09-01T09:52:01] Fix edge case in URL parsing and validation
+- [2014-09-01T09:42:33] Clean up legacy worker task routines
