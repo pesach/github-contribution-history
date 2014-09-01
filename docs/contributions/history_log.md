@@ -4853,3 +4853,4 @@
 - [2014-08-30T17:06:52] Improve ffmpeg streaming pipe buffer management
 - [2014-08-30T11:11:39] Improve logging and health endpoint metrics
 - [2014-08-30T17:36:31] Refactor cookie refresher probe logic
+- [2014-08-31T20:19:22] Refactor storage upload retry mechanism
