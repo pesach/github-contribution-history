@@ -4872,3 +4872,4 @@
 - [2014-09-02T09:09:52] Refactor storage upload retry mechanism
 - [2014-09-02T16:53:54] Add retries for transient network drops
 - [2014-09-02T21:37:36] Implement streaming upload chunk buffer optimization
+- [2014-09-02T08:54:09] Fix edge case in URL parsing and validation
