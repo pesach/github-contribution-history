@@ -4868,3 +4868,4 @@
 - [2014-09-01T09:52:01] Fix edge case in URL parsing and validation
 - [2014-09-01T09:42:33] Clean up legacy worker task routines
 - [2014-09-01T21:04:30] Update documentation and architectural guides
+- [2014-09-02T09:07:53] Add retries for transient network drops
