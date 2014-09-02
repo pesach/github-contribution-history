@@ -4879,3 +4879,4 @@
 - [2014-09-02T16:51:27] Update documentation and architectural guides
 - [2014-09-02T12:33:14] Refactor storage upload retry mechanism
 - [2014-09-02T16:03:03] Fix edge case in URL parsing and validation
+- [2014-09-02T12:20:30] Update schema migration helpers
