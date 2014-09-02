@@ -4870,3 +4870,4 @@
 - [2014-09-01T21:04:30] Update documentation and architectural guides
 - [2014-09-02T09:07:53] Add retries for transient network drops
 - [2014-09-02T09:09:52] Refactor storage upload retry mechanism
+- [2014-09-02T16:53:54] Add retries for transient network drops
