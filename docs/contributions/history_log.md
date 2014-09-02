@@ -4861,3 +4861,4 @@
 - [2014-09-01T10:37:56] Refactor cookie refresher probe logic
 - [2014-09-01T14:42:35] Update documentation and architectural guides
 - [2014-09-01T16:16:58] Refactor cookie refresher probe logic
+- [2014-09-01T20:35:28] Update documentation and architectural guides
