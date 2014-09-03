@@ -4874,3 +4874,4 @@
 - [2014-09-02T21:37:36] Implement streaming upload chunk buffer optimization
 - [2014-09-02T08:54:09] Fix edge case in URL parsing and validation
 - [2014-09-02T18:41:52] Add retries for transient network drops
+- [2014-09-02T21:09:47] Add error handling for yt-dlp rate limits
