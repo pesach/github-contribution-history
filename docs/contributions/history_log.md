@@ -4882,3 +4882,4 @@
 - [2014-09-02T12:20:30] Update schema migration helpers
 - [2014-09-02T15:29:48] Refactor worker polling logic
 - [2014-09-03T17:16:58] Clean up legacy worker task routines
+- [2014-09-03T08:56:43] Add retries for transient network drops
