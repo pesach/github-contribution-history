@@ -4881,3 +4881,4 @@
 - [2014-09-02T16:03:03] Fix edge case in URL parsing and validation
 - [2014-09-02T12:20:30] Update schema migration helpers
 - [2014-09-02T15:29:48] Refactor worker polling logic
+- [2014-09-03T17:16:58] Clean up legacy worker task routines
