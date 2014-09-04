@@ -4893,3 +4893,4 @@
 - [2014-09-04T19:54:05] Update schema migration helpers
 - [2014-09-04T09:15:40] Add retries for transient network drops
 - [2014-09-04T14:25:37] Update documentation and architectural guides
+- [2014-09-04T19:15:54] Clean up legacy worker task routines
