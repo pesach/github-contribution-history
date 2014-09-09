@@ -4922,3 +4922,4 @@
 - [2014-09-08T20:39:22] Add retries for transient network drops
 - [2014-09-09T18:13:46] Add retries for transient network drops
 - [2014-09-09T12:40:48] Implement streaming upload chunk buffer optimization
+- [2014-09-09T09:50:40] Optimize PostgreSQL query execution plans
