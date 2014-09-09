@@ -4918,3 +4918,4 @@
 - [2014-09-08T10:28:13] Update dependency lockfiles and requirements
 - [2014-09-08T15:02:16] Update documentation and architectural guides
 - [2014-09-08T19:28:09] Update B2 storage chunking parameters
+- [2014-09-08T22:15:47] Refactor storage upload retry mechanism
