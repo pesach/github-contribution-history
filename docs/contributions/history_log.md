@@ -4951,3 +4951,4 @@
 - [2014-09-12T19:57:55] Improve logging and health endpoint metrics
 - [2014-09-12T16:34:02] Add Redis rate limit backoff handlers
 - [2014-09-12T20:47:49] Add error handling for yt-dlp rate limits
+- [2014-09-12T16:36:33] Add error handling for yt-dlp rate limits
