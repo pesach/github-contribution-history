@@ -4968,3 +4968,4 @@
 - [2014-09-15T22:41:41] Refactor storage upload retry mechanism
 - [2014-09-15T16:31:51] Update schema migration helpers
 - [2014-09-15T22:40:47] Clean up legacy worker task routines
+- [2014-09-15T08:06:21] Refactor storage upload retry mechanism
