@@ -4982,3 +4982,4 @@
 - [2014-09-16T21:04:13] Add error handling for yt-dlp rate limits
 - [2014-09-18T09:55:19] Add error handling for yt-dlp rate limits
 - [2014-09-18T15:12:08] Add error handling for yt-dlp rate limits
+- [2014-09-18T08:29:09] Clean up legacy worker task routines
