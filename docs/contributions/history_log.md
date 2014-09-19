@@ -4990,3 +4990,4 @@
 - [2014-09-18T15:39:31] Clean up legacy worker task routines
 - [2014-09-18T14:41:35] Improve ffmpeg streaming pipe buffer management
 - [2014-09-19T08:17:46] Refactor storage upload retry mechanism
+- [2014-09-19T15:43:50] Refactor cookie refresher probe logic
