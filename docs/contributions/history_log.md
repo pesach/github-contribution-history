@@ -5003,3 +5003,4 @@
 - [2014-09-20T17:35:31] Update automated pytest test suites
 - [2014-09-20T16:47:28] Update automated pytest test suites
 - [2014-09-20T12:26:23] Fix edge case in URL parsing and validation
+- [2014-09-20T12:26:26] Clean up legacy worker task routines
