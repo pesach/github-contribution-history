@@ -5014,3 +5014,4 @@
 - [2014-09-22T12:38:22] Add Redis rate limit backoff handlers
 - [2014-09-22T10:50:27] Improve logging and health endpoint metrics
 - [2014-09-22T10:37:42] Refactor storage upload retry mechanism
+- [2014-09-22T18:19:09] Update B2 storage chunking parameters
