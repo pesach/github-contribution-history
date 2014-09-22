@@ -5012,3 +5012,4 @@
 - [2014-09-22T20:15:49] Update automated pytest test suites
 - [2014-09-22T20:28:28] Fix edge case in channel tab crawler
 - [2014-09-22T12:38:22] Add Redis rate limit backoff handlers
+- [2014-09-22T10:50:27] Improve logging and health endpoint metrics
