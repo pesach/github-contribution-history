@@ -5010,3 +5010,4 @@
 - [2014-09-21T13:21:57] Implement streaming upload chunk buffer optimization
 - [2014-09-21T09:41:12] Update B2 storage chunking parameters
 - [2014-09-22T20:15:49] Update automated pytest test suites
+- [2014-09-22T20:28:28] Fix edge case in channel tab crawler
