@@ -5023,3 +5023,4 @@
 - [2014-09-22T20:34:04] Implement streaming upload chunk buffer optimization
 - [2014-09-22T19:09:32] Refactor worker polling logic
 - [2014-09-24T13:14:13] Improve ffmpeg streaming pipe buffer management
+- [2014-09-24T17:14:28] Add Prometheus exporter endpoints for queue length
