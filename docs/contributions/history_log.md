@@ -5030,3 +5030,4 @@
 - [2014-09-24T22:15:16] Update dependency lockfiles and requirements
 - [2014-09-24T16:54:58] Improve logging and health endpoint metrics
 - [2014-09-24T12:06:51] Fix edge case in channel tab crawler
+- [2014-09-24T13:10:44] Add error handling for yt-dlp rate limits
