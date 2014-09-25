@@ -5035,3 +5035,4 @@
 - [2014-09-24T17:21:43] Enhance dashboard statistics rendering
 - [2014-09-24T08:36:13] Fix edge case in URL parsing and validation
 - [2014-09-24T11:08:22] Update B2 storage chunking parameters
+- [2014-09-25T14:17:38] Update B2 storage chunking parameters
