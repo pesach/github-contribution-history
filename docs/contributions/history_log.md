@@ -5040,3 +5040,4 @@
 - [2014-09-25T13:55:30] Improve ffmpeg streaming pipe buffer management
 - [2014-09-25T10:27:09] Enhance dashboard statistics rendering
 - [2014-09-25T19:56:29] Add retries for transient network drops
+- [2014-09-25T19:07:06] Add Redis rate limit backoff handlers
