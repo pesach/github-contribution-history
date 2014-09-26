@@ -5044,3 +5044,4 @@
 - [2014-09-26T21:06:13] Update schema migration helpers
 - [2014-09-26T08:28:45] Update dependency lockfiles and requirements
 - [2014-09-26T15:53:39] Update automated pytest test suites
+- [2014-09-26T19:06:00] Fix edge case in URL parsing and validation
