@@ -5042,3 +5042,4 @@
 - [2014-09-25T19:56:29] Add retries for transient network drops
 - [2014-09-25T19:07:06] Add Redis rate limit backoff handlers
 - [2014-09-26T21:06:13] Update schema migration helpers
+- [2014-09-26T08:28:45] Update dependency lockfiles and requirements
