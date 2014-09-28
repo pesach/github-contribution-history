@@ -5053,3 +5053,4 @@
 - [2014-09-26T13:10:04] Update B2 storage chunking parameters
 - [2014-09-26T14:53:25] Update documentation and architectural guides
 - [2014-09-27T15:02:43] Implement streaming upload chunk buffer optimization
+- [2014-09-27T22:46:14] Optimize PostgreSQL query execution plans
