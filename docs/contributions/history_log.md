@@ -5059,3 +5059,4 @@
 - [2014-09-28T19:51:30] Update documentation and architectural guides
 - [2014-09-28T10:56:18] Fix edge case in URL parsing and validation
 - [2014-09-28T17:01:49] Add Redis rate limit backoff handlers
+- [2014-10-01T08:36:08] Update documentation and architectural guides
