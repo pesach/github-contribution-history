@@ -5068,3 +5068,4 @@
 - [2014-10-01T13:26:54] Add retries for transient network drops
 - [2014-10-02T16:05:12] Refactor worker polling logic
 - [2014-10-02T12:36:22] Clean up legacy worker task routines
+- [2014-10-02T10:04:22] Refactor worker polling logic
