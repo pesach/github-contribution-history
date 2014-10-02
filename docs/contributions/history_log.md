@@ -5066,3 +5066,4 @@
 - [2014-10-01T19:58:25] Add error handling for yt-dlp rate limits
 - [2014-10-01T13:06:29] Implement streaming upload chunk buffer optimization
 - [2014-10-01T13:26:54] Add retries for transient network drops
+- [2014-10-02T16:05:12] Refactor worker polling logic
