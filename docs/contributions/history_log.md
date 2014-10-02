@@ -5073,3 +5073,4 @@
 - [2014-10-02T22:02:56] Clean up legacy worker task routines
 - [2014-10-02T20:17:41] Improve logging and health endpoint metrics
 - [2014-10-02T18:52:33] Improve ffmpeg streaming pipe buffer management
+- [2014-10-02T11:14:08] Refactor worker polling logic
