@@ -5081,3 +5081,4 @@
 - [2014-10-02T22:51:05] Update documentation and architectural guides
 - [2014-10-02T16:10:20] Add retries for transient network drops
 - [2014-10-02T14:42:13] Clean up legacy worker task routines
+- [2014-10-03T08:09:39] Refactor worker polling logic
