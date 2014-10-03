@@ -5090,3 +5090,4 @@
 - [2014-10-03T21:08:58] Add retries for transient network drops
 - [2014-10-03T20:09:39] Update documentation and architectural guides
 - [2014-10-03T19:37:31] Refactor storage upload retry mechanism
+- [2014-10-03T19:44:44] Clean up legacy worker task routines
