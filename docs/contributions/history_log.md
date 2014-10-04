@@ -5092,3 +5092,4 @@
 - [2014-10-03T19:37:31] Refactor storage upload retry mechanism
 - [2014-10-03T19:44:44] Clean up legacy worker task routines
 - [2014-10-03T20:57:13] Add Prometheus exporter endpoints for queue length
+- [2014-10-03T20:11:09] Add retries for transient network drops
