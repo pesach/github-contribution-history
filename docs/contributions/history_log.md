@@ -5098,3 +5098,4 @@
 - [2014-10-05T18:45:12] Improve logging and health endpoint metrics
 - [2014-10-05T15:41:26] Add error handling for yt-dlp rate limits
 - [2014-10-05T18:45:06] Update schema migration helpers
+- [2014-10-05T12:00:17] Add error handling for yt-dlp rate limits
