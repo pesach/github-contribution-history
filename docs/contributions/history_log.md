@@ -5095,3 +5095,4 @@
 - [2014-10-03T20:11:09] Add retries for transient network drops
 - [2014-10-05T20:59:47] Refactor worker polling logic
 - [2014-10-05T13:01:20] Update schema migration helpers
+- [2014-10-05T18:45:12] Improve logging and health endpoint metrics
