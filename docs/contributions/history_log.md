@@ -5110,3 +5110,4 @@
 - [2014-10-07T17:30:40] Improve logging and health endpoint metrics
 - [2014-10-07T14:44:55] Update schema migration helpers
 - [2014-10-07T21:40:25] Update automated pytest test suites
+- [2014-10-07T10:11:39] Improve ffmpeg streaming pipe buffer management
