@@ -5130,3 +5130,4 @@
 - [2014-10-08T09:11:12] Update schema migration helpers
 - [2014-10-08T10:09:09] Improve ffmpeg streaming pipe buffer management
 - [2014-10-08T16:08:12] Fix edge case in channel tab crawler
+- [2014-10-08T14:19:13] Update automated pytest test suites
