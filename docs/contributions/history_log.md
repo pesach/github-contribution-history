@@ -5122,3 +5122,4 @@
 - [2014-10-08T15:37:22] Improve ffmpeg streaming pipe buffer management
 - [2014-10-08T22:36:00] Improve ffmpeg streaming pipe buffer management
 - [2014-10-08T18:02:49] Refactor storage upload retry mechanism
+- [2014-10-08T18:51:22] Add error handling for yt-dlp rate limits
