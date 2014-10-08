@@ -5119,3 +5119,4 @@
 - [2014-10-07T15:00:37] Refactor worker polling logic
 - [2014-10-07T12:26:14] Implement streaming upload chunk buffer optimization
 - [2014-10-08T11:52:42] Add retries for transient network drops
+- [2014-10-08T15:37:22] Improve ffmpeg streaming pipe buffer management
