@@ -5121,3 +5121,4 @@
 - [2014-10-08T11:52:42] Add retries for transient network drops
 - [2014-10-08T15:37:22] Improve ffmpeg streaming pipe buffer management
 - [2014-10-08T22:36:00] Improve ffmpeg streaming pipe buffer management
+- [2014-10-08T18:02:49] Refactor storage upload retry mechanism
