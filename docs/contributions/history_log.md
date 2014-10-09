@@ -5143,3 +5143,4 @@
 - [2014-10-09T19:00:44] Refactor cookie refresher probe logic
 - [2014-10-09T14:57:31] Optimize PostgreSQL query execution plans
 - [2014-10-09T11:07:52] Update automated pytest test suites
+- [2014-10-09T13:05:21] Fix edge case in URL parsing and validation
