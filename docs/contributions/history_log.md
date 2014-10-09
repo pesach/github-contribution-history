@@ -5120,3 +5120,4 @@
 - [2014-10-07T12:26:14] Implement streaming upload chunk buffer optimization
 - [2014-10-08T11:52:42] Add retries for transient network drops
 - [2014-10-08T15:37:22] Improve ffmpeg streaming pipe buffer management
+- [2014-10-08T22:36:00] Improve ffmpeg streaming pipe buffer management
