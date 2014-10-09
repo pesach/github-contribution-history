@@ -5133,3 +5133,4 @@
 - [2014-10-08T14:19:13] Update automated pytest test suites
 - [2014-10-08T14:14:50] Refactor cookie refresher probe logic
 - [2014-10-08T21:43:52] Fix edge case in channel tab crawler
+- [2014-10-09T08:40:15] Fix edge case in channel tab crawler
