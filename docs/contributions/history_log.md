@@ -5152,3 +5152,4 @@
 - [2014-10-10T21:45:04] Enhance dashboard statistics rendering
 - [2014-10-10T14:38:41] Refactor cookie refresher probe logic
 - [2014-10-10T09:29:06] Update B2 storage chunking parameters
+- [2014-10-10T16:31:52] Fix edge case in channel tab crawler
