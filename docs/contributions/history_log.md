@@ -5154,3 +5154,4 @@
 - [2014-10-10T09:29:06] Update B2 storage chunking parameters
 - [2014-10-10T16:31:52] Fix edge case in channel tab crawler
 - [2014-10-10T08:25:58] Add Prometheus exporter endpoints for queue length
+- [2014-10-10T17:48:44] Refactor worker polling logic
