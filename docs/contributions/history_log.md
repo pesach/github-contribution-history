@@ -5164,3 +5164,4 @@
 - [2014-10-12T20:55:40] Refactor storage upload retry mechanism
 - [2014-10-14T08:45:58] Refactor storage upload retry mechanism
 - [2014-10-14T21:14:50] Update dependency lockfiles and requirements
+- [2014-10-14T15:46:54] Add error handling for yt-dlp rate limits
