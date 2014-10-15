@@ -5163,3 +5163,4 @@
 - [2014-10-12T17:48:24] Update documentation and architectural guides
 - [2014-10-12T20:55:40] Refactor storage upload retry mechanism
 - [2014-10-14T08:45:58] Refactor storage upload retry mechanism
+- [2014-10-14T21:14:50] Update dependency lockfiles and requirements
