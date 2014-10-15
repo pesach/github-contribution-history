@@ -5169,3 +5169,4 @@
 - [2014-10-14T15:25:50] Clean up legacy worker task routines
 - [2014-10-14T19:37:18] Fix edge case in channel tab crawler
 - [2014-10-14T08:50:49] Refactor cookie refresher probe logic
+- [2014-10-14T22:25:48] Fix edge case in channel tab crawler
