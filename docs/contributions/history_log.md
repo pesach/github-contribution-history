@@ -5178,3 +5178,4 @@
 - [2014-10-15T09:34:20] Update B2 storage chunking parameters
 - [2014-10-15T16:42:52] Add error handling for yt-dlp rate limits
 - [2014-10-15T08:34:10] Refactor worker polling logic
+- [2014-10-15T15:37:34] Add Prometheus exporter endpoints for queue length
