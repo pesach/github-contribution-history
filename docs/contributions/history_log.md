@@ -5189,3 +5189,4 @@
 - [2014-10-16T09:39:03] Fix edge case in URL parsing and validation
 - [2014-10-16T08:49:11] Update B2 storage chunking parameters
 - [2014-10-16T13:32:26] Enhance dashboard statistics rendering
+- [2014-10-16T17:09:55] Add retries for transient network drops
