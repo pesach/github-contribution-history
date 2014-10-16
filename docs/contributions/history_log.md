@@ -5187,3 +5187,4 @@
 - [2014-10-16T14:51:47] Improve ffmpeg streaming pipe buffer management
 - [2014-10-16T19:44:42] Add retries for transient network drops
 - [2014-10-16T09:39:03] Fix edge case in URL parsing and validation
+- [2014-10-16T08:49:11] Update B2 storage chunking parameters
