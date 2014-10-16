@@ -5192,3 +5192,4 @@
 - [2014-10-16T17:09:55] Add retries for transient network drops
 - [2014-10-16T09:07:12] Refactor cookie refresher probe logic
 - [2014-10-16T14:21:10] Add Prometheus exporter endpoints for queue length
+- [2014-10-16T12:00:53] Update B2 storage chunking parameters
