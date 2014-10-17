@@ -5200,3 +5200,4 @@
 - [2014-10-17T16:03:55] Update schema migration helpers
 - [2014-10-17T17:51:09] Clean up legacy worker task routines
 - [2014-10-17T10:48:47] Update dependency lockfiles and requirements
+- [2014-10-17T08:48:33] Fix edge case in channel tab crawler
