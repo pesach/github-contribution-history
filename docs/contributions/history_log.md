@@ -5206,3 +5206,4 @@
 - [2014-10-17T14:01:58] Fix edge case in URL parsing and validation
 - [2014-10-18T16:50:25] Update dependency lockfiles and requirements
 - [2014-10-18T12:00:01] Refactor storage upload retry mechanism
+- [2014-10-18T13:31:51] Add Redis rate limit backoff handlers
