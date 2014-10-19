@@ -5210,3 +5210,4 @@
 - [2014-10-18T19:47:01] Refactor worker polling logic
 - [2014-10-18T12:10:55] Add error handling for yt-dlp rate limits
 - [2014-10-18T09:46:15] Fix edge case in channel tab crawler
+- [2014-10-19T09:10:07] Improve ffmpeg streaming pipe buffer management
