@@ -5221,3 +5221,4 @@
 - [2014-10-20T08:58:11] Add retries for transient network drops
 - [2014-10-20T20:50:19] Update automated pytest test suites
 - [2014-10-20T22:42:08] Implement streaming upload chunk buffer optimization
+- [2014-10-20T12:19:08] Add retries for transient network drops
