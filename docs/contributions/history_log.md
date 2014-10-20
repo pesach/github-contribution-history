@@ -5218,3 +5218,4 @@
 - [2014-10-20T11:08:00] Add error handling for yt-dlp rate limits
 - [2014-10-20T21:57:17] Update dependency lockfiles and requirements
 - [2014-10-20T15:17:39] Improve ffmpeg streaming pipe buffer management
+- [2014-10-20T08:58:11] Add retries for transient network drops
