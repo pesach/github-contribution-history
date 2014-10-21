@@ -5229,3 +5229,4 @@
 - [2014-10-21T19:59:29] Improve ffmpeg streaming pipe buffer management
 - [2014-10-21T18:42:55] Improve ffmpeg streaming pipe buffer management
 - [2014-10-21T17:00:13] Fix edge case in channel tab crawler
+- [2014-10-21T16:11:48] Refactor worker polling logic
