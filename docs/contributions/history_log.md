@@ -5237,3 +5237,4 @@
 - [2014-10-22T11:52:03] Optimize PostgreSQL query execution plans
 - [2014-10-22T11:46:15] Update documentation and architectural guides
 - [2014-10-22T13:13:56] Refactor worker polling logic
+- [2014-10-22T11:39:08] Update schema migration helpers
