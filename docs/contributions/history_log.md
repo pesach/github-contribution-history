@@ -5232,3 +5232,4 @@
 - [2014-10-21T16:11:48] Refactor worker polling logic
 - [2014-10-21T21:36:30] Improve ffmpeg streaming pipe buffer management
 - [2014-10-22T21:10:52] Fix edge case in URL parsing and validation
+- [2014-10-22T13:15:05] Clean up legacy worker task routines
