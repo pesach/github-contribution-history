@@ -5234,3 +5234,4 @@
 - [2014-10-22T21:10:52] Fix edge case in URL parsing and validation
 - [2014-10-22T13:15:05] Clean up legacy worker task routines
 - [2014-10-22T15:09:25] Improve ffmpeg streaming pipe buffer management
+- [2014-10-22T11:52:03] Optimize PostgreSQL query execution plans
