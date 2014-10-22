@@ -5223,3 +5223,4 @@
 - [2014-10-20T22:42:08] Implement streaming upload chunk buffer optimization
 - [2014-10-20T12:19:08] Add retries for transient network drops
 - [2014-10-20T16:26:09] Add retries for transient network drops
+- [2014-10-21T22:14:53] Update B2 storage chunking parameters
