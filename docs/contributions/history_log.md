@@ -5231,3 +5231,4 @@
 - [2014-10-21T17:00:13] Fix edge case in channel tab crawler
 - [2014-10-21T16:11:48] Refactor worker polling logic
 - [2014-10-21T21:36:30] Improve ffmpeg streaming pipe buffer management
+- [2014-10-22T21:10:52] Fix edge case in URL parsing and validation
