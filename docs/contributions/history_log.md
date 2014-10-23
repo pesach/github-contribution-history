@@ -5242,3 +5242,4 @@
 - [2014-10-23T12:48:29] Update automated pytest test suites
 - [2014-10-23T11:48:33] Update B2 storage chunking parameters
 - [2014-10-23T09:41:25] Enhance dashboard statistics rendering
+- [2014-10-23T19:41:53] Refactor cookie refresher probe logic
