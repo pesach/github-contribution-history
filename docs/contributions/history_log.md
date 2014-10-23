@@ -5248,3 +5248,4 @@
 - [2014-10-23T22:24:28] Refactor worker polling logic
 - [2014-10-23T15:49:21] Add error handling for yt-dlp rate limits
 - [2014-10-23T19:14:33] Refactor cookie refresher probe logic
+- [2014-10-23T10:15:28] Clean up legacy worker task routines
