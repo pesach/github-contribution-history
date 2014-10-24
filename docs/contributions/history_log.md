@@ -5254,3 +5254,4 @@
 - [2014-10-24T09:14:49] Refactor worker polling logic
 - [2014-10-24T15:34:59] Update automated pytest test suites
 - [2014-10-24T19:27:48] Add retries for transient network drops
+- [2014-10-24T11:36:11] Refactor storage upload retry mechanism
