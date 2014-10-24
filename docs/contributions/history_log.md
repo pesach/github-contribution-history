@@ -5260,3 +5260,4 @@
 - [2014-10-24T08:51:11] Refactor storage upload retry mechanism
 - [2014-10-24T08:37:45] Add Redis rate limit backoff handlers
 - [2014-10-24T08:29:49] Update dependency lockfiles and requirements
+- [2014-10-24T14:35:04] Add Redis rate limit backoff handlers
