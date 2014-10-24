@@ -5257,3 +5257,4 @@
 - [2014-10-24T11:36:11] Refactor storage upload retry mechanism
 - [2014-10-24T09:31:36] Clean up legacy worker task routines
 - [2014-10-24T17:22:28] Improve ffmpeg streaming pipe buffer management
+- [2014-10-24T08:51:11] Refactor storage upload retry mechanism
