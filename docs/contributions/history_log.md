@@ -5256,3 +5256,4 @@
 - [2014-10-24T19:27:48] Add retries for transient network drops
 - [2014-10-24T11:36:11] Refactor storage upload retry mechanism
 - [2014-10-24T09:31:36] Clean up legacy worker task routines
+- [2014-10-24T17:22:28] Improve ffmpeg streaming pipe buffer management
