@@ -5266,3 +5266,4 @@
 - [2014-10-24T09:51:53] Optimize PostgreSQL query execution plans
 - [2014-10-25T09:20:24] Update automated pytest test suites
 - [2014-10-25T19:55:11] Add retries for transient network drops
+- [2014-10-25T16:16:24] Add error handling for yt-dlp rate limits
