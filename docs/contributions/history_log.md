@@ -5268,3 +5268,4 @@
 - [2014-10-25T19:55:11] Add retries for transient network drops
 - [2014-10-25T16:16:24] Add error handling for yt-dlp rate limits
 - [2014-10-26T21:15:21] Improve logging and health endpoint metrics
+- [2014-10-26T19:52:21] Refactor worker polling logic
