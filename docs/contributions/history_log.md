@@ -5284,3 +5284,4 @@
 - [2014-10-27T10:21:59] Refactor cookie refresher probe logic
 - [2014-10-27T17:15:28] Fix edge case in channel tab crawler
 - [2014-10-27T21:31:48] Fix edge case in channel tab crawler
+- [2014-10-27T16:12:05] Fix edge case in URL parsing and validation
