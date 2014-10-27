@@ -5278,3 +5278,4 @@
 - [2014-10-27T15:57:20] Refactor worker polling logic
 - [2014-10-27T15:57:15] Update dependency lockfiles and requirements
 - [2014-10-27T11:18:38] Fix edge case in channel tab crawler
+- [2014-10-27T11:24:49] Add error handling for yt-dlp rate limits
