@@ -5298,3 +5298,4 @@
 - [2014-10-28T16:26:41] Update documentation and architectural guides
 - [2014-10-28T16:51:10] Add error handling for yt-dlp rate limits
 - [2014-10-28T10:31:22] Enhance dashboard statistics rendering
+- [2014-10-28T12:40:43] Refactor worker polling logic
