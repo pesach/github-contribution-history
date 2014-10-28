@@ -5290,3 +5290,4 @@
 - [2014-10-28T13:58:39] Add Prometheus exporter endpoints for queue length
 - [2014-10-28T14:28:13] Add Redis rate limit backoff handlers
 - [2014-10-28T21:40:40] Clean up legacy worker task routines
+- [2014-10-28T15:46:34] Refactor storage upload retry mechanism
