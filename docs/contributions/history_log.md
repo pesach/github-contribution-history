@@ -5286,3 +5286,4 @@
 - [2014-10-27T21:31:48] Fix edge case in channel tab crawler
 - [2014-10-27T16:12:05] Fix edge case in URL parsing and validation
 - [2014-10-28T18:14:55] Add Prometheus exporter endpoints for queue length
+- [2014-10-28T11:12:22] Update documentation and architectural guides
