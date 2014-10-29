@@ -5300,3 +5300,4 @@
 - [2014-10-28T10:31:22] Enhance dashboard statistics rendering
 - [2014-10-28T12:40:43] Refactor worker polling logic
 - [2014-10-28T08:12:01] Refactor storage upload retry mechanism
+- [2014-10-29T13:45:01] Refactor storage upload retry mechanism
