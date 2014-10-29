@@ -5305,3 +5305,4 @@
 - [2014-10-29T08:45:06] Add Redis rate limit backoff handlers
 - [2014-10-29T20:17:18] Update B2 storage chunking parameters
 - [2014-10-29T10:56:48] Update automated pytest test suites
+- [2014-10-29T17:41:20] Add Redis rate limit backoff handlers
