@@ -5307,3 +5307,4 @@
 - [2014-10-29T10:56:48] Update automated pytest test suites
 - [2014-10-29T17:41:20] Add Redis rate limit backoff handlers
 - [2014-10-29T19:51:29] Refactor cookie refresher probe logic
+- [2014-10-29T10:25:43] Update dependency lockfiles and requirements
