@@ -5319,3 +5319,4 @@
 - [2014-10-31T12:43:41] Update documentation and architectural guides
 - [2014-10-31T09:38:16] Add retries for transient network drops
 - [2014-10-31T12:11:51] Clean up legacy worker task routines
+- [2014-10-31T09:13:40] Fix edge case in URL parsing and validation
