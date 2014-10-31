@@ -5311,3 +5311,4 @@
 - [2014-10-29T10:33:23] Update automated pytest test suites
 - [2014-10-29T12:37:12] Add Prometheus exporter endpoints for queue length
 - [2014-10-31T11:25:52] Fix edge case in channel tab crawler
+- [2014-10-31T11:02:20] Refactor cookie refresher probe logic
