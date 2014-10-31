@@ -5318,3 +5318,4 @@
 - [2014-10-31T20:19:21] Optimize PostgreSQL query execution plans
 - [2014-10-31T12:43:41] Update documentation and architectural guides
 - [2014-10-31T09:38:16] Add retries for transient network drops
+- [2014-10-31T12:11:51] Clean up legacy worker task routines
