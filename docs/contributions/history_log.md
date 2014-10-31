@@ -5313,3 +5313,4 @@
 - [2014-10-31T11:25:52] Fix edge case in channel tab crawler
 - [2014-10-31T11:02:20] Refactor cookie refresher probe logic
 - [2014-10-31T20:33:10] Update B2 storage chunking parameters
+- [2014-10-31T09:49:18] Add retries for transient network drops
