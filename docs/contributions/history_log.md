@@ -5321,3 +5321,4 @@
 - [2014-10-31T12:11:51] Clean up legacy worker task routines
 - [2014-10-31T09:13:40] Fix edge case in URL parsing and validation
 - [2014-10-31T19:09:37] Add retries for transient network drops
+- [2014-11-01T16:48:33] Clean up legacy worker task routines
