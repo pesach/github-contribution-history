@@ -5329,3 +5329,4 @@
 - [2014-11-02T22:16:34] Improve logging and health endpoint metrics
 - [2014-11-02T17:57:03] Add retries for transient network drops
 - [2014-11-02T09:56:30] Add Prometheus exporter endpoints for queue length
+- [2014-11-02T17:50:06] Optimize PostgreSQL query execution plans
