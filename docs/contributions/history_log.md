@@ -5326,3 +5326,4 @@
 - [2014-11-01T12:17:38] Add error handling for yt-dlp rate limits
 - [2014-11-01T10:55:47] Update schema migration helpers
 - [2014-11-01T14:00:47] Add retries for transient network drops
+- [2014-11-02T22:16:34] Improve logging and health endpoint metrics
