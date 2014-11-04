@@ -5337,3 +5337,4 @@
 - [2014-11-03T18:49:11] Improve ffmpeg streaming pipe buffer management
 - [2014-11-03T09:59:28] Enhance dashboard statistics rendering
 - [2014-11-03T11:16:03] Improve logging and health endpoint metrics
+- [2014-11-04T16:59:33] Clean up legacy worker task routines
