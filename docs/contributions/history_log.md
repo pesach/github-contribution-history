@@ -5345,3 +5345,4 @@
 - [2014-11-04T14:43:18] Update B2 storage chunking parameters
 - [2014-11-04T09:49:30] Add Prometheus exporter endpoints for queue length
 - [2014-11-04T15:20:21] Update dependency lockfiles and requirements
+- [2014-11-04T13:14:28] Add Redis rate limit backoff handlers
