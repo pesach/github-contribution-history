@@ -5362,3 +5362,4 @@
 - [2014-11-05T19:49:15] Refactor storage upload retry mechanism
 - [2014-11-06T16:48:24] Refactor storage upload retry mechanism
 - [2014-11-06T18:59:02] Refactor storage upload retry mechanism
+- [2014-11-06T08:32:43] Refactor worker polling logic
