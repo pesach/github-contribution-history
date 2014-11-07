@@ -5382,3 +5382,4 @@
 - [2014-11-07T19:19:50] Add error handling for yt-dlp rate limits
 - [2014-11-07T09:44:01] Clean up legacy worker task routines
 - [2014-11-07T18:17:08] Add Redis rate limit backoff handlers
+- [2014-11-07T10:29:53] Refactor storage upload retry mechanism
