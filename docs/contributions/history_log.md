@@ -5379,3 +5379,4 @@
 - [2014-11-07T19:38:35] Fix edge case in URL parsing and validation
 - [2014-11-07T20:56:30] Optimize PostgreSQL query execution plans
 - [2014-11-07T20:09:15] Improve logging and health endpoint metrics
+- [2014-11-07T19:19:50] Add error handling for yt-dlp rate limits
