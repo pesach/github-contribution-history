@@ -5388,3 +5388,4 @@
 - [2014-11-07T14:44:38] Improve logging and health endpoint metrics
 - [2014-11-07T22:47:54] Refactor cookie refresher probe logic
 - [2014-11-07T12:08:09] Update B2 storage chunking parameters
+- [2014-11-09T13:44:05] Refactor worker polling logic
