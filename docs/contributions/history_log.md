@@ -5402,3 +5402,4 @@
 - [2014-11-11T20:17:07] Add retries for transient network drops
 - [2014-11-11T22:31:10] Update schema migration helpers
 - [2014-11-11T21:34:15] Improve logging and health endpoint metrics
+- [2014-11-11T11:08:35] Clean up legacy worker task routines
