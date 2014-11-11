@@ -5397,3 +5397,4 @@
 - [2014-11-11T13:07:22] Add Prometheus exporter endpoints for queue length
 - [2014-11-11T08:18:41] Fix edge case in channel tab crawler
 - [2014-11-11T08:37:26] Refactor storage upload retry mechanism
+- [2014-11-11T09:58:13] Add Prometheus exporter endpoints for queue length
