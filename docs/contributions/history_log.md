@@ -5399,3 +5399,4 @@
 - [2014-11-11T08:37:26] Refactor storage upload retry mechanism
 - [2014-11-11T09:58:13] Add Prometheus exporter endpoints for queue length
 - [2014-11-11T08:28:10] Fix edge case in URL parsing and validation
+- [2014-11-11T20:17:07] Add retries for transient network drops
