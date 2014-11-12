@@ -5391,3 +5391,4 @@
 - [2014-11-09T13:44:05] Refactor worker polling logic
 - [2014-11-09T08:11:56] Update B2 storage chunking parameters
 - [2014-11-09T10:36:55] Refactor storage upload retry mechanism
+- [2014-11-11T19:34:02] Add Prometheus exporter endpoints for queue length
