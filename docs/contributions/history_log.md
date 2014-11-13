@@ -5415,3 +5415,4 @@
 - [2014-11-13T20:44:45] Implement streaming upload chunk buffer optimization
 - [2014-11-13T19:40:50] Update schema migration helpers
 - [2014-11-13T15:35:44] Update dependency lockfiles and requirements
+- [2014-11-13T14:32:33] Add error handling for yt-dlp rate limits
