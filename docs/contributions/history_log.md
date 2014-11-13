@@ -5410,3 +5410,4 @@
 - [2014-11-13T14:21:14] Update B2 storage chunking parameters
 - [2014-11-13T22:43:11] Refactor cookie refresher probe logic
 - [2014-11-13T20:36:25] Update automated pytest test suites
+- [2014-11-13T13:59:33] Add Prometheus exporter endpoints for queue length
