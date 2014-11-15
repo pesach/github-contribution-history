@@ -5417,3 +5417,4 @@
 - [2014-11-13T15:35:44] Update dependency lockfiles and requirements
 - [2014-11-13T14:32:33] Add error handling for yt-dlp rate limits
 - [2014-11-14T08:03:25] Add retries for transient network drops
+- [2014-11-14T20:16:31] Add Prometheus exporter endpoints for queue length
