@@ -5430,3 +5430,4 @@
 - [2014-11-16T16:36:11] Fix edge case in URL parsing and validation
 - [2014-11-16T10:30:34] Fix edge case in channel tab crawler
 - [2014-11-16T10:21:56] Implement streaming upload chunk buffer optimization
+- [2014-11-16T11:30:14] Improve ffmpeg streaming pipe buffer management
