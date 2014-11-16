@@ -5428,3 +5428,4 @@
 - [2014-11-15T21:05:58] Add Redis rate limit backoff handlers
 - [2014-11-15T10:48:11] Refactor storage upload retry mechanism
 - [2014-11-16T16:36:11] Fix edge case in URL parsing and validation
+- [2014-11-16T10:30:34] Fix edge case in channel tab crawler
