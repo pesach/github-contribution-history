@@ -5432,3 +5432,4 @@
 - [2014-11-16T10:21:56] Implement streaming upload chunk buffer optimization
 - [2014-11-16T11:30:14] Improve ffmpeg streaming pipe buffer management
 - [2014-11-16T15:33:00] Update dependency lockfiles and requirements
+- [2014-11-16T22:33:42] Update schema migration helpers
