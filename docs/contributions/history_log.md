@@ -5434,3 +5434,4 @@
 - [2014-11-16T15:33:00] Update dependency lockfiles and requirements
 - [2014-11-16T22:33:42] Update schema migration helpers
 - [2014-11-19T13:10:39] Add retries for transient network drops
+- [2014-11-19T10:28:22] Update documentation and architectural guides
