@@ -5433,3 +5433,4 @@
 - [2014-11-16T11:30:14] Improve ffmpeg streaming pipe buffer management
 - [2014-11-16T15:33:00] Update dependency lockfiles and requirements
 - [2014-11-16T22:33:42] Update schema migration helpers
+- [2014-11-19T13:10:39] Add retries for transient network drops
