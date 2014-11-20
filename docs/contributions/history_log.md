@@ -5447,3 +5447,4 @@
 - [2014-11-20T12:22:21] Clean up legacy worker task routines
 - [2014-11-20T13:50:46] Update schema migration helpers
 - [2014-11-20T19:36:34] Fix edge case in channel tab crawler
+- [2014-11-20T17:51:40] Refactor storage upload retry mechanism
