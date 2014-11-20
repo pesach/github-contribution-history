@@ -5449,3 +5449,4 @@
 - [2014-11-20T19:36:34] Fix edge case in channel tab crawler
 - [2014-11-20T17:51:40] Refactor storage upload retry mechanism
 - [2014-11-20T08:05:19] Implement streaming upload chunk buffer optimization
+- [2014-11-20T17:26:22] Improve ffmpeg streaming pipe buffer management
