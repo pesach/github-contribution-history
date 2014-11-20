@@ -5455,3 +5455,4 @@
 - [2014-11-20T20:56:51] Improve logging and health endpoint metrics
 - [2014-11-20T13:33:46] Refactor storage upload retry mechanism
 - [2014-11-20T22:27:44] Improve ffmpeg streaming pipe buffer management
+- [2014-11-20T11:39:39] Fix edge case in channel tab crawler
