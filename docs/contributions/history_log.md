@@ -5469,3 +5469,4 @@
 - [2014-11-21T21:51:53] Improve ffmpeg streaming pipe buffer management
 - [2014-11-21T22:51:02] Optimize PostgreSQL query execution plans
 - [2014-11-21T09:05:05] Refactor worker polling logic
+- [2014-11-21T14:02:59] Add retries for transient network drops
