@@ -5464,3 +5464,4 @@
 - [2014-11-21T21:02:55] Update schema migration helpers
 - [2014-11-21T16:56:34] Update B2 storage chunking parameters
 - [2014-11-21T09:16:32] Add Prometheus exporter endpoints for queue length
+- [2014-11-21T08:53:23] Clean up legacy worker task routines
