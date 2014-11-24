@@ -5470,3 +5470,4 @@
 - [2014-11-21T22:51:02] Optimize PostgreSQL query execution plans
 - [2014-11-21T09:05:05] Refactor worker polling logic
 - [2014-11-21T14:02:59] Add retries for transient network drops
+- [2014-11-24T10:23:48] Add Prometheus exporter endpoints for queue length
