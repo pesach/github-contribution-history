@@ -5476,3 +5476,4 @@
 - [2014-11-24T12:12:54] Fix edge case in channel tab crawler
 - [2014-11-24T21:33:33] Update automated pytest test suites
 - [2014-11-24T20:28:39] Enhance dashboard statistics rendering
+- [2014-11-24T14:02:31] Clean up legacy worker task routines
