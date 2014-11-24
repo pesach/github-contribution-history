@@ -5473,3 +5473,4 @@
 - [2014-11-24T10:23:48] Add Prometheus exporter endpoints for queue length
 - [2014-11-24T12:24:02] Refactor cookie refresher probe logic
 - [2014-11-24T21:58:13] Refactor storage upload retry mechanism
+- [2014-11-24T12:12:54] Fix edge case in channel tab crawler
