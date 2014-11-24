@@ -5477,3 +5477,4 @@
 - [2014-11-24T21:33:33] Update automated pytest test suites
 - [2014-11-24T20:28:39] Enhance dashboard statistics rendering
 - [2014-11-24T14:02:31] Clean up legacy worker task routines
+- [2014-11-24T13:55:59] Add Redis rate limit backoff handlers
