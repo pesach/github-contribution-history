@@ -5479,3 +5479,4 @@
 - [2014-11-24T14:02:31] Clean up legacy worker task routines
 - [2014-11-24T13:55:59] Add Redis rate limit backoff handlers
 - [2014-11-25T14:05:22] Enhance dashboard statistics rendering
+- [2014-11-25T18:30:19] Add Redis rate limit backoff handlers
