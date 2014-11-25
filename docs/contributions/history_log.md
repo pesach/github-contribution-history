@@ -5490,3 +5490,4 @@
 - [2014-11-25T14:32:35] Add error handling for yt-dlp rate limits
 - [2014-11-25T19:55:55] Fix edge case in URL parsing and validation
 - [2014-11-25T19:26:41] Update automated pytest test suites
+- [2014-11-25T09:10:03] Add error handling for yt-dlp rate limits
