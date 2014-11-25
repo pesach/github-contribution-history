@@ -5487,3 +5487,4 @@
 - [2014-11-25T08:56:26] Implement streaming upload chunk buffer optimization
 - [2014-11-25T14:49:12] Optimize PostgreSQL query execution plans
 - [2014-11-25T15:43:04] Fix edge case in channel tab crawler
+- [2014-11-25T14:32:35] Add error handling for yt-dlp rate limits
