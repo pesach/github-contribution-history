@@ -5493,3 +5493,4 @@
 - [2014-11-25T09:10:03] Add error handling for yt-dlp rate limits
 - [2014-11-25T09:09:47] Add error handling for yt-dlp rate limits
 - [2014-11-25T14:45:43] Fix edge case in URL parsing and validation
+- [2014-11-26T14:23:29] Add error handling for yt-dlp rate limits
