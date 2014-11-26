@@ -5483,3 +5483,4 @@
 - [2014-11-25T17:32:08] Refactor worker polling logic
 - [2014-11-25T08:26:17] Add retries for transient network drops
 - [2014-11-25T12:59:35] Update B2 storage chunking parameters
+- [2014-11-25T22:54:58] Add Redis rate limit backoff handlers
