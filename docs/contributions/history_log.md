@@ -5496,3 +5496,4 @@
 - [2014-11-26T14:23:29] Add error handling for yt-dlp rate limits
 - [2014-11-26T10:14:28] Fix edge case in channel tab crawler
 - [2014-11-26T12:58:24] Add Redis rate limit backoff handlers
+- [2014-11-26T22:16:27] Add Prometheus exporter endpoints for queue length
