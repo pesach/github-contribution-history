@@ -5516,3 +5516,4 @@
 - [2014-11-27T14:45:50] Update B2 storage chunking parameters
 - [2014-11-27T18:24:10] Optimize PostgreSQL query execution plans
 - [2014-11-27T17:10:19] Refactor cookie refresher probe logic
+- [2014-11-27T20:08:35] Clean up legacy worker task routines
