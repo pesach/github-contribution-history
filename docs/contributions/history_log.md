@@ -5511,3 +5511,4 @@
 - [2014-11-27T22:41:14] Add Redis rate limit backoff handlers
 - [2014-11-27T12:09:47] Refactor worker polling logic
 - [2014-11-27T08:29:54] Add Prometheus exporter endpoints for queue length
+- [2014-11-27T22:43:29] Fix edge case in URL parsing and validation
