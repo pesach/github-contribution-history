@@ -5525,3 +5525,4 @@
 - [2014-11-28T09:03:05] Optimize PostgreSQL query execution plans
 - [2014-11-28T09:50:10] Add retries for transient network drops
 - [2014-11-28T15:41:10] Update dependency lockfiles and requirements
+- [2014-11-28T12:36:31] Update B2 storage chunking parameters
