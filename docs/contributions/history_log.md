@@ -5534,3 +5534,4 @@
 - [2014-11-28T20:06:05] Refactor worker polling logic
 - [2014-11-28T22:59:44] Update B2 storage chunking parameters
 - [2014-11-29T12:19:10] Update automated pytest test suites
+- [2014-11-29T13:15:30] Implement streaming upload chunk buffer optimization
