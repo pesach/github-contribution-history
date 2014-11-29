@@ -5527,3 +5527,4 @@
 - [2014-11-28T15:41:10] Update dependency lockfiles and requirements
 - [2014-11-28T12:36:31] Update B2 storage chunking parameters
 - [2014-11-28T12:00:49] Enhance dashboard statistics rendering
+- [2014-11-28T22:37:44] Add retries for transient network drops
