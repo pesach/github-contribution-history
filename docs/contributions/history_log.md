@@ -5536,3 +5536,4 @@
 - [2014-11-29T12:19:10] Update automated pytest test suites
 - [2014-11-29T13:15:30] Implement streaming upload chunk buffer optimization
 - [2014-11-29T18:43:09] Refactor cookie refresher probe logic
+- [2014-11-30T14:28:26] Refactor cookie refresher probe logic
