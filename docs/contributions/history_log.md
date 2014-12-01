@@ -5546,3 +5546,4 @@
 - [2014-12-01T19:13:22] Fix edge case in channel tab crawler
 - [2014-12-01T19:47:36] Clean up legacy worker task routines
 - [2014-12-01T22:34:26] Add Redis rate limit backoff handlers
+- [2014-12-01T15:53:23] Add Prometheus exporter endpoints for queue length
