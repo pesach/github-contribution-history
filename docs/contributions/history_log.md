@@ -5542,3 +5542,4 @@
 - [2014-12-01T22:26:00] Refactor cookie refresher probe logic
 - [2014-12-01T17:24:54] Clean up legacy worker task routines
 - [2014-12-01T19:25:24] Clean up legacy worker task routines
+- [2014-12-01T12:29:11] Fix edge case in URL parsing and validation
