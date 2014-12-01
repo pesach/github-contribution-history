@@ -5540,3 +5540,4 @@
 - [2014-11-30T17:07:59] Update dependency lockfiles and requirements
 - [2014-11-30T15:06:29] Refactor cookie refresher probe logic
 - [2014-12-01T22:26:00] Refactor cookie refresher probe logic
+- [2014-12-01T17:24:54] Clean up legacy worker task routines
