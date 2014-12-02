@@ -5544,3 +5544,4 @@
 - [2014-12-01T19:25:24] Clean up legacy worker task routines
 - [2014-12-01T12:29:11] Fix edge case in URL parsing and validation
 - [2014-12-01T19:13:22] Fix edge case in channel tab crawler
+- [2014-12-01T19:47:36] Clean up legacy worker task routines
