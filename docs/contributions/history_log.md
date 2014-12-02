@@ -5555,3 +5555,4 @@
 - [2014-12-02T17:08:39] Optimize PostgreSQL query execution plans
 - [2014-12-02T09:44:27] Add Redis rate limit backoff handlers
 - [2014-12-02T14:10:06] Add Prometheus exporter endpoints for queue length
+- [2014-12-02T11:48:02] Clean up legacy worker task routines
