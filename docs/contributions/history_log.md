@@ -5549,3 +5549,4 @@
 - [2014-12-01T15:53:23] Add Prometheus exporter endpoints for queue length
 - [2014-12-02T15:15:05] Refactor cookie refresher probe logic
 - [2014-12-02T16:08:00] Optimize PostgreSQL query execution plans
+- [2014-12-02T15:24:27] Add error handling for yt-dlp rate limits
