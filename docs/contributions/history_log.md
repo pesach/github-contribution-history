@@ -5566,3 +5566,4 @@
 - [2014-12-03T19:20:18] Improve logging and health endpoint metrics
 - [2014-12-03T22:54:22] Clean up legacy worker task routines
 - [2014-12-03T20:00:38] Add error handling for yt-dlp rate limits
+- [2014-12-03T15:58:03] Add Prometheus exporter endpoints for queue length
