@@ -5564,3 +5564,4 @@
 - [2014-12-03T19:59:44] Fix edge case in URL parsing and validation
 - [2014-12-03T11:29:24] Implement streaming upload chunk buffer optimization
 - [2014-12-03T19:20:18] Improve logging and health endpoint metrics
+- [2014-12-03T22:54:22] Clean up legacy worker task routines
