@@ -5561,3 +5561,4 @@
 - [2014-12-02T08:57:41] Update B2 storage chunking parameters
 - [2014-12-02T10:03:59] Update B2 storage chunking parameters
 - [2014-12-02T17:53:15] Refactor storage upload retry mechanism
+- [2014-12-03T19:59:44] Fix edge case in URL parsing and validation
