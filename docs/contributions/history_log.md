@@ -5565,3 +5565,4 @@
 - [2014-12-03T11:29:24] Implement streaming upload chunk buffer optimization
 - [2014-12-03T19:20:18] Improve logging and health endpoint metrics
 - [2014-12-03T22:54:22] Clean up legacy worker task routines
+- [2014-12-03T20:00:38] Add error handling for yt-dlp rate limits
