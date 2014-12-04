@@ -5576,3 +5576,4 @@
 - [2014-12-03T17:19:59] Enhance dashboard statistics rendering
 - [2014-12-04T13:50:08] Improve logging and health endpoint metrics
 - [2014-12-04T14:28:41] Refactor storage upload retry mechanism
+- [2014-12-04T16:11:39] Refactor worker polling logic
