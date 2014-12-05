@@ -5592,3 +5592,4 @@
 - [2014-12-05T15:15:47] Update schema migration helpers
 - [2014-12-05T22:00:54] Improve logging and health endpoint metrics
 - [2014-12-05T20:02:17] Refactor worker polling logic
+- [2014-12-05T08:22:08] Update schema migration helpers
