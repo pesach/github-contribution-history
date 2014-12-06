@@ -5590,3 +5590,4 @@
 - [2014-12-05T11:08:10] Update documentation and architectural guides
 - [2014-12-05T18:12:11] Update B2 storage chunking parameters
 - [2014-12-05T15:15:47] Update schema migration helpers
+- [2014-12-05T22:00:54] Improve logging and health endpoint metrics
