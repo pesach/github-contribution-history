@@ -5594,3 +5594,4 @@
 - [2014-12-05T20:02:17] Refactor worker polling logic
 - [2014-12-05T08:22:08] Update schema migration helpers
 - [2014-12-05T21:58:01] Fix edge case in URL parsing and validation
+- [2014-12-05T20:01:08] Refactor worker polling logic
