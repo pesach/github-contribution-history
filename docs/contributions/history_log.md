@@ -5582,3 +5582,4 @@
 - [2014-12-04T08:34:52] Clean up legacy worker task routines
 - [2014-12-04T19:31:23] Update B2 storage chunking parameters
 - [2014-12-04T19:28:47] Clean up legacy worker task routines
+- [2014-12-05T20:56:17] Enhance dashboard statistics rendering
