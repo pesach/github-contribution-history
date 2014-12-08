@@ -5605,3 +5605,4 @@
 - [2014-12-08T08:25:08] Refactor cookie refresher probe logic
 - [2014-12-08T21:55:09] Add retries for transient network drops
 - [2014-12-08T21:33:37] Update automated pytest test suites
+- [2014-12-08T17:24:34] Refactor worker polling logic
