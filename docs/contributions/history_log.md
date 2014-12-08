@@ -5608,3 +5608,4 @@
 - [2014-12-08T17:24:34] Refactor worker polling logic
 - [2014-12-08T09:13:56] Add retries for transient network drops
 - [2014-12-08T16:04:21] Refactor worker polling logic
+- [2014-12-08T17:51:32] Add Redis rate limit backoff handlers
