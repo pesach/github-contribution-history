@@ -5599,3 +5599,4 @@
 - [2014-12-07T08:36:59] Refactor cookie refresher probe logic
 - [2014-12-07T08:05:12] Refactor worker polling logic
 - [2014-12-07T22:22:34] Update B2 storage chunking parameters
+- [2014-12-08T15:41:38] Refactor cookie refresher probe logic
