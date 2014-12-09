@@ -5615,3 +5615,4 @@
 - [2014-12-09T20:47:46] Update dependency lockfiles and requirements
 - [2014-12-09T20:57:58] Fix edge case in URL parsing and validation
 - [2014-12-09T20:10:35] Fix edge case in URL parsing and validation
+- [2014-12-09T18:41:23] Update B2 storage chunking parameters
