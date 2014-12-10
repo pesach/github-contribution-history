@@ -5620,3 +5620,4 @@
 - [2014-12-09T16:11:42] Update schema migration helpers
 - [2014-12-10T19:22:12] Refactor worker polling logic
 - [2014-12-10T14:30:54] Refactor storage upload retry mechanism
+- [2014-12-10T18:15:05] Add retries for transient network drops
