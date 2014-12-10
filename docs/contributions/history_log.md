@@ -5611,3 +5611,4 @@
 - [2014-12-08T17:51:32] Add Redis rate limit backoff handlers
 - [2014-12-08T12:11:40] Update dependency lockfiles and requirements
 - [2014-12-09T15:42:26] Clean up legacy worker task routines
+- [2014-12-09T22:01:35] Update documentation and architectural guides
