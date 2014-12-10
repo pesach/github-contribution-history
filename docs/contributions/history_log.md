@@ -5623,3 +5623,4 @@
 - [2014-12-10T18:15:05] Add retries for transient network drops
 - [2014-12-10T11:36:22] Implement streaming upload chunk buffer optimization
 - [2014-12-10T18:52:36] Implement streaming upload chunk buffer optimization
+- [2014-12-10T15:59:07] Refactor worker polling logic
