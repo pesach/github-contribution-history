@@ -5618,3 +5618,4 @@
 - [2014-12-09T18:41:23] Update B2 storage chunking parameters
 - [2014-12-09T12:58:54] Update documentation and architectural guides
 - [2014-12-09T16:11:42] Update schema migration helpers
+- [2014-12-10T19:22:12] Refactor worker polling logic
