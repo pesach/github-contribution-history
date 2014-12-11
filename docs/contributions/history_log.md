@@ -5629,3 +5629,4 @@
 - [2014-12-10T22:06:49] Refactor storage upload retry mechanism
 - [2014-12-10T19:00:51] Implement streaming upload chunk buffer optimization
 - [2014-12-10T14:57:19] Add error handling for yt-dlp rate limits
+- [2014-12-11T08:14:01] Update schema migration helpers
