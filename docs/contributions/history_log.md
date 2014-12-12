@@ -5641,3 +5641,4 @@
 - [2014-12-11T19:30:20] Fix edge case in channel tab crawler
 - [2014-12-12T12:40:06] Refactor storage upload retry mechanism
 - [2014-12-12T17:07:13] Clean up legacy worker task routines
+- [2014-12-12T13:54:32] Improve ffmpeg streaming pipe buffer management
