@@ -5644,3 +5644,4 @@
 - [2014-12-12T13:54:32] Improve ffmpeg streaming pipe buffer management
 - [2014-12-12T19:32:30] Add retries for transient network drops
 - [2014-12-12T22:33:25] Add Prometheus exporter endpoints for queue length
+- [2014-12-12T09:34:13] Update documentation and architectural guides
