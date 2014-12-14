@@ -5648,3 +5648,4 @@
 - [2014-12-14T18:56:40] Fix edge case in URL parsing and validation
 - [2014-12-14T10:50:12] Improve ffmpeg streaming pipe buffer management
 - [2014-12-14T16:09:15] Add retries for transient network drops
+- [2014-12-14T13:36:14] Fix edge case in channel tab crawler
