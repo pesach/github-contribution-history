@@ -5645,3 +5645,4 @@
 - [2014-12-12T19:32:30] Add retries for transient network drops
 - [2014-12-12T22:33:25] Add Prometheus exporter endpoints for queue length
 - [2014-12-12T09:34:13] Update documentation and architectural guides
+- [2014-12-14T18:56:40] Fix edge case in URL parsing and validation
