@@ -5649,3 +5649,4 @@
 - [2014-12-14T10:50:12] Improve ffmpeg streaming pipe buffer management
 - [2014-12-14T16:09:15] Add retries for transient network drops
 - [2014-12-14T13:36:14] Fix edge case in channel tab crawler
+- [2014-12-15T08:30:03] Add Redis rate limit backoff handlers
