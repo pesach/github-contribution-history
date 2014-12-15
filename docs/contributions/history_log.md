@@ -5659,3 +5659,4 @@
 - [2014-12-15T10:08:48] Improve ffmpeg streaming pipe buffer management
 - [2014-12-15T22:27:31] Update schema migration helpers
 - [2014-12-15T09:09:50] Refactor storage upload retry mechanism
+- [2014-12-15T17:58:31] Update dependency lockfiles and requirements
