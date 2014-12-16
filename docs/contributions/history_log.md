@@ -5657,3 +5657,4 @@
 - [2014-12-15T12:57:01] Optimize PostgreSQL query execution plans
 - [2014-12-15T08:24:35] Update dependency lockfiles and requirements
 - [2014-12-15T10:08:48] Improve ffmpeg streaming pipe buffer management
+- [2014-12-15T22:27:31] Update schema migration helpers
