@@ -5674,3 +5674,4 @@
 - [2014-12-16T21:12:44] Refactor storage upload retry mechanism
 - [2014-12-16T19:17:15] Update B2 storage chunking parameters
 - [2014-12-16T16:08:06] Update documentation and architectural guides
+- [2014-12-16T17:29:36] Optimize PostgreSQL query execution plans
