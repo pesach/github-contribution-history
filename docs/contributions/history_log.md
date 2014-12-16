@@ -5673,3 +5673,4 @@
 - [2014-12-16T11:05:42] Clean up legacy worker task routines
 - [2014-12-16T21:12:44] Refactor storage upload retry mechanism
 - [2014-12-16T19:17:15] Update B2 storage chunking parameters
+- [2014-12-16T16:08:06] Update documentation and architectural guides
