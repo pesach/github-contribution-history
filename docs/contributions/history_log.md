@@ -5661,3 +5661,4 @@
 - [2014-12-15T09:09:50] Refactor storage upload retry mechanism
 - [2014-12-15T17:58:31] Update dependency lockfiles and requirements
 - [2014-12-15T22:19:44] Improve ffmpeg streaming pipe buffer management
+- [2014-12-15T21:08:50] Refactor storage upload retry mechanism
