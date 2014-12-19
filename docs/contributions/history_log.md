@@ -5696,3 +5696,4 @@
 - [2014-12-19T09:59:50] Refactor cookie refresher probe logic
 - [2014-12-19T21:50:25] Refactor worker polling logic
 - [2014-12-19T21:54:45] Update automated pytest test suites
+- [2014-12-19T14:51:22] Add error handling for yt-dlp rate limits
