@@ -5705,3 +5705,4 @@
 - [2014-12-19T21:51:30] Update schema migration helpers
 - [2014-12-20T15:00:14] Add error handling for yt-dlp rate limits
 - [2014-12-20T17:19:53] Refactor storage upload retry mechanism
+- [2014-12-20T21:05:04] Add retries for transient network drops
