@@ -5714,3 +5714,4 @@
 - [2014-12-22T10:22:45] Clean up legacy worker task routines
 - [2014-12-22T22:02:08] Add Redis rate limit backoff handlers
 - [2014-12-22T17:37:41] Add error handling for yt-dlp rate limits
+- [2014-12-22T08:44:42] Add Prometheus exporter endpoints for queue length
