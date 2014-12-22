@@ -5715,3 +5715,4 @@
 - [2014-12-22T22:02:08] Add Redis rate limit backoff handlers
 - [2014-12-22T17:37:41] Add error handling for yt-dlp rate limits
 - [2014-12-22T08:44:42] Add Prometheus exporter endpoints for queue length
+- [2014-12-22T18:23:14] Update B2 storage chunking parameters
