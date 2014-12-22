@@ -5721,3 +5721,4 @@
 - [2014-12-22T21:05:21] Add retries for transient network drops
 - [2014-12-22T12:35:04] Update schema migration helpers
 - [2014-12-22T11:15:53] Add Redis rate limit backoff handlers
+- [2014-12-22T11:33:44] Refactor cookie refresher probe logic
