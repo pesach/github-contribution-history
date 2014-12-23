@@ -5729,3 +5729,4 @@
 - [2014-12-23T19:12:26] Implement streaming upload chunk buffer optimization
 - [2014-12-23T20:29:27] Improve ffmpeg streaming pipe buffer management
 - [2014-12-23T22:59:18] Update B2 storage chunking parameters
+- [2014-12-23T08:32:02] Fix edge case in channel tab crawler
