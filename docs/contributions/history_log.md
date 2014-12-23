@@ -5712,3 +5712,4 @@
 - [2014-12-22T14:57:10] Add retries for transient network drops
 - [2014-12-22T12:27:19] Update automated pytest test suites
 - [2014-12-22T10:22:45] Clean up legacy worker task routines
+- [2014-12-22T22:02:08] Add Redis rate limit backoff handlers
