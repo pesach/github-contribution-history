@@ -5728,3 +5728,4 @@
 - [2014-12-23T18:57:54] Add Redis rate limit backoff handlers
 - [2014-12-23T19:12:26] Implement streaming upload chunk buffer optimization
 - [2014-12-23T20:29:27] Improve ffmpeg streaming pipe buffer management
+- [2014-12-23T22:59:18] Update B2 storage chunking parameters
