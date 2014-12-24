@@ -5741,3 +5741,4 @@
 - [2014-12-24T13:08:59] Update automated pytest test suites
 - [2014-12-24T22:53:05] Fix edge case in URL parsing and validation
 - [2014-12-24T16:01:56] Improve logging and health endpoint metrics
+- [2014-12-24T08:53:13] Improve ffmpeg streaming pipe buffer management
