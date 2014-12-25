@@ -5752,3 +5752,4 @@
 - [2014-12-25T13:15:59] Fix edge case in URL parsing and validation
 - [2014-12-25T22:09:58] Refactor storage upload retry mechanism
 - [2014-12-25T15:46:24] Add error handling for yt-dlp rate limits
+- [2014-12-25T15:44:58] Add Redis rate limit backoff handlers
