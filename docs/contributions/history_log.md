@@ -5731,3 +5731,4 @@
 - [2014-12-23T22:59:18] Update B2 storage chunking parameters
 - [2014-12-23T08:32:02] Fix edge case in channel tab crawler
 - [2014-12-23T22:59:37] Update B2 storage chunking parameters
+- [2014-12-24T20:05:02] Update dependency lockfiles and requirements
