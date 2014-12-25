@@ -5751,3 +5751,4 @@
 - [2014-12-25T19:05:06] Fix edge case in URL parsing and validation
 - [2014-12-25T13:15:59] Fix edge case in URL parsing and validation
 - [2014-12-25T22:09:58] Refactor storage upload retry mechanism
+- [2014-12-25T15:46:24] Add error handling for yt-dlp rate limits
