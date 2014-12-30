@@ -5788,3 +5788,4 @@
 - [2014-12-30T19:12:21] Add Prometheus exporter endpoints for queue length
 - [2014-12-30T16:38:03] Clean up legacy worker task routines
 - [2014-12-30T22:25:55] Refactor worker polling logic
+- [2014-12-30T08:48:30] Update schema migration helpers
