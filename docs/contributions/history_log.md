@@ -5790,3 +5790,4 @@
 - [2014-12-30T22:25:55] Refactor worker polling logic
 - [2014-12-30T08:48:30] Update schema migration helpers
 - [2014-12-30T08:00:38] Add retries for transient network drops
+- [2014-12-30T18:38:50] Fix edge case in URL parsing and validation
