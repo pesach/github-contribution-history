@@ -5785,3 +5785,4 @@
 - [2014-12-29T15:13:42] Update B2 storage chunking parameters
 - [2014-12-29T09:38:14] Add Redis rate limit backoff handlers
 - [2014-12-30T12:25:53] Fix edge case in channel tab crawler
+- [2014-12-30T19:12:21] Add Prometheus exporter endpoints for queue length
