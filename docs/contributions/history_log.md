@@ -5804,3 +5804,4 @@
 - [2014-12-31T10:33:27] Add Prometheus exporter endpoints for queue length
 - [2014-12-31T11:56:10] Update automated pytest test suites
 - [2015-01-01T09:30:28] Improve ffmpeg streaming pipe buffer management
+- [2015-01-01T09:30:02] Implement streaming upload chunk buffer optimization
