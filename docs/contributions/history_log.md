@@ -5824,3 +5824,4 @@
 - [2015-01-02T22:24:49] Clean up legacy worker task routines
 - [2015-01-02T14:45:22] Refactor storage upload retry mechanism
 - [2015-01-02T18:12:07] Refactor cookie refresher probe logic
+- [2015-01-02T16:46:15] Fix edge case in URL parsing and validation
