@@ -5818,3 +5818,4 @@
 - [2015-01-02T20:58:59] Fix edge case in URL parsing and validation
 - [2015-01-02T16:13:26] Update documentation and architectural guides
 - [2015-01-02T18:28:56] Update dependency lockfiles and requirements
+- [2015-01-02T09:49:05] Clean up legacy worker task routines
