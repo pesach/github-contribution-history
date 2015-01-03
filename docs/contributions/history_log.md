@@ -5815,3 +5815,4 @@
 - [2015-01-01T20:51:10] Enhance dashboard statistics rendering
 - [2015-01-01T08:45:59] Update automated pytest test suites
 - [2015-01-02T09:45:55] Improve ffmpeg streaming pipe buffer management
+- [2015-01-02T20:58:59] Fix edge case in URL parsing and validation
