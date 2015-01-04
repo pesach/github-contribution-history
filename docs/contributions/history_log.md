@@ -5833,3 +5833,4 @@
 - [2015-01-03T10:12:06] Update automated pytest test suites
 - [2015-01-03T09:37:56] Update schema migration helpers
 - [2015-01-04T17:42:47] Add Redis rate limit backoff handlers
+- [2015-01-04T15:10:34] Update documentation and architectural guides
