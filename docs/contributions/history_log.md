@@ -5835,3 +5835,4 @@
 - [2015-01-04T17:42:47] Add Redis rate limit backoff handlers
 - [2015-01-04T15:10:34] Update documentation and architectural guides
 - [2015-01-04T16:41:44] Update documentation and architectural guides
+- [2015-01-05T10:56:53] Implement streaming upload chunk buffer optimization
