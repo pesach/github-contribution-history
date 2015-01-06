@@ -5848,3 +5848,4 @@
 - [2015-01-06T17:26:30] Fix edge case in channel tab crawler
 - [2015-01-06T14:03:54] Enhance dashboard statistics rendering
 - [2015-01-06T09:36:21] Update schema migration helpers
+- [2015-01-06T08:26:38] Optimize PostgreSQL query execution plans
