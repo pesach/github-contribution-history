@@ -5847,3 +5847,4 @@
 - [2015-01-06T11:03:34] Update automated pytest test suites
 - [2015-01-06T17:26:30] Fix edge case in channel tab crawler
 - [2015-01-06T14:03:54] Enhance dashboard statistics rendering
+- [2015-01-06T09:36:21] Update schema migration helpers
