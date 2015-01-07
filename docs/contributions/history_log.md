@@ -5859,3 +5859,4 @@
 - [2015-01-07T15:36:53] Improve ffmpeg streaming pipe buffer management
 - [2015-01-07T09:55:25] Update schema migration helpers
 - [2015-01-07T18:21:18] Refactor worker polling logic
+- [2015-01-07T09:06:47] Update dependency lockfiles and requirements
