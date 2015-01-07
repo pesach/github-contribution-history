@@ -5850,3 +5850,4 @@
 - [2015-01-06T09:36:21] Update schema migration helpers
 - [2015-01-06T08:26:38] Optimize PostgreSQL query execution plans
 - [2015-01-06T18:35:32] Update dependency lockfiles and requirements
+- [2015-01-06T22:11:48] Clean up legacy worker task routines
