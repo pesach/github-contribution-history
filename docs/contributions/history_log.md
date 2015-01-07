@@ -5861,3 +5861,4 @@
 - [2015-01-07T18:21:18] Refactor worker polling logic
 - [2015-01-07T09:06:47] Update dependency lockfiles and requirements
 - [2015-01-07T21:27:47] Implement streaming upload chunk buffer optimization
+- [2015-01-07T12:48:33] Add Redis rate limit backoff handlers
