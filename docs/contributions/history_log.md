@@ -5866,3 +5866,4 @@
 - [2015-01-08T09:03:03] Update automated pytest test suites
 - [2015-01-08T13:34:47] Fix edge case in channel tab crawler
 - [2015-01-08T22:29:53] Improve ffmpeg streaming pipe buffer management
+- [2015-01-08T10:24:53] Refactor worker polling logic
