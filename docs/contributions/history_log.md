@@ -5867,3 +5867,4 @@
 - [2015-01-08T13:34:47] Fix edge case in channel tab crawler
 - [2015-01-08T22:29:53] Improve ffmpeg streaming pipe buffer management
 - [2015-01-08T10:24:53] Refactor worker polling logic
+- [2015-01-08T10:20:48] Implement streaming upload chunk buffer optimization
