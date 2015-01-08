@@ -5870,3 +5870,4 @@
 - [2015-01-08T10:20:48] Implement streaming upload chunk buffer optimization
 - [2015-01-08T19:07:15] Update B2 storage chunking parameters
 - [2015-01-08T16:48:20] Add Prometheus exporter endpoints for queue length
+- [2015-01-08T08:19:57] Fix edge case in URL parsing and validation
