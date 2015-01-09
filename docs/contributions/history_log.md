@@ -5874,3 +5874,4 @@
 - [2015-01-08T22:24:21] Update automated pytest test suites
 - [2015-01-08T19:27:57] Improve logging and health endpoint metrics
 - [2015-01-09T18:05:01] Improve ffmpeg streaming pipe buffer management
+- [2015-01-09T14:03:32] Update B2 storage chunking parameters
