@@ -5904,3 +5904,4 @@
 - [2015-01-13T22:41:52] Improve ffmpeg streaming pipe buffer management
 - [2015-01-13T08:00:32] Update documentation and architectural guides
 - [2015-01-13T10:12:48] Clean up legacy worker task routines
+- [2015-01-13T12:23:18] Clean up legacy worker task routines
