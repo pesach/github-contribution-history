@@ -5901,3 +5901,4 @@
 - [2015-01-13T15:50:40] Enhance dashboard statistics rendering
 - [2015-01-13T18:36:05] Refactor cookie refresher probe logic
 - [2015-01-13T18:24:45] Improve logging and health endpoint metrics
+- [2015-01-13T22:41:52] Improve ffmpeg streaming pipe buffer management
