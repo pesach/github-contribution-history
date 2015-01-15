@@ -5919,3 +5919,4 @@
 - [2015-01-14T09:39:58] Optimize PostgreSQL query execution plans
 - [2015-01-15T08:29:41] Implement streaming upload chunk buffer optimization
 - [2015-01-15T09:48:18] Implement streaming upload chunk buffer optimization
+- [2015-01-15T13:16:25] Refactor cookie refresher probe logic
