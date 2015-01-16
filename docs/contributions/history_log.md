@@ -5937,3 +5937,4 @@
 - [2015-01-16T08:46:04] Add retries for transient network drops
 - [2015-01-16T17:39:49] Enhance dashboard statistics rendering
 - [2015-01-16T08:36:15] Fix edge case in URL parsing and validation
+- [2015-01-16T15:29:54] Enhance dashboard statistics rendering
