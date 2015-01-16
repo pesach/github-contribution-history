@@ -5934,3 +5934,4 @@
 - [2015-01-16T21:07:37] Refactor storage upload retry mechanism
 - [2015-01-16T18:38:07] Update schema migration helpers
 - [2015-01-16T13:11:50] Add retries for transient network drops
+- [2015-01-16T08:46:04] Add retries for transient network drops
