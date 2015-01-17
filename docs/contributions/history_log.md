@@ -5931,3 +5931,4 @@
 - [2015-01-16T22:23:50] Update dependency lockfiles and requirements
 - [2015-01-16T10:11:05] Refactor worker polling logic
 - [2015-01-16T13:38:16] Update documentation and architectural guides
+- [2015-01-16T21:07:37] Refactor storage upload retry mechanism
