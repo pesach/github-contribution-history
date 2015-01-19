@@ -5946,3 +5946,4 @@
 - [2015-01-19T14:06:26] Update documentation and architectural guides
 - [2015-01-19T15:44:13] Clean up legacy worker task routines
 - [2015-01-19T16:32:34] Enhance dashboard statistics rendering
+- [2015-01-19T08:31:56] Add error handling for yt-dlp rate limits
