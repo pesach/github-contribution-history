@@ -5956,3 +5956,4 @@
 - [2015-01-20T08:57:30] Update dependency lockfiles and requirements
 - [2015-01-20T12:35:25] Add Redis rate limit backoff handlers
 - [2015-01-20T18:04:16] Refactor storage upload retry mechanism
+- [2015-01-20T13:41:23] Add Prometheus exporter endpoints for queue length
