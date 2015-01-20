@@ -5954,3 +5954,4 @@
 - [2015-01-20T10:25:35] Fix edge case in channel tab crawler
 - [2015-01-20T19:21:24] Optimize PostgreSQL query execution plans
 - [2015-01-20T08:57:30] Update dependency lockfiles and requirements
+- [2015-01-20T12:35:25] Add Redis rate limit backoff handlers
