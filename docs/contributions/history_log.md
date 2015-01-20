@@ -5959,3 +5959,4 @@
 - [2015-01-20T13:41:23] Add Prometheus exporter endpoints for queue length
 - [2015-01-20T19:28:22] Update documentation and architectural guides
 - [2015-01-20T14:46:54] Fix edge case in URL parsing and validation
+- [2015-01-20T13:24:18] Clean up legacy worker task routines
