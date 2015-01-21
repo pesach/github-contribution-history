@@ -5952,3 +5952,4 @@
 - [2015-01-19T16:55:13] Fix edge case in channel tab crawler
 - [2015-01-19T21:14:42] Refactor worker polling logic
 - [2015-01-20T10:25:35] Fix edge case in channel tab crawler
+- [2015-01-20T19:21:24] Optimize PostgreSQL query execution plans
