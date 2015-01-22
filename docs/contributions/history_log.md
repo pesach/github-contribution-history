@@ -5965,3 +5965,4 @@
 - [2015-01-22T22:34:15] Add Prometheus exporter endpoints for queue length
 - [2015-01-22T14:42:02] Improve logging and health endpoint metrics
 - [2015-01-22T12:35:49] Refactor cookie refresher probe logic
+- [2015-01-22T10:40:50] Refactor storage upload retry mechanism
