@@ -5973,3 +5973,4 @@
 - [2015-01-23T11:35:59] Enhance dashboard statistics rendering
 - [2015-01-23T17:00:13] Add error handling for yt-dlp rate limits
 - [2015-01-23T08:48:41] Update automated pytest test suites
+- [2015-01-23T09:49:37] Clean up legacy worker task routines
