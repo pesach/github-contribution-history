@@ -5971,3 +5971,4 @@
 - [2015-01-22T22:02:03] Improve logging and health endpoint metrics
 - [2015-01-23T15:28:17] Update dependency lockfiles and requirements
 - [2015-01-23T11:35:59] Enhance dashboard statistics rendering
+- [2015-01-23T17:00:13] Add error handling for yt-dlp rate limits
