@@ -5981,3 +5981,4 @@
 - [2015-01-24T08:28:03] Update schema migration helpers
 - [2015-01-24T08:09:12] Enhance dashboard statistics rendering
 - [2015-01-24T18:02:31] Update dependency lockfiles and requirements
+- [2015-01-25T16:15:16] Improve logging and health endpoint metrics
