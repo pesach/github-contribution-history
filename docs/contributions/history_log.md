@@ -5984,3 +5984,4 @@
 - [2015-01-25T16:15:16] Improve logging and health endpoint metrics
 - [2015-01-25T22:11:52] Refactor worker polling logic
 - [2015-01-25T14:05:02] Implement streaming upload chunk buffer optimization
+- [2015-01-25T22:24:39] Clean up legacy worker task routines
