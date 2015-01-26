@@ -5988,3 +5988,4 @@
 - [2015-01-25T19:03:09] Update B2 storage chunking parameters
 - [2015-01-26T08:34:20] Update dependency lockfiles and requirements
 - [2015-01-26T21:57:00] Fix edge case in channel tab crawler
+- [2015-01-26T08:44:55] Update schema migration helpers
