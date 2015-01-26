@@ -5989,3 +5989,4 @@
 - [2015-01-26T08:34:20] Update dependency lockfiles and requirements
 - [2015-01-26T21:57:00] Fix edge case in channel tab crawler
 - [2015-01-26T08:44:55] Update schema migration helpers
+- [2015-01-26T15:48:57] Refactor storage upload retry mechanism
