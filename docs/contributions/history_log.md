@@ -6002,3 +6002,4 @@
 - [2015-01-27T08:33:11] Fix edge case in URL parsing and validation
 - [2015-01-27T17:53:44] Improve logging and health endpoint metrics
 - [2015-01-27T22:23:10] Improve logging and health endpoint metrics
+- [2015-01-27T14:31:23] Update schema migration helpers
