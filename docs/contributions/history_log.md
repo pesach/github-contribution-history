@@ -6005,3 +6005,4 @@
 - [2015-01-27T14:31:23] Update schema migration helpers
 - [2015-01-27T19:16:55] Implement streaming upload chunk buffer optimization
 - [2015-01-27T17:10:06] Refactor storage upload retry mechanism
+- [2015-01-27T11:06:21] Clean up legacy worker task routines
