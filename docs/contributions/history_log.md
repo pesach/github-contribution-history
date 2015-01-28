@@ -6010,3 +6010,4 @@
 - [2015-01-27T16:53:01] Update dependency lockfiles and requirements
 - [2015-01-27T08:55:16] Improve logging and health endpoint metrics
 - [2015-01-28T10:19:52] Fix edge case in URL parsing and validation
+- [2015-01-28T10:45:38] Refactor storage upload retry mechanism
