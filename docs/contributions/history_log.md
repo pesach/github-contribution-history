@@ -5998,3 +5998,4 @@
 - [2015-01-27T22:23:38] Update schema migration helpers
 - [2015-01-27T19:24:56] Refactor worker polling logic
 - [2015-01-27T16:18:56] Clean up legacy worker task routines
+- [2015-01-27T22:40:05] Update dependency lockfiles and requirements
