@@ -5996,3 +5996,4 @@
 - [2015-01-26T14:07:07] Add Prometheus exporter endpoints for queue length
 - [2015-01-27T13:26:05] Fix edge case in URL parsing and validation
 - [2015-01-27T22:23:38] Update schema migration helpers
+- [2015-01-27T19:24:56] Refactor worker polling logic
