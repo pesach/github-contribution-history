@@ -6025,3 +6025,4 @@
 - [2015-01-29T12:48:10] Clean up legacy worker task routines
 - [2015-01-29T14:43:14] Clean up legacy worker task routines
 - [2015-01-30T20:52:27] Refactor cookie refresher probe logic
+- [2015-01-30T11:57:21] Add Prometheus exporter endpoints for queue length
