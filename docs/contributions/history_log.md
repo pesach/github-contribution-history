@@ -6034,3 +6034,4 @@
 - [2015-01-30T12:39:46] Update automated pytest test suites
 - [2015-01-30T22:26:55] Enhance dashboard statistics rendering
 - [2015-01-30T10:17:32] Enhance dashboard statistics rendering
+- [2015-01-30T17:19:38] Fix edge case in channel tab crawler
