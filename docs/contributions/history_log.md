@@ -6040,3 +6040,4 @@
 - [2015-01-31T21:13:50] Refactor worker polling logic
 - [2015-01-31T19:33:43] Refactor storage upload retry mechanism
 - [2015-01-31T10:12:48] Add error handling for yt-dlp rate limits
+- [2015-01-31T11:39:22] Update schema migration helpers
