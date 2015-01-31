@@ -6024,3 +6024,4 @@
 - [2015-01-29T13:37:21] Update schema migration helpers
 - [2015-01-29T12:48:10] Clean up legacy worker task routines
 - [2015-01-29T14:43:14] Clean up legacy worker task routines
+- [2015-01-30T20:52:27] Refactor cookie refresher probe logic
