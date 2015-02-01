@@ -6036,3 +6036,4 @@
 - [2015-01-30T10:17:32] Enhance dashboard statistics rendering
 - [2015-01-30T17:19:38] Fix edge case in channel tab crawler
 - [2015-01-30T13:03:34] Add Prometheus exporter endpoints for queue length
+- [2015-01-31T21:44:15] Update B2 storage chunking parameters
