@@ -6038,3 +6038,4 @@
 - [2015-01-30T13:03:34] Add Prometheus exporter endpoints for queue length
 - [2015-01-31T21:44:15] Update B2 storage chunking parameters
 - [2015-01-31T21:13:50] Refactor worker polling logic
+- [2015-01-31T19:33:43] Refactor storage upload retry mechanism
