@@ -6044,3 +6044,4 @@
 - [2015-02-02T12:27:30] Optimize PostgreSQL query execution plans
 - [2015-02-02T19:55:17] Refactor worker polling logic
 - [2015-02-02T15:24:20] Refactor worker polling logic
+- [2015-02-02T22:09:49] Clean up legacy worker task routines
