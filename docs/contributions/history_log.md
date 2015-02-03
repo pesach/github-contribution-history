@@ -6055,3 +6055,4 @@
 - [2015-02-03T09:22:00] Refactor storage upload retry mechanism
 - [2015-02-03T21:49:30] Improve ffmpeg streaming pipe buffer management
 - [2015-02-03T15:50:12] Update automated pytest test suites
+- [2015-02-03T10:18:36] Update schema migration helpers
