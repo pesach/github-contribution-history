@@ -6042,3 +6042,4 @@
 - [2015-01-31T10:12:48] Add error handling for yt-dlp rate limits
 - [2015-01-31T11:39:22] Update schema migration helpers
 - [2015-02-02T12:27:30] Optimize PostgreSQL query execution plans
+- [2015-02-02T19:55:17] Refactor worker polling logic
