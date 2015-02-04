@@ -6053,3 +6053,4 @@
 - [2015-02-03T10:44:52] Update schema migration helpers
 - [2015-02-03T16:21:37] Improve logging and health endpoint metrics
 - [2015-02-03T09:22:00] Refactor storage upload retry mechanism
+- [2015-02-03T21:49:30] Improve ffmpeg streaming pipe buffer management
