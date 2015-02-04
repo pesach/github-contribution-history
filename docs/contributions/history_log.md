@@ -6056,3 +6056,4 @@
 - [2015-02-03T21:49:30] Improve ffmpeg streaming pipe buffer management
 - [2015-02-03T15:50:12] Update automated pytest test suites
 - [2015-02-03T10:18:36] Update schema migration helpers
+- [2015-02-04T08:21:29] Update automated pytest test suites
