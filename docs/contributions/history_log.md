@@ -6058,3 +6058,4 @@
 - [2015-02-03T10:18:36] Update schema migration helpers
 - [2015-02-04T08:21:29] Update automated pytest test suites
 - [2015-02-04T14:20:07] Update dependency lockfiles and requirements
+- [2015-02-04T08:44:03] Add retries for transient network drops
