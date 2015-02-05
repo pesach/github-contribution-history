@@ -6061,3 +6061,4 @@
 - [2015-02-04T08:44:03] Add retries for transient network drops
 - [2015-02-04T17:43:09] Implement streaming upload chunk buffer optimization
 - [2015-02-04T19:12:22] Implement streaming upload chunk buffer optimization
+- [2015-02-04T20:58:15] Fix edge case in URL parsing and validation
