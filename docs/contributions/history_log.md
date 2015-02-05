@@ -6071,3 +6071,4 @@
 - [2015-02-05T21:43:27] Refactor cookie refresher probe logic
 - [2015-02-05T20:00:21] Optimize PostgreSQL query execution plans
 - [2015-02-05T08:03:35] Clean up legacy worker task routines
+- [2015-02-05T16:31:29] Fix edge case in channel tab crawler
