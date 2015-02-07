@@ -6087,3 +6087,4 @@
 - [2015-02-06T21:24:05] Refactor worker polling logic
 - [2015-02-06T17:15:39] Update automated pytest test suites
 - [2015-02-06T21:34:12] Update automated pytest test suites
+- [2015-02-06T22:12:52] Refactor cookie refresher probe logic
