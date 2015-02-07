@@ -6084,3 +6084,4 @@
 - [2015-02-06T20:12:14] Enhance dashboard statistics rendering
 - [2015-02-06T16:21:01] Enhance dashboard statistics rendering
 - [2015-02-06T09:35:38] Update documentation and architectural guides
+- [2015-02-06T21:24:05] Refactor worker polling logic
