@@ -6097,3 +6097,4 @@
 - [2015-02-07T19:01:20] Fix edge case in channel tab crawler
 - [2015-02-09T12:51:49] Optimize PostgreSQL query execution plans
 - [2015-02-09T12:52:28] Enhance dashboard statistics rendering
+- [2015-02-09T17:07:04] Add retries for transient network drops
