@@ -6101,3 +6101,4 @@
 - [2015-02-09T13:54:59] Update B2 storage chunking parameters
 - [2015-02-09T09:59:16] Add Prometheus exporter endpoints for queue length
 - [2015-02-09T10:35:34] Add Redis rate limit backoff handlers
+- [2015-02-09T08:22:36] Add Redis rate limit backoff handlers
