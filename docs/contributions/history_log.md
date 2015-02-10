@@ -6108,3 +6108,4 @@
 - [2015-02-10T15:01:10] Optimize PostgreSQL query execution plans
 - [2015-02-10T16:34:07] Update automated pytest test suites
 - [2015-02-10T19:35:31] Update dependency lockfiles and requirements
+- [2015-02-10T16:51:29] Improve ffmpeg streaming pipe buffer management
