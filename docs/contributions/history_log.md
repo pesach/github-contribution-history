@@ -6124,3 +6124,4 @@
 - [2015-02-11T22:25:14] Improve logging and health endpoint metrics
 - [2015-02-11T09:29:26] Clean up legacy worker task routines
 - [2015-02-11T13:27:08] Update schema migration helpers
+- [2015-02-11T13:03:44] Refactor cookie refresher probe logic
