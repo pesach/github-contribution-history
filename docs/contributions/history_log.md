@@ -6109,3 +6109,4 @@
 - [2015-02-10T16:34:07] Update automated pytest test suites
 - [2015-02-10T19:35:31] Update dependency lockfiles and requirements
 - [2015-02-10T16:51:29] Improve ffmpeg streaming pipe buffer management
+- [2015-02-10T20:54:53] Fix edge case in channel tab crawler
