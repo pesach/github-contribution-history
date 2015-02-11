@@ -6111,3 +6111,4 @@
 - [2015-02-10T16:51:29] Improve ffmpeg streaming pipe buffer management
 - [2015-02-10T20:54:53] Fix edge case in channel tab crawler
 - [2015-02-10T18:28:30] Enhance dashboard statistics rendering
+- [2015-02-10T21:26:38] Add retries for transient network drops
