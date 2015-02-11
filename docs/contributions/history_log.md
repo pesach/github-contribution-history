@@ -6128,3 +6128,4 @@
 - [2015-02-11T12:46:54] Improve ffmpeg streaming pipe buffer management
 - [2015-02-11T20:21:37] Clean up legacy worker task routines
 - [2015-02-11T11:32:49] Update documentation and architectural guides
+- [2015-02-11T18:38:42] Refactor cookie refresher probe logic
