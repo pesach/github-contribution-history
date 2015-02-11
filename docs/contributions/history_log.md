@@ -6112,3 +6112,4 @@
 - [2015-02-10T20:54:53] Fix edge case in channel tab crawler
 - [2015-02-10T18:28:30] Enhance dashboard statistics rendering
 - [2015-02-10T21:26:38] Add retries for transient network drops
+- [2015-02-10T22:40:06] Add retries for transient network drops
