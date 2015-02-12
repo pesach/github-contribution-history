@@ -6133,3 +6133,4 @@
 - [2015-02-12T15:57:57] Add Redis rate limit backoff handlers
 - [2015-02-12T13:50:31] Fix edge case in URL parsing and validation
 - [2015-02-12T18:00:53] Add retries for transient network drops
+- [2015-02-12T11:20:10] Update automated pytest test suites
