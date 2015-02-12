@@ -6135,3 +6135,4 @@
 - [2015-02-12T18:00:53] Add retries for transient network drops
 - [2015-02-12T11:20:10] Update automated pytest test suites
 - [2015-02-12T19:22:43] Implement streaming upload chunk buffer optimization
+- [2015-02-12T16:58:28] Add Redis rate limit backoff handlers
