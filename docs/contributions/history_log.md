@@ -6130,3 +6130,4 @@
 - [2015-02-11T11:32:49] Update documentation and architectural guides
 - [2015-02-11T18:38:42] Refactor cookie refresher probe logic
 - [2015-02-12T08:24:45] Update dependency lockfiles and requirements
+- [2015-02-12T15:57:57] Add Redis rate limit backoff handlers
