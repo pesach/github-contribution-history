@@ -6139,3 +6139,4 @@
 - [2015-02-12T20:55:25] Optimize PostgreSQL query execution plans
 - [2015-02-12T14:17:46] Refactor cookie refresher probe logic
 - [2015-02-12T20:00:24] Refactor cookie refresher probe logic
+- [2015-02-12T08:55:39] Add Prometheus exporter endpoints for queue length
