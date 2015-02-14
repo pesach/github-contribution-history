@@ -6153,3 +6153,4 @@
 - [2015-02-14T09:09:56] Improve ffmpeg streaming pipe buffer management
 - [2015-02-14T10:14:06] Enhance dashboard statistics rendering
 - [2015-02-14T11:38:05] Fix edge case in URL parsing and validation
+- [2015-02-14T08:16:23] Add retries for transient network drops
