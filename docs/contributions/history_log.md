@@ -6156,3 +6156,4 @@
 - [2015-02-14T08:16:23] Add retries for transient network drops
 - [2015-02-14T20:02:25] Update automated pytest test suites
 - [2015-02-14T08:04:27] Add Prometheus exporter endpoints for queue length
+- [2015-02-15T17:54:29] Clean up legacy worker task routines
