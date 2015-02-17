@@ -6171,3 +6171,4 @@
 - [2015-02-16T16:57:17] Refactor storage upload retry mechanism
 - [2015-02-16T16:15:33] Refactor worker polling logic
 - [2015-02-16T14:29:30] Optimize PostgreSQL query execution plans
+- [2015-02-17T16:48:27] Improve ffmpeg streaming pipe buffer management
