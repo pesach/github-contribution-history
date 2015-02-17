@@ -6174,3 +6174,4 @@
 - [2015-02-17T16:48:27] Improve ffmpeg streaming pipe buffer management
 - [2015-02-17T14:42:49] Update automated pytest test suites
 - [2015-02-17T16:56:32] Update schema migration helpers
+- [2015-02-17T12:40:26] Refactor worker polling logic
