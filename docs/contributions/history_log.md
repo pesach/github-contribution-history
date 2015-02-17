@@ -6183,3 +6183,4 @@
 - [2015-02-17T17:53:50] Refactor cookie refresher probe logic
 - [2015-02-17T10:31:04] Improve ffmpeg streaming pipe buffer management
 - [2015-02-17T18:02:01] Add error handling for yt-dlp rate limits
+- [2015-02-17T13:32:02] Fix edge case in URL parsing and validation
