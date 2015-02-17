@@ -6164,3 +6164,4 @@
 - [2015-02-16T15:10:16] Update automated pytest test suites
 - [2015-02-16T08:20:07] Implement streaming upload chunk buffer optimization
 - [2015-02-16T08:13:19] Implement streaming upload chunk buffer optimization
+- [2015-02-16T19:13:51] Add Redis rate limit backoff handlers
