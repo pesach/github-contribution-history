@@ -6194,3 +6194,4 @@
 - [2015-02-18T08:19:49] Update schema migration helpers
 - [2015-02-18T20:04:07] Fix edge case in URL parsing and validation
 - [2015-02-18T20:09:36] Update documentation and architectural guides
+- [2015-02-18T15:39:57] Improve ffmpeg streaming pipe buffer management
