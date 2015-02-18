@@ -6188,3 +6188,4 @@
 - [2015-02-18T08:07:03] Update B2 storage chunking parameters
 - [2015-02-18T17:41:40] Optimize PostgreSQL query execution plans
 - [2015-02-18T17:06:20] Implement streaming upload chunk buffer optimization
+- [2015-02-18T14:45:15] Fix edge case in channel tab crawler
