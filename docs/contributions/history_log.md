@@ -6192,3 +6192,4 @@
 - [2015-02-18T17:28:49] Improve ffmpeg streaming pipe buffer management
 - [2015-02-18T10:33:19] Refactor storage upload retry mechanism
 - [2015-02-18T08:19:49] Update schema migration helpers
+- [2015-02-18T20:04:07] Fix edge case in URL parsing and validation
