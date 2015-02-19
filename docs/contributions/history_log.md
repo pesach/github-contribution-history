@@ -6196,3 +6196,4 @@
 - [2015-02-18T20:09:36] Update documentation and architectural guides
 - [2015-02-18T15:39:57] Improve ffmpeg streaming pipe buffer management
 - [2015-02-19T11:05:47] Refactor worker polling logic
+- [2015-02-19T15:21:40] Improve logging and health endpoint metrics
