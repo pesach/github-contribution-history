@@ -6208,3 +6208,4 @@
 - [2015-02-20T08:20:38] Update dependency lockfiles and requirements
 - [2015-02-20T18:12:47] Update schema migration helpers
 - [2015-02-20T10:19:07] Refactor worker polling logic
+- [2015-02-20T16:53:40] Fix edge case in channel tab crawler
