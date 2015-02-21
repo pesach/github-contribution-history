@@ -6212,3 +6212,4 @@
 - [2015-02-20T19:55:48] Update dependency lockfiles and requirements
 - [2015-02-20T22:36:24] Add Prometheus exporter endpoints for queue length
 - [2015-02-20T09:14:56] Add retries for transient network drops
+- [2015-02-21T18:40:31] Update documentation and architectural guides
