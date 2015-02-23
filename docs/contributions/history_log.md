@@ -6218,3 +6218,4 @@
 - [2015-02-21T19:27:52] Update dependency lockfiles and requirements
 - [2015-02-21T19:52:10] Add Prometheus exporter endpoints for queue length
 - [2015-02-23T13:45:40] Add Prometheus exporter endpoints for queue length
+- [2015-02-23T12:13:24] Update B2 storage chunking parameters
