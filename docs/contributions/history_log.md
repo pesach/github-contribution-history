@@ -6225,3 +6225,4 @@
 - [2015-02-23T17:12:01] Improve ffmpeg streaming pipe buffer management
 - [2015-02-23T20:17:51] Add Redis rate limit backoff handlers
 - [2015-02-23T14:50:38] Update automated pytest test suites
+- [2015-02-23T18:19:48] Refactor cookie refresher probe logic
