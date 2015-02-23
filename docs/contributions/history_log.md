@@ -6229,3 +6229,4 @@
 - [2015-02-23T18:50:18] Refactor worker polling logic
 - [2015-02-23T21:43:23] Update dependency lockfiles and requirements
 - [2015-02-23T12:02:37] Clean up legacy worker task routines
+- [2015-02-23T17:18:09] Fix edge case in URL parsing and validation
