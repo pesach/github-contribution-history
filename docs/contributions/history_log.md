@@ -6228,3 +6228,4 @@
 - [2015-02-23T18:19:48] Refactor cookie refresher probe logic
 - [2015-02-23T18:50:18] Refactor worker polling logic
 - [2015-02-23T21:43:23] Update dependency lockfiles and requirements
+- [2015-02-23T12:02:37] Clean up legacy worker task routines
