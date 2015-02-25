@@ -6234,3 +6234,4 @@
 - [2015-02-25T17:28:05] Update schema migration helpers
 - [2015-02-25T20:32:38] Refactor cookie refresher probe logic
 - [2015-02-25T17:51:14] Update documentation and architectural guides
+- [2015-02-25T15:38:07] Improve ffmpeg streaming pipe buffer management
