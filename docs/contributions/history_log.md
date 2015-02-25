@@ -6237,3 +6237,4 @@
 - [2015-02-25T15:38:07] Improve ffmpeg streaming pipe buffer management
 - [2015-02-25T10:58:28] Add retries for transient network drops
 - [2015-02-25T13:14:15] Update dependency lockfiles and requirements
+- [2015-02-25T18:35:44] Fix edge case in URL parsing and validation
