@@ -6241,3 +6241,4 @@
 - [2015-02-25T18:26:45] Improve logging and health endpoint metrics
 - [2015-02-25T20:39:15] Update B2 storage chunking parameters
 - [2015-02-25T10:50:37] Update dependency lockfiles and requirements
+- [2015-02-25T11:47:09] Refactor storage upload retry mechanism
