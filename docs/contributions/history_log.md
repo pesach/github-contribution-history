@@ -6246,3 +6246,4 @@
 - [2015-02-25T13:09:52] Optimize PostgreSQL query execution plans
 - [2015-02-25T09:21:48] Improve ffmpeg streaming pipe buffer management
 - [2015-02-26T10:10:10] Update B2 storage chunking parameters
+- [2015-02-26T15:16:29] Refactor worker polling logic
