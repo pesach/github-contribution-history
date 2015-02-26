@@ -6247,3 +6247,4 @@
 - [2015-02-25T09:21:48] Improve ffmpeg streaming pipe buffer management
 - [2015-02-26T10:10:10] Update B2 storage chunking parameters
 - [2015-02-26T15:16:29] Refactor worker polling logic
+- [2015-02-26T08:39:33] Improve logging and health endpoint metrics
