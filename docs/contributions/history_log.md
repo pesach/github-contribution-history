@@ -6251,3 +6251,4 @@
 - [2015-02-26T18:36:03] Fix edge case in channel tab crawler
 - [2015-02-26T10:06:04] Refactor cookie refresher probe logic
 - [2015-02-26T14:24:17] Refactor worker polling logic
+- [2015-02-26T12:11:26] Add Redis rate limit backoff handlers
