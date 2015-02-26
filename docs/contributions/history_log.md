@@ -6232,3 +6232,4 @@
 - [2015-02-23T17:18:09] Fix edge case in URL parsing and validation
 - [2015-02-23T12:56:44] Implement streaming upload chunk buffer optimization
 - [2015-02-25T17:28:05] Update schema migration helpers
+- [2015-02-25T20:32:38] Refactor cookie refresher probe logic
