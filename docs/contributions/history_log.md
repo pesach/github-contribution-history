@@ -6268,3 +6268,4 @@
 - [2015-02-27T08:12:43] Improve logging and health endpoint metrics
 - [2015-02-27T15:21:14] Fix edge case in URL parsing and validation
 - [2015-02-27T16:52:13] Clean up legacy worker task routines
+- [2015-02-27T17:10:13] Improve ffmpeg streaming pipe buffer management
