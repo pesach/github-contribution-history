@@ -6266,3 +6266,4 @@
 - [2015-02-27T08:17:32] Improve logging and health endpoint metrics
 - [2015-02-27T16:13:03] Fix edge case in channel tab crawler
 - [2015-02-27T08:12:43] Improve logging and health endpoint metrics
+- [2015-02-27T15:21:14] Fix edge case in URL parsing and validation
