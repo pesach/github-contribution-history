@@ -6264,3 +6264,4 @@
 - [2015-02-27T14:20:02] Refactor cookie refresher probe logic
 - [2015-02-27T17:46:22] Enhance dashboard statistics rendering
 - [2015-02-27T08:17:32] Improve logging and health endpoint metrics
+- [2015-02-27T16:13:03] Fix edge case in channel tab crawler
