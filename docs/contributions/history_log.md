@@ -6261,3 +6261,4 @@
 - [2015-02-26T20:40:35] Enhance dashboard statistics rendering
 - [2015-02-27T21:07:22] Update B2 storage chunking parameters
 - [2015-02-27T21:59:38] Add Redis rate limit backoff handlers
+- [2015-02-27T14:20:02] Refactor cookie refresher probe logic
