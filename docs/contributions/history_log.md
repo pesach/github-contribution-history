@@ -6280,3 +6280,4 @@
 - [2015-03-01T15:42:40] Improve ffmpeg streaming pipe buffer management
 - [2015-03-01T18:07:30] Update dependency lockfiles and requirements
 - [2015-03-01T12:05:00] Refactor storage upload retry mechanism
+- [2015-03-01T16:02:23] Refactor worker polling logic
