@@ -6278,3 +6278,4 @@
 - [2015-02-28T22:39:58] Update automated pytest test suites
 - [2015-03-01T19:21:11] Add Redis rate limit backoff handlers
 - [2015-03-01T15:42:40] Improve ffmpeg streaming pipe buffer management
+- [2015-03-01T18:07:30] Update dependency lockfiles and requirements
