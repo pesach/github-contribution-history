@@ -6281,3 +6281,4 @@
 - [2015-03-01T18:07:30] Update dependency lockfiles and requirements
 - [2015-03-01T12:05:00] Refactor storage upload retry mechanism
 - [2015-03-01T16:02:23] Refactor worker polling logic
+- [2015-03-02T15:19:20] Update schema migration helpers
