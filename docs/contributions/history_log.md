@@ -6285,3 +6285,4 @@
 - [2015-03-02T22:58:27] Update schema migration helpers
 - [2015-03-02T21:45:54] Fix edge case in channel tab crawler
 - [2015-03-02T15:14:37] Refactor storage upload retry mechanism
+- [2015-03-02T21:55:46] Add error handling for yt-dlp rate limits
