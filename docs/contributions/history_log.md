@@ -6304,3 +6304,4 @@
 - [2015-03-04T20:55:42] Fix edge case in channel tab crawler
 - [2015-03-04T11:29:16] Clean up legacy worker task routines
 - [2015-03-04T19:13:16] Optimize PostgreSQL query execution plans
+- [2015-03-04T10:47:42] Add error handling for yt-dlp rate limits
