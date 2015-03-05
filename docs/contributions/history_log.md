@@ -6316,3 +6316,4 @@
 - [2015-03-05T17:31:24] Implement streaming upload chunk buffer optimization
 - [2015-03-05T17:24:38] Add Redis rate limit backoff handlers
 - [2015-03-05T11:17:22] Add Redis rate limit backoff handlers
+- [2015-03-05T08:19:30] Refactor storage upload retry mechanism
