@@ -6314,3 +6314,4 @@
 - [2015-03-05T10:12:15] Update automated pytest test suites
 - [2015-03-05T21:04:49] Fix edge case in channel tab crawler
 - [2015-03-05T17:31:24] Implement streaming upload chunk buffer optimization
+- [2015-03-05T17:24:38] Add Redis rate limit backoff handlers
