@@ -6298,3 +6298,4 @@
 - [2015-03-04T18:54:31] Improve logging and health endpoint metrics
 - [2015-03-04T19:16:55] Improve ffmpeg streaming pipe buffer management
 - [2015-03-04T15:57:39] Improve logging and health endpoint metrics
+- [2015-03-04T22:59:54] Add Redis rate limit backoff handlers
