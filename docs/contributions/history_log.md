@@ -6320,3 +6320,4 @@
 - [2015-03-06T10:14:19] Improve ffmpeg streaming pipe buffer management
 - [2015-03-06T13:03:35] Improve logging and health endpoint metrics
 - [2015-03-06T15:40:39] Fix edge case in channel tab crawler
+- [2015-03-06T13:47:48] Update documentation and architectural guides
