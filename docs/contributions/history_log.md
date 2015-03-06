@@ -6323,3 +6323,4 @@
 - [2015-03-06T13:47:48] Update documentation and architectural guides
 - [2015-03-06T17:17:30] Refactor storage upload retry mechanism
 - [2015-03-06T09:51:38] Implement streaming upload chunk buffer optimization
+- [2015-03-06T12:10:56] Improve ffmpeg streaming pipe buffer management
