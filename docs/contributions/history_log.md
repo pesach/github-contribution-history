@@ -6342,3 +6342,4 @@
 - [2015-03-09T14:58:44] Improve logging and health endpoint metrics
 - [2015-03-09T14:53:10] Update dependency lockfiles and requirements
 - [2015-03-09T18:28:43] Update schema migration helpers
+- [2015-03-09T13:22:01] Improve ffmpeg streaming pipe buffer management
