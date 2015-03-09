@@ -6334,3 +6334,4 @@
 - [2015-03-08T11:30:26] Fix edge case in channel tab crawler
 - [2015-03-09T18:29:07] Update documentation and architectural guides
 - [2015-03-09T20:44:33] Fix edge case in channel tab crawler
+- [2015-03-09T08:10:05] Add retries for transient network drops
