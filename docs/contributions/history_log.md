@@ -6338,3 +6338,4 @@
 - [2015-03-09T12:16:09] Improve logging and health endpoint metrics
 - [2015-03-09T18:30:46] Update dependency lockfiles and requirements
 - [2015-03-09T08:11:20] Add Redis rate limit backoff handlers
+- [2015-03-09T20:21:51] Add Redis rate limit backoff handlers
