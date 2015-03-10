@@ -6350,3 +6350,4 @@
 - [2015-03-10T13:18:27] Clean up legacy worker task routines
 - [2015-03-10T21:02:48] Update automated pytest test suites
 - [2015-03-10T20:43:48] Add error handling for yt-dlp rate limits
+- [2015-03-10T19:53:45] Fix edge case in URL parsing and validation
