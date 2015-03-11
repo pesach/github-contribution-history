@@ -6360,3 +6360,4 @@
 - [2015-03-11T08:39:33] Update documentation and architectural guides
 - [2015-03-11T21:39:09] Improve ffmpeg streaming pipe buffer management
 - [2015-03-11T18:09:34] Improve ffmpeg streaming pipe buffer management
+- [2015-03-11T14:10:51] Update dependency lockfiles and requirements
