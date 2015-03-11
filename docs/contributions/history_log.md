@@ -6353,3 +6353,4 @@
 - [2015-03-10T19:53:45] Fix edge case in URL parsing and validation
 - [2015-03-10T22:48:29] Add Prometheus exporter endpoints for queue length
 - [2015-03-10T15:08:23] Implement streaming upload chunk buffer optimization
+- [2015-03-11T14:05:00] Implement streaming upload chunk buffer optimization
