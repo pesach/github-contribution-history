@@ -6385,3 +6385,4 @@
 - [2015-03-13T19:56:51] Improve ffmpeg streaming pipe buffer management
 - [2015-03-13T09:32:35] Add Redis rate limit backoff handlers
 - [2015-03-13T14:06:16] Implement streaming upload chunk buffer optimization
+- [2015-03-13T12:36:13] Refactor worker polling logic
