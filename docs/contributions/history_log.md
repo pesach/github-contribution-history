@@ -6392,3 +6392,4 @@
 - [2015-03-14T21:34:30] Refactor worker polling logic
 - [2015-03-14T19:49:20] Add retries for transient network drops
 - [2015-03-14T08:22:34] Refactor cookie refresher probe logic
+- [2015-03-14T14:43:22] Refactor worker polling logic
