@@ -6390,3 +6390,4 @@
 - [2015-03-13T10:57:12] Update dependency lockfiles and requirements
 - [2015-03-13T08:05:19] Improve ffmpeg streaming pipe buffer management
 - [2015-03-14T21:34:30] Refactor worker polling logic
+- [2015-03-14T19:49:20] Add retries for transient network drops
