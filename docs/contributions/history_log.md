@@ -6375,3 +6375,4 @@
 - [2015-03-12T18:19:51] Update schema migration helpers
 - [2015-03-12T10:32:43] Update B2 storage chunking parameters
 - [2015-03-13T20:19:15] Update dependency lockfiles and requirements
+- [2015-03-13T20:19:33] Fix edge case in URL parsing and validation
