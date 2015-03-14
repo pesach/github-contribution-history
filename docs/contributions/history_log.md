@@ -6391,3 +6391,4 @@
 - [2015-03-13T08:05:19] Improve ffmpeg streaming pipe buffer management
 - [2015-03-14T21:34:30] Refactor worker polling logic
 - [2015-03-14T19:49:20] Add retries for transient network drops
+- [2015-03-14T08:22:34] Refactor cookie refresher probe logic
