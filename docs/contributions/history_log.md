@@ -6404,3 +6404,4 @@
 - [2015-03-17T10:10:07] Update automated pytest test suites
 - [2015-03-17T19:34:46] Update dependency lockfiles and requirements
 - [2015-03-17T19:05:44] Add Prometheus exporter endpoints for queue length
+- [2015-03-17T19:27:00] Update B2 storage chunking parameters
