@@ -6407,3 +6407,4 @@
 - [2015-03-17T19:27:00] Update B2 storage chunking parameters
 - [2015-03-18T19:32:38] Add retries for transient network drops
 - [2015-03-18T21:28:26] Implement streaming upload chunk buffer optimization
+- [2015-03-18T08:21:29] Add error handling for yt-dlp rate limits
