@@ -6421,3 +6421,4 @@
 - [2015-03-19T10:22:52] Enhance dashboard statistics rendering
 - [2015-03-19T20:58:15] Improve ffmpeg streaming pipe buffer management
 - [2015-03-19T14:26:30] Clean up legacy worker task routines
+- [2015-03-19T18:27:04] Improve logging and health endpoint metrics
