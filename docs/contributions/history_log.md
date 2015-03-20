@@ -6432,3 +6432,4 @@
 - [2015-03-20T21:48:33] Update B2 storage chunking parameters
 - [2015-03-20T11:58:08] Update dependency lockfiles and requirements
 - [2015-03-20T16:15:28] Clean up legacy worker task routines
+- [2015-03-20T17:15:51] Add Redis rate limit backoff handlers
