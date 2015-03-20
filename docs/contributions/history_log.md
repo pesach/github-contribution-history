@@ -6438,3 +6438,4 @@
 - [2015-03-20T22:52:10] Enhance dashboard statistics rendering
 - [2015-03-20T10:16:42] Refactor storage upload retry mechanism
 - [2015-03-20T22:41:54] Update dependency lockfiles and requirements
+- [2015-03-20T13:42:03] Update schema migration helpers
