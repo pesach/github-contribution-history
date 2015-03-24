@@ -6450,3 +6450,4 @@
 - [2015-03-23T21:26:21] Enhance dashboard statistics rendering
 - [2015-03-23T15:00:02] Improve logging and health endpoint metrics
 - [2015-03-23T20:39:34] Fix edge case in URL parsing and validation
+- [2015-03-24T17:50:56] Update B2 storage chunking parameters
