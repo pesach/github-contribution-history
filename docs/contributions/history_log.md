@@ -6473,3 +6473,4 @@
 - [2015-03-25T13:48:45] Update schema migration helpers
 - [2015-03-25T11:32:32] Fix edge case in URL parsing and validation
 - [2015-03-25T13:06:18] Add Prometheus exporter endpoints for queue length
+- [2015-03-25T08:52:44] Add retries for transient network drops
