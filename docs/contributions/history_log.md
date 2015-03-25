@@ -6464,3 +6464,4 @@
 - [2015-03-24T11:53:30] Update dependency lockfiles and requirements
 - [2015-03-24T11:17:22] Update dependency lockfiles and requirements
 - [2015-03-24T13:14:05] Update automated pytest test suites
+- [2015-03-25T09:06:22] Clean up legacy worker task routines
