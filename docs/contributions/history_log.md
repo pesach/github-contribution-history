@@ -6471,3 +6471,4 @@
 - [2015-03-25T11:12:05] Update automated pytest test suites
 - [2015-03-25T13:11:56] Optimize PostgreSQL query execution plans
 - [2015-03-25T13:48:45] Update schema migration helpers
+- [2015-03-25T11:32:32] Fix edge case in URL parsing and validation
