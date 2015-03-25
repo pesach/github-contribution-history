@@ -6470,3 +6470,4 @@
 - [2015-03-25T19:24:57] Add retries for transient network drops
 - [2015-03-25T11:12:05] Update automated pytest test suites
 - [2015-03-25T13:11:56] Optimize PostgreSQL query execution plans
+- [2015-03-25T13:48:45] Update schema migration helpers
