@@ -6485,3 +6485,4 @@
 - [2015-03-26T14:38:54] Clean up legacy worker task routines
 - [2015-03-26T08:49:09] Update dependency lockfiles and requirements
 - [2015-03-26T09:37:32] Enhance dashboard statistics rendering
+- [2015-03-26T15:34:20] Add Prometheus exporter endpoints for queue length
