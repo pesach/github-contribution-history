@@ -6487,3 +6487,4 @@
 - [2015-03-26T09:37:32] Enhance dashboard statistics rendering
 - [2015-03-26T15:34:20] Add Prometheus exporter endpoints for queue length
 - [2015-03-26T11:23:50] Update schema migration helpers
+- [2015-03-27T19:38:03] Update schema migration helpers
