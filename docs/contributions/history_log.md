@@ -6490,3 +6490,4 @@
 - [2015-03-27T19:38:03] Update schema migration helpers
 - [2015-03-27T17:04:23] Refactor storage upload retry mechanism
 - [2015-03-27T19:48:14] Fix edge case in channel tab crawler
+- [2015-03-27T09:47:20] Add retries for transient network drops
