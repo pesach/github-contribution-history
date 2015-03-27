@@ -6494,3 +6494,4 @@
 - [2015-03-27T20:32:36] Add error handling for yt-dlp rate limits
 - [2015-03-27T15:53:30] Update B2 storage chunking parameters
 - [2015-03-27T09:15:08] Refactor worker polling logic
+- [2015-03-27T08:09:57] Improve ffmpeg streaming pipe buffer management
