@@ -6515,3 +6515,4 @@
 - [2015-03-30T20:01:47] Improve ffmpeg streaming pipe buffer management
 - [2015-03-30T21:07:49] Update dependency lockfiles and requirements
 - [2015-03-30T11:30:47] Update B2 storage chunking parameters
+- [2015-03-30T18:22:54] Refactor worker polling logic
