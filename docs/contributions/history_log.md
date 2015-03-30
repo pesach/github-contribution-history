@@ -6511,3 +6511,4 @@
 - [2015-03-29T13:36:41] Refactor cookie refresher probe logic
 - [2015-03-29T21:04:42] Improve ffmpeg streaming pipe buffer management
 - [2015-03-30T14:12:34] Improve ffmpeg streaming pipe buffer management
+- [2015-03-30T16:10:47] Refactor cookie refresher probe logic
