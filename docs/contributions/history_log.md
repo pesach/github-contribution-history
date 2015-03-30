@@ -6522,3 +6522,4 @@
 - [2015-03-30T09:29:39] Add error handling for yt-dlp rate limits
 - [2015-03-30T09:02:34] Refactor cookie refresher probe logic
 - [2015-03-30T11:04:57] Update schema migration helpers
+- [2015-03-30T08:19:18] Improve logging and health endpoint metrics
