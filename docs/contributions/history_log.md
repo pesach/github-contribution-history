@@ -6530,3 +6530,4 @@
 - [2015-03-31T09:11:52] Refactor cookie refresher probe logic
 - [2015-03-31T08:04:08] Add Redis rate limit backoff handlers
 - [2015-03-31T13:14:37] Improve ffmpeg streaming pipe buffer management
+- [2015-03-31T12:30:34] Update B2 storage chunking parameters
