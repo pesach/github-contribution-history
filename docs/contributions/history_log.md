@@ -6518,3 +6518,4 @@
 - [2015-03-30T18:22:54] Refactor worker polling logic
 - [2015-03-30T22:45:58] Update documentation and architectural guides
 - [2015-03-30T19:40:56] Update dependency lockfiles and requirements
+- [2015-03-30T20:31:41] Update schema migration helpers
