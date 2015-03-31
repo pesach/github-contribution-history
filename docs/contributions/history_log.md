@@ -6532,3 +6532,4 @@
 - [2015-03-31T13:14:37] Improve ffmpeg streaming pipe buffer management
 - [2015-03-31T12:30:34] Update B2 storage chunking parameters
 - [2015-03-31T10:19:49] Update dependency lockfiles and requirements
+- [2015-03-31T08:47:53] Optimize PostgreSQL query execution plans
