@@ -6525,3 +6525,4 @@
 - [2015-03-30T08:19:18] Improve logging and health endpoint metrics
 - [2015-03-30T09:41:47] Update automated pytest test suites
 - [2015-03-30T21:02:31] Fix edge case in channel tab crawler
+- [2015-03-31T15:17:57] Refactor worker polling logic
