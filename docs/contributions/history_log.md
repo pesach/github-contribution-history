@@ -6528,3 +6528,4 @@
 - [2015-03-31T15:17:57] Refactor worker polling logic
 - [2015-03-31T16:51:50] Fix edge case in URL parsing and validation
 - [2015-03-31T09:11:52] Refactor cookie refresher probe logic
+- [2015-03-31T08:04:08] Add Redis rate limit backoff handlers
