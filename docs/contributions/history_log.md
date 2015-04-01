@@ -6546,3 +6546,4 @@
 - [2015-04-01T08:47:29] Update documentation and architectural guides
 - [2015-04-01T12:18:49] Fix edge case in URL parsing and validation
 - [2015-04-01T10:50:44] Add Prometheus exporter endpoints for queue length
+- [2015-04-01T09:10:14] Add Redis rate limit backoff handlers
