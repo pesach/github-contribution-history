@@ -6544,3 +6544,4 @@
 - [2015-04-01T09:22:46] Optimize PostgreSQL query execution plans
 - [2015-04-01T16:17:14] Refactor cookie refresher probe logic
 - [2015-04-01T08:47:29] Update documentation and architectural guides
+- [2015-04-01T12:18:49] Fix edge case in URL parsing and validation
