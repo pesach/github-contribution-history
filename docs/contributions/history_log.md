@@ -6553,3 +6553,4 @@
 - [2015-04-02T19:02:49] Fix edge case in URL parsing and validation
 - [2015-04-02T08:49:52] Clean up legacy worker task routines
 - [2015-04-02T15:38:14] Update schema migration helpers
+- [2015-04-02T13:27:49] Refactor storage upload retry mechanism
