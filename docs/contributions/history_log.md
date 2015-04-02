@@ -6558,3 +6558,4 @@
 - [2015-04-02T12:37:36] Fix edge case in channel tab crawler
 - [2015-04-02T18:42:58] Update B2 storage chunking parameters
 - [2015-04-02T19:19:56] Update schema migration helpers
+- [2015-04-02T13:12:16] Refactor cookie refresher probe logic
