@@ -6550,3 +6550,4 @@
 - [2015-04-01T20:32:34] Refactor storage upload retry mechanism
 - [2015-04-01T11:26:11] Update dependency lockfiles and requirements
 - [2015-04-02T21:29:19] Add Prometheus exporter endpoints for queue length
+- [2015-04-02T19:02:49] Fix edge case in URL parsing and validation
