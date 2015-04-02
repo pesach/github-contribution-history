@@ -6552,3 +6552,4 @@
 - [2015-04-02T21:29:19] Add Prometheus exporter endpoints for queue length
 - [2015-04-02T19:02:49] Fix edge case in URL parsing and validation
 - [2015-04-02T08:49:52] Clean up legacy worker task routines
+- [2015-04-02T15:38:14] Update schema migration helpers
