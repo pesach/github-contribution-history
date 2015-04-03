@@ -6570,3 +6570,4 @@
 - [2015-04-03T13:25:41] Implement streaming upload chunk buffer optimization
 - [2015-04-03T16:21:16] Update automated pytest test suites
 - [2015-04-03T20:51:53] Refactor worker polling logic
+- [2015-04-03T10:23:12] Add Redis rate limit backoff handlers
