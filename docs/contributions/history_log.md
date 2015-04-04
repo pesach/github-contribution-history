@@ -6573,3 +6573,4 @@
 - [2015-04-03T10:23:12] Add Redis rate limit backoff handlers
 - [2015-04-03T18:28:28] Implement streaming upload chunk buffer optimization
 - [2015-04-03T17:47:36] Add retries for transient network drops
+- [2015-04-03T21:55:45] Refactor worker polling logic
