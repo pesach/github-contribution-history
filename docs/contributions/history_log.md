@@ -6577,3 +6577,4 @@
 - [2015-04-06T19:06:03] Fix edge case in channel tab crawler
 - [2015-04-06T17:00:44] Fix edge case in channel tab crawler
 - [2015-04-06T17:47:10] Clean up legacy worker task routines
+- [2015-04-06T14:12:03] Improve logging and health endpoint metrics
