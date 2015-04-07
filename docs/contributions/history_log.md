@@ -6586,3 +6586,4 @@
 - [2015-04-06T13:41:00] Add Redis rate limit backoff handlers
 - [2015-04-07T12:07:49] Update documentation and architectural guides
 - [2015-04-07T20:40:26] Fix edge case in URL parsing and validation
+- [2015-04-07T18:18:34] Update schema migration helpers
