@@ -6580,3 +6580,4 @@
 - [2015-04-06T14:12:03] Improve logging and health endpoint metrics
 - [2015-04-06T18:05:21] Refactor worker polling logic
 - [2015-04-06T12:08:23] Add Prometheus exporter endpoints for queue length
+- [2015-04-06T22:11:59] Update schema migration helpers
