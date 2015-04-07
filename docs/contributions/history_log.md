@@ -6590,3 +6590,4 @@
 - [2015-04-07T08:13:10] Implement streaming upload chunk buffer optimization
 - [2015-04-07T22:38:17] Update B2 storage chunking parameters
 - [2015-04-07T09:12:47] Refactor cookie refresher probe logic
+- [2015-04-07T10:30:31] Fix edge case in URL parsing and validation
