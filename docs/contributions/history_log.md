@@ -6598,3 +6598,4 @@
 - [2015-04-08T11:01:59] Improve ffmpeg streaming pipe buffer management
 - [2015-04-08T12:11:27] Improve ffmpeg streaming pipe buffer management
 - [2015-04-08T08:58:28] Optimize PostgreSQL query execution plans
+- [2015-04-08T15:48:40] Clean up legacy worker task routines
