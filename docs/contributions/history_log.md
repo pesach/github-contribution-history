@@ -6603,3 +6603,4 @@
 - [2015-04-08T13:34:01] Add retries for transient network drops
 - [2015-04-08T18:31:36] Refactor worker polling logic
 - [2015-04-08T18:53:40] Fix edge case in URL parsing and validation
+- [2015-04-08T20:17:57] Improve ffmpeg streaming pipe buffer management
