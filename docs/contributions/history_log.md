@@ -6615,3 +6615,4 @@
 - [2015-04-09T18:02:05] Refactor cookie refresher probe logic
 - [2015-04-09T08:30:25] Add retries for transient network drops
 - [2015-04-09T13:48:43] Update automated pytest test suites
+- [2015-04-09T09:42:08] Update schema migration helpers
