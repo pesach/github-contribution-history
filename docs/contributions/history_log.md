@@ -6609,3 +6609,4 @@
 - [2015-04-09T20:04:37] Clean up legacy worker task routines
 - [2015-04-09T11:39:47] Clean up legacy worker task routines
 - [2015-04-09T11:22:51] Add Redis rate limit backoff handlers
+- [2015-04-09T22:29:32] Refactor cookie refresher probe logic
