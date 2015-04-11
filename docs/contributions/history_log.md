@@ -6630,3 +6630,4 @@
 - [2015-04-10T17:50:50] Refactor cookie refresher probe logic
 - [2015-04-10T21:44:46] Fix edge case in URL parsing and validation
 - [2015-04-11T14:51:08] Enhance dashboard statistics rendering
+- [2015-04-11T19:42:00] Add error handling for yt-dlp rate limits
