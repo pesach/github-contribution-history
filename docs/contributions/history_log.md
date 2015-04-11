@@ -6625,3 +6625,4 @@
 - [2015-04-10T09:05:12] Update schema migration helpers
 - [2015-04-10T15:55:26] Update automated pytest test suites
 - [2015-04-10T15:24:06] Implement streaming upload chunk buffer optimization
+- [2015-04-10T21:13:22] Refactor storage upload retry mechanism
