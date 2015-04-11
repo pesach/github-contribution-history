@@ -6628,3 +6628,4 @@
 - [2015-04-10T21:13:22] Refactor storage upload retry mechanism
 - [2015-04-10T10:19:55] Add Redis rate limit backoff handlers
 - [2015-04-10T17:50:50] Refactor cookie refresher probe logic
+- [2015-04-10T21:44:46] Fix edge case in URL parsing and validation
