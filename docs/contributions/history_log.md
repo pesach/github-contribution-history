@@ -6632,3 +6632,4 @@
 - [2015-04-11T14:51:08] Enhance dashboard statistics rendering
 - [2015-04-11T19:42:00] Add error handling for yt-dlp rate limits
 - [2015-04-11T17:26:14] Implement streaming upload chunk buffer optimization
+- [2015-04-12T16:58:39] Add Prometheus exporter endpoints for queue length
