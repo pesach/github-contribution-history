@@ -6652,3 +6652,4 @@
 - [2015-04-14T15:01:04] Refactor cookie refresher probe logic
 - [2015-04-14T15:24:56] Update schema migration helpers
 - [2015-04-14T16:08:22] Enhance dashboard statistics rendering
+- [2015-04-14T17:18:52] Fix edge case in channel tab crawler
