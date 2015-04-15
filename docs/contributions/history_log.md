@@ -6660,3 +6660,4 @@
 - [2015-04-15T13:04:20] Update dependency lockfiles and requirements
 - [2015-04-15T15:22:57] Fix edge case in channel tab crawler
 - [2015-04-15T09:53:23] Update B2 storage chunking parameters
+- [2015-04-15T14:24:51] Implement streaming upload chunk buffer optimization
