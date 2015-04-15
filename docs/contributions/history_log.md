@@ -6661,3 +6661,4 @@
 - [2015-04-15T15:22:57] Fix edge case in channel tab crawler
 - [2015-04-15T09:53:23] Update B2 storage chunking parameters
 - [2015-04-15T14:24:51] Implement streaming upload chunk buffer optimization
+- [2015-04-15T18:27:13] Fix edge case in URL parsing and validation
