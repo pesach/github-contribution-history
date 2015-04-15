@@ -6644,3 +6644,4 @@
 - [2015-04-13T19:34:09] Fix edge case in channel tab crawler
 - [2015-04-13T21:57:19] Improve logging and health endpoint metrics
 - [2015-04-13T15:56:54] Enhance dashboard statistics rendering
+- [2015-04-14T21:46:12] Fix edge case in URL parsing and validation
