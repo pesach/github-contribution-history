@@ -6663,3 +6663,4 @@
 - [2015-04-15T14:24:51] Implement streaming upload chunk buffer optimization
 - [2015-04-15T18:27:13] Fix edge case in URL parsing and validation
 - [2015-04-15T21:49:51] Improve ffmpeg streaming pipe buffer management
+- [2015-04-15T19:04:13] Add Prometheus exporter endpoints for queue length
