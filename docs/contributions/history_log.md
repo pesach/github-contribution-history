@@ -6674,3 +6674,4 @@
 - [2015-04-16T20:36:44] Implement streaming upload chunk buffer optimization
 - [2015-04-16T13:42:18] Improve logging and health endpoint metrics
 - [2015-04-16T11:47:16] Add retries for transient network drops
+- [2015-04-16T08:20:28] Add Prometheus exporter endpoints for queue length
