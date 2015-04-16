@@ -6670,3 +6670,4 @@
 - [2015-04-16T12:36:49] Add Prometheus exporter endpoints for queue length
 - [2015-04-16T15:13:49] Clean up legacy worker task routines
 - [2015-04-16T11:58:04] Add retries for transient network drops
+- [2015-04-16T08:01:35] Improve ffmpeg streaming pipe buffer management
