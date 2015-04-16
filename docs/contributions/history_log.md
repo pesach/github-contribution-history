@@ -6665,3 +6665,4 @@
 - [2015-04-15T21:49:51] Improve ffmpeg streaming pipe buffer management
 - [2015-04-15T19:04:13] Add Prometheus exporter endpoints for queue length
 - [2015-04-15T11:55:48] Fix edge case in channel tab crawler
+- [2015-04-16T15:50:54] Add Redis rate limit backoff handlers
