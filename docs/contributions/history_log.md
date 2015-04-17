@@ -6686,3 +6686,4 @@
 - [2015-04-17T12:35:41] Update B2 storage chunking parameters
 - [2015-04-17T09:08:13] Enhance dashboard statistics rendering
 - [2015-04-17T22:07:42] Add Prometheus exporter endpoints for queue length
+- [2015-04-17T12:27:37] Add retries for transient network drops
