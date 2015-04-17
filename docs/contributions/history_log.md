@@ -6683,3 +6683,4 @@
 - [2015-04-17T18:58:40] Update automated pytest test suites
 - [2015-04-17T22:13:51] Update B2 storage chunking parameters
 - [2015-04-17T16:09:40] Refactor worker polling logic
+- [2015-04-17T12:35:41] Update B2 storage chunking parameters
