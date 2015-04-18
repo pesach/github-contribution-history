@@ -6685,3 +6685,4 @@
 - [2015-04-17T16:09:40] Refactor worker polling logic
 - [2015-04-17T12:35:41] Update B2 storage chunking parameters
 - [2015-04-17T09:08:13] Enhance dashboard statistics rendering
+- [2015-04-17T22:07:42] Add Prometheus exporter endpoints for queue length
