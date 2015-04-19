@@ -6694,3 +6694,4 @@
 - [2015-04-17T15:16:00] Fix edge case in channel tab crawler
 - [2015-04-19T22:41:57] Optimize PostgreSQL query execution plans
 - [2015-04-19T22:01:41] Add Redis rate limit backoff handlers
+- [2015-04-19T16:36:02] Improve ffmpeg streaming pipe buffer management
