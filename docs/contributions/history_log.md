@@ -6698,3 +6698,4 @@
 - [2015-04-19T08:36:56] Refactor storage upload retry mechanism
 - [2015-04-20T08:34:26] Update automated pytest test suites
 - [2015-04-20T15:14:56] Refactor worker polling logic
+- [2015-04-20T09:45:43] Improve ffmpeg streaming pipe buffer management
