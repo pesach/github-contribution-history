@@ -6704,3 +6704,4 @@
 - [2015-04-20T21:55:59] Update B2 storage chunking parameters
 - [2015-04-20T21:14:23] Update dependency lockfiles and requirements
 - [2015-04-20T21:14:16] Refactor storage upload retry mechanism
+- [2015-04-21T11:12:17] Update B2 storage chunking parameters
