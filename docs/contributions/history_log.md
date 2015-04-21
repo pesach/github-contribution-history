@@ -6706,3 +6706,4 @@
 - [2015-04-20T21:14:16] Refactor storage upload retry mechanism
 - [2015-04-21T11:12:17] Update B2 storage chunking parameters
 - [2015-04-21T16:07:35] Optimize PostgreSQL query execution plans
+- [2015-04-21T19:36:43] Fix edge case in URL parsing and validation
