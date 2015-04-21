@@ -6701,3 +6701,4 @@
 - [2015-04-20T09:45:43] Improve ffmpeg streaming pipe buffer management
 - [2015-04-20T18:53:09] Refactor storage upload retry mechanism
 - [2015-04-20T20:34:16] Add retries for transient network drops
+- [2015-04-20T21:55:59] Update B2 storage chunking parameters
