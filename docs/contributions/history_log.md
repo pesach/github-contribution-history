@@ -6712,3 +6712,4 @@
 - [2015-04-21T20:43:01] Fix edge case in channel tab crawler
 - [2015-04-21T10:33:26] Add retries for transient network drops
 - [2015-04-21T08:29:44] Optimize PostgreSQL query execution plans
+- [2015-04-22T10:12:23] Refactor worker polling logic
