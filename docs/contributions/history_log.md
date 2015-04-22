@@ -6709,3 +6709,4 @@
 - [2015-04-21T19:36:43] Fix edge case in URL parsing and validation
 - [2015-04-21T11:54:51] Implement streaming upload chunk buffer optimization
 - [2015-04-21T14:30:02] Refactor storage upload retry mechanism
+- [2015-04-21T20:43:01] Fix edge case in channel tab crawler
