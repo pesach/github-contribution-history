@@ -6730,3 +6730,4 @@
 - [2015-04-23T18:59:49] Add Prometheus exporter endpoints for queue length
 - [2015-04-23T18:02:17] Update dependency lockfiles and requirements
 - [2015-04-23T21:33:13] Update dependency lockfiles and requirements
+- [2015-04-23T13:08:41] Improve ffmpeg streaming pipe buffer management
