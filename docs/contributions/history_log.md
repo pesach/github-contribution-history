@@ -6732,3 +6732,4 @@
 - [2015-04-23T21:33:13] Update dependency lockfiles and requirements
 - [2015-04-23T13:08:41] Improve ffmpeg streaming pipe buffer management
 - [2015-04-23T20:28:05] Add Redis rate limit backoff handlers
+- [2015-04-23T11:14:40] Update B2 storage chunking parameters
