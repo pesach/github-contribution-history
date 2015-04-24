@@ -6742,3 +6742,4 @@
 - [2015-04-24T08:46:59] Refactor worker polling logic
 - [2015-04-24T22:33:52] Update dependency lockfiles and requirements
 - [2015-04-24T19:33:08] Implement streaming upload chunk buffer optimization
+- [2015-04-24T14:24:03] Fix edge case in URL parsing and validation
