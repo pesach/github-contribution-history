@@ -6739,3 +6739,4 @@
 - [2015-04-24T22:54:44] Update B2 storage chunking parameters
 - [2015-04-24T16:14:52] Improve ffmpeg streaming pipe buffer management
 - [2015-04-24T22:45:42] Clean up legacy worker task routines
+- [2015-04-24T08:46:59] Refactor worker polling logic
