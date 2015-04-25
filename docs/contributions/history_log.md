@@ -6745,3 +6745,4 @@
 - [2015-04-24T14:24:03] Fix edge case in URL parsing and validation
 - [2015-04-24T12:23:49] Refactor cookie refresher probe logic
 - [2015-04-24T08:51:42] Refactor storage upload retry mechanism
+- [2015-04-24T22:53:54] Refactor cookie refresher probe logic
