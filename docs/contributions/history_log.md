@@ -6746,3 +6746,4 @@
 - [2015-04-24T12:23:49] Refactor cookie refresher probe logic
 - [2015-04-24T08:51:42] Refactor storage upload retry mechanism
 - [2015-04-24T22:53:54] Refactor cookie refresher probe logic
+- [2015-04-24T21:58:46] Fix edge case in channel tab crawler
