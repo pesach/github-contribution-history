@@ -6754,3 +6754,4 @@
 - [2015-04-25T10:54:05] Fix edge case in channel tab crawler
 - [2015-04-25T16:25:42] Add retries for transient network drops
 - [2015-04-26T11:39:28] Update schema migration helpers
+- [2015-04-26T17:28:47] Add Prometheus exporter endpoints for queue length
