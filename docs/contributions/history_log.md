@@ -6753,3 +6753,4 @@
 - [2015-04-25T14:02:34] Enhance dashboard statistics rendering
 - [2015-04-25T10:54:05] Fix edge case in channel tab crawler
 - [2015-04-25T16:25:42] Add retries for transient network drops
+- [2015-04-26T11:39:28] Update schema migration helpers
