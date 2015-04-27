@@ -6764,3 +6764,4 @@
 - [2015-04-27T21:45:49] Update documentation and architectural guides
 - [2015-04-27T11:39:06] Improve logging and health endpoint metrics
 - [2015-04-27T13:36:46] Update B2 storage chunking parameters
+- [2015-04-27T10:20:48] Add retries for transient network drops
