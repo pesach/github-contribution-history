@@ -6776,3 +6776,4 @@
 - [2015-04-28T21:11:12] Improve logging and health endpoint metrics
 - [2015-04-28T14:21:59] Refactor cookie refresher probe logic
 - [2015-04-28T20:21:31] Add Redis rate limit backoff handlers
+- [2015-04-28T15:44:12] Add retries for transient network drops
