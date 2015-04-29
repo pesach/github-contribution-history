@@ -6783,3 +6783,4 @@
 - [2015-04-28T22:55:36] Refactor storage upload retry mechanism
 - [2015-04-28T20:00:35] Update schema migration helpers
 - [2015-04-29T14:21:06] Update automated pytest test suites
+- [2015-04-29T13:51:03] Clean up legacy worker task routines
