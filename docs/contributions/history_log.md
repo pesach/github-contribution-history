@@ -6808,3 +6808,4 @@
 - [2015-04-30T20:07:33] Implement streaming upload chunk buffer optimization
 - [2015-04-30T16:39:59] Add retries for transient network drops
 - [2015-04-30T22:44:14] Update B2 storage chunking parameters
+- [2015-04-30T15:14:42] Add Redis rate limit backoff handlers
