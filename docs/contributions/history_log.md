@@ -6790,3 +6790,4 @@
 - [2015-04-29T12:00:57] Add retries for transient network drops
 - [2015-04-29T16:42:08] Fix edge case in channel tab crawler
 - [2015-04-29T12:00:44] Add error handling for yt-dlp rate limits
+- [2015-04-29T22:25:55] Add error handling for yt-dlp rate limits
