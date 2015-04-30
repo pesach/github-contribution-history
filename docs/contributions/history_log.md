@@ -6806,3 +6806,4 @@
 - [2015-04-30T15:17:52] Update documentation and architectural guides
 - [2015-04-30T09:46:57] Update automated pytest test suites
 - [2015-04-30T20:07:33] Implement streaming upload chunk buffer optimization
+- [2015-04-30T16:39:59] Add retries for transient network drops
