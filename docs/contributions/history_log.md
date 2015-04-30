@@ -6799,3 +6799,4 @@
 - [2015-04-29T19:57:31] Update dependency lockfiles and requirements
 - [2015-04-30T15:49:32] Add retries for transient network drops
 - [2015-04-30T22:52:23] Add retries for transient network drops
+- [2015-04-30T16:15:18] Add error handling for yt-dlp rate limits
