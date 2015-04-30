@@ -6800,3 +6800,4 @@
 - [2015-04-30T15:49:32] Add retries for transient network drops
 - [2015-04-30T22:52:23] Add retries for transient network drops
 - [2015-04-30T16:15:18] Add error handling for yt-dlp rate limits
+- [2015-04-30T19:24:42] Refactor storage upload retry mechanism
