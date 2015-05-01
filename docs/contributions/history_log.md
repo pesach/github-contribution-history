@@ -6817,3 +6817,4 @@
 - [2015-05-01T21:13:24] Clean up legacy worker task routines
 - [2015-05-01T17:48:35] Clean up legacy worker task routines
 - [2015-05-01T17:04:27] Clean up legacy worker task routines
+- [2015-05-01T09:18:08] Add Prometheus exporter endpoints for queue length
