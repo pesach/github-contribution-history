@@ -6805,3 +6805,4 @@
 - [2015-04-30T09:02:55] Update schema migration helpers
 - [2015-04-30T15:17:52] Update documentation and architectural guides
 - [2015-04-30T09:46:57] Update automated pytest test suites
+- [2015-04-30T20:07:33] Implement streaming upload chunk buffer optimization
