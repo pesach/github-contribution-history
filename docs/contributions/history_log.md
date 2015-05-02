@@ -6814,3 +6814,4 @@
 - [2015-05-01T10:26:18] Clean up legacy worker task routines
 - [2015-05-01T10:54:17] Improve ffmpeg streaming pipe buffer management
 - [2015-05-01T19:42:00] Update dependency lockfiles and requirements
+- [2015-05-01T21:13:24] Clean up legacy worker task routines
