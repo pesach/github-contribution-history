@@ -6836,3 +6836,4 @@
 - [2015-05-04T14:22:56] Update dependency lockfiles and requirements
 - [2015-05-04T22:19:21] Optimize PostgreSQL query execution plans
 - [2015-05-04T21:41:02] Fix edge case in channel tab crawler
+- [2015-05-04T10:31:47] Improve ffmpeg streaming pipe buffer management
