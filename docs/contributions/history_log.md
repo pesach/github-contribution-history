@@ -6832,3 +6832,4 @@
 - [2015-05-04T17:53:13] Update B2 storage chunking parameters
 - [2015-05-04T11:54:37] Refactor worker polling logic
 - [2015-05-04T20:42:03] Add Redis rate limit backoff handlers
+- [2015-05-04T08:09:21] Refactor storage upload retry mechanism
