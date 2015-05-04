@@ -6830,3 +6830,4 @@
 - [2015-05-03T22:16:06] Add Prometheus exporter endpoints for queue length
 - [2015-05-04T08:09:54] Refactor cookie refresher probe logic
 - [2015-05-04T17:53:13] Update B2 storage chunking parameters
+- [2015-05-04T11:54:37] Refactor worker polling logic
