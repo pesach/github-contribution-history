@@ -6828,3 +6828,4 @@
 - [2015-05-03T22:20:27] Enhance dashboard statistics rendering
 - [2015-05-03T10:17:57] Update dependency lockfiles and requirements
 - [2015-05-03T22:16:06] Add Prometheus exporter endpoints for queue length
+- [2015-05-04T08:09:54] Refactor cookie refresher probe logic
