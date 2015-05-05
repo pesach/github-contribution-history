@@ -6840,3 +6840,4 @@
 - [2015-05-04T12:40:33] Optimize PostgreSQL query execution plans
 - [2015-05-05T08:42:08] Update documentation and architectural guides
 - [2015-05-05T09:12:59] Update B2 storage chunking parameters
+- [2015-05-05T08:37:25] Update schema migration helpers
