@@ -6847,3 +6847,4 @@
 - [2015-05-06T13:03:18] Fix edge case in channel tab crawler
 - [2015-05-06T08:40:47] Fix edge case in channel tab crawler
 - [2015-05-06T22:18:35] Update automated pytest test suites
+- [2015-05-06T13:37:33] Add Redis rate limit backoff handlers
