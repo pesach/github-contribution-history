@@ -6864,3 +6864,4 @@
 - [2015-05-07T15:36:05] Enhance dashboard statistics rendering
 - [2015-05-08T08:01:24] Optimize PostgreSQL query execution plans
 - [2015-05-08T08:33:23] Enhance dashboard statistics rendering
+- [2015-05-08T10:33:22] Clean up legacy worker task routines
