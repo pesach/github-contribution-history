@@ -6870,3 +6870,4 @@
 - [2015-05-08T18:09:18] Update dependency lockfiles and requirements
 - [2015-05-08T12:29:24] Update B2 storage chunking parameters
 - [2015-05-08T14:21:06] Update B2 storage chunking parameters
+- [2015-05-08T21:10:58] Update documentation and architectural guides
