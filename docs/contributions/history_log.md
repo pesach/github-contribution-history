@@ -6873,3 +6873,4 @@
 - [2015-05-08T21:10:58] Update documentation and architectural guides
 - [2015-05-09T21:30:55] Update schema migration helpers
 - [2015-05-09T10:47:12] Implement streaming upload chunk buffer optimization
+- [2015-05-09T17:36:53] Add Redis rate limit backoff handlers
