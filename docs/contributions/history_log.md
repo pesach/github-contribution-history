@@ -6884,3 +6884,4 @@
 - [2015-05-11T21:58:06] Update dependency lockfiles and requirements
 - [2015-05-11T17:34:38] Refactor storage upload retry mechanism
 - [2015-05-11T11:17:03] Fix edge case in URL parsing and validation
+- [2015-05-11T12:22:07] Refactor cookie refresher probe logic
