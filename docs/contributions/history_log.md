@@ -6887,3 +6887,4 @@
 - [2015-05-11T12:22:07] Refactor cookie refresher probe logic
 - [2015-05-11T18:00:20] Clean up legacy worker task routines
 - [2015-05-11T22:39:14] Refactor cookie refresher probe logic
+- [2015-05-11T14:03:51] Add retries for transient network drops
