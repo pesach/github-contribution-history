@@ -6890,3 +6890,4 @@
 - [2015-05-11T14:03:51] Add retries for transient network drops
 - [2015-05-11T15:53:08] Fix edge case in channel tab crawler
 - [2015-05-11T08:12:10] Optimize PostgreSQL query execution plans
+- [2015-05-11T14:17:39] Refactor cookie refresher probe logic
