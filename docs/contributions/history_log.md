@@ -6913,3 +6913,4 @@
 - [2015-05-14T08:54:43] Enhance dashboard statistics rendering
 - [2015-05-14T19:14:39] Improve logging and health endpoint metrics
 - [2015-05-14T18:35:32] Update automated pytest test suites
+- [2015-05-14T08:31:17] Update schema migration helpers
