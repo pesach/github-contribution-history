@@ -6915,3 +6915,4 @@
 - [2015-05-14T18:35:32] Update automated pytest test suites
 - [2015-05-14T08:31:17] Update schema migration helpers
 - [2015-05-14T09:11:33] Update documentation and architectural guides
+- [2015-05-14T10:46:11] Update dependency lockfiles and requirements
