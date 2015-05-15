@@ -6919,3 +6919,4 @@
 - [2015-05-14T13:12:13] Clean up legacy worker task routines
 - [2015-05-14T16:36:53] Update automated pytest test suites
 - [2015-05-14T15:13:37] Enhance dashboard statistics rendering
+- [2015-05-15T17:42:38] Add Prometheus exporter endpoints for queue length
