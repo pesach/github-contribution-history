@@ -6925,3 +6925,4 @@
 - [2015-05-15T12:14:40] Improve logging and health endpoint metrics
 - [2015-05-15T09:16:22] Refactor worker polling logic
 - [2015-05-15T17:02:16] Refactor cookie refresher probe logic
+- [2015-05-15T16:24:46] Update schema migration helpers
