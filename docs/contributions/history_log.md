@@ -6928,3 +6928,4 @@
 - [2015-05-15T16:24:46] Update schema migration helpers
 - [2015-05-16T13:43:09] Fix edge case in URL parsing and validation
 - [2015-05-16T12:37:52] Update schema migration helpers
+- [2015-05-16T10:40:12] Fix edge case in channel tab crawler
