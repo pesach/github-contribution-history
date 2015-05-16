@@ -6926,3 +6926,4 @@
 - [2015-05-15T09:16:22] Refactor worker polling logic
 - [2015-05-15T17:02:16] Refactor cookie refresher probe logic
 - [2015-05-15T16:24:46] Update schema migration helpers
+- [2015-05-16T13:43:09] Fix edge case in URL parsing and validation
