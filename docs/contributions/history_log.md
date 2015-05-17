@@ -6933,3 +6933,4 @@
 - [2015-05-17T11:16:55] Fix edge case in URL parsing and validation
 - [2015-05-17T15:24:24] Update dependency lockfiles and requirements
 - [2015-05-17T19:51:41] Refactor worker polling logic
+- [2015-05-17T15:28:52] Add error handling for yt-dlp rate limits
