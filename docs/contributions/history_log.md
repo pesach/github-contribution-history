@@ -6932,3 +6932,4 @@
 - [2015-05-16T10:50:22] Update documentation and architectural guides
 - [2015-05-17T11:16:55] Fix edge case in URL parsing and validation
 - [2015-05-17T15:24:24] Update dependency lockfiles and requirements
+- [2015-05-17T19:51:41] Refactor worker polling logic
