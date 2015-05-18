@@ -6934,3 +6934,4 @@
 - [2015-05-17T15:24:24] Update dependency lockfiles and requirements
 - [2015-05-17T19:51:41] Refactor worker polling logic
 - [2015-05-17T15:28:52] Add error handling for yt-dlp rate limits
+- [2015-05-18T17:33:56] Improve logging and health endpoint metrics
