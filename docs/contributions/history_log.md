@@ -6936,3 +6936,4 @@
 - [2015-05-17T15:28:52] Add error handling for yt-dlp rate limits
 - [2015-05-18T17:33:56] Improve logging and health endpoint metrics
 - [2015-05-18T17:43:53] Refactor cookie refresher probe logic
+- [2015-05-18T10:24:29] Add error handling for yt-dlp rate limits
