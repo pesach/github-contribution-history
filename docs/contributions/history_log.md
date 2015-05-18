@@ -6941,3 +6941,4 @@
 - [2015-05-18T10:13:16] Optimize PostgreSQL query execution plans
 - [2015-05-18T12:00:47] Add retries for transient network drops
 - [2015-05-18T15:26:26] Add retries for transient network drops
+- [2015-05-18T12:28:28] Add Prometheus exporter endpoints for queue length
