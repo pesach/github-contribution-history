@@ -6950,3 +6950,4 @@
 - [2015-05-19T12:08:06] Add error handling for yt-dlp rate limits
 - [2015-05-19T19:52:43] Improve logging and health endpoint metrics
 - [2015-05-19T18:44:51] Add retries for transient network drops
+- [2015-05-19T09:19:57] Clean up legacy worker task routines
