@@ -6943,3 +6943,4 @@
 - [2015-05-18T15:26:26] Add retries for transient network drops
 - [2015-05-18T12:28:28] Add Prometheus exporter endpoints for queue length
 - [2015-05-18T20:52:04] Refactor worker polling logic
+- [2015-05-19T09:23:06] Update documentation and architectural guides
