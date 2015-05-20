@@ -6952,3 +6952,4 @@
 - [2015-05-19T18:44:51] Add retries for transient network drops
 - [2015-05-19T09:19:57] Clean up legacy worker task routines
 - [2015-05-20T15:58:58] Fix edge case in channel tab crawler
+- [2015-05-20T14:40:39] Improve logging and health endpoint metrics
