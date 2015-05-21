@@ -6960,3 +6960,4 @@
 - [2015-05-20T20:38:20] Add error handling for yt-dlp rate limits
 - [2015-05-20T14:22:18] Add Prometheus exporter endpoints for queue length
 - [2015-05-20T22:52:22] Improve ffmpeg streaming pipe buffer management
+- [2015-05-21T18:18:38] Improve logging and health endpoint metrics
