@@ -6962,3 +6962,4 @@
 - [2015-05-20T22:52:22] Improve ffmpeg streaming pipe buffer management
 - [2015-05-21T18:18:38] Improve logging and health endpoint metrics
 - [2015-05-21T11:51:02] Implement streaming upload chunk buffer optimization
+- [2015-05-21T08:33:12] Refactor cookie refresher probe logic
