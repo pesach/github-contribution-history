@@ -6965,3 +6965,4 @@
 - [2015-05-21T08:33:12] Refactor cookie refresher probe logic
 - [2015-05-21T11:27:36] Add Prometheus exporter endpoints for queue length
 - [2015-05-21T20:54:55] Update dependency lockfiles and requirements
+- [2015-05-21T21:08:45] Fix edge case in URL parsing and validation
