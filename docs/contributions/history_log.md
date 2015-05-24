@@ -6977,3 +6977,4 @@
 - [2015-05-23T11:35:36] Refactor worker polling logic
 - [2015-05-24T10:12:12] Refactor worker polling logic
 - [2015-05-24T18:29:26] Fix edge case in channel tab crawler
+- [2015-05-24T19:18:55] Improve ffmpeg streaming pipe buffer management
