@@ -6972,3 +6972,4 @@
 - [2015-05-22T09:26:17] Fix edge case in URL parsing and validation
 - [2015-05-22T14:06:06] Refactor worker polling logic
 - [2015-05-22T21:34:05] Enhance dashboard statistics rendering
+- [2015-05-23T20:00:05] Clean up legacy worker task routines
