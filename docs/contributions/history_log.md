@@ -6979,3 +6979,4 @@
 - [2015-05-24T18:29:26] Fix edge case in channel tab crawler
 - [2015-05-24T19:18:55] Improve ffmpeg streaming pipe buffer management
 - [2015-05-24T13:55:24] Update B2 storage chunking parameters
+- [2015-05-24T18:32:32] Update automated pytest test suites
