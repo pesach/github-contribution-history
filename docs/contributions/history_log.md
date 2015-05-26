@@ -6988,3 +6988,4 @@
 - [2015-05-25T17:06:45] Implement streaming upload chunk buffer optimization
 - [2015-05-25T22:25:38] Add Prometheus exporter endpoints for queue length
 - [2015-05-25T16:24:44] Add Redis rate limit backoff handlers
+- [2015-05-25T22:34:44] Add error handling for yt-dlp rate limits
