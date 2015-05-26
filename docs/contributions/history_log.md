@@ -6984,3 +6984,4 @@
 - [2015-05-25T16:16:30] Add Prometheus exporter endpoints for queue length
 - [2015-05-25T16:18:43] Refactor cookie refresher probe logic
 - [2015-05-25T21:16:20] Add Redis rate limit backoff handlers
+- [2015-05-25T21:00:02] Clean up legacy worker task routines
