@@ -7004,3 +7004,4 @@
 - [2015-05-27T13:03:52] Optimize PostgreSQL query execution plans
 - [2015-05-27T18:58:10] Refactor worker polling logic
 - [2015-05-27T19:42:14] Update dependency lockfiles and requirements
+- [2015-05-27T09:19:31] Add error handling for yt-dlp rate limits
