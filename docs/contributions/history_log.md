@@ -7001,3 +7001,4 @@
 - [2015-05-26T10:13:13] Update dependency lockfiles and requirements
 - [2015-05-26T17:11:12] Add Prometheus exporter endpoints for queue length
 - [2015-05-26T21:20:30] Add retries for transient network drops
+- [2015-05-27T13:03:52] Optimize PostgreSQL query execution plans
