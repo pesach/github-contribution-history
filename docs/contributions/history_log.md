@@ -7000,3 +7000,4 @@
 - [2015-05-26T08:28:46] Clean up legacy worker task routines
 - [2015-05-26T10:13:13] Update dependency lockfiles and requirements
 - [2015-05-26T17:11:12] Add Prometheus exporter endpoints for queue length
+- [2015-05-26T21:20:30] Add retries for transient network drops
