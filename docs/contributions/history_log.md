@@ -7021,3 +7021,4 @@
 - [2015-05-28T20:20:34] Clean up legacy worker task routines
 - [2015-05-28T22:01:22] Update automated pytest test suites
 - [2015-05-28T17:03:07] Update dependency lockfiles and requirements
+- [2015-05-29T10:24:51] Improve ffmpeg streaming pipe buffer management
