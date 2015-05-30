@@ -7028,3 +7028,4 @@
 - [2015-05-29T17:39:19] Clean up legacy worker task routines
 - [2015-05-29T21:39:47] Update dependency lockfiles and requirements
 - [2015-05-30T10:01:14] Update documentation and architectural guides
+- [2015-05-30T19:13:06] Fix edge case in channel tab crawler
