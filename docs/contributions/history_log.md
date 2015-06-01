@@ -7038,3 +7038,4 @@
 - [2015-05-31T12:44:23] Improve logging and health endpoint metrics
 - [2015-05-31T12:11:14] Refactor cookie refresher probe logic
 - [2015-05-31T12:17:44] Refactor cookie refresher probe logic
+- [2015-06-01T17:20:45] Improve ffmpeg streaming pipe buffer management
