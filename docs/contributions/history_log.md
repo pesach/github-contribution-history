@@ -7040,3 +7040,4 @@
 - [2015-05-31T12:17:44] Refactor cookie refresher probe logic
 - [2015-06-01T17:20:45] Improve ffmpeg streaming pipe buffer management
 - [2015-06-01T15:56:59] Refactor cookie refresher probe logic
+- [2015-06-01T10:13:14] Fix edge case in URL parsing and validation
