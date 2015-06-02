@@ -7049,3 +7049,4 @@
 - [2015-06-02T12:49:53] Improve logging and health endpoint metrics
 - [2015-06-02T09:15:04] Update dependency lockfiles and requirements
 - [2015-06-02T16:19:12] Improve logging and health endpoint metrics
+- [2015-06-02T13:20:24] Fix edge case in URL parsing and validation
