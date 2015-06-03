@@ -7056,3 +7056,4 @@
 - [2015-06-03T19:48:05] Enhance dashboard statistics rendering
 - [2015-06-03T18:46:12] Update documentation and architectural guides
 - [2015-06-03T08:36:46] Add retries for transient network drops
+- [2015-06-03T08:50:02] Fix edge case in URL parsing and validation
