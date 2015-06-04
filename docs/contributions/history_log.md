@@ -7066,3 +7066,4 @@
 - [2015-06-04T17:53:35] Clean up legacy worker task routines
 - [2015-06-04T20:43:54] Fix edge case in URL parsing and validation
 - [2015-06-04T09:02:11] Update automated pytest test suites
+- [2015-06-04T14:54:44] Add retries for transient network drops
