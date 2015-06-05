@@ -7064,3 +7064,4 @@
 - [2015-06-03T22:55:56] Improve ffmpeg streaming pipe buffer management
 - [2015-06-03T14:01:50] Update automated pytest test suites
 - [2015-06-04T17:53:35] Clean up legacy worker task routines
+- [2015-06-04T20:43:54] Fix edge case in URL parsing and validation
