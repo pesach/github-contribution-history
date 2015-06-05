@@ -7075,3 +7075,4 @@
 - [2015-06-05T13:12:52] Clean up legacy worker task routines
 - [2015-06-05T19:15:43] Improve logging and health endpoint metrics
 - [2015-06-05T19:24:59] Add error handling for yt-dlp rate limits
+- [2015-06-05T18:56:51] Add error handling for yt-dlp rate limits
