@@ -7077,3 +7077,4 @@
 - [2015-06-05T19:24:59] Add error handling for yt-dlp rate limits
 - [2015-06-05T18:56:51] Add error handling for yt-dlp rate limits
 - [2015-06-05T08:09:10] Refactor cookie refresher probe logic
+- [2015-06-06T19:26:32] Refactor cookie refresher probe logic
