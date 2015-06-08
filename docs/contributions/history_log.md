@@ -7090,3 +7090,4 @@
 - [2015-06-08T13:08:01] Improve logging and health endpoint metrics
 - [2015-06-08T21:09:59] Update schema migration helpers
 - [2015-06-08T18:55:04] Add retries for transient network drops
+- [2015-06-08T10:34:44] Add Prometheus exporter endpoints for queue length
