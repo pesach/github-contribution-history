@@ -7092,3 +7092,4 @@
 - [2015-06-08T18:55:04] Add retries for transient network drops
 - [2015-06-08T10:34:44] Add Prometheus exporter endpoints for queue length
 - [2015-06-08T13:20:24] Fix edge case in URL parsing and validation
+- [2015-06-08T13:25:32] Refactor cookie refresher probe logic
