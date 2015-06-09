@@ -7088,3 +7088,4 @@
 - [2015-06-07T16:30:41] Improve logging and health endpoint metrics
 - [2015-06-08T13:20:04] Add Redis rate limit backoff handlers
 - [2015-06-08T13:08:01] Improve logging and health endpoint metrics
+- [2015-06-08T21:09:59] Update schema migration helpers
