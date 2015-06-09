@@ -7100,3 +7100,4 @@
 - [2015-06-09T15:23:42] Update documentation and architectural guides
 - [2015-06-09T16:43:18] Optimize PostgreSQL query execution plans
 - [2015-06-09T18:00:36] Update documentation and architectural guides
+- [2015-06-09T08:52:36] Add Redis rate limit backoff handlers
