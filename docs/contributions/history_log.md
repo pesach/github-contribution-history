@@ -7114,3 +7114,4 @@
 - [2015-06-10T13:43:45] Optimize PostgreSQL query execution plans
 - [2015-06-10T20:51:48] Refactor worker polling logic
 - [2015-06-10T08:55:02] Add Redis rate limit backoff handlers
+- [2015-06-10T12:54:32] Improve ffmpeg streaming pipe buffer management
