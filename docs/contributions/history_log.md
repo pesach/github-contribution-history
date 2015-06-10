@@ -7113,3 +7113,4 @@
 - [2015-06-10T09:27:51] Fix edge case in URL parsing and validation
 - [2015-06-10T13:43:45] Optimize PostgreSQL query execution plans
 - [2015-06-10T20:51:48] Refactor worker polling logic
+- [2015-06-10T08:55:02] Add Redis rate limit backoff handlers
