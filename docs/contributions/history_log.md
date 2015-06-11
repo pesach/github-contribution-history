@@ -7126,3 +7126,4 @@
 - [2015-06-11T12:38:55] Update automated pytest test suites
 - [2015-06-11T10:37:32] Refactor storage upload retry mechanism
 - [2015-06-11T15:18:48] Refactor storage upload retry mechanism
+- [2015-06-11T16:20:48] Add retries for transient network drops
