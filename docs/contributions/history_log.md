@@ -7127,3 +7127,4 @@
 - [2015-06-11T10:37:32] Refactor storage upload retry mechanism
 - [2015-06-11T15:18:48] Refactor storage upload retry mechanism
 - [2015-06-11T16:20:48] Add retries for transient network drops
+- [2015-06-11T09:11:00] Update B2 storage chunking parameters
