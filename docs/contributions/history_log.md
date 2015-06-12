@@ -7131,3 +7131,4 @@
 - [2015-06-11T17:59:30] Refactor worker polling logic
 - [2015-06-11T21:59:10] Update dependency lockfiles and requirements
 - [2015-06-12T08:46:00] Improve logging and health endpoint metrics
+- [2015-06-12T09:04:46] Clean up legacy worker task routines
