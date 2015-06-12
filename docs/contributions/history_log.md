@@ -7133,3 +7133,4 @@
 - [2015-06-12T08:46:00] Improve logging and health endpoint metrics
 - [2015-06-12T09:04:46] Clean up legacy worker task routines
 - [2015-06-12T21:36:03] Add Prometheus exporter endpoints for queue length
+- [2015-06-12T17:57:29] Improve ffmpeg streaming pipe buffer management
