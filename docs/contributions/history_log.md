@@ -7149,3 +7149,4 @@
 - [2015-06-15T12:47:04] Update B2 storage chunking parameters
 - [2015-06-15T21:21:07] Clean up legacy worker task routines
 - [2015-06-15T18:55:32] Update automated pytest test suites
+- [2015-06-15T19:33:47] Add retries for transient network drops
