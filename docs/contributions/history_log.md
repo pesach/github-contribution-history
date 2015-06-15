@@ -7151,3 +7151,4 @@
 - [2015-06-15T18:55:32] Update automated pytest test suites
 - [2015-06-15T19:33:47] Add retries for transient network drops
 - [2015-06-15T16:55:49] Add retries for transient network drops
+- [2015-06-15T17:52:39] Add Prometheus exporter endpoints for queue length
