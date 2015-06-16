@@ -7164,3 +7164,4 @@
 - [2015-06-16T22:42:20] Update documentation and architectural guides
 - [2015-06-16T09:27:06] Update schema migration helpers
 - [2015-06-16T13:54:45] Update documentation and architectural guides
+- [2015-06-16T13:31:14] Update schema migration helpers
