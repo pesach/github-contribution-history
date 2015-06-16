@@ -7168,3 +7168,4 @@
 - [2015-06-16T20:59:24] Add error handling for yt-dlp rate limits
 - [2015-06-16T18:21:13] Add retries for transient network drops
 - [2015-06-16T09:23:50] Update schema migration helpers
+- [2015-06-16T16:17:35] Clean up legacy worker task routines
