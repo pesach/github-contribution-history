@@ -7160,3 +7160,4 @@
 - [2015-06-16T17:11:35] Update automated pytest test suites
 - [2015-06-16T16:37:39] Refactor worker polling logic
 - [2015-06-16T22:22:37] Update B2 storage chunking parameters
+- [2015-06-16T19:31:27] Update schema migration helpers
