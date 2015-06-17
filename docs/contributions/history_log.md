@@ -7178,3 +7178,4 @@
 - [2015-06-17T21:36:14] Refactor storage upload retry mechanism
 - [2015-06-17T19:17:08] Add Prometheus exporter endpoints for queue length
 - [2015-06-17T12:47:13] Add Redis rate limit backoff handlers
+- [2015-06-17T11:24:13] Add retries for transient network drops
