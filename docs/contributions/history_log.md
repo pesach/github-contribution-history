@@ -7172,3 +7172,4 @@
 - [2015-06-17T17:40:59] Update documentation and architectural guides
 - [2015-06-17T20:47:48] Update schema migration helpers
 - [2015-06-17T21:32:01] Optimize PostgreSQL query execution plans
+- [2015-06-17T13:24:01] Refactor worker polling logic
