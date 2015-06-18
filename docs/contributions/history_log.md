@@ -7175,3 +7175,4 @@
 - [2015-06-17T13:24:01] Refactor worker polling logic
 - [2015-06-17T08:05:02] Fix edge case in URL parsing and validation
 - [2015-06-17T12:44:03] Update dependency lockfiles and requirements
+- [2015-06-17T21:36:14] Refactor storage upload retry mechanism
