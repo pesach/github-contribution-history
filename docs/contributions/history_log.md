@@ -7181,3 +7181,4 @@
 - [2015-06-17T11:24:13] Add retries for transient network drops
 - [2015-06-17T22:36:00] Optimize PostgreSQL query execution plans
 - [2015-06-17T15:19:26] Update schema migration helpers
+- [2015-06-17T20:08:47] Clean up legacy worker task routines
