@@ -7196,3 +7196,4 @@
 - [2015-06-18T08:04:35] Implement streaming upload chunk buffer optimization
 - [2015-06-18T17:44:26] Update automated pytest test suites
 - [2015-06-18T11:03:27] Improve logging and health endpoint metrics
+- [2015-06-19T18:55:05] Fix edge case in URL parsing and validation
