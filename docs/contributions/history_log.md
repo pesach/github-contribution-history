@@ -7212,3 +7212,4 @@
 - [2015-06-19T14:44:49] Clean up legacy worker task routines
 - [2015-06-20T17:59:37] Enhance dashboard statistics rendering
 - [2015-06-20T10:11:17] Improve ffmpeg streaming pipe buffer management
+- [2015-06-20T13:10:08] Add retries for transient network drops
