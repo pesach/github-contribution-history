@@ -7215,3 +7215,4 @@
 - [2015-06-20T13:10:08] Add retries for transient network drops
 - [2015-06-22T12:37:48] Fix edge case in channel tab crawler
 - [2015-06-22T10:54:08] Fix edge case in channel tab crawler
+- [2015-06-22T16:27:02] Fix edge case in URL parsing and validation
