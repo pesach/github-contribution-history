@@ -7216,3 +7216,4 @@
 - [2015-06-22T12:37:48] Fix edge case in channel tab crawler
 - [2015-06-22T10:54:08] Fix edge case in channel tab crawler
 - [2015-06-22T16:27:02] Fix edge case in URL parsing and validation
+- [2015-06-22T18:34:20] Clean up legacy worker task routines
