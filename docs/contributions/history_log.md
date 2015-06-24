@@ -7240,3 +7240,4 @@
 - [2015-06-24T08:16:34] Add Redis rate limit backoff handlers
 - [2015-06-24T18:45:21] Update dependency lockfiles and requirements
 - [2015-06-24T17:10:11] Fix edge case in URL parsing and validation
+- [2015-06-24T13:36:07] Fix edge case in channel tab crawler
