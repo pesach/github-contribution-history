@@ -7242,3 +7242,4 @@
 - [2015-06-24T17:10:11] Fix edge case in URL parsing and validation
 - [2015-06-24T13:36:07] Fix edge case in channel tab crawler
 - [2015-06-25T20:13:26] Optimize PostgreSQL query execution plans
+- [2015-06-25T15:13:13] Update B2 storage chunking parameters
