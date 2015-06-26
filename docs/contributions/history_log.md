@@ -7256,3 +7256,4 @@
 - [2015-06-26T12:59:19] Improve logging and health endpoint metrics
 - [2015-06-26T15:51:24] Add Redis rate limit backoff handlers
 - [2015-06-26T21:26:21] Add Redis rate limit backoff handlers
+- [2015-06-26T13:42:14] Optimize PostgreSQL query execution plans
