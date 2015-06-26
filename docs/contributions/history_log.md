@@ -7248,3 +7248,4 @@
 - [2015-06-25T16:48:27] Implement streaming upload chunk buffer optimization
 - [2015-06-25T13:11:09] Update B2 storage chunking parameters
 - [2015-06-25T11:57:38] Improve logging and health endpoint metrics
+- [2015-06-26T11:03:30] Fix edge case in URL parsing and validation
