@@ -7260,3 +7260,4 @@
 - [2015-06-26T14:39:03] Improve ffmpeg streaming pipe buffer management
 - [2015-06-26T22:26:13] Enhance dashboard statistics rendering
 - [2015-06-26T11:38:16] Refactor storage upload retry mechanism
+- [2015-06-26T09:07:13] Add error handling for yt-dlp rate limits
