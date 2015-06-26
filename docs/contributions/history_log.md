@@ -7257,3 +7257,4 @@
 - [2015-06-26T15:51:24] Add Redis rate limit backoff handlers
 - [2015-06-26T21:26:21] Add Redis rate limit backoff handlers
 - [2015-06-26T13:42:14] Optimize PostgreSQL query execution plans
+- [2015-06-26T14:39:03] Improve ffmpeg streaming pipe buffer management
