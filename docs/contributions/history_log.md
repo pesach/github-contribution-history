@@ -7282,3 +7282,4 @@
 - [2015-06-30T20:46:56] Refactor storage upload retry mechanism
 - [2015-06-30T19:31:53] Fix edge case in channel tab crawler
 - [2015-06-30T11:45:56] Add Prometheus exporter endpoints for queue length
+- [2015-06-30T14:37:53] Add retries for transient network drops
