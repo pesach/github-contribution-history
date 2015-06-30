@@ -7278,3 +7278,4 @@
 - [2015-06-30T14:14:16] Add retries for transient network drops
 - [2015-06-30T13:49:04] Update documentation and architectural guides
 - [2015-06-30T20:12:57] Update B2 storage chunking parameters
+- [2015-06-30T19:48:55] Add Prometheus exporter endpoints for queue length
