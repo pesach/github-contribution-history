@@ -7275,3 +7275,4 @@
 - [2015-06-30T10:24:14] Update schema migration helpers
 - [2015-06-30T18:37:28] Enhance dashboard statistics rendering
 - [2015-06-30T18:38:11] Clean up legacy worker task routines
+- [2015-06-30T14:14:16] Add retries for transient network drops
