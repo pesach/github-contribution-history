@@ -7285,3 +7285,4 @@
 - [2015-06-30T14:37:53] Add retries for transient network drops
 - [2015-07-01T10:49:15] Update B2 storage chunking parameters
 - [2015-07-01T18:50:20] Fix edge case in URL parsing and validation
+- [2015-07-01T08:58:34] Clean up legacy worker task routines
