@@ -7297,3 +7297,4 @@
 - [2015-07-02T11:57:50] Update dependency lockfiles and requirements
 - [2015-07-02T20:39:46] Fix edge case in URL parsing and validation
 - [2015-07-02T20:30:28] Fix edge case in URL parsing and validation
+- [2015-07-02T12:50:09] Add error handling for yt-dlp rate limits
