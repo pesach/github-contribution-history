@@ -7300,3 +7300,4 @@
 - [2015-07-02T12:50:09] Add error handling for yt-dlp rate limits
 - [2015-07-02T13:31:38] Optimize PostgreSQL query execution plans
 - [2015-07-02T19:43:28] Add Redis rate limit backoff handlers
+- [2015-07-02T17:18:52] Clean up legacy worker task routines
