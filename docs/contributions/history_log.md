@@ -7296,3 +7296,4 @@
 - [2015-07-02T14:10:46] Clean up legacy worker task routines
 - [2015-07-02T11:57:50] Update dependency lockfiles and requirements
 - [2015-07-02T20:39:46] Fix edge case in URL parsing and validation
+- [2015-07-02T20:30:28] Fix edge case in URL parsing and validation
