@@ -7309,3 +7309,4 @@
 - [2015-07-03T18:40:51] Refactor worker polling logic
 - [2015-07-03T08:51:29] Update documentation and architectural guides
 - [2015-07-03T12:22:07] Improve logging and health endpoint metrics
+- [2015-07-03T19:48:40] Update schema migration helpers
