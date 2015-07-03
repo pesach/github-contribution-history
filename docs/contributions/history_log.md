@@ -7301,3 +7301,4 @@
 - [2015-07-02T13:31:38] Optimize PostgreSQL query execution plans
 - [2015-07-02T19:43:28] Add Redis rate limit backoff handlers
 - [2015-07-02T17:18:52] Clean up legacy worker task routines
+- [2015-07-03T09:52:14] Update B2 storage chunking parameters
