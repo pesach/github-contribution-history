@@ -7312,3 +7312,4 @@
 - [2015-07-03T19:48:40] Update schema migration helpers
 - [2015-07-03T13:43:02] Refactor storage upload retry mechanism
 - [2015-07-04T14:23:47] Refactor storage upload retry mechanism
+- [2015-07-04T11:01:59] Add error handling for yt-dlp rate limits
