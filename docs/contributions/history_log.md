@@ -7320,3 +7320,4 @@
 - [2015-07-05T15:19:19] Add retries for transient network drops
 - [2015-07-05T18:47:38] Refactor cookie refresher probe logic
 - [2015-07-05T13:36:10] Add error handling for yt-dlp rate limits
+- [2015-07-05T12:04:31] Add error handling for yt-dlp rate limits
