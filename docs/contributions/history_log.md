@@ -7318,3 +7318,4 @@
 - [2015-07-04T08:48:18] Enhance dashboard statistics rendering
 - [2015-07-04T18:00:04] Fix edge case in channel tab crawler
 - [2015-07-05T15:19:19] Add retries for transient network drops
+- [2015-07-05T18:47:38] Refactor cookie refresher probe logic
