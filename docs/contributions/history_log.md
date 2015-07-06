@@ -7326,3 +7326,4 @@
 - [2015-07-06T14:20:10] Improve ffmpeg streaming pipe buffer management
 - [2015-07-06T09:01:08] Update automated pytest test suites
 - [2015-07-06T19:28:36] Improve ffmpeg streaming pipe buffer management
+- [2015-07-06T08:28:37] Implement streaming upload chunk buffer optimization
