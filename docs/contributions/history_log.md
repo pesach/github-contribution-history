@@ -7339,3 +7339,4 @@
 - [2015-07-08T13:58:10] Add error handling for yt-dlp rate limits
 - [2015-07-08T14:32:13] Update automated pytest test suites
 - [2015-07-08T08:52:40] Add error handling for yt-dlp rate limits
+- [2015-07-08T09:54:26] Add Prometheus exporter endpoints for queue length
