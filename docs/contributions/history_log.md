@@ -7352,3 +7352,4 @@
 - [2015-07-09T21:23:10] Fix edge case in channel tab crawler
 - [2015-07-09T22:11:03] Update dependency lockfiles and requirements
 - [2015-07-09T14:57:50] Add retries for transient network drops
+- [2015-07-09T08:37:22] Refactor cookie refresher probe logic
