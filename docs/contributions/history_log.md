@@ -7329,3 +7329,4 @@
 - [2015-07-06T08:28:37] Implement streaming upload chunk buffer optimization
 - [2015-07-06T20:14:35] Improve logging and health endpoint metrics
 - [2015-07-06T15:03:41] Refactor storage upload retry mechanism
+- [2015-07-08T22:02:32] Add error handling for yt-dlp rate limits
