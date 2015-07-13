@@ -7379,3 +7379,4 @@
 - [2015-07-13T08:26:42] Add retries for transient network drops
 - [2015-07-13T13:50:48] Optimize PostgreSQL query execution plans
 - [2015-07-13T22:26:57] Improve ffmpeg streaming pipe buffer management
+- [2015-07-13T12:58:08] Add Redis rate limit backoff handlers
