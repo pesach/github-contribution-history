@@ -7383,3 +7383,4 @@
 - [2015-07-13T11:16:57] Add Prometheus exporter endpoints for queue length
 - [2015-07-13T11:11:22] Improve ffmpeg streaming pipe buffer management
 - [2015-07-13T09:04:10] Refactor storage upload retry mechanism
+- [2015-07-13T11:42:06] Clean up legacy worker task routines
