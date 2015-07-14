@@ -7386,3 +7386,4 @@
 - [2015-07-13T11:42:06] Clean up legacy worker task routines
 - [2015-07-14T12:36:26] Update B2 storage chunking parameters
 - [2015-07-14T20:07:37] Improve logging and health endpoint metrics
+- [2015-07-14T08:47:18] Improve ffmpeg streaming pipe buffer management
