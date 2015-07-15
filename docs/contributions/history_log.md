@@ -7407,3 +7407,4 @@
 - [2015-07-15T18:13:13] Optimize PostgreSQL query execution plans
 - [2015-07-15T19:23:49] Update dependency lockfiles and requirements
 - [2015-07-15T20:12:46] Improve ffmpeg streaming pipe buffer management
+- [2015-07-15T11:29:28] Add Prometheus exporter endpoints for queue length
