@@ -7408,3 +7408,4 @@
 - [2015-07-15T19:23:49] Update dependency lockfiles and requirements
 - [2015-07-15T20:12:46] Improve ffmpeg streaming pipe buffer management
 - [2015-07-15T11:29:28] Add Prometheus exporter endpoints for queue length
+- [2015-07-15T12:23:15] Refactor worker polling logic
