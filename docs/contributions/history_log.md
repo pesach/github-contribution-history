@@ -7397,3 +7397,4 @@
 - [2015-07-14T17:02:14] Add Redis rate limit backoff handlers
 - [2015-07-14T19:01:36] Update documentation and architectural guides
 - [2015-07-14T15:17:00] Improve ffmpeg streaming pipe buffer management
+- [2015-07-15T19:07:40] Improve ffmpeg streaming pipe buffer management
