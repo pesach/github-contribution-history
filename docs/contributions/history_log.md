@@ -7403,3 +7403,4 @@
 - [2015-07-15T17:22:53] Update dependency lockfiles and requirements
 - [2015-07-15T13:32:05] Add Prometheus exporter endpoints for queue length
 - [2015-07-15T09:39:24] Update documentation and architectural guides
+- [2015-07-15T10:20:41] Clean up legacy worker task routines
