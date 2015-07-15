@@ -7400,3 +7400,4 @@
 - [2015-07-15T19:07:40] Improve ffmpeg streaming pipe buffer management
 - [2015-07-15T21:31:39] Fix edge case in channel tab crawler
 - [2015-07-15T16:02:03] Update documentation and architectural guides
+- [2015-07-15T17:22:53] Update dependency lockfiles and requirements
