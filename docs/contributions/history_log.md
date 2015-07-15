@@ -7409,3 +7409,4 @@
 - [2015-07-15T20:12:46] Improve ffmpeg streaming pipe buffer management
 - [2015-07-15T11:29:28] Add Prometheus exporter endpoints for queue length
 - [2015-07-15T12:23:15] Refactor worker polling logic
+- [2015-07-15T11:41:27] Improve logging and health endpoint metrics
