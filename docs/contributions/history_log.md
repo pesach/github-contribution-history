@@ -7414,3 +7414,4 @@
 - [2015-07-16T17:43:39] Add Redis rate limit backoff handlers
 - [2015-07-16T15:18:29] Update documentation and architectural guides
 - [2015-07-16T21:10:35] Update automated pytest test suites
+- [2015-07-16T19:31:55] Update documentation and architectural guides
