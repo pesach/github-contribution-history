@@ -7416,3 +7416,4 @@
 - [2015-07-16T21:10:35] Update automated pytest test suites
 - [2015-07-16T19:31:55] Update documentation and architectural guides
 - [2015-07-16T13:05:31] Improve ffmpeg streaming pipe buffer management
+- [2015-07-16T16:37:24] Improve ffmpeg streaming pipe buffer management
