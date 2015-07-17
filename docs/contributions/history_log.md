@@ -7430,3 +7430,4 @@
 - [2015-07-17T19:22:27] Fix edge case in URL parsing and validation
 - [2015-07-17T21:04:59] Add Prometheus exporter endpoints for queue length
 - [2015-07-17T13:15:26] Implement streaming upload chunk buffer optimization
+- [2015-07-17T16:03:35] Add retries for transient network drops
