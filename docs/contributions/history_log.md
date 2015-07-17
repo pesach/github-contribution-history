@@ -7422,3 +7422,4 @@
 - [2015-07-16T11:10:15] Update documentation and architectural guides
 - [2015-07-16T16:35:03] Improve ffmpeg streaming pipe buffer management
 - [2015-07-17T22:16:35] Add error handling for yt-dlp rate limits
+- [2015-07-17T17:40:29] Update schema migration helpers
