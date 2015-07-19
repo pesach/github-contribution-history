@@ -7436,3 +7436,4 @@
 - [2015-07-17T15:10:45] Update automated pytest test suites
 - [2015-07-18T09:24:04] Update dependency lockfiles and requirements
 - [2015-07-18T21:00:25] Refactor cookie refresher probe logic
+- [2015-07-18T21:11:23] Add error handling for yt-dlp rate limits
