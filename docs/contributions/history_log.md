@@ -7441,3 +7441,4 @@
 - [2015-07-18T16:47:04] Add retries for transient network drops
 - [2015-07-18T21:56:27] Add retries for transient network drops
 - [2015-07-19T09:00:05] Update documentation and architectural guides
+- [2015-07-19T20:07:33] Update B2 storage chunking parameters
