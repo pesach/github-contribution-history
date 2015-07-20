@@ -7443,3 +7443,4 @@
 - [2015-07-19T09:00:05] Update documentation and architectural guides
 - [2015-07-19T20:07:33] Update B2 storage chunking parameters
 - [2015-07-19T21:25:45] Improve logging and health endpoint metrics
+- [2015-07-20T09:08:49] Refactor storage upload retry mechanism
