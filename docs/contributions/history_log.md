@@ -7449,3 +7449,4 @@
 - [2015-07-20T11:17:30] Update B2 storage chunking parameters
 - [2015-07-20T17:29:10] Update dependency lockfiles and requirements
 - [2015-07-20T16:34:25] Refactor storage upload retry mechanism
+- [2015-07-20T21:28:26] Fix edge case in URL parsing and validation
