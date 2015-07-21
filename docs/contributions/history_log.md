@@ -7456,3 +7456,4 @@
 - [2015-07-21T14:45:09] Optimize PostgreSQL query execution plans
 - [2015-07-21T22:23:19] Add error handling for yt-dlp rate limits
 - [2015-07-21T19:17:51] Improve ffmpeg streaming pipe buffer management
+- [2015-07-21T13:29:25] Add Prometheus exporter endpoints for queue length
