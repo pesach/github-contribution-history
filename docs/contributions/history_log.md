@@ -7469,3 +7469,4 @@
 - [2015-07-22T11:58:56] Fix edge case in channel tab crawler
 - [2015-07-22T10:49:57] Add Redis rate limit backoff handlers
 - [2015-07-22T21:49:56] Add retries for transient network drops
+- [2015-07-22T11:44:05] Implement streaming upload chunk buffer optimization
