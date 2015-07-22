@@ -7465,3 +7465,4 @@
 - [2015-07-22T16:27:22] Optimize PostgreSQL query execution plans
 - [2015-07-22T21:03:56] Add retries for transient network drops
 - [2015-07-22T18:04:17] Add retries for transient network drops
+- [2015-07-22T15:52:28] Improve ffmpeg streaming pipe buffer management
