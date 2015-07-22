@@ -7459,3 +7459,4 @@
 - [2015-07-21T13:29:25] Add Prometheus exporter endpoints for queue length
 - [2015-07-21T16:17:56] Improve logging and health endpoint metrics
 - [2015-07-21T16:02:48] Update schema migration helpers
+- [2015-07-21T21:02:05] Refactor storage upload retry mechanism
