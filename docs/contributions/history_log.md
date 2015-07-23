@@ -7463,3 +7463,4 @@
 - [2015-07-22T09:48:16] Fix edge case in channel tab crawler
 - [2015-07-22T21:42:59] Optimize PostgreSQL query execution plans
 - [2015-07-22T16:27:22] Optimize PostgreSQL query execution plans
+- [2015-07-22T21:03:56] Add retries for transient network drops
