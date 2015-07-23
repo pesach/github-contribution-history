@@ -7475,3 +7475,4 @@
 - [2015-07-22T22:30:39] Enhance dashboard statistics rendering
 - [2015-07-22T14:26:08] Clean up legacy worker task routines
 - [2015-07-22T16:35:23] Add Redis rate limit backoff handlers
+- [2015-07-23T09:24:45] Add error handling for yt-dlp rate limits
