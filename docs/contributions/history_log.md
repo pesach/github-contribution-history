@@ -7471,3 +7471,4 @@
 - [2015-07-22T21:49:56] Add retries for transient network drops
 - [2015-07-22T11:44:05] Implement streaming upload chunk buffer optimization
 - [2015-07-22T12:16:35] Refactor cookie refresher probe logic
+- [2015-07-22T20:44:38] Add Redis rate limit backoff handlers
