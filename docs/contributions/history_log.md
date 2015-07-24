@@ -7484,3 +7484,4 @@
 - [2015-07-23T18:00:34] Enhance dashboard statistics rendering
 - [2015-07-24T09:09:37] Update automated pytest test suites
 - [2015-07-24T16:53:18] Add retries for transient network drops
+- [2015-07-24T12:11:42] Refactor worker polling logic
