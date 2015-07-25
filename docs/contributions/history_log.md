@@ -7495,3 +7495,4 @@
 - [2015-07-25T11:31:29] Implement streaming upload chunk buffer optimization
 - [2015-07-25T20:44:45] Implement streaming upload chunk buffer optimization
 - [2015-07-25T12:20:06] Improve ffmpeg streaming pipe buffer management
+- [2015-07-25T10:47:40] Add error handling for yt-dlp rate limits
