@@ -7505,3 +7505,4 @@
 - [2015-07-27T14:34:53] Update schema migration helpers
 - [2015-07-27T12:27:33] Improve logging and health endpoint metrics
 - [2015-07-27T13:13:22] Improve ffmpeg streaming pipe buffer management
+- [2015-07-27T15:43:14] Refactor cookie refresher probe logic
