@@ -7510,3 +7510,4 @@
 - [2015-07-27T20:43:12] Add Redis rate limit backoff handlers
 - [2015-07-27T17:56:49] Refactor storage upload retry mechanism
 - [2015-07-28T21:14:27] Refactor cookie refresher probe logic
+- [2015-07-28T10:45:20] Refactor worker polling logic
