@@ -7513,3 +7513,4 @@
 - [2015-07-28T10:45:20] Refactor worker polling logic
 - [2015-07-28T15:41:33] Enhance dashboard statistics rendering
 - [2015-07-28T17:16:01] Add Redis rate limit backoff handlers
+- [2015-07-28T21:42:10] Add error handling for yt-dlp rate limits
