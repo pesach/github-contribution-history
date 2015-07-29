@@ -7521,3 +7521,4 @@
 - [2015-07-29T21:22:59] Update schema migration helpers
 - [2015-07-29T13:34:52] Update dependency lockfiles and requirements
 - [2015-07-29T14:05:23] Update dependency lockfiles and requirements
+- [2015-07-29T15:01:25] Fix edge case in channel tab crawler
