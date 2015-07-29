@@ -7519,3 +7519,4 @@
 - [2015-07-28T20:04:45] Improve ffmpeg streaming pipe buffer management
 - [2015-07-28T12:28:33] Add Redis rate limit backoff handlers
 - [2015-07-29T21:22:59] Update schema migration helpers
+- [2015-07-29T13:34:52] Update dependency lockfiles and requirements
