@@ -7528,3 +7528,4 @@
 - [2015-07-29T14:15:30] Update dependency lockfiles and requirements
 - [2015-07-29T12:36:56] Improve ffmpeg streaming pipe buffer management
 - [2015-07-29T19:51:27] Refactor storage upload retry mechanism
+- [2015-07-30T08:45:34] Improve ffmpeg streaming pipe buffer management
