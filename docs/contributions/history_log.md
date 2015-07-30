@@ -7535,3 +7535,4 @@
 - [2015-07-30T22:04:08] Fix edge case in URL parsing and validation
 - [2015-07-30T17:05:37] Clean up legacy worker task routines
 - [2015-07-30T09:34:46] Update schema migration helpers
+- [2015-07-30T12:24:26] Optimize PostgreSQL query execution plans
