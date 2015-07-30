@@ -7529,3 +7529,4 @@
 - [2015-07-29T12:36:56] Improve ffmpeg streaming pipe buffer management
 - [2015-07-29T19:51:27] Refactor storage upload retry mechanism
 - [2015-07-30T08:45:34] Improve ffmpeg streaming pipe buffer management
+- [2015-07-30T11:34:56] Add Redis rate limit backoff handlers
