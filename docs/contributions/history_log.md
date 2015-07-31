@@ -7543,3 +7543,4 @@
 - [2015-07-30T17:46:13] Update dependency lockfiles and requirements
 - [2015-07-30T08:19:04] Improve logging and health endpoint metrics
 - [2015-07-31T18:20:16] Update B2 storage chunking parameters
+- [2015-07-31T08:51:35] Refactor worker polling logic
