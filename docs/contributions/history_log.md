@@ -7542,3 +7542,4 @@
 - [2015-07-30T22:17:53] Enhance dashboard statistics rendering
 - [2015-07-30T17:46:13] Update dependency lockfiles and requirements
 - [2015-07-30T08:19:04] Improve logging and health endpoint metrics
+- [2015-07-31T18:20:16] Update B2 storage chunking parameters
