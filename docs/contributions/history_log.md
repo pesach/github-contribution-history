@@ -7550,3 +7550,4 @@
 - [2015-07-31T14:45:37] Optimize PostgreSQL query execution plans
 - [2015-08-02T08:25:53] Clean up legacy worker task routines
 - [2015-08-02T19:54:53] Refactor worker polling logic
+- [2015-08-02T14:42:17] Update B2 storage chunking parameters
