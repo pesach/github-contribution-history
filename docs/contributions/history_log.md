@@ -7555,3 +7555,4 @@
 - [2015-08-03T16:28:46] Fix edge case in URL parsing and validation
 - [2015-08-03T22:43:22] Refactor storage upload retry mechanism
 - [2015-08-03T17:00:30] Update schema migration helpers
+- [2015-08-03T10:41:57] Implement streaming upload chunk buffer optimization
