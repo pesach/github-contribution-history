@@ -7557,3 +7557,4 @@
 - [2015-08-03T17:00:30] Update schema migration helpers
 - [2015-08-03T10:41:57] Implement streaming upload chunk buffer optimization
 - [2015-08-03T13:20:29] Update schema migration helpers
+- [2015-08-03T12:17:56] Improve ffmpeg streaming pipe buffer management
