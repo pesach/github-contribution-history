@@ -7583,3 +7583,4 @@
 - [2015-08-05T16:23:00] Implement streaming upload chunk buffer optimization
 - [2015-08-05T09:44:19] Update dependency lockfiles and requirements
 - [2015-08-05T11:34:51] Add error handling for yt-dlp rate limits
+- [2015-08-05T12:48:49] Refactor worker polling logic
