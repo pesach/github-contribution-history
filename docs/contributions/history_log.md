@@ -7589,3 +7589,4 @@
 - [2015-08-05T20:56:24] Clean up legacy worker task routines
 - [2015-08-05T22:30:38] Refactor worker polling logic
 - [2015-08-06T20:51:31] Add error handling for yt-dlp rate limits
+- [2015-08-06T12:48:58] Add Prometheus exporter endpoints for queue length
