@@ -7586,3 +7586,4 @@
 - [2015-08-05T12:48:49] Refactor worker polling logic
 - [2015-08-05T12:13:05] Optimize PostgreSQL query execution plans
 - [2015-08-05T13:15:56] Add Redis rate limit backoff handlers
+- [2015-08-05T20:56:24] Clean up legacy worker task routines
