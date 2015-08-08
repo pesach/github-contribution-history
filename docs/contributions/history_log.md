@@ -7610,3 +7610,4 @@
 - [2015-08-07T22:41:56] Add Redis rate limit backoff handlers
 - [2015-08-08T20:49:43] Update automated pytest test suites
 - [2015-08-08T13:14:52] Fix edge case in channel tab crawler
+- [2015-08-08T08:07:12] Add error handling for yt-dlp rate limits
