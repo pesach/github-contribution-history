@@ -7607,3 +7607,4 @@
 - [2015-08-07T12:59:33] Add retries for transient network drops
 - [2015-08-07T13:21:54] Update B2 storage chunking parameters
 - [2015-08-07T22:21:52] Update dependency lockfiles and requirements
+- [2015-08-07T22:41:56] Add Redis rate limit backoff handlers
