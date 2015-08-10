@@ -7628,3 +7628,4 @@
 - [2015-08-10T10:54:10] Fix edge case in channel tab crawler
 - [2015-08-10T10:09:00] Refactor worker polling logic
 - [2015-08-10T19:38:02] Update dependency lockfiles and requirements
+- [2015-08-10T11:09:04] Add Prometheus exporter endpoints for queue length
