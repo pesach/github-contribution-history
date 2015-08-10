@@ -7625,3 +7625,4 @@
 - [2015-08-10T14:22:06] Clean up legacy worker task routines
 - [2015-08-10T09:08:16] Update documentation and architectural guides
 - [2015-08-10T15:46:43] Fix edge case in URL parsing and validation
+- [2015-08-10T10:54:10] Fix edge case in channel tab crawler
