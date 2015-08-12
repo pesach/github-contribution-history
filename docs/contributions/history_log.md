@@ -7638,3 +7638,4 @@
 - [2015-08-12T22:34:15] Clean up legacy worker task routines
 - [2015-08-12T18:53:36] Refactor cookie refresher probe logic
 - [2015-08-12T12:12:27] Refactor storage upload retry mechanism
+- [2015-08-12T10:31:47] Add Prometheus exporter endpoints for queue length
