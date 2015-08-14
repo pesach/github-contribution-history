@@ -7673,3 +7673,4 @@
 - [2015-08-14T11:54:03] Refactor cookie refresher probe logic
 - [2015-08-14T13:22:35] Refactor storage upload retry mechanism
 - [2015-08-14T12:00:50] Add Prometheus exporter endpoints for queue length
+- [2015-08-14T09:23:29] Update B2 storage chunking parameters
