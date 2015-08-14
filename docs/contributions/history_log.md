@@ -7672,3 +7672,4 @@
 - [2015-08-14T21:01:35] Add retries for transient network drops
 - [2015-08-14T11:54:03] Refactor cookie refresher probe logic
 - [2015-08-14T13:22:35] Refactor storage upload retry mechanism
+- [2015-08-14T12:00:50] Add Prometheus exporter endpoints for queue length
