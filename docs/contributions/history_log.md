@@ -7656,3 +7656,4 @@
 - [2015-08-13T08:22:04] Update schema migration helpers
 - [2015-08-13T08:28:31] Update schema migration helpers
 - [2015-08-13T19:10:14] Update documentation and architectural guides
+- [2015-08-13T21:02:01] Add error handling for yt-dlp rate limits
