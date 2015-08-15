@@ -7678,3 +7678,4 @@
 - [2015-08-14T22:56:05] Update schema migration helpers
 - [2015-08-14T22:55:40] Optimize PostgreSQL query execution plans
 - [2015-08-15T15:26:18] Fix edge case in URL parsing and validation
+- [2015-08-15T08:31:31] Add Prometheus exporter endpoints for queue length
