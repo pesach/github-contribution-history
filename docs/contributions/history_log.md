@@ -7686,3 +7686,4 @@
 - [2015-08-16T20:20:42] Update automated pytest test suites
 - [2015-08-17T08:17:24] Refactor worker polling logic
 - [2015-08-17T21:52:02] Refactor storage upload retry mechanism
+- [2015-08-17T18:59:59] Add error handling for yt-dlp rate limits
