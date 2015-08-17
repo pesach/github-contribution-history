@@ -7684,3 +7684,4 @@
 - [2015-08-16T17:10:38] Clean up legacy worker task routines
 - [2015-08-16T13:28:23] Clean up legacy worker task routines
 - [2015-08-16T20:20:42] Update automated pytest test suites
+- [2015-08-17T08:17:24] Refactor worker polling logic
