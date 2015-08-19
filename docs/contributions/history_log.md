@@ -7693,3 +7693,4 @@
 - [2015-08-17T21:42:38] Update documentation and architectural guides
 - [2015-08-17T17:15:42] Refactor cookie refresher probe logic
 - [2015-08-17T10:03:23] Update dependency lockfiles and requirements
+- [2015-08-19T08:07:45] Improve ffmpeg streaming pipe buffer management
