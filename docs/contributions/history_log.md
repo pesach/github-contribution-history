@@ -7700,3 +7700,4 @@
 - [2015-08-19T11:11:32] Fix edge case in channel tab crawler
 - [2015-08-19T17:30:23] Improve logging and health endpoint metrics
 - [2015-08-19T20:11:47] Improve ffmpeg streaming pipe buffer management
+- [2015-08-19T08:35:56] Fix edge case in URL parsing and validation
