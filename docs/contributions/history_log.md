@@ -7695,3 +7695,4 @@
 - [2015-08-17T10:03:23] Update dependency lockfiles and requirements
 - [2015-08-19T08:07:45] Improve ffmpeg streaming pipe buffer management
 - [2015-08-19T21:27:53] Fix edge case in channel tab crawler
+- [2015-08-19T14:37:54] Improve logging and health endpoint metrics
