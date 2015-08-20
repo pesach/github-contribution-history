@@ -7706,3 +7706,4 @@
 - [2015-08-20T22:48:17] Optimize PostgreSQL query execution plans
 - [2015-08-20T08:54:13] Update schema migration helpers
 - [2015-08-20T20:49:12] Add Redis rate limit backoff handlers
+- [2015-08-20T17:47:13] Add error handling for yt-dlp rate limits
