@@ -7711,3 +7711,4 @@
 - [2015-08-20T15:21:20] Update documentation and architectural guides
 - [2015-08-20T18:29:47] Update B2 storage chunking parameters
 - [2015-08-20T12:08:20] Fix edge case in URL parsing and validation
+- [2015-08-20T16:30:06] Add Redis rate limit backoff handlers
