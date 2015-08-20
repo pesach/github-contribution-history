@@ -7702,3 +7702,4 @@
 - [2015-08-19T20:11:47] Improve ffmpeg streaming pipe buffer management
 - [2015-08-19T08:35:56] Fix edge case in URL parsing and validation
 - [2015-08-19T13:15:44] Update schema migration helpers
+- [2015-08-19T22:29:20] Optimize PostgreSQL query execution plans
