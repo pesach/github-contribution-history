@@ -7713,3 +7713,4 @@
 - [2015-08-20T12:08:20] Fix edge case in URL parsing and validation
 - [2015-08-20T16:30:06] Add Redis rate limit backoff handlers
 - [2015-08-23T14:14:58] Update automated pytest test suites
+- [2015-08-23T14:11:23] Add Redis rate limit backoff handlers
