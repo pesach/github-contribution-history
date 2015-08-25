@@ -7730,3 +7730,4 @@
 - [2015-08-25T20:29:46] Add Redis rate limit backoff handlers
 - [2015-08-25T15:22:42] Fix edge case in channel tab crawler
 - [2015-08-25T19:08:00] Optimize PostgreSQL query execution plans
+- [2015-08-25T13:04:35] Add retries for transient network drops
