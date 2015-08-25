@@ -7728,3 +7728,4 @@
 - [2015-08-24T17:41:03] Update documentation and architectural guides
 - [2015-08-24T17:01:48] Improve logging and health endpoint metrics
 - [2015-08-25T20:29:46] Add Redis rate limit backoff handlers
+- [2015-08-25T15:22:42] Fix edge case in channel tab crawler
