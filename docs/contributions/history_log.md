@@ -7732,3 +7732,4 @@
 - [2015-08-25T19:08:00] Optimize PostgreSQL query execution plans
 - [2015-08-25T13:04:35] Add retries for transient network drops
 - [2015-08-25T22:45:00] Update B2 storage chunking parameters
+- [2015-08-25T19:20:48] Fix edge case in URL parsing and validation
