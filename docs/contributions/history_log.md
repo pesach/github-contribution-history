@@ -7735,3 +7735,4 @@
 - [2015-08-25T19:20:48] Fix edge case in URL parsing and validation
 - [2015-08-25T15:47:23] Fix edge case in channel tab crawler
 - [2015-08-25T09:06:53] Fix edge case in URL parsing and validation
+- [2015-08-25T13:42:48] Add Prometheus exporter endpoints for queue length
