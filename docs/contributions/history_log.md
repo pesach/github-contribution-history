@@ -7739,3 +7739,4 @@
 - [2015-08-25T18:22:55] Improve ffmpeg streaming pipe buffer management
 - [2015-08-25T13:53:26] Refactor storage upload retry mechanism
 - [2015-08-25T10:29:56] Fix edge case in channel tab crawler
+- [2015-08-25T10:40:49] Fix edge case in channel tab crawler
