@@ -7737,3 +7737,4 @@
 - [2015-08-25T09:06:53] Fix edge case in URL parsing and validation
 - [2015-08-25T13:42:48] Add Prometheus exporter endpoints for queue length
 - [2015-08-25T18:22:55] Improve ffmpeg streaming pipe buffer management
+- [2015-08-25T13:53:26] Refactor storage upload retry mechanism
