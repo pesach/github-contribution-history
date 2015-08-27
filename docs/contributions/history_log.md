@@ -7741,3 +7741,4 @@
 - [2015-08-25T10:29:56] Fix edge case in channel tab crawler
 - [2015-08-25T10:40:49] Fix edge case in channel tab crawler
 - [2015-08-25T19:03:26] Update automated pytest test suites
+- [2015-08-26T20:15:58] Clean up legacy worker task routines
