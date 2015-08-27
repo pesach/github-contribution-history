@@ -7750,3 +7750,4 @@
 - [2015-08-26T08:19:32] Add Prometheus exporter endpoints for queue length
 - [2015-08-26T18:34:42] Update schema migration helpers
 - [2015-08-27T19:09:01] Update dependency lockfiles and requirements
+- [2015-08-27T08:30:33] Update B2 storage chunking parameters
