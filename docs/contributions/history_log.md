@@ -7763,3 +7763,4 @@
 - [2015-08-28T08:51:18] Enhance dashboard statistics rendering
 - [2015-08-28T16:26:49] Add retries for transient network drops
 - [2015-08-28T22:17:39] Refactor worker polling logic
+- [2015-08-28T18:46:01] Fix edge case in channel tab crawler
