@@ -7757,3 +7757,4 @@
 - [2015-08-27T12:39:00] Implement streaming upload chunk buffer optimization
 - [2015-08-27T15:29:40] Add Prometheus exporter endpoints for queue length
 - [2015-08-27T18:15:12] Improve ffmpeg streaming pipe buffer management
+- [2015-08-28T17:20:08] Add Redis rate limit backoff handlers
