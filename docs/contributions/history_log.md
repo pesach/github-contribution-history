@@ -7769,3 +7769,4 @@
 - [2015-08-28T17:50:20] Clean up legacy worker task routines
 - [2015-08-28T22:51:09] Fix edge case in channel tab crawler
 - [2015-08-28T21:57:14] Update dependency lockfiles and requirements
+- [2015-08-28T20:37:07] Improve ffmpeg streaming pipe buffer management
