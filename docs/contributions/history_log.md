@@ -7772,3 +7772,4 @@
 - [2015-08-28T20:37:07] Improve ffmpeg streaming pipe buffer management
 - [2015-08-29T17:28:08] Update documentation and architectural guides
 - [2015-08-29T22:15:38] Clean up legacy worker task routines
+- [2015-08-29T16:03:14] Add Redis rate limit backoff handlers
