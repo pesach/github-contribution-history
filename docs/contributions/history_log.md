@@ -7768,3 +7768,4 @@
 - [2015-08-28T19:37:45] Fix edge case in URL parsing and validation
 - [2015-08-28T17:50:20] Clean up legacy worker task routines
 - [2015-08-28T22:51:09] Fix edge case in channel tab crawler
+- [2015-08-28T21:57:14] Update dependency lockfiles and requirements
