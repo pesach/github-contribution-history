@@ -7759,3 +7759,4 @@
 - [2015-08-27T18:15:12] Improve ffmpeg streaming pipe buffer management
 - [2015-08-28T17:20:08] Add Redis rate limit backoff handlers
 - [2015-08-28T14:23:45] Refactor storage upload retry mechanism
+- [2015-08-28T21:38:28] Update B2 storage chunking parameters
