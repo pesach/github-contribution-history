@@ -7776,3 +7776,4 @@
 - [2015-08-29T22:17:38] Fix edge case in channel tab crawler
 - [2015-08-30T08:52:47] Refactor worker polling logic
 - [2015-08-30T21:07:15] Update schema migration helpers
+- [2015-08-30T13:05:31] Optimize PostgreSQL query execution plans
