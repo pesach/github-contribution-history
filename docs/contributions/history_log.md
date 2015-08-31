@@ -7775,3 +7775,4 @@
 - [2015-08-29T16:03:14] Add Redis rate limit backoff handlers
 - [2015-08-29T22:17:38] Fix edge case in channel tab crawler
 - [2015-08-30T08:52:47] Refactor worker polling logic
+- [2015-08-30T21:07:15] Update schema migration helpers
