@@ -7796,3 +7796,4 @@
 - [2015-08-31T09:40:42] Update dependency lockfiles and requirements
 - [2015-09-01T14:11:48] Update B2 storage chunking parameters
 - [2015-09-01T12:44:28] Implement streaming upload chunk buffer optimization
+- [2015-09-01T18:48:41] Optimize PostgreSQL query execution plans
