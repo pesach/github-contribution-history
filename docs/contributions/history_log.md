@@ -7815,3 +7815,4 @@
 - [2015-09-02T11:02:24] Update documentation and architectural guides
 - [2015-09-02T20:12:59] Improve ffmpeg streaming pipe buffer management
 - [2015-09-03T20:41:35] Improve logging and health endpoint metrics
+- [2015-09-03T18:27:47] Add error handling for yt-dlp rate limits
