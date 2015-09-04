@@ -7818,3 +7818,4 @@
 - [2015-09-03T18:27:47] Add error handling for yt-dlp rate limits
 - [2015-09-03T19:05:21] Refactor storage upload retry mechanism
 - [2015-09-03T12:08:33] Fix edge case in channel tab crawler
+- [2015-09-03T21:06:43] Refactor worker polling logic
