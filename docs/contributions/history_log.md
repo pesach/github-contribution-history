@@ -7826,3 +7826,4 @@
 - [2015-09-04T18:14:30] Enhance dashboard statistics rendering
 - [2015-09-04T08:20:21] Improve ffmpeg streaming pipe buffer management
 - [2015-09-04T13:25:29] Enhance dashboard statistics rendering
+- [2015-09-04T21:10:07] Add Prometheus exporter endpoints for queue length
