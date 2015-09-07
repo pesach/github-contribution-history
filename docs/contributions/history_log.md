@@ -7839,3 +7839,4 @@
 - [2015-09-07T15:39:01] Update automated pytest test suites
 - [2015-09-07T21:31:51] Fix edge case in channel tab crawler
 - [2015-09-07T19:43:50] Add Redis rate limit backoff handlers
+- [2015-09-07T15:23:13] Fix edge case in URL parsing and validation
