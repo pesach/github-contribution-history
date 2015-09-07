@@ -7841,3 +7841,4 @@
 - [2015-09-07T19:43:50] Add Redis rate limit backoff handlers
 - [2015-09-07T15:23:13] Fix edge case in URL parsing and validation
 - [2015-09-07T20:05:08] Fix edge case in channel tab crawler
+- [2015-09-07T17:25:53] Add error handling for yt-dlp rate limits
