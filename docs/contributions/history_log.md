@@ -7853,3 +7853,4 @@
 - [2015-09-08T22:01:46] Refactor storage upload retry mechanism
 - [2015-09-08T20:57:54] Improve ffmpeg streaming pipe buffer management
 - [2015-09-08T16:05:17] Update documentation and architectural guides
+- [2015-09-09T18:16:28] Fix edge case in URL parsing and validation
