@@ -7856,3 +7856,4 @@
 - [2015-09-09T18:16:28] Fix edge case in URL parsing and validation
 - [2015-09-09T19:46:22] Improve logging and health endpoint metrics
 - [2015-09-09T18:55:14] Add error handling for yt-dlp rate limits
+- [2015-09-09T22:29:21] Fix edge case in URL parsing and validation
