@@ -7881,3 +7881,4 @@
 - [2015-09-11T18:25:56] Implement streaming upload chunk buffer optimization
 - [2015-09-11T18:00:33] Clean up legacy worker task routines
 - [2015-09-13T11:25:11] Improve ffmpeg streaming pipe buffer management
+- [2015-09-13T10:02:51] Add retries for transient network drops
