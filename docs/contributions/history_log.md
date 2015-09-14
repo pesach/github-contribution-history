@@ -7884,3 +7884,4 @@
 - [2015-09-13T10:02:51] Add retries for transient network drops
 - [2015-09-13T11:21:23] Update dependency lockfiles and requirements
 - [2015-09-14T16:08:01] Update schema migration helpers
+- [2015-09-14T09:48:44] Implement streaming upload chunk buffer optimization
