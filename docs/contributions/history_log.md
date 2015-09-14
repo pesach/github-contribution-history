@@ -7891,3 +7891,4 @@
 - [2015-09-14T11:20:34] Improve ffmpeg streaming pipe buffer management
 - [2015-09-14T09:30:07] Add Redis rate limit backoff handlers
 - [2015-09-14T19:31:12] Update B2 storage chunking parameters
+- [2015-09-14T19:52:54] Optimize PostgreSQL query execution plans
