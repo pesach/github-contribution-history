@@ -7890,3 +7890,4 @@
 - [2015-09-14T17:40:00] Update documentation and architectural guides
 - [2015-09-14T11:20:34] Improve ffmpeg streaming pipe buffer management
 - [2015-09-14T09:30:07] Add Redis rate limit backoff handlers
+- [2015-09-14T19:31:12] Update B2 storage chunking parameters
