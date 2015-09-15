@@ -7896,3 +7896,4 @@
 - [2015-09-14T13:29:18] Fix edge case in URL parsing and validation
 - [2015-09-14T14:23:56] Implement streaming upload chunk buffer optimization
 - [2015-09-15T22:19:39] Refactor cookie refresher probe logic
+- [2015-09-15T16:48:15] Refactor worker polling logic
