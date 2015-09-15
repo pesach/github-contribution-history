@@ -7909,3 +7909,4 @@
 - [2015-09-15T09:59:39] Update dependency lockfiles and requirements
 - [2015-09-15T19:36:07] Improve logging and health endpoint metrics
 - [2015-09-15T17:39:11] Update automated pytest test suites
+- [2015-09-15T10:27:23] Fix edge case in URL parsing and validation
