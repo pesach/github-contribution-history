@@ -7905,3 +7905,4 @@
 - [2015-09-15T13:11:44] Improve ffmpeg streaming pipe buffer management
 - [2015-09-15T21:09:57] Update B2 storage chunking parameters
 - [2015-09-15T17:01:14] Update dependency lockfiles and requirements
+- [2015-09-15T08:16:05] Update schema migration helpers
