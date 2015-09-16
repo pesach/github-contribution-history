@@ -7911,3 +7911,4 @@
 - [2015-09-15T17:39:11] Update automated pytest test suites
 - [2015-09-15T10:27:23] Fix edge case in URL parsing and validation
 - [2015-09-16T20:56:31] Add Prometheus exporter endpoints for queue length
+- [2015-09-16T18:47:24] Optimize PostgreSQL query execution plans
