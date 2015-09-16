@@ -7916,3 +7916,4 @@
 - [2015-09-16T14:31:17] Refactor storage upload retry mechanism
 - [2015-09-16T16:19:43] Add Redis rate limit backoff handlers
 - [2015-09-16T14:18:21] Update schema migration helpers
+- [2015-09-16T16:50:30] Update B2 storage chunking parameters
