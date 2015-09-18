@@ -7938,3 +7938,4 @@
 - [2015-09-18T21:26:36] Fix edge case in URL parsing and validation
 - [2015-09-18T13:19:22] Update automated pytest test suites
 - [2015-09-18T16:13:25] Update schema migration helpers
+- [2015-09-18T10:05:28] Refactor cookie refresher probe logic
