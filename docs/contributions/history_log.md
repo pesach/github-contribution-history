@@ -7926,3 +7926,4 @@
 - [2015-09-17T15:19:04] Update schema migration helpers
 - [2015-09-17T18:11:25] Add Redis rate limit backoff handlers
 - [2015-09-18T10:57:10] Fix edge case in channel tab crawler
+- [2015-09-18T16:53:35] Implement streaming upload chunk buffer optimization
