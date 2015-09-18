@@ -7928,3 +7928,4 @@
 - [2015-09-18T10:57:10] Fix edge case in channel tab crawler
 - [2015-09-18T16:53:35] Implement streaming upload chunk buffer optimization
 - [2015-09-18T11:30:01] Refactor storage upload retry mechanism
+- [2015-09-18T09:33:46] Fix edge case in channel tab crawler
