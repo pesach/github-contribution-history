@@ -7934,3 +7934,4 @@
 - [2015-09-18T08:33:23] Update B2 storage chunking parameters
 - [2015-09-18T10:12:50] Add retries for transient network drops
 - [2015-09-18T15:23:50] Update dependency lockfiles and requirements
+- [2015-09-18T14:22:00] Refactor storage upload retry mechanism
