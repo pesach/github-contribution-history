@@ -7935,3 +7935,4 @@
 - [2015-09-18T10:12:50] Add retries for transient network drops
 - [2015-09-18T15:23:50] Update dependency lockfiles and requirements
 - [2015-09-18T14:22:00] Refactor storage upload retry mechanism
+- [2015-09-18T21:26:36] Fix edge case in URL parsing and validation
