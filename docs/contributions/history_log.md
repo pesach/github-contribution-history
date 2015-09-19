@@ -7930,3 +7930,4 @@
 - [2015-09-18T11:30:01] Refactor storage upload retry mechanism
 - [2015-09-18T09:33:46] Fix edge case in channel tab crawler
 - [2015-09-18T10:32:21] Refactor storage upload retry mechanism
+- [2015-09-18T22:42:46] Add Redis rate limit backoff handlers
