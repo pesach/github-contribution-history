@@ -7950,3 +7950,4 @@
 - [2015-09-21T11:13:33] Clean up legacy worker task routines
 - [2015-09-21T12:59:08] Add retries for transient network drops
 - [2015-09-21T12:21:37] Add retries for transient network drops
+- [2015-09-21T10:40:45] Fix edge case in URL parsing and validation
