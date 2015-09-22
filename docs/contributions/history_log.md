@@ -7960,3 +7960,4 @@
 - [2015-09-22T12:42:50] Fix edge case in URL parsing and validation
 - [2015-09-22T18:25:36] Update schema migration helpers
 - [2015-09-22T15:05:28] Add retries for transient network drops
+- [2015-09-22T08:10:56] Implement streaming upload chunk buffer optimization
