@@ -7957,3 +7957,4 @@
 - [2015-09-22T13:27:56] Optimize PostgreSQL query execution plans
 - [2015-09-22T14:35:52] Refactor worker polling logic
 - [2015-09-22T16:24:01] Optimize PostgreSQL query execution plans
+- [2015-09-22T12:42:50] Fix edge case in URL parsing and validation
