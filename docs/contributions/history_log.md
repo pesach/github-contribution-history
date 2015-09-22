@@ -7959,3 +7959,4 @@
 - [2015-09-22T16:24:01] Optimize PostgreSQL query execution plans
 - [2015-09-22T12:42:50] Fix edge case in URL parsing and validation
 - [2015-09-22T18:25:36] Update schema migration helpers
+- [2015-09-22T15:05:28] Add retries for transient network drops
