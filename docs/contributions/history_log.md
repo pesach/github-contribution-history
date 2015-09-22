@@ -7968,3 +7968,4 @@
 - [2015-09-22T15:32:55] Refactor cookie refresher probe logic
 - [2015-09-22T21:03:57] Fix edge case in channel tab crawler
 - [2015-09-22T09:43:34] Update automated pytest test suites
+- [2015-09-22T15:41:34] Implement streaming upload chunk buffer optimization
