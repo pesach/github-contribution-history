@@ -7973,3 +7973,4 @@
 - [2015-09-23T18:32:25] Implement streaming upload chunk buffer optimization
 - [2015-09-23T19:50:02] Add error handling for yt-dlp rate limits
 - [2015-09-23T21:23:58] Improve logging and health endpoint metrics
+- [2015-09-23T18:45:22] Add Prometheus exporter endpoints for queue length
