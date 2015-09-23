@@ -7971,3 +7971,4 @@
 - [2015-09-22T15:41:34] Implement streaming upload chunk buffer optimization
 - [2015-09-23T12:17:10] Update schema migration helpers
 - [2015-09-23T18:32:25] Implement streaming upload chunk buffer optimization
+- [2015-09-23T19:50:02] Add error handling for yt-dlp rate limits
