@@ -7978,3 +7978,4 @@
 - [2015-09-23T20:46:25] Fix edge case in URL parsing and validation
 - [2015-09-23T15:01:41] Fix edge case in URL parsing and validation
 - [2015-09-23T22:01:29] Add retries for transient network drops
+- [2015-09-23T22:09:30] Add error handling for yt-dlp rate limits
