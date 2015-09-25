@@ -7987,3 +7987,4 @@
 - [2015-09-25T08:19:58] Refactor cookie refresher probe logic
 - [2015-09-25T11:48:22] Fix edge case in channel tab crawler
 - [2015-09-25T09:20:14] Add Redis rate limit backoff handlers
+- [2015-09-25T19:49:09] Refactor storage upload retry mechanism
