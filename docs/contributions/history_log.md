@@ -7983,3 +7983,4 @@
 - [2015-09-23T09:48:54] Improve logging and health endpoint metrics
 - [2015-09-23T21:09:04] Refactor worker polling logic
 - [2015-09-25T21:50:25] Refactor storage upload retry mechanism
+- [2015-09-25T22:45:59] Add error handling for yt-dlp rate limits
