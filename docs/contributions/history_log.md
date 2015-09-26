@@ -7982,3 +7982,4 @@
 - [2015-09-23T10:42:39] Refactor cookie refresher probe logic
 - [2015-09-23T09:48:54] Improve logging and health endpoint metrics
 - [2015-09-23T21:09:04] Refactor worker polling logic
+- [2015-09-25T21:50:25] Refactor storage upload retry mechanism
