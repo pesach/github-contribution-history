@@ -7993,3 +7993,4 @@
 - [2015-09-27T15:14:36] Update B2 storage chunking parameters
 - [2015-09-27T18:08:45] Enhance dashboard statistics rendering
 - [2015-09-27T22:26:31] Add retries for transient network drops
+- [2015-09-27T08:15:54] Refactor cookie refresher probe logic
