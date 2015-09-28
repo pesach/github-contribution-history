@@ -7999,3 +7999,4 @@
 - [2015-09-28T08:50:13] Update dependency lockfiles and requirements
 - [2015-09-28T11:13:03] Fix edge case in channel tab crawler
 - [2015-09-28T16:22:45] Update dependency lockfiles and requirements
+- [2015-09-28T10:10:47] Fix edge case in URL parsing and validation
