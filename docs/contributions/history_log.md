@@ -8005,3 +8005,4 @@
 - [2015-09-28T11:19:11] Update automated pytest test suites
 - [2015-09-28T15:42:23] Refactor cookie refresher probe logic
 - [2015-09-28T11:37:57] Add Redis rate limit backoff handlers
+- [2015-09-28T10:26:03] Add retries for transient network drops
