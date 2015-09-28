@@ -7997,3 +7997,4 @@
 - [2015-09-27T08:28:37] Update automated pytest test suites
 - [2015-09-27T22:17:57] Optimize PostgreSQL query execution plans
 - [2015-09-28T08:50:13] Update dependency lockfiles and requirements
+- [2015-09-28T11:13:03] Fix edge case in channel tab crawler
