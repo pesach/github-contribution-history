@@ -8010,3 +8010,4 @@
 - [2015-09-28T22:09:21] Refactor worker polling logic
 - [2015-09-28T19:44:11] Add retries for transient network drops
 - [2015-09-28T09:20:11] Refactor worker polling logic
+- [2015-09-28T08:25:17] Update schema migration helpers
