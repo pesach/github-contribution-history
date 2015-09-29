@@ -8014,3 +8014,4 @@
 - [2015-09-29T11:22:19] Update documentation and architectural guides
 - [2015-09-29T16:22:34] Refactor worker polling logic
 - [2015-09-29T21:36:40] Refactor storage upload retry mechanism
+- [2015-09-29T11:35:18] Add Prometheus exporter endpoints for queue length
