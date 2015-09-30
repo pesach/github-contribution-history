@@ -8013,3 +8013,4 @@
 - [2015-09-28T08:25:17] Update schema migration helpers
 - [2015-09-29T11:22:19] Update documentation and architectural guides
 - [2015-09-29T16:22:34] Refactor worker polling logic
+- [2015-09-29T21:36:40] Refactor storage upload retry mechanism
