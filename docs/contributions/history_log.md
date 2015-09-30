@@ -8026,3 +8026,4 @@
 - [2015-09-29T20:41:54] Fix edge case in URL parsing and validation
 - [2015-09-30T21:03:00] Add Redis rate limit backoff handlers
 - [2015-09-30T14:53:16] Update schema migration helpers
+- [2015-09-30T16:45:36] Refactor storage upload retry mechanism
