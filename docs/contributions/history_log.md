@@ -8021,3 +8021,4 @@
 - [2015-09-29T19:02:01] Update automated pytest test suites
 - [2015-09-29T17:07:22] Optimize PostgreSQL query execution plans
 - [2015-09-29T14:37:21] Optimize PostgreSQL query execution plans
+- [2015-09-29T20:33:34] Refactor worker polling logic
