@@ -8037,3 +8037,4 @@
 - [2015-09-30T09:13:41] Refactor cookie refresher probe logic
 - [2015-10-01T18:42:45] Fix edge case in URL parsing and validation
 - [2015-10-01T08:26:47] Implement streaming upload chunk buffer optimization
+- [2015-10-01T16:42:31] Update schema migration helpers
