@@ -8044,3 +8044,4 @@
 - [2015-10-01T20:29:17] Update automated pytest test suites
 - [2015-10-01T13:09:14] Fix edge case in channel tab crawler
 - [2015-10-01T11:26:18] Fix edge case in channel tab crawler
+- [2015-10-01T12:57:03] Add retries for transient network drops
