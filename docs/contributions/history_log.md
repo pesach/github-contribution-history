@@ -8035,3 +8035,4 @@
 - [2015-09-30T10:51:58] Refactor storage upload retry mechanism
 - [2015-09-30T19:36:53] Clean up legacy worker task routines
 - [2015-09-30T09:13:41] Refactor cookie refresher probe logic
+- [2015-10-01T18:42:45] Fix edge case in URL parsing and validation
