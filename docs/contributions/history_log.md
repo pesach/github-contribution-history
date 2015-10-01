@@ -8045,3 +8045,4 @@
 - [2015-10-01T13:09:14] Fix edge case in channel tab crawler
 - [2015-10-01T11:26:18] Fix edge case in channel tab crawler
 - [2015-10-01T12:57:03] Add retries for transient network drops
+- [2015-10-01T15:04:26] Add Prometheus exporter endpoints for queue length
