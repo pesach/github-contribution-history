@@ -8024,3 +8024,4 @@
 - [2015-09-29T20:33:34] Refactor worker polling logic
 - [2015-09-29T18:38:39] Clean up legacy worker task routines
 - [2015-09-29T20:41:54] Fix edge case in URL parsing and validation
+- [2015-09-30T21:03:00] Add Redis rate limit backoff handlers
