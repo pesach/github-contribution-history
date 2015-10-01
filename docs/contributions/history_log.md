@@ -8038,3 +8038,4 @@
 - [2015-10-01T18:42:45] Fix edge case in URL parsing and validation
 - [2015-10-01T08:26:47] Implement streaming upload chunk buffer optimization
 - [2015-10-01T16:42:31] Update schema migration helpers
+- [2015-10-01T13:10:13] Implement streaming upload chunk buffer optimization
