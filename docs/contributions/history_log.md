@@ -8049,3 +8049,4 @@
 - [2015-10-01T11:15:39] Enhance dashboard statistics rendering
 - [2015-10-01T11:21:54] Improve ffmpeg streaming pipe buffer management
 - [2015-10-02T10:34:21] Optimize PostgreSQL query execution plans
+- [2015-10-02T16:14:23] Fix edge case in channel tab crawler
