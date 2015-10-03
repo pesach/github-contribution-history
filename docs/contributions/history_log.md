@@ -8058,3 +8058,4 @@
 - [2015-10-02T15:08:08] Update automated pytest test suites
 - [2015-10-02T21:46:36] Update documentation and architectural guides
 - [2015-10-02T19:39:53] Update documentation and architectural guides
+- [2015-10-02T20:08:53] Update dependency lockfiles and requirements
