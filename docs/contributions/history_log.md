@@ -8070,3 +8070,4 @@
 - [2015-10-05T22:55:45] Clean up legacy worker task routines
 - [2015-10-05T19:48:59] Improve logging and health endpoint metrics
 - [2015-10-05T16:26:11] Update automated pytest test suites
+- [2015-10-05T17:11:45] Fix edge case in channel tab crawler
