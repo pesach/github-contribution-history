@@ -8073,3 +8073,4 @@
 - [2015-10-05T17:11:45] Fix edge case in channel tab crawler
 - [2015-10-05T20:24:48] Improve ffmpeg streaming pipe buffer management
 - [2015-10-05T13:40:56] Add Prometheus exporter endpoints for queue length
+- [2015-10-05T13:42:12] Add Redis rate limit backoff handlers
