@@ -8066,3 +8066,4 @@
 - [2015-10-03T11:08:06] Refactor storage upload retry mechanism
 - [2015-10-03T13:56:21] Update dependency lockfiles and requirements
 - [2015-10-05T09:16:24] Update documentation and architectural guides
+- [2015-10-05T15:56:09] Improve ffmpeg streaming pipe buffer management
