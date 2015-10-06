@@ -8078,3 +8078,4 @@
 - [2015-10-06T15:31:17] Clean up legacy worker task routines
 - [2015-10-06T18:18:53] Clean up legacy worker task routines
 - [2015-10-06T21:31:16] Enhance dashboard statistics rendering
+- [2015-10-06T11:50:34] Improve ffmpeg streaming pipe buffer management
