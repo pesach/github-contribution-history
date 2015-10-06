@@ -8089,3 +8089,4 @@
 - [2015-10-06T18:12:23] Enhance dashboard statistics rendering
 - [2015-10-06T16:57:52] Add Redis rate limit backoff handlers
 - [2015-10-06T20:43:43] Optimize PostgreSQL query execution plans
+- [2015-10-06T15:32:46] Add error handling for yt-dlp rate limits
