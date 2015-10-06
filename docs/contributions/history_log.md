@@ -8083,3 +8083,4 @@
 - [2015-10-06T17:02:17] Clean up legacy worker task routines
 - [2015-10-06T16:33:58] Fix edge case in URL parsing and validation
 - [2015-10-06T12:26:16] Clean up legacy worker task routines
+- [2015-10-06T16:54:57] Refactor cookie refresher probe logic
