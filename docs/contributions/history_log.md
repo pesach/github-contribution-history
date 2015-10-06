@@ -8076,3 +8076,4 @@
 - [2015-10-05T13:42:12] Add Redis rate limit backoff handlers
 - [2015-10-05T20:16:28] Add retries for transient network drops
 - [2015-10-06T15:31:17] Clean up legacy worker task routines
+- [2015-10-06T18:18:53] Clean up legacy worker task routines
