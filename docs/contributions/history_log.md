@@ -8080,3 +8080,4 @@
 - [2015-10-06T21:31:16] Enhance dashboard statistics rendering
 - [2015-10-06T11:50:34] Improve ffmpeg streaming pipe buffer management
 - [2015-10-06T14:12:34] Enhance dashboard statistics rendering
+- [2015-10-06T17:02:17] Clean up legacy worker task routines
