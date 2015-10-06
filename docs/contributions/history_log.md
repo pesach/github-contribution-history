@@ -8074,3 +8074,4 @@
 - [2015-10-05T20:24:48] Improve ffmpeg streaming pipe buffer management
 - [2015-10-05T13:40:56] Add Prometheus exporter endpoints for queue length
 - [2015-10-05T13:42:12] Add Redis rate limit backoff handlers
+- [2015-10-05T20:16:28] Add retries for transient network drops
