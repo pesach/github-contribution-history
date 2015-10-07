@@ -8096,3 +8096,4 @@
 - [2015-10-07T22:26:14] Add Redis rate limit backoff handlers
 - [2015-10-07T12:13:31] Clean up legacy worker task routines
 - [2015-10-07T16:10:06] Update documentation and architectural guides
+- [2015-10-07T17:24:15] Add Prometheus exporter endpoints for queue length
