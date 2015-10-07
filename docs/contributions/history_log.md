@@ -8102,3 +8102,4 @@
 - [2015-10-07T20:21:28] Fix edge case in channel tab crawler
 - [2015-10-07T09:30:23] Improve ffmpeg streaming pipe buffer management
 - [2015-10-07T19:39:37] Fix edge case in channel tab crawler
+- [2015-10-07T11:04:54] Clean up legacy worker task routines
