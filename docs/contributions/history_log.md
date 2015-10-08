@@ -8099,3 +8099,4 @@
 - [2015-10-07T17:24:15] Add Prometheus exporter endpoints for queue length
 - [2015-10-07T21:26:17] Refactor worker polling logic
 - [2015-10-07T22:33:03] Refactor worker polling logic
+- [2015-10-07T20:21:28] Fix edge case in channel tab crawler
