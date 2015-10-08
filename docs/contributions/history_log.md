@@ -8097,3 +8097,4 @@
 - [2015-10-07T12:13:31] Clean up legacy worker task routines
 - [2015-10-07T16:10:06] Update documentation and architectural guides
 - [2015-10-07T17:24:15] Add Prometheus exporter endpoints for queue length
+- [2015-10-07T21:26:17] Refactor worker polling logic
