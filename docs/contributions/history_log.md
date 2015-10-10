@@ -8114,3 +8114,4 @@
 - [2015-10-08T22:37:59] Fix edge case in URL parsing and validation
 - [2015-10-08T10:25:25] Enhance dashboard statistics rendering
 - [2015-10-08T17:43:53] Add retries for transient network drops
+- [2015-10-10T13:21:01] Fix edge case in channel tab crawler
