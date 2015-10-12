@@ -8124,3 +8124,4 @@
 - [2015-10-11T13:31:46] Enhance dashboard statistics rendering
 - [2015-10-12T11:35:01] Update dependency lockfiles and requirements
 - [2015-10-12T14:14:37] Fix edge case in channel tab crawler
+- [2015-10-12T12:50:50] Add error handling for yt-dlp rate limits
