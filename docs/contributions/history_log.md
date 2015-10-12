@@ -8129,3 +8129,4 @@
 - [2015-10-12T08:46:29] Fix edge case in channel tab crawler
 - [2015-10-12T17:38:33] Update schema migration helpers
 - [2015-10-12T11:54:43] Improve logging and health endpoint metrics
+- [2015-10-12T16:21:14] Add Prometheus exporter endpoints for queue length
