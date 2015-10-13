@@ -8132,3 +8132,4 @@
 - [2015-10-12T16:21:14] Add Prometheus exporter endpoints for queue length
 - [2015-10-12T22:30:46] Fix edge case in URL parsing and validation
 - [2015-10-12T14:47:35] Fix edge case in URL parsing and validation
+- [2015-10-12T21:09:29] Add error handling for yt-dlp rate limits
