@@ -8150,3 +8150,4 @@
 - [2015-10-14T08:30:28] Refactor storage upload retry mechanism
 - [2015-10-14T18:12:30] Clean up legacy worker task routines
 - [2015-10-14T18:21:10] Improve logging and health endpoint metrics
+- [2015-10-14T18:30:38] Add retries for transient network drops
