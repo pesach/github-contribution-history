@@ -8148,3 +8148,4 @@
 - [2015-10-13T14:22:42] Update automated pytest test suites
 - [2015-10-13T09:23:18] Update schema migration helpers
 - [2015-10-14T08:30:28] Refactor storage upload retry mechanism
+- [2015-10-14T18:12:30] Clean up legacy worker task routines
