@@ -8152,3 +8152,4 @@
 - [2015-10-14T18:21:10] Improve logging and health endpoint metrics
 - [2015-10-14T18:30:38] Add retries for transient network drops
 - [2015-10-14T09:33:05] Update dependency lockfiles and requirements
+- [2015-10-14T14:10:20] Improve ffmpeg streaming pipe buffer management
