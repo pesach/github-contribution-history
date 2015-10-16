@@ -8169,3 +8169,4 @@
 - [2015-10-16T22:01:29] Refactor storage upload retry mechanism
 - [2015-10-16T15:45:43] Update documentation and architectural guides
 - [2015-10-16T10:09:58] Update schema migration helpers
+- [2015-10-16T10:44:59] Refactor storage upload retry mechanism
