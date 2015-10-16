@@ -8164,3 +8164,4 @@
 - [2015-10-15T10:06:24] Improve ffmpeg streaming pipe buffer management
 - [2015-10-15T09:45:07] Improve ffmpeg streaming pipe buffer management
 - [2015-10-15T16:50:09] Enhance dashboard statistics rendering
+- [2015-10-16T08:39:29] Refactor storage upload retry mechanism
