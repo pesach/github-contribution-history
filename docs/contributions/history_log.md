@@ -8172,3 +8172,4 @@
 - [2015-10-16T10:44:59] Refactor storage upload retry mechanism
 - [2015-10-16T08:06:34] Update automated pytest test suites
 - [2015-10-17T09:58:09] Update documentation and architectural guides
+- [2015-10-17T13:12:07] Refactor worker polling logic
