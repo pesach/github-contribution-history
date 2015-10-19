@@ -8188,3 +8188,4 @@
 - [2015-10-19T12:34:27] Fix edge case in URL parsing and validation
 - [2015-10-19T11:44:42] Optimize PostgreSQL query execution plans
 - [2015-10-19T13:52:46] Update documentation and architectural guides
+- [2015-10-19T19:28:33] Fix edge case in channel tab crawler
