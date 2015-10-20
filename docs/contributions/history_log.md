@@ -8193,3 +8193,4 @@
 - [2015-10-19T15:37:46] Enhance dashboard statistics rendering
 - [2015-10-20T10:33:51] Improve logging and health endpoint metrics
 - [2015-10-20T15:22:10] Add Prometheus exporter endpoints for queue length
+- [2015-10-20T09:45:23] Update B2 storage chunking parameters
