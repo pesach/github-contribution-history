@@ -8197,3 +8197,4 @@
 - [2015-10-20T14:39:03] Add Prometheus exporter endpoints for queue length
 - [2015-10-20T22:23:47] Update schema migration helpers
 - [2015-10-20T16:23:04] Improve ffmpeg streaming pipe buffer management
+- [2015-10-20T13:13:46] Add Prometheus exporter endpoints for queue length
