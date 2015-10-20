@@ -8192,3 +8192,4 @@
 - [2015-10-19T18:54:36] Clean up legacy worker task routines
 - [2015-10-19T15:37:46] Enhance dashboard statistics rendering
 - [2015-10-20T10:33:51] Improve logging and health endpoint metrics
+- [2015-10-20T15:22:10] Add Prometheus exporter endpoints for queue length
