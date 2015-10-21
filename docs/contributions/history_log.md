@@ -8200,3 +8200,4 @@
 - [2015-10-20T13:13:46] Add Prometheus exporter endpoints for queue length
 - [2015-10-20T11:09:18] Update schema migration helpers
 - [2015-10-21T08:46:46] Update B2 storage chunking parameters
+- [2015-10-21T18:20:30] Add Redis rate limit backoff handlers
