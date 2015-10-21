@@ -8212,3 +8212,4 @@
 - [2015-10-21T13:48:25] Update documentation and architectural guides
 - [2015-10-21T10:14:49] Update dependency lockfiles and requirements
 - [2015-10-21T16:14:12] Update B2 storage chunking parameters
+- [2015-10-21T11:24:29] Add retries for transient network drops
