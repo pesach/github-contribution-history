@@ -8217,3 +8217,4 @@
 - [2015-10-22T22:46:07] Enhance dashboard statistics rendering
 - [2015-10-22T14:55:12] Implement streaming upload chunk buffer optimization
 - [2015-10-22T16:47:47] Update B2 storage chunking parameters
+- [2015-10-22T13:13:01] Clean up legacy worker task routines
