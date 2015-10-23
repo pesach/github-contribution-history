@@ -8222,3 +8222,4 @@
 - [2015-10-22T09:07:48] Add Prometheus exporter endpoints for queue length
 - [2015-10-22T17:00:37] Update dependency lockfiles and requirements
 - [2015-10-22T20:43:20] Clean up legacy worker task routines
+- [2015-10-23T13:53:56] Add Prometheus exporter endpoints for queue length
