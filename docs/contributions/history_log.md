@@ -8214,3 +8214,4 @@
 - [2015-10-21T16:14:12] Update B2 storage chunking parameters
 - [2015-10-21T11:24:29] Add retries for transient network drops
 - [2015-10-22T10:19:34] Improve ffmpeg streaming pipe buffer management
+- [2015-10-22T22:46:07] Enhance dashboard statistics rendering
