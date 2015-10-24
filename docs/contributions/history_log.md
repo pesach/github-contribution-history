@@ -8235,3 +8235,4 @@
 - [2015-10-24T21:17:40] Optimize PostgreSQL query execution plans
 - [2015-10-24T12:51:44] Add retries for transient network drops
 - [2015-10-24T15:04:58] Clean up legacy worker task routines
+- [2015-10-24T13:10:32] Refactor storage upload retry mechanism
