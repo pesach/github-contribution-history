@@ -8232,3 +8232,4 @@
 - [2015-10-23T17:43:51] Add retries for transient network drops
 - [2015-10-23T16:28:51] Update documentation and architectural guides
 - [2015-10-23T09:07:55] Update automated pytest test suites
+- [2015-10-24T21:17:40] Optimize PostgreSQL query execution plans
