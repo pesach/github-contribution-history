@@ -8237,3 +8237,4 @@
 - [2015-10-24T15:04:58] Clean up legacy worker task routines
 - [2015-10-24T13:10:32] Refactor storage upload retry mechanism
 - [2015-10-25T10:27:59] Implement streaming upload chunk buffer optimization
+- [2015-10-25T13:04:56] Add Prometheus exporter endpoints for queue length
