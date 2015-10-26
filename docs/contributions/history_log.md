@@ -8243,3 +8243,4 @@
 - [2015-10-26T09:55:53] Implement streaming upload chunk buffer optimization
 - [2015-10-26T09:33:22] Optimize PostgreSQL query execution plans
 - [2015-10-26T18:43:54] Refactor storage upload retry mechanism
+- [2015-10-26T08:21:01] Fix edge case in channel tab crawler
