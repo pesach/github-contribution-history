@@ -8246,3 +8246,4 @@
 - [2015-10-26T08:21:01] Fix edge case in channel tab crawler
 - [2015-10-26T17:14:40] Refactor storage upload retry mechanism
 - [2015-10-26T11:06:32] Update dependency lockfiles and requirements
+- [2015-10-26T20:02:23] Refactor cookie refresher probe logic
