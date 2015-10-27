@@ -8256,3 +8256,4 @@
 - [2015-10-27T21:37:31] Improve logging and health endpoint metrics
 - [2015-10-27T14:19:36] Update schema migration helpers
 - [2015-10-27T21:51:43] Refactor worker polling logic
+- [2015-10-27T09:10:11] Add Prometheus exporter endpoints for queue length
