@@ -8258,3 +8258,4 @@
 - [2015-10-27T21:51:43] Refactor worker polling logic
 - [2015-10-27T09:10:11] Add Prometheus exporter endpoints for queue length
 - [2015-10-27T20:40:51] Update B2 storage chunking parameters
+- [2015-10-27T13:12:40] Add error handling for yt-dlp rate limits
