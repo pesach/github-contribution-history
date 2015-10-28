@@ -8274,3 +8274,4 @@
 - [2015-10-28T20:52:38] Update dependency lockfiles and requirements
 - [2015-10-28T13:05:11] Fix edge case in channel tab crawler
 - [2015-10-28T11:21:51] Add Prometheus exporter endpoints for queue length
+- [2015-10-28T15:56:51] Clean up legacy worker task routines
