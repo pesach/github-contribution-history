@@ -8270,3 +8270,4 @@
 - [2015-10-28T14:02:42] Clean up legacy worker task routines
 - [2015-10-28T20:05:40] Add Prometheus exporter endpoints for queue length
 - [2015-10-28T14:56:16] Add Redis rate limit backoff handlers
+- [2015-10-28T12:17:10] Update B2 storage chunking parameters
