@@ -8253,3 +8253,4 @@
 - [2015-10-26T09:02:29] Update automated pytest test suites
 - [2015-10-26T18:34:49] Update documentation and architectural guides
 - [2015-10-27T12:10:26] Update automated pytest test suites
+- [2015-10-27T21:37:31] Improve logging and health endpoint metrics
