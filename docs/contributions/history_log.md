@@ -8272,3 +8272,4 @@
 - [2015-10-28T14:56:16] Add Redis rate limit backoff handlers
 - [2015-10-28T12:17:10] Update B2 storage chunking parameters
 - [2015-10-28T20:52:38] Update dependency lockfiles and requirements
+- [2015-10-28T13:05:11] Fix edge case in channel tab crawler
