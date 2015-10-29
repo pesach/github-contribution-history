@@ -8279,3 +8279,4 @@
 - [2015-10-29T13:48:27] Add Prometheus exporter endpoints for queue length
 - [2015-10-29T14:37:19] Update documentation and architectural guides
 - [2015-10-29T15:17:46] Enhance dashboard statistics rendering
+- [2015-10-29T19:59:31] Improve ffmpeg streaming pipe buffer management
