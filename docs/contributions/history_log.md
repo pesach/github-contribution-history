@@ -8286,3 +8286,4 @@
 - [2015-11-02T12:07:12] Refactor cookie refresher probe logic
 - [2015-11-02T10:33:47] Refactor cookie refresher probe logic
 - [2015-11-02T14:51:55] Fix edge case in URL parsing and validation
+- [2015-11-02T12:08:10] Add Prometheus exporter endpoints for queue length
