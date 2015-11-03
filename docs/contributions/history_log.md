@@ -8298,3 +8298,4 @@
 - [2015-11-03T20:56:33] Update documentation and architectural guides
 - [2015-11-03T10:03:15] Update automated pytest test suites
 - [2015-11-03T22:14:03] Update automated pytest test suites
+- [2015-11-03T18:22:17] Add Prometheus exporter endpoints for queue length
