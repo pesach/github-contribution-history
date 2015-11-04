@@ -8300,3 +8300,4 @@
 - [2015-11-03T22:14:03] Update automated pytest test suites
 - [2015-11-03T18:22:17] Add Prometheus exporter endpoints for queue length
 - [2015-11-03T20:55:11] Improve ffmpeg streaming pipe buffer management
+- [2015-11-04T16:38:06] Add retries for transient network drops
