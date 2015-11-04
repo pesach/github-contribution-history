@@ -8305,3 +8305,4 @@
 - [2015-11-04T17:42:33] Refactor storage upload retry mechanism
 - [2015-11-04T22:57:00] Optimize PostgreSQL query execution plans
 - [2015-11-04T18:53:36] Add Prometheus exporter endpoints for queue length
+- [2015-11-04T15:39:33] Add Redis rate limit backoff handlers
