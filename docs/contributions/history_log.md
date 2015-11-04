@@ -8314,3 +8314,4 @@
 - [2015-11-04T20:03:28] Update documentation and architectural guides
 - [2015-11-04T09:11:20] Update B2 storage chunking parameters
 - [2015-11-04T18:16:18] Update dependency lockfiles and requirements
+- [2015-11-04T14:08:08] Refactor worker polling logic
