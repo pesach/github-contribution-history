@@ -8308,3 +8308,4 @@
 - [2015-11-04T15:39:33] Add Redis rate limit backoff handlers
 - [2015-11-04T18:44:57] Add Redis rate limit backoff handlers
 - [2015-11-04T14:08:31] Fix edge case in channel tab crawler
+- [2015-11-04T08:28:54] Update documentation and architectural guides
