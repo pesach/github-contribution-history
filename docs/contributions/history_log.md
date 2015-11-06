@@ -8318,3 +8318,4 @@
 - [2015-11-05T21:15:35] Improve logging and health endpoint metrics
 - [2015-11-05T22:53:31] Add Redis rate limit backoff handlers
 - [2015-11-05T21:07:32] Update documentation and architectural guides
+- [2015-11-05T21:25:16] Refactor worker polling logic
