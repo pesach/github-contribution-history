@@ -8332,3 +8332,4 @@
 - [2015-11-07T11:05:59] Add retries for transient network drops
 - [2015-11-07T20:57:22] Add error handling for yt-dlp rate limits
 - [2015-11-07T21:18:39] Update schema migration helpers
+- [2015-11-07T11:37:26] Add Redis rate limit backoff handlers
