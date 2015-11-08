@@ -8330,3 +8330,4 @@
 - [2015-11-06T20:53:43] Fix edge case in URL parsing and validation
 - [2015-11-07T18:48:51] Refactor storage upload retry mechanism
 - [2015-11-07T11:05:59] Add retries for transient network drops
+- [2015-11-07T20:57:22] Add error handling for yt-dlp rate limits
