@@ -8342,3 +8342,4 @@
 - [2015-11-09T21:05:22] Update B2 storage chunking parameters
 - [2015-11-09T22:17:52] Add error handling for yt-dlp rate limits
 - [2015-11-09T09:45:10] Update automated pytest test suites
+- [2015-11-09T13:28:19] Refactor worker polling logic
