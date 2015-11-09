@@ -8338,3 +8338,4 @@
 - [2015-11-09T19:10:08] Clean up legacy worker task routines
 - [2015-11-09T18:45:02] Optimize PostgreSQL query execution plans
 - [2015-11-09T20:09:10] Refactor worker polling logic
+- [2015-11-09T08:57:12] Add retries for transient network drops
