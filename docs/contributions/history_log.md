@@ -8349,3 +8349,4 @@
 - [2015-11-10T10:36:26] Add retries for transient network drops
 - [2015-11-10T12:45:46] Enhance dashboard statistics rendering
 - [2015-11-10T14:03:04] Clean up legacy worker task routines
+- [2015-11-10T17:56:21] Improve ffmpeg streaming pipe buffer management
