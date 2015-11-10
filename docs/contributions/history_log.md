@@ -8355,3 +8355,4 @@
 - [2015-11-10T19:29:12] Improve ffmpeg streaming pipe buffer management
 - [2015-11-10T12:48:13] Add Redis rate limit backoff handlers
 - [2015-11-10T18:31:30] Update dependency lockfiles and requirements
+- [2015-11-10T13:03:07] Add Prometheus exporter endpoints for queue length
