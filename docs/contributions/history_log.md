@@ -8362,3 +8362,4 @@
 - [2015-11-11T13:51:25] Update schema migration helpers
 - [2015-11-11T21:54:31] Enhance dashboard statistics rendering
 - [2015-11-11T09:04:12] Add Redis rate limit backoff handlers
+- [2015-11-11T13:45:34] Add error handling for yt-dlp rate limits
