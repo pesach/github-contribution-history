@@ -8368,3 +8368,4 @@
 - [2015-11-11T22:28:01] Update B2 storage chunking parameters
 - [2015-11-11T18:01:39] Update schema migration helpers
 - [2015-11-11T17:15:41] Fix edge case in channel tab crawler
+- [2015-11-11T10:09:18] Improve ffmpeg streaming pipe buffer management
