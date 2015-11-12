@@ -8374,3 +8374,4 @@
 - [2015-11-12T22:45:11] Add Prometheus exporter endpoints for queue length
 - [2015-11-12T10:26:39] Improve logging and health endpoint metrics
 - [2015-11-12T22:21:48] Improve logging and health endpoint metrics
+- [2015-11-12T15:15:53] Optimize PostgreSQL query execution plans
