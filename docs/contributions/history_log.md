@@ -8369,3 +8369,4 @@
 - [2015-11-11T18:01:39] Update schema migration helpers
 - [2015-11-11T17:15:41] Fix edge case in channel tab crawler
 - [2015-11-11T10:09:18] Improve ffmpeg streaming pipe buffer management
+- [2015-11-12T18:17:51] Improve logging and health endpoint metrics
