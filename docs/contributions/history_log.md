@@ -8372,3 +8372,4 @@
 - [2015-11-12T18:17:51] Improve logging and health endpoint metrics
 - [2015-11-12T09:52:07] Add Redis rate limit backoff handlers
 - [2015-11-12T22:45:11] Add Prometheus exporter endpoints for queue length
+- [2015-11-12T10:26:39] Improve logging and health endpoint metrics
