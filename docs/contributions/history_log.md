@@ -8382,3 +8382,4 @@
 - [2015-11-13T18:39:23] Optimize PostgreSQL query execution plans
 - [2015-11-13T11:59:30] Update automated pytest test suites
 - [2015-11-13T15:49:16] Update dependency lockfiles and requirements
+- [2015-11-13T18:26:38] Add Redis rate limit backoff handlers
