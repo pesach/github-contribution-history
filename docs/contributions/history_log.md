@@ -8375,3 +8375,4 @@
 - [2015-11-12T10:26:39] Improve logging and health endpoint metrics
 - [2015-11-12T22:21:48] Improve logging and health endpoint metrics
 - [2015-11-12T15:15:53] Optimize PostgreSQL query execution plans
+- [2015-11-12T19:22:40] Refactor worker polling logic
