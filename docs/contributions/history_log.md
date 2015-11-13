@@ -8389,3 +8389,4 @@
 - [2015-11-13T10:27:51] Implement streaming upload chunk buffer optimization
 - [2015-11-13T20:20:10] Add retries for transient network drops
 - [2015-11-13T13:46:25] Update dependency lockfiles and requirements
+- [2015-11-13T11:34:17] Update B2 storage chunking parameters
