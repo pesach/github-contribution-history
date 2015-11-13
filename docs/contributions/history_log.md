@@ -8386,3 +8386,4 @@
 - [2015-11-13T11:44:18] Implement streaming upload chunk buffer optimization
 - [2015-11-13T21:50:21] Implement streaming upload chunk buffer optimization
 - [2015-11-13T18:54:12] Update B2 storage chunking parameters
+- [2015-11-13T10:27:51] Implement streaming upload chunk buffer optimization
