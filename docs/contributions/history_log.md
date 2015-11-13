@@ -8390,3 +8390,4 @@
 - [2015-11-13T20:20:10] Add retries for transient network drops
 - [2015-11-13T13:46:25] Update dependency lockfiles and requirements
 - [2015-11-13T11:34:17] Update B2 storage chunking parameters
+- [2015-11-13T12:34:52] Add error handling for yt-dlp rate limits
