@@ -8401,3 +8401,4 @@
 - [2015-11-16T10:11:14] Refactor storage upload retry mechanism
 - [2015-11-16T17:36:17] Refactor worker polling logic
 - [2015-11-16T18:17:18] Implement streaming upload chunk buffer optimization
+- [2015-11-16T10:27:54] Improve ffmpeg streaming pipe buffer management
