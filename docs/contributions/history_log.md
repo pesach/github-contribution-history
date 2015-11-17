@@ -8404,3 +8404,4 @@
 - [2015-11-16T10:27:54] Improve ffmpeg streaming pipe buffer management
 - [2015-11-17T22:29:59] Implement streaming upload chunk buffer optimization
 - [2015-11-17T09:26:34] Optimize PostgreSQL query execution plans
+- [2015-11-17T09:46:43] Fix edge case in channel tab crawler
