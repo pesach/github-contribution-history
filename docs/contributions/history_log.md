@@ -8407,3 +8407,4 @@
 - [2015-11-17T09:46:43] Fix edge case in channel tab crawler
 - [2015-11-17T22:47:46] Update B2 storage chunking parameters
 - [2015-11-17T15:40:25] Improve ffmpeg streaming pipe buffer management
+- [2015-11-17T10:31:58] Refactor storage upload retry mechanism
