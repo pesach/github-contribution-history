@@ -8415,3 +8415,4 @@
 - [2015-11-18T16:35:24] Optimize PostgreSQL query execution plans
 - [2015-11-18T15:40:43] Add Prometheus exporter endpoints for queue length
 - [2015-11-18T17:13:40] Update dependency lockfiles and requirements
+- [2015-11-18T18:05:20] Add error handling for yt-dlp rate limits
