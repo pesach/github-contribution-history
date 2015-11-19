@@ -8430,3 +8430,4 @@
 - [2015-11-19T11:40:40] Update schema migration helpers
 - [2015-11-19T11:14:36] Improve ffmpeg streaming pipe buffer management
 - [2015-11-19T10:36:54] Refactor cookie refresher probe logic
+- [2015-11-19T16:25:41] Update B2 storage chunking parameters
