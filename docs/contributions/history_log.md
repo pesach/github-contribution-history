@@ -8424,3 +8424,4 @@
 - [2015-11-19T17:12:29] Update schema migration helpers
 - [2015-11-19T16:04:08] Update schema migration helpers
 - [2015-11-19T08:29:10] Update documentation and architectural guides
+- [2015-11-19T13:16:42] Optimize PostgreSQL query execution plans
