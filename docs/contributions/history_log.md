@@ -8422,3 +8422,4 @@
 - [2015-11-19T15:23:09] Update automated pytest test suites
 - [2015-11-19T21:29:34] Fix edge case in URL parsing and validation
 - [2015-11-19T17:12:29] Update schema migration helpers
+- [2015-11-19T16:04:08] Update schema migration helpers
