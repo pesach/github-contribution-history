@@ -8435,3 +8435,4 @@
 - [2015-11-20T10:33:27] Fix edge case in URL parsing and validation
 - [2015-11-20T21:32:43] Update documentation and architectural guides
 - [2015-11-20T18:07:16] Clean up legacy worker task routines
+- [2015-11-20T14:08:20] Update B2 storage chunking parameters
