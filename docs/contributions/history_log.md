@@ -8440,3 +8440,4 @@
 - [2015-11-20T21:49:30] Update B2 storage chunking parameters
 - [2015-11-20T11:48:31] Update dependency lockfiles and requirements
 - [2015-11-20T14:37:31] Optimize PostgreSQL query execution plans
+- [2015-11-20T13:24:46] Update B2 storage chunking parameters
