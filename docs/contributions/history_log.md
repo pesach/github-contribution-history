@@ -8442,3 +8442,4 @@
 - [2015-11-20T14:37:31] Optimize PostgreSQL query execution plans
 - [2015-11-20T13:24:46] Update B2 storage chunking parameters
 - [2015-11-21T19:15:25] Add retries for transient network drops
+- [2015-11-21T14:04:13] Add Redis rate limit backoff handlers
