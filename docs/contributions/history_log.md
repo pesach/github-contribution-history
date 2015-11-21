@@ -8433,3 +8433,4 @@
 - [2015-11-19T16:25:41] Update B2 storage chunking parameters
 - [2015-11-20T19:20:53] Update B2 storage chunking parameters
 - [2015-11-20T10:33:27] Fix edge case in URL parsing and validation
+- [2015-11-20T21:32:43] Update documentation and architectural guides
