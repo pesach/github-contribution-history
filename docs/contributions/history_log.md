@@ -8444,3 +8444,4 @@
 - [2015-11-21T19:15:25] Add retries for transient network drops
 - [2015-11-21T14:04:13] Add Redis rate limit backoff handlers
 - [2015-11-21T13:39:31] Add error handling for yt-dlp rate limits
+- [2015-11-22T11:24:33] Improve logging and health endpoint metrics
