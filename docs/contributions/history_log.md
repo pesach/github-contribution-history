@@ -8459,3 +8459,4 @@
 - [2015-11-23T19:27:28] Refactor cookie refresher probe logic
 - [2015-11-23T16:54:36] Add retries for transient network drops
 - [2015-11-25T17:30:48] Update schema migration helpers
+- [2015-11-25T15:12:33] Add error handling for yt-dlp rate limits
