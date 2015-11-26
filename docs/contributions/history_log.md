@@ -8468,3 +8468,4 @@
 - [2015-11-26T12:39:18] Update documentation and architectural guides
 - [2015-11-26T22:39:51] Update documentation and architectural guides
 - [2015-11-26T11:27:09] Update dependency lockfiles and requirements
+- [2015-11-26T09:41:38] Add Redis rate limit backoff handlers
