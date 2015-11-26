@@ -8475,3 +8475,4 @@
 - [2015-11-26T19:26:53] Clean up legacy worker task routines
 - [2015-11-26T19:12:03] Add error handling for yt-dlp rate limits
 - [2015-11-26T21:26:18] Add error handling for yt-dlp rate limits
+- [2015-11-26T12:37:47] Refactor cookie refresher probe logic
