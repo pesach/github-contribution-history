@@ -8465,3 +8465,4 @@
 - [2015-11-25T17:57:44] Refactor worker polling logic
 - [2015-11-25T10:08:35] Update documentation and architectural guides
 - [2015-11-25T11:50:10] Refactor cookie refresher probe logic
+- [2015-11-26T12:39:18] Update documentation and architectural guides
