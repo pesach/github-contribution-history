@@ -8473,3 +8473,4 @@
 - [2015-11-26T14:33:43] Clean up legacy worker task routines
 - [2015-11-26T16:45:16] Enhance dashboard statistics rendering
 - [2015-11-26T19:26:53] Clean up legacy worker task routines
+- [2015-11-26T19:12:03] Add error handling for yt-dlp rate limits
