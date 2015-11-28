@@ -8486,3 +8486,4 @@
 - [2015-11-27T09:19:15] Update dependency lockfiles and requirements
 - [2015-11-27T18:54:46] Update B2 storage chunking parameters
 - [2015-11-27T19:03:08] Update schema migration helpers
+- [2015-11-28T08:36:03] Clean up legacy worker task routines
