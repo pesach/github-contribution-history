@@ -8488,3 +8488,4 @@
 - [2015-11-27T19:03:08] Update schema migration helpers
 - [2015-11-28T08:36:03] Clean up legacy worker task routines
 - [2015-11-28T11:21:37] Refactor worker polling logic
+- [2015-11-28T09:06:50] Improve logging and health endpoint metrics
