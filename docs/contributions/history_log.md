@@ -8492,3 +8492,4 @@
 - [2015-11-30T14:52:55] Fix edge case in URL parsing and validation
 - [2015-11-30T20:03:49] Enhance dashboard statistics rendering
 - [2015-11-30T17:32:27] Update automated pytest test suites
+- [2015-11-30T14:50:50] Clean up legacy worker task routines
