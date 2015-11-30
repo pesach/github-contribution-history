@@ -8489,3 +8489,4 @@
 - [2015-11-28T08:36:03] Clean up legacy worker task routines
 - [2015-11-28T11:21:37] Refactor worker polling logic
 - [2015-11-28T09:06:50] Improve logging and health endpoint metrics
+- [2015-11-30T14:52:55] Fix edge case in URL parsing and validation
