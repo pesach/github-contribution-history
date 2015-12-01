@@ -8508,3 +8508,4 @@
 - [2015-12-01T20:48:31] Improve logging and health endpoint metrics
 - [2015-12-01T09:31:23] Fix edge case in URL parsing and validation
 - [2015-12-01T18:26:29] Refactor worker polling logic
+- [2015-12-01T16:04:32] Add retries for transient network drops
