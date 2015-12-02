@@ -8510,3 +8510,4 @@
 - [2015-12-01T18:26:29] Refactor worker polling logic
 - [2015-12-01T16:04:32] Add retries for transient network drops
 - [2015-12-01T22:06:23] Improve logging and health endpoint metrics
+- [2015-12-02T11:08:59] Improve ffmpeg streaming pipe buffer management
