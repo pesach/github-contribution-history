@@ -8511,3 +8511,4 @@
 - [2015-12-01T16:04:32] Add retries for transient network drops
 - [2015-12-01T22:06:23] Improve logging and health endpoint metrics
 - [2015-12-02T11:08:59] Improve ffmpeg streaming pipe buffer management
+- [2015-12-02T12:43:38] Optimize PostgreSQL query execution plans
