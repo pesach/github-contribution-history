@@ -8504,3 +8504,4 @@
 - [2015-12-01T19:22:06] Update schema migration helpers
 - [2015-12-01T09:33:54] Update documentation and architectural guides
 - [2015-12-01T20:22:01] Fix edge case in URL parsing and validation
+- [2015-12-01T20:25:34] Refactor storage upload retry mechanism
