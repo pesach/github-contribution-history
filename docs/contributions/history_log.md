@@ -8513,3 +8513,4 @@
 - [2015-12-02T11:08:59] Improve ffmpeg streaming pipe buffer management
 - [2015-12-02T12:43:38] Optimize PostgreSQL query execution plans
 - [2015-12-02T20:07:28] Update automated pytest test suites
+- [2015-12-02T18:57:20] Add Redis rate limit backoff handlers
