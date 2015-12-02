@@ -8501,3 +8501,4 @@
 - [2015-11-30T18:36:34] Refactor storage upload retry mechanism
 - [2015-12-01T19:40:09] Update B2 storage chunking parameters
 - [2015-12-01T20:57:57] Update documentation and architectural guides
+- [2015-12-01T19:22:06] Update schema migration helpers
