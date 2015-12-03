@@ -8521,3 +8521,4 @@
 - [2015-12-02T13:02:26] Update documentation and architectural guides
 - [2015-12-02T21:39:21] Add Prometheus exporter endpoints for queue length
 - [2015-12-02T22:23:28] Add Prometheus exporter endpoints for queue length
+- [2015-12-02T20:43:11] Add error handling for yt-dlp rate limits
