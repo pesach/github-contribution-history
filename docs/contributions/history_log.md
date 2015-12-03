@@ -8532,3 +8532,4 @@
 - [2015-12-03T20:50:22] Add Prometheus exporter endpoints for queue length
 - [2015-12-03T17:25:51] Update dependency lockfiles and requirements
 - [2015-12-03T17:26:00] Update schema migration helpers
+- [2015-12-03T10:11:48] Add retries for transient network drops
