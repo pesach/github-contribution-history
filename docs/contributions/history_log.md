@@ -8558,3 +8558,4 @@
 - [2015-12-07T11:08:23] Implement streaming upload chunk buffer optimization
 - [2015-12-07T13:31:17] Update automated pytest test suites
 - [2015-12-07T16:16:04] Update dependency lockfiles and requirements
+- [2015-12-07T14:17:27] Add Prometheus exporter endpoints for queue length
