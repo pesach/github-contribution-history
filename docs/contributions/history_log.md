@@ -8561,3 +8561,4 @@
 - [2015-12-07T14:17:27] Add Prometheus exporter endpoints for queue length
 - [2015-12-07T16:03:17] Enhance dashboard statistics rendering
 - [2015-12-07T14:19:24] Add Prometheus exporter endpoints for queue length
+- [2015-12-07T12:07:22] Add retries for transient network drops
