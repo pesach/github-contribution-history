@@ -8551,3 +8551,4 @@
 - [2015-12-07T22:13:41] Add Redis rate limit backoff handlers
 - [2015-12-07T19:14:11] Update B2 storage chunking parameters
 - [2015-12-07T17:50:32] Fix edge case in channel tab crawler
+- [2015-12-07T09:48:11] Fix edge case in URL parsing and validation
