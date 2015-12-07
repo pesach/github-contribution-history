@@ -8546,3 +8546,4 @@
 - [2015-12-06T13:34:32] Update automated pytest test suites
 - [2015-12-06T15:35:40] Improve logging and health endpoint metrics
 - [2015-12-06T22:15:17] Update schema migration helpers
+- [2015-12-06T22:02:28] Clean up legacy worker task routines
