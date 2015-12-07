@@ -8560,3 +8560,4 @@
 - [2015-12-07T16:16:04] Update dependency lockfiles and requirements
 - [2015-12-07T14:17:27] Add Prometheus exporter endpoints for queue length
 - [2015-12-07T16:03:17] Enhance dashboard statistics rendering
+- [2015-12-07T14:19:24] Add Prometheus exporter endpoints for queue length
