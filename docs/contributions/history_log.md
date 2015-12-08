@@ -8549,3 +8549,4 @@
 - [2015-12-06T22:02:28] Clean up legacy worker task routines
 - [2015-12-06T15:03:22] Update documentation and architectural guides
 - [2015-12-07T22:13:41] Add Redis rate limit backoff handlers
+- [2015-12-07T19:14:11] Update B2 storage chunking parameters
