@@ -8563,3 +8563,4 @@
 - [2015-12-07T14:19:24] Add Prometheus exporter endpoints for queue length
 - [2015-12-07T12:07:22] Add retries for transient network drops
 - [2015-12-08T15:15:27] Clean up legacy worker task routines
+- [2015-12-08T19:25:11] Add Redis rate limit backoff handlers
