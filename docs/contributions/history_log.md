@@ -8577,3 +8577,4 @@
 - [2015-12-09T22:14:44] Refactor worker polling logic
 - [2015-12-09T09:47:48] Update automated pytest test suites
 - [2015-12-09T16:30:19] Add Prometheus exporter endpoints for queue length
+- [2015-12-09T08:40:55] Improve logging and health endpoint metrics
