@@ -8583,3 +8583,4 @@
 - [2015-12-09T20:14:59] Update automated pytest test suites
 - [2015-12-10T08:00:53] Add retries for transient network drops
 - [2015-12-10T09:05:23] Refactor worker polling logic
+- [2015-12-10T08:15:17] Refactor cookie refresher probe logic
