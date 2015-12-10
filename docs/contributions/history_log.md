@@ -8578,3 +8578,4 @@
 - [2015-12-09T09:47:48] Update automated pytest test suites
 - [2015-12-09T16:30:19] Add Prometheus exporter endpoints for queue length
 - [2015-12-09T08:40:55] Improve logging and health endpoint metrics
+- [2015-12-09T19:39:58] Fix edge case in URL parsing and validation
