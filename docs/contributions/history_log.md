@@ -8584,3 +8584,4 @@
 - [2015-12-10T08:00:53] Add retries for transient network drops
 - [2015-12-10T09:05:23] Refactor worker polling logic
 - [2015-12-10T08:15:17] Refactor cookie refresher probe logic
+- [2015-12-10T14:53:31] Update documentation and architectural guides
