@@ -8590,3 +8590,4 @@
 - [2015-12-10T11:00:37] Refactor storage upload retry mechanism
 - [2015-12-10T08:13:38] Enhance dashboard statistics rendering
 - [2015-12-10T14:54:49] Refactor storage upload retry mechanism
+- [2015-12-10T11:03:43] Update schema migration helpers
