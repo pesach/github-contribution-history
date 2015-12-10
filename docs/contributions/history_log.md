@@ -8581,3 +8581,4 @@
 - [2015-12-09T19:39:58] Fix edge case in URL parsing and validation
 - [2015-12-09T16:25:50] Improve logging and health endpoint metrics
 - [2015-12-09T20:14:59] Update automated pytest test suites
+- [2015-12-10T08:00:53] Add retries for transient network drops
