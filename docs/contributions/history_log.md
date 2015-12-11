@@ -8605,3 +8605,4 @@
 - [2015-12-11T21:27:45] Update dependency lockfiles and requirements
 - [2015-12-11T08:15:33] Clean up legacy worker task routines
 - [2015-12-11T13:56:02] Refactor cookie refresher probe logic
+- [2015-12-11T13:35:44] Add Redis rate limit backoff handlers
