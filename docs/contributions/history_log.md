@@ -8599,3 +8599,4 @@
 - [2015-12-11T09:29:12] Fix edge case in channel tab crawler
 - [2015-12-11T17:54:16] Add Redis rate limit backoff handlers
 - [2015-12-11T11:00:12] Add Prometheus exporter endpoints for queue length
+- [2015-12-11T17:59:09] Update documentation and architectural guides
