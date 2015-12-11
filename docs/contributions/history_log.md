@@ -8593,3 +8593,4 @@
 - [2015-12-10T11:03:43] Update schema migration helpers
 - [2015-12-10T08:23:45] Implement streaming upload chunk buffer optimization
 - [2015-12-10T20:07:33] Improve ffmpeg streaming pipe buffer management
+- [2015-12-11T10:30:42] Add Prometheus exporter endpoints for queue length
