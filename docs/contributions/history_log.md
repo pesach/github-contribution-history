@@ -8609,3 +8609,4 @@
 - [2015-12-11T09:56:48] Enhance dashboard statistics rendering
 - [2015-12-11T10:56:59] Add retries for transient network drops
 - [2015-12-12T12:37:40] Add Redis rate limit backoff handlers
+- [2015-12-12T13:14:50] Fix edge case in channel tab crawler
