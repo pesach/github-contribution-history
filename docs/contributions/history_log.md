@@ -8614,3 +8614,4 @@
 - [2015-12-12T16:45:36] Update dependency lockfiles and requirements
 - [2015-12-12T08:20:22] Refactor storage upload retry mechanism
 - [2015-12-12T19:58:37] Enhance dashboard statistics rendering
+- [2015-12-13T12:20:37] Improve ffmpeg streaming pipe buffer management
