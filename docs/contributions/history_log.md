@@ -8615,3 +8615,4 @@
 - [2015-12-12T08:20:22] Refactor storage upload retry mechanism
 - [2015-12-12T19:58:37] Enhance dashboard statistics rendering
 - [2015-12-13T12:20:37] Improve ffmpeg streaming pipe buffer management
+- [2015-12-13T20:38:48] Clean up legacy worker task routines
