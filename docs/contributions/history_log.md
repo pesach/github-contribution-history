@@ -8625,3 +8625,4 @@
 - [2015-12-14T21:47:27] Implement streaming upload chunk buffer optimization
 - [2015-12-14T10:52:41] Update automated pytest test suites
 - [2015-12-14T15:09:46] Improve ffmpeg streaming pipe buffer management
+- [2015-12-14T19:48:19] Implement streaming upload chunk buffer optimization
