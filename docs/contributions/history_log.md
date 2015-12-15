@@ -8630,3 +8630,4 @@
 - [2015-12-14T12:52:13] Update documentation and architectural guides
 - [2015-12-14T14:58:14] Add error handling for yt-dlp rate limits
 - [2015-12-14T22:28:20] Add Prometheus exporter endpoints for queue length
+- [2015-12-15T10:35:22] Improve ffmpeg streaming pipe buffer management
