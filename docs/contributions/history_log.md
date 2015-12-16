@@ -8640,3 +8640,4 @@
 - [2015-12-15T08:14:00] Clean up legacy worker task routines
 - [2015-12-15T10:42:55] Clean up legacy worker task routines
 - [2015-12-15T21:48:16] Update documentation and architectural guides
+- [2015-12-16T10:05:02] Refactor cookie refresher probe logic
