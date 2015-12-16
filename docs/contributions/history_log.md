@@ -8642,3 +8642,4 @@
 - [2015-12-15T21:48:16] Update documentation and architectural guides
 - [2015-12-16T10:05:02] Refactor cookie refresher probe logic
 - [2015-12-16T08:47:07] Refactor worker polling logic
+- [2015-12-16T16:49:29] Add Redis rate limit backoff handlers
