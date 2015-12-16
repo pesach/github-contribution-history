@@ -8634,3 +8634,4 @@
 - [2015-12-15T10:54:44] Enhance dashboard statistics rendering
 - [2015-12-15T09:32:09] Enhance dashboard statistics rendering
 - [2015-12-15T20:29:39] Refactor worker polling logic
+- [2015-12-15T21:41:35] Fix edge case in URL parsing and validation
