@@ -8650,3 +8650,4 @@
 - [2015-12-16T17:38:58] Update dependency lockfiles and requirements
 - [2015-12-16T12:17:59] Implement streaming upload chunk buffer optimization
 - [2015-12-17T16:59:18] Refactor cookie refresher probe logic
+- [2015-12-17T11:33:12] Add Prometheus exporter endpoints for queue length
