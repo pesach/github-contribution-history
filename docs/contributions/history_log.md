@@ -8658,3 +8658,4 @@
 - [2015-12-18T17:21:33] Enhance dashboard statistics rendering
 - [2015-12-18T12:27:55] Improve ffmpeg streaming pipe buffer management
 - [2015-12-18T10:30:59] Implement streaming upload chunk buffer optimization
+- [2015-12-18T14:14:27] Refactor worker polling logic
