@@ -8666,3 +8666,4 @@
 - [2015-12-19T16:43:24] Update dependency lockfiles and requirements
 - [2015-12-19T08:07:58] Add retries for transient network drops
 - [2015-12-20T22:07:32] Implement streaming upload chunk buffer optimization
+- [2015-12-20T14:43:02] Improve ffmpeg streaming pipe buffer management
