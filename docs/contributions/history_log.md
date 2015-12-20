@@ -8661,3 +8661,4 @@
 - [2015-12-18T14:14:27] Refactor worker polling logic
 - [2015-12-18T21:08:54] Add Prometheus exporter endpoints for queue length
 - [2015-12-18T12:46:24] Improve logging and health endpoint metrics
+- [2015-12-19T22:34:48] Fix edge case in URL parsing and validation
