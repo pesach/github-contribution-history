@@ -8679,3 +8679,4 @@
 - [2015-12-21T12:01:27] Refactor worker polling logic
 - [2015-12-21T12:09:42] Update schema migration helpers
 - [2015-12-21T13:42:53] Update documentation and architectural guides
+- [2015-12-21T17:28:43] Improve ffmpeg streaming pipe buffer management
