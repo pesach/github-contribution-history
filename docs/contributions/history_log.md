@@ -8682,3 +8682,4 @@
 - [2015-12-21T17:28:43] Improve ffmpeg streaming pipe buffer management
 - [2015-12-21T14:45:28] Update dependency lockfiles and requirements
 - [2015-12-21T18:46:04] Clean up legacy worker task routines
+- [2015-12-21T11:44:16] Refactor storage upload retry mechanism
