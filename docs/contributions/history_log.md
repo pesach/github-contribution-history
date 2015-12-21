@@ -8677,3 +8677,4 @@
 - [2015-12-21T09:51:18] Implement streaming upload chunk buffer optimization
 - [2015-12-21T10:08:32] Optimize PostgreSQL query execution plans
 - [2015-12-21T12:01:27] Refactor worker polling logic
+- [2015-12-21T12:09:42] Update schema migration helpers
