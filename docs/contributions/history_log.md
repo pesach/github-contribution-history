@@ -8683,3 +8683,4 @@
 - [2015-12-21T14:45:28] Update dependency lockfiles and requirements
 - [2015-12-21T18:46:04] Clean up legacy worker task routines
 - [2015-12-21T11:44:16] Refactor storage upload retry mechanism
+- [2015-12-21T10:09:37] Refactor worker polling logic
