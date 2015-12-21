@@ -8681,3 +8681,4 @@
 - [2015-12-21T13:42:53] Update documentation and architectural guides
 - [2015-12-21T17:28:43] Improve ffmpeg streaming pipe buffer management
 - [2015-12-21T14:45:28] Update dependency lockfiles and requirements
+- [2015-12-21T18:46:04] Clean up legacy worker task routines
