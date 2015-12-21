@@ -8675,3 +8675,4 @@
 - [2015-12-21T08:58:34] Fix edge case in URL parsing and validation
 - [2015-12-21T08:56:16] Implement streaming upload chunk buffer optimization
 - [2015-12-21T09:51:18] Implement streaming upload chunk buffer optimization
+- [2015-12-21T10:08:32] Optimize PostgreSQL query execution plans
