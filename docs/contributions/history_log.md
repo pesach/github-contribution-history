@@ -8695,3 +8695,4 @@
 - [2015-12-22T09:54:49] Add Redis rate limit backoff handlers
 - [2015-12-22T20:03:09] Implement streaming upload chunk buffer optimization
 - [2015-12-22T20:48:53] Fix edge case in channel tab crawler
+- [2015-12-22T08:11:49] Update B2 storage chunking parameters
