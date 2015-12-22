@@ -8670,3 +8670,4 @@
 - [2015-12-20T22:33:48] Update B2 storage chunking parameters
 - [2015-12-20T08:01:39] Update dependency lockfiles and requirements
 - [2015-12-20T10:11:59] Improve ffmpeg streaming pipe buffer management
+- [2015-12-21T20:40:47] Refactor cookie refresher probe logic
