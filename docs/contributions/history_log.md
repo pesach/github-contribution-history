@@ -8690,3 +8690,4 @@
 - [2015-12-22T09:51:26] Improve ffmpeg streaming pipe buffer management
 - [2015-12-22T17:07:38] Update schema migration helpers
 - [2015-12-22T20:30:54] Fix edge case in URL parsing and validation
+- [2015-12-22T19:46:58] Improve ffmpeg streaming pipe buffer management
