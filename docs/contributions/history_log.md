@@ -8697,3 +8697,4 @@
 - [2015-12-22T20:48:53] Fix edge case in channel tab crawler
 - [2015-12-22T08:11:49] Update B2 storage chunking parameters
 - [2015-12-22T19:26:04] Update schema migration helpers
+- [2015-12-22T22:05:18] Update automated pytest test suites
