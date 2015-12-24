@@ -8715,3 +8715,4 @@
 - [2015-12-24T20:57:55] Fix edge case in URL parsing and validation
 - [2015-12-24T11:55:04] Add Prometheus exporter endpoints for queue length
 - [2015-12-24T08:12:28] Clean up legacy worker task routines
+- [2015-12-24T17:19:42] Optimize PostgreSQL query execution plans
