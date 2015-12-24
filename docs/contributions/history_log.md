@@ -8700,3 +8700,4 @@
 - [2015-12-22T22:05:18] Update automated pytest test suites
 - [2015-12-23T22:03:45] Update dependency lockfiles and requirements
 - [2015-12-23T09:09:38] Update schema migration helpers
+- [2015-12-23T22:44:50] Update B2 storage chunking parameters
