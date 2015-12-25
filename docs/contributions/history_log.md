@@ -8721,3 +8721,4 @@
 - [2015-12-24T13:20:53] Enhance dashboard statistics rendering
 - [2015-12-24T22:57:27] Add Redis rate limit backoff handlers
 - [2015-12-24T09:25:51] Fix edge case in channel tab crawler
+- [2015-12-25T17:40:22] Implement streaming upload chunk buffer optimization
