@@ -8719,3 +8719,4 @@
 - [2015-12-24T09:06:09] Update B2 storage chunking parameters
 - [2015-12-24T22:00:27] Fix edge case in URL parsing and validation
 - [2015-12-24T13:20:53] Enhance dashboard statistics rendering
+- [2015-12-24T22:57:27] Add Redis rate limit backoff handlers
