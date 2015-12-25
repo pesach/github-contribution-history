@@ -8717,3 +8717,4 @@
 - [2015-12-24T08:12:28] Clean up legacy worker task routines
 - [2015-12-24T17:19:42] Optimize PostgreSQL query execution plans
 - [2015-12-24T09:06:09] Update B2 storage chunking parameters
+- [2015-12-24T22:00:27] Fix edge case in URL parsing and validation
