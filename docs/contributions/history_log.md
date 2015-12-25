@@ -8712,3 +8712,4 @@
 - [2015-12-24T15:05:14] Add retries for transient network drops
 - [2015-12-24T14:10:44] Fix edge case in channel tab crawler
 - [2015-12-24T13:47:30] Add retries for transient network drops
+- [2015-12-24T20:57:55] Fix edge case in URL parsing and validation
