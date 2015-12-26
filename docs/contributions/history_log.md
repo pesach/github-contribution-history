@@ -8730,3 +8730,4 @@
 - [2015-12-25T20:30:17] Add error handling for yt-dlp rate limits
 - [2015-12-25T10:55:12] Add Prometheus exporter endpoints for queue length
 - [2015-12-25T19:15:59] Update schema migration helpers
+- [2015-12-25T20:33:12] Add error handling for yt-dlp rate limits
