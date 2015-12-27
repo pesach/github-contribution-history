@@ -8743,3 +8743,4 @@
 - [2015-12-27T16:20:01] Update dependency lockfiles and requirements
 - [2015-12-27T12:31:20] Add retries for transient network drops
 - [2015-12-27T12:15:34] Update dependency lockfiles and requirements
+- [2015-12-27T08:50:17] Update documentation and architectural guides
