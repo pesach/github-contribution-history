@@ -8738,3 +8738,4 @@
 - [2015-12-26T19:59:03] Enhance dashboard statistics rendering
 - [2015-12-26T08:58:21] Fix edge case in URL parsing and validation
 - [2015-12-26T13:07:52] Fix edge case in URL parsing and validation
+- [2015-12-27T20:45:38] Add Redis rate limit backoff handlers
