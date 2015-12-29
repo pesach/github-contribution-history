@@ -8765,3 +8765,4 @@
 - [2015-12-29T10:56:04] Update dependency lockfiles and requirements
 - [2015-12-29T09:03:43] Update documentation and architectural guides
 - [2015-12-29T21:26:06] Update B2 storage chunking parameters
+- [2015-12-29T13:51:09] Improve logging and health endpoint metrics
