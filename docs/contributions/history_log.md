@@ -8761,3 +8761,4 @@
 - [2015-12-29T11:45:52] Update B2 storage chunking parameters
 - [2015-12-29T13:31:46] Update dependency lockfiles and requirements
 - [2015-12-29T21:32:56] Fix edge case in channel tab crawler
+- [2015-12-29T12:27:05] Improve ffmpeg streaming pipe buffer management
