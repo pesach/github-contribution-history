@@ -8768,3 +8768,4 @@
 - [2015-12-29T13:51:09] Improve logging and health endpoint metrics
 - [2015-12-29T18:57:26] Improve ffmpeg streaming pipe buffer management
 - [2015-12-29T18:44:21] Clean up legacy worker task routines
+- [2015-12-29T14:07:15] Optimize PostgreSQL query execution plans
