@@ -8775,3 +8775,4 @@
 - [2015-12-30T15:12:33] Update B2 storage chunking parameters
 - [2015-12-30T15:19:27] Refactor worker polling logic
 - [2015-12-30T10:59:25] Add retries for transient network drops
+- [2015-12-30T11:10:55] Add error handling for yt-dlp rate limits
