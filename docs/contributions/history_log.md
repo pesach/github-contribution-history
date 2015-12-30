@@ -8771,3 +8771,4 @@
 - [2015-12-29T14:07:15] Optimize PostgreSQL query execution plans
 - [2015-12-29T09:18:29] Update automated pytest test suites
 - [2015-12-30T12:41:05] Improve ffmpeg streaming pipe buffer management
+- [2015-12-30T12:04:47] Add retries for transient network drops
