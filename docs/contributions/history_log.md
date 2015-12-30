@@ -8773,3 +8773,4 @@
 - [2015-12-30T12:41:05] Improve ffmpeg streaming pipe buffer management
 - [2015-12-30T12:04:47] Add retries for transient network drops
 - [2015-12-30T15:12:33] Update B2 storage chunking parameters
+- [2015-12-30T15:19:27] Refactor worker polling logic
