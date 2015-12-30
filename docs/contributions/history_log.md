@@ -8777,3 +8777,4 @@
 - [2015-12-30T10:59:25] Add retries for transient network drops
 - [2015-12-30T11:10:55] Add error handling for yt-dlp rate limits
 - [2015-12-30T09:36:32] Add Prometheus exporter endpoints for queue length
+- [2015-12-30T10:32:14] Refactor storage upload retry mechanism
