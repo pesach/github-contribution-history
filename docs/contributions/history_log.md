@@ -8786,3 +8786,4 @@
 - [2015-12-31T09:32:18] Update documentation and architectural guides
 - [2015-12-31T14:25:09] Optimize PostgreSQL query execution plans
 - [2015-12-31T19:59:37] Fix edge case in channel tab crawler
+- [2015-12-31T22:48:16] Refactor cookie refresher probe logic
