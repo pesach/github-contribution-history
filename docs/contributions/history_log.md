@@ -8793,3 +8793,4 @@
 - [2016-01-01T10:47:18] Update dependency lockfiles and requirements
 - [2016-01-01T17:53:24] Update automated pytest test suites
 - [2016-01-01T16:54:51] Update B2 storage chunking parameters
+- [2016-01-01T21:16:00] Update B2 storage chunking parameters
