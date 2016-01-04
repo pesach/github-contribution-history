@@ -8802,3 +8802,4 @@
 - [2016-01-03T17:03:38] Update automated pytest test suites
 - [2016-01-03T15:45:57] Improve ffmpeg streaming pipe buffer management
 - [2016-01-04T19:16:38] Fix edge case in URL parsing and validation
+- [2016-01-04T09:09:04] Optimize PostgreSQL query execution plans
