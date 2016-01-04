@@ -8809,3 +8809,4 @@
 - [2016-01-04T16:04:42] Update schema migration helpers
 - [2016-01-04T10:15:39] Implement streaming upload chunk buffer optimization
 - [2016-01-04T18:48:50] Refactor cookie refresher probe logic
+- [2016-01-04T14:15:33] Add Prometheus exporter endpoints for queue length
