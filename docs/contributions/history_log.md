@@ -8805,3 +8805,4 @@
 - [2016-01-04T09:09:04] Optimize PostgreSQL query execution plans
 - [2016-01-04T17:24:19] Add retries for transient network drops
 - [2016-01-04T10:06:59] Fix edge case in channel tab crawler
+- [2016-01-04T15:43:20] Implement streaming upload chunk buffer optimization
