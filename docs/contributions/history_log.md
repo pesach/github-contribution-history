@@ -8821,3 +8821,4 @@
 - [2016-01-05T21:51:26] Implement streaming upload chunk buffer optimization
 - [2016-01-05T08:00:36] Improve ffmpeg streaming pipe buffer management
 - [2016-01-05T11:32:08] Clean up legacy worker task routines
+- [2016-01-05T17:47:58] Update schema migration helpers
