@@ -8811,3 +8811,4 @@
 - [2016-01-04T18:48:50] Refactor cookie refresher probe logic
 - [2016-01-04T14:15:33] Add Prometheus exporter endpoints for queue length
 - [2016-01-05T16:28:50] Update schema migration helpers
+- [2016-01-05T22:02:48] Update schema migration helpers
