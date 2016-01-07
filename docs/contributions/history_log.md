@@ -8823,3 +8823,4 @@
 - [2016-01-05T11:32:08] Clean up legacy worker task routines
 - [2016-01-05T17:47:58] Update schema migration helpers
 - [2016-01-05T21:19:34] Fix edge case in URL parsing and validation
+- [2016-01-06T22:52:00] Clean up legacy worker task routines
