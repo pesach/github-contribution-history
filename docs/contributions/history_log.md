@@ -8835,3 +8835,4 @@
 - [2016-01-07T09:10:06] Refactor cookie refresher probe logic
 - [2016-01-07T12:16:07] Enhance dashboard statistics rendering
 - [2016-01-07T12:59:51] Refactor worker polling logic
+- [2016-01-07T13:46:39] Improve ffmpeg streaming pipe buffer management
