@@ -8851,3 +8851,4 @@
 - [2016-01-08T16:43:13] Clean up legacy worker task routines
 - [2016-01-08T16:19:55] Update automated pytest test suites
 - [2016-01-08T19:28:41] Clean up legacy worker task routines
+- [2016-01-08T14:39:13] Add error handling for yt-dlp rate limits
