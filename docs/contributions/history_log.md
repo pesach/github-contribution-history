@@ -8840,3 +8840,4 @@
 - [2016-01-07T10:13:40] Refactor cookie refresher probe logic
 - [2016-01-07T22:16:07] Add Redis rate limit backoff handlers
 - [2016-01-07T20:07:46] Update B2 storage chunking parameters
+- [2016-01-07T20:16:45] Refactor worker polling logic
