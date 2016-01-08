@@ -8838,3 +8838,4 @@
 - [2016-01-07T13:46:39] Improve ffmpeg streaming pipe buffer management
 - [2016-01-07T12:40:55] Update documentation and architectural guides
 - [2016-01-07T10:13:40] Refactor cookie refresher probe logic
+- [2016-01-07T22:16:07] Add Redis rate limit backoff handlers
