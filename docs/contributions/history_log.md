@@ -8842,3 +8842,4 @@
 - [2016-01-07T20:07:46] Update B2 storage chunking parameters
 - [2016-01-07T20:16:45] Refactor worker polling logic
 - [2016-01-07T17:03:01] Update automated pytest test suites
+- [2016-01-07T20:14:06] Improve ffmpeg streaming pipe buffer management
