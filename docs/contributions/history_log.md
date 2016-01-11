@@ -8863,3 +8863,4 @@
 - [2016-01-11T16:22:25] Update dependency lockfiles and requirements
 - [2016-01-11T22:49:20] Refactor storage upload retry mechanism
 - [2016-01-11T13:02:23] Update schema migration helpers
+- [2016-01-11T15:14:44] Add Redis rate limit backoff handlers
