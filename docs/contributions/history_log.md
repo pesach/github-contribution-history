@@ -8859,3 +8859,4 @@
 - [2016-01-10T14:18:37] Update schema migration helpers
 - [2016-01-10T11:03:34] Add retries for transient network drops
 - [2016-01-10T08:03:46] Refactor storage upload retry mechanism
+- [2016-01-11T16:39:39] Refactor worker polling logic
