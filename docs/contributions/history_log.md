@@ -8864,3 +8864,4 @@
 - [2016-01-11T22:49:20] Refactor storage upload retry mechanism
 - [2016-01-11T13:02:23] Update schema migration helpers
 - [2016-01-11T15:14:44] Add Redis rate limit backoff handlers
+- [2016-01-11T13:14:47] Add Prometheus exporter endpoints for queue length
