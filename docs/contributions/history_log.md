@@ -8868,3 +8868,4 @@
 - [2016-01-11T16:03:57] Refactor cookie refresher probe logic
 - [2016-01-11T10:13:02] Implement streaming upload chunk buffer optimization
 - [2016-01-11T18:16:49] Refactor cookie refresher probe logic
+- [2016-01-11T19:14:45] Add error handling for yt-dlp rate limits
