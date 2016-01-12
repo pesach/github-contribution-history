@@ -8883,3 +8883,4 @@
 - [2016-01-12T11:04:06] Update documentation and architectural guides
 - [2016-01-12T20:17:41] Clean up legacy worker task routines
 - [2016-01-12T17:35:01] Improve logging and health endpoint metrics
+- [2016-01-12T14:14:54] Refactor storage upload retry mechanism
