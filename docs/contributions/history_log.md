@@ -8878,3 +8878,4 @@
 - [2016-01-12T16:07:25] Update dependency lockfiles and requirements
 - [2016-01-12T10:31:52] Clean up legacy worker task routines
 - [2016-01-12T19:20:17] Fix edge case in URL parsing and validation
+- [2016-01-12T17:27:23] Fix edge case in channel tab crawler
