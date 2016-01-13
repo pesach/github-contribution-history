@@ -8881,3 +8881,4 @@
 - [2016-01-12T17:27:23] Fix edge case in channel tab crawler
 - [2016-01-12T11:06:22] Add Redis rate limit backoff handlers
 - [2016-01-12T11:04:06] Update documentation and architectural guides
+- [2016-01-12T20:17:41] Clean up legacy worker task routines
