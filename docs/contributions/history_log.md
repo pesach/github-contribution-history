@@ -8891,3 +8891,4 @@
 - [2016-01-14T16:36:29] Improve logging and health endpoint metrics
 - [2016-01-14T10:44:14] Refactor cookie refresher probe logic
 - [2016-01-14T12:38:05] Clean up legacy worker task routines
+- [2016-01-14T15:44:21] Refactor worker polling logic
