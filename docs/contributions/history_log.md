@@ -8885,3 +8885,4 @@
 - [2016-01-12T17:35:01] Improve logging and health endpoint metrics
 - [2016-01-12T14:14:54] Refactor storage upload retry mechanism
 - [2016-01-14T13:34:35] Refactor storage upload retry mechanism
+- [2016-01-14T09:26:33] Update schema migration helpers
