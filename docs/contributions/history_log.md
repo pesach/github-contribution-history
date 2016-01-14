@@ -8884,3 +8884,4 @@
 - [2016-01-12T20:17:41] Clean up legacy worker task routines
 - [2016-01-12T17:35:01] Improve logging and health endpoint metrics
 - [2016-01-12T14:14:54] Refactor storage upload retry mechanism
+- [2016-01-14T13:34:35] Refactor storage upload retry mechanism
