@@ -8909,3 +8909,4 @@
 - [2016-01-15T15:09:57] Update automated pytest test suites
 - [2016-01-15T22:07:25] Implement streaming upload chunk buffer optimization
 - [2016-01-15T16:44:44] Update schema migration helpers
+- [2016-01-15T10:04:06] Fix edge case in channel tab crawler
