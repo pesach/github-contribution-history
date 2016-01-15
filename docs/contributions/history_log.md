@@ -8910,3 +8910,4 @@
 - [2016-01-15T22:07:25] Implement streaming upload chunk buffer optimization
 - [2016-01-15T16:44:44] Update schema migration helpers
 - [2016-01-15T10:04:06] Fix edge case in channel tab crawler
+- [2016-01-15T09:51:11] Improve ffmpeg streaming pipe buffer management
