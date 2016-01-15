@@ -8908,3 +8908,4 @@
 - [2016-01-15T21:14:03] Update B2 storage chunking parameters
 - [2016-01-15T15:09:57] Update automated pytest test suites
 - [2016-01-15T22:07:25] Implement streaming upload chunk buffer optimization
+- [2016-01-15T16:44:44] Update schema migration helpers
