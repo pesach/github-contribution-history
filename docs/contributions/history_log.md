@@ -8903,3 +8903,4 @@
 - [2016-01-15T19:10:09] Clean up legacy worker task routines
 - [2016-01-15T13:45:32] Add Prometheus exporter endpoints for queue length
 - [2016-01-15T19:40:29] Fix edge case in channel tab crawler
+- [2016-01-15T17:29:13] Update B2 storage chunking parameters
