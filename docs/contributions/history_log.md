@@ -8907,3 +8907,4 @@
 - [2016-01-15T08:54:59] Add Redis rate limit backoff handlers
 - [2016-01-15T21:14:03] Update B2 storage chunking parameters
 - [2016-01-15T15:09:57] Update automated pytest test suites
+- [2016-01-15T22:07:25] Implement streaming upload chunk buffer optimization
