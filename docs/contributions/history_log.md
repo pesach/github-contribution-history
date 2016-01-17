@@ -8913,3 +8913,4 @@
 - [2016-01-15T09:51:11] Improve ffmpeg streaming pipe buffer management
 - [2016-01-17T19:50:14] Improve ffmpeg streaming pipe buffer management
 - [2016-01-17T13:06:30] Fix edge case in URL parsing and validation
+- [2016-01-17T14:31:20] Update automated pytest test suites
