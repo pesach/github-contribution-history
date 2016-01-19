@@ -8932,3 +8932,4 @@
 - [2016-01-19T09:47:58] Update automated pytest test suites
 - [2016-01-19T12:46:05] Enhance dashboard statistics rendering
 - [2016-01-19T16:52:05] Fix edge case in channel tab crawler
+- [2016-01-19T08:59:41] Fix edge case in channel tab crawler
