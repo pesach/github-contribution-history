@@ -8938,3 +8938,4 @@
 - [2016-01-20T13:40:54] Clean up legacy worker task routines
 - [2016-01-20T15:06:43] Add Redis rate limit backoff handlers
 - [2016-01-20T20:25:24] Update schema migration helpers
+- [2016-01-20T11:19:07] Optimize PostgreSQL query execution plans
