@@ -8957,3 +8957,4 @@
 - [2016-01-21T16:51:51] Add error handling for yt-dlp rate limits
 - [2016-01-21T13:32:18] Update dependency lockfiles and requirements
 - [2016-01-21T09:51:52] Fix edge case in URL parsing and validation
+- [2016-01-21T17:43:57] Add Redis rate limit backoff handlers
