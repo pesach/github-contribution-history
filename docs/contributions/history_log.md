@@ -8951,3 +8951,4 @@
 - [2016-01-21T14:57:17] Clean up legacy worker task routines
 - [2016-01-21T18:35:24] Implement streaming upload chunk buffer optimization
 - [2016-01-21T21:10:57] Fix edge case in channel tab crawler
+- [2016-01-21T16:29:42] Update B2 storage chunking parameters
