@@ -8940,3 +8940,4 @@
 - [2016-01-20T20:25:24] Update schema migration helpers
 - [2016-01-20T11:19:07] Optimize PostgreSQL query execution plans
 - [2016-01-20T08:11:26] Update documentation and architectural guides
+- [2016-01-20T19:13:03] Fix edge case in URL parsing and validation
