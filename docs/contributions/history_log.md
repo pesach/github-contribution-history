@@ -8953,3 +8953,4 @@
 - [2016-01-21T21:10:57] Fix edge case in channel tab crawler
 - [2016-01-21T16:29:42] Update B2 storage chunking parameters
 - [2016-01-21T19:15:01] Refactor worker polling logic
+- [2016-01-21T09:54:45] Add error handling for yt-dlp rate limits
