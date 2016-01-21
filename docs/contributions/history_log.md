@@ -8947,3 +8947,4 @@
 - [2016-01-21T15:33:34] Update dependency lockfiles and requirements
 - [2016-01-21T19:50:23] Improve logging and health endpoint metrics
 - [2016-01-21T10:42:59] Improve ffmpeg streaming pipe buffer management
+- [2016-01-21T17:40:37] Add Prometheus exporter endpoints for queue length
