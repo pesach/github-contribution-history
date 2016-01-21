@@ -8956,3 +8956,4 @@
 - [2016-01-21T09:54:45] Add error handling for yt-dlp rate limits
 - [2016-01-21T16:51:51] Add error handling for yt-dlp rate limits
 - [2016-01-21T13:32:18] Update dependency lockfiles and requirements
+- [2016-01-21T09:51:52] Fix edge case in URL parsing and validation
