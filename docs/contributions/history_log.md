@@ -8945,3 +8945,4 @@
 - [2016-01-20T12:42:56] Update automated pytest test suites
 - [2016-01-21T08:13:44] Fix edge case in channel tab crawler
 - [2016-01-21T15:33:34] Update dependency lockfiles and requirements
+- [2016-01-21T19:50:23] Improve logging and health endpoint metrics
