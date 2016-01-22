@@ -8966,3 +8966,4 @@
 - [2016-01-22T22:32:55] Fix edge case in channel tab crawler
 - [2016-01-22T10:43:33] Add error handling for yt-dlp rate limits
 - [2016-01-22T10:30:05] Improve ffmpeg streaming pipe buffer management
+- [2016-01-22T16:49:47] Improve logging and health endpoint metrics
