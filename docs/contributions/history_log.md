@@ -8961,3 +8961,4 @@
 - [2016-01-22T12:40:18] Update automated pytest test suites
 - [2016-01-22T20:07:40] Add Redis rate limit backoff handlers
 - [2016-01-22T11:18:58] Add Prometheus exporter endpoints for queue length
+- [2016-01-22T15:35:53] Refactor storage upload retry mechanism
