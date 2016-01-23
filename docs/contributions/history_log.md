@@ -8959,3 +8959,4 @@
 - [2016-01-21T09:51:52] Fix edge case in URL parsing and validation
 - [2016-01-21T17:43:57] Add Redis rate limit backoff handlers
 - [2016-01-22T12:40:18] Update automated pytest test suites
+- [2016-01-22T20:07:40] Add Redis rate limit backoff handlers
