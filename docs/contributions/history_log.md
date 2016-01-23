@@ -8969,3 +8969,4 @@
 - [2016-01-22T16:49:47] Improve logging and health endpoint metrics
 - [2016-01-22T13:45:08] Implement streaming upload chunk buffer optimization
 - [2016-01-23T14:26:54] Refactor worker polling logic
+- [2016-01-23T10:19:42] Update schema migration helpers
