@@ -8985,3 +8985,4 @@
 - [2016-01-25T11:19:26] Enhance dashboard statistics rendering
 - [2016-01-25T14:53:21] Update B2 storage chunking parameters
 - [2016-01-25T22:12:14] Update B2 storage chunking parameters
+- [2016-01-25T16:57:22] Refactor worker polling logic
