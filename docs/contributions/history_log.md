@@ -9001,3 +9001,4 @@
 - [2016-01-26T11:42:41] Fix edge case in URL parsing and validation
 - [2016-01-26T08:59:37] Refactor storage upload retry mechanism
 - [2016-01-26T12:45:32] Refactor storage upload retry mechanism
+- [2016-01-26T16:06:36] Update dependency lockfiles and requirements
