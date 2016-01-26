@@ -8999,3 +8999,4 @@
 - [2016-01-26T14:44:16] Improve ffmpeg streaming pipe buffer management
 - [2016-01-26T21:46:13] Update schema migration helpers
 - [2016-01-26T11:42:41] Fix edge case in URL parsing and validation
+- [2016-01-26T08:59:37] Refactor storage upload retry mechanism
