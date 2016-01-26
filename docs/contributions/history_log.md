@@ -8989,3 +8989,4 @@
 - [2016-01-25T22:44:29] Enhance dashboard statistics rendering
 - [2016-01-25T17:47:20] Improve ffmpeg streaming pipe buffer management
 - [2016-01-25T09:46:58] Fix edge case in channel tab crawler
+- [2016-01-25T20:16:43] Clean up legacy worker task routines
