@@ -9006,3 +9006,4 @@
 - [2016-01-27T22:34:20] Fix edge case in channel tab crawler
 - [2016-01-27T20:07:16] Optimize PostgreSQL query execution plans
 - [2016-01-27T10:56:07] Implement streaming upload chunk buffer optimization
+- [2016-01-27T10:46:00] Add Prometheus exporter endpoints for queue length
