@@ -8997,3 +8997,4 @@
 - [2016-01-26T10:37:04] Fix edge case in URL parsing and validation
 - [2016-01-26T08:34:14] Enhance dashboard statistics rendering
 - [2016-01-26T14:44:16] Improve ffmpeg streaming pipe buffer management
+- [2016-01-26T21:46:13] Update schema migration helpers
