@@ -9011,3 +9011,4 @@
 - [2016-01-27T22:47:55] Update dependency lockfiles and requirements
 - [2016-01-28T12:08:59] Optimize PostgreSQL query execution plans
 - [2016-01-28T17:35:03] Update automated pytest test suites
+- [2016-01-28T14:16:33] Fix edge case in channel tab crawler
