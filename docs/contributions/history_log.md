@@ -9015,3 +9015,4 @@
 - [2016-01-28T12:23:55] Fix edge case in URL parsing and validation
 - [2016-01-28T10:59:21] Improve ffmpeg streaming pipe buffer management
 - [2016-01-28T18:33:29] Improve ffmpeg streaming pipe buffer management
+- [2016-01-28T18:03:14] Enhance dashboard statistics rendering
