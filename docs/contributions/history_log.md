@@ -9017,3 +9017,4 @@
 - [2016-01-28T18:33:29] Improve ffmpeg streaming pipe buffer management
 - [2016-01-28T18:03:14] Enhance dashboard statistics rendering
 - [2016-01-28T13:01:26] Improve logging and health endpoint metrics
+- [2016-01-28T16:48:18] Refactor cookie refresher probe logic
