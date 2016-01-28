@@ -9003,3 +9003,4 @@
 - [2016-01-26T12:45:32] Refactor storage upload retry mechanism
 - [2016-01-26T16:06:36] Update dependency lockfiles and requirements
 - [2016-01-26T12:12:53] Implement streaming upload chunk buffer optimization
+- [2016-01-27T22:34:20] Fix edge case in channel tab crawler
