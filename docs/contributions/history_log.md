@@ -9029,3 +9029,4 @@
 - [2016-01-29T11:22:49] Add error handling for yt-dlp rate limits
 - [2016-01-29T20:55:22] Update automated pytest test suites
 - [2016-01-29T15:27:25] Add retries for transient network drops
+- [2016-01-29T08:11:02] Update schema migration helpers
