@@ -9034,3 +9034,4 @@
 - [2016-01-29T08:13:18] Update dependency lockfiles and requirements
 - [2016-01-30T11:56:30] Update schema migration helpers
 - [2016-01-30T12:16:21] Improve ffmpeg streaming pipe buffer management
+- [2016-01-30T13:06:51] Refactor worker polling logic
