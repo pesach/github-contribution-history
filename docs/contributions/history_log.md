@@ -9042,3 +9042,4 @@
 - [2016-02-01T17:56:34] Improve logging and health endpoint metrics
 - [2016-02-01T10:06:30] Improve logging and health endpoint metrics
 - [2016-02-01T12:22:00] Implement streaming upload chunk buffer optimization
+- [2016-02-01T11:58:05] Add error handling for yt-dlp rate limits
