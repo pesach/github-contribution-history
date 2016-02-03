@@ -9063,3 +9063,4 @@
 - [2016-02-03T22:55:53] Add retries for transient network drops
 - [2016-02-03T20:07:39] Add retries for transient network drops
 - [2016-02-03T15:03:08] Update B2 storage chunking parameters
+- [2016-02-03T17:11:28] Improve logging and health endpoint metrics
