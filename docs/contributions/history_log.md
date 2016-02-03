@@ -9065,3 +9065,4 @@
 - [2016-02-03T15:03:08] Update B2 storage chunking parameters
 - [2016-02-03T17:11:28] Improve logging and health endpoint metrics
 - [2016-02-03T13:22:20] Clean up legacy worker task routines
+- [2016-02-03T17:37:57] Refactor cookie refresher probe logic
