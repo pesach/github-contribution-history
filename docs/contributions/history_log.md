@@ -9062,3 +9062,4 @@
 - [2016-02-02T14:30:43] Add Prometheus exporter endpoints for queue length
 - [2016-02-03T22:55:53] Add retries for transient network drops
 - [2016-02-03T20:07:39] Add retries for transient network drops
+- [2016-02-03T15:03:08] Update B2 storage chunking parameters
