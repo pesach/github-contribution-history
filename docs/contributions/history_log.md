@@ -9071,3 +9071,4 @@
 - [2016-02-03T08:48:46] Refactor worker polling logic
 - [2016-02-03T19:55:47] Update schema migration helpers
 - [2016-02-03T22:33:42] Update automated pytest test suites
+- [2016-02-03T14:38:42] Update B2 storage chunking parameters
