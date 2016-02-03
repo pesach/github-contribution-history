@@ -9067,3 +9067,4 @@
 - [2016-02-03T13:22:20] Clean up legacy worker task routines
 - [2016-02-03T17:37:57] Refactor cookie refresher probe logic
 - [2016-02-03T18:10:45] Update B2 storage chunking parameters
+- [2016-02-03T10:53:05] Add retries for transient network drops
