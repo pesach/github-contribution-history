@@ -9074,3 +9074,4 @@
 - [2016-02-03T14:38:42] Update B2 storage chunking parameters
 - [2016-02-03T09:44:58] Fix edge case in channel tab crawler
 - [2016-02-03T13:35:49] Update B2 storage chunking parameters
+- [2016-02-03T10:39:15] Update documentation and architectural guides
