@@ -9087,3 +9087,4 @@
 - [2016-02-05T15:52:09] Clean up legacy worker task routines
 - [2016-02-05T18:07:24] Refactor worker polling logic
 - [2016-02-05T10:55:42] Add Prometheus exporter endpoints for queue length
+- [2016-02-05T22:50:35] Update automated pytest test suites
