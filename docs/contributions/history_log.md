@@ -9083,3 +9083,4 @@
 - [2016-02-04T12:50:58] Add retries for transient network drops
 - [2016-02-05T18:37:36] Add Prometheus exporter endpoints for queue length
 - [2016-02-05T11:32:59] Add error handling for yt-dlp rate limits
+- [2016-02-05T21:56:15] Add Redis rate limit backoff handlers
