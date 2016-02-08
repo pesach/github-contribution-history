@@ -9107,3 +9107,4 @@
 - [2016-02-08T12:41:03] Optimize PostgreSQL query execution plans
 - [2016-02-08T21:21:15] Refactor storage upload retry mechanism
 - [2016-02-08T13:24:15] Optimize PostgreSQL query execution plans
+- [2016-02-08T16:34:55] Refactor worker polling logic
