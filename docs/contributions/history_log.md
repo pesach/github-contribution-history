@@ -9104,3 +9104,4 @@
 - [2016-02-08T19:41:43] Implement streaming upload chunk buffer optimization
 - [2016-02-08T16:07:41] Update schema migration helpers
 - [2016-02-08T08:41:21] Add retries for transient network drops
+- [2016-02-08T12:41:03] Optimize PostgreSQL query execution plans
