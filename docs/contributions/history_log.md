@@ -9102,3 +9102,4 @@
 - [2016-02-07T13:57:49] Update B2 storage chunking parameters
 - [2016-02-08T22:18:04] Clean up legacy worker task routines
 - [2016-02-08T19:41:43] Implement streaming upload chunk buffer optimization
+- [2016-02-08T16:07:41] Update schema migration helpers
