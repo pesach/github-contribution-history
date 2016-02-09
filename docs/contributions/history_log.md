@@ -9100,3 +9100,4 @@
 - [2016-02-07T09:17:01] Update automated pytest test suites
 - [2016-02-07T16:02:08] Add error handling for yt-dlp rate limits
 - [2016-02-07T13:57:49] Update B2 storage chunking parameters
+- [2016-02-08T22:18:04] Clean up legacy worker task routines
