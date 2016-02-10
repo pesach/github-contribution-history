@@ -9123,3 +9123,4 @@
 - [2016-02-09T19:54:09] Optimize PostgreSQL query execution plans
 - [2016-02-09T18:04:48] Refactor storage upload retry mechanism
 - [2016-02-10T19:32:14] Update dependency lockfiles and requirements
+- [2016-02-10T14:19:34] Improve logging and health endpoint metrics
