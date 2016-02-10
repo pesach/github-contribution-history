@@ -9135,3 +9135,4 @@
 - [2016-02-10T14:56:20] Update dependency lockfiles and requirements
 - [2016-02-10T20:59:06] Update dependency lockfiles and requirements
 - [2016-02-10T10:47:43] Update automated pytest test suites
+- [2016-02-10T11:36:46] Update documentation and architectural guides
