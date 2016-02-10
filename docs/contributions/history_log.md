@@ -9124,3 +9124,4 @@
 - [2016-02-09T18:04:48] Refactor storage upload retry mechanism
 - [2016-02-10T19:32:14] Update dependency lockfiles and requirements
 - [2016-02-10T14:19:34] Improve logging and health endpoint metrics
+- [2016-02-10T08:50:32] Refactor worker polling logic
