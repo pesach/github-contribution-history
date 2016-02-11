@@ -9142,3 +9142,4 @@
 - [2016-02-11T15:46:05] Update documentation and architectural guides
 - [2016-02-11T10:51:39] Fix edge case in channel tab crawler
 - [2016-02-11T09:21:17] Enhance dashboard statistics rendering
+- [2016-02-11T18:59:20] Fix edge case in channel tab crawler
