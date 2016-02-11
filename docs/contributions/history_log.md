@@ -9122,3 +9122,4 @@
 - [2016-02-09T15:54:30] Fix edge case in URL parsing and validation
 - [2016-02-09T19:54:09] Optimize PostgreSQL query execution plans
 - [2016-02-09T18:04:48] Refactor storage upload retry mechanism
+- [2016-02-10T19:32:14] Update dependency lockfiles and requirements
