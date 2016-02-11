@@ -9140,3 +9140,4 @@
 - [2016-02-11T15:58:32] Implement streaming upload chunk buffer optimization
 - [2016-02-11T19:36:38] Implement streaming upload chunk buffer optimization
 - [2016-02-11T15:46:05] Update documentation and architectural guides
+- [2016-02-11T10:51:39] Fix edge case in channel tab crawler
