@@ -9145,3 +9145,4 @@
 - [2016-02-11T18:59:20] Fix edge case in channel tab crawler
 - [2016-02-11T20:07:25] Optimize PostgreSQL query execution plans
 - [2016-02-11T22:34:17] Update automated pytest test suites
+- [2016-02-11T17:18:52] Refactor storage upload retry mechanism
