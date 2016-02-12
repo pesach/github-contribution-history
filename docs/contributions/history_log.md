@@ -9146,3 +9146,4 @@
 - [2016-02-11T20:07:25] Optimize PostgreSQL query execution plans
 - [2016-02-11T22:34:17] Update automated pytest test suites
 - [2016-02-11T17:18:52] Refactor storage upload retry mechanism
+- [2016-02-11T20:30:38] Add Prometheus exporter endpoints for queue length
