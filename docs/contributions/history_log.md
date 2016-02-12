@@ -9154,3 +9154,4 @@
 - [2016-02-12T13:25:34] Add error handling for yt-dlp rate limits
 - [2016-02-12T16:19:54] Refactor cookie refresher probe logic
 - [2016-02-12T21:39:45] Update dependency lockfiles and requirements
+- [2016-02-12T18:55:40] Fix edge case in URL parsing and validation
