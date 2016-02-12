@@ -9160,3 +9160,4 @@
 - [2016-02-12T12:02:01] Fix edge case in URL parsing and validation
 - [2016-02-12T18:04:45] Add Redis rate limit backoff handlers
 - [2016-02-12T10:39:02] Enhance dashboard statistics rendering
+- [2016-02-12T14:38:40] Refactor cookie refresher probe logic
