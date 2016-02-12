@@ -9143,3 +9143,4 @@
 - [2016-02-11T10:51:39] Fix edge case in channel tab crawler
 - [2016-02-11T09:21:17] Enhance dashboard statistics rendering
 - [2016-02-11T18:59:20] Fix edge case in channel tab crawler
+- [2016-02-11T20:07:25] Optimize PostgreSQL query execution plans
