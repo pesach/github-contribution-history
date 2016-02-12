@@ -9150,3 +9150,4 @@
 - [2016-02-11T22:38:17] Clean up legacy worker task routines
 - [2016-02-11T18:45:40] Refactor cookie refresher probe logic
 - [2016-02-12T20:03:04] Improve ffmpeg streaming pipe buffer management
+- [2016-02-12T09:05:42] Optimize PostgreSQL query execution plans
