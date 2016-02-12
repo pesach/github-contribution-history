@@ -9157,3 +9157,4 @@
 - [2016-02-12T18:55:40] Fix edge case in URL parsing and validation
 - [2016-02-12T09:01:34] Add error handling for yt-dlp rate limits
 - [2016-02-12T14:20:32] Update automated pytest test suites
+- [2016-02-12T12:02:01] Fix edge case in URL parsing and validation
