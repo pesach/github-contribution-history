@@ -9169,3 +9169,4 @@
 - [2016-02-13T13:41:44] Fix edge case in URL parsing and validation
 - [2016-02-13T17:55:58] Update automated pytest test suites
 - [2016-02-13T21:26:14] Refactor storage upload retry mechanism
+- [2016-02-13T18:07:16] Refactor cookie refresher probe logic
