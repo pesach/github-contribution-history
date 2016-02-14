@@ -9170,3 +9170,4 @@
 - [2016-02-13T17:55:58] Update automated pytest test suites
 - [2016-02-13T21:26:14] Refactor storage upload retry mechanism
 - [2016-02-13T18:07:16] Refactor cookie refresher probe logic
+- [2016-02-14T08:20:44] Improve ffmpeg streaming pipe buffer management
