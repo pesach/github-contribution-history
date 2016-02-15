@@ -9184,3 +9184,4 @@
 - [2016-02-15T22:48:39] Fix edge case in channel tab crawler
 - [2016-02-15T13:00:26] Improve ffmpeg streaming pipe buffer management
 - [2016-02-15T11:18:10] Update documentation and architectural guides
+- [2016-02-15T11:40:28] Add error handling for yt-dlp rate limits
