@@ -9185,3 +9185,4 @@
 - [2016-02-15T13:00:26] Improve ffmpeg streaming pipe buffer management
 - [2016-02-15T11:18:10] Update documentation and architectural guides
 - [2016-02-15T11:40:28] Add error handling for yt-dlp rate limits
+- [2016-02-15T08:51:57] Add retries for transient network drops
