@@ -9180,3 +9180,4 @@
 - [2016-02-15T22:00:23] Enhance dashboard statistics rendering
 - [2016-02-15T18:24:22] Optimize PostgreSQL query execution plans
 - [2016-02-15T11:35:38] Optimize PostgreSQL query execution plans
+- [2016-02-15T19:39:22] Fix edge case in channel tab crawler
