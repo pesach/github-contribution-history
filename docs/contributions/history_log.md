@@ -9199,3 +9199,4 @@
 - [2016-02-16T22:39:10] Update documentation and architectural guides
 - [2016-02-16T16:13:37] Optimize PostgreSQL query execution plans
 - [2016-02-16T19:53:56] Optimize PostgreSQL query execution plans
+- [2016-02-16T18:58:44] Update schema migration helpers
