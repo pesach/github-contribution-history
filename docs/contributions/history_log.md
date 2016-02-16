@@ -9193,3 +9193,4 @@
 - [2016-02-16T14:37:12] Update documentation and architectural guides
 - [2016-02-16T19:55:09] Implement streaming upload chunk buffer optimization
 - [2016-02-16T13:12:34] Refactor worker polling logic
+- [2016-02-16T13:00:20] Add retries for transient network drops
