@@ -9208,3 +9208,4 @@
 - [2016-02-17T11:35:59] Update dependency lockfiles and requirements
 - [2016-02-17T08:25:30] Add Redis rate limit backoff handlers
 - [2016-02-17T22:22:49] Clean up legacy worker task routines
+- [2016-02-17T11:04:44] Add Prometheus exporter endpoints for queue length
