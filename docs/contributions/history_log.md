@@ -9206,3 +9206,4 @@
 - [2016-02-17T18:31:51] Refactor worker polling logic
 - [2016-02-17T08:49:34] Update documentation and architectural guides
 - [2016-02-17T11:35:59] Update dependency lockfiles and requirements
+- [2016-02-17T08:25:30] Add Redis rate limit backoff handlers
