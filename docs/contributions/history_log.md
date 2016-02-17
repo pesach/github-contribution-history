@@ -9203,3 +9203,4 @@
 - [2016-02-16T17:39:01] Update B2 storage chunking parameters
 - [2016-02-16T09:40:03] Clean up legacy worker task routines
 - [2016-02-16T20:38:27] Refactor storage upload retry mechanism
+- [2016-02-17T18:31:51] Refactor worker polling logic
