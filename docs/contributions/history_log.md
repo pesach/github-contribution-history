@@ -9218,3 +9218,4 @@
 - [2016-02-17T10:37:28] Enhance dashboard statistics rendering
 - [2016-02-17T17:17:58] Optimize PostgreSQL query execution plans
 - [2016-02-18T10:52:04] Fix edge case in URL parsing and validation
+- [2016-02-18T11:21:39] Update B2 storage chunking parameters
