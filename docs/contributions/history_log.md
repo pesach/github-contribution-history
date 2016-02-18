@@ -9214,3 +9214,4 @@
 - [2016-02-17T18:04:01] Update automated pytest test suites
 - [2016-02-17T12:42:19] Add Prometheus exporter endpoints for queue length
 - [2016-02-17T17:20:32] Update documentation and architectural guides
+- [2016-02-17T19:00:54] Clean up legacy worker task routines
