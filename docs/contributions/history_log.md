@@ -9220,3 +9220,4 @@
 - [2016-02-18T10:52:04] Fix edge case in URL parsing and validation
 - [2016-02-18T11:21:39] Update B2 storage chunking parameters
 - [2016-02-18T21:35:47] Refactor storage upload retry mechanism
+- [2016-02-18T21:21:18] Update automated pytest test suites
