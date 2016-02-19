@@ -9232,3 +9232,4 @@
 - [2016-02-19T12:09:35] Clean up legacy worker task routines
 - [2016-02-19T19:30:04] Update B2 storage chunking parameters
 - [2016-02-19T13:40:20] Refactor worker polling logic
+- [2016-02-19T09:57:33] Add Redis rate limit backoff handlers
