@@ -9231,3 +9231,4 @@
 - [2016-02-19T22:50:43] Implement streaming upload chunk buffer optimization
 - [2016-02-19T12:09:35] Clean up legacy worker task routines
 - [2016-02-19T19:30:04] Update B2 storage chunking parameters
+- [2016-02-19T13:40:20] Refactor worker polling logic
