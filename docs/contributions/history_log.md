@@ -9236,3 +9236,4 @@
 - [2016-02-19T19:24:07] Fix edge case in URL parsing and validation
 - [2016-02-19T19:04:07] Add retries for transient network drops
 - [2016-02-19T20:40:52] Improve logging and health endpoint metrics
+- [2016-02-19T14:32:06] Refactor cookie refresher probe logic
