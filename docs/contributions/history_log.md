@@ -9242,3 +9242,4 @@
 - [2016-02-19T17:19:55] Refactor cookie refresher probe logic
 - [2016-02-20T13:54:25] Update dependency lockfiles and requirements
 - [2016-02-20T19:54:10] Improve ffmpeg streaming pipe buffer management
+- [2016-02-20T20:42:14] Fix edge case in URL parsing and validation
