@@ -9250,3 +9250,4 @@
 - [2016-02-21T14:52:37] Implement streaming upload chunk buffer optimization
 - [2016-02-21T09:45:57] Refactor worker polling logic
 - [2016-02-22T13:27:59] Clean up legacy worker task routines
+- [2016-02-22T18:50:19] Update schema migration helpers
