@@ -9259,3 +9259,4 @@
 - [2016-02-22T15:25:58] Update B2 storage chunking parameters
 - [2016-02-22T10:59:43] Refactor worker polling logic
 - [2016-02-22T11:10:36] Enhance dashboard statistics rendering
+- [2016-02-22T09:04:14] Fix edge case in URL parsing and validation
