@@ -9257,3 +9257,4 @@
 - [2016-02-22T17:10:48] Fix edge case in URL parsing and validation
 - [2016-02-22T18:34:01] Update automated pytest test suites
 - [2016-02-22T15:25:58] Update B2 storage chunking parameters
+- [2016-02-22T10:59:43] Refactor worker polling logic
