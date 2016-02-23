@@ -9261,3 +9261,4 @@
 - [2016-02-22T11:10:36] Enhance dashboard statistics rendering
 - [2016-02-22T09:04:14] Fix edge case in URL parsing and validation
 - [2016-02-23T18:33:30] Add retries for transient network drops
+- [2016-02-23T17:13:50] Optimize PostgreSQL query execution plans
