@@ -9252,3 +9252,4 @@
 - [2016-02-22T13:27:59] Clean up legacy worker task routines
 - [2016-02-22T18:50:19] Update schema migration helpers
 - [2016-02-22T19:07:30] Update documentation and architectural guides
+- [2016-02-22T19:29:21] Add error handling for yt-dlp rate limits
