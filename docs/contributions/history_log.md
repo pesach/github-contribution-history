@@ -9281,3 +9281,4 @@
 - [2016-02-24T19:29:19] Optimize PostgreSQL query execution plans
 - [2016-02-24T16:49:00] Refactor worker polling logic
 - [2016-02-24T09:18:14] Improve logging and health endpoint metrics
+- [2016-02-24T11:58:19] Fix edge case in channel tab crawler
