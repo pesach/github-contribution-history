@@ -9265,3 +9265,4 @@
 - [2016-02-23T08:46:40] Improve ffmpeg streaming pipe buffer management
 - [2016-02-23T20:02:01] Fix edge case in channel tab crawler
 - [2016-02-23T12:17:26] Implement streaming upload chunk buffer optimization
+- [2016-02-23T22:11:05] Refactor cookie refresher probe logic
