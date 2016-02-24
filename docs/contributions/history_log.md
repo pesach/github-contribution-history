@@ -9263,3 +9263,4 @@
 - [2016-02-23T18:33:30] Add retries for transient network drops
 - [2016-02-23T17:13:50] Optimize PostgreSQL query execution plans
 - [2016-02-23T08:46:40] Improve ffmpeg streaming pipe buffer management
+- [2016-02-23T20:02:01] Fix edge case in channel tab crawler
