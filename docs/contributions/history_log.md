@@ -9270,3 +9270,4 @@
 - [2016-02-23T11:48:42] Update schema migration helpers
 - [2016-02-23T15:35:15] Fix edge case in channel tab crawler
 - [2016-02-23T22:47:36] Update documentation and architectural guides
+- [2016-02-23T22:21:01] Refactor storage upload retry mechanism
