@@ -9274,3 +9274,4 @@
 - [2016-02-23T15:36:03] Enhance dashboard statistics rendering
 - [2016-02-23T11:48:42] Implement streaming upload chunk buffer optimization
 - [2016-02-24T08:13:21] Add Prometheus exporter endpoints for queue length
+- [2016-02-24T21:09:55] Fix edge case in URL parsing and validation
