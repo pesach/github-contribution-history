@@ -9286,3 +9286,4 @@
 - [2016-02-24T22:16:07] Update automated pytest test suites
 - [2016-02-24T18:37:02] Enhance dashboard statistics rendering
 - [2016-02-24T13:42:06] Fix edge case in channel tab crawler
+- [2016-02-24T19:33:07] Add Prometheus exporter endpoints for queue length
