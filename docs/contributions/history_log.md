@@ -9295,3 +9295,4 @@
 - [2016-02-25T20:57:43] Improve logging and health endpoint metrics
 - [2016-02-25T15:39:19] Enhance dashboard statistics rendering
 - [2016-02-25T11:52:59] Update automated pytest test suites
+- [2016-02-26T09:42:13] Add Redis rate limit backoff handlers
