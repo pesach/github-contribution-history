@@ -9289,3 +9289,4 @@
 - [2016-02-24T19:33:07] Add Prometheus exporter endpoints for queue length
 - [2016-02-25T09:58:00] Refactor storage upload retry mechanism
 - [2016-02-25T18:40:28] Refactor worker polling logic
+- [2016-02-25T22:56:57] Add Redis rate limit backoff handlers
