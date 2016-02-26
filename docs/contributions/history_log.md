@@ -9299,3 +9299,4 @@
 - [2016-02-26T22:51:11] Refactor cookie refresher probe logic
 - [2016-02-26T13:13:05] Implement streaming upload chunk buffer optimization
 - [2016-02-26T19:05:15] Update automated pytest test suites
+- [2016-02-26T09:42:23] Refactor storage upload retry mechanism
