@@ -9296,3 +9296,4 @@
 - [2016-02-25T15:39:19] Enhance dashboard statistics rendering
 - [2016-02-25T11:52:59] Update automated pytest test suites
 - [2016-02-26T09:42:13] Add Redis rate limit backoff handlers
+- [2016-02-26T22:51:11] Refactor cookie refresher probe logic
