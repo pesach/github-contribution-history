@@ -9314,3 +9314,4 @@
 - [2016-02-29T16:57:28] Update documentation and architectural guides
 - [2016-02-29T13:58:44] Fix edge case in URL parsing and validation
 - [2016-02-29T18:57:01] Update schema migration helpers
+- [2016-02-29T15:09:18] Add error handling for yt-dlp rate limits
