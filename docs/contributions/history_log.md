@@ -9311,3 +9311,4 @@
 - [2016-02-28T21:52:08] Update B2 storage chunking parameters
 - [2016-02-28T16:28:23] Refactor cookie refresher probe logic
 - [2016-02-28T10:38:37] Update automated pytest test suites
+- [2016-02-29T16:57:28] Update documentation and architectural guides
