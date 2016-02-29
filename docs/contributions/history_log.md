@@ -9308,3 +9308,4 @@
 - [2016-02-28T14:21:36] Update automated pytest test suites
 - [2016-02-28T15:15:09] Implement streaming upload chunk buffer optimization
 - [2016-02-28T08:14:13] Add retries for transient network drops
+- [2016-02-28T21:52:08] Update B2 storage chunking parameters
