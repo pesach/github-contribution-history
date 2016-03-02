@@ -9341,3 +9341,4 @@
 - [2016-03-02T11:19:33] Improve ffmpeg streaming pipe buffer management
 - [2016-03-02T20:04:37] Fix edge case in channel tab crawler
 - [2016-03-02T13:46:36] Add Prometheus exporter endpoints for queue length
+- [2016-03-02T13:17:51] Add error handling for yt-dlp rate limits
