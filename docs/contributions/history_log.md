@@ -9349,3 +9349,4 @@
 - [2016-03-04T17:05:13] Refactor storage upload retry mechanism
 - [2016-03-04T10:38:14] Update B2 storage chunking parameters
 - [2016-03-04T19:40:42] Fix edge case in URL parsing and validation
+- [2016-03-04T08:37:15] Add error handling for yt-dlp rate limits
