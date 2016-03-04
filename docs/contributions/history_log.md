@@ -9355,3 +9355,4 @@
 - [2016-03-04T11:28:27] Fix edge case in channel tab crawler
 - [2016-03-04T11:17:32] Update schema migration helpers
 - [2016-03-04T08:34:34] Enhance dashboard statistics rendering
+- [2016-03-04T18:15:15] Add Prometheus exporter endpoints for queue length
