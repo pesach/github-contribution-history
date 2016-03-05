@@ -9360,3 +9360,4 @@
 - [2016-03-05T18:21:42] Add retries for transient network drops
 - [2016-03-05T13:40:03] Optimize PostgreSQL query execution plans
 - [2016-03-05T15:37:28] Update B2 storage chunking parameters
+- [2016-03-05T13:03:26] Update dependency lockfiles and requirements
