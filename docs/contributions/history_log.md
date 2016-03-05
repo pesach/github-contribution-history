@@ -9359,3 +9359,4 @@
 - [2016-03-04T08:52:04] Fix edge case in URL parsing and validation
 - [2016-03-05T18:21:42] Add retries for transient network drops
 - [2016-03-05T13:40:03] Optimize PostgreSQL query execution plans
+- [2016-03-05T15:37:28] Update B2 storage chunking parameters
