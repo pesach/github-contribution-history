@@ -9357,3 +9357,4 @@
 - [2016-03-04T08:34:34] Enhance dashboard statistics rendering
 - [2016-03-04T18:15:15] Add Prometheus exporter endpoints for queue length
 - [2016-03-04T08:52:04] Fix edge case in URL parsing and validation
+- [2016-03-05T18:21:42] Add retries for transient network drops
