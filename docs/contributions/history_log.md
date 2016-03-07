@@ -9379,3 +9379,4 @@
 - [2016-03-07T21:15:05] Update B2 storage chunking parameters
 - [2016-03-07T15:59:43] Update documentation and architectural guides
 - [2016-03-07T17:20:47] Refactor cookie refresher probe logic
+- [2016-03-07T12:10:29] Fix edge case in URL parsing and validation
