@@ -9370,3 +9370,4 @@
 - [2016-03-06T17:37:53] Add Redis rate limit backoff handlers
 - [2016-03-06T08:58:32] Improve logging and health endpoint metrics
 - [2016-03-07T10:33:06] Optimize PostgreSQL query execution plans
+- [2016-03-07T19:41:01] Fix edge case in URL parsing and validation
