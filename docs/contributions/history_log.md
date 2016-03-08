@@ -9381,3 +9381,4 @@
 - [2016-03-07T17:20:47] Refactor cookie refresher probe logic
 - [2016-03-07T12:10:29] Fix edge case in URL parsing and validation
 - [2016-03-07T20:26:19] Update documentation and architectural guides
+- [2016-03-08T08:49:38] Improve logging and health endpoint metrics
