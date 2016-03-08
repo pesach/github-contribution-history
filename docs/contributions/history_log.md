@@ -9376,3 +9376,4 @@
 - [2016-03-07T21:49:18] Enhance dashboard statistics rendering
 - [2016-03-07T22:12:09] Refactor cookie refresher probe logic
 - [2016-03-07T09:18:37] Update schema migration helpers
+- [2016-03-07T21:15:05] Update B2 storage chunking parameters
