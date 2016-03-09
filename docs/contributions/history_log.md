@@ -9397,3 +9397,4 @@
 - [2016-03-09T17:57:43] Optimize PostgreSQL query execution plans
 - [2016-03-09T17:36:07] Refactor cookie refresher probe logic
 - [2016-03-09T09:24:15] Update B2 storage chunking parameters
+- [2016-03-09T16:20:15] Add Prometheus exporter endpoints for queue length
