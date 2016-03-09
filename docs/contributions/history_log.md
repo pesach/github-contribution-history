@@ -9388,3 +9388,4 @@
 - [2016-03-08T15:43:44] Implement streaming upload chunk buffer optimization
 - [2016-03-08T09:56:53] Refactor cookie refresher probe logic
 - [2016-03-09T12:51:19] Add retries for transient network drops
+- [2016-03-09T09:09:14] Refactor storage upload retry mechanism
