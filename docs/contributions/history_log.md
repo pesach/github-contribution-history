@@ -9408,3 +9408,4 @@
 - [2016-03-10T10:25:15] Fix edge case in channel tab crawler
 - [2016-03-10T20:35:07] Update automated pytest test suites
 - [2016-03-10T13:28:53] Add error handling for yt-dlp rate limits
+- [2016-03-10T14:23:47] Fix edge case in URL parsing and validation
