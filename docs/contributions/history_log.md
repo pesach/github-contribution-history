@@ -9399,3 +9399,4 @@
 - [2016-03-09T09:24:15] Update B2 storage chunking parameters
 - [2016-03-09T16:20:15] Add Prometheus exporter endpoints for queue length
 - [2016-03-09T14:31:54] Refactor storage upload retry mechanism
+- [2016-03-09T22:42:51] Add retries for transient network drops
