@@ -9422,3 +9422,4 @@
 - [2016-03-11T18:02:38] Update automated pytest test suites
 - [2016-03-11T21:03:57] Update automated pytest test suites
 - [2016-03-11T22:25:52] Clean up legacy worker task routines
+- [2016-03-11T13:52:53] Fix edge case in channel tab crawler
