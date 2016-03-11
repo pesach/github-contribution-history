@@ -9415,3 +9415,4 @@
 - [2016-03-11T22:09:26] Update schema migration helpers
 - [2016-03-11T12:09:55] Add Redis rate limit backoff handlers
 - [2016-03-11T17:21:17] Add retries for transient network drops
+- [2016-03-11T15:41:41] Update documentation and architectural guides
