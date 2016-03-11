@@ -9417,3 +9417,4 @@
 - [2016-03-11T17:21:17] Add retries for transient network drops
 - [2016-03-11T15:41:41] Update documentation and architectural guides
 - [2016-03-11T12:46:34] Enhance dashboard statistics rendering
+- [2016-03-11T16:31:08] Update schema migration helpers
