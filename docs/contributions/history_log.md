@@ -9414,3 +9414,4 @@
 - [2016-03-11T08:06:41] Update B2 storage chunking parameters
 - [2016-03-11T22:09:26] Update schema migration helpers
 - [2016-03-11T12:09:55] Add Redis rate limit backoff handlers
+- [2016-03-11T17:21:17] Add retries for transient network drops
