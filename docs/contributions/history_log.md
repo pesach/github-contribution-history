@@ -9427,3 +9427,4 @@
 - [2016-03-12T20:07:21] Fix edge case in URL parsing and validation
 - [2016-03-12T10:25:58] Update documentation and architectural guides
 - [2016-03-12T13:48:48] Improve ffmpeg streaming pipe buffer management
+- [2016-03-12T16:09:12] Clean up legacy worker task routines
