@@ -9425,3 +9425,4 @@
 - [2016-03-11T13:52:53] Fix edge case in channel tab crawler
 - [2016-03-12T09:13:05] Improve logging and health endpoint metrics
 - [2016-03-12T20:07:21] Fix edge case in URL parsing and validation
+- [2016-03-12T10:25:58] Update documentation and architectural guides
