@@ -9412,3 +9412,4 @@
 - [2016-03-10T10:35:50] Update automated pytest test suites
 - [2016-03-10T19:22:48] Add error handling for yt-dlp rate limits
 - [2016-03-11T08:06:41] Update B2 storage chunking parameters
+- [2016-03-11T22:09:26] Update schema migration helpers
