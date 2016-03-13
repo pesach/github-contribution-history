@@ -9431,3 +9431,4 @@
 - [2016-03-13T19:26:25] Improve ffmpeg streaming pipe buffer management
 - [2016-03-13T20:35:04] Update documentation and architectural guides
 - [2016-03-13T14:20:44] Update dependency lockfiles and requirements
+- [2016-03-13T09:43:45] Update documentation and architectural guides
