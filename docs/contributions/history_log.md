@@ -9428,3 +9428,4 @@
 - [2016-03-12T10:25:58] Update documentation and architectural guides
 - [2016-03-12T13:48:48] Improve ffmpeg streaming pipe buffer management
 - [2016-03-12T16:09:12] Clean up legacy worker task routines
+- [2016-03-13T19:26:25] Improve ffmpeg streaming pipe buffer management
