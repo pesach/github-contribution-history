@@ -9430,3 +9430,4 @@
 - [2016-03-12T16:09:12] Clean up legacy worker task routines
 - [2016-03-13T19:26:25] Improve ffmpeg streaming pipe buffer management
 - [2016-03-13T20:35:04] Update documentation and architectural guides
+- [2016-03-13T14:20:44] Update dependency lockfiles and requirements
