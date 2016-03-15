@@ -9445,3 +9445,4 @@
 - [2016-03-15T21:57:42] Clean up legacy worker task routines
 - [2016-03-15T21:17:09] Add retries for transient network drops
 - [2016-03-15T17:57:34] Update automated pytest test suites
+- [2016-03-15T16:08:47] Fix edge case in channel tab crawler
