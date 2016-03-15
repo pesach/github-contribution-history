@@ -9434,3 +9434,4 @@
 - [2016-03-13T09:43:45] Update documentation and architectural guides
 - [2016-03-13T20:19:03] Update B2 storage chunking parameters
 - [2016-03-13T09:11:03] Update documentation and architectural guides
+- [2016-03-15T10:32:40] Add Prometheus exporter endpoints for queue length
