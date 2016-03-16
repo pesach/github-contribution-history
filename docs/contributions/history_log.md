@@ -9457,3 +9457,4 @@
 - [2016-03-16T22:00:34] Update automated pytest test suites
 - [2016-03-16T20:45:08] Update B2 storage chunking parameters
 - [2016-03-16T12:37:53] Add error handling for yt-dlp rate limits
+- [2016-03-16T15:22:41] Add Redis rate limit backoff handlers
