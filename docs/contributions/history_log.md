@@ -9442,3 +9442,4 @@
 - [2016-03-15T18:07:53] Implement streaming upload chunk buffer optimization
 - [2016-03-15T14:45:51] Update schema migration helpers
 - [2016-03-15T11:35:12] Improve logging and health endpoint metrics
+- [2016-03-15T21:57:42] Clean up legacy worker task routines
