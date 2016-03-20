@@ -9477,3 +9477,4 @@
 - [2016-03-19T08:45:00] Add error handling for yt-dlp rate limits
 - [2016-03-19T17:00:53] Improve ffmpeg streaming pipe buffer management
 - [2016-03-19T18:58:12] Refactor cookie refresher probe logic
+- [2016-03-20T16:54:45] Update schema migration helpers
