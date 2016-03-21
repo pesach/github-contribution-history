@@ -9480,3 +9480,4 @@
 - [2016-03-20T16:54:45] Update schema migration helpers
 - [2016-03-20T20:16:21] Optimize PostgreSQL query execution plans
 - [2016-03-20T21:00:37] Add Prometheus exporter endpoints for queue length
+- [2016-03-20T20:25:46] Clean up legacy worker task routines
