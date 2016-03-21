@@ -9479,3 +9479,4 @@
 - [2016-03-19T18:58:12] Refactor cookie refresher probe logic
 - [2016-03-20T16:54:45] Update schema migration helpers
 - [2016-03-20T20:16:21] Optimize PostgreSQL query execution plans
+- [2016-03-20T21:00:37] Add Prometheus exporter endpoints for queue length
