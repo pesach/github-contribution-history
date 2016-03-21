@@ -9483,3 +9483,4 @@
 - [2016-03-20T20:25:46] Clean up legacy worker task routines
 - [2016-03-20T11:56:10] Add Redis rate limit backoff handlers
 - [2016-03-21T12:10:34] Fix edge case in channel tab crawler
+- [2016-03-21T10:14:38] Add retries for transient network drops
