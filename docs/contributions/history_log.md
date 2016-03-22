@@ -9487,3 +9487,4 @@
 - [2016-03-21T21:00:21] Add Redis rate limit backoff handlers
 - [2016-03-21T21:01:47] Add error handling for yt-dlp rate limits
 - [2016-03-21T22:51:40] Improve ffmpeg streaming pipe buffer management
+- [2016-03-21T20:21:14] Update schema migration helpers
