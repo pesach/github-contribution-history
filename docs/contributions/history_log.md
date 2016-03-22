@@ -9489,3 +9489,4 @@
 - [2016-03-21T22:51:40] Improve ffmpeg streaming pipe buffer management
 - [2016-03-21T20:21:14] Update schema migration helpers
 - [2016-03-21T21:49:06] Add retries for transient network drops
+- [2016-03-21T21:32:01] Clean up legacy worker task routines
