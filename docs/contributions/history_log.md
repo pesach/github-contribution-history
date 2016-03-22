@@ -9490,3 +9490,4 @@
 - [2016-03-21T20:21:14] Update schema migration helpers
 - [2016-03-21T21:49:06] Add retries for transient network drops
 - [2016-03-21T21:32:01] Clean up legacy worker task routines
+- [2016-03-22T10:20:09] Add error handling for yt-dlp rate limits
