@@ -9504,3 +9504,4 @@
 - [2016-03-23T17:15:24] Improve logging and health endpoint metrics
 - [2016-03-23T12:06:18] Update schema migration helpers
 - [2016-03-23T17:45:20] Add Prometheus exporter endpoints for queue length
+- [2016-03-23T18:20:23] Clean up legacy worker task routines
