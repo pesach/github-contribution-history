@@ -9503,3 +9503,4 @@
 - [2016-03-23T09:45:06] Fix edge case in URL parsing and validation
 - [2016-03-23T17:15:24] Improve logging and health endpoint metrics
 - [2016-03-23T12:06:18] Update schema migration helpers
+- [2016-03-23T17:45:20] Add Prometheus exporter endpoints for queue length
