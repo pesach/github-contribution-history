@@ -9509,3 +9509,4 @@
 - [2016-03-23T19:26:23] Update schema migration helpers
 - [2016-03-23T10:57:06] Update automated pytest test suites
 - [2016-03-23T17:28:47] Improve logging and health endpoint metrics
+- [2016-03-23T14:30:03] Refactor storage upload retry mechanism
