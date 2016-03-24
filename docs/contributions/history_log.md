@@ -9515,3 +9515,4 @@
 - [2016-03-24T17:19:14] Clean up legacy worker task routines
 - [2016-03-24T08:59:47] Update automated pytest test suites
 - [2016-03-24T14:32:40] Fix edge case in channel tab crawler
+- [2016-03-24T11:16:22] Refactor storage upload retry mechanism
