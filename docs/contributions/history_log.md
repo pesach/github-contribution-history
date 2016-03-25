@@ -9529,3 +9529,4 @@
 - [2016-03-25T17:31:15] Update automated pytest test suites
 - [2016-03-25T14:36:50] Update automated pytest test suites
 - [2016-03-25T18:36:06] Enhance dashboard statistics rendering
+- [2016-03-25T14:04:23] Update schema migration helpers
