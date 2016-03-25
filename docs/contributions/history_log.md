@@ -9523,3 +9523,4 @@
 - [2016-03-24T14:35:53] Add Prometheus exporter endpoints for queue length
 - [2016-03-24T21:55:45] Implement streaming upload chunk buffer optimization
 - [2016-03-25T15:52:19] Add retries for transient network drops
+- [2016-03-25T08:53:05] Refactor storage upload retry mechanism
