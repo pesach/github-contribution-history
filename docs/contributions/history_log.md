@@ -9530,3 +9530,4 @@
 - [2016-03-25T14:36:50] Update automated pytest test suites
 - [2016-03-25T18:36:06] Enhance dashboard statistics rendering
 - [2016-03-25T14:04:23] Update schema migration helpers
+- [2016-03-25T08:13:01] Add retries for transient network drops
