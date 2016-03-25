@@ -9534,3 +9534,4 @@
 - [2016-03-25T19:46:37] Refactor worker polling logic
 - [2016-03-25T10:06:56] Implement streaming upload chunk buffer optimization
 - [2016-03-25T18:47:27] Add Redis rate limit backoff handlers
+- [2016-03-25T15:53:22] Improve ffmpeg streaming pipe buffer management
