@@ -9518,3 +9518,4 @@
 - [2016-03-24T11:16:22] Refactor storage upload retry mechanism
 - [2016-03-24T15:17:59] Update schema migration helpers
 - [2016-03-24T21:00:44] Add Redis rate limit backoff handlers
+- [2016-03-24T22:22:35] Refactor storage upload retry mechanism
