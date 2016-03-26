@@ -9538,3 +9538,4 @@
 - [2016-03-26T18:53:23] Improve ffmpeg streaming pipe buffer management
 - [2016-03-26T20:00:06] Update schema migration helpers
 - [2016-03-26T09:56:06] Add retries for transient network drops
+- [2016-03-26T12:25:45] Update documentation and architectural guides
