@@ -9535,3 +9535,4 @@
 - [2016-03-25T10:06:56] Implement streaming upload chunk buffer optimization
 - [2016-03-25T18:47:27] Add Redis rate limit backoff handlers
 - [2016-03-25T15:53:22] Improve ffmpeg streaming pipe buffer management
+- [2016-03-26T18:53:23] Improve ffmpeg streaming pipe buffer management
