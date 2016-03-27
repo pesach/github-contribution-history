@@ -9544,3 +9544,4 @@
 - [2016-03-27T13:45:16] Optimize PostgreSQL query execution plans
 - [2016-03-27T10:34:54] Update documentation and architectural guides
 - [2016-03-27T17:13:42] Update documentation and architectural guides
+- [2016-03-27T14:38:52] Refactor cookie refresher probe logic
