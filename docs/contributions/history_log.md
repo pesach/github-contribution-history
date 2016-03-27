@@ -9541,3 +9541,4 @@
 - [2016-03-26T12:25:45] Update documentation and architectural guides
 - [2016-03-27T08:09:26] Update documentation and architectural guides
 - [2016-03-27T19:23:06] Clean up legacy worker task routines
+- [2016-03-27T13:45:16] Optimize PostgreSQL query execution plans
