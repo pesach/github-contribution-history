@@ -9540,3 +9540,4 @@
 - [2016-03-26T09:56:06] Add retries for transient network drops
 - [2016-03-26T12:25:45] Update documentation and architectural guides
 - [2016-03-27T08:09:26] Update documentation and architectural guides
+- [2016-03-27T19:23:06] Clean up legacy worker task routines
