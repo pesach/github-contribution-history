@@ -9547,3 +9547,4 @@
 - [2016-03-27T14:38:52] Refactor cookie refresher probe logic
 - [2016-03-28T10:37:04] Clean up legacy worker task routines
 - [2016-03-28T16:24:58] Improve ffmpeg streaming pipe buffer management
+- [2016-03-28T18:25:12] Improve logging and health endpoint metrics
