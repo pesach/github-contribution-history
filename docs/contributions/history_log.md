@@ -9559,3 +9559,4 @@
 - [2016-03-29T20:02:42] Refactor cookie refresher probe logic
 - [2016-03-29T22:30:34] Update automated pytest test suites
 - [2016-03-29T21:09:12] Update schema migration helpers
+- [2016-03-29T14:06:16] Refactor storage upload retry mechanism
