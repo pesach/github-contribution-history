@@ -9548,3 +9548,4 @@
 - [2016-03-28T10:37:04] Clean up legacy worker task routines
 - [2016-03-28T16:24:58] Improve ffmpeg streaming pipe buffer management
 - [2016-03-28T18:25:12] Improve logging and health endpoint metrics
+- [2016-03-28T22:54:07] Add Prometheus exporter endpoints for queue length
