@@ -9551,3 +9551,4 @@
 - [2016-03-28T22:54:07] Add Prometheus exporter endpoints for queue length
 - [2016-03-28T16:11:36] Add error handling for yt-dlp rate limits
 - [2016-03-28T09:24:45] Update dependency lockfiles and requirements
+- [2016-03-28T21:54:11] Clean up legacy worker task routines
