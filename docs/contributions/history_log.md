@@ -9572,3 +9572,4 @@
 - [2016-03-30T16:26:08] Refactor cookie refresher probe logic
 - [2016-03-30T10:40:44] Update documentation and architectural guides
 - [2016-03-30T22:01:13] Update schema migration helpers
+- [2016-03-30T17:17:21] Add Redis rate limit backoff handlers
