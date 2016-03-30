@@ -9566,3 +9566,4 @@
 - [2016-03-29T16:27:15] Add Prometheus exporter endpoints for queue length
 - [2016-03-30T12:12:54] Refactor cookie refresher probe logic
 - [2016-03-30T19:09:17] Add Redis rate limit backoff handlers
+- [2016-03-30T12:25:47] Optimize PostgreSQL query execution plans
