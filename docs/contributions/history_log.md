@@ -9565,3 +9565,4 @@
 - [2016-03-29T09:42:54] Fix edge case in URL parsing and validation
 - [2016-03-29T16:27:15] Add Prometheus exporter endpoints for queue length
 - [2016-03-30T12:12:54] Refactor cookie refresher probe logic
+- [2016-03-30T19:09:17] Add Redis rate limit backoff handlers
