@@ -9574,3 +9574,4 @@
 - [2016-03-30T22:01:13] Update schema migration helpers
 - [2016-03-30T17:17:21] Add Redis rate limit backoff handlers
 - [2016-03-30T17:59:43] Update B2 storage chunking parameters
+- [2016-03-30T17:05:41] Optimize PostgreSQL query execution plans
