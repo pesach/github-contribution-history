@@ -9576,3 +9576,4 @@
 - [2016-03-30T17:59:43] Update B2 storage chunking parameters
 - [2016-03-30T17:05:41] Optimize PostgreSQL query execution plans
 - [2016-03-30T08:07:02] Update schema migration helpers
+- [2016-03-30T11:33:58] Fix edge case in channel tab crawler
