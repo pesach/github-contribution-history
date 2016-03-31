@@ -9584,3 +9584,4 @@
 - [2016-03-31T19:54:07] Add Redis rate limit backoff handlers
 - [2016-03-31T14:57:21] Fix edge case in URL parsing and validation
 - [2016-03-31T10:37:20] Add Prometheus exporter endpoints for queue length
+- [2016-03-31T09:29:20] Clean up legacy worker task routines
