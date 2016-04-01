@@ -9577,3 +9577,4 @@
 - [2016-03-30T17:05:41] Optimize PostgreSQL query execution plans
 - [2016-03-30T08:07:02] Update schema migration helpers
 - [2016-03-30T11:33:58] Fix edge case in channel tab crawler
+- [2016-03-31T21:30:30] Add error handling for yt-dlp rate limits
