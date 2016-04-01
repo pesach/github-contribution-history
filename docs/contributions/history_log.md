@@ -9589,3 +9589,4 @@
 - [2016-04-01T20:38:56] Update documentation and architectural guides
 - [2016-04-01T16:51:52] Refactor storage upload retry mechanism
 - [2016-04-01T18:41:22] Improve ffmpeg streaming pipe buffer management
+- [2016-04-01T09:17:26] Update B2 storage chunking parameters
