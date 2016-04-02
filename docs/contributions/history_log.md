@@ -9600,3 +9600,4 @@
 - [2016-04-02T15:13:42] Update documentation and architectural guides
 - [2016-04-02T10:26:21] Optimize PostgreSQL query execution plans
 - [2016-04-02T17:55:28] Update schema migration helpers
+- [2016-04-02T08:02:41] Add Redis rate limit backoff handlers
