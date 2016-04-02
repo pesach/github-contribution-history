@@ -9599,3 +9599,4 @@
 - [2016-04-02T19:57:59] Improve logging and health endpoint metrics
 - [2016-04-02T15:13:42] Update documentation and architectural guides
 - [2016-04-02T10:26:21] Optimize PostgreSQL query execution plans
+- [2016-04-02T17:55:28] Update schema migration helpers
