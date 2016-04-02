@@ -9585,3 +9585,4 @@
 - [2016-03-31T14:57:21] Fix edge case in URL parsing and validation
 - [2016-03-31T10:37:20] Add Prometheus exporter endpoints for queue length
 - [2016-03-31T09:29:20] Clean up legacy worker task routines
+- [2016-04-01T22:21:34] Add retries for transient network drops
