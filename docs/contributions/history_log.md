@@ -9597,3 +9597,4 @@
 - [2016-04-01T21:13:43] Improve ffmpeg streaming pipe buffer management
 - [2016-04-01T18:49:29] Update dependency lockfiles and requirements
 - [2016-04-02T19:57:59] Improve logging and health endpoint metrics
+- [2016-04-02T15:13:42] Update documentation and architectural guides
