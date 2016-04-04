@@ -9602,3 +9602,4 @@
 - [2016-04-02T17:55:28] Update schema migration helpers
 - [2016-04-02T08:02:41] Add Redis rate limit backoff handlers
 - [2016-04-02T10:49:40] Add Prometheus exporter endpoints for queue length
+- [2016-04-04T15:42:07] Update dependency lockfiles and requirements
