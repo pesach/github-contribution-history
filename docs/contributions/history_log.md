@@ -9605,3 +9605,4 @@
 - [2016-04-04T15:42:07] Update dependency lockfiles and requirements
 - [2016-04-04T21:11:06] Update automated pytest test suites
 - [2016-04-04T17:11:18] Enhance dashboard statistics rendering
+- [2016-04-04T08:49:08] Refactor cookie refresher probe logic
