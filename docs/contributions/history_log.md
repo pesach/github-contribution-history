@@ -9618,3 +9618,4 @@
 - [2016-04-04T18:52:44] Update dependency lockfiles and requirements
 - [2016-04-05T18:11:15] Optimize PostgreSQL query execution plans
 - [2016-04-05T15:59:21] Improve ffmpeg streaming pipe buffer management
+- [2016-04-05T19:24:21] Add Redis rate limit backoff handlers
