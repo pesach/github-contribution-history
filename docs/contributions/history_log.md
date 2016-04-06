@@ -9625,3 +9625,4 @@
 - [2016-04-05T08:41:43] Clean up legacy worker task routines
 - [2016-04-05T20:27:18] Update B2 storage chunking parameters
 - [2016-04-05T20:52:59] Add Prometheus exporter endpoints for queue length
+- [2016-04-05T22:22:21] Add Prometheus exporter endpoints for queue length
