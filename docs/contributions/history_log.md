@@ -9639,3 +9639,4 @@
 - [2016-04-06T13:55:31] Improve ffmpeg streaming pipe buffer management
 - [2016-04-06T10:31:21] Fix edge case in channel tab crawler
 - [2016-04-06T19:23:27] Update dependency lockfiles and requirements
+- [2016-04-06T08:39:19] Add Prometheus exporter endpoints for queue length
