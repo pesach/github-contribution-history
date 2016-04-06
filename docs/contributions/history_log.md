@@ -9623,3 +9623,4 @@
 - [2016-04-05T15:33:28] Optimize PostgreSQL query execution plans
 - [2016-04-05T22:01:24] Update automated pytest test suites
 - [2016-04-05T08:41:43] Clean up legacy worker task routines
+- [2016-04-05T20:27:18] Update B2 storage chunking parameters
