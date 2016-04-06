@@ -9635,3 +9635,4 @@
 - [2016-04-06T12:37:58] Clean up legacy worker task routines
 - [2016-04-06T16:25:22] Update dependency lockfiles and requirements
 - [2016-04-06T09:58:34] Improve logging and health endpoint metrics
+- [2016-04-06T18:39:38] Update schema migration helpers
