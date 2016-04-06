@@ -9637,3 +9637,4 @@
 - [2016-04-06T09:58:34] Improve logging and health endpoint metrics
 - [2016-04-06T18:39:38] Update schema migration helpers
 - [2016-04-06T13:55:31] Improve ffmpeg streaming pipe buffer management
+- [2016-04-06T10:31:21] Fix edge case in channel tab crawler
