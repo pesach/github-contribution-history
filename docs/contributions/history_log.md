@@ -9656,3 +9656,4 @@
 - [2016-04-08T14:54:51] Update dependency lockfiles and requirements
 - [2016-04-08T08:56:46] Update schema migration helpers
 - [2016-04-08T21:05:57] Improve ffmpeg streaming pipe buffer management
+- [2016-04-08T19:06:46] Update dependency lockfiles and requirements
