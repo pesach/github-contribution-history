@@ -9646,3 +9646,4 @@
 - [2016-04-08T19:55:53] Enhance dashboard statistics rendering
 - [2016-04-08T19:23:27] Refactor worker polling logic
 - [2016-04-08T17:47:46] Optimize PostgreSQL query execution plans
+- [2016-04-08T09:47:11] Add error handling for yt-dlp rate limits
