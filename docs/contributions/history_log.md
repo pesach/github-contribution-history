@@ -9662,3 +9662,4 @@
 - [2016-04-09T09:21:00] Add retries for transient network drops
 - [2016-04-09T15:10:50] Update documentation and architectural guides
 - [2016-04-09T08:05:29] Update automated pytest test suites
+- [2016-04-09T13:05:35] Update schema migration helpers
