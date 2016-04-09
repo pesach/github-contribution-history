@@ -9658,3 +9658,4 @@
 - [2016-04-08T21:05:57] Improve ffmpeg streaming pipe buffer management
 - [2016-04-08T19:06:46] Update dependency lockfiles and requirements
 - [2016-04-09T18:08:14] Refactor storage upload retry mechanism
+- [2016-04-09T17:49:00] Refactor storage upload retry mechanism
