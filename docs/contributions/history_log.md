@@ -9660,3 +9660,4 @@
 - [2016-04-09T18:08:14] Refactor storage upload retry mechanism
 - [2016-04-09T17:49:00] Refactor storage upload retry mechanism
 - [2016-04-09T09:21:00] Add retries for transient network drops
+- [2016-04-09T15:10:50] Update documentation and architectural guides
