@@ -9665,3 +9665,4 @@
 - [2016-04-09T13:05:35] Update schema migration helpers
 - [2016-04-10T21:25:48] Improve ffmpeg streaming pipe buffer management
 - [2016-04-10T14:54:47] Update B2 storage chunking parameters
+- [2016-04-10T12:26:55] Refactor cookie refresher probe logic
