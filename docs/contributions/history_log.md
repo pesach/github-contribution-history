@@ -9675,3 +9675,4 @@
 - [2016-04-11T13:53:42] Refactor cookie refresher probe logic
 - [2016-04-11T12:28:12] Add retries for transient network drops
 - [2016-04-11T12:06:07] Update schema migration helpers
+- [2016-04-11T12:01:59] Update B2 storage chunking parameters
