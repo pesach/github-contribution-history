@@ -9663,3 +9663,4 @@
 - [2016-04-09T15:10:50] Update documentation and architectural guides
 - [2016-04-09T08:05:29] Update automated pytest test suites
 - [2016-04-09T13:05:35] Update schema migration helpers
+- [2016-04-10T21:25:48] Improve ffmpeg streaming pipe buffer management
