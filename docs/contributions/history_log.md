@@ -9672,3 +9672,4 @@
 - [2016-04-11T20:00:25] Fix edge case in URL parsing and validation
 - [2016-04-11T10:52:15] Refactor worker polling logic
 - [2016-04-11T16:54:23] Add Redis rate limit backoff handlers
+- [2016-04-11T13:53:42] Refactor cookie refresher probe logic
