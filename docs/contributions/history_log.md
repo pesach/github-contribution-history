@@ -9677,3 +9677,4 @@
 - [2016-04-11T12:06:07] Update schema migration helpers
 - [2016-04-11T12:01:59] Update B2 storage chunking parameters
 - [2016-04-11T18:25:14] Enhance dashboard statistics rendering
+- [2016-04-11T08:15:04] Refactor worker polling logic
