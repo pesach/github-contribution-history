@@ -9680,3 +9680,4 @@
 - [2016-04-11T08:15:04] Refactor worker polling logic
 - [2016-04-11T21:55:11] Refactor cookie refresher probe logic
 - [2016-04-11T17:49:01] Optimize PostgreSQL query execution plans
+- [2016-04-12T14:45:43] Update B2 storage chunking parameters
