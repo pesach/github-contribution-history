@@ -9683,3 +9683,4 @@
 - [2016-04-12T14:45:43] Update B2 storage chunking parameters
 - [2016-04-12T11:03:20] Fix edge case in URL parsing and validation
 - [2016-04-12T16:52:24] Optimize PostgreSQL query execution plans
+- [2016-04-12T17:44:19] Implement streaming upload chunk buffer optimization
