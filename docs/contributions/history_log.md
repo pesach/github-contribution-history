@@ -9701,3 +9701,4 @@
 - [2016-04-13T13:07:31] Update B2 storage chunking parameters
 - [2016-04-13T18:07:34] Update automated pytest test suites
 - [2016-04-14T13:55:17] Refactor storage upload retry mechanism
+- [2016-04-14T15:28:47] Update B2 storage chunking parameters
