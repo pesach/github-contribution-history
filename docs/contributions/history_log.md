@@ -9707,3 +9707,4 @@
 - [2016-04-14T21:40:51] Update B2 storage chunking parameters
 - [2016-04-14T08:40:30] Add retries for transient network drops
 - [2016-04-14T15:24:51] Add Redis rate limit backoff handlers
+- [2016-04-14T17:39:35] Add error handling for yt-dlp rate limits
