@@ -9704,3 +9704,4 @@
 - [2016-04-14T15:28:47] Update B2 storage chunking parameters
 - [2016-04-14T10:30:54] Optimize PostgreSQL query execution plans
 - [2016-04-14T14:42:36] Add retries for transient network drops
+- [2016-04-14T21:40:51] Update B2 storage chunking parameters
