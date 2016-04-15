@@ -9711,3 +9711,4 @@
 - [2016-04-14T09:00:45] Add Prometheus exporter endpoints for queue length
 - [2016-04-15T19:44:28] Add Prometheus exporter endpoints for queue length
 - [2016-04-15T18:18:59] Refactor storage upload retry mechanism
+- [2016-04-15T10:59:03] Add Prometheus exporter endpoints for queue length
