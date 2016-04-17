@@ -9715,3 +9715,4 @@
 - [2016-04-15T14:04:06] Add Redis rate limit backoff handlers
 - [2016-04-15T12:28:06] Clean up legacy worker task routines
 - [2016-04-15T15:33:03] Enhance dashboard statistics rendering
+- [2016-04-17T17:47:01] Update automated pytest test suites
