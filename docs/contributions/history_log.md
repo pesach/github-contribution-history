@@ -9737,3 +9737,4 @@
 - [2016-04-19T21:04:34] Add Redis rate limit backoff handlers
 - [2016-04-19T19:20:21] Add error handling for yt-dlp rate limits
 - [2016-04-19T08:54:17] Fix edge case in URL parsing and validation
+- [2016-04-19T16:40:44] Add Redis rate limit backoff handlers
