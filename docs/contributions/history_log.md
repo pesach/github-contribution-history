@@ -9755,3 +9755,4 @@
 - [2016-04-20T12:05:44] Refactor storage upload retry mechanism
 - [2016-04-20T13:57:58] Update schema migration helpers
 - [2016-04-20T13:25:52] Improve logging and health endpoint metrics
+- [2016-04-20T13:25:59] Fix edge case in channel tab crawler
