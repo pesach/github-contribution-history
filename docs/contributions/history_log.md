@@ -9765,3 +9765,4 @@
 - [2016-04-21T18:33:23] Refactor worker polling logic
 - [2016-04-21T12:49:34] Refactor storage upload retry mechanism
 - [2016-04-21T15:45:21] Refactor storage upload retry mechanism
+- [2016-04-21T10:20:55] Refactor worker polling logic
