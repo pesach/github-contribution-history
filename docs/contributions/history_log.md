@@ -9771,3 +9771,4 @@
 - [2016-04-21T09:50:24] Add Redis rate limit backoff handlers
 - [2016-04-21T21:39:35] Implement streaming upload chunk buffer optimization
 - [2016-04-21T21:53:59] Refactor worker polling logic
+- [2016-04-21T12:21:10] Add Redis rate limit backoff handlers
