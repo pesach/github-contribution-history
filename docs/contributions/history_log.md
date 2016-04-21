@@ -9761,3 +9761,4 @@
 - [2016-04-21T16:54:20] Implement streaming upload chunk buffer optimization
 - [2016-04-21T21:32:16] Clean up legacy worker task routines
 - [2016-04-21T22:21:37] Refactor cookie refresher probe logic
+- [2016-04-21T10:31:10] Update B2 storage chunking parameters
