@@ -9762,3 +9762,4 @@
 - [2016-04-21T21:32:16] Clean up legacy worker task routines
 - [2016-04-21T22:21:37] Refactor cookie refresher probe logic
 - [2016-04-21T10:31:10] Update B2 storage chunking parameters
+- [2016-04-21T18:33:23] Refactor worker polling logic
