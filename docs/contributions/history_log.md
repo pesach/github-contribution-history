@@ -9768,3 +9768,4 @@
 - [2016-04-21T10:20:55] Refactor worker polling logic
 - [2016-04-21T21:50:30] Add retries for transient network drops
 - [2016-04-21T15:49:28] Improve ffmpeg streaming pipe buffer management
+- [2016-04-21T09:50:24] Add Redis rate limit backoff handlers
