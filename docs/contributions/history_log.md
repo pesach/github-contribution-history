@@ -9749,3 +9749,4 @@
 - [2016-04-20T19:20:43] Add Redis rate limit backoff handlers
 - [2016-04-20T20:47:16] Update documentation and architectural guides
 - [2016-04-20T18:02:05] Enhance dashboard statistics rendering
+- [2016-04-20T21:23:45] Update B2 storage chunking parameters
