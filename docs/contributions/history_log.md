@@ -9759,3 +9759,4 @@
 - [2016-04-20T13:57:39] Add error handling for yt-dlp rate limits
 - [2016-04-21T16:48:14] Update schema migration helpers
 - [2016-04-21T16:54:20] Implement streaming upload chunk buffer optimization
+- [2016-04-21T21:32:16] Clean up legacy worker task routines
