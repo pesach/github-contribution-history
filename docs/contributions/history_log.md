@@ -9780,3 +9780,4 @@
 - [2016-04-22T21:16:50] Update dependency lockfiles and requirements
 - [2016-04-22T20:17:12] Update dependency lockfiles and requirements
 - [2016-04-22T10:14:23] Update documentation and architectural guides
+- [2016-04-22T14:02:17] Fix edge case in URL parsing and validation
