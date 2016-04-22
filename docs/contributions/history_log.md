@@ -9772,3 +9772,4 @@
 - [2016-04-21T21:39:35] Implement streaming upload chunk buffer optimization
 - [2016-04-21T21:53:59] Refactor worker polling logic
 - [2016-04-21T12:21:10] Add Redis rate limit backoff handlers
+- [2016-04-22T10:09:05] Clean up legacy worker task routines
