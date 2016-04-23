@@ -9774,3 +9774,4 @@
 - [2016-04-21T12:21:10] Add Redis rate limit backoff handlers
 - [2016-04-22T10:09:05] Clean up legacy worker task routines
 - [2016-04-22T22:44:57] Update B2 storage chunking parameters
+- [2016-04-22T21:49:08] Add Redis rate limit backoff handlers
