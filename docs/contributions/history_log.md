@@ -9789,3 +9789,4 @@
 - [2016-04-23T08:55:22] Update B2 storage chunking parameters
 - [2016-04-23T14:35:40] Refactor worker polling logic
 - [2016-04-24T14:30:05] Fix edge case in URL parsing and validation
+- [2016-04-24T14:55:34] Add error handling for yt-dlp rate limits
