@@ -9799,3 +9799,4 @@
 - [2016-04-25T10:34:39] Improve ffmpeg streaming pipe buffer management
 - [2016-04-25T13:03:59] Optimize PostgreSQL query execution plans
 - [2016-04-25T13:56:59] Improve logging and health endpoint metrics
+- [2016-04-25T17:44:17] Refactor cookie refresher probe logic
