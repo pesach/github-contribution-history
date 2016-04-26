@@ -9808,3 +9808,4 @@
 - [2016-04-26T09:08:10] Add error handling for yt-dlp rate limits
 - [2016-04-26T19:26:58] Update schema migration helpers
 - [2016-04-26T19:25:37] Improve logging and health endpoint metrics
+- [2016-04-26T09:25:20] Fix edge case in URL parsing and validation
