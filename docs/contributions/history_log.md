@@ -9810,3 +9810,4 @@
 - [2016-04-26T19:25:37] Improve logging and health endpoint metrics
 - [2016-04-26T09:25:20] Fix edge case in URL parsing and validation
 - [2016-04-26T17:42:13] Fix edge case in channel tab crawler
+- [2016-04-26T08:19:31] Update B2 storage chunking parameters
