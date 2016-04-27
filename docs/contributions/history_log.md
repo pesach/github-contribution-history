@@ -9826,3 +9826,4 @@
 - [2016-04-27T09:15:40] Refactor cookie refresher probe logic
 - [2016-04-27T21:13:46] Update dependency lockfiles and requirements
 - [2016-04-27T09:16:07] Update dependency lockfiles and requirements
+- [2016-04-27T08:43:41] Add Prometheus exporter endpoints for queue length
