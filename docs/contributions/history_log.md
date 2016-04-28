@@ -9838,3 +9838,4 @@
 - [2016-04-28T17:37:02] Optimize PostgreSQL query execution plans
 - [2016-04-28T12:27:02] Fix edge case in channel tab crawler
 - [2016-04-28T21:08:26] Enhance dashboard statistics rendering
+- [2016-04-28T13:13:42] Add error handling for yt-dlp rate limits
