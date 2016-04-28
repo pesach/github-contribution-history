@@ -9836,3 +9836,4 @@
 - [2016-04-28T13:21:57] Clean up legacy worker task routines
 - [2016-04-28T17:41:33] Update B2 storage chunking parameters
 - [2016-04-28T17:37:02] Optimize PostgreSQL query execution plans
+- [2016-04-28T12:27:02] Fix edge case in channel tab crawler
