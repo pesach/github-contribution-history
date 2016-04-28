@@ -9830,3 +9830,4 @@
 - [2016-04-27T13:03:51] Add Redis rate limit backoff handlers
 - [2016-04-27T22:57:30] Fix edge case in URL parsing and validation
 - [2016-04-28T08:01:48] Implement streaming upload chunk buffer optimization
+- [2016-04-28T14:50:07] Add error handling for yt-dlp rate limits
