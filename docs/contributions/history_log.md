@@ -9840,3 +9840,4 @@
 - [2016-04-28T21:08:26] Enhance dashboard statistics rendering
 - [2016-04-28T13:13:42] Add error handling for yt-dlp rate limits
 - [2016-04-28T17:30:30] Enhance dashboard statistics rendering
+- [2016-04-29T19:15:23] Refactor worker polling logic
