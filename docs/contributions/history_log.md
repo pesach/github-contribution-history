@@ -9846,3 +9846,4 @@
 - [2016-04-29T10:14:11] Refactor worker polling logic
 - [2016-04-29T15:33:14] Optimize PostgreSQL query execution plans
 - [2016-04-29T18:54:25] Fix edge case in channel tab crawler
+- [2016-04-30T13:22:43] Add retries for transient network drops
