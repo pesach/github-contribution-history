@@ -9852,3 +9852,4 @@
 - [2016-04-30T13:05:45] Update automated pytest test suites
 - [2016-05-01T11:46:57] Update schema migration helpers
 - [2016-05-01T13:03:07] Improve logging and health endpoint metrics
+- [2016-05-01T14:16:55] Clean up legacy worker task routines
