@@ -9850,3 +9850,4 @@
 - [2016-04-30T09:49:21] Improve ffmpeg streaming pipe buffer management
 - [2016-04-30T16:05:08] Implement streaming upload chunk buffer optimization
 - [2016-04-30T13:05:45] Update automated pytest test suites
+- [2016-05-01T11:46:57] Update schema migration helpers
