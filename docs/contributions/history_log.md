@@ -9855,3 +9855,4 @@
 - [2016-05-01T14:16:55] Clean up legacy worker task routines
 - [2016-05-01T18:33:50] Add Redis rate limit backoff handlers
 - [2016-05-01T17:32:35] Optimize PostgreSQL query execution plans
+- [2016-05-01T20:33:45] Fix edge case in channel tab crawler
