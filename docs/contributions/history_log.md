@@ -9858,3 +9858,4 @@
 - [2016-05-01T20:33:45] Fix edge case in channel tab crawler
 - [2016-05-02T15:15:29] Add retries for transient network drops
 - [2016-05-02T16:36:02] Fix edge case in URL parsing and validation
+- [2016-05-02T11:09:55] Improve logging and health endpoint metrics
