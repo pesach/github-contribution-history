@@ -9866,3 +9866,4 @@
 - [2016-05-02T22:22:01] Implement streaming upload chunk buffer optimization
 - [2016-05-02T20:43:20] Clean up legacy worker task routines
 - [2016-05-02T20:52:59] Improve logging and health endpoint metrics
+- [2016-05-02T17:12:16] Fix edge case in URL parsing and validation
