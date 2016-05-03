@@ -9868,3 +9868,4 @@
 - [2016-05-02T20:52:59] Improve logging and health endpoint metrics
 - [2016-05-02T17:12:16] Fix edge case in URL parsing and validation
 - [2016-05-03T12:51:36] Clean up legacy worker task routines
+- [2016-05-03T18:27:46] Refactor storage upload retry mechanism
