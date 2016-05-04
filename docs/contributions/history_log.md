@@ -9878,3 +9878,4 @@
 - [2016-05-04T09:37:39] Update automated pytest test suites
 - [2016-05-04T18:22:50] Enhance dashboard statistics rendering
 - [2016-05-04T12:50:07] Update dependency lockfiles and requirements
+- [2016-05-04T14:29:20] Add error handling for yt-dlp rate limits
