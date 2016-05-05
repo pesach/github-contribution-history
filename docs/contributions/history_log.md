@@ -9881,3 +9881,4 @@
 - [2016-05-04T14:29:20] Add error handling for yt-dlp rate limits
 - [2016-05-04T15:43:19] Add retries for transient network drops
 - [2016-05-05T13:30:07] Update automated pytest test suites
+- [2016-05-05T16:10:46] Fix edge case in channel tab crawler
