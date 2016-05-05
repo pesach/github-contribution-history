@@ -9883,3 +9883,4 @@
 - [2016-05-05T13:30:07] Update automated pytest test suites
 - [2016-05-05T16:10:46] Fix edge case in channel tab crawler
 - [2016-05-05T15:27:37] Refactor cookie refresher probe logic
+- [2016-05-05T14:10:45] Clean up legacy worker task routines
