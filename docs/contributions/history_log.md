@@ -9888,3 +9888,4 @@
 - [2016-05-05T14:11:41] Fix edge case in channel tab crawler
 - [2016-05-05T22:47:30] Improve logging and health endpoint metrics
 - [2016-05-05T16:09:00] Improve logging and health endpoint metrics
+- [2016-05-05T16:02:07] Add retries for transient network drops
