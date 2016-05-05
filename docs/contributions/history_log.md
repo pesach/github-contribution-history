@@ -9892,3 +9892,4 @@
 - [2016-05-05T21:05:11] Fix edge case in URL parsing and validation
 - [2016-05-05T19:26:48] Update documentation and architectural guides
 - [2016-05-05T18:48:35] Update automated pytest test suites
+- [2016-05-05T18:25:59] Update B2 storage chunking parameters
