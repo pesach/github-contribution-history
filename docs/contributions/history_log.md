@@ -9889,3 +9889,4 @@
 - [2016-05-05T22:47:30] Improve logging and health endpoint metrics
 - [2016-05-05T16:09:00] Improve logging and health endpoint metrics
 - [2016-05-05T16:02:07] Add retries for transient network drops
+- [2016-05-05T21:05:11] Fix edge case in URL parsing and validation
