@@ -9903,3 +9903,4 @@
 - [2016-05-06T20:46:03] Add Prometheus exporter endpoints for queue length
 - [2016-05-06T21:56:17] Update schema migration helpers
 - [2016-05-06T11:06:28] Add Prometheus exporter endpoints for queue length
+- [2016-05-06T21:28:12] Clean up legacy worker task routines
