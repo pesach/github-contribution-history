@@ -9911,3 +9911,4 @@
 - [2016-05-09T08:56:56] Update automated pytest test suites
 - [2016-05-09T14:41:58] Fix edge case in URL parsing and validation
 - [2016-05-09T12:13:32] Fix edge case in channel tab crawler
+- [2016-05-09T16:56:46] Add Redis rate limit backoff handlers
