@@ -9909,3 +9909,4 @@
 - [2016-05-06T17:24:42] Update documentation and architectural guides
 - [2016-05-09T10:03:56] Add error handling for yt-dlp rate limits
 - [2016-05-09T08:56:56] Update automated pytest test suites
+- [2016-05-09T14:41:58] Fix edge case in URL parsing and validation
