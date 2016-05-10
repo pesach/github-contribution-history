@@ -9924,3 +9924,4 @@
 - [2016-05-10T11:21:15] Update documentation and architectural guides
 - [2016-05-10T08:42:10] Optimize PostgreSQL query execution plans
 - [2016-05-10T13:51:04] Fix edge case in channel tab crawler
+- [2016-05-10T13:47:37] Improve logging and health endpoint metrics
