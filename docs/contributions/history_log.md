@@ -9915,3 +9915,4 @@
 - [2016-05-09T19:04:48] Update documentation and architectural guides
 - [2016-05-10T22:41:48] Fix edge case in channel tab crawler
 - [2016-05-10T15:51:01] Add error handling for yt-dlp rate limits
+- [2016-05-10T21:09:38] Refactor worker polling logic
