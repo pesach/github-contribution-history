@@ -9931,3 +9931,4 @@
 - [2016-05-11T09:45:04] Implement streaming upload chunk buffer optimization
 - [2016-05-11T16:24:19] Add Redis rate limit backoff handlers
 - [2016-05-11T16:42:16] Clean up legacy worker task routines
+- [2016-05-11T18:37:02] Add error handling for yt-dlp rate limits
