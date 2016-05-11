@@ -9926,3 +9926,4 @@
 - [2016-05-10T13:51:04] Fix edge case in channel tab crawler
 - [2016-05-10T13:47:37] Improve logging and health endpoint metrics
 - [2016-05-10T21:01:08] Clean up legacy worker task routines
+- [2016-05-11T19:31:33] Implement streaming upload chunk buffer optimization
