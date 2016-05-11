@@ -9925,3 +9925,4 @@
 - [2016-05-10T08:42:10] Optimize PostgreSQL query execution plans
 - [2016-05-10T13:51:04] Fix edge case in channel tab crawler
 - [2016-05-10T13:47:37] Improve logging and health endpoint metrics
+- [2016-05-10T21:01:08] Clean up legacy worker task routines
