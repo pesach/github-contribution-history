@@ -9930,3 +9930,4 @@
 - [2016-05-11T15:41:03] Refactor cookie refresher probe logic
 - [2016-05-11T09:45:04] Implement streaming upload chunk buffer optimization
 - [2016-05-11T16:24:19] Add Redis rate limit backoff handlers
+- [2016-05-11T16:42:16] Clean up legacy worker task routines
