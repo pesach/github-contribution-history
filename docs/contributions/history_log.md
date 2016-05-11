@@ -9933,3 +9933,4 @@
 - [2016-05-11T16:42:16] Clean up legacy worker task routines
 - [2016-05-11T18:37:02] Add error handling for yt-dlp rate limits
 - [2016-05-11T20:14:22] Fix edge case in URL parsing and validation
+- [2016-05-11T15:27:32] Improve ffmpeg streaming pipe buffer management
