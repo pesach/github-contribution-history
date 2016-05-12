@@ -9943,3 +9943,4 @@
 - [2016-05-12T13:00:18] Update automated pytest test suites
 - [2016-05-12T10:49:37] Implement streaming upload chunk buffer optimization
 - [2016-05-12T17:59:07] Update B2 storage chunking parameters
+- [2016-05-12T14:18:57] Update dependency lockfiles and requirements
