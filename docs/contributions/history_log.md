@@ -9947,3 +9947,4 @@
 - [2016-05-12T18:21:14] Fix edge case in URL parsing and validation
 - [2016-05-12T19:31:35] Add Redis rate limit backoff handlers
 - [2016-05-12T10:14:14] Optimize PostgreSQL query execution plans
+- [2016-05-12T10:43:22] Add Redis rate limit backoff handlers
