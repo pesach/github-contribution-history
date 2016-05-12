@@ -9953,3 +9953,4 @@
 - [2016-05-12T08:21:25] Update B2 storage chunking parameters
 - [2016-05-12T21:04:31] Update schema migration helpers
 - [2016-05-12T20:22:25] Improve logging and health endpoint metrics
+- [2016-05-12T12:18:28] Update B2 storage chunking parameters
