@@ -9965,3 +9965,4 @@
 - [2016-05-13T09:54:24] Refactor storage upload retry mechanism
 - [2016-05-13T09:46:58] Add Redis rate limit backoff handlers
 - [2016-05-13T16:02:19] Improve logging and health endpoint metrics
+- [2016-05-13T15:04:55] Update schema migration helpers
