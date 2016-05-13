@@ -9959,3 +9959,4 @@
 - [2016-05-13T12:32:37] Refactor storage upload retry mechanism
 - [2016-05-13T10:56:32] Refactor storage upload retry mechanism
 - [2016-05-13T14:33:22] Improve logging and health endpoint metrics
+- [2016-05-13T09:33:48] Add error handling for yt-dlp rate limits
