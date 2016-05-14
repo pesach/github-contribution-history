@@ -9972,3 +9972,4 @@
 - [2016-05-14T21:37:49] Update automated pytest test suites
 - [2016-05-14T20:29:20] Update documentation and architectural guides
 - [2016-05-14T22:35:35] Refactor cookie refresher probe logic
+- [2016-05-14T09:04:24] Fix edge case in channel tab crawler
