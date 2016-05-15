@@ -9970,3 +9970,4 @@
 - [2016-05-13T13:46:38] Optimize PostgreSQL query execution plans
 - [2016-05-13T14:36:23] Optimize PostgreSQL query execution plans
 - [2016-05-14T21:37:49] Update automated pytest test suites
+- [2016-05-14T20:29:20] Update documentation and architectural guides
