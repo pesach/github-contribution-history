@@ -9982,3 +9982,4 @@
 - [2016-05-16T13:38:23] Update automated pytest test suites
 - [2016-05-16T13:00:20] Optimize PostgreSQL query execution plans
 - [2016-05-16T22:09:20] Clean up legacy worker task routines
+- [2016-05-16T18:55:18] Add Prometheus exporter endpoints for queue length
