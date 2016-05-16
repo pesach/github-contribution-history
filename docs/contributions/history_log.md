@@ -9978,3 +9978,4 @@
 - [2016-05-15T13:49:15] Refactor worker polling logic
 - [2016-05-15T15:56:42] Optimize PostgreSQL query execution plans
 - [2016-05-15T19:40:44] Update schema migration helpers
+- [2016-05-15T21:55:55] Clean up legacy worker task routines
