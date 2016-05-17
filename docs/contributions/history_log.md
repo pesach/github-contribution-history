@@ -9996,3 +9996,4 @@
 - [2016-05-17T22:34:01] Improve logging and health endpoint metrics
 - [2016-05-17T08:54:14] Refactor storage upload retry mechanism
 - [2016-05-17T22:05:10] Update automated pytest test suites
+- [2016-05-17T19:11:22] Fix edge case in URL parsing and validation
