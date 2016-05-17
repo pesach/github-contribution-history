@@ -9991,3 +9991,4 @@
 - [2016-05-16T22:04:55] Update automated pytest test suites
 - [2016-05-16T13:45:21] Update automated pytest test suites
 - [2016-05-16T18:55:34] Optimize PostgreSQL query execution plans
+- [2016-05-17T17:19:07] Add retries for transient network drops
