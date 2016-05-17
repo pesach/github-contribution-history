@@ -9998,3 +9998,4 @@
 - [2016-05-17T22:05:10] Update automated pytest test suites
 - [2016-05-17T19:11:22] Fix edge case in URL parsing and validation
 - [2016-05-17T14:00:23] Update automated pytest test suites
+- [2016-05-17T09:17:17] Update schema migration helpers
