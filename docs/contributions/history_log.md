@@ -9981,3 +9981,4 @@
 - [2016-05-15T21:55:55] Clean up legacy worker task routines
 - [2016-05-16T13:38:23] Update automated pytest test suites
 - [2016-05-16T13:00:20] Optimize PostgreSQL query execution plans
+- [2016-05-16T22:09:20] Clean up legacy worker task routines
