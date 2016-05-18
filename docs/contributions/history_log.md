@@ -10001,3 +10001,4 @@
 - [2016-05-17T09:17:17] Update schema migration helpers
 - [2016-05-18T13:36:50] Clean up legacy worker task routines
 - [2016-05-18T21:05:11] Clean up legacy worker task routines
+- [2016-05-18T18:02:27] Enhance dashboard statistics rendering
