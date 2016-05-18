@@ -9993,3 +9993,4 @@
 - [2016-05-16T18:55:34] Optimize PostgreSQL query execution plans
 - [2016-05-17T17:19:07] Add retries for transient network drops
 - [2016-05-17T20:45:31] Improve ffmpeg streaming pipe buffer management
+- [2016-05-17T22:34:01] Improve logging and health endpoint metrics
