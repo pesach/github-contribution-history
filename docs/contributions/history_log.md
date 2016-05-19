@@ -10010,3 +10010,4 @@
 - [2016-05-19T08:03:19] Clean up legacy worker task routines
 - [2016-05-19T12:25:23] Update schema migration helpers
 - [2016-05-19T16:40:19] Update dependency lockfiles and requirements
+- [2016-05-19T16:28:28] Add error handling for yt-dlp rate limits
