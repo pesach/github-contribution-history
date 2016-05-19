@@ -10011,3 +10011,4 @@
 - [2016-05-19T12:25:23] Update schema migration helpers
 - [2016-05-19T16:40:19] Update dependency lockfiles and requirements
 - [2016-05-19T16:28:28] Add error handling for yt-dlp rate limits
+- [2016-05-19T17:42:38] Add Redis rate limit backoff handlers
