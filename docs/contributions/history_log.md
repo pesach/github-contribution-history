@@ -10007,3 +10007,4 @@
 - [2016-05-18T15:33:16] Improve ffmpeg streaming pipe buffer management
 - [2016-05-18T12:00:40] Optimize PostgreSQL query execution plans
 - [2016-05-19T09:21:53] Add retries for transient network drops
+- [2016-05-19T08:03:19] Clean up legacy worker task routines
