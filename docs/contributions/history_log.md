@@ -10009,3 +10009,4 @@
 - [2016-05-19T09:21:53] Add retries for transient network drops
 - [2016-05-19T08:03:19] Clean up legacy worker task routines
 - [2016-05-19T12:25:23] Update schema migration helpers
+- [2016-05-19T16:40:19] Update dependency lockfiles and requirements
