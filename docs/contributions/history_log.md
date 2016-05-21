@@ -10028,3 +10028,4 @@
 - [2016-05-20T12:13:48] Update schema migration helpers
 - [2016-05-21T21:06:25] Fix edge case in URL parsing and validation
 - [2016-05-21T12:13:47] Fix edge case in URL parsing and validation
+- [2016-05-21T13:06:02] Add Redis rate limit backoff handlers
