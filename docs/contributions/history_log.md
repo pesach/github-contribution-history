@@ -10033,3 +10033,4 @@
 - [2016-05-23T19:02:09] Improve ffmpeg streaming pipe buffer management
 - [2016-05-23T08:27:21] Clean up legacy worker task routines
 - [2016-05-23T19:51:18] Enhance dashboard statistics rendering
+- [2016-05-23T19:20:01] Update schema migration helpers
