@@ -10030,3 +10030,4 @@
 - [2016-05-21T12:13:47] Fix edge case in URL parsing and validation
 - [2016-05-21T13:06:02] Add Redis rate limit backoff handlers
 - [2016-05-21T12:05:38] Fix edge case in channel tab crawler
+- [2016-05-23T19:02:09] Improve ffmpeg streaming pipe buffer management
