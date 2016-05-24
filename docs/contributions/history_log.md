@@ -10042,3 +10042,4 @@
 - [2016-05-23T20:59:24] Update dependency lockfiles and requirements
 - [2016-05-24T10:38:57] Add Redis rate limit backoff handlers
 - [2016-05-24T21:13:22] Update dependency lockfiles and requirements
+- [2016-05-24T14:00:17] Fix edge case in channel tab crawler
