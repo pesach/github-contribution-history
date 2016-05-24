@@ -10034,3 +10034,4 @@
 - [2016-05-23T08:27:21] Clean up legacy worker task routines
 - [2016-05-23T19:51:18] Enhance dashboard statistics rendering
 - [2016-05-23T19:20:01] Update schema migration helpers
+- [2016-05-23T21:08:20] Update B2 storage chunking parameters
