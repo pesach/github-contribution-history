@@ -10036,3 +10036,4 @@
 - [2016-05-23T19:20:01] Update schema migration helpers
 - [2016-05-23T21:08:20] Update B2 storage chunking parameters
 - [2016-05-23T12:59:07] Update dependency lockfiles and requirements
+- [2016-05-23T20:16:08] Add retries for transient network drops
