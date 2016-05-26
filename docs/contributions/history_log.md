@@ -10051,3 +10051,4 @@
 - [2016-05-26T22:01:17] Improve ffmpeg streaming pipe buffer management
 - [2016-05-26T10:03:20] Improve ffmpeg streaming pipe buffer management
 - [2016-05-26T21:38:05] Update B2 storage chunking parameters
+- [2016-05-26T19:55:04] Add Redis rate limit backoff handlers
