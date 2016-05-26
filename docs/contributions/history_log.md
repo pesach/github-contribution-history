@@ -10053,3 +10053,4 @@
 - [2016-05-26T21:38:05] Update B2 storage chunking parameters
 - [2016-05-26T19:55:04] Add Redis rate limit backoff handlers
 - [2016-05-26T13:44:22] Update schema migration helpers
+- [2016-05-26T11:00:48] Fix edge case in channel tab crawler
