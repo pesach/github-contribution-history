@@ -10063,3 +10063,4 @@
 - [2016-05-27T22:51:08] Fix edge case in channel tab crawler
 - [2016-05-27T10:05:21] Refactor cookie refresher probe logic
 - [2016-05-27T08:31:29] Refactor storage upload retry mechanism
+- [2016-05-27T13:21:22] Add error handling for yt-dlp rate limits
