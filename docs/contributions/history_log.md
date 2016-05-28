@@ -10060,3 +10060,4 @@
 - [2016-05-26T10:09:48] Update automated pytest test suites
 - [2016-05-27T09:47:35] Update dependency lockfiles and requirements
 - [2016-05-27T12:43:06] Update dependency lockfiles and requirements
+- [2016-05-27T22:51:08] Fix edge case in channel tab crawler
