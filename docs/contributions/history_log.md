@@ -10070,3 +10070,4 @@
 - [2016-05-27T19:35:59] Fix edge case in channel tab crawler
 - [2016-05-27T21:37:05] Update documentation and architectural guides
 - [2016-05-28T20:50:32] Update B2 storage chunking parameters
+- [2016-05-28T16:39:03] Refactor storage upload retry mechanism
