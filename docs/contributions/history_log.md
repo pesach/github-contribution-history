@@ -10077,3 +10077,4 @@
 - [2016-05-28T18:26:29] Refactor cookie refresher probe logic
 - [2016-05-29T08:11:38] Improve logging and health endpoint metrics
 - [2016-05-29T11:46:44] Fix edge case in URL parsing and validation
+- [2016-05-29T11:10:44] Add Prometheus exporter endpoints for queue length
