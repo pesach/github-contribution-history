@@ -10076,3 +10076,4 @@
 - [2016-05-28T14:31:40] Fix edge case in channel tab crawler
 - [2016-05-28T18:26:29] Refactor cookie refresher probe logic
 - [2016-05-29T08:11:38] Improve logging and health endpoint metrics
+- [2016-05-29T11:46:44] Fix edge case in URL parsing and validation
