@@ -10080,3 +10080,4 @@
 - [2016-05-29T11:10:44] Add Prometheus exporter endpoints for queue length
 - [2016-05-29T22:09:18] Fix edge case in URL parsing and validation
 - [2016-05-29T15:38:33] Fix edge case in channel tab crawler
+- [2016-05-30T19:32:25] Improve ffmpeg streaming pipe buffer management
