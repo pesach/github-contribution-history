@@ -10085,3 +10085,4 @@
 - [2016-05-30T13:39:31] Update documentation and architectural guides
 - [2016-05-30T17:32:32] Refactor cookie refresher probe logic
 - [2016-05-30T19:44:47] Update schema migration helpers
+- [2016-05-30T17:34:54] Update schema migration helpers
