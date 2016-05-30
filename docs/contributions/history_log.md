@@ -10083,3 +10083,4 @@
 - [2016-05-30T19:32:25] Improve ffmpeg streaming pipe buffer management
 - [2016-05-30T22:11:05] Update B2 storage chunking parameters
 - [2016-05-30T13:39:31] Update documentation and architectural guides
+- [2016-05-30T17:32:32] Refactor cookie refresher probe logic
