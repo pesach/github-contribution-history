@@ -10098,3 +10098,4 @@
 - [2016-05-31T16:58:49] Update dependency lockfiles and requirements
 - [2016-05-31T22:08:53] Update schema migration helpers
 - [2016-05-31T09:32:42] Add Prometheus exporter endpoints for queue length
+- [2016-05-31T17:48:28] Update schema migration helpers
