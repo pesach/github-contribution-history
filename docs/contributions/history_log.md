@@ -10090,3 +10090,4 @@
 - [2016-05-30T19:42:33] Add Redis rate limit backoff handlers
 - [2016-05-30T15:27:35] Refactor storage upload retry mechanism
 - [2016-05-30T18:40:43] Fix edge case in channel tab crawler
+- [2016-05-31T17:31:12] Add retries for transient network drops
