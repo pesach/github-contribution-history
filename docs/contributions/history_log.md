@@ -10111,3 +10111,4 @@
 - [2016-06-01T20:36:45] Fix edge case in channel tab crawler
 - [2016-06-01T19:36:38] Improve logging and health endpoint metrics
 - [2016-06-01T13:35:35] Refactor storage upload retry mechanism
+- [2016-06-01T15:17:32] Refactor storage upload retry mechanism
