@@ -10103,3 +10103,4 @@
 - [2016-05-31T18:16:14] Implement streaming upload chunk buffer optimization
 - [2016-05-31T16:55:29] Refactor worker polling logic
 - [2016-06-01T14:06:45] Enhance dashboard statistics rendering
+- [2016-06-01T19:22:05] Add error handling for yt-dlp rate limits
