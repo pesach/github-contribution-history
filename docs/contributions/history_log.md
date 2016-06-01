@@ -10105,3 +10105,4 @@
 - [2016-06-01T14:06:45] Enhance dashboard statistics rendering
 - [2016-06-01T19:22:05] Add error handling for yt-dlp rate limits
 - [2016-06-01T11:07:03] Add Prometheus exporter endpoints for queue length
+- [2016-06-01T10:57:54] Add Redis rate limit backoff handlers
