@@ -10104,3 +10104,4 @@
 - [2016-05-31T16:55:29] Refactor worker polling logic
 - [2016-06-01T14:06:45] Enhance dashboard statistics rendering
 - [2016-06-01T19:22:05] Add error handling for yt-dlp rate limits
+- [2016-06-01T11:07:03] Add Prometheus exporter endpoints for queue length
