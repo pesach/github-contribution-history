@@ -10123,3 +10123,4 @@
 - [2016-06-02T13:37:31] Update schema migration helpers
 - [2016-06-02T11:23:23] Improve ffmpeg streaming pipe buffer management
 - [2016-06-02T12:05:44] Update schema migration helpers
+- [2016-06-02T13:26:48] Update schema migration helpers
