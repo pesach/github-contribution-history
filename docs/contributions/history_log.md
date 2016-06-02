@@ -10121,3 +10121,4 @@
 - [2016-06-02T13:57:20] Update automated pytest test suites
 - [2016-06-02T12:38:16] Refactor storage upload retry mechanism
 - [2016-06-02T13:37:31] Update schema migration helpers
+- [2016-06-02T11:23:23] Improve ffmpeg streaming pipe buffer management
