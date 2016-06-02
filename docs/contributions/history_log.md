@@ -10128,3 +10128,4 @@
 - [2016-06-02T21:52:28] Add retries for transient network drops
 - [2016-06-02T14:36:27] Update B2 storage chunking parameters
 - [2016-06-02T21:05:35] Clean up legacy worker task routines
+- [2016-06-02T12:45:27] Update documentation and architectural guides
