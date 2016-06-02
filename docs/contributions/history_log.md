@@ -10120,3 +10120,4 @@
 - [2016-06-02T22:29:20] Fix edge case in channel tab crawler
 - [2016-06-02T13:57:20] Update automated pytest test suites
 - [2016-06-02T12:38:16] Refactor storage upload retry mechanism
+- [2016-06-02T13:37:31] Update schema migration helpers
