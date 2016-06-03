@@ -10117,3 +10117,4 @@
 - [2016-06-01T22:42:53] Clean up legacy worker task routines
 - [2016-06-02T21:41:55] Update documentation and architectural guides
 - [2016-06-02T19:32:05] Add Redis rate limit backoff handlers
+- [2016-06-02T22:29:20] Fix edge case in channel tab crawler
