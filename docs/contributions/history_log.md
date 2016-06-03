@@ -10139,3 +10139,4 @@
 - [2016-06-03T12:58:55] Refactor cookie refresher probe logic
 - [2016-06-03T22:46:26] Add retries for transient network drops
 - [2016-06-03T22:58:50] Clean up legacy worker task routines
+- [2016-06-03T19:21:49] Fix edge case in channel tab crawler
