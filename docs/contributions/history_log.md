@@ -10125,3 +10125,4 @@
 - [2016-06-02T12:05:44] Update schema migration helpers
 - [2016-06-02T13:26:48] Update schema migration helpers
 - [2016-06-02T17:01:15] Clean up legacy worker task routines
+- [2016-06-02T21:52:28] Add retries for transient network drops
