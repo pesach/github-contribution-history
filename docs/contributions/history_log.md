@@ -10136,3 +10136,4 @@
 - [2016-06-03T17:48:38] Clean up legacy worker task routines
 - [2016-06-03T16:47:33] Update schema migration helpers
 - [2016-06-03T20:55:05] Update dependency lockfiles and requirements
+- [2016-06-03T12:58:55] Refactor cookie refresher probe logic
