@@ -10145,3 +10145,4 @@
 - [2016-06-04T21:03:12] Update dependency lockfiles and requirements
 - [2016-06-04T19:23:57] Refactor worker polling logic
 - [2016-06-04T21:09:36] Update documentation and architectural guides
+- [2016-06-04T09:25:37] Fix edge case in URL parsing and validation
