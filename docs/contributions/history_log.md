@@ -10132,3 +10132,4 @@
 - [2016-06-03T13:59:47] Refactor worker polling logic
 - [2016-06-03T15:36:04] Fix edge case in channel tab crawler
 - [2016-06-03T15:22:14] Update B2 storage chunking parameters
+- [2016-06-03T22:38:23] Refactor cookie refresher probe logic
