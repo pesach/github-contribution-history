@@ -10143,3 +10143,4 @@
 - [2016-06-04T10:38:50] Refactor cookie refresher probe logic
 - [2016-06-04T22:07:31] Fix edge case in URL parsing and validation
 - [2016-06-04T21:03:12] Update dependency lockfiles and requirements
+- [2016-06-04T19:23:57] Refactor worker polling logic
