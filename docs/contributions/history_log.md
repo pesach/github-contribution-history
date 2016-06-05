@@ -10148,3 +10148,4 @@
 - [2016-06-04T09:25:37] Fix edge case in URL parsing and validation
 - [2016-06-05T10:10:32] Clean up legacy worker task routines
 - [2016-06-05T15:34:07] Update schema migration helpers
+- [2016-06-05T16:16:54] Update dependency lockfiles and requirements
