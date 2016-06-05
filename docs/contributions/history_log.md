@@ -10141,3 +10141,4 @@
 - [2016-06-03T22:58:50] Clean up legacy worker task routines
 - [2016-06-03T19:21:49] Fix edge case in channel tab crawler
 - [2016-06-04T10:38:50] Refactor cookie refresher probe logic
+- [2016-06-04T22:07:31] Fix edge case in URL parsing and validation
