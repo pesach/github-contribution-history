@@ -10149,3 +10149,4 @@
 - [2016-06-05T10:10:32] Clean up legacy worker task routines
 - [2016-06-05T15:34:07] Update schema migration helpers
 - [2016-06-05T16:16:54] Update dependency lockfiles and requirements
+- [2016-06-05T15:31:05] Update schema migration helpers
