@@ -10150,3 +10150,4 @@
 - [2016-06-05T15:34:07] Update schema migration helpers
 - [2016-06-05T16:16:54] Update dependency lockfiles and requirements
 - [2016-06-05T15:31:05] Update schema migration helpers
+- [2016-06-05T16:58:05] Add Redis rate limit backoff handlers
