@@ -10152,3 +10152,4 @@
 - [2016-06-05T15:31:05] Update schema migration helpers
 - [2016-06-05T16:58:05] Add Redis rate limit backoff handlers
 - [2016-06-06T21:16:59] Update dependency lockfiles and requirements
+- [2016-06-06T09:58:33] Clean up legacy worker task routines
