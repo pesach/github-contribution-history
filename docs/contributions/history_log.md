@@ -10160,3 +10160,4 @@
 - [2016-06-06T11:22:20] Update B2 storage chunking parameters
 - [2016-06-06T13:47:00] Fix edge case in channel tab crawler
 - [2016-06-06T14:14:54] Enhance dashboard statistics rendering
+- [2016-06-06T12:21:59] Refactor worker polling logic
