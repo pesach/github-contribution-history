@@ -10154,3 +10154,4 @@
 - [2016-06-06T21:16:59] Update dependency lockfiles and requirements
 - [2016-06-06T09:58:33] Clean up legacy worker task routines
 - [2016-06-06T18:17:17] Add retries for transient network drops
+- [2016-06-06T14:22:55] Fix edge case in channel tab crawler
