@@ -10169,3 +10169,4 @@
 - [2016-06-07T18:58:08] Optimize PostgreSQL query execution plans
 - [2016-06-07T17:34:32] Update schema migration helpers
 - [2016-06-07T18:43:15] Update dependency lockfiles and requirements
+- [2016-06-07T20:06:12] Add Redis rate limit backoff handlers
