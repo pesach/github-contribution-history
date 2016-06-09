@@ -10190,3 +10190,4 @@
 - [2016-06-09T19:08:52] Improve ffmpeg streaming pipe buffer management
 - [2016-06-09T12:29:40] Enhance dashboard statistics rendering
 - [2016-06-09T21:00:11] Enhance dashboard statistics rendering
+- [2016-06-09T11:56:47] Clean up legacy worker task routines
