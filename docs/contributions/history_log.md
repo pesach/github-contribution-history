@@ -10184,3 +10184,4 @@
 - [2016-06-08T18:39:50] Refactor storage upload retry mechanism
 - [2016-06-09T17:22:16] Update documentation and architectural guides
 - [2016-06-09T15:12:06] Fix edge case in URL parsing and validation
+- [2016-06-09T14:00:25] Update schema migration helpers
