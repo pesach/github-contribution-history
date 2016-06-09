@@ -10178,3 +10178,4 @@
 - [2016-06-08T20:48:03] Add Redis rate limit backoff handlers
 - [2016-06-08T21:18:45] Update automated pytest test suites
 - [2016-06-08T21:22:06] Add retries for transient network drops
+- [2016-06-08T22:57:13] Clean up legacy worker task routines
