@@ -10186,3 +10186,4 @@
 - [2016-06-09T15:12:06] Fix edge case in URL parsing and validation
 - [2016-06-09T14:00:25] Update schema migration helpers
 - [2016-06-09T13:43:46] Refactor cookie refresher probe logic
+- [2016-06-09T18:01:40] Update dependency lockfiles and requirements
