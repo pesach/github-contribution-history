@@ -10175,3 +10175,4 @@
 - [2016-06-07T22:38:09] Refactor storage upload retry mechanism
 - [2016-06-07T21:03:53] Add Redis rate limit backoff handlers
 - [2016-06-08T12:41:58] Optimize PostgreSQL query execution plans
+- [2016-06-08T20:48:03] Add Redis rate limit backoff handlers
