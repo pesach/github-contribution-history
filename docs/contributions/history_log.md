@@ -10206,3 +10206,4 @@
 - [2016-06-11T11:56:49] Improve ffmpeg streaming pipe buffer management
 - [2016-06-11T16:35:13] Update automated pytest test suites
 - [2016-06-12T22:15:50] Refactor storage upload retry mechanism
+- [2016-06-12T11:49:39] Fix edge case in channel tab crawler
