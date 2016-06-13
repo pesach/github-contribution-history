@@ -10215,3 +10215,4 @@
 - [2016-06-13T13:44:07] Enhance dashboard statistics rendering
 - [2016-06-13T08:15:28] Update documentation and architectural guides
 - [2016-06-13T08:01:21] Refactor cookie refresher probe logic
+- [2016-06-13T15:15:12] Clean up legacy worker task routines
