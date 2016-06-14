@@ -10219,3 +10219,4 @@
 - [2016-06-13T21:43:47] Fix edge case in URL parsing and validation
 - [2016-06-13T14:50:18] Fix edge case in channel tab crawler
 - [2016-06-14T12:06:09] Add Redis rate limit backoff handlers
+- [2016-06-14T12:56:26] Refactor worker polling logic
