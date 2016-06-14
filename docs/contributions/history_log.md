@@ -10216,3 +10216,4 @@
 - [2016-06-13T08:15:28] Update documentation and architectural guides
 - [2016-06-13T08:01:21] Refactor cookie refresher probe logic
 - [2016-06-13T15:15:12] Clean up legacy worker task routines
+- [2016-06-13T21:43:47] Fix edge case in URL parsing and validation
