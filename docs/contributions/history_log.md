@@ -10221,3 +10221,4 @@
 - [2016-06-14T12:06:09] Add Redis rate limit backoff handlers
 - [2016-06-14T12:56:26] Refactor worker polling logic
 - [2016-06-14T19:09:49] Update automated pytest test suites
+- [2016-06-14T08:33:44] Improve ffmpeg streaming pipe buffer management
