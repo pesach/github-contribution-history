@@ -10231,3 +10231,4 @@
 - [2016-06-14T13:21:51] Refactor worker polling logic
 - [2016-06-15T21:14:19] Refactor storage upload retry mechanism
 - [2016-06-15T09:02:19] Fix edge case in channel tab crawler
+- [2016-06-15T15:49:16] Optimize PostgreSQL query execution plans
