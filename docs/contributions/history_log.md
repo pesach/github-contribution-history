@@ -10252,3 +10252,4 @@
 - [2016-06-16T09:01:56] Update dependency lockfiles and requirements
 - [2016-06-16T15:34:17] Add retries for transient network drops
 - [2016-06-16T16:32:51] Add retries for transient network drops
+- [2016-06-16T13:10:53] Improve logging and health endpoint metrics
