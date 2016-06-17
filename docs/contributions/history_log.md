@@ -10266,3 +10266,4 @@
 - [2016-06-17T17:23:59] Fix edge case in channel tab crawler
 - [2016-06-17T16:16:38] Add Prometheus exporter endpoints for queue length
 - [2016-06-17T09:56:30] Update dependency lockfiles and requirements
+- [2016-06-17T14:22:23] Refactor storage upload retry mechanism
