@@ -10270,3 +10270,4 @@
 - [2016-06-17T11:43:28] Optimize PostgreSQL query execution plans
 - [2016-06-17T20:40:35] Fix edge case in URL parsing and validation
 - [2016-06-17T16:53:48] Update dependency lockfiles and requirements
+- [2016-06-17T08:01:46] Add Redis rate limit backoff handlers
