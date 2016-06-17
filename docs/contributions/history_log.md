@@ -10253,3 +10253,4 @@
 - [2016-06-16T15:34:17] Add retries for transient network drops
 - [2016-06-16T16:32:51] Add retries for transient network drops
 - [2016-06-16T13:10:53] Improve logging and health endpoint metrics
+- [2016-06-16T21:29:23] Optimize PostgreSQL query execution plans
