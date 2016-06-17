@@ -10243,3 +10243,4 @@
 - [2016-06-15T11:23:06] Clean up legacy worker task routines
 - [2016-06-15T16:39:44] Enhance dashboard statistics rendering
 - [2016-06-15T16:28:36] Clean up legacy worker task routines
+- [2016-06-16T22:22:29] Fix edge case in URL parsing and validation
