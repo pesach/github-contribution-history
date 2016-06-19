@@ -10274,3 +10274,4 @@
 - [2016-06-19T15:52:00] Add error handling for yt-dlp rate limits
 - [2016-06-19T19:31:36] Add error handling for yt-dlp rate limits
 - [2016-06-19T15:28:44] Improve logging and health endpoint metrics
+- [2016-06-19T11:09:46] Update schema migration helpers
