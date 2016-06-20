@@ -10281,3 +10281,4 @@
 - [2016-06-20T09:13:34] Fix edge case in URL parsing and validation
 - [2016-06-20T22:25:40] Update documentation and architectural guides
 - [2016-06-20T16:47:29] Refactor storage upload retry mechanism
+- [2016-06-20T12:31:36] Update dependency lockfiles and requirements
