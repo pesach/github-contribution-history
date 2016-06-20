@@ -10284,3 +10284,4 @@
 - [2016-06-20T12:31:36] Update dependency lockfiles and requirements
 - [2016-06-20T15:07:13] Implement streaming upload chunk buffer optimization
 - [2016-06-20T22:12:45] Improve logging and health endpoint metrics
+- [2016-06-20T08:46:05] Update B2 storage chunking parameters
