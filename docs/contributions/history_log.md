@@ -10296,3 +10296,4 @@
 - [2016-06-21T20:46:38] Update documentation and architectural guides
 - [2016-06-21T08:47:01] Update dependency lockfiles and requirements
 - [2016-06-21T14:52:16] Update documentation and architectural guides
+- [2016-06-21T09:54:20] Clean up legacy worker task routines
