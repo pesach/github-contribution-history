@@ -10303,3 +10303,4 @@
 - [2016-06-22T08:58:46] Fix edge case in channel tab crawler
 - [2016-06-22T21:38:28] Enhance dashboard statistics rendering
 - [2016-06-22T20:28:29] Update automated pytest test suites
+- [2016-06-22T14:17:53] Clean up legacy worker task routines
