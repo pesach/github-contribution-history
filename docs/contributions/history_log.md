@@ -10299,3 +10299,4 @@
 - [2016-06-21T09:54:20] Clean up legacy worker task routines
 - [2016-06-21T14:56:07] Fix edge case in URL parsing and validation
 - [2016-06-22T17:34:09] Add Redis rate limit backoff handlers
+- [2016-06-22T18:17:08] Update schema migration helpers
