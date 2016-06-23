@@ -10309,3 +10309,4 @@
 - [2016-06-22T11:13:24] Add Redis rate limit backoff handlers
 - [2016-06-22T17:14:07] Optimize PostgreSQL query execution plans
 - [2016-06-22T21:20:28] Update schema migration helpers
+- [2016-06-22T21:13:53] Refactor worker polling logic
