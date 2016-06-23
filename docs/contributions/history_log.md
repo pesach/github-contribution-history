@@ -10318,3 +10318,4 @@
 - [2016-06-23T09:24:12] Update documentation and architectural guides
 - [2016-06-23T18:32:14] Refactor storage upload retry mechanism
 - [2016-06-23T12:17:48] Add retries for transient network drops
+- [2016-06-23T14:09:05] Update automated pytest test suites
