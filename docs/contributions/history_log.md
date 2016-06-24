@@ -10331,3 +10331,4 @@
 - [2016-06-24T18:00:53] Update automated pytest test suites
 - [2016-06-24T18:49:16] Improve ffmpeg streaming pipe buffer management
 - [2016-06-24T19:44:09] Update schema migration helpers
+- [2016-06-24T08:52:40] Add error handling for yt-dlp rate limits
