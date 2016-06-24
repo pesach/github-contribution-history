@@ -10324,3 +10324,4 @@
 - [2016-06-23T13:25:45] Update dependency lockfiles and requirements
 - [2016-06-24T17:13:45] Enhance dashboard statistics rendering
 - [2016-06-24T12:38:06] Update dependency lockfiles and requirements
+- [2016-06-24T13:57:53] Improve logging and health endpoint metrics
