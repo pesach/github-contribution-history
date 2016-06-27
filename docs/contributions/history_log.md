@@ -10344,3 +10344,4 @@
 - [2016-06-27T11:14:36] Refactor storage upload retry mechanism
 - [2016-06-27T09:48:12] Fix edge case in channel tab crawler
 - [2016-06-27T21:42:41] Update documentation and architectural guides
+- [2016-06-27T15:52:12] Refactor worker polling logic
