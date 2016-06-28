@@ -10348,3 +10348,4 @@
 - [2016-06-27T22:28:32] Optimize PostgreSQL query execution plans
 - [2016-06-27T17:28:32] Fix edge case in channel tab crawler
 - [2016-06-27T21:02:19] Add Prometheus exporter endpoints for queue length
+- [2016-06-28T08:15:39] Add retries for transient network drops
