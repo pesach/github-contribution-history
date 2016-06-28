@@ -10350,3 +10350,4 @@
 - [2016-06-27T21:02:19] Add Prometheus exporter endpoints for queue length
 - [2016-06-28T08:15:39] Add retries for transient network drops
 - [2016-06-28T15:14:32] Add error handling for yt-dlp rate limits
+- [2016-06-28T16:53:49] Fix edge case in URL parsing and validation
