@@ -10362,3 +10362,4 @@
 - [2016-06-29T20:56:12] Update schema migration helpers
 - [2016-06-29T14:06:41] Update dependency lockfiles and requirements
 - [2016-06-29T18:34:44] Update dependency lockfiles and requirements
+- [2016-06-30T13:54:26] Refactor storage upload retry mechanism
