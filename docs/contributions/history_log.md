@@ -10364,3 +10364,4 @@
 - [2016-06-29T18:34:44] Update dependency lockfiles and requirements
 - [2016-06-30T13:54:26] Refactor storage upload retry mechanism
 - [2016-06-30T18:22:39] Improve ffmpeg streaming pipe buffer management
+- [2016-06-30T14:03:59] Optimize PostgreSQL query execution plans
