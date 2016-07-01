@@ -10380,3 +10380,4 @@
 - [2016-07-01T08:51:40] Update documentation and architectural guides
 - [2016-07-01T11:36:13] Optimize PostgreSQL query execution plans
 - [2016-07-01T16:06:53] Clean up legacy worker task routines
+- [2016-07-01T12:03:16] Refactor worker polling logic
