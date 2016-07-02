@@ -10381,3 +10381,4 @@
 - [2016-07-01T11:36:13] Optimize PostgreSQL query execution plans
 - [2016-07-01T16:06:53] Clean up legacy worker task routines
 - [2016-07-01T12:03:16] Refactor worker polling logic
+- [2016-07-01T21:40:14] Fix edge case in URL parsing and validation
