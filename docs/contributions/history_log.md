@@ -10388,3 +10388,4 @@
 - [2016-07-02T18:35:15] Fix edge case in URL parsing and validation
 - [2016-07-03T15:37:10] Refactor worker polling logic
 - [2016-07-03T21:57:52] Fix edge case in URL parsing and validation
+- [2016-07-03T17:14:56] Clean up legacy worker task routines
