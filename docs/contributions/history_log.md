@@ -10395,3 +10395,4 @@
 - [2016-07-04T13:18:21] Add error handling for yt-dlp rate limits
 - [2016-07-04T14:42:14] Refactor cookie refresher probe logic
 - [2016-07-04T08:01:26] Improve logging and health endpoint metrics
+- [2016-07-04T14:01:57] Fix edge case in URL parsing and validation
