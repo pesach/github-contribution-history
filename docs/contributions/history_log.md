@@ -10391,3 +10391,4 @@
 - [2016-07-03T17:14:56] Clean up legacy worker task routines
 - [2016-07-03T14:04:31] Implement streaming upload chunk buffer optimization
 - [2016-07-04T10:40:35] Update dependency lockfiles and requirements
+- [2016-07-04T11:16:47] Improve ffmpeg streaming pipe buffer management
