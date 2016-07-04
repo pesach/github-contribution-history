@@ -10393,3 +10393,4 @@
 - [2016-07-04T10:40:35] Update dependency lockfiles and requirements
 - [2016-07-04T11:16:47] Improve ffmpeg streaming pipe buffer management
 - [2016-07-04T13:18:21] Add error handling for yt-dlp rate limits
+- [2016-07-04T14:42:14] Refactor cookie refresher probe logic
