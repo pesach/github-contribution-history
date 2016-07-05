@@ -10399,3 +10399,4 @@
 - [2016-07-04T16:16:03] Fix edge case in channel tab crawler
 - [2016-07-05T13:39:31] Update automated pytest test suites
 - [2016-07-05T11:33:31] Improve ffmpeg streaming pipe buffer management
+- [2016-07-05T09:35:12] Enhance dashboard statistics rendering
