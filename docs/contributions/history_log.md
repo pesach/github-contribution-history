@@ -10398,3 +10398,4 @@
 - [2016-07-04T14:01:57] Fix edge case in URL parsing and validation
 - [2016-07-04T16:16:03] Fix edge case in channel tab crawler
 - [2016-07-05T13:39:31] Update automated pytest test suites
+- [2016-07-05T11:33:31] Improve ffmpeg streaming pipe buffer management
