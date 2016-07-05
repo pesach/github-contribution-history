@@ -10401,3 +10401,4 @@
 - [2016-07-05T11:33:31] Improve ffmpeg streaming pipe buffer management
 - [2016-07-05T09:35:12] Enhance dashboard statistics rendering
 - [2016-07-05T17:11:40] Fix edge case in channel tab crawler
+- [2016-07-05T12:42:43] Update schema migration helpers
