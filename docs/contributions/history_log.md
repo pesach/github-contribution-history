@@ -10404,3 +10404,4 @@
 - [2016-07-05T12:42:43] Update schema migration helpers
 - [2016-07-05T12:45:30] Fix edge case in URL parsing and validation
 - [2016-07-05T20:49:57] Add Prometheus exporter endpoints for queue length
+- [2016-07-05T21:31:32] Update automated pytest test suites
