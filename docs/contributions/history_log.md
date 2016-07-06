@@ -10411,3 +10411,4 @@
 - [2016-07-06T15:55:00] Optimize PostgreSQL query execution plans
 - [2016-07-06T12:02:31] Optimize PostgreSQL query execution plans
 - [2016-07-06T22:36:57] Update schema migration helpers
+- [2016-07-06T17:59:37] Fix edge case in channel tab crawler
