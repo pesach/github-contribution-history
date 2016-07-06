@@ -10403,3 +10403,4 @@
 - [2016-07-05T17:11:40] Fix edge case in channel tab crawler
 - [2016-07-05T12:42:43] Update schema migration helpers
 - [2016-07-05T12:45:30] Fix edge case in URL parsing and validation
+- [2016-07-05T20:49:57] Add Prometheus exporter endpoints for queue length
