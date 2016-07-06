@@ -10416,3 +10416,4 @@
 - [2016-07-06T12:13:23] Update documentation and architectural guides
 - [2016-07-06T22:19:47] Fix edge case in channel tab crawler
 - [2016-07-06T11:31:22] Refactor cookie refresher probe logic
+- [2016-07-06T14:06:46] Refactor cookie refresher probe logic
