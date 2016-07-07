@@ -10427,3 +10427,4 @@
 - [2016-07-07T19:03:53] Refactor cookie refresher probe logic
 - [2016-07-07T15:43:49] Optimize PostgreSQL query execution plans
 - [2016-07-07T10:05:14] Implement streaming upload chunk buffer optimization
+- [2016-07-07T18:14:55] Add Redis rate limit backoff handlers
