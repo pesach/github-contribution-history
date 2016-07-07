@@ -10424,3 +10424,4 @@
 - [2016-07-07T09:51:03] Update documentation and architectural guides
 - [2016-07-07T19:04:22] Clean up legacy worker task routines
 - [2016-07-07T11:14:44] Clean up legacy worker task routines
+- [2016-07-07T19:03:53] Refactor cookie refresher probe logic
