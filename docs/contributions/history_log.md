@@ -10410,3 +10410,4 @@
 - [2016-07-05T15:04:14] Add Prometheus exporter endpoints for queue length
 - [2016-07-06T15:55:00] Optimize PostgreSQL query execution plans
 - [2016-07-06T12:02:31] Optimize PostgreSQL query execution plans
+- [2016-07-06T22:36:57] Update schema migration helpers
