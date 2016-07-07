@@ -10414,3 +10414,4 @@
 - [2016-07-06T17:59:37] Fix edge case in channel tab crawler
 - [2016-07-06T13:16:12] Refactor worker polling logic
 - [2016-07-06T12:13:23] Update documentation and architectural guides
+- [2016-07-06T22:19:47] Fix edge case in channel tab crawler
