@@ -10437,3 +10437,4 @@
 - [2016-07-08T15:00:50] Update documentation and architectural guides
 - [2016-07-08T08:54:55] Fix edge case in channel tab crawler
 - [2016-07-08T14:18:05] Refactor cookie refresher probe logic
+- [2016-07-08T10:51:43] Improve logging and health endpoint metrics
