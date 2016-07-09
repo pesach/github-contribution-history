@@ -10430,3 +10430,4 @@
 - [2016-07-07T18:14:55] Add Redis rate limit backoff handlers
 - [2016-07-07T14:28:34] Clean up legacy worker task routines
 - [2016-07-08T18:46:41] Add Redis rate limit backoff handlers
+- [2016-07-08T22:48:22] Clean up legacy worker task routines
