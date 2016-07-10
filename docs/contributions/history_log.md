@@ -10440,3 +10440,4 @@
 - [2016-07-08T10:51:43] Improve logging and health endpoint metrics
 - [2016-07-09T16:18:21] Improve ffmpeg streaming pipe buffer management
 - [2016-07-09T12:18:21] Refactor storage upload retry mechanism
+- [2016-07-09T20:41:32] Update dependency lockfiles and requirements
