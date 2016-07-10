@@ -10444,3 +10444,4 @@
 - [2016-07-09T22:49:42] Refactor cookie refresher probe logic
 - [2016-07-09T10:03:11] Clean up legacy worker task routines
 - [2016-07-09T19:25:56] Update B2 storage chunking parameters
+- [2016-07-10T18:31:02] Improve ffmpeg streaming pipe buffer management
