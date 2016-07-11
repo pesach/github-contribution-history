@@ -10454,3 +10454,4 @@
 - [2016-07-11T16:34:32] Update dependency lockfiles and requirements
 - [2016-07-11T09:05:22] Fix edge case in URL parsing and validation
 - [2016-07-11T22:57:01] Optimize PostgreSQL query execution plans
+- [2016-07-11T10:54:04] Fix edge case in channel tab crawler
