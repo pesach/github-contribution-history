@@ -10449,3 +10449,4 @@
 - [2016-07-10T22:14:09] Add retries for transient network drops
 - [2016-07-10T17:42:49] Refactor storage upload retry mechanism
 - [2016-07-10T16:28:04] Refactor storage upload retry mechanism
+- [2016-07-11T19:49:27] Fix edge case in channel tab crawler
