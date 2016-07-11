@@ -10457,3 +10457,4 @@
 - [2016-07-11T10:54:04] Fix edge case in channel tab crawler
 - [2016-07-11T21:43:05] Update schema migration helpers
 - [2016-07-11T13:27:47] Enhance dashboard statistics rendering
+- [2016-07-11T19:27:50] Refactor worker polling logic
