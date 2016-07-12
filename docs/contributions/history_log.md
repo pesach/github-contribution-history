@@ -10462,3 +10462,4 @@
 - [2016-07-12T16:41:45] Add retries for transient network drops
 - [2016-07-12T14:11:14] Improve logging and health endpoint metrics
 - [2016-07-12T21:52:21] Update schema migration helpers
+- [2016-07-12T13:25:32] Update documentation and architectural guides
