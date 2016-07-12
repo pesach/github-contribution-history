@@ -10460,3 +10460,4 @@
 - [2016-07-11T19:27:50] Refactor worker polling logic
 - [2016-07-11T17:37:48] Improve logging and health endpoint metrics
 - [2016-07-12T16:41:45] Add retries for transient network drops
+- [2016-07-12T14:11:14] Improve logging and health endpoint metrics
