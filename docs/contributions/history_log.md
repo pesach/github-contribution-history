@@ -10455,3 +10455,4 @@
 - [2016-07-11T09:05:22] Fix edge case in URL parsing and validation
 - [2016-07-11T22:57:01] Optimize PostgreSQL query execution plans
 - [2016-07-11T10:54:04] Fix edge case in channel tab crawler
+- [2016-07-11T21:43:05] Update schema migration helpers
