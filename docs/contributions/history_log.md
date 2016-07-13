@@ -10468,3 +10468,4 @@
 - [2016-07-12T21:42:03] Improve ffmpeg streaming pipe buffer management
 - [2016-07-12T13:54:29] Update schema migration helpers
 - [2016-07-12T17:33:32] Update dependency lockfiles and requirements
+- [2016-07-12T22:05:14] Clean up legacy worker task routines
