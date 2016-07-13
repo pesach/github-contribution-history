@@ -10473,3 +10473,4 @@
 - [2016-07-12T21:10:18] Update documentation and architectural guides
 - [2016-07-12T15:26:30] Refactor worker polling logic
 - [2016-07-12T20:29:47] Refactor cookie refresher probe logic
+- [2016-07-13T13:15:26] Clean up legacy worker task routines
