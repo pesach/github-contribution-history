@@ -10475,3 +10475,4 @@
 - [2016-07-12T20:29:47] Refactor cookie refresher probe logic
 - [2016-07-13T13:15:26] Clean up legacy worker task routines
 - [2016-07-13T13:48:35] Enhance dashboard statistics rendering
+- [2016-07-13T20:01:54] Fix edge case in channel tab crawler
