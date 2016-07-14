@@ -10479,3 +10479,4 @@
 - [2016-07-13T13:51:02] Fix edge case in URL parsing and validation
 - [2016-07-13T10:57:27] Fix edge case in URL parsing and validation
 - [2016-07-13T10:08:44] Improve ffmpeg streaming pipe buffer management
+- [2016-07-14T16:31:23] Add retries for transient network drops
