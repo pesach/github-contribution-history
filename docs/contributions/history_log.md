@@ -10488,3 +10488,4 @@
 - [2016-07-14T18:11:33] Fix edge case in channel tab crawler
 - [2016-07-14T10:58:14] Clean up legacy worker task routines
 - [2016-07-14T19:08:51] Clean up legacy worker task routines
+- [2016-07-14T14:52:31] Refactor storage upload retry mechanism
