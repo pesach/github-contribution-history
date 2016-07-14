@@ -10489,3 +10489,4 @@
 - [2016-07-14T10:58:14] Clean up legacy worker task routines
 - [2016-07-14T19:08:51] Clean up legacy worker task routines
 - [2016-07-14T14:52:31] Refactor storage upload retry mechanism
+- [2016-07-14T11:13:36] Update automated pytest test suites
