@@ -10491,3 +10491,4 @@
 - [2016-07-14T14:52:31] Refactor storage upload retry mechanism
 - [2016-07-14T11:13:36] Update automated pytest test suites
 - [2016-07-15T21:41:54] Fix edge case in URL parsing and validation
+- [2016-07-15T10:31:41] Improve ffmpeg streaming pipe buffer management
