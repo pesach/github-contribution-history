@@ -10500,3 +10500,4 @@
 - [2016-07-15T10:21:56] Add error handling for yt-dlp rate limits
 - [2016-07-15T10:38:02] Clean up legacy worker task routines
 - [2016-07-15T22:55:20] Fix edge case in URL parsing and validation
+- [2016-07-15T22:38:46] Add Redis rate limit backoff handlers
