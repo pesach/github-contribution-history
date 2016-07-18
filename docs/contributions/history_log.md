@@ -10520,3 +10520,4 @@
 - [2016-07-18T10:44:09] Fix edge case in URL parsing and validation
 - [2016-07-18T18:03:15] Update schema migration helpers
 - [2016-07-18T12:05:37] Optimize PostgreSQL query execution plans
+- [2016-07-18T12:58:00] Add retries for transient network drops
