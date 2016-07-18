@@ -10513,3 +10513,4 @@
 - [2016-07-18T08:29:58] Enhance dashboard statistics rendering
 - [2016-07-18T21:56:26] Fix edge case in channel tab crawler
 - [2016-07-18T18:55:36] Add Redis rate limit backoff handlers
+- [2016-07-18T10:14:52] Optimize PostgreSQL query execution plans
