@@ -10524,3 +10524,4 @@
 - [2016-07-19T22:50:40] Enhance dashboard statistics rendering
 - [2016-07-19T17:43:56] Update dependency lockfiles and requirements
 - [2016-07-19T22:59:49] Update dependency lockfiles and requirements
+- [2016-07-19T12:53:48] Refactor worker polling logic
