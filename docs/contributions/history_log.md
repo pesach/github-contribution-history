@@ -10526,3 +10526,4 @@
 - [2016-07-19T22:59:49] Update dependency lockfiles and requirements
 - [2016-07-19T12:53:48] Refactor worker polling logic
 - [2016-07-19T22:19:27] Add retries for transient network drops
+- [2016-07-19T16:54:11] Update B2 storage chunking parameters
