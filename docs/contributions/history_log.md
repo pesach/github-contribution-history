@@ -10527,3 +10527,4 @@
 - [2016-07-19T12:53:48] Refactor worker polling logic
 - [2016-07-19T22:19:27] Add retries for transient network drops
 - [2016-07-19T16:54:11] Update B2 storage chunking parameters
+- [2016-07-19T12:48:39] Fix edge case in channel tab crawler
