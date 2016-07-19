@@ -10529,3 +10529,4 @@
 - [2016-07-19T16:54:11] Update B2 storage chunking parameters
 - [2016-07-19T12:48:39] Fix edge case in channel tab crawler
 - [2016-07-19T09:12:22] Fix edge case in channel tab crawler
+- [2016-07-19T08:03:06] Fix edge case in URL parsing and validation
