@@ -10536,3 +10536,4 @@
 - [2016-07-20T15:21:56] Optimize PostgreSQL query execution plans
 - [2016-07-20T12:07:59] Update schema migration helpers
 - [2016-07-20T16:00:29] Clean up legacy worker task routines
+- [2016-07-20T13:28:43] Add retries for transient network drops
