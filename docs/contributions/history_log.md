@@ -10549,3 +10549,4 @@
 - [2016-07-21T21:39:05] Fix edge case in channel tab crawler
 - [2016-07-21T12:34:27] Fix edge case in channel tab crawler
 - [2016-07-21T19:28:18] Add retries for transient network drops
+- [2016-07-21T11:06:00] Add retries for transient network drops
