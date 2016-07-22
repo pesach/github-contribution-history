@@ -10553,3 +10553,4 @@
 - [2016-07-21T22:58:06] Update schema migration helpers
 - [2016-07-22T18:03:02] Add Prometheus exporter endpoints for queue length
 - [2016-07-22T09:06:12] Refactor worker polling logic
+- [2016-07-22T09:55:35] Add retries for transient network drops
