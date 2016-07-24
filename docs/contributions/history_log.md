@@ -10563,3 +10563,4 @@
 - [2016-07-23T14:52:34] Improve ffmpeg streaming pipe buffer management
 - [2016-07-24T15:06:06] Improve ffmpeg streaming pipe buffer management
 - [2016-07-24T14:27:34] Add Prometheus exporter endpoints for queue length
+- [2016-07-24T11:00:25] Update B2 storage chunking parameters
