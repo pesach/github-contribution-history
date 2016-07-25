@@ -10569,3 +10569,4 @@
 - [2016-07-25T08:50:15] Update B2 storage chunking parameters
 - [2016-07-25T11:22:59] Implement streaming upload chunk buffer optimization
 - [2016-07-25T13:57:31] Add Prometheus exporter endpoints for queue length
+- [2016-07-25T10:35:35] Clean up legacy worker task routines
