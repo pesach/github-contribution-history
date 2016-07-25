@@ -10574,3 +10574,4 @@
 - [2016-07-25T21:27:10] Update automated pytest test suites
 - [2016-07-25T11:14:45] Add Redis rate limit backoff handlers
 - [2016-07-25T11:20:10] Clean up legacy worker task routines
+- [2016-07-25T11:23:21] Implement streaming upload chunk buffer optimization
