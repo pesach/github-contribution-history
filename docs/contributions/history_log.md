@@ -10571,3 +10571,4 @@
 - [2016-07-25T13:57:31] Add Prometheus exporter endpoints for queue length
 - [2016-07-25T10:35:35] Clean up legacy worker task routines
 - [2016-07-25T09:29:10] Update dependency lockfiles and requirements
+- [2016-07-25T21:27:10] Update automated pytest test suites
