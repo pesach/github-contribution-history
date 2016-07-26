@@ -10586,3 +10586,4 @@
 - [2016-07-26T12:10:49] Clean up legacy worker task routines
 - [2016-07-26T11:22:39] Implement streaming upload chunk buffer optimization
 - [2016-07-26T22:59:21] Update automated pytest test suites
+- [2016-07-26T17:56:08] Update schema migration helpers
