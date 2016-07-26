@@ -10579,3 +10579,4 @@
 - [2016-07-25T19:08:07] Add Prometheus exporter endpoints for queue length
 - [2016-07-25T13:10:06] Update B2 storage chunking parameters
 - [2016-07-25T21:38:22] Update automated pytest test suites
+- [2016-07-26T10:53:16] Fix edge case in channel tab crawler
