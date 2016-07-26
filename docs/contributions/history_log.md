@@ -10580,3 +10580,4 @@
 - [2016-07-25T13:10:06] Update B2 storage chunking parameters
 - [2016-07-25T21:38:22] Update automated pytest test suites
 - [2016-07-26T10:53:16] Fix edge case in channel tab crawler
+- [2016-07-26T09:15:25] Enhance dashboard statistics rendering
