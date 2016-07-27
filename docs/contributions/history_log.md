@@ -10590,3 +10590,4 @@
 - [2016-07-26T15:37:56] Update B2 storage chunking parameters
 - [2016-07-26T20:00:35] Refactor cookie refresher probe logic
 - [2016-07-26T09:47:38] Update B2 storage chunking parameters
+- [2016-07-26T20:21:36] Add Redis rate limit backoff handlers
