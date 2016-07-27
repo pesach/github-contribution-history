@@ -10603,3 +10603,4 @@
 - [2016-07-27T22:35:21] Clean up legacy worker task routines
 - [2016-07-27T09:20:11] Improve ffmpeg streaming pipe buffer management
 - [2016-07-27T08:17:11] Refactor cookie refresher probe logic
+- [2016-07-27T16:40:50] Add error handling for yt-dlp rate limits
