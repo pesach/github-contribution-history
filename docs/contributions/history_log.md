@@ -10601,3 +10601,4 @@
 - [2016-07-27T22:28:04] Clean up legacy worker task routines
 - [2016-07-27T16:23:18] Enhance dashboard statistics rendering
 - [2016-07-27T22:35:21] Clean up legacy worker task routines
+- [2016-07-27T09:20:11] Improve ffmpeg streaming pipe buffer management
