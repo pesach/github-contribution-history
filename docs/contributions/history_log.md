@@ -10588,3 +10588,4 @@
 - [2016-07-26T22:59:21] Update automated pytest test suites
 - [2016-07-26T17:56:08] Update schema migration helpers
 - [2016-07-26T15:37:56] Update B2 storage chunking parameters
+- [2016-07-26T20:00:35] Refactor cookie refresher probe logic
