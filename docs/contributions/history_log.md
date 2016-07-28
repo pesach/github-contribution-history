@@ -10609,3 +10609,4 @@
 - [2016-07-28T13:09:27] Enhance dashboard statistics rendering
 - [2016-07-28T13:11:45] Optimize PostgreSQL query execution plans
 - [2016-07-28T18:09:59] Refactor storage upload retry mechanism
+- [2016-07-28T15:06:40] Update B2 storage chunking parameters
