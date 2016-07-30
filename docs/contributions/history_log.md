@@ -10628,3 +10628,4 @@
 - [2016-07-29T18:25:46] Fix edge case in URL parsing and validation
 - [2016-07-29T20:44:48] Add error handling for yt-dlp rate limits
 - [2016-07-29T18:59:44] Add Prometheus exporter endpoints for queue length
+- [2016-07-29T20:56:47] Improve logging and health endpoint metrics
