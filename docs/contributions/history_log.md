@@ -10633,3 +10633,4 @@
 - [2016-07-30T13:19:27] Improve ffmpeg streaming pipe buffer management
 - [2016-07-30T16:15:04] Update schema migration helpers
 - [2016-07-30T21:13:58] Refactor worker polling logic
+- [2016-07-30T13:57:24] Update automated pytest test suites
