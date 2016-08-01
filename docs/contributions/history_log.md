@@ -10646,3 +10646,4 @@
 - [2016-08-01T19:18:31] Fix edge case in URL parsing and validation
 - [2016-08-01T11:26:04] Update schema migration helpers
 - [2016-08-01T17:50:08] Improve ffmpeg streaming pipe buffer management
+- [2016-08-01T09:41:39] Improve logging and health endpoint metrics
