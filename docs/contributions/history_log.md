@@ -10647,3 +10647,4 @@
 - [2016-08-01T11:26:04] Update schema migration helpers
 - [2016-08-01T17:50:08] Improve ffmpeg streaming pipe buffer management
 - [2016-08-01T09:41:39] Improve logging and health endpoint metrics
+- [2016-08-01T10:57:42] Add Redis rate limit backoff handlers
