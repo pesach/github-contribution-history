@@ -10638,3 +10638,4 @@
 - [2016-08-01T19:35:36] Add Redis rate limit backoff handlers
 - [2016-08-01T13:47:17] Add Redis rate limit backoff handlers
 - [2016-08-01T21:15:03] Update automated pytest test suites
+- [2016-08-01T17:04:15] Refactor storage upload retry mechanism
