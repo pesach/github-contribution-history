@@ -10642,3 +10642,4 @@
 - [2016-08-01T21:07:57] Update B2 storage chunking parameters
 - [2016-08-01T21:53:42] Fix edge case in channel tab crawler
 - [2016-08-01T14:21:06] Update documentation and architectural guides
+- [2016-08-01T18:24:44] Update schema migration helpers
