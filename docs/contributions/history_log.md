@@ -10636,3 +10636,4 @@
 - [2016-07-30T13:57:24] Update automated pytest test suites
 - [2016-07-30T15:30:04] Improve logging and health endpoint metrics
 - [2016-08-01T19:35:36] Add Redis rate limit backoff handlers
+- [2016-08-01T13:47:17] Add Redis rate limit backoff handlers
