@@ -10656,3 +10656,4 @@
 - [2016-08-02T08:12:05] Fix edge case in URL parsing and validation
 - [2016-08-02T21:42:35] Update dependency lockfiles and requirements
 - [2016-08-02T08:17:12] Clean up legacy worker task routines
+- [2016-08-02T16:17:47] Refactor cookie refresher probe logic
