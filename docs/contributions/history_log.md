@@ -10668,3 +10668,4 @@
 - [2016-08-03T12:26:13] Add error handling for yt-dlp rate limits
 - [2016-08-03T21:14:48] Improve ffmpeg streaming pipe buffer management
 - [2016-08-03T19:56:53] Refactor storage upload retry mechanism
+- [2016-08-03T19:44:04] Add Redis rate limit backoff handlers
