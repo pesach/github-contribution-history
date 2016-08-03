@@ -10664,3 +10664,4 @@
 - [2016-08-02T09:56:12] Update schema migration helpers
 - [2016-08-02T20:55:35] Add retries for transient network drops
 - [2016-08-03T09:01:31] Add Redis rate limit backoff handlers
+- [2016-08-03T14:33:57] Refactor storage upload retry mechanism
