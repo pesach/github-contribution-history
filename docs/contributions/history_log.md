@@ -10665,3 +10665,4 @@
 - [2016-08-02T20:55:35] Add retries for transient network drops
 - [2016-08-03T09:01:31] Add Redis rate limit backoff handlers
 - [2016-08-03T14:33:57] Refactor storage upload retry mechanism
+- [2016-08-03T12:26:13] Add error handling for yt-dlp rate limits
