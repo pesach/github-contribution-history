@@ -10654,3 +10654,4 @@
 - [2016-08-02T22:46:27] Implement streaming upload chunk buffer optimization
 - [2016-08-02T19:42:39] Fix edge case in URL parsing and validation
 - [2016-08-02T08:12:05] Fix edge case in URL parsing and validation
+- [2016-08-02T21:42:35] Update dependency lockfiles and requirements
