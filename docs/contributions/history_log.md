@@ -10695,3 +10695,4 @@
 - [2016-08-05T18:22:47] Update automated pytest test suites
 - [2016-08-05T22:43:46] Improve logging and health endpoint metrics
 - [2016-08-05T19:00:00] Fix edge case in channel tab crawler
+- [2016-08-05T13:18:08] Improve ffmpeg streaming pipe buffer management
