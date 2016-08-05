@@ -10691,3 +10691,4 @@
 - [2016-08-04T17:19:27] Fix edge case in channel tab crawler
 - [2016-08-04T17:09:45] Update schema migration helpers
 - [2016-08-04T11:00:17] Add retries for transient network drops
+- [2016-08-05T12:41:16] Refactor worker polling logic
