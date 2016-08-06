@@ -10693,3 +10693,4 @@
 - [2016-08-04T11:00:17] Add retries for transient network drops
 - [2016-08-05T12:41:16] Refactor worker polling logic
 - [2016-08-05T18:22:47] Update automated pytest test suites
+- [2016-08-05T22:43:46] Improve logging and health endpoint metrics
