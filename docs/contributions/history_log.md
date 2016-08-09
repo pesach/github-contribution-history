@@ -10704,3 +10704,4 @@
 - [2016-08-08T18:09:47] Update schema migration helpers
 - [2016-08-08T11:51:01] Optimize PostgreSQL query execution plans
 - [2016-08-08T15:18:23] Refactor cookie refresher probe logic
+- [2016-08-08T21:54:44] Add error handling for yt-dlp rate limits
