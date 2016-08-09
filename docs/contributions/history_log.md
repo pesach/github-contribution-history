@@ -10716,3 +10716,4 @@
 - [2016-08-08T10:57:32] Add retries for transient network drops
 - [2016-08-09T08:17:19] Add Prometheus exporter endpoints for queue length
 - [2016-08-09T13:10:04] Update B2 storage chunking parameters
+- [2016-08-09T19:51:21] Clean up legacy worker task routines
