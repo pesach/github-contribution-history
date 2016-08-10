@@ -10730,3 +10730,4 @@
 - [2016-08-09T10:40:31] Refactor cookie refresher probe logic
 - [2016-08-10T16:55:40] Update schema migration helpers
 - [2016-08-10T18:21:49] Add retries for transient network drops
+- [2016-08-10T17:29:04] Refactor cookie refresher probe logic
