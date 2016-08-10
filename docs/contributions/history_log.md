@@ -10732,3 +10732,4 @@
 - [2016-08-10T18:21:49] Add retries for transient network drops
 - [2016-08-10T17:29:04] Refactor cookie refresher probe logic
 - [2016-08-10T17:30:05] Add Prometheus exporter endpoints for queue length
+- [2016-08-10T08:49:15] Improve logging and health endpoint metrics
