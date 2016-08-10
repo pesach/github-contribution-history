@@ -10728,3 +10728,4 @@
 - [2016-08-09T13:54:56] Implement streaming upload chunk buffer optimization
 - [2016-08-09T19:29:10] Refactor storage upload retry mechanism
 - [2016-08-09T10:40:31] Refactor cookie refresher probe logic
+- [2016-08-10T16:55:40] Update schema migration helpers
