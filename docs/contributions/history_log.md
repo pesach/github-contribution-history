@@ -10737,3 +10737,4 @@
 - [2016-08-10T21:15:15] Add retries for transient network drops
 - [2016-08-10T20:36:29] Add Prometheus exporter endpoints for queue length
 - [2016-08-10T09:03:08] Add Prometheus exporter endpoints for queue length
+- [2016-08-10T12:44:39] Add Prometheus exporter endpoints for queue length
