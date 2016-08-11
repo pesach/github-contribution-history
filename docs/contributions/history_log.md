@@ -10749,3 +10749,4 @@
 - [2016-08-11T20:36:38] Clean up legacy worker task routines
 - [2016-08-11T10:34:33] Update automated pytest test suites
 - [2016-08-11T15:33:06] Add Redis rate limit backoff handlers
+- [2016-08-11T08:42:15] Fix edge case in channel tab crawler
