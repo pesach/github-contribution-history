@@ -10752,3 +10752,4 @@
 - [2016-08-11T08:42:15] Fix edge case in channel tab crawler
 - [2016-08-11T22:04:45] Add retries for transient network drops
 - [2016-08-11T10:35:56] Update automated pytest test suites
+- [2016-08-11T10:10:01] Add Prometheus exporter endpoints for queue length
