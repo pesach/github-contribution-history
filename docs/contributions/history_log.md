@@ -10750,3 +10750,4 @@
 - [2016-08-11T10:34:33] Update automated pytest test suites
 - [2016-08-11T15:33:06] Add Redis rate limit backoff handlers
 - [2016-08-11T08:42:15] Fix edge case in channel tab crawler
+- [2016-08-11T22:04:45] Add retries for transient network drops
