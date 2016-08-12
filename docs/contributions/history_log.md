@@ -10758,3 +10758,4 @@
 - [2016-08-11T14:58:14] Refactor cookie refresher probe logic
 - [2016-08-12T13:22:29] Update dependency lockfiles and requirements
 - [2016-08-12T13:20:14] Refactor cookie refresher probe logic
+- [2016-08-12T16:31:13] Improve logging and health endpoint metrics
