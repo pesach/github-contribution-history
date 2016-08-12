@@ -10742,3 +10742,4 @@
 - [2016-08-10T12:16:48] Add retries for transient network drops
 - [2016-08-10T20:50:52] Fix edge case in URL parsing and validation
 - [2016-08-10T16:02:59] Update automated pytest test suites
+- [2016-08-11T20:59:22] Refactor worker polling logic
