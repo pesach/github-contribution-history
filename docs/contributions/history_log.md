@@ -10756,3 +10756,4 @@
 - [2016-08-11T18:59:07] Add Prometheus exporter endpoints for queue length
 - [2016-08-11T08:41:04] Improve ffmpeg streaming pipe buffer management
 - [2016-08-11T14:58:14] Refactor cookie refresher probe logic
+- [2016-08-12T13:22:29] Update dependency lockfiles and requirements
