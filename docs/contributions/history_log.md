@@ -10765,3 +10765,4 @@
 - [2016-08-12T20:43:16] Update schema migration helpers
 - [2016-08-12T10:00:05] Improve logging and health endpoint metrics
 - [2016-08-12T16:51:05] Improve ffmpeg streaming pipe buffer management
+- [2016-08-12T19:25:23] Refactor worker polling logic
