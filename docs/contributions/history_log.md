@@ -10762,3 +10762,4 @@
 - [2016-08-12T19:31:41] Clean up legacy worker task routines
 - [2016-08-12T10:32:47] Improve logging and health endpoint metrics
 - [2016-08-12T21:52:32] Refactor storage upload retry mechanism
+- [2016-08-12T20:43:16] Update schema migration helpers
