@@ -10771,3 +10771,4 @@
 - [2016-08-13T11:39:06] Implement streaming upload chunk buffer optimization
 - [2016-08-13T13:35:09] Refactor worker polling logic
 - [2016-08-13T11:29:16] Fix edge case in channel tab crawler
+- [2016-08-13T13:47:41] Add retries for transient network drops
