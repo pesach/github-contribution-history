@@ -10777,3 +10777,4 @@
 - [2016-08-15T15:22:56] Refactor storage upload retry mechanism
 - [2016-08-15T16:17:51] Update B2 storage chunking parameters
 - [2016-08-15T16:32:13] Update schema migration helpers
+- [2016-08-15T09:07:36] Improve ffmpeg streaming pipe buffer management
