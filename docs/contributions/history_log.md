@@ -10780,3 +10780,4 @@
 - [2016-08-15T09:07:36] Improve ffmpeg streaming pipe buffer management
 - [2016-08-15T09:26:55] Add Prometheus exporter endpoints for queue length
 - [2016-08-15T22:59:34] Update automated pytest test suites
+- [2016-08-16T08:09:12] Fix edge case in channel tab crawler
