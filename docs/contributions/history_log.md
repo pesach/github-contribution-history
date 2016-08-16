@@ -10779,3 +10779,4 @@
 - [2016-08-15T16:32:13] Update schema migration helpers
 - [2016-08-15T09:07:36] Improve ffmpeg streaming pipe buffer management
 - [2016-08-15T09:26:55] Add Prometheus exporter endpoints for queue length
+- [2016-08-15T22:59:34] Update automated pytest test suites
