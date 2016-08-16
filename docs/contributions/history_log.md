@@ -10773,3 +10773,4 @@
 - [2016-08-13T11:29:16] Fix edge case in channel tab crawler
 - [2016-08-13T13:47:41] Add retries for transient network drops
 - [2016-08-13T17:09:43] Update documentation and architectural guides
+- [2016-08-15T21:03:24] Improve ffmpeg streaming pipe buffer management
