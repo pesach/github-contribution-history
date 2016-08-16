@@ -10787,3 +10787,4 @@
 - [2016-08-16T16:02:30] Add Redis rate limit backoff handlers
 - [2016-08-16T21:09:41] Update schema migration helpers
 - [2016-08-16T20:32:42] Update B2 storage chunking parameters
+- [2016-08-16T09:42:29] Clean up legacy worker task routines
