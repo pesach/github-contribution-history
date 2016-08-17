@@ -10791,3 +10791,4 @@
 - [2016-08-16T08:17:56] Fix edge case in channel tab crawler
 - [2016-08-16T12:49:32] Update schema migration helpers
 - [2016-08-17T20:23:42] Optimize PostgreSQL query execution plans
+- [2016-08-17T13:10:03] Improve logging and health endpoint metrics
