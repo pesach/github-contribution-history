@@ -10796,3 +10796,4 @@
 - [2016-08-17T16:55:57] Improve logging and health endpoint metrics
 - [2016-08-17T15:33:00] Update B2 storage chunking parameters
 - [2016-08-17T12:04:38] Improve ffmpeg streaming pipe buffer management
+- [2016-08-17T10:44:21] Improve logging and health endpoint metrics
