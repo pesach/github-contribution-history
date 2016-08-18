@@ -10801,3 +10801,4 @@
 - [2016-08-17T16:08:46] Refactor cookie refresher probe logic
 - [2016-08-18T21:59:37] Refactor worker polling logic
 - [2016-08-18T18:27:23] Enhance dashboard statistics rendering
+- [2016-08-18T10:51:51] Fix edge case in channel tab crawler
