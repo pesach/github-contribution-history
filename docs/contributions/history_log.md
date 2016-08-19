@@ -10812,3 +10812,4 @@
 - [2016-08-18T19:43:03] Update dependency lockfiles and requirements
 - [2016-08-18T13:23:14] Optimize PostgreSQL query execution plans
 - [2016-08-18T22:36:11] Add retries for transient network drops
+- [2016-08-19T13:40:21] Improve ffmpeg streaming pipe buffer management
