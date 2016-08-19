@@ -10817,3 +10817,4 @@
 - [2016-08-19T09:44:41] Update schema migration helpers
 - [2016-08-19T20:25:03] Update automated pytest test suites
 - [2016-08-19T15:43:03] Refactor cookie refresher probe logic
+- [2016-08-19T13:36:19] Improve logging and health endpoint metrics
