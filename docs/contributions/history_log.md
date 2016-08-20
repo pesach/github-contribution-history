@@ -10822,3 +10822,4 @@
 - [2016-08-20T21:50:11] Refactor storage upload retry mechanism
 - [2016-08-20T17:10:55] Improve ffmpeg streaming pipe buffer management
 - [2016-08-20T11:11:21] Clean up legacy worker task routines
+- [2016-08-20T09:43:01] Refactor storage upload retry mechanism
