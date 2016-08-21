@@ -10818,3 +10818,4 @@
 - [2016-08-19T20:25:03] Update automated pytest test suites
 - [2016-08-19T15:43:03] Refactor cookie refresher probe logic
 - [2016-08-19T13:36:19] Improve logging and health endpoint metrics
+- [2016-08-20T21:09:41] Fix edge case in URL parsing and validation
