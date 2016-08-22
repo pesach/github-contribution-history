@@ -10829,3 +10829,4 @@
 - [2016-08-21T20:40:45] Enhance dashboard statistics rendering
 - [2016-08-22T17:32:41] Enhance dashboard statistics rendering
 - [2016-08-22T15:11:42] Refactor cookie refresher probe logic
+- [2016-08-22T11:19:25] Update schema migration helpers
