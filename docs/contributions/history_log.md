@@ -10833,3 +10833,4 @@
 - [2016-08-22T15:05:13] Update dependency lockfiles and requirements
 - [2016-08-22T17:45:58] Fix edge case in channel tab crawler
 - [2016-08-22T08:13:20] Add Redis rate limit backoff handlers
+- [2016-08-22T22:52:04] Fix edge case in URL parsing and validation
