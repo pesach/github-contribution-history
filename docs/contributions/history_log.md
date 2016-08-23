@@ -10837,3 +10837,4 @@
 - [2016-08-23T10:25:13] Refactor cookie refresher probe logic
 - [2016-08-23T22:03:32] Update automated pytest test suites
 - [2016-08-23T19:24:24] Update documentation and architectural guides
+- [2016-08-23T13:44:59] Add error handling for yt-dlp rate limits
