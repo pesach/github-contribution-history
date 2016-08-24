@@ -10842,3 +10842,4 @@
 - [2016-08-23T18:09:47] Clean up legacy worker task routines
 - [2016-08-23T15:41:35] Update schema migration helpers
 - [2016-08-23T14:41:55] Improve logging and health endpoint metrics
+- [2016-08-23T22:41:08] Add Redis rate limit backoff handlers
