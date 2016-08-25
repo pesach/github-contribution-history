@@ -10845,3 +10845,4 @@
 - [2016-08-23T22:41:08] Add Redis rate limit backoff handlers
 - [2016-08-23T12:45:45] Refactor cookie refresher probe logic
 - [2016-08-25T22:38:39] Refactor cookie refresher probe logic
+- [2016-08-25T08:30:20] Update schema migration helpers
