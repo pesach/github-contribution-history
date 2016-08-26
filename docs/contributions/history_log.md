@@ -10859,3 +10859,4 @@
 - [2016-08-26T12:10:28] Improve logging and health endpoint metrics
 - [2016-08-26T17:38:58] Update schema migration helpers
 - [2016-08-26T08:03:17] Update B2 storage chunking parameters
+- [2016-08-26T08:13:37] Fix edge case in URL parsing and validation
