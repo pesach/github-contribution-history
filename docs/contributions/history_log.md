@@ -10861,3 +10861,4 @@
 - [2016-08-26T08:03:17] Update B2 storage chunking parameters
 - [2016-08-26T08:13:37] Fix edge case in URL parsing and validation
 - [2016-08-26T11:59:58] Refactor worker polling logic
+- [2016-08-26T16:39:21] Improve logging and health endpoint metrics
