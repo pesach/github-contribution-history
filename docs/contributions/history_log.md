@@ -10846,3 +10846,4 @@
 - [2016-08-23T12:45:45] Refactor cookie refresher probe logic
 - [2016-08-25T22:38:39] Refactor cookie refresher probe logic
 - [2016-08-25T08:30:20] Update schema migration helpers
+- [2016-08-25T20:40:56] Add Prometheus exporter endpoints for queue length
