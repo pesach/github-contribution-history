@@ -10858,3 +10858,4 @@
 - [2016-08-26T12:16:13] Add retries for transient network drops
 - [2016-08-26T12:10:28] Improve logging and health endpoint metrics
 - [2016-08-26T17:38:58] Update schema migration helpers
+- [2016-08-26T08:03:17] Update B2 storage chunking parameters
