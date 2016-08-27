@@ -10862,3 +10862,4 @@
 - [2016-08-26T08:13:37] Fix edge case in URL parsing and validation
 - [2016-08-26T11:59:58] Refactor worker polling logic
 - [2016-08-26T16:39:21] Improve logging and health endpoint metrics
+- [2016-08-26T21:23:02] Add Redis rate limit backoff handlers
