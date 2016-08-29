@@ -10885,3 +10885,4 @@
 - [2016-08-29T18:16:43] Improve logging and health endpoint metrics
 - [2016-08-29T10:00:26] Enhance dashboard statistics rendering
 - [2016-08-29T08:28:58] Update dependency lockfiles and requirements
+- [2016-08-29T08:23:45] Improve ffmpeg streaming pipe buffer management
