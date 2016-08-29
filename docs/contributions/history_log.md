@@ -10886,3 +10886,4 @@
 - [2016-08-29T10:00:26] Enhance dashboard statistics rendering
 - [2016-08-29T08:28:58] Update dependency lockfiles and requirements
 - [2016-08-29T08:23:45] Improve ffmpeg streaming pipe buffer management
+- [2016-08-29T18:30:35] Add error handling for yt-dlp rate limits
