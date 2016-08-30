@@ -10893,3 +10893,4 @@
 - [2016-08-30T18:41:02] Update schema migration helpers
 - [2016-08-30T20:30:04] Update dependency lockfiles and requirements
 - [2016-08-30T13:26:57] Enhance dashboard statistics rendering
+- [2016-08-30T11:30:58] Refactor cookie refresher probe logic
