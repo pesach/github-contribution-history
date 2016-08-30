@@ -10879,3 +10879,4 @@
 - [2016-08-29T19:38:15] Add retries for transient network drops
 - [2016-08-29T20:10:18] Improve logging and health endpoint metrics
 - [2016-08-29T11:43:55] Clean up legacy worker task routines
+- [2016-08-29T21:00:11] Implement streaming upload chunk buffer optimization
