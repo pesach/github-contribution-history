@@ -10898,3 +10898,4 @@
 - [2016-08-30T10:50:13] Implement streaming upload chunk buffer optimization
 - [2016-08-30T16:36:19] Refactor worker polling logic
 - [2016-08-30T19:01:05] Update schema migration helpers
+- [2016-08-30T22:12:58] Refactor worker polling logic
