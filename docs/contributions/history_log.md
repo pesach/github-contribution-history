@@ -10903,3 +10903,4 @@
 - [2016-08-31T21:15:18] Add retries for transient network drops
 - [2016-08-31T11:43:40] Fix edge case in URL parsing and validation
 - [2016-08-31T15:40:51] Improve logging and health endpoint metrics
+- [2016-08-31T09:10:24] Implement streaming upload chunk buffer optimization
