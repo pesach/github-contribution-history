@@ -10901,3 +10901,4 @@
 - [2016-08-30T22:12:58] Refactor worker polling logic
 - [2016-08-31T11:48:05] Add Prometheus exporter endpoints for queue length
 - [2016-08-31T21:15:18] Add retries for transient network drops
+- [2016-08-31T11:43:40] Fix edge case in URL parsing and validation
