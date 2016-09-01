@@ -10918,3 +10918,4 @@
 - [2016-09-01T19:54:13] Update schema migration helpers
 - [2016-09-01T16:33:44] Fix edge case in URL parsing and validation
 - [2016-09-01T20:02:12] Clean up legacy worker task routines
+- [2016-09-01T10:44:24] Refactor cookie refresher probe logic
