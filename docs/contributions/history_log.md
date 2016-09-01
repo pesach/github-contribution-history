@@ -10913,3 +10913,4 @@
 - [2016-09-01T16:11:11] Update automated pytest test suites
 - [2016-09-01T22:47:42] Optimize PostgreSQL query execution plans
 - [2016-09-01T12:44:29] Clean up legacy worker task routines
+- [2016-09-01T17:07:10] Add Redis rate limit backoff handlers
