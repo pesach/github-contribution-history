@@ -10926,3 +10926,4 @@
 - [2016-09-02T19:44:29] Improve logging and health endpoint metrics
 - [2016-09-02T17:49:58] Fix edge case in channel tab crawler
 - [2016-09-02T10:16:39] Implement streaming upload chunk buffer optimization
+- [2016-09-02T10:49:48] Add Prometheus exporter endpoints for queue length
