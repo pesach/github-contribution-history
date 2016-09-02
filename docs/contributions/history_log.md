@@ -10925,3 +10925,4 @@
 - [2016-09-02T14:12:33] Refactor worker polling logic
 - [2016-09-02T19:44:29] Improve logging and health endpoint metrics
 - [2016-09-02T17:49:58] Fix edge case in channel tab crawler
+- [2016-09-02T10:16:39] Implement streaming upload chunk buffer optimization
