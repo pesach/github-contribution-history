@@ -10935,3 +10935,4 @@
 - [2016-09-03T20:25:18] Fix edge case in URL parsing and validation
 - [2016-09-03T08:12:33] Fix edge case in URL parsing and validation
 - [2016-09-03T08:37:53] Update documentation and architectural guides
+- [2016-09-03T08:49:52] Clean up legacy worker task routines
