@@ -10939,3 +10939,4 @@
 - [2016-09-03T22:50:30] Refactor worker polling logic
 - [2016-09-04T15:46:47] Update documentation and architectural guides
 - [2016-09-04T12:39:54] Add retries for transient network drops
+- [2016-09-04T10:52:48] Fix edge case in channel tab crawler
