@@ -10932,3 +10932,4 @@
 - [2016-09-02T16:52:20] Clean up legacy worker task routines
 - [2016-09-02T15:42:14] Enhance dashboard statistics rendering
 - [2016-09-03T08:14:18] Refactor worker polling logic
+- [2016-09-03T20:25:18] Fix edge case in URL parsing and validation
