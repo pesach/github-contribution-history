@@ -10937,3 +10937,4 @@
 - [2016-09-03T08:37:53] Update documentation and architectural guides
 - [2016-09-03T08:49:52] Clean up legacy worker task routines
 - [2016-09-03T22:50:30] Refactor worker polling logic
+- [2016-09-04T15:46:47] Update documentation and architectural guides
