@@ -10942,3 +10942,4 @@
 - [2016-09-04T10:52:48] Fix edge case in channel tab crawler
 - [2016-09-04T12:55:29] Fix edge case in channel tab crawler
 - [2016-09-04T15:12:36] Fix edge case in channel tab crawler
+- [2016-09-05T15:44:31] Enhance dashboard statistics rendering
