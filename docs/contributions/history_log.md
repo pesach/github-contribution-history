@@ -10949,3 +10949,4 @@
 - [2016-09-05T13:16:20] Implement streaming upload chunk buffer optimization
 - [2016-09-05T09:41:47] Update B2 storage chunking parameters
 - [2016-09-05T16:20:42] Fix edge case in URL parsing and validation
+- [2016-09-05T19:08:46] Update schema migration helpers
