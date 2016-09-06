@@ -10944,3 +10944,4 @@
 - [2016-09-04T15:12:36] Fix edge case in channel tab crawler
 - [2016-09-05T15:44:31] Enhance dashboard statistics rendering
 - [2016-09-05T21:48:08] Update documentation and architectural guides
+- [2016-09-05T22:00:08] Update schema migration helpers
