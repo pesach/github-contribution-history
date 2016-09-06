@@ -10958,3 +10958,4 @@
 - [2016-09-06T11:08:38] Add Prometheus exporter endpoints for queue length
 - [2016-09-06T18:43:31] Fix edge case in URL parsing and validation
 - [2016-09-06T13:15:13] Refactor worker polling logic
+- [2016-09-06T14:34:41] Optimize PostgreSQL query execution plans
