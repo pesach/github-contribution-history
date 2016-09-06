@@ -10956,3 +10956,4 @@
 - [2016-09-05T22:25:34] Implement streaming upload chunk buffer optimization
 - [2016-09-06T22:33:24] Add Redis rate limit backoff handlers
 - [2016-09-06T11:08:38] Add Prometheus exporter endpoints for queue length
+- [2016-09-06T18:43:31] Fix edge case in URL parsing and validation
