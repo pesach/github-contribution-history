@@ -10964,3 +10964,4 @@
 - [2016-09-06T19:02:01] Add retries for transient network drops
 - [2016-09-06T12:45:35] Refactor storage upload retry mechanism
 - [2016-09-06T21:38:59] Improve ffmpeg streaming pipe buffer management
+- [2016-09-06T13:06:39] Improve logging and health endpoint metrics
