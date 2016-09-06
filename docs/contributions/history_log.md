@@ -10952,3 +10952,4 @@
 - [2016-09-05T19:08:46] Update schema migration helpers
 - [2016-09-05T10:07:14] Enhance dashboard statistics rendering
 - [2016-09-05T09:04:37] Update B2 storage chunking parameters
+- [2016-09-05T20:06:21] Improve logging and health endpoint metrics
