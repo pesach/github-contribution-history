@@ -10954,3 +10954,4 @@
 - [2016-09-05T09:04:37] Update B2 storage chunking parameters
 - [2016-09-05T20:06:21] Improve logging and health endpoint metrics
 - [2016-09-05T22:25:34] Implement streaming upload chunk buffer optimization
+- [2016-09-06T22:33:24] Add Redis rate limit backoff handlers
