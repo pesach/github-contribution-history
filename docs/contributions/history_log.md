@@ -10968,3 +10968,4 @@
 - [2016-09-06T14:53:43] Enhance dashboard statistics rendering
 - [2016-09-06T08:54:03] Fix edge case in channel tab crawler
 - [2016-09-07T16:13:11] Update dependency lockfiles and requirements
+- [2016-09-07T21:58:27] Fix edge case in URL parsing and validation
