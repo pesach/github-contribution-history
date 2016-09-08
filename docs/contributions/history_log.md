@@ -10978,3 +10978,4 @@
 - [2016-09-07T22:13:06] Add Redis rate limit backoff handlers
 - [2016-09-08T20:31:25] Refactor cookie refresher probe logic
 - [2016-09-08T14:18:51] Fix edge case in URL parsing and validation
+- [2016-09-08T19:54:11] Improve ffmpeg streaming pipe buffer management
