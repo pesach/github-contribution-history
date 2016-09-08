@@ -10970,3 +10970,4 @@
 - [2016-09-07T16:13:11] Update dependency lockfiles and requirements
 - [2016-09-07T21:58:27] Fix edge case in URL parsing and validation
 - [2016-09-07T20:58:59] Update automated pytest test suites
+- [2016-09-07T21:53:11] Update documentation and architectural guides
