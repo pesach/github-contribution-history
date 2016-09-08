@@ -10980,3 +10980,4 @@
 - [2016-09-08T14:18:51] Fix edge case in URL parsing and validation
 - [2016-09-08T19:54:11] Improve ffmpeg streaming pipe buffer management
 - [2016-09-08T18:37:47] Add retries for transient network drops
+- [2016-09-08T10:58:33] Optimize PostgreSQL query execution plans
