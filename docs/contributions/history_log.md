@@ -10973,3 +10973,4 @@
 - [2016-09-07T21:53:11] Update documentation and architectural guides
 - [2016-09-07T08:01:36] Update automated pytest test suites
 - [2016-09-07T09:48:50] Improve ffmpeg streaming pipe buffer management
+- [2016-09-07T22:22:41] Update documentation and architectural guides
