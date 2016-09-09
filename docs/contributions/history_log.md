@@ -10984,3 +10984,4 @@
 - [2016-09-08T16:42:59] Update automated pytest test suites
 - [2016-09-08T16:48:37] Enhance dashboard statistics rendering
 - [2016-09-08T10:56:55] Refactor cookie refresher probe logic
+- [2016-09-09T15:22:19] Fix edge case in channel tab crawler
