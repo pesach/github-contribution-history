@@ -10987,3 +10987,4 @@
 - [2016-09-09T15:22:19] Fix edge case in channel tab crawler
 - [2016-09-09T20:43:12] Update automated pytest test suites
 - [2016-09-09T20:05:54] Refactor storage upload retry mechanism
+- [2016-09-09T20:52:24] Add error handling for yt-dlp rate limits
