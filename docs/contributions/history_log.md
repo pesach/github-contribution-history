@@ -10992,3 +10992,4 @@
 - [2016-09-09T22:12:33] Add Prometheus exporter endpoints for queue length
 - [2016-09-09T20:56:28] Update B2 storage chunking parameters
 - [2016-09-09T18:31:21] Optimize PostgreSQL query execution plans
+- [2016-09-09T21:44:04] Improve logging and health endpoint metrics
