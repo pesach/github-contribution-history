@@ -10988,3 +10988,4 @@
 - [2016-09-09T20:43:12] Update automated pytest test suites
 - [2016-09-09T20:05:54] Refactor storage upload retry mechanism
 - [2016-09-09T20:52:24] Add error handling for yt-dlp rate limits
+- [2016-09-09T21:39:25] Add Prometheus exporter endpoints for queue length
