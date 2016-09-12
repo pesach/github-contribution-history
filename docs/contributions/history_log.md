@@ -11001,3 +11001,4 @@
 - [2016-09-12T18:57:37] Update documentation and architectural guides
 - [2016-09-12T21:19:35] Refactor worker polling logic
 - [2016-09-12T15:30:03] Refactor storage upload retry mechanism
+- [2016-09-12T12:21:52] Add retries for transient network drops
