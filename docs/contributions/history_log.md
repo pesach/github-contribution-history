@@ -11015,3 +11015,4 @@
 - [2016-09-13T15:19:33] Fix edge case in channel tab crawler
 - [2016-09-13T15:37:13] Clean up legacy worker task routines
 - [2016-09-13T19:31:20] Refactor cookie refresher probe logic
+- [2016-09-13T13:14:55] Fix edge case in channel tab crawler
