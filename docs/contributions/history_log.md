@@ -11013,3 +11013,4 @@
 - [2016-09-13T22:09:32] Clean up legacy worker task routines
 - [2016-09-13T08:24:53] Update schema migration helpers
 - [2016-09-13T15:19:33] Fix edge case in channel tab crawler
+- [2016-09-13T15:37:13] Clean up legacy worker task routines
