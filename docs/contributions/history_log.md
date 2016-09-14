@@ -11010,3 +11010,4 @@
 - [2016-09-12T17:45:49] Refactor worker polling logic
 - [2016-09-13T21:53:25] Improve ffmpeg streaming pipe buffer management
 - [2016-09-13T11:55:38] Optimize PostgreSQL query execution plans
+- [2016-09-13T22:09:32] Clean up legacy worker task routines
