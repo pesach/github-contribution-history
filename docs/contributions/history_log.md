@@ -11020,3 +11020,4 @@
 - [2016-09-14T10:48:11] Improve logging and health endpoint metrics
 - [2016-09-14T22:29:35] Update dependency lockfiles and requirements
 - [2016-09-14T17:56:15] Clean up legacy worker task routines
+- [2016-09-14T15:39:17] Fix edge case in URL parsing and validation
