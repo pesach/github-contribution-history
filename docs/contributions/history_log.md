@@ -11022,3 +11022,4 @@
 - [2016-09-14T17:56:15] Clean up legacy worker task routines
 - [2016-09-14T15:39:17] Fix edge case in URL parsing and validation
 - [2016-09-14T19:21:06] Fix edge case in channel tab crawler
+- [2016-09-14T08:37:22] Improve logging and health endpoint metrics
