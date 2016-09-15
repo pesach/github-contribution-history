@@ -11029,3 +11029,4 @@
 - [2016-09-15T08:42:41] Update schema migration helpers
 - [2016-09-15T12:53:51] Add Prometheus exporter endpoints for queue length
 - [2016-09-15T16:02:41] Fix edge case in URL parsing and validation
+- [2016-09-15T09:36:52] Update documentation and architectural guides
