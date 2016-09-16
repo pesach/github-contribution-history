@@ -11035,3 +11035,4 @@
 - [2016-09-16T09:01:13] Refactor worker polling logic
 - [2016-09-16T22:50:42] Update dependency lockfiles and requirements
 - [2016-09-16T08:56:22] Update schema migration helpers
+- [2016-09-16T09:25:59] Add Redis rate limit backoff handlers
