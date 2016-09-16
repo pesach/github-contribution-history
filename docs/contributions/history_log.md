@@ -11039,3 +11039,4 @@
 - [2016-09-16T19:47:20] Add Redis rate limit backoff handlers
 - [2016-09-16T22:01:56] Enhance dashboard statistics rendering
 - [2016-09-16T08:16:22] Add Prometheus exporter endpoints for queue length
+- [2016-09-16T09:49:42] Refactor storage upload retry mechanism
