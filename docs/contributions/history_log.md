@@ -11041,3 +11041,4 @@
 - [2016-09-16T08:16:22] Add Prometheus exporter endpoints for queue length
 - [2016-09-16T09:49:42] Refactor storage upload retry mechanism
 - [2016-09-16T15:18:03] Fix edge case in URL parsing and validation
+- [2016-09-16T21:15:03] Optimize PostgreSQL query execution plans
