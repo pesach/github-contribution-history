@@ -11045,3 +11045,4 @@
 - [2016-09-16T12:49:01] Improve logging and health endpoint metrics
 - [2016-09-16T11:22:51] Add retries for transient network drops
 - [2016-09-17T20:00:48] Add retries for transient network drops
+- [2016-09-17T13:36:16] Refactor storage upload retry mechanism
