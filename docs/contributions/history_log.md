@@ -11033,3 +11033,4 @@
 - [2016-09-16T15:01:48] Add Prometheus exporter endpoints for queue length
 - [2016-09-16T20:47:58] Update automated pytest test suites
 - [2016-09-16T09:01:13] Refactor worker polling logic
+- [2016-09-16T22:50:42] Update dependency lockfiles and requirements
