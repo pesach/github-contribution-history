@@ -11051,3 +11051,4 @@
 - [2016-09-19T14:19:25] Update automated pytest test suites
 - [2016-09-19T15:31:43] Fix edge case in URL parsing and validation
 - [2016-09-19T19:54:26] Update B2 storage chunking parameters
+- [2016-09-19T19:52:43] Improve logging and health endpoint metrics
