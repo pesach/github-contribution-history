@@ -11050,3 +11050,4 @@
 - [2016-09-17T16:20:16] Clean up legacy worker task routines
 - [2016-09-19T14:19:25] Update automated pytest test suites
 - [2016-09-19T15:31:43] Fix edge case in URL parsing and validation
+- [2016-09-19T19:54:26] Update B2 storage chunking parameters
