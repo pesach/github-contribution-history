@@ -11054,3 +11054,4 @@
 - [2016-09-19T19:52:43] Improve logging and health endpoint metrics
 - [2016-09-19T22:08:44] Update dependency lockfiles and requirements
 - [2016-09-19T12:09:32] Improve logging and health endpoint metrics
+- [2016-09-21T19:37:22] Improve ffmpeg streaming pipe buffer management
