@@ -11069,3 +11069,4 @@
 - [2016-09-22T19:00:31] Update documentation and architectural guides
 - [2016-09-22T21:49:01] Refactor cookie refresher probe logic
 - [2016-09-22T18:20:19] Implement streaming upload chunk buffer optimization
+- [2016-09-22T17:14:56] Add Prometheus exporter endpoints for queue length
