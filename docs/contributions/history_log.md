@@ -11082,3 +11082,4 @@
 - [2016-09-23T21:48:35] Update dependency lockfiles and requirements
 - [2016-09-23T19:15:49] Add retries for transient network drops
 - [2016-09-23T17:54:31] Add retries for transient network drops
+- [2016-09-23T18:30:33] Update documentation and architectural guides
