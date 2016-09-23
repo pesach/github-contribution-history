@@ -11067,3 +11067,4 @@
 - [2016-09-22T09:29:43] Update documentation and architectural guides
 - [2016-09-22T17:48:23] Refactor storage upload retry mechanism
 - [2016-09-22T19:00:31] Update documentation and architectural guides
+- [2016-09-22T21:49:01] Refactor cookie refresher probe logic
