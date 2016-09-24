@@ -11078,3 +11078,4 @@
 - [2016-09-23T15:06:21] Improve logging and health endpoint metrics
 - [2016-09-23T11:20:56] Improve logging and health endpoint metrics
 - [2016-09-23T09:57:24] Update documentation and architectural guides
+- [2016-09-23T22:21:08] Add error handling for yt-dlp rate limits
