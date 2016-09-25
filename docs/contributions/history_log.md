@@ -11090,3 +11090,4 @@
 - [2016-09-24T12:42:00] Update schema migration helpers
 - [2016-09-24T22:53:02] Update dependency lockfiles and requirements
 - [2016-09-25T17:14:36] Add retries for transient network drops
+- [2016-09-25T17:40:08] Add error handling for yt-dlp rate limits
