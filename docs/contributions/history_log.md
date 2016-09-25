@@ -11086,3 +11086,4 @@
 - [2016-09-23T18:16:16] Enhance dashboard statistics rendering
 - [2016-09-23T11:06:55] Fix edge case in channel tab crawler
 - [2016-09-24T19:29:15] Clean up legacy worker task routines
+- [2016-09-24T20:18:03] Enhance dashboard statistics rendering
