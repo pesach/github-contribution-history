@@ -11089,3 +11089,4 @@
 - [2016-09-24T20:18:03] Enhance dashboard statistics rendering
 - [2016-09-24T12:42:00] Update schema migration helpers
 - [2016-09-24T22:53:02] Update dependency lockfiles and requirements
+- [2016-09-25T17:14:36] Add retries for transient network drops
