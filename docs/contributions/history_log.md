@@ -11098,3 +11098,4 @@
 - [2016-09-26T12:39:52] Fix edge case in URL parsing and validation
 - [2016-09-26T09:58:41] Clean up legacy worker task routines
 - [2016-09-26T17:52:12] Refactor cookie refresher probe logic
+- [2016-09-26T08:48:03] Add Prometheus exporter endpoints for queue length
