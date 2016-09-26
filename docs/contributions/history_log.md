@@ -11105,3 +11105,4 @@
 - [2016-09-26T19:00:49] Add Redis rate limit backoff handlers
 - [2016-09-26T12:13:18] Update schema migration helpers
 - [2016-09-26T11:20:23] Refactor worker polling logic
+- [2016-09-26T10:29:49] Refactor cookie refresher probe logic
