@@ -11114,3 +11114,4 @@
 - [2016-09-27T17:22:46] Clean up legacy worker task routines
 - [2016-09-27T12:13:17] Implement streaming upload chunk buffer optimization
 - [2016-09-27T22:38:49] Update documentation and architectural guides
+- [2016-09-27T09:41:22] Add Redis rate limit backoff handlers
