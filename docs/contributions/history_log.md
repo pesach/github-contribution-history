@@ -11128,3 +11128,4 @@
 - [2016-09-28T11:36:52] Refactor cookie refresher probe logic
 - [2016-09-28T08:49:59] Refactor storage upload retry mechanism
 - [2016-09-28T22:36:51] Refactor worker polling logic
+- [2016-09-28T12:35:46] Fix edge case in channel tab crawler
