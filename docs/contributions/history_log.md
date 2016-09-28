@@ -11126,3 +11126,4 @@
 - [2016-09-28T12:06:54] Update schema migration helpers
 - [2016-09-28T12:29:45] Improve logging and health endpoint metrics
 - [2016-09-28T11:36:52] Refactor cookie refresher probe logic
+- [2016-09-28T08:49:59] Refactor storage upload retry mechanism
