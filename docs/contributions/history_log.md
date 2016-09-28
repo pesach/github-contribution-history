@@ -11116,3 +11116,4 @@
 - [2016-09-27T22:38:49] Update documentation and architectural guides
 - [2016-09-27T09:41:22] Add Redis rate limit backoff handlers
 - [2016-09-27T11:23:09] Implement streaming upload chunk buffer optimization
+- [2016-09-28T09:57:22] Refactor storage upload retry mechanism
