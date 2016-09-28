@@ -11122,3 +11122,4 @@
 - [2016-09-28T19:22:03] Add retries for transient network drops
 - [2016-09-28T11:32:41] Update dependency lockfiles and requirements
 - [2016-09-28T17:32:26] Add Prometheus exporter endpoints for queue length
+- [2016-09-28T13:17:06] Refactor storage upload retry mechanism
