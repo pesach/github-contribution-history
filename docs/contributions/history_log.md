@@ -11131,3 +11131,4 @@
 - [2016-09-28T12:35:46] Fix edge case in channel tab crawler
 - [2016-09-28T15:44:15] Update documentation and architectural guides
 - [2016-09-29T15:56:31] Update documentation and architectural guides
+- [2016-09-29T13:18:29] Update schema migration helpers
