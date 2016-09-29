@@ -11135,3 +11135,4 @@
 - [2016-09-29T20:38:18] Improve logging and health endpoint metrics
 - [2016-09-29T10:04:58] Update automated pytest test suites
 - [2016-09-29T19:24:04] Update automated pytest test suites
+- [2016-09-29T16:55:54] Refactor storage upload retry mechanism
