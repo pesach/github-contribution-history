@@ -11141,3 +11141,4 @@
 - [2016-09-29T20:01:31] Improve logging and health endpoint metrics
 - [2016-09-30T09:40:56] Refactor worker polling logic
 - [2016-09-30T17:28:35] Improve ffmpeg streaming pipe buffer management
+- [2016-09-30T16:31:57] Add retries for transient network drops
