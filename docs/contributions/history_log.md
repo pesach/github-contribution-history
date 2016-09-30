@@ -11150,3 +11150,4 @@
 - [2016-09-30T18:25:11] Update documentation and architectural guides
 - [2016-09-30T13:02:23] Improve ffmpeg streaming pipe buffer management
 - [2016-09-30T16:38:36] Improve logging and health endpoint metrics
+- [2016-09-30T09:50:08] Refactor cookie refresher probe logic
