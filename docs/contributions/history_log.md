@@ -11155,3 +11155,4 @@
 - [2016-10-01T12:21:19] Update schema migration helpers
 - [2016-10-01T18:56:39] Enhance dashboard statistics rendering
 - [2016-10-01T18:23:39] Update documentation and architectural guides
+- [2016-10-01T16:30:55] Fix edge case in URL parsing and validation
