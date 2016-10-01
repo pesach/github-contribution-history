@@ -11156,3 +11156,4 @@
 - [2016-10-01T18:56:39] Enhance dashboard statistics rendering
 - [2016-10-01T18:23:39] Update documentation and architectural guides
 - [2016-10-01T16:30:55] Fix edge case in URL parsing and validation
+- [2016-10-01T13:53:09] Fix edge case in URL parsing and validation
