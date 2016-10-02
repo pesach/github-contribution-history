@@ -11160,3 +11160,4 @@
 - [2016-10-01T13:10:12] Refactor storage upload retry mechanism
 - [2016-10-02T15:02:02] Fix edge case in channel tab crawler
 - [2016-10-02T22:20:53] Fix edge case in URL parsing and validation
+- [2016-10-02T19:43:59] Add retries for transient network drops
