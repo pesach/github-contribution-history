@@ -11158,3 +11158,4 @@
 - [2016-10-01T16:30:55] Fix edge case in URL parsing and validation
 - [2016-10-01T13:53:09] Fix edge case in URL parsing and validation
 - [2016-10-01T13:10:12] Refactor storage upload retry mechanism
+- [2016-10-02T15:02:02] Fix edge case in channel tab crawler
