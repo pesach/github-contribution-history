@@ -11164,3 +11164,4 @@
 - [2016-10-03T18:31:32] Add Prometheus exporter endpoints for queue length
 - [2016-10-03T19:34:21] Update schema migration helpers
 - [2016-10-03T15:45:09] Update dependency lockfiles and requirements
+- [2016-10-03T16:28:40] Improve logging and health endpoint metrics
