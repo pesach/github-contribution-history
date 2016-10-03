@@ -11165,3 +11165,4 @@
 - [2016-10-03T19:34:21] Update schema migration helpers
 - [2016-10-03T15:45:09] Update dependency lockfiles and requirements
 - [2016-10-03T16:28:40] Improve logging and health endpoint metrics
+- [2016-10-03T17:43:39] Clean up legacy worker task routines
