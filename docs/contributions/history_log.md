@@ -11162,3 +11162,4 @@
 - [2016-10-02T22:20:53] Fix edge case in URL parsing and validation
 - [2016-10-02T19:43:59] Add retries for transient network drops
 - [2016-10-03T18:31:32] Add Prometheus exporter endpoints for queue length
+- [2016-10-03T19:34:21] Update schema migration helpers
