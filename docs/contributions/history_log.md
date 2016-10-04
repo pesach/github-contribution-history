@@ -11171,3 +11171,4 @@
 - [2016-10-04T19:47:01] Enhance dashboard statistics rendering
 - [2016-10-04T19:49:22] Add retries for transient network drops
 - [2016-10-04T21:31:09] Add retries for transient network drops
+- [2016-10-04T18:48:09] Improve logging and health endpoint metrics
