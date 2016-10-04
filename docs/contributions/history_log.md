@@ -11169,3 +11169,4 @@
 - [2016-10-03T12:35:13] Add Redis rate limit backoff handlers
 - [2016-10-04T08:48:35] Add Prometheus exporter endpoints for queue length
 - [2016-10-04T19:47:01] Enhance dashboard statistics rendering
+- [2016-10-04T19:49:22] Add retries for transient network drops
