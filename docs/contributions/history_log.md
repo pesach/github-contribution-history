@@ -11180,3 +11180,4 @@
 - [2016-10-05T21:43:19] Refactor worker polling logic
 - [2016-10-05T16:39:09] Add error handling for yt-dlp rate limits
 - [2016-10-05T09:01:48] Update dependency lockfiles and requirements
+- [2016-10-05T15:21:35] Add error handling for yt-dlp rate limits
