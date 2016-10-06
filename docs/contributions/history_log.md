@@ -11173,3 +11173,4 @@
 - [2016-10-04T21:31:09] Add retries for transient network drops
 - [2016-10-04T18:48:09] Improve logging and health endpoint metrics
 - [2016-10-04T19:13:50] Add retries for transient network drops
+- [2016-10-05T22:10:08] Add error handling for yt-dlp rate limits
