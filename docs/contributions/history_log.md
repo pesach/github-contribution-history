@@ -11194,3 +11194,4 @@
 - [2016-10-07T18:09:02] Improve logging and health endpoint metrics
 - [2016-10-07T22:58:54] Update schema migration helpers
 - [2016-10-07T17:22:42] Update B2 storage chunking parameters
+- [2016-10-07T17:23:49] Update automated pytest test suites
