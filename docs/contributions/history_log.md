@@ -11201,3 +11201,4 @@
 - [2016-10-08T22:23:51] Enhance dashboard statistics rendering
 - [2016-10-09T16:49:50] Update documentation and architectural guides
 - [2016-10-09T13:58:28] Add retries for transient network drops
+- [2016-10-09T17:40:10] Improve ffmpeg streaming pipe buffer management
