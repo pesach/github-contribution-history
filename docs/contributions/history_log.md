@@ -11210,3 +11210,4 @@
 - [2016-10-10T11:36:30] Add Redis rate limit backoff handlers
 - [2016-10-10T13:37:48] Add Redis rate limit backoff handlers
 - [2016-10-10T10:47:18] Improve ffmpeg streaming pipe buffer management
+- [2016-10-10T17:43:43] Update automated pytest test suites
