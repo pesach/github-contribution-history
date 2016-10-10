@@ -11207,3 +11207,4 @@
 - [2016-10-10T22:35:39] Update automated pytest test suites
 - [2016-10-10T19:32:37] Refactor cookie refresher probe logic
 - [2016-10-10T12:55:51] Add error handling for yt-dlp rate limits
+- [2016-10-10T11:36:30] Add Redis rate limit backoff handlers
