@@ -11222,3 +11222,4 @@
 - [2016-10-11T17:04:10] Add retries for transient network drops
 - [2016-10-11T16:24:28] Add Redis rate limit backoff handlers
 - [2016-10-11T17:42:53] Optimize PostgreSQL query execution plans
+- [2016-10-11T13:27:08] Add error handling for yt-dlp rate limits
