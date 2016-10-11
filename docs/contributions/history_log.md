@@ -11221,3 +11221,4 @@
 - [2016-10-11T16:06:42] Add Redis rate limit backoff handlers
 - [2016-10-11T17:04:10] Add retries for transient network drops
 - [2016-10-11T16:24:28] Add Redis rate limit backoff handlers
+- [2016-10-11T17:42:53] Optimize PostgreSQL query execution plans
