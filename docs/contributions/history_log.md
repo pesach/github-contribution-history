@@ -11237,3 +11237,4 @@
 - [2016-10-12T16:49:57] Add error handling for yt-dlp rate limits
 - [2016-10-12T16:11:02] Clean up legacy worker task routines
 - [2016-10-12T22:11:14] Improve logging and health endpoint metrics
+- [2016-10-12T12:36:04] Fix edge case in URL parsing and validation
