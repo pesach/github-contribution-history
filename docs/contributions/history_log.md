@@ -11226,3 +11226,4 @@
 - [2016-10-11T09:17:14] Implement streaming upload chunk buffer optimization
 - [2016-10-11T20:36:18] Optimize PostgreSQL query execution plans
 - [2016-10-11T09:28:57] Update schema migration helpers
+- [2016-10-12T19:00:52] Update schema migration helpers
