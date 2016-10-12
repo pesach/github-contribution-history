@@ -11239,3 +11239,4 @@
 - [2016-10-12T22:11:14] Improve logging and health endpoint metrics
 - [2016-10-12T12:36:04] Fix edge case in URL parsing and validation
 - [2016-10-12T20:24:53] Update B2 storage chunking parameters
+- [2016-10-12T17:49:47] Add Redis rate limit backoff handlers
