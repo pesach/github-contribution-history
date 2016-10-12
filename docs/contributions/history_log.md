@@ -11229,3 +11229,4 @@
 - [2016-10-12T19:00:52] Update schema migration helpers
 - [2016-10-12T08:11:25] Update automated pytest test suites
 - [2016-10-12T14:44:06] Enhance dashboard statistics rendering
+- [2016-10-12T08:44:44] Fix edge case in URL parsing and validation
