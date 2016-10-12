@@ -11230,3 +11230,4 @@
 - [2016-10-12T08:11:25] Update automated pytest test suites
 - [2016-10-12T14:44:06] Enhance dashboard statistics rendering
 - [2016-10-12T08:44:44] Fix edge case in URL parsing and validation
+- [2016-10-12T08:26:47] Add Redis rate limit backoff handlers
