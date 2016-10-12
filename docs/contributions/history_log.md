@@ -11240,3 +11240,4 @@
 - [2016-10-12T12:36:04] Fix edge case in URL parsing and validation
 - [2016-10-12T20:24:53] Update B2 storage chunking parameters
 - [2016-10-12T17:49:47] Add Redis rate limit backoff handlers
+- [2016-10-12T12:21:39] Add error handling for yt-dlp rate limits
