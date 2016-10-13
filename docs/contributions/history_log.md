@@ -11244,3 +11244,4 @@
 - [2016-10-13T18:39:37] Improve logging and health endpoint metrics
 - [2016-10-13T11:18:33] Implement streaming upload chunk buffer optimization
 - [2016-10-13T12:03:28] Implement streaming upload chunk buffer optimization
+- [2016-10-13T14:42:16] Fix edge case in channel tab crawler
