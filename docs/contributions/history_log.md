@@ -11250,3 +11250,4 @@
 - [2016-10-13T21:39:20] Improve logging and health endpoint metrics
 - [2016-10-13T15:29:45] Improve ffmpeg streaming pipe buffer management
 - [2016-10-13T08:22:25] Refactor cookie refresher probe logic
+- [2016-10-13T19:08:36] Update schema migration helpers
