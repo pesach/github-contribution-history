@@ -11252,3 +11252,4 @@
 - [2016-10-13T08:22:25] Refactor cookie refresher probe logic
 - [2016-10-13T19:08:36] Update schema migration helpers
 - [2016-10-13T12:48:25] Update documentation and architectural guides
+- [2016-10-14T11:19:40] Refactor cookie refresher probe logic
