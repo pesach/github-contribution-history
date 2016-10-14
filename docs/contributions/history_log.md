@@ -11255,3 +11255,4 @@
 - [2016-10-14T11:19:40] Refactor cookie refresher probe logic
 - [2016-10-14T18:49:22] Update B2 storage chunking parameters
 - [2016-10-14T16:09:58] Update automated pytest test suites
+- [2016-10-14T10:45:01] Fix edge case in URL parsing and validation
