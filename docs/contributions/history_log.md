@@ -11261,3 +11261,4 @@
 - [2016-10-15T21:50:37] Fix edge case in URL parsing and validation
 - [2016-10-15T15:51:35] Update automated pytest test suites
 - [2016-10-15T19:14:28] Refactor cookie refresher probe logic
+- [2016-10-15T21:19:48] Fix edge case in channel tab crawler
