@@ -11266,3 +11266,4 @@
 - [2016-10-16T20:16:54] Fix edge case in channel tab crawler
 - [2016-10-16T19:58:34] Clean up legacy worker task routines
 - [2016-10-16T17:28:55] Update dependency lockfiles and requirements
+- [2016-10-16T11:51:03] Improve logging and health endpoint metrics
