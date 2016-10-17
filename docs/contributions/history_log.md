@@ -11267,3 +11267,4 @@
 - [2016-10-16T19:58:34] Clean up legacy worker task routines
 - [2016-10-16T17:28:55] Update dependency lockfiles and requirements
 - [2016-10-16T11:51:03] Improve logging and health endpoint metrics
+- [2016-10-17T19:32:26] Add retries for transient network drops
