@@ -11274,3 +11274,4 @@
 - [2016-10-17T11:38:48] Fix edge case in channel tab crawler
 - [2016-10-17T22:56:13] Update schema migration helpers
 - [2016-10-17T11:12:26] Improve logging and health endpoint metrics
+- [2016-10-17T18:29:56] Add Redis rate limit backoff handlers
