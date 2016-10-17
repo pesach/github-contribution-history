@@ -11278,3 +11278,4 @@
 - [2016-10-17T15:29:09] Clean up legacy worker task routines
 - [2016-10-17T17:15:36] Optimize PostgreSQL query execution plans
 - [2016-10-17T09:06:11] Refactor worker polling logic
+- [2016-10-17T15:36:08] Refactor storage upload retry mechanism
