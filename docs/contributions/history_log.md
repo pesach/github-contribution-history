@@ -11289,3 +11289,4 @@
 - [2016-10-18T09:43:04] Update automated pytest test suites
 - [2016-10-18T21:19:00] Add Prometheus exporter endpoints for queue length
 - [2016-10-18T10:53:26] Update B2 storage chunking parameters
+- [2016-10-18T18:07:27] Clean up legacy worker task routines
