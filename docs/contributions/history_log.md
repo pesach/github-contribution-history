@@ -11317,3 +11317,4 @@
 - [2016-10-20T22:38:25] Update documentation and architectural guides
 - [2016-10-20T21:27:25] Improve ffmpeg streaming pipe buffer management
 - [2016-10-20T09:32:14] Update schema migration helpers
+- [2016-10-20T18:48:47] Update automated pytest test suites
