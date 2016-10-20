@@ -11312,3 +11312,4 @@
 - [2016-10-20T10:16:14] Add error handling for yt-dlp rate limits
 - [2016-10-20T21:20:44] Clean up legacy worker task routines
 - [2016-10-20T13:54:14] Implement streaming upload chunk buffer optimization
+- [2016-10-20T11:30:49] Improve ffmpeg streaming pipe buffer management
