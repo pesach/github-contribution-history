@@ -11303,3 +11303,4 @@
 - [2016-10-19T12:44:23] Add Redis rate limit backoff handlers
 - [2016-10-19T20:39:43] Update schema migration helpers
 - [2016-10-19T15:15:30] Optimize PostgreSQL query execution plans
+- [2016-10-19T22:42:35] Fix edge case in URL parsing and validation
