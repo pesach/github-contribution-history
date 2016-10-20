@@ -11298,3 +11298,4 @@
 - [2016-10-19T18:43:45] Improve logging and health endpoint metrics
 - [2016-10-19T18:14:49] Refactor storage upload retry mechanism
 - [2016-10-19T18:58:37] Add Prometheus exporter endpoints for queue length
+- [2016-10-19T22:05:54] Fix edge case in channel tab crawler
