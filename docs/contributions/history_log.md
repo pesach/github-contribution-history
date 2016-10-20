@@ -11316,3 +11316,4 @@
 - [2016-10-20T14:43:20] Enhance dashboard statistics rendering
 - [2016-10-20T22:38:25] Update documentation and architectural guides
 - [2016-10-20T21:27:25] Improve ffmpeg streaming pipe buffer management
+- [2016-10-20T09:32:14] Update schema migration helpers
