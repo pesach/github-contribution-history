@@ -11310,3 +11310,4 @@
 - [2016-10-19T17:42:57] Implement streaming upload chunk buffer optimization
 - [2016-10-19T20:17:27] Update dependency lockfiles and requirements
 - [2016-10-20T10:16:14] Add error handling for yt-dlp rate limits
+- [2016-10-20T21:20:44] Clean up legacy worker task routines
