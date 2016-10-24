@@ -11337,3 +11337,4 @@
 - [2016-10-24T09:32:25] Refactor worker polling logic
 - [2016-10-24T22:40:05] Fix edge case in channel tab crawler
 - [2016-10-24T19:21:03] Add Prometheus exporter endpoints for queue length
+- [2016-10-24T09:43:01] Improve logging and health endpoint metrics
