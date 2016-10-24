@@ -11328,3 +11328,4 @@
 - [2016-10-22T22:38:16] Add Redis rate limit backoff handlers
 - [2016-10-24T19:32:23] Update schema migration helpers
 - [2016-10-24T12:12:25] Fix edge case in channel tab crawler
+- [2016-10-24T11:41:22] Refactor cookie refresher probe logic
