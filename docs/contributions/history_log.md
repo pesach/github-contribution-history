@@ -11340,3 +11340,4 @@
 - [2016-10-24T09:43:01] Improve logging and health endpoint metrics
 - [2016-10-24T22:52:05] Fix edge case in channel tab crawler
 - [2016-10-25T13:07:14] Clean up legacy worker task routines
+- [2016-10-25T14:05:06] Add Redis rate limit backoff handlers
