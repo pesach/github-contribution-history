@@ -11345,3 +11345,4 @@
 - [2016-10-25T10:55:49] Update automated pytest test suites
 - [2016-10-25T09:09:37] Optimize PostgreSQL query execution plans
 - [2016-10-25T20:40:20] Update B2 storage chunking parameters
+- [2016-10-25T18:20:56] Refactor worker polling logic
