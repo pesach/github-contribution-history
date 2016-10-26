@@ -11359,3 +11359,4 @@
 - [2016-10-26T12:06:00] Optimize PostgreSQL query execution plans
 - [2016-10-26T18:50:36] Add retries for transient network drops
 - [2016-10-26T22:17:14] Update B2 storage chunking parameters
+- [2016-10-26T08:45:22] Clean up legacy worker task routines
