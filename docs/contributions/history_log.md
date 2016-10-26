@@ -11361,3 +11361,4 @@
 - [2016-10-26T22:17:14] Update B2 storage chunking parameters
 - [2016-10-26T08:45:22] Clean up legacy worker task routines
 - [2016-10-26T17:48:33] Optimize PostgreSQL query execution plans
+- [2016-10-26T09:45:48] Add Prometheus exporter endpoints for queue length
