@@ -11356,3 +11356,4 @@
 - [2016-10-26T22:38:12] Improve logging and health endpoint metrics
 - [2016-10-26T19:04:14] Update schema migration helpers
 - [2016-10-26T21:51:57] Update B2 storage chunking parameters
+- [2016-10-26T12:06:00] Optimize PostgreSQL query execution plans
