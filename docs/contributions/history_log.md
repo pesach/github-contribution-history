@@ -11357,3 +11357,4 @@
 - [2016-10-26T19:04:14] Update schema migration helpers
 - [2016-10-26T21:51:57] Update B2 storage chunking parameters
 - [2016-10-26T12:06:00] Optimize PostgreSQL query execution plans
+- [2016-10-26T18:50:36] Add retries for transient network drops
