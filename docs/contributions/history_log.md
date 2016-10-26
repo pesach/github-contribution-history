@@ -11363,3 +11363,4 @@
 - [2016-10-26T17:48:33] Optimize PostgreSQL query execution plans
 - [2016-10-26T09:45:48] Add Prometheus exporter endpoints for queue length
 - [2016-10-26T15:31:39] Add error handling for yt-dlp rate limits
+- [2016-10-26T17:19:42] Clean up legacy worker task routines
