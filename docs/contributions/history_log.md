@@ -11350,3 +11350,4 @@
 - [2016-10-25T17:17:38] Fix edge case in URL parsing and validation
 - [2016-10-25T17:43:25] Improve ffmpeg streaming pipe buffer management
 - [2016-10-26T11:23:05] Update schema migration helpers
+- [2016-10-26T08:53:22] Implement streaming upload chunk buffer optimization
