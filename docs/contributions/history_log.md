@@ -11366,3 +11366,4 @@
 - [2016-10-26T17:19:42] Clean up legacy worker task routines
 - [2016-10-27T11:28:32] Update schema migration helpers
 - [2016-10-27T21:48:08] Refactor cookie refresher probe logic
+- [2016-10-27T13:42:28] Add Redis rate limit backoff handlers
