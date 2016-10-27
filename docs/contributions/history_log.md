@@ -11364,3 +11364,4 @@
 - [2016-10-26T09:45:48] Add Prometheus exporter endpoints for queue length
 - [2016-10-26T15:31:39] Add error handling for yt-dlp rate limits
 - [2016-10-26T17:19:42] Clean up legacy worker task routines
+- [2016-10-27T11:28:32] Update schema migration helpers
