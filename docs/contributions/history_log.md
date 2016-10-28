@@ -11370,3 +11370,4 @@
 - [2016-10-27T16:36:45] Refactor cookie refresher probe logic
 - [2016-10-27T13:35:47] Update automated pytest test suites
 - [2016-10-27T20:46:16] Update schema migration helpers
+- [2016-10-27T21:29:33] Clean up legacy worker task routines
