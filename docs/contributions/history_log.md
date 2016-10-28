@@ -11372,3 +11372,4 @@
 - [2016-10-27T20:46:16] Update schema migration helpers
 - [2016-10-27T21:29:33] Clean up legacy worker task routines
 - [2016-10-28T18:30:59] Add Redis rate limit backoff handlers
+- [2016-10-28T14:20:56] Add Prometheus exporter endpoints for queue length
