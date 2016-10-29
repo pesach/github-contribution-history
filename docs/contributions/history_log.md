@@ -11377,3 +11377,4 @@
 - [2016-10-28T09:04:57] Fix edge case in channel tab crawler
 - [2016-10-28T20:44:52] Add retries for transient network drops
 - [2016-10-28T22:25:56] Update B2 storage chunking parameters
+- [2016-10-28T21:19:15] Improve ffmpeg streaming pipe buffer management
