@@ -11386,3 +11386,4 @@
 - [2016-10-29T17:57:16] Implement streaming upload chunk buffer optimization
 - [2016-10-29T22:07:16] Update schema migration helpers
 - [2016-10-29T13:53:47] Fix edge case in URL parsing and validation
+- [2016-10-29T20:30:55] Clean up legacy worker task routines
