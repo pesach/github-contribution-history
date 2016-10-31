@@ -11392,3 +11392,4 @@
 - [2016-10-30T19:54:36] Improve logging and health endpoint metrics
 - [2016-10-30T20:28:59] Improve logging and health endpoint metrics
 - [2016-10-30T10:14:45] Enhance dashboard statistics rendering
+- [2016-10-31T17:32:27] Improve ffmpeg streaming pipe buffer management
