@@ -11400,3 +11400,4 @@
 - [2016-10-31T11:08:36] Add error handling for yt-dlp rate limits
 - [2016-10-31T14:10:18] Fix edge case in channel tab crawler
 - [2016-10-31T13:15:32] Improve logging and health endpoint metrics
+- [2016-10-31T22:02:52] Update schema migration helpers
