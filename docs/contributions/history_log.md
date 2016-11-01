@@ -11407,3 +11407,4 @@
 - [2016-10-31T18:51:35] Fix edge case in URL parsing and validation
 - [2016-10-31T14:00:58] Update B2 storage chunking parameters
 - [2016-11-01T22:36:44] Clean up legacy worker task routines
+- [2016-11-01T10:07:41] Enhance dashboard statistics rendering
