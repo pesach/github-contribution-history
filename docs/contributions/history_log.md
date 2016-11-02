@@ -11421,3 +11421,4 @@
 - [2016-11-02T14:04:10] Optimize PostgreSQL query execution plans
 - [2016-11-02T18:37:03] Optimize PostgreSQL query execution plans
 - [2016-11-02T08:23:32] Improve logging and health endpoint metrics
+- [2016-11-02T08:03:48] Add error handling for yt-dlp rate limits
