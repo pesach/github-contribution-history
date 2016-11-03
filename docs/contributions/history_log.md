@@ -11430,3 +11430,4 @@
 - [2016-11-03T09:06:33] Enhance dashboard statistics rendering
 - [2016-11-03T08:36:48] Refactor storage upload retry mechanism
 - [2016-11-03T22:46:06] Refactor storage upload retry mechanism
+- [2016-11-03T13:13:48] Refactor cookie refresher probe logic
