@@ -11432,3 +11432,4 @@
 - [2016-11-03T22:46:06] Refactor storage upload retry mechanism
 - [2016-11-03T13:13:48] Refactor cookie refresher probe logic
 - [2016-11-03T19:33:39] Refactor cookie refresher probe logic
+- [2016-11-03T11:51:25] Add Redis rate limit backoff handlers
