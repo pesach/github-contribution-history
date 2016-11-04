@@ -11435,3 +11435,4 @@
 - [2016-11-03T11:51:25] Add Redis rate limit backoff handlers
 - [2016-11-04T17:38:09] Update automated pytest test suites
 - [2016-11-04T11:48:38] Refactor cookie refresher probe logic
+- [2016-11-04T15:50:42] Update B2 storage chunking parameters
