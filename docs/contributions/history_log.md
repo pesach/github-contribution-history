@@ -11436,3 +11436,4 @@
 - [2016-11-04T17:38:09] Update automated pytest test suites
 - [2016-11-04T11:48:38] Refactor cookie refresher probe logic
 - [2016-11-04T15:50:42] Update B2 storage chunking parameters
+- [2016-11-04T14:23:44] Add error handling for yt-dlp rate limits
