@@ -11439,3 +11439,4 @@
 - [2016-11-04T14:23:44] Add error handling for yt-dlp rate limits
 - [2016-11-04T20:23:00] Add error handling for yt-dlp rate limits
 - [2016-11-04T18:35:00] Update automated pytest test suites
+- [2016-11-04T18:29:21] Refactor worker polling logic
