@@ -11440,3 +11440,4 @@
 - [2016-11-04T20:23:00] Add error handling for yt-dlp rate limits
 - [2016-11-04T18:35:00] Update automated pytest test suites
 - [2016-11-04T18:29:21] Refactor worker polling logic
+- [2016-11-04T10:51:37] Improve ffmpeg streaming pipe buffer management
