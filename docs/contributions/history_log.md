@@ -11471,3 +11471,4 @@
 - [2016-11-10T13:06:00] Clean up legacy worker task routines
 - [2016-11-10T08:51:03] Improve ffmpeg streaming pipe buffer management
 - [2016-11-10T21:20:54] Refactor cookie refresher probe logic
+- [2016-11-10T10:15:19] Update dependency lockfiles and requirements
