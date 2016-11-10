@@ -11469,3 +11469,4 @@
 - [2016-11-10T14:23:36] Update schema migration helpers
 - [2016-11-10T13:16:36] Add Redis rate limit backoff handlers
 - [2016-11-10T13:06:00] Clean up legacy worker task routines
+- [2016-11-10T08:51:03] Improve ffmpeg streaming pipe buffer management
