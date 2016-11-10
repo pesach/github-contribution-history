@@ -11464,3 +11464,4 @@
 - [2016-11-09T16:51:00] Update dependency lockfiles and requirements
 - [2016-11-10T22:56:02] Fix edge case in channel tab crawler
 - [2016-11-10T14:16:13] Enhance dashboard statistics rendering
+- [2016-11-10T08:58:52] Add Prometheus exporter endpoints for queue length
