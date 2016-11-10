@@ -11468,3 +11468,4 @@
 - [2016-11-10T10:05:37] Fix edge case in URL parsing and validation
 - [2016-11-10T14:23:36] Update schema migration helpers
 - [2016-11-10T13:16:36] Add Redis rate limit backoff handlers
+- [2016-11-10T13:06:00] Clean up legacy worker task routines
