@@ -11478,3 +11478,4 @@
 - [2016-11-11T21:09:25] Add Redis rate limit backoff handlers
 - [2016-11-11T16:55:24] Refactor storage upload retry mechanism
 - [2016-11-11T17:34:07] Update dependency lockfiles and requirements
+- [2016-11-11T16:47:23] Add retries for transient network drops
