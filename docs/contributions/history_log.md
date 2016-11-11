@@ -11476,3 +11476,4 @@
 - [2016-11-10T21:13:26] Refactor worker polling logic
 - [2016-11-10T22:07:14] Improve logging and health endpoint metrics
 - [2016-11-11T21:09:25] Add Redis rate limit backoff handlers
+- [2016-11-11T16:55:24] Refactor storage upload retry mechanism
