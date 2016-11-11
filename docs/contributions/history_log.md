@@ -11480,3 +11480,4 @@
 - [2016-11-11T17:34:07] Update dependency lockfiles and requirements
 - [2016-11-11T16:47:23] Add retries for transient network drops
 - [2016-11-11T10:57:30] Optimize PostgreSQL query execution plans
+- [2016-11-11T08:00:54] Update schema migration helpers
