@@ -11462,3 +11462,4 @@
 - [2016-11-09T11:12:47] Update schema migration helpers
 - [2016-11-09T18:49:51] Update automated pytest test suites
 - [2016-11-09T16:51:00] Update dependency lockfiles and requirements
+- [2016-11-10T22:56:02] Fix edge case in channel tab crawler
