@@ -11477,3 +11477,4 @@
 - [2016-11-10T22:07:14] Improve logging and health endpoint metrics
 - [2016-11-11T21:09:25] Add Redis rate limit backoff handlers
 - [2016-11-11T16:55:24] Refactor storage upload retry mechanism
+- [2016-11-11T17:34:07] Update dependency lockfiles and requirements
