@@ -11481,3 +11481,4 @@
 - [2016-11-11T16:47:23] Add retries for transient network drops
 - [2016-11-11T10:57:30] Optimize PostgreSQL query execution plans
 - [2016-11-11T08:00:54] Update schema migration helpers
+- [2016-11-12T12:47:10] Optimize PostgreSQL query execution plans
