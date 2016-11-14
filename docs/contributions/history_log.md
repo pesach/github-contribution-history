@@ -11488,3 +11488,4 @@
 - [2016-11-13T11:39:21] Clean up legacy worker task routines
 - [2016-11-13T21:37:32] Add Redis rate limit backoff handlers
 - [2016-11-13T21:22:35] Add retries for transient network drops
+- [2016-11-13T22:07:53] Improve ffmpeg streaming pipe buffer management
