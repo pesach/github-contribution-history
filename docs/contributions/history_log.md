@@ -11491,3 +11491,4 @@
 - [2016-11-13T22:07:53] Improve ffmpeg streaming pipe buffer management
 - [2016-11-13T20:49:17] Add error handling for yt-dlp rate limits
 - [2016-11-15T15:04:14] Implement streaming upload chunk buffer optimization
+- [2016-11-15T10:07:27] Add Prometheus exporter endpoints for queue length
