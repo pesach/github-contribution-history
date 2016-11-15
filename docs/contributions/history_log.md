@@ -11493,3 +11493,4 @@
 - [2016-11-15T15:04:14] Implement streaming upload chunk buffer optimization
 - [2016-11-15T10:07:27] Add Prometheus exporter endpoints for queue length
 - [2016-11-15T14:55:48] Enhance dashboard statistics rendering
+- [2016-11-15T16:50:32] Clean up legacy worker task routines
