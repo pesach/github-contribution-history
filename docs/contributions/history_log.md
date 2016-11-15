@@ -11500,3 +11500,4 @@
 - [2016-11-15T12:28:46] Improve ffmpeg streaming pipe buffer management
 - [2016-11-15T22:51:42] Improve logging and health endpoint metrics
 - [2016-11-15T10:23:30] Clean up legacy worker task routines
+- [2016-11-15T12:03:41] Update B2 storage chunking parameters
