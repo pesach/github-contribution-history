@@ -11498,3 +11498,4 @@
 - [2016-11-15T20:35:34] Add Prometheus exporter endpoints for queue length
 - [2016-11-15T10:18:16] Fix edge case in channel tab crawler
 - [2016-11-15T12:28:46] Improve ffmpeg streaming pipe buffer management
+- [2016-11-15T22:51:42] Improve logging and health endpoint metrics
