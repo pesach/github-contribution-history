@@ -11510,3 +11510,4 @@
 - [2016-11-17T22:24:10] Update B2 storage chunking parameters
 - [2016-11-17T19:13:47] Add retries for transient network drops
 - [2016-11-17T12:48:58] Update schema migration helpers
+- [2016-11-17T11:03:32] Update automated pytest test suites
