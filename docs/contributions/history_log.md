@@ -11505,3 +11505,4 @@
 - [2016-11-16T09:32:28] Refactor worker polling logic
 - [2016-11-16T11:28:56] Improve logging and health endpoint metrics
 - [2016-11-16T19:58:23] Add retries for transient network drops
+- [2016-11-16T22:50:02] Refactor storage upload retry mechanism
