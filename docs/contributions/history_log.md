@@ -11513,3 +11513,4 @@
 - [2016-11-17T11:03:32] Update automated pytest test suites
 - [2016-11-17T11:58:16] Add Redis rate limit backoff handlers
 - [2016-11-17T21:24:36] Update dependency lockfiles and requirements
+- [2016-11-17T16:38:58] Add retries for transient network drops
