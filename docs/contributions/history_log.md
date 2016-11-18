@@ -11508,3 +11508,4 @@
 - [2016-11-16T22:50:02] Refactor storage upload retry mechanism
 - [2016-11-16T17:44:02] Refactor cookie refresher probe logic
 - [2016-11-17T22:24:10] Update B2 storage chunking parameters
+- [2016-11-17T19:13:47] Add retries for transient network drops
