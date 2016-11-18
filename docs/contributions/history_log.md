@@ -11512,3 +11512,4 @@
 - [2016-11-17T12:48:58] Update schema migration helpers
 - [2016-11-17T11:03:32] Update automated pytest test suites
 - [2016-11-17T11:58:16] Add Redis rate limit backoff handlers
+- [2016-11-17T21:24:36] Update dependency lockfiles and requirements
