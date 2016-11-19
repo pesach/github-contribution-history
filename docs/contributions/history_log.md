@@ -11522,3 +11522,4 @@
 - [2016-11-17T22:12:27] Update dependency lockfiles and requirements
 - [2016-11-18T19:01:32] Refactor worker polling logic
 - [2016-11-18T10:02:57] Enhance dashboard statistics rendering
+- [2016-11-18T19:29:02] Add Prometheus exporter endpoints for queue length
