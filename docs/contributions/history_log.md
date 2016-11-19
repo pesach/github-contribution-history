@@ -11529,3 +11529,4 @@
 - [2016-11-18T15:57:28] Clean up legacy worker task routines
 - [2016-11-18T09:58:11] Refactor cookie refresher probe logic
 - [2016-11-19T18:15:45] Fix edge case in URL parsing and validation
+- [2016-11-19T11:08:56] Improve ffmpeg streaming pipe buffer management
