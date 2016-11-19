@@ -11520,3 +11520,4 @@
 - [2016-11-17T17:46:08] Refactor storage upload retry mechanism
 - [2016-11-17T18:07:03] Add Redis rate limit backoff handlers
 - [2016-11-17T22:12:27] Update dependency lockfiles and requirements
+- [2016-11-18T19:01:32] Refactor worker polling logic
