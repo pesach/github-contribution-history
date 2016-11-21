@@ -11540,3 +11540,4 @@
 - [2016-11-21T15:35:53] Update schema migration helpers
 - [2016-11-21T10:07:59] Improve ffmpeg streaming pipe buffer management
 - [2016-11-21T19:41:18] Fix edge case in URL parsing and validation
+- [2016-11-21T12:55:24] Update documentation and architectural guides
