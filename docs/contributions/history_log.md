@@ -11543,3 +11543,4 @@
 - [2016-11-21T12:55:24] Update documentation and architectural guides
 - [2016-11-21T08:04:42] Fix edge case in URL parsing and validation
 - [2016-11-21T15:04:45] Add Redis rate limit backoff handlers
+- [2016-11-21T19:58:25] Refactor worker polling logic
