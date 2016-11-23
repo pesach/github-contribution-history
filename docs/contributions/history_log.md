@@ -11555,3 +11555,4 @@
 - [2016-11-22T18:32:08] Fix edge case in channel tab crawler
 - [2016-11-22T11:03:58] Optimize PostgreSQL query execution plans
 - [2016-11-22T17:29:47] Refactor cookie refresher probe logic
+- [2016-11-22T20:30:24] Fix edge case in channel tab crawler
