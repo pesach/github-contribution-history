@@ -11570,3 +11570,4 @@
 - [2016-11-23T10:38:37] Update dependency lockfiles and requirements
 - [2016-11-23T18:08:11] Update documentation and architectural guides
 - [2016-11-23T09:16:52] Refactor storage upload retry mechanism
+- [2016-11-23T17:04:38] Add Redis rate limit backoff handlers
