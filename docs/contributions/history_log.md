@@ -11582,3 +11582,4 @@
 - [2016-11-24T12:10:27] Enhance dashboard statistics rendering
 - [2016-11-24T10:53:17] Fix edge case in URL parsing and validation
 - [2016-11-24T17:43:06] Refactor worker polling logic
+- [2016-11-24T15:11:39] Refactor storage upload retry mechanism
