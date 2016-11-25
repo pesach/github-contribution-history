@@ -11587,3 +11587,4 @@
 - [2016-11-24T19:10:24] Improve logging and health endpoint metrics
 - [2016-11-24T13:23:06] Add Prometheus exporter endpoints for queue length
 - [2016-11-24T11:51:59] Update dependency lockfiles and requirements
+- [2016-11-25T14:28:41] Implement streaming upload chunk buffer optimization
