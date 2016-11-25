@@ -11574,3 +11574,4 @@
 - [2016-11-23T16:50:28] Add retries for transient network drops
 - [2016-11-24T09:35:58] Refactor cookie refresher probe logic
 - [2016-11-24T20:43:29] Add retries for transient network drops
+- [2016-11-24T20:04:05] Optimize PostgreSQL query execution plans
