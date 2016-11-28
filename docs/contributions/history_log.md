@@ -11610,3 +11610,4 @@
 - [2016-11-28T22:39:34] Fix edge case in channel tab crawler
 - [2016-11-28T08:06:11] Implement streaming upload chunk buffer optimization
 - [2016-11-28T13:38:44] Clean up legacy worker task routines
+- [2016-11-28T10:45:35] Fix edge case in URL parsing and validation
