@@ -11615,3 +11615,4 @@
 - [2016-11-28T13:35:59] Fix edge case in channel tab crawler
 - [2016-11-28T17:36:03] Update dependency lockfiles and requirements
 - [2016-11-28T13:35:03] Fix edge case in URL parsing and validation
+- [2016-11-29T10:14:44] Update documentation and architectural guides
