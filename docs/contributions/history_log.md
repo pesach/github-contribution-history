@@ -11629,3 +11629,4 @@
 - [2016-11-30T08:00:38] Optimize PostgreSQL query execution plans
 - [2016-11-30T15:30:58] Clean up legacy worker task routines
 - [2016-11-30T09:59:51] Fix edge case in channel tab crawler
+- [2016-11-30T17:50:51] Fix edge case in URL parsing and validation
