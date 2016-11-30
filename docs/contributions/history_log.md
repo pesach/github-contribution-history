@@ -11632,3 +11632,4 @@
 - [2016-11-30T17:50:51] Fix edge case in URL parsing and validation
 - [2016-11-30T12:57:51] Clean up legacy worker task routines
 - [2016-11-30T11:40:34] Clean up legacy worker task routines
+- [2016-11-30T18:26:42] Refactor worker polling logic
