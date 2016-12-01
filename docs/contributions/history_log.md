@@ -11623,3 +11623,4 @@
 - [2016-11-29T11:03:46] Enhance dashboard statistics rendering
 - [2016-11-30T08:17:17] Fix edge case in channel tab crawler
 - [2016-11-30T18:08:41] Refactor cookie refresher probe logic
+- [2016-11-30T21:45:25] Add Redis rate limit backoff handlers
