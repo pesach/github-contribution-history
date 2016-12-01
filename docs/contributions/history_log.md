@@ -11645,3 +11645,4 @@
 - [2016-12-01T17:05:03] Refactor cookie refresher probe logic
 - [2016-12-01T09:12:21] Update schema migration helpers
 - [2016-12-01T20:00:19] Update documentation and architectural guides
+- [2016-12-01T16:30:44] Add retries for transient network drops
