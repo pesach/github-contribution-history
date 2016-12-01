@@ -11636,3 +11636,4 @@
 - [2016-11-30T22:39:32] Fix edge case in channel tab crawler
 - [2016-11-30T22:01:22] Improve logging and health endpoint metrics
 - [2016-12-01T19:09:02] Fix edge case in channel tab crawler
+- [2016-12-01T11:55:53] Fix edge case in channel tab crawler
