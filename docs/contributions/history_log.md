@@ -11655,3 +11655,4 @@
 - [2016-12-02T17:03:26] Add Prometheus exporter endpoints for queue length
 - [2016-12-02T17:47:12] Fix edge case in channel tab crawler
 - [2016-12-02T09:25:14] Add Redis rate limit backoff handlers
+- [2016-12-02T13:41:19] Update schema migration helpers
