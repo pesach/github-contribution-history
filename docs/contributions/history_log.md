@@ -11651,3 +11651,4 @@
 - [2016-12-02T09:24:56] Add retries for transient network drops
 - [2016-12-02T12:52:40] Update B2 storage chunking parameters
 - [2016-12-02T09:42:58] Improve ffmpeg streaming pipe buffer management
+- [2016-12-02T08:13:01] Refactor storage upload retry mechanism
