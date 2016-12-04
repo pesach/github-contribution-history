@@ -11667,3 +11667,4 @@
 - [2016-12-03T14:38:14] Improve ffmpeg streaming pipe buffer management
 - [2016-12-03T19:08:35] Optimize PostgreSQL query execution plans
 - [2016-12-04T08:44:59] Update B2 storage chunking parameters
+- [2016-12-04T08:44:33] Refactor cookie refresher probe logic
