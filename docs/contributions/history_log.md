@@ -11663,3 +11663,4 @@
 - [2016-12-02T12:19:17] Refactor cookie refresher probe logic
 - [2016-12-03T13:16:12] Clean up legacy worker task routines
 - [2016-12-03T21:05:31] Add error handling for yt-dlp rate limits
+- [2016-12-03T19:14:06] Update schema migration helpers
