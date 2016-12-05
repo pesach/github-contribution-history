@@ -11672,3 +11672,4 @@
 - [2016-12-04T16:36:50] Improve logging and health endpoint metrics
 - [2016-12-05T17:11:19] Enhance dashboard statistics rendering
 - [2016-12-05T19:20:49] Add retries for transient network drops
+- [2016-12-05T13:11:50] Fix edge case in channel tab crawler
