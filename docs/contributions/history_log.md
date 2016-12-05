@@ -11679,3 +11679,4 @@
 - [2016-12-05T08:10:42] Improve logging and health endpoint metrics
 - [2016-12-05T12:00:05] Improve ffmpeg streaming pipe buffer management
 - [2016-12-05T17:44:00] Add error handling for yt-dlp rate limits
+- [2016-12-05T14:28:00] Add retries for transient network drops
