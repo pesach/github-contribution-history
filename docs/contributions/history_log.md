@@ -11687,3 +11687,4 @@
 - [2016-12-06T19:22:13] Update B2 storage chunking parameters
 - [2016-12-06T19:30:40] Add retries for transient network drops
 - [2016-12-06T10:02:43] Refactor cookie refresher probe logic
+- [2016-12-06T14:03:38] Fix edge case in channel tab crawler
