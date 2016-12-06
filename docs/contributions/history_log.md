@@ -11671,3 +11671,4 @@
 - [2016-12-04T14:50:01] Improve ffmpeg streaming pipe buffer management
 - [2016-12-04T16:36:50] Improve logging and health endpoint metrics
 - [2016-12-05T17:11:19] Enhance dashboard statistics rendering
+- [2016-12-05T19:20:49] Add retries for transient network drops
