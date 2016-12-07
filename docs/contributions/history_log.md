@@ -11698,3 +11698,4 @@
 - [2016-12-07T18:28:04] Fix edge case in URL parsing and validation
 - [2016-12-07T18:38:48] Optimize PostgreSQL query execution plans
 - [2016-12-07T16:37:43] Improve logging and health endpoint metrics
+- [2016-12-07T17:14:20] Update B2 storage chunking parameters
