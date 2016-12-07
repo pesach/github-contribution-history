@@ -11693,3 +11693,4 @@
 - [2016-12-06T19:24:22] Update B2 storage chunking parameters
 - [2016-12-06T16:13:22] Refactor storage upload retry mechanism
 - [2016-12-07T13:47:03] Add Prometheus exporter endpoints for queue length
+- [2016-12-07T17:41:43] Clean up legacy worker task routines
