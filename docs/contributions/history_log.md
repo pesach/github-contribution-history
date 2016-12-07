@@ -11700,3 +11700,4 @@
 - [2016-12-07T16:37:43] Improve logging and health endpoint metrics
 - [2016-12-07T17:14:20] Update B2 storage chunking parameters
 - [2016-12-07T08:43:59] Refactor cookie refresher probe logic
+- [2016-12-07T08:37:45] Refactor cookie refresher probe logic
