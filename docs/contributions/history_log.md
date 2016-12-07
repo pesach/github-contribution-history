@@ -11694,3 +11694,4 @@
 - [2016-12-06T16:13:22] Refactor storage upload retry mechanism
 - [2016-12-07T13:47:03] Add Prometheus exporter endpoints for queue length
 - [2016-12-07T17:41:43] Clean up legacy worker task routines
+- [2016-12-07T15:48:02] Clean up legacy worker task routines
