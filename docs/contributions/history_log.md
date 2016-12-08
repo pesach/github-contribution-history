@@ -11711,3 +11711,4 @@
 - [2016-12-08T15:28:11] Enhance dashboard statistics rendering
 - [2016-12-08T17:25:15] Add retries for transient network drops
 - [2016-12-08T19:28:30] Add retries for transient network drops
+- [2016-12-08T15:27:19] Update schema migration helpers
