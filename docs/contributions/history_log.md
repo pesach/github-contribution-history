@@ -11717,3 +11717,4 @@
 - [2016-12-08T10:36:16] Update dependency lockfiles and requirements
 - [2016-12-08T16:09:46] Improve ffmpeg streaming pipe buffer management
 - [2016-12-08T19:43:21] Add Prometheus exporter endpoints for queue length
+- [2016-12-08T15:22:00] Update automated pytest test suites
