@@ -11714,3 +11714,4 @@
 - [2016-12-08T15:27:19] Update schema migration helpers
 - [2016-12-08T16:38:46] Fix edge case in channel tab crawler
 - [2016-12-08T20:22:26] Implement streaming upload chunk buffer optimization
+- [2016-12-08T10:36:16] Update dependency lockfiles and requirements
