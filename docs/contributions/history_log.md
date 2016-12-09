@@ -11716,3 +11716,4 @@
 - [2016-12-08T20:22:26] Implement streaming upload chunk buffer optimization
 - [2016-12-08T10:36:16] Update dependency lockfiles and requirements
 - [2016-12-08T16:09:46] Improve ffmpeg streaming pipe buffer management
+- [2016-12-08T19:43:21] Add Prometheus exporter endpoints for queue length
