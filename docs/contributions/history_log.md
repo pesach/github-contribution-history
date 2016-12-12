@@ -11731,3 +11731,4 @@
 - [2016-12-12T10:52:06] Improve logging and health endpoint metrics
 - [2016-12-12T19:19:25] Refactor worker polling logic
 - [2016-12-12T18:08:24] Refactor worker polling logic
+- [2016-12-12T09:40:27] Clean up legacy worker task routines
