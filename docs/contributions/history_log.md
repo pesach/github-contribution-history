@@ -11739,3 +11739,4 @@
 - [2016-12-13T18:15:04] Update dependency lockfiles and requirements
 - [2016-12-13T17:33:25] Refactor cookie refresher probe logic
 - [2016-12-13T09:39:29] Improve logging and health endpoint metrics
+- [2016-12-13T19:55:28] Update B2 storage chunking parameters
