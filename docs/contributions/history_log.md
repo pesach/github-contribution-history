@@ -11750,3 +11750,4 @@
 - [2016-12-14T20:57:00] Clean up legacy worker task routines
 - [2016-12-14T10:24:20] Refactor cookie refresher probe logic
 - [2016-12-15T20:45:50] Improve ffmpeg streaming pipe buffer management
+- [2016-12-15T09:02:09] Add retries for transient network drops
