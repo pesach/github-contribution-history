@@ -11755,3 +11755,4 @@
 - [2016-12-15T15:41:16] Add retries for transient network drops
 - [2016-12-15T20:18:55] Update documentation and architectural guides
 - [2016-12-15T18:05:35] Update documentation and architectural guides
+- [2016-12-15T08:48:23] Fix edge case in channel tab crawler
