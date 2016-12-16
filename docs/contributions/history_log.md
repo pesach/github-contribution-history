@@ -11769,3 +11769,4 @@
 - [2016-12-16T14:36:00] Refactor storage upload retry mechanism
 - [2016-12-16T19:45:24] Update B2 storage chunking parameters
 - [2016-12-16T17:11:47] Improve ffmpeg streaming pipe buffer management
+- [2016-12-16T16:11:12] Fix edge case in URL parsing and validation
