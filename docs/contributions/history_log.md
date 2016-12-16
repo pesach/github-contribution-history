@@ -11764,3 +11764,4 @@
 - [2016-12-16T15:46:21] Refactor worker polling logic
 - [2016-12-16T22:20:53] Add retries for transient network drops
 - [2016-12-16T08:33:23] Refactor worker polling logic
+- [2016-12-16T16:15:35] Update schema migration helpers
