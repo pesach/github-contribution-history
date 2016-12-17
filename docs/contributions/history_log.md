@@ -11762,3 +11762,4 @@
 - [2016-12-16T20:57:24] Clean up legacy worker task routines
 - [2016-12-16T10:33:38] Refactor cookie refresher probe logic
 - [2016-12-16T15:46:21] Refactor worker polling logic
+- [2016-12-16T22:20:53] Add retries for transient network drops
