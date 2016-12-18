@@ -11775,3 +11775,4 @@
 - [2016-12-18T18:59:54] Clean up legacy worker task routines
 - [2016-12-18T22:07:23] Update schema migration helpers
 - [2016-12-18T21:54:32] Improve logging and health endpoint metrics
+- [2016-12-18T17:38:06] Add retries for transient network drops
