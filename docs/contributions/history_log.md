@@ -11779,3 +11779,4 @@
 - [2016-12-18T11:38:22] Add Prometheus exporter endpoints for queue length
 - [2016-12-18T20:59:12] Update B2 storage chunking parameters
 - [2016-12-19T20:08:25] Clean up legacy worker task routines
+- [2016-12-19T11:09:17] Add Prometheus exporter endpoints for queue length
