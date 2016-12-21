@@ -11810,3 +11810,4 @@
 - [2016-12-21T13:22:39] Update documentation and architectural guides
 - [2016-12-21T14:33:06] Improve logging and health endpoint metrics
 - [2016-12-21T13:45:27] Update schema migration helpers
+- [2016-12-21T12:44:48] Add Redis rate limit backoff handlers
