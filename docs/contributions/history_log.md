@@ -11822,3 +11822,4 @@
 - [2016-12-22T08:08:52] Update schema migration helpers
 - [2016-12-22T16:30:52] Update automated pytest test suites
 - [2016-12-22T16:25:56] Implement streaming upload chunk buffer optimization
+- [2016-12-22T15:57:53] Add Redis rate limit backoff handlers
