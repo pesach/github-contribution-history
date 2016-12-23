@@ -11832,3 +11832,4 @@
 - [2016-12-23T08:49:02] Enhance dashboard statistics rendering
 - [2016-12-23T15:41:52] Fix edge case in URL parsing and validation
 - [2016-12-23T18:46:31] Refactor storage upload retry mechanism
+- [2016-12-23T12:24:04] Add error handling for yt-dlp rate limits
