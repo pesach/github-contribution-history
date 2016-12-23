@@ -11827,3 +11827,4 @@
 - [2016-12-23T20:59:03] Improve logging and health endpoint metrics
 - [2016-12-23T08:16:11] Improve ffmpeg streaming pipe buffer management
 - [2016-12-23T22:03:38] Optimize PostgreSQL query execution plans
+- [2016-12-23T17:27:39] Refactor storage upload retry mechanism
