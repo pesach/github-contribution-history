@@ -11838,3 +11838,4 @@
 - [2016-12-23T15:45:10] Update automated pytest test suites
 - [2016-12-23T14:11:39] Update dependency lockfiles and requirements
 - [2016-12-23T20:25:36] Update schema migration helpers
+- [2016-12-24T08:50:50] Update schema migration helpers
