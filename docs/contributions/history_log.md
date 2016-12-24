@@ -11842,3 +11842,4 @@
 - [2016-12-24T13:40:39] Add Prometheus exporter endpoints for queue length
 - [2016-12-24T09:09:39] Fix edge case in channel tab crawler
 - [2016-12-24T18:00:30] Add Redis rate limit backoff handlers
+- [2016-12-24T09:54:58] Refactor storage upload retry mechanism
