@@ -11847,3 +11847,4 @@
 - [2016-12-25T13:14:10] Improve logging and health endpoint metrics
 - [2016-12-25T10:01:01] Add error handling for yt-dlp rate limits
 - [2016-12-25T13:41:11] Update schema migration helpers
+- [2016-12-25T16:40:23] Update B2 storage chunking parameters
