@@ -11846,3 +11846,4 @@
 - [2016-12-24T15:38:06] Refactor worker polling logic
 - [2016-12-25T13:14:10] Improve logging and health endpoint metrics
 - [2016-12-25T10:01:01] Add error handling for yt-dlp rate limits
+- [2016-12-25T13:41:11] Update schema migration helpers
