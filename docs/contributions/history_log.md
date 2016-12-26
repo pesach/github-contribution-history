@@ -11857,3 +11857,4 @@
 - [2016-12-26T21:25:26] Update schema migration helpers
 - [2016-12-26T10:36:15] Refactor worker polling logic
 - [2016-12-26T15:04:16] Refactor storage upload retry mechanism
+- [2016-12-26T16:01:10] Clean up legacy worker task routines
