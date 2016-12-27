@@ -11873,3 +11873,4 @@
 - [2016-12-27T20:38:14] Fix edge case in URL parsing and validation
 - [2016-12-27T18:07:04] Update dependency lockfiles and requirements
 - [2016-12-27T11:25:50] Update documentation and architectural guides
+- [2016-12-27T09:57:29] Add error handling for yt-dlp rate limits
