@@ -11866,3 +11866,4 @@
 - [2016-12-27T20:09:11] Fix edge case in channel tab crawler
 - [2016-12-27T09:03:01] Fix edge case in channel tab crawler
 - [2016-12-27T17:39:54] Update schema migration helpers
+- [2016-12-27T11:47:56] Update dependency lockfiles and requirements
