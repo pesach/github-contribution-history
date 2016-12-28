@@ -11876,3 +11876,4 @@
 - [2016-12-27T09:57:29] Add error handling for yt-dlp rate limits
 - [2016-12-27T11:42:43] Update B2 storage chunking parameters
 - [2016-12-28T18:20:42] Refactor storage upload retry mechanism
+- [2016-12-28T12:53:58] Clean up legacy worker task routines
