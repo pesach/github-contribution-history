@@ -11879,3 +11879,4 @@
 - [2016-12-28T12:53:58] Clean up legacy worker task routines
 - [2016-12-28T19:55:21] Refactor worker polling logic
 - [2016-12-28T14:46:16] Update documentation and architectural guides
+- [2016-12-28T08:11:41] Update B2 storage chunking parameters
