@@ -11891,3 +11891,4 @@
 - [2016-12-28T16:25:15] Update dependency lockfiles and requirements
 - [2016-12-28T08:34:24] Update dependency lockfiles and requirements
 - [2016-12-29T13:53:29] Update documentation and architectural guides
+- [2016-12-29T17:36:48] Refactor cookie refresher probe logic
