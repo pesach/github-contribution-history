@@ -11882,3 +11882,4 @@
 - [2016-12-28T08:11:41] Update B2 storage chunking parameters
 - [2016-12-28T15:21:20] Optimize PostgreSQL query execution plans
 - [2016-12-28T19:51:42] Improve ffmpeg streaming pipe buffer management
+- [2016-12-28T22:42:30] Refactor worker polling logic
