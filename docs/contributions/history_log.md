@@ -11894,3 +11894,4 @@
 - [2016-12-29T17:36:48] Refactor cookie refresher probe logic
 - [2016-12-29T10:42:02] Update dependency lockfiles and requirements
 - [2016-12-29T21:13:48] Implement streaming upload chunk buffer optimization
+- [2016-12-29T11:05:27] Update B2 storage chunking parameters
