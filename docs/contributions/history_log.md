@@ -11904,3 +11904,4 @@
 - [2016-12-30T13:32:47] Refactor worker polling logic
 - [2016-12-30T18:19:27] Implement streaming upload chunk buffer optimization
 - [2016-12-30T21:46:18] Refactor cookie refresher probe logic
+- [2016-12-30T22:38:13] Clean up legacy worker task routines
