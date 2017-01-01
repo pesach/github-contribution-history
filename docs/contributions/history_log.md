@@ -11911,3 +11911,4 @@
 - [2017-01-01T10:09:02] Enhance dashboard statistics rendering
 - [2017-01-01T20:02:54] Clean up legacy worker task routines
 - [2017-01-01T17:38:45] Add retries for transient network drops
+- [2017-01-01T17:05:48] Improve ffmpeg streaming pipe buffer management
