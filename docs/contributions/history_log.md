@@ -11910,3 +11910,4 @@
 - [2016-12-30T20:33:54] Improve logging and health endpoint metrics
 - [2017-01-01T10:09:02] Enhance dashboard statistics rendering
 - [2017-01-01T20:02:54] Clean up legacy worker task routines
+- [2017-01-01T17:38:45] Add retries for transient network drops
