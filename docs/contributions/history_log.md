@@ -11919,3 +11919,4 @@
 - [2017-01-02T21:06:55] Update automated pytest test suites
 - [2017-01-02T14:12:40] Update B2 storage chunking parameters
 - [2017-01-02T16:15:28] Refactor storage upload retry mechanism
+- [2017-01-02T11:48:44] Add retries for transient network drops
