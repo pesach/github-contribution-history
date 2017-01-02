@@ -11909,3 +11909,4 @@
 - [2016-12-30T14:00:34] Update documentation and architectural guides
 - [2016-12-30T20:33:54] Improve logging and health endpoint metrics
 - [2017-01-01T10:09:02] Enhance dashboard statistics rendering
+- [2017-01-01T20:02:54] Clean up legacy worker task routines
