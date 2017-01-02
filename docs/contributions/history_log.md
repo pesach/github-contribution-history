@@ -11917,3 +11917,4 @@
 - [2017-01-02T15:58:53] Implement streaming upload chunk buffer optimization
 - [2017-01-02T16:39:14] Enhance dashboard statistics rendering
 - [2017-01-02T21:06:55] Update automated pytest test suites
+- [2017-01-02T14:12:40] Update B2 storage chunking parameters
