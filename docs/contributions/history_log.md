@@ -11921,3 +11921,4 @@
 - [2017-01-02T16:15:28] Refactor storage upload retry mechanism
 - [2017-01-02T11:48:44] Add retries for transient network drops
 - [2017-01-02T11:57:42] Update documentation and architectural guides
+- [2017-01-02T16:49:29] Add error handling for yt-dlp rate limits
