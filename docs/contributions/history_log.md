@@ -11926,3 +11926,4 @@
 - [2017-01-03T16:18:55] Refactor cookie refresher probe logic
 - [2017-01-03T21:03:08] Update automated pytest test suites
 - [2017-01-03T22:12:58] Add Prometheus exporter endpoints for queue length
+- [2017-01-03T11:16:49] Refactor storage upload retry mechanism
