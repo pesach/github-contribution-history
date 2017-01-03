@@ -11929,3 +11929,4 @@
 - [2017-01-03T11:16:49] Refactor storage upload retry mechanism
 - [2017-01-03T18:15:26] Clean up legacy worker task routines
 - [2017-01-03T16:27:54] Refactor worker polling logic
+- [2017-01-03T12:29:00] Fix edge case in URL parsing and validation
