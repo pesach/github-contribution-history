@@ -11939,3 +11939,4 @@
 - [2017-01-04T12:42:26] Refactor worker polling logic
 - [2017-01-04T18:08:42] Refactor cookie refresher probe logic
 - [2017-01-04T22:17:21] Refactor cookie refresher probe logic
+- [2017-01-04T10:07:13] Update documentation and architectural guides
