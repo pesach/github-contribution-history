@@ -11936,3 +11936,4 @@
 - [2017-01-04T19:27:17] Optimize PostgreSQL query execution plans
 - [2017-01-04T20:23:13] Update dependency lockfiles and requirements
 - [2017-01-04T16:36:40] Refactor storage upload retry mechanism
+- [2017-01-04T12:42:26] Refactor worker polling logic
