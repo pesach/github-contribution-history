@@ -11935,3 +11935,4 @@
 - [2017-01-04T10:12:26] Add retries for transient network drops
 - [2017-01-04T19:27:17] Optimize PostgreSQL query execution plans
 - [2017-01-04T20:23:13] Update dependency lockfiles and requirements
+- [2017-01-04T16:36:40] Refactor storage upload retry mechanism
