@@ -11934,3 +11934,4 @@
 - [2017-01-04T21:10:29] Update automated pytest test suites
 - [2017-01-04T10:12:26] Add retries for transient network drops
 - [2017-01-04T19:27:17] Optimize PostgreSQL query execution plans
+- [2017-01-04T20:23:13] Update dependency lockfiles and requirements
