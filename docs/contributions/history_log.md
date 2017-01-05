@@ -11933,3 +11933,4 @@
 - [2017-01-04T12:35:56] Update schema migration helpers
 - [2017-01-04T21:10:29] Update automated pytest test suites
 - [2017-01-04T10:12:26] Add retries for transient network drops
+- [2017-01-04T19:27:17] Optimize PostgreSQL query execution plans
