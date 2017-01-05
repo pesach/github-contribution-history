@@ -11931,3 +11931,4 @@
 - [2017-01-03T16:27:54] Refactor worker polling logic
 - [2017-01-03T12:29:00] Fix edge case in URL parsing and validation
 - [2017-01-04T12:35:56] Update schema migration helpers
+- [2017-01-04T21:10:29] Update automated pytest test suites
