@@ -11954,3 +11954,4 @@
 - [2017-01-05T10:43:21] Fix edge case in URL parsing and validation
 - [2017-01-05T21:10:19] Implement streaming upload chunk buffer optimization
 - [2017-01-05T14:39:40] Optimize PostgreSQL query execution plans
+- [2017-01-06T09:46:54] Refactor worker polling logic
