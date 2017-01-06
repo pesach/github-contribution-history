@@ -11952,3 +11952,4 @@
 - [2017-01-05T09:02:35] Refactor cookie refresher probe logic
 - [2017-01-05T09:59:25] Update automated pytest test suites
 - [2017-01-05T10:43:21] Fix edge case in URL parsing and validation
+- [2017-01-05T21:10:19] Implement streaming upload chunk buffer optimization
