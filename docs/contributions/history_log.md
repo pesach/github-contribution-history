@@ -11959,3 +11959,4 @@
 - [2017-01-06T14:28:46] Optimize PostgreSQL query execution plans
 - [2017-01-06T20:00:44] Improve logging and health endpoint metrics
 - [2017-01-06T20:46:15] Fix edge case in URL parsing and validation
+- [2017-01-06T12:53:43] Update B2 storage chunking parameters
