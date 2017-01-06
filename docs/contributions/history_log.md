@@ -11948,3 +11948,4 @@
 - [2017-01-05T22:02:10] Refactor cookie refresher probe logic
 - [2017-01-05T09:38:41] Refactor storage upload retry mechanism
 - [2017-01-05T19:26:55] Update automated pytest test suites
+- [2017-01-05T19:10:30] Improve ffmpeg streaming pipe buffer management
