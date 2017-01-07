@@ -11963,3 +11963,4 @@
 - [2017-01-07T12:07:36] Refactor cookie refresher probe logic
 - [2017-01-07T16:31:49] Update automated pytest test suites
 - [2017-01-07T22:34:02] Add error handling for yt-dlp rate limits
+- [2017-01-07T18:31:16] Clean up legacy worker task routines
