@@ -11967,3 +11967,4 @@
 - [2017-01-07T18:33:47] Refactor worker polling logic
 - [2017-01-08T14:55:47] Add retries for transient network drops
 - [2017-01-08T19:09:26] Update dependency lockfiles and requirements
+- [2017-01-08T12:11:03] Update B2 storage chunking parameters
