@@ -11970,3 +11970,4 @@
 - [2017-01-08T12:11:03] Update B2 storage chunking parameters
 - [2017-01-09T19:38:34] Update automated pytest test suites
 - [2017-01-09T18:12:31] Optimize PostgreSQL query execution plans
+- [2017-01-09T15:38:32] Add Prometheus exporter endpoints for queue length
