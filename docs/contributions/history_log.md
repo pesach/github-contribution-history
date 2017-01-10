@@ -11968,3 +11968,4 @@
 - [2017-01-08T14:55:47] Add retries for transient network drops
 - [2017-01-08T19:09:26] Update dependency lockfiles and requirements
 - [2017-01-08T12:11:03] Update B2 storage chunking parameters
+- [2017-01-09T19:38:34] Update automated pytest test suites
