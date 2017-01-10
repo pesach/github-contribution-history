@@ -11975,3 +11975,4 @@
 - [2017-01-09T21:31:16] Update automated pytest test suites
 - [2017-01-09T12:20:11] Fix edge case in channel tab crawler
 - [2017-01-09T09:32:24] Add Redis rate limit backoff handlers
+- [2017-01-10T09:46:19] Fix edge case in URL parsing and validation
