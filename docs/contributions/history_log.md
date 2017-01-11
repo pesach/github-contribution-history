@@ -11987,3 +11987,4 @@
 - [2017-01-11T22:57:35] Update automated pytest test suites
 - [2017-01-11T13:49:13] Add retries for transient network drops
 - [2017-01-11T16:13:45] Update B2 storage chunking parameters
+- [2017-01-11T15:57:34] Fix edge case in URL parsing and validation
