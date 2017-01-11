@@ -11994,3 +11994,4 @@
 - [2017-01-11T11:14:37] Update schema migration helpers
 - [2017-01-11T08:49:24] Fix edge case in URL parsing and validation
 - [2017-01-11T21:14:17] Improve ffmpeg streaming pipe buffer management
+- [2017-01-11T17:59:42] Refactor cookie refresher probe logic
