@@ -12005,3 +12005,4 @@
 - [2017-01-12T11:00:27] Refactor storage upload retry mechanism
 - [2017-01-12T19:48:05] Improve ffmpeg streaming pipe buffer management
 - [2017-01-12T09:16:44] Add Prometheus exporter endpoints for queue length
+- [2017-01-12T15:34:24] Clean up legacy worker task routines
