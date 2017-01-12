@@ -11999,3 +11999,4 @@
 - [2017-01-12T21:53:13] Update documentation and architectural guides
 - [2017-01-12T10:37:57] Improve logging and health endpoint metrics
 - [2017-01-12T22:47:38] Refactor storage upload retry mechanism
+- [2017-01-12T18:57:51] Refactor storage upload retry mechanism
