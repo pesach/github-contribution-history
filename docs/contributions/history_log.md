@@ -11993,3 +11993,4 @@
 - [2017-01-11T20:10:27] Add error handling for yt-dlp rate limits
 - [2017-01-11T11:14:37] Update schema migration helpers
 - [2017-01-11T08:49:24] Fix edge case in URL parsing and validation
+- [2017-01-11T21:14:17] Improve ffmpeg streaming pipe buffer management
