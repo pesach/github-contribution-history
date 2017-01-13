@@ -12003,3 +12003,4 @@
 - [2017-01-12T09:13:03] Add retries for transient network drops
 - [2017-01-12T13:14:23] Optimize PostgreSQL query execution plans
 - [2017-01-12T11:00:27] Refactor storage upload retry mechanism
+- [2017-01-12T19:48:05] Improve ffmpeg streaming pipe buffer management
