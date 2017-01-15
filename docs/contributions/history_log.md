@@ -12010,3 +12010,4 @@
 - [2017-01-12T19:21:08] Update schema migration helpers
 - [2017-01-12T19:13:07] Implement streaming upload chunk buffer optimization
 - [2017-01-12T20:44:12] Improve logging and health endpoint metrics
+- [2017-01-15T18:19:18] Add Prometheus exporter endpoints for queue length
