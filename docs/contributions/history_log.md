@@ -12013,3 +12013,4 @@
 - [2017-01-15T18:19:18] Add Prometheus exporter endpoints for queue length
 - [2017-01-15T13:15:18] Implement streaming upload chunk buffer optimization
 - [2017-01-15T13:20:44] Update automated pytest test suites
+- [2017-01-15T14:42:15] Add retries for transient network drops
