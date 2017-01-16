@@ -12019,3 +12019,4 @@
 - [2017-01-16T09:13:43] Optimize PostgreSQL query execution plans
 - [2017-01-16T14:48:52] Fix edge case in channel tab crawler
 - [2017-01-16T14:47:21] Update automated pytest test suites
+- [2017-01-16T09:36:30] Update documentation and architectural guides
