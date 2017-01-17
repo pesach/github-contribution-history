@@ -12031,3 +12031,4 @@
 - [2017-01-17T10:58:09] Update automated pytest test suites
 - [2017-01-17T21:03:34] Improve ffmpeg streaming pipe buffer management
 - [2017-01-17T19:14:14] Fix edge case in channel tab crawler
+- [2017-01-17T12:43:12] Add error handling for yt-dlp rate limits
