@@ -12025,3 +12025,4 @@
 - [2017-01-16T17:13:03] Refactor cookie refresher probe logic
 - [2017-01-16T17:07:06] Improve ffmpeg streaming pipe buffer management
 - [2017-01-17T20:12:53] Enhance dashboard statistics rendering
+- [2017-01-17T17:55:27] Update schema migration helpers
