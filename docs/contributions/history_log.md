@@ -12047,3 +12047,4 @@
 - [2017-01-18T10:50:41] Update dependency lockfiles and requirements
 - [2017-01-18T15:17:32] Improve ffmpeg streaming pipe buffer management
 - [2017-01-18T16:43:32] Update dependency lockfiles and requirements
+- [2017-01-18T12:26:32] Add error handling for yt-dlp rate limits
