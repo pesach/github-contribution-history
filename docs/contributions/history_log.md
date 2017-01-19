@@ -12054,3 +12054,4 @@
 - [2017-01-19T14:27:47] Update dependency lockfiles and requirements
 - [2017-01-19T15:34:01] Update dependency lockfiles and requirements
 - [2017-01-19T17:33:44] Update automated pytest test suites
+- [2017-01-19T15:24:01] Refactor storage upload retry mechanism
