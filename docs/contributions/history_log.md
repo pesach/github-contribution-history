@@ -12056,3 +12056,4 @@
 - [2017-01-19T17:33:44] Update automated pytest test suites
 - [2017-01-19T15:24:01] Refactor storage upload retry mechanism
 - [2017-01-19T11:04:52] Update B2 storage chunking parameters
+- [2017-01-20T11:45:58] Update dependency lockfiles and requirements
