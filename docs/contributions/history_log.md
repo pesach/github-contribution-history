@@ -12059,3 +12059,4 @@
 - [2017-01-20T11:45:58] Update dependency lockfiles and requirements
 - [2017-01-20T17:52:00] Add Prometheus exporter endpoints for queue length
 - [2017-01-20T20:12:41] Implement streaming upload chunk buffer optimization
+- [2017-01-20T10:47:22] Fix edge case in channel tab crawler
