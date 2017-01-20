@@ -12063,3 +12063,4 @@
 - [2017-01-20T09:29:00] Clean up legacy worker task routines
 - [2017-01-20T09:58:01] Add Prometheus exporter endpoints for queue length
 - [2017-01-20T16:30:16] Refactor cookie refresher probe logic
+- [2017-01-20T13:30:44] Add Prometheus exporter endpoints for queue length
