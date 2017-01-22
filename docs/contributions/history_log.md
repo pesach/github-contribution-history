@@ -12067,3 +12067,4 @@
 - [2017-01-21T21:42:05] Refactor worker polling logic
 - [2017-01-21T08:07:23] Update automated pytest test suites
 - [2017-01-21T20:48:52] Fix edge case in URL parsing and validation
+- [2017-01-22T15:53:09] Implement streaming upload chunk buffer optimization
