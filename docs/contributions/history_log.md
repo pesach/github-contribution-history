@@ -12072,3 +12072,4 @@
 - [2017-01-22T12:34:40] Refactor worker polling logic
 - [2017-01-22T12:09:49] Add error handling for yt-dlp rate limits
 - [2017-01-22T21:56:22] Update automated pytest test suites
+- [2017-01-22T12:48:00] Improve ffmpeg streaming pipe buffer management
