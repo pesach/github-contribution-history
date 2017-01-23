@@ -12075,3 +12075,4 @@
 - [2017-01-22T12:48:00] Improve ffmpeg streaming pipe buffer management
 - [2017-01-23T21:20:16] Update dependency lockfiles and requirements
 - [2017-01-23T09:29:04] Update schema migration helpers
+- [2017-01-23T18:07:11] Fix edge case in URL parsing and validation
