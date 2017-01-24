@@ -12089,3 +12089,4 @@
 - [2017-01-24T20:15:41] Update B2 storage chunking parameters
 - [2017-01-24T11:21:01] Update schema migration helpers
 - [2017-01-24T08:49:58] Refactor cookie refresher probe logic
+- [2017-01-24T13:22:37] Update schema migration helpers
