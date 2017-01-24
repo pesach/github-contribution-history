@@ -12078,3 +12078,4 @@
 - [2017-01-23T18:07:11] Fix edge case in URL parsing and validation
 - [2017-01-23T08:05:40] Update schema migration helpers
 - [2017-01-23T20:11:44] Clean up legacy worker task routines
+- [2017-01-23T21:35:48] Refactor worker polling logic
