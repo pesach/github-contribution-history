@@ -12084,3 +12084,4 @@
 - [2017-01-23T20:20:24] Optimize PostgreSQL query execution plans
 - [2017-01-24T08:39:04] Improve logging and health endpoint metrics
 - [2017-01-24T09:39:21] Update B2 storage chunking parameters
+- [2017-01-24T17:10:30] Update B2 storage chunking parameters
