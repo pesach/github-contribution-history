@@ -12085,3 +12085,4 @@
 - [2017-01-24T08:39:04] Improve logging and health endpoint metrics
 - [2017-01-24T09:39:21] Update B2 storage chunking parameters
 - [2017-01-24T17:10:30] Update B2 storage chunking parameters
+- [2017-01-24T18:33:12] Enhance dashboard statistics rendering
