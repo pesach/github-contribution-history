@@ -12099,3 +12099,4 @@
 - [2017-01-25T19:00:57] Update dependency lockfiles and requirements
 - [2017-01-25T14:31:34] Add retries for transient network drops
 - [2017-01-25T22:42:49] Improve ffmpeg streaming pipe buffer management
+- [2017-01-25T08:40:07] Refactor storage upload retry mechanism
