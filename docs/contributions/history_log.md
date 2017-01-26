@@ -12100,3 +12100,4 @@
 - [2017-01-25T14:31:34] Add retries for transient network drops
 - [2017-01-25T22:42:49] Improve ffmpeg streaming pipe buffer management
 - [2017-01-25T08:40:07] Refactor storage upload retry mechanism
+- [2017-01-26T10:56:13] Implement streaming upload chunk buffer optimization
