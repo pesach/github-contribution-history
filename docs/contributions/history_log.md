@@ -12116,3 +12116,4 @@
 - [2017-01-27T21:06:37] Optimize PostgreSQL query execution plans
 - [2017-01-27T15:51:16] Update schema migration helpers
 - [2017-01-27T13:06:28] Refactor storage upload retry mechanism
+- [2017-01-27T18:14:50] Add retries for transient network drops
