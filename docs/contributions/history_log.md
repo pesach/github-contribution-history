@@ -12115,3 +12115,4 @@
 - [2017-01-27T18:24:36] Update automated pytest test suites
 - [2017-01-27T21:06:37] Optimize PostgreSQL query execution plans
 - [2017-01-27T15:51:16] Update schema migration helpers
+- [2017-01-27T13:06:28] Refactor storage upload retry mechanism
