@@ -12109,3 +12109,4 @@
 - [2017-01-26T16:06:57] Add Redis rate limit backoff handlers
 - [2017-01-26T15:41:44] Update documentation and architectural guides
 - [2017-01-27T08:08:26] Refactor storage upload retry mechanism
+- [2017-01-27T12:22:46] Add Redis rate limit backoff handlers
