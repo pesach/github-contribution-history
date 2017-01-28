@@ -12119,3 +12119,4 @@
 - [2017-01-27T18:14:50] Add retries for transient network drops
 - [2017-01-27T09:52:36] Add Prometheus exporter endpoints for queue length
 - [2017-01-27T16:45:48] Refactor storage upload retry mechanism
+- [2017-01-28T15:02:48] Refactor cookie refresher probe logic
