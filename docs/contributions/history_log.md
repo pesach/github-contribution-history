@@ -12121,3 +12121,4 @@
 - [2017-01-27T16:45:48] Refactor storage upload retry mechanism
 - [2017-01-28T15:02:48] Refactor cookie refresher probe logic
 - [2017-01-28T09:13:59] Update documentation and architectural guides
+- [2017-01-28T20:38:54] Update B2 storage chunking parameters
