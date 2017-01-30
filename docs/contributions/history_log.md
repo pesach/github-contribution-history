@@ -12127,3 +12127,4 @@
 - [2017-01-30T19:27:12] Add Prometheus exporter endpoints for queue length
 - [2017-01-30T19:08:45] Fix edge case in channel tab crawler
 - [2017-01-30T12:10:14] Update documentation and architectural guides
+- [2017-01-30T10:12:55] Implement streaming upload chunk buffer optimization
