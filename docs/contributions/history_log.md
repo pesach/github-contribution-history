@@ -12130,3 +12130,4 @@
 - [2017-01-30T10:12:55] Implement streaming upload chunk buffer optimization
 - [2017-01-30T10:55:01] Improve logging and health endpoint metrics
 - [2017-01-30T22:03:53] Update automated pytest test suites
+- [2017-01-30T17:16:30] Refactor storage upload retry mechanism
