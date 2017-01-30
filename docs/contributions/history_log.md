@@ -12131,3 +12131,4 @@
 - [2017-01-30T10:55:01] Improve logging and health endpoint metrics
 - [2017-01-30T22:03:53] Update automated pytest test suites
 - [2017-01-30T17:16:30] Refactor storage upload retry mechanism
+- [2017-01-30T13:38:48] Refactor cookie refresher probe logic
