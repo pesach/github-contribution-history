@@ -12125,3 +12125,4 @@
 - [2017-01-30T14:40:31] Update documentation and architectural guides
 - [2017-01-30T11:15:42] Refactor storage upload retry mechanism
 - [2017-01-30T19:27:12] Add Prometheus exporter endpoints for queue length
+- [2017-01-30T19:08:45] Fix edge case in channel tab crawler
