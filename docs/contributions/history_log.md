@@ -12139,3 +12139,4 @@
 - [2017-01-31T20:13:52] Add Redis rate limit backoff handlers
 - [2017-01-31T11:15:41] Refactor cookie refresher probe logic
 - [2017-01-31T11:34:05] Add Redis rate limit backoff handlers
+- [2017-01-31T10:22:19] Implement streaming upload chunk buffer optimization
