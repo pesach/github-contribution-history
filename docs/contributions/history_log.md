@@ -12134,3 +12134,4 @@
 - [2017-01-30T13:38:48] Refactor cookie refresher probe logic
 - [2017-01-31T13:47:28] Improve ffmpeg streaming pipe buffer management
 - [2017-01-31T13:14:47] Update B2 storage chunking parameters
+- [2017-01-31T13:00:48] Update automated pytest test suites
