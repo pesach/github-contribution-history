@@ -12145,3 +12145,4 @@
 - [2017-01-31T08:07:17] Improve logging and health endpoint metrics
 - [2017-01-31T14:35:15] Refactor cookie refresher probe logic
 - [2017-01-31T09:56:28] Fix edge case in channel tab crawler
+- [2017-02-01T13:23:03] Fix edge case in channel tab crawler
