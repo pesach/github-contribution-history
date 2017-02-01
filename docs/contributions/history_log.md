@@ -12136,3 +12136,4 @@
 - [2017-01-31T13:14:47] Update B2 storage chunking parameters
 - [2017-01-31T13:00:48] Update automated pytest test suites
 - [2017-01-31T10:50:41] Refactor worker polling logic
+- [2017-01-31T20:13:52] Add Redis rate limit backoff handlers
