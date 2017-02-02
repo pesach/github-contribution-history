@@ -12154,3 +12154,4 @@
 - [2017-02-01T12:07:22] Enhance dashboard statistics rendering
 - [2017-02-02T22:48:56] Fix edge case in URL parsing and validation
 - [2017-02-02T20:25:48] Update B2 storage chunking parameters
+- [2017-02-02T10:06:52] Fix edge case in URL parsing and validation
