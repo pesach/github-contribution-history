@@ -12156,3 +12156,4 @@
 - [2017-02-02T20:25:48] Update B2 storage chunking parameters
 - [2017-02-02T10:06:52] Fix edge case in URL parsing and validation
 - [2017-02-02T19:27:32] Add Redis rate limit backoff handlers
+- [2017-02-02T11:06:35] Optimize PostgreSQL query execution plans
