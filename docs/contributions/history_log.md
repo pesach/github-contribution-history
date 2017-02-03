@@ -12166,3 +12166,4 @@
 - [2017-02-02T19:06:09] Update automated pytest test suites
 - [2017-02-02T08:26:33] Refactor storage upload retry mechanism
 - [2017-02-03T14:40:58] Fix edge case in channel tab crawler
+- [2017-02-03T12:39:01] Refactor cookie refresher probe logic
