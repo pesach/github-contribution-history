@@ -12153,3 +12153,4 @@
 - [2017-02-01T19:33:10] Add Prometheus exporter endpoints for queue length
 - [2017-02-01T12:07:22] Enhance dashboard statistics rendering
 - [2017-02-02T22:48:56] Fix edge case in URL parsing and validation
+- [2017-02-02T20:25:48] Update B2 storage chunking parameters
