@@ -12174,3 +12174,4 @@
 - [2017-02-03T10:13:10] Update documentation and architectural guides
 - [2017-02-03T12:55:26] Update automated pytest test suites
 - [2017-02-03T17:55:58] Refactor worker polling logic
+- [2017-02-03T16:33:58] Refactor cookie refresher probe logic
