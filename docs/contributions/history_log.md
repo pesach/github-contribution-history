@@ -12152,3 +12152,4 @@
 - [2017-02-01T22:51:54] Improve logging and health endpoint metrics
 - [2017-02-01T19:33:10] Add Prometheus exporter endpoints for queue length
 - [2017-02-01T12:07:22] Enhance dashboard statistics rendering
+- [2017-02-02T22:48:56] Fix edge case in URL parsing and validation
