@@ -12168,3 +12168,4 @@
 - [2017-02-03T14:40:58] Fix edge case in channel tab crawler
 - [2017-02-03T12:39:01] Refactor cookie refresher probe logic
 - [2017-02-03T08:49:59] Clean up legacy worker task routines
+- [2017-02-03T22:45:46] Optimize PostgreSQL query execution plans
