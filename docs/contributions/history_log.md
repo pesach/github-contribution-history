@@ -12178,3 +12178,4 @@
 - [2017-02-03T21:36:38] Optimize PostgreSQL query execution plans
 - [2017-02-03T15:14:47] Add retries for transient network drops
 - [2017-02-05T21:00:20] Update automated pytest test suites
+- [2017-02-05T08:50:16] Fix edge case in URL parsing and validation
