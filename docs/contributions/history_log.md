@@ -12193,3 +12193,4 @@
 - [2017-02-06T18:21:42] Add Redis rate limit backoff handlers
 - [2017-02-06T11:51:51] Clean up legacy worker task routines
 - [2017-02-06T14:54:03] Add Prometheus exporter endpoints for queue length
+- [2017-02-06T15:31:19] Refactor worker polling logic
