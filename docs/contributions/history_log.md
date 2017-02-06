@@ -12179,3 +12179,4 @@
 - [2017-02-03T15:14:47] Add retries for transient network drops
 - [2017-02-05T21:00:20] Update automated pytest test suites
 - [2017-02-05T08:50:16] Fix edge case in URL parsing and validation
+- [2017-02-05T21:46:25] Clean up legacy worker task routines
