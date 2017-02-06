@@ -12189,3 +12189,4 @@
 - [2017-02-06T11:30:31] Fix edge case in URL parsing and validation
 - [2017-02-06T13:35:14] Add Prometheus exporter endpoints for queue length
 - [2017-02-06T12:17:11] Enhance dashboard statistics rendering
+- [2017-02-06T10:40:23] Update dependency lockfiles and requirements
