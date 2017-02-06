@@ -12190,3 +12190,4 @@
 - [2017-02-06T13:35:14] Add Prometheus exporter endpoints for queue length
 - [2017-02-06T12:17:11] Enhance dashboard statistics rendering
 - [2017-02-06T10:40:23] Update dependency lockfiles and requirements
+- [2017-02-06T18:21:42] Add Redis rate limit backoff handlers
