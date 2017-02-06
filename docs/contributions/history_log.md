@@ -12182,3 +12182,4 @@
 - [2017-02-05T21:46:25] Clean up legacy worker task routines
 - [2017-02-05T08:36:45] Add error handling for yt-dlp rate limits
 - [2017-02-06T09:42:48] Add retries for transient network drops
+- [2017-02-06T12:39:29] Add Redis rate limit backoff handlers
