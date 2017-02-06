@@ -12187,3 +12187,4 @@
 - [2017-02-06T13:49:16] Add error handling for yt-dlp rate limits
 - [2017-02-06T14:10:08] Add Redis rate limit backoff handlers
 - [2017-02-06T11:30:31] Fix edge case in URL parsing and validation
+- [2017-02-06T13:35:14] Add Prometheus exporter endpoints for queue length
