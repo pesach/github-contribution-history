@@ -12203,3 +12203,4 @@
 - [2017-02-07T10:29:33] Update schema migration helpers
 - [2017-02-07T20:31:51] Fix edge case in URL parsing and validation
 - [2017-02-07T09:34:25] Update B2 storage chunking parameters
+- [2017-02-07T17:13:20] Update dependency lockfiles and requirements
