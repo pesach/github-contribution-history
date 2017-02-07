@@ -12205,3 +12205,4 @@
 - [2017-02-07T09:34:25] Update B2 storage chunking parameters
 - [2017-02-07T17:13:20] Update dependency lockfiles and requirements
 - [2017-02-07T13:38:42] Update schema migration helpers
+- [2017-02-07T08:34:30] Clean up legacy worker task routines
