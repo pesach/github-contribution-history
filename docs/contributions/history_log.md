@@ -12200,3 +12200,4 @@
 - [2017-02-07T12:29:03] Update automated pytest test suites
 - [2017-02-07T10:39:53] Implement streaming upload chunk buffer optimization
 - [2017-02-07T10:38:21] Update automated pytest test suites
+- [2017-02-07T10:29:33] Update schema migration helpers
