@@ -12213,3 +12213,4 @@
 - [2017-02-08T15:35:58] Add Prometheus exporter endpoints for queue length
 - [2017-02-08T14:28:12] Add retries for transient network drops
 - [2017-02-08T11:54:12] Update B2 storage chunking parameters
+- [2017-02-08T18:35:18] Fix edge case in channel tab crawler
