@@ -12211,3 +12211,4 @@
 - [2017-02-08T13:17:56] Improve ffmpeg streaming pipe buffer management
 - [2017-02-08T20:35:53] Clean up legacy worker task routines
 - [2017-02-08T15:35:58] Add Prometheus exporter endpoints for queue length
+- [2017-02-08T14:28:12] Add retries for transient network drops
