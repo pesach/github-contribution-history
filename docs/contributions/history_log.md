@@ -12224,3 +12224,4 @@
 - [2017-02-09T10:50:06] Implement streaming upload chunk buffer optimization
 - [2017-02-09T14:27:42] Add Redis rate limit backoff handlers
 - [2017-02-09T15:02:15] Update dependency lockfiles and requirements
+- [2017-02-09T15:16:46] Add error handling for yt-dlp rate limits
