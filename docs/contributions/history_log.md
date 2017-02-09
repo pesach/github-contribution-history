@@ -12222,3 +12222,4 @@
 - [2017-02-09T21:55:43] Update automated pytest test suites
 - [2017-02-09T21:39:09] Update B2 storage chunking parameters
 - [2017-02-09T10:50:06] Implement streaming upload chunk buffer optimization
+- [2017-02-09T14:27:42] Add Redis rate limit backoff handlers
