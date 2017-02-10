@@ -12230,3 +12230,4 @@
 - [2017-02-10T13:29:36] Clean up legacy worker task routines
 - [2017-02-10T15:53:04] Add error handling for yt-dlp rate limits
 - [2017-02-10T09:36:18] Improve ffmpeg streaming pipe buffer management
+- [2017-02-10T10:28:15] Update schema migration helpers
