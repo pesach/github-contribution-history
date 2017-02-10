@@ -12227,3 +12227,4 @@
 - [2017-02-09T15:16:46] Add error handling for yt-dlp rate limits
 - [2017-02-09T09:05:56] Update B2 storage chunking parameters
 - [2017-02-09T22:35:30] Add error handling for yt-dlp rate limits
+- [2017-02-10T13:29:36] Clean up legacy worker task routines
