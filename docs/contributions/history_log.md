@@ -12233,3 +12233,4 @@
 - [2017-02-10T10:28:15] Update schema migration helpers
 - [2017-02-10T08:21:14] Update dependency lockfiles and requirements
 - [2017-02-10T20:20:00] Add Redis rate limit backoff handlers
+- [2017-02-12T11:14:01] Update dependency lockfiles and requirements
