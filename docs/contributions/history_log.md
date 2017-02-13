@@ -12240,3 +12240,4 @@
 - [2017-02-13T17:48:11] Refactor worker polling logic
 - [2017-02-13T19:59:11] Update documentation and architectural guides
 - [2017-02-13T21:47:06] Refactor cookie refresher probe logic
+- [2017-02-13T13:39:02] Improve ffmpeg streaming pipe buffer management
