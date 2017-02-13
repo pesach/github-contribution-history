@@ -12237,3 +12237,4 @@
 - [2017-02-12T09:00:31] Optimize PostgreSQL query execution plans
 - [2017-02-12T11:37:33] Improve ffmpeg streaming pipe buffer management
 - [2017-02-12T15:58:49] Refactor cookie refresher probe logic
+- [2017-02-13T17:48:11] Refactor worker polling logic
