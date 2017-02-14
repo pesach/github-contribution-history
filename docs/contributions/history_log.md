@@ -12244,3 +12244,4 @@
 - [2017-02-13T12:24:28] Update B2 storage chunking parameters
 - [2017-02-13T13:50:55] Fix edge case in channel tab crawler
 - [2017-02-13T14:17:24] Refactor cookie refresher probe logic
+- [2017-02-13T22:23:42] Optimize PostgreSQL query execution plans
