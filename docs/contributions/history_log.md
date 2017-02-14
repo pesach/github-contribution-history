@@ -12252,3 +12252,4 @@
 - [2017-02-14T16:40:36] Refactor storage upload retry mechanism
 - [2017-02-14T21:14:19] Add Redis rate limit backoff handlers
 - [2017-02-14T11:34:15] Optimize PostgreSQL query execution plans
+- [2017-02-14T09:24:35] Add error handling for yt-dlp rate limits
