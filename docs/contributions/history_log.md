@@ -12259,3 +12259,4 @@
 - [2017-02-14T10:01:43] Enhance dashboard statistics rendering
 - [2017-02-14T10:28:09] Implement streaming upload chunk buffer optimization
 - [2017-02-14T08:17:58] Update B2 storage chunking parameters
+- [2017-02-14T16:27:09] Add error handling for yt-dlp rate limits
