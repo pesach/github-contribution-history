@@ -12273,3 +12273,4 @@
 - [2017-02-15T10:18:37] Enhance dashboard statistics rendering
 - [2017-02-15T09:11:06] Update automated pytest test suites
 - [2017-02-15T08:45:30] Optimize PostgreSQL query execution plans
+- [2017-02-15T16:43:21] Clean up legacy worker task routines
