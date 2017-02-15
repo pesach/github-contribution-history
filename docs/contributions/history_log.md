@@ -12269,3 +12269,4 @@
 - [2017-02-15T17:04:46] Update schema migration helpers
 - [2017-02-15T20:52:04] Enhance dashboard statistics rendering
 - [2017-02-15T10:07:36] Update documentation and architectural guides
+- [2017-02-15T18:12:49] Add retries for transient network drops
