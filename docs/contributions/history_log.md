@@ -12265,3 +12265,4 @@
 - [2017-02-15T13:09:23] Update dependency lockfiles and requirements
 - [2017-02-15T20:00:54] Update schema migration helpers
 - [2017-02-15T21:40:58] Update automated pytest test suites
+- [2017-02-15T11:33:28] Add Redis rate limit backoff handlers
