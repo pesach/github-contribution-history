@@ -12281,3 +12281,4 @@
 - [2017-02-16T22:35:47] Refactor cookie refresher probe logic
 - [2017-02-16T20:17:39] Update dependency lockfiles and requirements
 - [2017-02-16T14:42:31] Add retries for transient network drops
+- [2017-02-16T17:40:58] Optimize PostgreSQL query execution plans
