@@ -12285,3 +12285,4 @@
 - [2017-02-16T22:51:25] Update documentation and architectural guides
 - [2017-02-16T20:31:14] Update B2 storage chunking parameters
 - [2017-02-16T16:49:11] Update automated pytest test suites
+- [2017-02-16T08:01:36] Update schema migration helpers
