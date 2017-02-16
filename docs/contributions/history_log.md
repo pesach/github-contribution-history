@@ -12277,3 +12277,4 @@
 - [2017-02-15T20:40:13] Add retries for transient network drops
 - [2017-02-16T19:50:15] Improve ffmpeg streaming pipe buffer management
 - [2017-02-16T13:58:56] Update dependency lockfiles and requirements
+- [2017-02-16T08:59:20] Refactor worker polling logic
