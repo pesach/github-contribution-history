@@ -12274,3 +12274,4 @@
 - [2017-02-15T09:11:06] Update automated pytest test suites
 - [2017-02-15T08:45:30] Optimize PostgreSQL query execution plans
 - [2017-02-15T16:43:21] Clean up legacy worker task routines
+- [2017-02-15T20:40:13] Add retries for transient network drops
