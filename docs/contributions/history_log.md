@@ -12263,3 +12263,4 @@
 - [2017-02-14T17:27:17] Improve ffmpeg streaming pipe buffer management
 - [2017-02-15T18:16:12] Add error handling for yt-dlp rate limits
 - [2017-02-15T13:09:23] Update dependency lockfiles and requirements
+- [2017-02-15T20:00:54] Update schema migration helpers
