@@ -12283,3 +12283,4 @@
 - [2017-02-16T14:42:31] Add retries for transient network drops
 - [2017-02-16T17:40:58] Optimize PostgreSQL query execution plans
 - [2017-02-16T22:51:25] Update documentation and architectural guides
+- [2017-02-16T20:31:14] Update B2 storage chunking parameters
