@@ -12296,3 +12296,4 @@
 - [2017-02-17T09:44:11] Update dependency lockfiles and requirements
 - [2017-02-17T20:29:50] Refactor storage upload retry mechanism
 - [2017-02-17T17:33:08] Improve logging and health endpoint metrics
+- [2017-02-17T17:52:41] Optimize PostgreSQL query execution plans
