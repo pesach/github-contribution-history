@@ -12290,3 +12290,4 @@
 - [2017-02-17T18:35:03] Update schema migration helpers
 - [2017-02-17T13:20:26] Improve logging and health endpoint metrics
 - [2017-02-17T13:52:46] Fix edge case in URL parsing and validation
+- [2017-02-17T10:25:09] Update B2 storage chunking parameters
