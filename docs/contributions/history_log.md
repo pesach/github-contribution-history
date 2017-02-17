@@ -12288,3 +12288,4 @@
 - [2017-02-16T08:01:36] Update schema migration helpers
 - [2017-02-16T14:02:45] Fix edge case in channel tab crawler
 - [2017-02-17T18:35:03] Update schema migration helpers
+- [2017-02-17T13:20:26] Improve logging and health endpoint metrics
