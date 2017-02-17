@@ -12278,3 +12278,4 @@
 - [2017-02-16T19:50:15] Improve ffmpeg streaming pipe buffer management
 - [2017-02-16T13:58:56] Update dependency lockfiles and requirements
 - [2017-02-16T08:59:20] Refactor worker polling logic
+- [2017-02-16T22:35:47] Refactor cookie refresher probe logic
