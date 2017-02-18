@@ -12294,3 +12294,4 @@
 - [2017-02-17T10:54:36] Update schema migration helpers
 - [2017-02-17T18:01:35] Refactor cookie refresher probe logic
 - [2017-02-17T09:44:11] Update dependency lockfiles and requirements
+- [2017-02-17T20:29:50] Refactor storage upload retry mechanism
