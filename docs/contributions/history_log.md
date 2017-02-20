@@ -12306,3 +12306,4 @@
 - [2017-02-18T10:06:59] Fix edge case in URL parsing and validation
 - [2017-02-18T16:56:15] Optimize PostgreSQL query execution plans
 - [2017-02-19T10:09:24] Fix edge case in channel tab crawler
+- [2017-02-19T21:06:57] Refactor storage upload retry mechanism
