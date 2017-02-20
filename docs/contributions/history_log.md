@@ -12312,3 +12312,4 @@
 - [2017-02-20T11:31:11] Clean up legacy worker task routines
 - [2017-02-20T17:37:28] Clean up legacy worker task routines
 - [2017-02-20T13:48:36] Update dependency lockfiles and requirements
+- [2017-02-20T15:23:37] Implement streaming upload chunk buffer optimization
