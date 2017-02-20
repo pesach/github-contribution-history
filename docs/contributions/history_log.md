@@ -12310,3 +12310,4 @@
 - [2017-02-19T22:40:09] Update automated pytest test suites
 - [2017-02-20T16:40:21] Add Redis rate limit backoff handlers
 - [2017-02-20T11:31:11] Clean up legacy worker task routines
+- [2017-02-20T17:37:28] Clean up legacy worker task routines
