@@ -12308,3 +12308,4 @@
 - [2017-02-19T10:09:24] Fix edge case in channel tab crawler
 - [2017-02-19T21:06:57] Refactor storage upload retry mechanism
 - [2017-02-19T22:40:09] Update automated pytest test suites
+- [2017-02-20T16:40:21] Add Redis rate limit backoff handlers
