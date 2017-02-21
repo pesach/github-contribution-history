@@ -12320,3 +12320,4 @@
 - [2017-02-21T22:40:04] Enhance dashboard statistics rendering
 - [2017-02-21T11:45:09] Improve ffmpeg streaming pipe buffer management
 - [2017-02-21T22:16:47] Improve logging and health endpoint metrics
+- [2017-02-21T09:16:18] Update B2 storage chunking parameters
