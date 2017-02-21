@@ -12316,3 +12316,4 @@
 - [2017-02-20T16:11:00] Add error handling for yt-dlp rate limits
 - [2017-02-20T09:51:49] Clean up legacy worker task routines
 - [2017-02-20T11:14:01] Refactor cookie refresher probe logic
+- [2017-02-21T13:49:05] Improve ffmpeg streaming pipe buffer management
