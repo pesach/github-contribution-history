@@ -12329,3 +12329,4 @@
 - [2017-02-22T11:38:13] Improve logging and health endpoint metrics
 - [2017-02-22T18:12:25] Implement streaming upload chunk buffer optimization
 - [2017-02-22T18:57:16] Refactor storage upload retry mechanism
+- [2017-02-22T16:30:12] Add error handling for yt-dlp rate limits
