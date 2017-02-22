@@ -12337,3 +12337,4 @@
 - [2017-02-22T09:41:14] Update documentation and architectural guides
 - [2017-02-22T13:40:43] Refactor cookie refresher probe logic
 - [2017-02-22T16:48:59] Update schema migration helpers
+- [2017-02-22T18:32:56] Fix edge case in URL parsing and validation
