@@ -12319,3 +12319,4 @@
 - [2017-02-21T13:49:05] Improve ffmpeg streaming pipe buffer management
 - [2017-02-21T22:40:04] Enhance dashboard statistics rendering
 - [2017-02-21T11:45:09] Improve ffmpeg streaming pipe buffer management
+- [2017-02-21T22:16:47] Improve logging and health endpoint metrics
