@@ -12332,3 +12332,4 @@
 - [2017-02-22T16:30:12] Add error handling for yt-dlp rate limits
 - [2017-02-22T16:21:45] Refactor storage upload retry mechanism
 - [2017-02-22T22:01:31] Fix edge case in URL parsing and validation
+- [2017-02-22T21:46:14] Improve ffmpeg streaming pipe buffer management
