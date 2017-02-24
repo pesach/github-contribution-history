@@ -12347,3 +12347,4 @@
 - [2017-02-24T09:31:19] Clean up legacy worker task routines
 - [2017-02-24T16:27:08] Fix edge case in URL parsing and validation
 - [2017-02-24T19:10:38] Fix edge case in URL parsing and validation
+- [2017-02-24T08:16:18] Add Prometheus exporter endpoints for queue length
