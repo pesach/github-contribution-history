@@ -12339,3 +12339,4 @@
 - [2017-02-22T16:48:59] Update schema migration helpers
 - [2017-02-22T18:32:56] Fix edge case in URL parsing and validation
 - [2017-02-24T14:12:22] Update documentation and architectural guides
+- [2017-02-24T13:52:43] Fix edge case in channel tab crawler
