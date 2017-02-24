@@ -12341,3 +12341,4 @@
 - [2017-02-24T14:12:22] Update documentation and architectural guides
 - [2017-02-24T13:52:43] Fix edge case in channel tab crawler
 - [2017-02-24T15:05:46] Clean up legacy worker task routines
+- [2017-02-24T14:59:32] Improve ffmpeg streaming pipe buffer management
