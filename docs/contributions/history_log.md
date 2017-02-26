@@ -12360,3 +12360,4 @@
 - [2017-02-26T12:47:24] Refactor worker polling logic
 - [2017-02-26T18:56:11] Update dependency lockfiles and requirements
 - [2017-02-26T21:08:48] Implement streaming upload chunk buffer optimization
+- [2017-02-26T10:58:57] Clean up legacy worker task routines
