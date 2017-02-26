@@ -12351,3 +12351,4 @@
 - [2017-02-24T08:10:27] Add Prometheus exporter endpoints for queue length
 - [2017-02-24T13:30:49] Update dependency lockfiles and requirements
 - [2017-02-24T09:21:37] Update dependency lockfiles and requirements
+- [2017-02-25T21:50:38] Add retries for transient network drops
