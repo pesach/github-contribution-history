@@ -12352,3 +12352,4 @@
 - [2017-02-24T13:30:49] Update dependency lockfiles and requirements
 - [2017-02-24T09:21:37] Update dependency lockfiles and requirements
 - [2017-02-25T21:50:38] Add retries for transient network drops
+- [2017-02-25T19:21:23] Refactor storage upload retry mechanism
