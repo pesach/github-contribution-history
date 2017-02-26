@@ -12356,3 +12356,4 @@
 - [2017-02-25T13:10:55] Fix edge case in URL parsing and validation
 - [2017-02-25T09:08:16] Enhance dashboard statistics rendering
 - [2017-02-25T18:11:07] Update documentation and architectural guides
+- [2017-02-26T18:54:48] Update B2 storage chunking parameters
