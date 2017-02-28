@@ -12371,3 +12371,4 @@
 - [2017-02-28T14:58:33] Enhance dashboard statistics rendering
 - [2017-02-28T11:40:53] Update automated pytest test suites
 - [2017-02-28T10:36:19] Fix edge case in channel tab crawler
+- [2017-02-28T10:27:21] Add Redis rate limit backoff handlers
