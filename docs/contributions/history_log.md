@@ -12372,3 +12372,4 @@
 - [2017-02-28T11:40:53] Update automated pytest test suites
 - [2017-02-28T10:36:19] Fix edge case in channel tab crawler
 - [2017-02-28T10:27:21] Add Redis rate limit backoff handlers
+- [2017-02-28T20:28:56] Update dependency lockfiles and requirements
