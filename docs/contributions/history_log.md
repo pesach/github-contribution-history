@@ -12380,3 +12380,4 @@
 - [2017-03-01T21:16:40] Add retries for transient network drops
 - [2017-03-01T12:33:16] Fix edge case in URL parsing and validation
 - [2017-03-01T09:33:27] Clean up legacy worker task routines
+- [2017-03-01T22:27:16] Update B2 storage chunking parameters
