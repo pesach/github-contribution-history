@@ -12377,3 +12377,4 @@
 - [2017-03-01T13:32:05] Update documentation and architectural guides
 - [2017-03-01T22:18:05] Improve ffmpeg streaming pipe buffer management
 - [2017-03-01T20:52:52] Add error handling for yt-dlp rate limits
+- [2017-03-01T21:16:40] Add retries for transient network drops
