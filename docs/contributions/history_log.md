@@ -12388,3 +12388,4 @@
 - [2017-03-02T11:15:14] Improve logging and health endpoint metrics
 - [2017-03-02T10:26:04] Update dependency lockfiles and requirements
 - [2017-03-02T11:13:08] Refactor storage upload retry mechanism
+- [2017-03-02T22:37:56] Improve logging and health endpoint metrics
