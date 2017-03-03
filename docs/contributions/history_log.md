@@ -12399,3 +12399,4 @@
 - [2017-03-03T17:13:36] Implement streaming upload chunk buffer optimization
 - [2017-03-03T09:14:40] Add Prometheus exporter endpoints for queue length
 - [2017-03-03T13:54:08] Improve ffmpeg streaming pipe buffer management
+- [2017-03-03T12:13:24] Add Redis rate limit backoff handlers
