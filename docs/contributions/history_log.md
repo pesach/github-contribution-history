@@ -12393,3 +12393,4 @@
 - [2017-03-02T14:57:01] Fix edge case in channel tab crawler
 - [2017-03-02T18:42:55] Improve logging and health endpoint metrics
 - [2017-03-02T08:28:54] Update automated pytest test suites
+- [2017-03-03T22:50:55] Add Redis rate limit backoff handlers
