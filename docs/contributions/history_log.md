@@ -12417,3 +12417,4 @@
 - [2017-03-06T16:54:40] Improve logging and health endpoint metrics
 - [2017-03-06T13:00:37] Enhance dashboard statistics rendering
 - [2017-03-06T19:35:25] Fix edge case in URL parsing and validation
+- [2017-03-06T20:58:48] Refactor storage upload retry mechanism
