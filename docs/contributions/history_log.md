@@ -12411,3 +12411,4 @@
 - [2017-03-05T12:06:42] Refactor storage upload retry mechanism
 - [2017-03-05T10:24:19] Improve ffmpeg streaming pipe buffer management
 - [2017-03-05T22:20:12] Update dependency lockfiles and requirements
+- [2017-03-06T22:40:07] Refactor cookie refresher probe logic
