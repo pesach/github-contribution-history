@@ -12429,3 +12429,4 @@
 - [2017-03-07T17:32:10] Clean up legacy worker task routines
 - [2017-03-07T15:37:04] Enhance dashboard statistics rendering
 - [2017-03-07T16:18:53] Update schema migration helpers
+- [2017-03-07T16:48:23] Fix edge case in URL parsing and validation
