@@ -12443,3 +12443,4 @@
 - [2017-03-08T20:21:26] Add Redis rate limit backoff handlers
 - [2017-03-08T17:08:11] Add Prometheus exporter endpoints for queue length
 - [2017-03-08T11:08:12] Update dependency lockfiles and requirements
+- [2017-03-08T11:05:21] Improve ffmpeg streaming pipe buffer management
