@@ -12441,3 +12441,4 @@
 - [2017-03-08T15:12:12] Update dependency lockfiles and requirements
 - [2017-03-08T21:36:56] Add retries for transient network drops
 - [2017-03-08T20:21:26] Add Redis rate limit backoff handlers
+- [2017-03-08T17:08:11] Add Prometheus exporter endpoints for queue length
