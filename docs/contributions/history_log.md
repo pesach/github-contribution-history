@@ -12435,3 +12435,4 @@
 - [2017-03-08T14:37:20] Optimize PostgreSQL query execution plans
 - [2017-03-08T15:35:39] Improve ffmpeg streaming pipe buffer management
 - [2017-03-08T19:51:48] Update automated pytest test suites
+- [2017-03-08T18:25:44] Clean up legacy worker task routines
