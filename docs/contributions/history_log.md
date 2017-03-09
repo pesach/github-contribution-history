@@ -12454,3 +12454,4 @@
 - [2017-03-09T18:15:02] Update documentation and architectural guides
 - [2017-03-09T18:44:19] Implement streaming upload chunk buffer optimization
 - [2017-03-09T22:38:08] Update automated pytest test suites
+- [2017-03-09T18:57:27] Add error handling for yt-dlp rate limits
