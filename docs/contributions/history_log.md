@@ -12449,3 +12449,4 @@
 - [2017-03-09T13:45:21] Improve ffmpeg streaming pipe buffer management
 - [2017-03-09T22:05:51] Improve ffmpeg streaming pipe buffer management
 - [2017-03-09T18:53:16] Update documentation and architectural guides
+- [2017-03-09T22:51:19] Update documentation and architectural guides
