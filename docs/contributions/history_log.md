@@ -12460,3 +12460,4 @@
 - [2017-03-10T21:32:43] Optimize PostgreSQL query execution plans
 - [2017-03-10T15:08:47] Refactor storage upload retry mechanism
 - [2017-03-10T13:47:17] Optimize PostgreSQL query execution plans
+- [2017-03-10T21:07:07] Add Redis rate limit backoff handlers
