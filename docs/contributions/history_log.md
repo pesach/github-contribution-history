@@ -12468,3 +12468,4 @@
 - [2017-03-10T13:18:37] Refactor storage upload retry mechanism
 - [2017-03-10T22:46:40] Update B2 storage chunking parameters
 - [2017-03-12T22:29:48] Fix edge case in URL parsing and validation
+- [2017-03-12T08:31:27] Add retries for transient network drops
