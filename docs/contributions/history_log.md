@@ -12475,3 +12475,4 @@
 - [2017-03-13T19:02:39] Update documentation and architectural guides
 - [2017-03-13T16:08:32] Update schema migration helpers
 - [2017-03-13T15:23:41] Optimize PostgreSQL query execution plans
+- [2017-03-13T15:00:51] Refactor cookie refresher probe logic
