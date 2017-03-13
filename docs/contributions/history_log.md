@@ -12478,3 +12478,4 @@
 - [2017-03-13T15:00:51] Refactor cookie refresher probe logic
 - [2017-03-13T20:56:23] Add Prometheus exporter endpoints for queue length
 - [2017-03-13T12:26:18] Update automated pytest test suites
+- [2017-03-13T11:00:36] Add Redis rate limit backoff handlers
