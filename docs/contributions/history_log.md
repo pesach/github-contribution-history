@@ -12480,3 +12480,4 @@
 - [2017-03-13T12:26:18] Update automated pytest test suites
 - [2017-03-13T11:00:36] Add Redis rate limit backoff handlers
 - [2017-03-14T14:37:30] Fix edge case in channel tab crawler
+- [2017-03-14T18:27:25] Clean up legacy worker task routines
