@@ -12486,3 +12486,4 @@
 - [2017-03-14T21:59:41] Fix edge case in channel tab crawler
 - [2017-03-14T10:43:26] Optimize PostgreSQL query execution plans
 - [2017-03-14T16:11:51] Clean up legacy worker task routines
+- [2017-03-14T08:38:53] Fix edge case in channel tab crawler
