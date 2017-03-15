@@ -12495,3 +12495,4 @@
 - [2017-03-15T16:19:18] Update automated pytest test suites
 - [2017-03-15T21:13:04] Add Redis rate limit backoff handlers
 - [2017-03-15T13:45:37] Update B2 storage chunking parameters
+- [2017-03-15T11:00:09] Improve ffmpeg streaming pipe buffer management
