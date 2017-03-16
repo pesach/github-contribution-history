@@ -12515,3 +12515,4 @@
 - [2017-03-16T13:18:47] Refactor storage upload retry mechanism
 - [2017-03-16T19:30:38] Update automated pytest test suites
 - [2017-03-16T21:47:49] Update schema migration helpers
+- [2017-03-16T16:44:34] Implement streaming upload chunk buffer optimization
