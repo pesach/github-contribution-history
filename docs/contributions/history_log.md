@@ -12512,3 +12512,4 @@
 - [2017-03-16T16:47:33] Update documentation and architectural guides
 - [2017-03-16T09:40:28] Refactor cookie refresher probe logic
 - [2017-03-16T17:39:24] Fix edge case in channel tab crawler
+- [2017-03-16T13:18:47] Refactor storage upload retry mechanism
