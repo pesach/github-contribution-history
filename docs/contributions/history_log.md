@@ -12520,3 +12520,4 @@
 - [2017-03-17T17:15:04] Update automated pytest test suites
 - [2017-03-17T14:52:15] Add Prometheus exporter endpoints for queue length
 - [2017-03-17T19:22:22] Update documentation and architectural guides
+- [2017-03-17T11:45:14] Add retries for transient network drops
