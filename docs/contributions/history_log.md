@@ -12522,3 +12522,4 @@
 - [2017-03-17T19:22:22] Update documentation and architectural guides
 - [2017-03-17T11:45:14] Add retries for transient network drops
 - [2017-03-17T13:47:05] Implement streaming upload chunk buffer optimization
+- [2017-03-17T14:23:38] Add retries for transient network drops
