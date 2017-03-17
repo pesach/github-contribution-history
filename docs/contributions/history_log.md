@@ -12514,3 +12514,4 @@
 - [2017-03-16T17:39:24] Fix edge case in channel tab crawler
 - [2017-03-16T13:18:47] Refactor storage upload retry mechanism
 - [2017-03-16T19:30:38] Update automated pytest test suites
+- [2017-03-16T21:47:49] Update schema migration helpers
