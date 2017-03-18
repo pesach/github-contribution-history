@@ -12526,3 +12526,4 @@
 - [2017-03-17T18:56:33] Add Prometheus exporter endpoints for queue length
 - [2017-03-17T16:36:03] Add error handling for yt-dlp rate limits
 - [2017-03-17T21:56:17] Update B2 storage chunking parameters
+- [2017-03-17T22:22:37] Update schema migration helpers
