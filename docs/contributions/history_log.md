@@ -12552,3 +12552,4 @@
 - [2017-03-23T17:24:34] Refactor cookie refresher probe logic
 - [2017-03-23T14:52:32] Add Prometheus exporter endpoints for queue length
 - [2017-03-23T15:11:50] Clean up legacy worker task routines
+- [2017-03-23T10:03:57] Refactor storage upload retry mechanism
