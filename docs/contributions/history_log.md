@@ -12554,3 +12554,4 @@
 - [2017-03-23T15:11:50] Clean up legacy worker task routines
 - [2017-03-23T10:03:57] Refactor storage upload retry mechanism
 - [2017-03-23T10:14:27] Refactor cookie refresher probe logic
+- [2017-03-24T08:55:46] Add retries for transient network drops
