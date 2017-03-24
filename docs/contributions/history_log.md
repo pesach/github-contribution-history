@@ -12563,3 +12563,4 @@
 - [2017-03-24T14:17:19] Update schema migration helpers
 - [2017-03-24T15:53:08] Fix edge case in channel tab crawler
 - [2017-03-24T08:46:02] Add Redis rate limit backoff handlers
+- [2017-03-24T18:34:56] Enhance dashboard statistics rendering
