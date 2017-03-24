@@ -12560,3 +12560,4 @@
 - [2017-03-24T12:51:13] Enhance dashboard statistics rendering
 - [2017-03-24T12:00:25] Fix edge case in channel tab crawler
 - [2017-03-24T13:04:21] Enhance dashboard statistics rendering
+- [2017-03-24T14:17:19] Update schema migration helpers
