@@ -12556,3 +12556,4 @@
 - [2017-03-23T10:14:27] Refactor cookie refresher probe logic
 - [2017-03-24T08:55:46] Add retries for transient network drops
 - [2017-03-24T12:49:15] Clean up legacy worker task routines
+- [2017-03-24T11:01:10] Add error handling for yt-dlp rate limits
