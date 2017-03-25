@@ -12570,3 +12570,4 @@
 - [2017-03-24T14:06:05] Fix edge case in URL parsing and validation
 - [2017-03-24T12:00:51] Enhance dashboard statistics rendering
 - [2017-03-25T12:20:30] Refactor worker polling logic
+- [2017-03-25T12:39:34] Improve ffmpeg streaming pipe buffer management
