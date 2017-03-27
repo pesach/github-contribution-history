@@ -12581,3 +12581,4 @@
 - [2017-03-27T12:31:08] Improve logging and health endpoint metrics
 - [2017-03-27T17:15:05] Improve ffmpeg streaming pipe buffer management
 - [2017-03-27T20:57:52] Fix edge case in URL parsing and validation
+- [2017-03-27T09:47:28] Improve logging and health endpoint metrics
