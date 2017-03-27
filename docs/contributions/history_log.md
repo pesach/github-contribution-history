@@ -12578,3 +12578,4 @@
 - [2017-03-27T11:41:34] Update schema migration helpers
 - [2017-03-27T21:33:12] Implement streaming upload chunk buffer optimization
 - [2017-03-27T21:47:47] Clean up legacy worker task routines
+- [2017-03-27T12:31:08] Improve logging and health endpoint metrics
