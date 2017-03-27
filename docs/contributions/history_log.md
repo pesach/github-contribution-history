@@ -12583,3 +12583,4 @@
 - [2017-03-27T20:57:52] Fix edge case in URL parsing and validation
 - [2017-03-27T09:47:28] Improve logging and health endpoint metrics
 - [2017-03-27T19:49:21] Refactor worker polling logic
+- [2017-03-27T10:01:56] Update dependency lockfiles and requirements
