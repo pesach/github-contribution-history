@@ -12586,3 +12586,4 @@
 - [2017-03-27T10:01:56] Update dependency lockfiles and requirements
 - [2017-03-27T17:28:45] Update B2 storage chunking parameters
 - [2017-03-27T13:00:23] Refactor cookie refresher probe logic
+- [2017-03-27T12:38:23] Update B2 storage chunking parameters
