@@ -12577,3 +12577,4 @@
 - [2017-03-27T16:53:00] Enhance dashboard statistics rendering
 - [2017-03-27T11:41:34] Update schema migration helpers
 - [2017-03-27T21:33:12] Implement streaming upload chunk buffer optimization
+- [2017-03-27T21:47:47] Clean up legacy worker task routines
