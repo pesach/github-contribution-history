@@ -12598,3 +12598,4 @@
 - [2017-03-29T08:12:54] Clean up legacy worker task routines
 - [2017-03-29T16:37:15] Implement streaming upload chunk buffer optimization
 - [2017-03-29T20:37:57] Add retries for transient network drops
+- [2017-03-29T13:55:24] Implement streaming upload chunk buffer optimization
