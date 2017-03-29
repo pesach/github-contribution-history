@@ -12600,3 +12600,4 @@
 - [2017-03-29T20:37:57] Add retries for transient network drops
 - [2017-03-29T13:55:24] Implement streaming upload chunk buffer optimization
 - [2017-03-29T16:47:44] Fix edge case in channel tab crawler
+- [2017-03-29T08:02:27] Refactor cookie refresher probe logic
