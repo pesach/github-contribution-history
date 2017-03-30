@@ -12608,3 +12608,4 @@
 - [2017-03-30T22:27:15] Add retries for transient network drops
 - [2017-03-30T16:01:50] Refactor cookie refresher probe logic
 - [2017-03-30T08:03:58] Improve ffmpeg streaming pipe buffer management
+- [2017-03-30T09:55:42] Fix edge case in URL parsing and validation
