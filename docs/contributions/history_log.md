@@ -12607,3 +12607,4 @@
 - [2017-03-30T18:32:47] Update B2 storage chunking parameters
 - [2017-03-30T22:27:15] Add retries for transient network drops
 - [2017-03-30T16:01:50] Refactor cookie refresher probe logic
+- [2017-03-30T08:03:58] Improve ffmpeg streaming pipe buffer management
