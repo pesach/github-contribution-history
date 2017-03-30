@@ -12593,3 +12593,4 @@
 - [2017-03-29T08:03:13] Implement streaming upload chunk buffer optimization
 - [2017-03-29T10:46:48] Refactor worker polling logic
 - [2017-03-29T13:17:01] Refactor cookie refresher probe logic
+- [2017-03-29T20:11:38] Refactor storage upload retry mechanism
