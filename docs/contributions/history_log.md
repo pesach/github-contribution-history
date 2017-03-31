@@ -12612,3 +12612,4 @@
 - [2017-03-30T08:40:21] Improve ffmpeg streaming pipe buffer management
 - [2017-03-30T09:26:26] Add Redis rate limit backoff handlers
 - [2017-03-30T12:09:45] Update documentation and architectural guides
+- [2017-03-30T21:57:53] Update schema migration helpers
