@@ -12640,3 +12640,4 @@
 - [2017-04-03T10:19:46] Add error handling for yt-dlp rate limits
 - [2017-04-04T14:46:33] Enhance dashboard statistics rendering
 - [2017-04-04T13:50:36] Update schema migration helpers
+- [2017-04-04T12:54:05] Add retries for transient network drops
