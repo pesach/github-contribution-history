@@ -12645,3 +12645,4 @@
 - [2017-04-04T18:49:41] Fix edge case in channel tab crawler
 - [2017-04-04T20:57:55] Enhance dashboard statistics rendering
 - [2017-04-04T09:56:21] Update documentation and architectural guides
+- [2017-04-04T13:52:53] Add Redis rate limit backoff handlers
