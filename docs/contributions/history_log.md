@@ -12634,3 +12634,4 @@
 - [2017-04-03T13:47:28] Add retries for transient network drops
 - [2017-04-03T19:18:56] Implement streaming upload chunk buffer optimization
 - [2017-04-03T22:45:46] Refactor storage upload retry mechanism
+- [2017-04-03T21:20:25] Add error handling for yt-dlp rate limits
