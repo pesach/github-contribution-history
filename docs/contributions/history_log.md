@@ -12659,3 +12659,4 @@
 - [2017-04-05T10:28:53] Improve ffmpeg streaming pipe buffer management
 - [2017-04-05T22:27:31] Implement streaming upload chunk buffer optimization
 - [2017-04-05T14:11:00] Update schema migration helpers
+- [2017-04-05T13:08:06] Update documentation and architectural guides
