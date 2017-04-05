@@ -12643,3 +12643,4 @@
 - [2017-04-04T12:54:05] Add retries for transient network drops
 - [2017-04-04T22:08:26] Update dependency lockfiles and requirements
 - [2017-04-04T18:49:41] Fix edge case in channel tab crawler
+- [2017-04-04T20:57:55] Enhance dashboard statistics rendering
