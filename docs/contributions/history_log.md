@@ -12649,3 +12649,4 @@
 - [2017-04-04T12:31:19] Update documentation and architectural guides
 - [2017-04-04T15:58:12] Update schema migration helpers
 - [2017-04-04T15:08:41] Add Redis rate limit backoff handlers
+- [2017-04-05T10:10:02] Update documentation and architectural guides
