@@ -12652,3 +12652,4 @@
 - [2017-04-05T10:10:02] Update documentation and architectural guides
 - [2017-04-05T20:18:37] Add retries for transient network drops
 - [2017-04-05T09:10:33] Add error handling for yt-dlp rate limits
+- [2017-04-05T11:05:44] Fix edge case in URL parsing and validation
