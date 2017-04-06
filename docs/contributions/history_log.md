@@ -12661,3 +12661,4 @@
 - [2017-04-05T14:11:00] Update schema migration helpers
 - [2017-04-05T13:08:06] Update documentation and architectural guides
 - [2017-04-06T19:51:49] Update B2 storage chunking parameters
+- [2017-04-06T08:52:28] Update schema migration helpers
