@@ -12678,3 +12678,4 @@
 - [2017-04-07T18:16:33] Update dependency lockfiles and requirements
 - [2017-04-07T15:28:16] Update schema migration helpers
 - [2017-04-07T21:23:40] Refactor storage upload retry mechanism
+- [2017-04-07T15:06:13] Improve ffmpeg streaming pipe buffer management
