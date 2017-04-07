@@ -12684,3 +12684,4 @@
 - [2017-04-07T22:10:40] Update dependency lockfiles and requirements
 - [2017-04-07T09:41:36] Fix edge case in channel tab crawler
 - [2017-04-07T20:47:02] Implement streaming upload chunk buffer optimization
+- [2017-04-07T18:44:15] Optimize PostgreSQL query execution plans
