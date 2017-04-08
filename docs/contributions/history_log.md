@@ -12677,3 +12677,4 @@
 - [2017-04-07T19:07:45] Update documentation and architectural guides
 - [2017-04-07T18:16:33] Update dependency lockfiles and requirements
 - [2017-04-07T15:28:16] Update schema migration helpers
+- [2017-04-07T21:23:40] Refactor storage upload retry mechanism
