@@ -12681,3 +12681,4 @@
 - [2017-04-07T15:06:13] Improve ffmpeg streaming pipe buffer management
 - [2017-04-07T16:55:47] Refactor storage upload retry mechanism
 - [2017-04-07T14:05:39] Add Redis rate limit backoff handlers
+- [2017-04-07T22:10:40] Update dependency lockfiles and requirements
