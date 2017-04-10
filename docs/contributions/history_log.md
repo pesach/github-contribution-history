@@ -12689,3 +12689,4 @@
 - [2017-04-08T17:19:25] Fix edge case in URL parsing and validation
 - [2017-04-08T17:24:31] Improve logging and health endpoint metrics
 - [2017-04-08T17:05:22] Clean up legacy worker task routines
+- [2017-04-10T08:26:56] Add Redis rate limit backoff handlers
