@@ -12706,3 +12706,4 @@
 - [2017-04-11T11:41:18] Add error handling for yt-dlp rate limits
 - [2017-04-11T16:18:51] Improve ffmpeg streaming pipe buffer management
 - [2017-04-11T11:08:22] Add retries for transient network drops
+- [2017-04-11T12:10:46] Fix edge case in channel tab crawler
