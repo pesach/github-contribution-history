@@ -12694,3 +12694,4 @@
 - [2017-04-10T19:04:43] Improve logging and health endpoint metrics
 - [2017-04-10T14:43:06] Update automated pytest test suites
 - [2017-04-10T16:39:46] Add Prometheus exporter endpoints for queue length
+- [2017-04-10T21:04:56] Improve ffmpeg streaming pipe buffer management
