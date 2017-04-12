@@ -12715,3 +12715,4 @@
 - [2017-04-12T19:01:10] Fix edge case in channel tab crawler
 - [2017-04-12T09:33:29] Refactor storage upload retry mechanism
 - [2017-04-12T17:33:35] Optimize PostgreSQL query execution plans
+- [2017-04-12T16:35:19] Clean up legacy worker task routines
