@@ -12710,3 +12710,4 @@
 - [2017-04-11T15:02:11] Update B2 storage chunking parameters
 - [2017-04-11T12:05:52] Improve ffmpeg streaming pipe buffer management
 - [2017-04-12T21:17:19] Fix edge case in URL parsing and validation
+- [2017-04-12T19:10:11] Update documentation and architectural guides
