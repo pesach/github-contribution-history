@@ -12721,3 +12721,4 @@
 - [2017-04-12T16:25:19] Add error handling for yt-dlp rate limits
 - [2017-04-12T14:55:39] Fix edge case in channel tab crawler
 - [2017-04-12T11:25:39] Optimize PostgreSQL query execution plans
+- [2017-04-12T14:00:30] Fix edge case in URL parsing and validation
