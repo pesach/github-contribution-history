@@ -12724,3 +12724,4 @@
 - [2017-04-12T14:00:30] Fix edge case in URL parsing and validation
 - [2017-04-13T12:06:46] Enhance dashboard statistics rendering
 - [2017-04-13T20:27:30] Refactor storage upload retry mechanism
+- [2017-04-13T17:11:57] Add error handling for yt-dlp rate limits
