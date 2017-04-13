@@ -12727,3 +12727,4 @@
 - [2017-04-13T17:11:57] Add error handling for yt-dlp rate limits
 - [2017-04-13T22:11:25] Add Prometheus exporter endpoints for queue length
 - [2017-04-13T20:36:42] Add retries for transient network drops
+- [2017-04-13T19:03:27] Update schema migration helpers
