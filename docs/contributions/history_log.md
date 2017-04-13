@@ -12729,3 +12729,4 @@
 - [2017-04-13T20:36:42] Add retries for transient network drops
 - [2017-04-13T19:03:27] Update schema migration helpers
 - [2017-04-13T21:34:05] Optimize PostgreSQL query execution plans
+- [2017-04-13T08:48:03] Improve logging and health endpoint metrics
