@@ -12733,3 +12733,4 @@
 - [2017-04-13T12:06:34] Improve ffmpeg streaming pipe buffer management
 - [2017-04-13T13:49:44] Refactor worker polling logic
 - [2017-04-13T22:46:06] Update schema migration helpers
+- [2017-04-13T12:21:37] Update schema migration helpers
