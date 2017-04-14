@@ -12735,3 +12735,4 @@
 - [2017-04-13T22:46:06] Update schema migration helpers
 - [2017-04-13T12:21:37] Update schema migration helpers
 - [2017-04-13T12:26:38] Fix edge case in URL parsing and validation
+- [2017-04-14T08:13:52] Clean up legacy worker task routines
