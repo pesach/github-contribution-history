@@ -12725,3 +12725,4 @@
 - [2017-04-13T12:06:46] Enhance dashboard statistics rendering
 - [2017-04-13T20:27:30] Refactor storage upload retry mechanism
 - [2017-04-13T17:11:57] Add error handling for yt-dlp rate limits
+- [2017-04-13T22:11:25] Add Prometheus exporter endpoints for queue length
