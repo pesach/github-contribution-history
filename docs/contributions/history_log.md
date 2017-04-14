@@ -12737,3 +12737,4 @@
 - [2017-04-13T12:26:38] Fix edge case in URL parsing and validation
 - [2017-04-14T08:13:52] Clean up legacy worker task routines
 - [2017-04-14T21:32:46] Optimize PostgreSQL query execution plans
+- [2017-04-14T08:25:29] Add Redis rate limit backoff handlers
