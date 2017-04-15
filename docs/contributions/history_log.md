@@ -12746,3 +12746,4 @@
 - [2017-04-14T15:24:53] Add retries for transient network drops
 - [2017-04-14T17:35:20] Add error handling for yt-dlp rate limits
 - [2017-04-15T10:26:49] Update automated pytest test suites
+- [2017-04-15T17:25:37] Refactor worker polling logic
