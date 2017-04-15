@@ -12748,3 +12748,4 @@
 - [2017-04-15T10:26:49] Update automated pytest test suites
 - [2017-04-15T17:25:37] Refactor worker polling logic
 - [2017-04-15T14:10:48] Fix edge case in URL parsing and validation
+- [2017-04-15T10:57:30] Improve ffmpeg streaming pipe buffer management
