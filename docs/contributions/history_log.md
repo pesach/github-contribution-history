@@ -12751,3 +12751,4 @@
 - [2017-04-15T10:57:30] Improve ffmpeg streaming pipe buffer management
 - [2017-04-15T22:57:05] Update dependency lockfiles and requirements
 - [2017-04-15T16:18:05] Fix edge case in channel tab crawler
+- [2017-04-16T16:16:10] Enhance dashboard statistics rendering
