@@ -12749,3 +12749,4 @@
 - [2017-04-15T17:25:37] Refactor worker polling logic
 - [2017-04-15T14:10:48] Fix edge case in URL parsing and validation
 - [2017-04-15T10:57:30] Improve ffmpeg streaming pipe buffer management
+- [2017-04-15T22:57:05] Update dependency lockfiles and requirements
