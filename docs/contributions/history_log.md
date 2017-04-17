@@ -12759,3 +12759,4 @@
 - [2017-04-17T12:50:15] Improve logging and health endpoint metrics
 - [2017-04-17T14:55:14] Improve logging and health endpoint metrics
 - [2017-04-17T19:22:39] Improve ffmpeg streaming pipe buffer management
+- [2017-04-17T15:21:18] Fix edge case in channel tab crawler
