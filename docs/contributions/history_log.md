@@ -12763,3 +12763,4 @@
 - [2017-04-17T15:41:36] Fix edge case in URL parsing and validation
 - [2017-04-17T12:27:53] Add retries for transient network drops
 - [2017-04-18T09:49:00] Update schema migration helpers
+- [2017-04-18T15:05:26] Add Redis rate limit backoff handlers
