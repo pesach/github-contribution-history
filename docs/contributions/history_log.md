@@ -12776,3 +12776,4 @@
 - [2017-04-18T16:59:14] Refactor storage upload retry mechanism
 - [2017-04-18T13:30:20] Add retries for transient network drops
 - [2017-04-18T14:14:55] Update documentation and architectural guides
+- [2017-04-18T14:32:29] Fix edge case in URL parsing and validation
