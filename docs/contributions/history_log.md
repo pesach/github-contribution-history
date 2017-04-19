@@ -12779,3 +12779,4 @@
 - [2017-04-18T14:32:29] Fix edge case in URL parsing and validation
 - [2017-04-19T13:08:26] Clean up legacy worker task routines
 - [2017-04-19T15:10:10] Add Redis rate limit backoff handlers
+- [2017-04-19T14:10:01] Update dependency lockfiles and requirements
