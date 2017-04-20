@@ -12790,3 +12790,4 @@
 - [2017-04-20T21:28:45] Clean up legacy worker task routines
 - [2017-04-20T08:43:09] Improve ffmpeg streaming pipe buffer management
 - [2017-04-20T18:14:41] Refactor storage upload retry mechanism
+- [2017-04-20T08:45:38] Add Redis rate limit backoff handlers
