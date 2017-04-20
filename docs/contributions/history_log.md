@@ -12783,3 +12783,4 @@
 - [2017-04-19T08:25:57] Update B2 storage chunking parameters
 - [2017-04-19T16:36:15] Add Redis rate limit backoff handlers
 - [2017-04-19T17:06:44] Refactor worker polling logic
+- [2017-04-20T18:56:01] Update schema migration helpers
