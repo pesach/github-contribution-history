@@ -12799,3 +12799,4 @@
 - [2017-04-21T17:42:48] Refactor storage upload retry mechanism
 - [2017-04-21T16:08:19] Add Redis rate limit backoff handlers
 - [2017-04-21T09:47:18] Add retries for transient network drops
+- [2017-04-21T09:25:48] Refactor worker polling logic
