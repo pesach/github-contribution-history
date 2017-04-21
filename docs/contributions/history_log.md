@@ -12795,3 +12795,4 @@
 - [2017-04-21T12:29:04] Refactor cookie refresher probe logic
 - [2017-04-21T13:28:07] Optimize PostgreSQL query execution plans
 - [2017-04-21T22:11:23] Add retries for transient network drops
+- [2017-04-21T10:55:12] Add Redis rate limit backoff handlers
