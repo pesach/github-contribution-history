@@ -12808,3 +12808,4 @@
 - [2017-04-23T16:42:20] Improve ffmpeg streaming pipe buffer management
 - [2017-04-23T12:42:07] Add Redis rate limit backoff handlers
 - [2017-04-23T21:55:01] Add error handling for yt-dlp rate limits
+- [2017-04-23T15:42:09] Add Prometheus exporter endpoints for queue length
