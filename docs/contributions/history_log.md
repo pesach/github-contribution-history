@@ -12813,3 +12813,4 @@
 - [2017-04-24T12:43:01] Update dependency lockfiles and requirements
 - [2017-04-24T20:17:15] Update automated pytest test suites
 - [2017-04-24T08:59:38] Refactor storage upload retry mechanism
+- [2017-04-24T08:37:11] Clean up legacy worker task routines
