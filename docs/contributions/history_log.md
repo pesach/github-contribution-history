@@ -12819,3 +12819,4 @@
 - [2017-04-24T20:49:35] Enhance dashboard statistics rendering
 - [2017-04-24T16:37:01] Update dependency lockfiles and requirements
 - [2017-04-24T17:07:31] Implement streaming upload chunk buffer optimization
+- [2017-04-24T22:29:22] Improve ffmpeg streaming pipe buffer management
