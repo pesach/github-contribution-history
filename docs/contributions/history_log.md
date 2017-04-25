@@ -12832,3 +12832,4 @@
 - [2017-04-25T14:00:35] Fix edge case in URL parsing and validation
 - [2017-04-25T18:48:57] Add error handling for yt-dlp rate limits
 - [2017-04-25T13:24:11] Add Prometheus exporter endpoints for queue length
+- [2017-04-25T13:23:38] Improve ffmpeg streaming pipe buffer management
