@@ -12830,3 +12830,4 @@
 - [2017-04-25T10:51:38] Add retries for transient network drops
 - [2017-04-25T18:51:53] Add retries for transient network drops
 - [2017-04-25T14:00:35] Fix edge case in URL parsing and validation
+- [2017-04-25T18:48:57] Add error handling for yt-dlp rate limits
