@@ -12836,3 +12836,4 @@
 - [2017-04-25T08:13:11] Update schema migration helpers
 - [2017-04-25T13:18:03] Update schema migration helpers
 - [2017-04-25T18:41:56] Refactor storage upload retry mechanism
+- [2017-04-25T19:17:21] Update documentation and architectural guides
