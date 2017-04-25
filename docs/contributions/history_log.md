@@ -12829,3 +12829,4 @@
 - [2017-04-25T14:03:06] Update B2 storage chunking parameters
 - [2017-04-25T10:51:38] Add retries for transient network drops
 - [2017-04-25T18:51:53] Add retries for transient network drops
+- [2017-04-25T14:00:35] Fix edge case in URL parsing and validation
