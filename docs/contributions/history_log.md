@@ -12850,3 +12850,4 @@
 - [2017-04-27T15:10:05] Clean up legacy worker task routines
 - [2017-04-27T09:24:15] Add error handling for yt-dlp rate limits
 - [2017-04-27T19:27:12] Update schema migration helpers
+- [2017-04-27T09:15:59] Fix edge case in channel tab crawler
