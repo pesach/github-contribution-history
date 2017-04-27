@@ -12845,3 +12845,4 @@
 - [2017-04-26T08:30:07] Update dependency lockfiles and requirements
 - [2017-04-26T21:48:44] Refactor worker polling logic
 - [2017-04-27T15:12:24] Improve ffmpeg streaming pipe buffer management
+- [2017-04-27T08:54:48] Update B2 storage chunking parameters
