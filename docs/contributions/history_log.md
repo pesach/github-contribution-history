@@ -12864,3 +12864,4 @@
 - [2017-04-29T19:03:02] Update schema migration helpers
 - [2017-04-29T22:30:09] Add Prometheus exporter endpoints for queue length
 - [2017-04-29T19:42:24] Update automated pytest test suites
+- [2017-04-29T08:11:15] Add Prometheus exporter endpoints for queue length
