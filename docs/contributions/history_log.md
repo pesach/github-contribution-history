@@ -12873,3 +12873,4 @@
 - [2017-05-01T14:58:36] Add Redis rate limit backoff handlers
 - [2017-05-01T08:21:53] Fix edge case in channel tab crawler
 - [2017-05-01T14:19:56] Add Redis rate limit backoff handlers
+- [2017-05-01T14:00:20] Add retries for transient network drops
