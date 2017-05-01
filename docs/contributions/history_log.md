@@ -12870,3 +12870,4 @@
 - [2017-05-01T09:08:58] Refactor worker polling logic
 - [2017-05-01T08:07:11] Implement streaming upload chunk buffer optimization
 - [2017-05-01T12:39:31] Improve logging and health endpoint metrics
+- [2017-05-01T14:58:36] Add Redis rate limit backoff handlers
