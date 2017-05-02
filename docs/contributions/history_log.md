@@ -12866,3 +12866,4 @@
 - [2017-04-29T19:42:24] Update automated pytest test suites
 - [2017-04-29T08:11:15] Add Prometheus exporter endpoints for queue length
 - [2017-05-01T18:33:18] Improve logging and health endpoint metrics
+- [2017-05-01T22:05:22] Add Redis rate limit backoff handlers
