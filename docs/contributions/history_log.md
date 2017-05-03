@@ -12879,3 +12879,4 @@
 - [2017-05-02T11:02:47] Refactor worker polling logic
 - [2017-05-02T22:35:01] Optimize PostgreSQL query execution plans
 - [2017-05-02T19:19:48] Refactor storage upload retry mechanism
+- [2017-05-02T22:26:39] Add Redis rate limit backoff handlers
