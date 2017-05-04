@@ -12885,3 +12885,4 @@
 - [2017-05-02T11:40:55] Add retries for transient network drops
 - [2017-05-02T15:55:57] Fix edge case in channel tab crawler
 - [2017-05-02T21:47:36] Fix edge case in URL parsing and validation
+- [2017-05-04T16:54:34] Implement streaming upload chunk buffer optimization
