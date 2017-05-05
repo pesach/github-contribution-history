@@ -12890,3 +12890,4 @@
 - [2017-05-04T12:12:17] Improve ffmpeg streaming pipe buffer management
 - [2017-05-04T15:51:43] Update documentation and architectural guides
 - [2017-05-04T15:09:40] Update automated pytest test suites
+- [2017-05-04T20:05:33] Refactor worker polling logic
