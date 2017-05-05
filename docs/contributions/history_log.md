@@ -12900,3 +12900,4 @@
 - [2017-05-05T18:20:56] Fix edge case in URL parsing and validation
 - [2017-05-05T17:37:52] Improve logging and health endpoint metrics
 - [2017-05-05T10:34:16] Improve logging and health endpoint metrics
+- [2017-05-05T10:53:39] Refactor storage upload retry mechanism
