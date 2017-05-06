@@ -12907,3 +12907,4 @@
 - [2017-05-06T19:32:24] Improve logging and health endpoint metrics
 - [2017-05-06T10:24:39] Refactor worker polling logic
 - [2017-05-06T14:51:53] Refactor worker polling logic
+- [2017-05-06T17:17:39] Update documentation and architectural guides
