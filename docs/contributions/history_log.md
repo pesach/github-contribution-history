@@ -12904,3 +12904,4 @@
 - [2017-05-05T22:13:06] Add Prometheus exporter endpoints for queue length
 - [2017-05-05T10:15:21] Add retries for transient network drops
 - [2017-05-05T10:19:28] Clean up legacy worker task routines
+- [2017-05-06T19:32:24] Improve logging and health endpoint metrics
