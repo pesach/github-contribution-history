@@ -12905,3 +12905,4 @@
 - [2017-05-05T10:15:21] Add retries for transient network drops
 - [2017-05-05T10:19:28] Clean up legacy worker task routines
 - [2017-05-06T19:32:24] Improve logging and health endpoint metrics
+- [2017-05-06T10:24:39] Refactor worker polling logic
