@@ -12901,3 +12901,4 @@
 - [2017-05-05T17:37:52] Improve logging and health endpoint metrics
 - [2017-05-05T10:34:16] Improve logging and health endpoint metrics
 - [2017-05-05T10:53:39] Refactor storage upload retry mechanism
+- [2017-05-05T22:13:06] Add Prometheus exporter endpoints for queue length
