@@ -12920,3 +12920,4 @@
 - [2017-05-08T08:40:20] Fix edge case in URL parsing and validation
 - [2017-05-08T09:49:31] Update documentation and architectural guides
 - [2017-05-08T12:14:48] Update dependency lockfiles and requirements
+- [2017-05-08T12:22:45] Refactor worker polling logic
