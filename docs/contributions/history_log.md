@@ -12910,3 +12910,4 @@
 - [2017-05-06T17:17:39] Update documentation and architectural guides
 - [2017-05-06T16:42:52] Update B2 storage chunking parameters
 - [2017-05-06T11:30:31] Update automated pytest test suites
+- [2017-05-07T21:12:07] Optimize PostgreSQL query execution plans
