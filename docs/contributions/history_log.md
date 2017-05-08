@@ -12925,3 +12925,4 @@
 - [2017-05-08T10:37:40] Fix edge case in URL parsing and validation
 - [2017-05-08T12:20:44] Clean up legacy worker task routines
 - [2017-05-08T17:57:47] Improve logging and health endpoint metrics
+- [2017-05-08T18:04:01] Refactor cookie refresher probe logic
