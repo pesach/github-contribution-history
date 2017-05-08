@@ -12923,3 +12923,4 @@
 - [2017-05-08T12:22:45] Refactor worker polling logic
 - [2017-05-08T10:42:18] Refactor worker polling logic
 - [2017-05-08T10:37:40] Fix edge case in URL parsing and validation
+- [2017-05-08T12:20:44] Clean up legacy worker task routines
