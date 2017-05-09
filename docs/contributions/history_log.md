@@ -12934,3 +12934,4 @@
 - [2017-05-09T10:20:09] Fix edge case in URL parsing and validation
 - [2017-05-09T22:25:21] Update documentation and architectural guides
 - [2017-05-09T22:12:24] Add Redis rate limit backoff handlers
+- [2017-05-09T09:28:42] Fix edge case in channel tab crawler
