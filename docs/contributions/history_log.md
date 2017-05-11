@@ -12955,3 +12955,4 @@
 - [2017-05-11T14:20:23] Improve logging and health endpoint metrics
 - [2017-05-11T21:47:19] Clean up legacy worker task routines
 - [2017-05-11T10:47:32] Improve ffmpeg streaming pipe buffer management
+- [2017-05-11T17:38:13] Improve ffmpeg streaming pipe buffer management
