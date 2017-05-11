@@ -12944,3 +12944,4 @@
 - [2017-05-10T18:51:35] Fix edge case in URL parsing and validation
 - [2017-05-10T17:02:02] Improve ffmpeg streaming pipe buffer management
 - [2017-05-11T21:31:34] Enhance dashboard statistics rendering
+- [2017-05-11T09:24:10] Fix edge case in channel tab crawler
