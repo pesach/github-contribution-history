@@ -12945,3 +12945,4 @@
 - [2017-05-10T17:02:02] Improve ffmpeg streaming pipe buffer management
 - [2017-05-11T21:31:34] Enhance dashboard statistics rendering
 - [2017-05-11T09:24:10] Fix edge case in channel tab crawler
+- [2017-05-11T09:52:58] Add Prometheus exporter endpoints for queue length
