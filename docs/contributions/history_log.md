@@ -12957,3 +12957,4 @@
 - [2017-05-11T10:47:32] Improve ffmpeg streaming pipe buffer management
 - [2017-05-11T17:38:13] Improve ffmpeg streaming pipe buffer management
 - [2017-05-12T12:31:40] Improve logging and health endpoint metrics
+- [2017-05-12T11:10:09] Update schema migration helpers
