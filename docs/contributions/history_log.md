@@ -12962,3 +12962,4 @@
 - [2017-05-12T15:56:28] Update schema migration helpers
 - [2017-05-12T08:21:57] Clean up legacy worker task routines
 - [2017-05-12T10:09:38] Refactor worker polling logic
+- [2017-05-12T17:42:16] Improve ffmpeg streaming pipe buffer management
