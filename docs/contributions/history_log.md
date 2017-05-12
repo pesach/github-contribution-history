@@ -12960,3 +12960,4 @@
 - [2017-05-12T11:10:09] Update schema migration helpers
 - [2017-05-12T14:23:20] Refactor cookie refresher probe logic
 - [2017-05-12T15:56:28] Update schema migration helpers
+- [2017-05-12T08:21:57] Clean up legacy worker task routines
