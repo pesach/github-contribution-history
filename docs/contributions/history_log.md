@@ -12966,3 +12966,4 @@
 - [2017-05-12T18:07:28] Fix edge case in URL parsing and validation
 - [2017-05-13T13:59:25] Refactor storage upload retry mechanism
 - [2017-05-13T10:53:07] Refactor worker polling logic
+- [2017-05-13T17:27:42] Clean up legacy worker task routines
