@@ -12983,3 +12983,4 @@
 - [2017-05-15T10:09:22] Update documentation and architectural guides
 - [2017-05-15T18:38:34] Update automated pytest test suites
 - [2017-05-15T16:15:36] Refactor worker polling logic
+- [2017-05-15T11:05:29] Add error handling for yt-dlp rate limits
