@@ -12972,3 +12972,4 @@
 - [2017-05-15T10:35:03] Refactor cookie refresher probe logic
 - [2017-05-15T17:31:35] Update automated pytest test suites
 - [2017-05-15T12:06:15] Refactor storage upload retry mechanism
+- [2017-05-15T17:27:09] Add retries for transient network drops
