@@ -12974,3 +12974,4 @@
 - [2017-05-15T12:06:15] Refactor storage upload retry mechanism
 - [2017-05-15T17:27:09] Add retries for transient network drops
 - [2017-05-15T17:52:37] Update automated pytest test suites
+- [2017-05-15T21:34:50] Implement streaming upload chunk buffer optimization
