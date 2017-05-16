@@ -12989,3 +12989,4 @@
 - [2017-05-16T11:58:53] Update schema migration helpers
 - [2017-05-16T16:36:17] Enhance dashboard statistics rendering
 - [2017-05-16T15:20:52] Enhance dashboard statistics rendering
+- [2017-05-16T08:23:29] Refactor storage upload retry mechanism
