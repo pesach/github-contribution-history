@@ -12997,3 +12997,4 @@
 - [2017-05-17T10:11:11] Improve ffmpeg streaming pipe buffer management
 - [2017-05-17T09:38:58] Update documentation and architectural guides
 - [2017-05-17T17:33:00] Fix edge case in URL parsing and validation
+- [2017-05-17T11:34:05] Refactor worker polling logic
