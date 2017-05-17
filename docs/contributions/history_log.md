@@ -12990,3 +12990,4 @@
 - [2017-05-16T16:36:17] Enhance dashboard statistics rendering
 - [2017-05-16T15:20:52] Enhance dashboard statistics rendering
 - [2017-05-16T08:23:29] Refactor storage upload retry mechanism
+- [2017-05-16T22:19:03] Fix edge case in URL parsing and validation
