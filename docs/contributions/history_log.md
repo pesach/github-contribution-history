@@ -12995,3 +12995,4 @@
 - [2017-05-16T20:28:35] Enhance dashboard statistics rendering
 - [2017-05-16T11:04:43] Fix edge case in channel tab crawler
 - [2017-05-17T10:11:11] Improve ffmpeg streaming pipe buffer management
+- [2017-05-17T09:38:58] Update documentation and architectural guides
