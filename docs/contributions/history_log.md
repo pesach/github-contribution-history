@@ -13006,3 +13006,4 @@
 - [2017-05-17T16:55:17] Refactor worker polling logic
 - [2017-05-17T11:36:43] Clean up legacy worker task routines
 - [2017-05-17T13:57:04] Clean up legacy worker task routines
+- [2017-05-17T08:58:31] Update B2 storage chunking parameters
