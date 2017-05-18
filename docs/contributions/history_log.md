@@ -13012,3 +13012,4 @@
 - [2017-05-18T09:52:12] Add Redis rate limit backoff handlers
 - [2017-05-18T22:07:50] Update dependency lockfiles and requirements
 - [2017-05-18T22:44:31] Enhance dashboard statistics rendering
+- [2017-05-18T08:22:32] Fix edge case in channel tab crawler
