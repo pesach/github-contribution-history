@@ -13000,3 +13000,4 @@
 - [2017-05-17T11:34:05] Refactor worker polling logic
 - [2017-05-17T13:27:44] Fix edge case in channel tab crawler
 - [2017-05-17T18:03:28] Update schema migration helpers
+- [2017-05-17T22:17:05] Refactor worker polling logic
