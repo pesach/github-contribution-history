@@ -13015,3 +13015,4 @@
 - [2017-05-18T08:22:32] Fix edge case in channel tab crawler
 - [2017-05-18T15:20:21] Add retries for transient network drops
 - [2017-05-18T13:32:25] Clean up legacy worker task routines
+- [2017-05-19T08:28:21] Update dependency lockfiles and requirements
