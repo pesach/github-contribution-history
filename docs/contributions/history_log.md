@@ -13029,3 +13029,4 @@
 - [2017-05-19T16:16:23] Update documentation and architectural guides
 - [2017-05-19T18:08:01] Refactor storage upload retry mechanism
 - [2017-05-19T13:04:27] Add Redis rate limit backoff handlers
+- [2017-05-19T15:00:39] Refactor storage upload retry mechanism
