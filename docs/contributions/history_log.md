@@ -13031,3 +13031,4 @@
 - [2017-05-19T13:04:27] Add Redis rate limit backoff handlers
 - [2017-05-19T15:00:39] Refactor storage upload retry mechanism
 - [2017-05-20T21:10:37] Improve logging and health endpoint metrics
+- [2017-05-20T09:35:37] Fix edge case in URL parsing and validation
