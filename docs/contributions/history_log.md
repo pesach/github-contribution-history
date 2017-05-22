@@ -13042,3 +13042,4 @@
 - [2017-05-22T18:39:14] Add Redis rate limit backoff handlers
 - [2017-05-22T21:15:29] Add retries for transient network drops
 - [2017-05-22T15:01:29] Clean up legacy worker task routines
+- [2017-05-22T18:02:46] Refactor storage upload retry mechanism
