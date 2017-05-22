@@ -13033,3 +13033,4 @@
 - [2017-05-20T21:10:37] Improve logging and health endpoint metrics
 - [2017-05-20T09:35:37] Fix edge case in URL parsing and validation
 - [2017-05-20T19:36:56] Improve logging and health endpoint metrics
+- [2017-05-21T20:11:24] Update B2 storage chunking parameters
