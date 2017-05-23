@@ -13038,3 +13038,4 @@
 - [2017-05-21T08:05:03] Implement streaming upload chunk buffer optimization
 - [2017-05-21T08:02:11] Update schema migration helpers
 - [2017-05-21T22:38:03] Fix edge case in URL parsing and validation
+- [2017-05-22T20:17:36] Update automated pytest test suites
