@@ -13054,3 +13054,4 @@
 - [2017-05-22T20:00:25] Enhance dashboard statistics rendering
 - [2017-05-23T20:02:37] Add retries for transient network drops
 - [2017-05-23T19:51:38] Update dependency lockfiles and requirements
+- [2017-05-23T19:13:46] Improve logging and health endpoint metrics
