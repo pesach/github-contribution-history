@@ -13062,3 +13062,4 @@
 - [2017-05-23T14:47:11] Fix edge case in URL parsing and validation
 - [2017-05-23T16:13:40] Add Redis rate limit backoff handlers
 - [2017-05-23T11:40:19] Add retries for transient network drops
+- [2017-05-23T18:56:23] Refactor worker polling logic
