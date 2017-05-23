@@ -13059,3 +13059,4 @@
 - [2017-05-23T11:03:24] Update schema migration helpers
 - [2017-05-23T09:33:42] Implement streaming upload chunk buffer optimization
 - [2017-05-23T20:35:21] Improve logging and health endpoint metrics
+- [2017-05-23T14:47:11] Fix edge case in URL parsing and validation
