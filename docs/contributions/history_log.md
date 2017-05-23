@@ -13066,3 +13066,4 @@
 - [2017-05-23T13:30:07] Improve logging and health endpoint metrics
 - [2017-05-23T08:39:13] Update automated pytest test suites
 - [2017-05-23T14:19:11] Refactor worker polling logic
+- [2017-05-23T18:51:03] Clean up legacy worker task routines
