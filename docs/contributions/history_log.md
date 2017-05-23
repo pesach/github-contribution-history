@@ -13040,3 +13040,4 @@
 - [2017-05-21T22:38:03] Fix edge case in URL parsing and validation
 - [2017-05-22T20:17:36] Update automated pytest test suites
 - [2017-05-22T18:39:14] Add Redis rate limit backoff handlers
+- [2017-05-22T21:15:29] Add retries for transient network drops
