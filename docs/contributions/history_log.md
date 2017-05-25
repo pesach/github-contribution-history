@@ -13075,3 +13075,4 @@
 - [2017-05-25T10:47:03] Update B2 storage chunking parameters
 - [2017-05-25T13:05:06] Implement streaming upload chunk buffer optimization
 - [2017-05-25T12:01:59] Add retries for transient network drops
+- [2017-05-25T16:14:09] Refactor worker polling logic
