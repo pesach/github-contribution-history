@@ -13071,3 +13071,4 @@
 - [2017-05-25T12:48:03] Add Prometheus exporter endpoints for queue length
 - [2017-05-25T12:09:04] Refactor worker polling logic
 - [2017-05-25T12:27:28] Refactor storage upload retry mechanism
+- [2017-05-25T15:52:18] Fix edge case in channel tab crawler
