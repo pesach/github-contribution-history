@@ -13070,3 +13070,4 @@
 - [2017-05-25T12:39:10] Add retries for transient network drops
 - [2017-05-25T12:48:03] Add Prometheus exporter endpoints for queue length
 - [2017-05-25T12:09:04] Refactor worker polling logic
+- [2017-05-25T12:27:28] Refactor storage upload retry mechanism
