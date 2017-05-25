@@ -13067,3 +13067,4 @@
 - [2017-05-23T08:39:13] Update automated pytest test suites
 - [2017-05-23T14:19:11] Refactor worker polling logic
 - [2017-05-23T18:51:03] Clean up legacy worker task routines
+- [2017-05-25T12:39:10] Add retries for transient network drops
