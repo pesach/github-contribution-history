@@ -13078,3 +13078,4 @@
 - [2017-05-25T16:14:09] Refactor worker polling logic
 - [2017-05-25T22:17:31] Update dependency lockfiles and requirements
 - [2017-05-26T15:56:27] Refactor storage upload retry mechanism
+- [2017-05-26T17:44:16] Fix edge case in URL parsing and validation
