@@ -13080,3 +13080,4 @@
 - [2017-05-26T15:56:27] Refactor storage upload retry mechanism
 - [2017-05-26T17:44:16] Fix edge case in URL parsing and validation
 - [2017-05-26T12:24:58] Fix edge case in URL parsing and validation
+- [2017-05-26T16:01:46] Refactor storage upload retry mechanism
