@@ -13087,3 +13087,4 @@
 - [2017-05-27T21:00:36] Implement streaming upload chunk buffer optimization
 - [2017-05-27T09:40:02] Update dependency lockfiles and requirements
 - [2017-05-27T13:17:54] Improve ffmpeg streaming pipe buffer management
+- [2017-05-28T08:32:19] Add error handling for yt-dlp rate limits
