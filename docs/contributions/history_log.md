@@ -13089,3 +13089,4 @@
 - [2017-05-27T13:17:54] Improve ffmpeg streaming pipe buffer management
 - [2017-05-28T08:32:19] Add error handling for yt-dlp rate limits
 - [2017-05-28T22:32:33] Refactor cookie refresher probe logic
+- [2017-05-28T15:43:56] Fix edge case in channel tab crawler
