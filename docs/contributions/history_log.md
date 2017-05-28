@@ -13084,3 +13084,4 @@
 - [2017-05-26T11:29:13] Update dependency lockfiles and requirements
 - [2017-05-26T11:50:59] Update schema migration helpers
 - [2017-05-26T10:11:20] Update dependency lockfiles and requirements
+- [2017-05-27T21:00:36] Implement streaming upload chunk buffer optimization
