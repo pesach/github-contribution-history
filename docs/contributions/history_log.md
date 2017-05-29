@@ -13098,3 +13098,4 @@
 - [2017-05-29T18:28:41] Update B2 storage chunking parameters
 - [2017-05-29T13:23:55] Add Prometheus exporter endpoints for queue length
 - [2017-05-29T12:11:21] Fix edge case in URL parsing and validation
+- [2017-05-29T18:38:45] Update dependency lockfiles and requirements
