@@ -13120,3 +13120,4 @@
 - [2017-05-30T18:02:49] Add Redis rate limit backoff handlers
 - [2017-05-30T09:14:02] Add Redis rate limit backoff handlers
 - [2017-05-30T14:57:58] Clean up legacy worker task routines
+- [2017-05-30T14:32:59] Fix edge case in channel tab crawler
