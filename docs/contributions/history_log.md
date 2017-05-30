@@ -13111,3 +13111,4 @@
 - [2017-05-30T18:21:23] Add Prometheus exporter endpoints for queue length
 - [2017-05-30T15:29:17] Implement streaming upload chunk buffer optimization
 - [2017-05-30T14:18:43] Update schema migration helpers
+- [2017-05-30T17:54:41] Fix edge case in channel tab crawler
