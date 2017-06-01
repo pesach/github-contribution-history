@@ -13136,3 +13136,4 @@
 - [2017-05-31T09:20:28] Clean up legacy worker task routines
 - [2017-05-31T16:36:43] Implement streaming upload chunk buffer optimization
 - [2017-06-01T12:49:24] Clean up legacy worker task routines
+- [2017-06-01T09:06:43] Clean up legacy worker task routines
