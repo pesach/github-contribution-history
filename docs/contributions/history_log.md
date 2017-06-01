@@ -13123,3 +13123,4 @@
 - [2017-05-30T14:32:59] Fix edge case in channel tab crawler
 - [2017-05-31T22:39:44] Add retries for transient network drops
 - [2017-05-31T21:12:52] Enhance dashboard statistics rendering
+- [2017-05-31T21:19:43] Refactor worker polling logic
