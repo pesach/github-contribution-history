@@ -13148,3 +13148,4 @@
 - [2017-06-02T10:15:58] Implement streaming upload chunk buffer optimization
 - [2017-06-02T17:21:09] Update automated pytest test suites
 - [2017-06-02T18:42:24] Refactor worker polling logic
+- [2017-06-02T13:44:13] Add error handling for yt-dlp rate limits
