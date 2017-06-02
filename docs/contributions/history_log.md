@@ -13155,3 +13155,4 @@
 - [2017-06-02T13:15:16] Update dependency lockfiles and requirements
 - [2017-06-02T14:28:24] Update dependency lockfiles and requirements
 - [2017-06-02T14:07:30] Fix edge case in channel tab crawler
+- [2017-06-02T18:55:25] Add Prometheus exporter endpoints for queue length
