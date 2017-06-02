@@ -13144,3 +13144,4 @@
 - [2017-06-01T12:50:57] Add Redis rate limit backoff handlers
 - [2017-06-01T19:42:52] Enhance dashboard statistics rendering
 - [2017-06-02T20:28:04] Add retries for transient network drops
+- [2017-06-02T08:07:57] Clean up legacy worker task routines
