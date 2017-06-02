@@ -13139,3 +13139,4 @@
 - [2017-06-01T09:06:43] Clean up legacy worker task routines
 - [2017-06-01T21:14:08] Update documentation and architectural guides
 - [2017-06-01T19:19:03] Improve ffmpeg streaming pipe buffer management
+- [2017-06-01T22:35:59] Add error handling for yt-dlp rate limits
