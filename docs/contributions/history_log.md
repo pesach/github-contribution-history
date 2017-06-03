@@ -13150,3 +13150,4 @@
 - [2017-06-02T18:42:24] Refactor worker polling logic
 - [2017-06-02T13:44:13] Add error handling for yt-dlp rate limits
 - [2017-06-02T20:46:21] Update dependency lockfiles and requirements
+- [2017-06-02T22:15:30] Update schema migration helpers
