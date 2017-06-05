@@ -13164,3 +13164,4 @@
 - [2017-06-04T20:48:40] Update dependency lockfiles and requirements
 - [2017-06-05T13:05:59] Implement streaming upload chunk buffer optimization
 - [2017-06-05T14:58:51] Update documentation and architectural guides
+- [2017-06-05T19:32:32] Refactor storage upload retry mechanism
