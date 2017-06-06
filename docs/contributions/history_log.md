@@ -13183,3 +13183,4 @@
 - [2017-06-06T16:45:08] Fix edge case in channel tab crawler
 - [2017-06-06T19:22:31] Update documentation and architectural guides
 - [2017-06-06T20:29:11] Update automated pytest test suites
+- [2017-06-06T14:09:48] Improve ffmpeg streaming pipe buffer management
