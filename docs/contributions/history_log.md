@@ -13181,3 +13181,4 @@
 - [2017-06-06T18:56:12] Update B2 storage chunking parameters
 - [2017-06-06T19:32:45] Refactor worker polling logic
 - [2017-06-06T16:45:08] Fix edge case in channel tab crawler
+- [2017-06-06T19:22:31] Update documentation and architectural guides
