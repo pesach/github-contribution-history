@@ -13167,3 +13167,4 @@
 - [2017-06-05T19:32:32] Refactor storage upload retry mechanism
 - [2017-06-05T20:44:12] Optimize PostgreSQL query execution plans
 - [2017-06-05T13:07:46] Add retries for transient network drops
+- [2017-06-05T20:12:21] Fix edge case in URL parsing and validation
