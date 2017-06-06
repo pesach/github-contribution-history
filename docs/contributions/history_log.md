@@ -13184,3 +13184,4 @@
 - [2017-06-06T19:22:31] Update documentation and architectural guides
 - [2017-06-06T20:29:11] Update automated pytest test suites
 - [2017-06-06T14:09:48] Improve ffmpeg streaming pipe buffer management
+- [2017-06-06T18:03:52] Implement streaming upload chunk buffer optimization
