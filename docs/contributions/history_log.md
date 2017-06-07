@@ -13193,3 +13193,4 @@
 - [2017-06-07T12:55:31] Improve logging and health endpoint metrics
 - [2017-06-07T21:36:29] Refactor cookie refresher probe logic
 - [2017-06-07T22:24:47] Refactor storage upload retry mechanism
+- [2017-06-07T11:58:35] Add retries for transient network drops
