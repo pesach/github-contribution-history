@@ -13189,3 +13189,4 @@
 - [2017-06-07T15:35:12] Fix edge case in channel tab crawler
 - [2017-06-07T22:44:14] Fix edge case in URL parsing and validation
 - [2017-06-07T13:09:01] Add retries for transient network drops
+- [2017-06-07T20:53:08] Add error handling for yt-dlp rate limits
