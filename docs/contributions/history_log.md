@@ -13205,3 +13205,4 @@
 - [2017-06-08T17:37:59] Refactor worker polling logic
 - [2017-06-08T21:20:05] Update dependency lockfiles and requirements
 - [2017-06-08T22:31:49] Improve ffmpeg streaming pipe buffer management
+- [2017-06-08T14:34:34] Refactor storage upload retry mechanism
