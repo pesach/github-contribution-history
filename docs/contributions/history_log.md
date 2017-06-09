@@ -13218,3 +13218,4 @@
 - [2017-06-09T08:23:30] Refactor cookie refresher probe logic
 - [2017-06-09T10:35:12] Add retries for transient network drops
 - [2017-06-09T22:40:21] Add Redis rate limit backoff handlers
+- [2017-06-09T11:13:51] Fix edge case in URL parsing and validation
