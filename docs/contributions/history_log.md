@@ -13198,3 +13198,4 @@
 - [2017-06-07T11:48:41] Improve ffmpeg streaming pipe buffer management
 - [2017-06-07T15:48:30] Improve ffmpeg streaming pipe buffer management
 - [2017-06-08T17:05:41] Refactor storage upload retry mechanism
+- [2017-06-08T22:07:19] Update automated pytest test suites
