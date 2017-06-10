@@ -13227,3 +13227,4 @@
 - [2017-06-10T17:15:43] Update automated pytest test suites
 - [2017-06-10T17:25:40] Update automated pytest test suites
 - [2017-06-10T12:44:13] Clean up legacy worker task routines
+- [2017-06-10T19:02:57] Update dependency lockfiles and requirements
