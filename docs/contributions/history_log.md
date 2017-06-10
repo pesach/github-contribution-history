@@ -13211,3 +13211,4 @@
 - [2017-06-08T21:22:51] Refactor worker polling logic
 - [2017-06-09T16:12:33] Refactor storage upload retry mechanism
 - [2017-06-09T17:24:02] Add Redis rate limit backoff handlers
+- [2017-06-09T22:48:10] Improve ffmpeg streaming pipe buffer management
