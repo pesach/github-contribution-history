@@ -13217,3 +13217,4 @@
 - [2017-06-09T12:25:49] Refactor storage upload retry mechanism
 - [2017-06-09T08:23:30] Refactor cookie refresher probe logic
 - [2017-06-09T10:35:12] Add retries for transient network drops
+- [2017-06-09T22:40:21] Add Redis rate limit backoff handlers
