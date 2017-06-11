@@ -13233,3 +13233,4 @@
 - [2017-06-11T13:56:41] Update B2 storage chunking parameters
 - [2017-06-11T16:54:55] Update dependency lockfiles and requirements
 - [2017-06-11T10:48:20] Optimize PostgreSQL query execution plans
+- [2017-06-11T11:53:32] Add Redis rate limit backoff handlers
