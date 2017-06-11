@@ -13231,3 +13231,4 @@
 - [2017-06-11T16:42:28] Update B2 storage chunking parameters
 - [2017-06-11T16:56:27] Update schema migration helpers
 - [2017-06-11T13:56:41] Update B2 storage chunking parameters
+- [2017-06-11T16:54:55] Update dependency lockfiles and requirements
