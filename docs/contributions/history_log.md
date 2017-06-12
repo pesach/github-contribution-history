@@ -13239,3 +13239,4 @@
 - [2017-06-12T12:52:10] Update automated pytest test suites
 - [2017-06-12T21:01:29] Add retries for transient network drops
 - [2017-06-12T13:52:10] Update dependency lockfiles and requirements
+- [2017-06-12T10:16:46] Improve ffmpeg streaming pipe buffer management
