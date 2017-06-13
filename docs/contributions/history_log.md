@@ -13253,3 +13253,4 @@
 - [2017-06-13T13:27:54] Refactor cookie refresher probe logic
 - [2017-06-13T15:39:37] Update documentation and architectural guides
 - [2017-06-13T13:28:52] Fix edge case in URL parsing and validation
+- [2017-06-13T15:36:38] Update B2 storage chunking parameters
