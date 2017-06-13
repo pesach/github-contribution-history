@@ -13248,3 +13248,4 @@
 - [2017-06-13T17:53:11] Add Redis rate limit backoff handlers
 - [2017-06-13T21:27:52] Update automated pytest test suites
 - [2017-06-13T22:46:52] Refactor cookie refresher probe logic
+- [2017-06-13T16:25:17] Add error handling for yt-dlp rate limits
