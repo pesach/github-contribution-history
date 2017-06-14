@@ -13257,3 +13257,4 @@
 - [2017-06-13T13:55:16] Enhance dashboard statistics rendering
 - [2017-06-13T10:39:21] Enhance dashboard statistics rendering
 - [2017-06-13T14:58:22] Implement streaming upload chunk buffer optimization
+- [2017-06-14T14:19:25] Fix edge case in channel tab crawler
