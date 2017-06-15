@@ -13269,3 +13269,4 @@
 - [2017-06-14T09:03:10] Update schema migration helpers
 - [2017-06-14T13:21:13] Clean up legacy worker task routines
 - [2017-06-14T20:08:43] Add Redis rate limit backoff handlers
+- [2017-06-15T13:59:39] Implement streaming upload chunk buffer optimization
