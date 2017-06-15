@@ -13271,3 +13271,4 @@
 - [2017-06-14T20:08:43] Add Redis rate limit backoff handlers
 - [2017-06-15T13:59:39] Implement streaming upload chunk buffer optimization
 - [2017-06-15T08:10:51] Improve ffmpeg streaming pipe buffer management
+- [2017-06-15T11:14:43] Fix edge case in URL parsing and validation
