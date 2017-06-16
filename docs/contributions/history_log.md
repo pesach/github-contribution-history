@@ -13273,3 +13273,4 @@
 - [2017-06-15T08:10:51] Improve ffmpeg streaming pipe buffer management
 - [2017-06-15T11:14:43] Fix edge case in URL parsing and validation
 - [2017-06-15T08:37:05] Add error handling for yt-dlp rate limits
+- [2017-06-15T21:14:26] Add retries for transient network drops
