@@ -13283,3 +13283,4 @@
 - [2017-06-16T16:10:00] Improve ffmpeg streaming pipe buffer management
 - [2017-06-16T12:32:02] Implement streaming upload chunk buffer optimization
 - [2017-06-16T20:36:32] Improve ffmpeg streaming pipe buffer management
+- [2017-06-16T08:29:47] Refactor worker polling logic
