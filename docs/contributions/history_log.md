@@ -13287,3 +13287,4 @@
 - [2017-06-16T12:23:27] Refactor cookie refresher probe logic
 - [2017-06-16T11:05:14] Optimize PostgreSQL query execution plans
 - [2017-06-16T21:00:59] Update dependency lockfiles and requirements
+- [2017-06-17T13:24:46] Fix edge case in channel tab crawler
