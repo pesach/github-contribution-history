@@ -13290,3 +13290,4 @@
 - [2017-06-17T13:24:46] Fix edge case in channel tab crawler
 - [2017-06-17T13:07:30] Add error handling for yt-dlp rate limits
 - [2017-06-17T17:07:24] Optimize PostgreSQL query execution plans
+- [2017-06-17T09:01:33] Update schema migration helpers
