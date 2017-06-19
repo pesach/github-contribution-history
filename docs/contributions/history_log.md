@@ -13303,3 +13303,4 @@
 - [2017-06-19T09:16:52] Update schema migration helpers
 - [2017-06-19T08:33:31] Refactor worker polling logic
 - [2017-06-19T20:26:13] Fix edge case in URL parsing and validation
+- [2017-06-19T13:53:20] Fix edge case in channel tab crawler
