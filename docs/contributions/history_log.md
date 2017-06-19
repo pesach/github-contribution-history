@@ -13307,3 +13307,4 @@
 - [2017-06-19T22:19:27] Refactor storage upload retry mechanism
 - [2017-06-19T15:31:11] Update dependency lockfiles and requirements
 - [2017-06-19T18:24:07] Update dependency lockfiles and requirements
+- [2017-06-19T17:07:39] Fix edge case in URL parsing and validation
