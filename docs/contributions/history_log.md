@@ -13296,3 +13296,4 @@
 - [2017-06-18T10:09:43] Add retries for transient network drops
 - [2017-06-18T12:05:09] Update schema migration helpers
 - [2017-06-18T17:40:37] Fix edge case in URL parsing and validation
+- [2017-06-19T12:48:52] Clean up legacy worker task routines
