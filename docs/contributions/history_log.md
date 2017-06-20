@@ -13309,3 +13309,4 @@
 - [2017-06-19T18:24:07] Update dependency lockfiles and requirements
 - [2017-06-19T17:07:39] Fix edge case in URL parsing and validation
 - [2017-06-20T12:10:36] Enhance dashboard statistics rendering
+- [2017-06-20T09:10:36] Update schema migration helpers
