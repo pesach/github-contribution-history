@@ -13310,3 +13310,4 @@
 - [2017-06-19T17:07:39] Fix edge case in URL parsing and validation
 - [2017-06-20T12:10:36] Enhance dashboard statistics rendering
 - [2017-06-20T09:10:36] Update schema migration helpers
+- [2017-06-20T11:59:57] Clean up legacy worker task routines
