@@ -13311,3 +13311,4 @@
 - [2017-06-20T12:10:36] Enhance dashboard statistics rendering
 - [2017-06-20T09:10:36] Update schema migration helpers
 - [2017-06-20T11:59:57] Clean up legacy worker task routines
+- [2017-06-20T08:24:41] Add error handling for yt-dlp rate limits
