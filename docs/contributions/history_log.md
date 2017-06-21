@@ -13320,3 +13320,4 @@
 - [2017-06-21T18:08:28] Update dependency lockfiles and requirements
 - [2017-06-21T17:23:49] Add retries for transient network drops
 - [2017-06-21T17:05:00] Update automated pytest test suites
+- [2017-06-21T13:27:40] Clean up legacy worker task routines
