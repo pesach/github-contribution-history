@@ -13323,3 +13323,4 @@
 - [2017-06-21T13:27:40] Clean up legacy worker task routines
 - [2017-06-21T20:19:06] Update documentation and architectural guides
 - [2017-06-21T13:36:03] Improve logging and health endpoint metrics
+- [2017-06-21T19:55:26] Fix edge case in URL parsing and validation
