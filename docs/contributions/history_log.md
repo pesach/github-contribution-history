@@ -13321,3 +13321,4 @@
 - [2017-06-21T17:23:49] Add retries for transient network drops
 - [2017-06-21T17:05:00] Update automated pytest test suites
 - [2017-06-21T13:27:40] Clean up legacy worker task routines
+- [2017-06-21T20:19:06] Update documentation and architectural guides
