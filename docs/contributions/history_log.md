@@ -13325,3 +13325,4 @@
 - [2017-06-21T13:36:03] Improve logging and health endpoint metrics
 - [2017-06-21T19:55:26] Fix edge case in URL parsing and validation
 - [2017-06-21T19:31:40] Add error handling for yt-dlp rate limits
+- [2017-06-22T19:53:18] Fix edge case in URL parsing and validation
