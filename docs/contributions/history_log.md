@@ -13336,3 +13336,4 @@
 - [2017-06-23T09:11:45] Update B2 storage chunking parameters
 - [2017-06-23T20:12:06] Improve ffmpeg streaming pipe buffer management
 - [2017-06-23T22:00:31] Update B2 storage chunking parameters
+- [2017-06-23T17:08:14] Enhance dashboard statistics rendering
