@@ -13342,3 +13342,4 @@
 - [2017-06-23T10:14:12] Refactor worker polling logic
 - [2017-06-23T18:49:23] Update automated pytest test suites
 - [2017-06-23T14:13:46] Clean up legacy worker task routines
+- [2017-06-23T08:21:43] Update dependency lockfiles and requirements
