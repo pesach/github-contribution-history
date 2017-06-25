@@ -13346,3 +13346,4 @@
 - [2017-06-23T22:56:36] Add Redis rate limit backoff handlers
 - [2017-06-25T11:46:43] Refactor worker polling logic
 - [2017-06-25T16:19:30] Refactor cookie refresher probe logic
+- [2017-06-25T09:47:06] Refactor worker polling logic
