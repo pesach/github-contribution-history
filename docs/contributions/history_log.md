@@ -13353,3 +13353,4 @@
 - [2017-06-26T11:55:20] Refactor storage upload retry mechanism
 - [2017-06-26T22:57:14] Update automated pytest test suites
 - [2017-06-26T08:47:59] Add error handling for yt-dlp rate limits
+- [2017-06-26T12:45:43] Add error handling for yt-dlp rate limits
