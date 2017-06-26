@@ -13357,3 +13357,4 @@
 - [2017-06-26T13:33:49] Add Prometheus exporter endpoints for queue length
 - [2017-06-26T16:25:33] Update automated pytest test suites
 - [2017-06-26T21:56:13] Fix edge case in URL parsing and validation
+- [2017-06-26T08:21:12] Improve ffmpeg streaming pipe buffer management
