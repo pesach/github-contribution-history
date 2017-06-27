@@ -13351,3 +13351,4 @@
 - [2017-06-25T17:04:06] Refactor worker polling logic
 - [2017-06-26T09:44:19] Improve logging and health endpoint metrics
 - [2017-06-26T11:55:20] Refactor storage upload retry mechanism
+- [2017-06-26T22:57:14] Update automated pytest test suites
