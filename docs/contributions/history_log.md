@@ -13369,3 +13369,4 @@
 - [2017-06-27T17:29:50] Clean up legacy worker task routines
 - [2017-06-27T17:34:22] Update B2 storage chunking parameters
 - [2017-06-27T15:43:40] Add error handling for yt-dlp rate limits
+- [2017-06-27T17:26:00] Refactor cookie refresher probe logic
