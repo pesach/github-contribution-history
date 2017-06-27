@@ -13366,3 +13366,4 @@
 - [2017-06-27T17:00:49] Clean up legacy worker task routines
 - [2017-06-27T14:56:32] Update automated pytest test suites
 - [2017-06-27T09:27:19] Fix edge case in URL parsing and validation
+- [2017-06-27T17:29:50] Clean up legacy worker task routines
