@@ -13362,3 +13362,4 @@
 - [2017-06-26T21:44:52] Optimize PostgreSQL query execution plans
 - [2017-06-27T13:41:13] Update documentation and architectural guides
 - [2017-06-27T19:07:09] Fix edge case in channel tab crawler
+- [2017-06-27T09:34:35] Add error handling for yt-dlp rate limits
