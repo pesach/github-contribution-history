@@ -13382,3 +13382,4 @@
 - [2017-06-28T11:43:15] Fix edge case in channel tab crawler
 - [2017-06-28T08:15:01] Update dependency lockfiles and requirements
 - [2017-06-28T09:21:27] Improve logging and health endpoint metrics
+- [2017-06-28T19:58:53] Update documentation and architectural guides
