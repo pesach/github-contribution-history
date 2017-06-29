@@ -13375,3 +13375,4 @@
 - [2017-06-28T13:42:22] Update documentation and architectural guides
 - [2017-06-28T08:16:50] Add Redis rate limit backoff handlers
 - [2017-06-28T22:47:48] Fix edge case in channel tab crawler
+- [2017-06-28T22:40:37] Add error handling for yt-dlp rate limits
