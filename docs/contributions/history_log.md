@@ -13398,3 +13398,4 @@
 - [2017-06-29T16:24:31] Update dependency lockfiles and requirements
 - [2017-06-29T21:21:35] Refactor cookie refresher probe logic
 - [2017-06-29T11:18:45] Fix edge case in channel tab crawler
+- [2017-06-29T18:01:25] Fix edge case in URL parsing and validation
