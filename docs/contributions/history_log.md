@@ -13401,3 +13401,4 @@
 - [2017-06-29T18:01:25] Fix edge case in URL parsing and validation
 - [2017-06-29T10:17:33] Refactor cookie refresher probe logic
 - [2017-06-30T13:44:56] Add retries for transient network drops
+- [2017-06-30T21:28:04] Refactor storage upload retry mechanism
