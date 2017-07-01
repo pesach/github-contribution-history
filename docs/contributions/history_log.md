@@ -13406,3 +13406,4 @@
 - [2017-06-30T09:13:30] Clean up legacy worker task routines
 - [2017-06-30T09:28:29] Add retries for transient network drops
 - [2017-06-30T14:50:37] Fix edge case in channel tab crawler
+- [2017-07-01T10:18:11] Update B2 storage chunking parameters
