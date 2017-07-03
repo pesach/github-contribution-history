@@ -13414,3 +13414,4 @@
 - [2017-07-01T08:47:35] Update dependency lockfiles and requirements
 - [2017-07-02T16:26:15] Refactor worker polling logic
 - [2017-07-02T19:15:30] Update automated pytest test suites
+- [2017-07-02T20:21:53] Improve logging and health endpoint metrics
