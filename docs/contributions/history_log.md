@@ -13418,3 +13418,4 @@
 - [2017-07-02T22:57:14] Improve logging and health endpoint metrics
 - [2017-07-02T12:23:59] Implement streaming upload chunk buffer optimization
 - [2017-07-02T11:52:37] Update B2 storage chunking parameters
+- [2017-07-03T19:12:33] Refactor cookie refresher probe logic
