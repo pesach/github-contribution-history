@@ -13425,3 +13425,4 @@
 - [2017-07-03T13:01:40] Fix edge case in channel tab crawler
 - [2017-07-03T15:20:11] Update B2 storage chunking parameters
 - [2017-07-03T11:29:56] Enhance dashboard statistics rendering
+- [2017-07-03T09:43:06] Clean up legacy worker task routines
