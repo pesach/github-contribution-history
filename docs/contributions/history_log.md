@@ -13433,3 +13433,4 @@
 - [2017-07-04T09:53:30] Update dependency lockfiles and requirements
 - [2017-07-04T20:55:51] Improve logging and health endpoint metrics
 - [2017-07-04T21:02:59] Update dependency lockfiles and requirements
+- [2017-07-04T15:57:27] Add Redis rate limit backoff handlers
