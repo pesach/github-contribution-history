@@ -13451,3 +13451,4 @@
 - [2017-07-07T08:31:08] Update automated pytest test suites
 - [2017-07-07T20:40:05] Fix edge case in URL parsing and validation
 - [2017-07-07T10:25:42] Implement streaming upload chunk buffer optimization
+- [2017-07-07T19:11:45] Update schema migration helpers
