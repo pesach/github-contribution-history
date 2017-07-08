@@ -13461,3 +13461,4 @@
 - [2017-07-07T10:48:45] Optimize PostgreSQL query execution plans
 - [2017-07-07T14:04:45] Refactor worker polling logic
 - [2017-07-08T17:44:02] Add error handling for yt-dlp rate limits
+- [2017-07-08T16:46:16] Clean up legacy worker task routines
