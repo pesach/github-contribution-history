@@ -13460,3 +13460,4 @@
 - [2017-07-07T09:33:39] Refactor storage upload retry mechanism
 - [2017-07-07T10:48:45] Optimize PostgreSQL query execution plans
 - [2017-07-07T14:04:45] Refactor worker polling logic
+- [2017-07-08T17:44:02] Add error handling for yt-dlp rate limits
