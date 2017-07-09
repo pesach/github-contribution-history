@@ -13464,3 +13464,4 @@
 - [2017-07-08T16:46:16] Clean up legacy worker task routines
 - [2017-07-08T08:14:51] Update dependency lockfiles and requirements
 - [2017-07-08T18:18:37] Update B2 storage chunking parameters
+- [2017-07-09T10:06:11] Refactor cookie refresher probe logic
