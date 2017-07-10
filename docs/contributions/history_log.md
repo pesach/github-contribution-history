@@ -13472,3 +13472,4 @@
 - [2017-07-10T20:33:23] Refactor cookie refresher probe logic
 - [2017-07-10T17:53:00] Improve ffmpeg streaming pipe buffer management
 - [2017-07-10T19:29:42] Update automated pytest test suites
+- [2017-07-10T15:59:07] Add Redis rate limit backoff handlers
