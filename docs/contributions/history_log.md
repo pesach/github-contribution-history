@@ -13483,3 +13483,4 @@
 - [2017-07-10T22:30:01] Update schema migration helpers
 - [2017-07-11T16:10:35] Update documentation and architectural guides
 - [2017-07-11T08:38:38] Update B2 storage chunking parameters
+- [2017-07-11T19:35:16] Improve logging and health endpoint metrics
