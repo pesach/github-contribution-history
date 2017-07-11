@@ -13481,3 +13481,4 @@
 - [2017-07-10T19:22:06] Update dependency lockfiles and requirements
 - [2017-07-10T13:27:57] Add Redis rate limit backoff handlers
 - [2017-07-10T22:30:01] Update schema migration helpers
+- [2017-07-11T16:10:35] Update documentation and architectural guides
