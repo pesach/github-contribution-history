@@ -13490,3 +13490,4 @@
 - [2017-07-11T22:59:29] Update dependency lockfiles and requirements
 - [2017-07-12T14:11:25] Improve ffmpeg streaming pipe buffer management
 - [2017-07-12T12:48:42] Add error handling for yt-dlp rate limits
+- [2017-07-12T18:21:03] Improve logging and health endpoint metrics
