@@ -13494,3 +13494,4 @@
 - [2017-07-12T21:15:11] Update documentation and architectural guides
 - [2017-07-12T15:32:54] Clean up legacy worker task routines
 - [2017-07-12T22:00:32] Update schema migration helpers
+- [2017-07-12T16:42:20] Update schema migration helpers
