@@ -13488,3 +13488,4 @@
 - [2017-07-11T16:07:56] Improve logging and health endpoint metrics
 - [2017-07-11T19:49:20] Clean up legacy worker task routines
 - [2017-07-11T22:59:29] Update dependency lockfiles and requirements
+- [2017-07-12T14:11:25] Improve ffmpeg streaming pipe buffer management
