@@ -13489,3 +13489,4 @@
 - [2017-07-11T19:49:20] Clean up legacy worker task routines
 - [2017-07-11T22:59:29] Update dependency lockfiles and requirements
 - [2017-07-12T14:11:25] Improve ffmpeg streaming pipe buffer management
+- [2017-07-12T12:48:42] Add error handling for yt-dlp rate limits
