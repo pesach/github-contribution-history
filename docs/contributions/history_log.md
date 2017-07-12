@@ -13492,3 +13492,4 @@
 - [2017-07-12T12:48:42] Add error handling for yt-dlp rate limits
 - [2017-07-12T18:21:03] Improve logging and health endpoint metrics
 - [2017-07-12T21:15:11] Update documentation and architectural guides
+- [2017-07-12T15:32:54] Clean up legacy worker task routines
