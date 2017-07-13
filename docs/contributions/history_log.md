@@ -13498,3 +13498,4 @@
 - [2017-07-12T20:21:41] Add Prometheus exporter endpoints for queue length
 - [2017-07-13T08:26:15] Refactor storage upload retry mechanism
 - [2017-07-13T21:33:04] Optimize PostgreSQL query execution plans
+- [2017-07-13T13:52:53] Refactor worker polling logic
