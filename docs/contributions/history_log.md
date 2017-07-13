@@ -13501,3 +13501,4 @@
 - [2017-07-13T13:52:53] Refactor worker polling logic
 - [2017-07-13T11:43:38] Refactor worker polling logic
 - [2017-07-13T17:04:52] Update schema migration helpers
+- [2017-07-13T18:10:30] Add Redis rate limit backoff handlers
