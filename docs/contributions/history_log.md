@@ -13507,3 +13507,4 @@
 - [2017-07-13T11:24:00] Add retries for transient network drops
 - [2017-07-13T12:36:59] Add retries for transient network drops
 - [2017-07-14T16:08:39] Update schema migration helpers
+- [2017-07-14T14:41:11] Update automated pytest test suites
