@@ -13503,3 +13503,4 @@
 - [2017-07-13T17:04:52] Update schema migration helpers
 - [2017-07-13T18:10:30] Add Redis rate limit backoff handlers
 - [2017-07-13T15:51:40] Improve ffmpeg streaming pipe buffer management
+- [2017-07-13T22:05:31] Add retries for transient network drops
