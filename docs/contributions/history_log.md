@@ -13506,3 +13506,4 @@
 - [2017-07-13T22:05:31] Add retries for transient network drops
 - [2017-07-13T11:24:00] Add retries for transient network drops
 - [2017-07-13T12:36:59] Add retries for transient network drops
+- [2017-07-14T16:08:39] Update schema migration helpers
