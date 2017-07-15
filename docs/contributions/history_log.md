@@ -13516,3 +13516,4 @@
 - [2017-07-14T08:02:31] Refactor worker polling logic
 - [2017-07-15T13:36:57] Add retries for transient network drops
 - [2017-07-15T13:42:11] Improve ffmpeg streaming pipe buffer management
+- [2017-07-15T14:58:10] Improve ffmpeg streaming pipe buffer management
