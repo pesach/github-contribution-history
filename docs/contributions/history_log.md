@@ -13509,3 +13509,4 @@
 - [2017-07-14T16:08:39] Update schema migration helpers
 - [2017-07-14T14:41:11] Update automated pytest test suites
 - [2017-07-14T21:59:52] Add retries for transient network drops
+- [2017-07-14T22:52:54] Optimize PostgreSQL query execution plans
