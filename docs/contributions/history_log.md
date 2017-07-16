@@ -13522,3 +13522,4 @@
 - [2017-07-16T20:58:01] Update schema migration helpers
 - [2017-07-16T08:08:59] Update automated pytest test suites
 - [2017-07-16T13:23:19] Fix edge case in channel tab crawler
+- [2017-07-16T14:37:28] Refactor cookie refresher probe logic
