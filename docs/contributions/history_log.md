@@ -13536,3 +13536,4 @@
 - [2017-07-17T10:40:19] Add retries for transient network drops
 - [2017-07-17T19:00:15] Add error handling for yt-dlp rate limits
 - [2017-07-17T15:19:25] Fix edge case in URL parsing and validation
+- [2017-07-17T18:27:08] Improve ffmpeg streaming pipe buffer management
