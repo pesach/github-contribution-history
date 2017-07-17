@@ -13528,3 +13528,4 @@
 - [2017-07-17T22:32:22] Update schema migration helpers
 - [2017-07-17T19:28:56] Add Redis rate limit backoff handlers
 - [2017-07-17T09:47:26] Add retries for transient network drops
+- [2017-07-17T11:03:13] Add retries for transient network drops
