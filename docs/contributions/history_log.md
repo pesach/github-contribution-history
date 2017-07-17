@@ -13537,3 +13537,4 @@
 - [2017-07-17T19:00:15] Add error handling for yt-dlp rate limits
 - [2017-07-17T15:19:25] Fix edge case in URL parsing and validation
 - [2017-07-17T18:27:08] Improve ffmpeg streaming pipe buffer management
+- [2017-07-17T13:03:37] Fix edge case in URL parsing and validation
