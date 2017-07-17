@@ -13532,3 +13532,4 @@
 - [2017-07-17T12:50:05] Implement streaming upload chunk buffer optimization
 - [2017-07-17T13:26:36] Implement streaming upload chunk buffer optimization
 - [2017-07-17T10:04:23] Refactor storage upload retry mechanism
+- [2017-07-17T09:38:59] Update schema migration helpers
