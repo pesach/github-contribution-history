@@ -13523,3 +13523,4 @@
 - [2017-07-16T08:08:59] Update automated pytest test suites
 - [2017-07-16T13:23:19] Fix edge case in channel tab crawler
 - [2017-07-16T14:37:28] Refactor cookie refresher probe logic
+- [2017-07-17T10:33:41] Update schema migration helpers
