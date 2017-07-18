@@ -13539,3 +13539,4 @@
 - [2017-07-17T18:27:08] Improve ffmpeg streaming pipe buffer management
 - [2017-07-17T13:03:37] Fix edge case in URL parsing and validation
 - [2017-07-18T09:57:17] Add retries for transient network drops
+- [2017-07-18T14:48:48] Refactor cookie refresher probe logic
