@@ -13547,3 +13547,4 @@
 - [2017-07-18T11:40:09] Update documentation and architectural guides
 - [2017-07-18T22:00:00] Refactor worker polling logic
 - [2017-07-18T15:45:07] Add Prometheus exporter endpoints for queue length
+- [2017-07-18T17:50:48] Refactor storage upload retry mechanism
