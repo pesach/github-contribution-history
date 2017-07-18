@@ -13525,3 +13525,4 @@
 - [2017-07-16T14:37:28] Refactor cookie refresher probe logic
 - [2017-07-17T10:33:41] Update schema migration helpers
 - [2017-07-17T17:04:36] Fix edge case in channel tab crawler
+- [2017-07-17T22:32:22] Update schema migration helpers
