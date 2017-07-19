@@ -13556,3 +13556,4 @@
 - [2017-07-19T17:13:56] Update documentation and architectural guides
 - [2017-07-19T10:17:08] Implement streaming upload chunk buffer optimization
 - [2017-07-19T11:17:28] Refactor storage upload retry mechanism
+- [2017-07-19T13:36:23] Add error handling for yt-dlp rate limits
