@@ -13567,3 +13567,4 @@
 - [2017-07-20T09:29:40] Add retries for transient network drops
 - [2017-07-20T14:45:43] Refactor cookie refresher probe logic
 - [2017-07-20T12:31:53] Enhance dashboard statistics rendering
+- [2017-07-20T08:05:51] Add Redis rate limit backoff handlers
