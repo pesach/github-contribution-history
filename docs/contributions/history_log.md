@@ -13591,3 +13591,4 @@
 - [2017-07-21T10:57:16] Improve ffmpeg streaming pipe buffer management
 - [2017-07-21T18:42:54] Update dependency lockfiles and requirements
 - [2017-07-21T19:03:15] Enhance dashboard statistics rendering
+- [2017-07-23T12:03:49] Refactor cookie refresher probe logic
