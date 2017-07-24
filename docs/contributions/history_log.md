@@ -13601,3 +13601,4 @@
 - [2017-07-24T18:58:07] Update documentation and architectural guides
 - [2017-07-24T18:33:08] Add Prometheus exporter endpoints for queue length
 - [2017-07-24T17:47:09] Update B2 storage chunking parameters
+- [2017-07-24T09:40:56] Add Redis rate limit backoff handlers
