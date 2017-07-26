@@ -13620,3 +13620,4 @@
 - [2017-07-26T17:33:02] Update automated pytest test suites
 - [2017-07-26T20:09:37] Optimize PostgreSQL query execution plans
 - [2017-07-26T14:01:39] Update B2 storage chunking parameters
+- [2017-07-26T13:40:27] Refactor storage upload retry mechanism
