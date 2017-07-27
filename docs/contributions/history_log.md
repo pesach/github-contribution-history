@@ -13632,3 +13632,4 @@
 - [2017-07-27T12:03:56] Improve logging and health endpoint metrics
 - [2017-07-27T21:54:22] Update automated pytest test suites
 - [2017-07-27T21:52:40] Fix edge case in URL parsing and validation
+- [2017-07-27T15:39:36] Improve logging and health endpoint metrics
