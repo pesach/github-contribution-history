@@ -13627,3 +13627,4 @@
 - [2017-07-26T18:03:54] Enhance dashboard statistics rendering
 - [2017-07-26T12:33:07] Fix edge case in URL parsing and validation
 - [2017-07-26T18:58:33] Update schema migration helpers
+- [2017-07-27T09:04:21] Improve ffmpeg streaming pipe buffer management
