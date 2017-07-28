@@ -13635,3 +13635,4 @@
 - [2017-07-27T15:39:36] Improve logging and health endpoint metrics
 - [2017-07-28T19:53:18] Add Redis rate limit backoff handlers
 - [2017-07-28T09:24:43] Update documentation and architectural guides
+- [2017-07-28T10:48:16] Update documentation and architectural guides
