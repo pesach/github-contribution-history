@@ -13642,3 +13642,4 @@
 - [2017-07-28T22:04:33] Clean up legacy worker task routines
 - [2017-07-28T14:32:24] Refactor worker polling logic
 - [2017-07-28T15:31:13] Fix edge case in URL parsing and validation
+- [2017-07-28T08:25:54] Improve logging and health endpoint metrics
