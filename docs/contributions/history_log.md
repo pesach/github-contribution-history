@@ -13640,3 +13640,4 @@
 - [2017-07-28T13:00:54] Add error handling for yt-dlp rate limits
 - [2017-07-28T10:47:07] Add Redis rate limit backoff handlers
 - [2017-07-28T22:04:33] Clean up legacy worker task routines
+- [2017-07-28T14:32:24] Refactor worker polling logic
