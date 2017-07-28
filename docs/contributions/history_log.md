@@ -13631,3 +13631,4 @@
 - [2017-07-27T17:11:00] Refactor worker polling logic
 - [2017-07-27T12:03:56] Improve logging and health endpoint metrics
 - [2017-07-27T21:54:22] Update automated pytest test suites
+- [2017-07-27T21:52:40] Fix edge case in URL parsing and validation
