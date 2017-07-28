@@ -13637,3 +13637,4 @@
 - [2017-07-28T09:24:43] Update documentation and architectural guides
 - [2017-07-28T10:48:16] Update documentation and architectural guides
 - [2017-07-28T18:05:52] Refactor cookie refresher probe logic
+- [2017-07-28T13:00:54] Add error handling for yt-dlp rate limits
