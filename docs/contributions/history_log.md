@@ -13647,3 +13647,4 @@
 - [2017-07-30T17:53:44] Update automated pytest test suites
 - [2017-07-30T09:12:58] Update schema migration helpers
 - [2017-07-30T12:45:49] Clean up legacy worker task routines
+- [2017-07-30T18:51:02] Fix edge case in channel tab crawler
