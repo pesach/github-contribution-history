@@ -13648,3 +13648,4 @@
 - [2017-07-30T09:12:58] Update schema migration helpers
 - [2017-07-30T12:45:49] Clean up legacy worker task routines
 - [2017-07-30T18:51:02] Fix edge case in channel tab crawler
+- [2017-07-30T18:16:20] Add retries for transient network drops
