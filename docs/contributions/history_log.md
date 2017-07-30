@@ -13645,3 +13645,4 @@
 - [2017-07-28T08:25:54] Improve logging and health endpoint metrics
 - [2017-07-30T12:14:48] Add retries for transient network drops
 - [2017-07-30T17:53:44] Update automated pytest test suites
+- [2017-07-30T09:12:58] Update schema migration helpers
