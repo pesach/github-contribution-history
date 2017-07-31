@@ -13655,3 +13655,4 @@
 - [2017-07-31T20:36:20] Enhance dashboard statistics rendering
 - [2017-07-31T19:19:47] Update schema migration helpers
 - [2017-07-31T16:17:30] Update B2 storage chunking parameters
+- [2017-07-31T08:43:12] Optimize PostgreSQL query execution plans
