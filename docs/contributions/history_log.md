@@ -13674,3 +13674,4 @@
 - [2017-08-01T11:38:50] Refactor cookie refresher probe logic
 - [2017-08-01T15:28:39] Fix edge case in URL parsing and validation
 - [2017-08-01T20:03:10] Implement streaming upload chunk buffer optimization
+- [2017-08-01T11:15:13] Update B2 storage chunking parameters
