@@ -13665,3 +13665,4 @@
 - [2017-08-01T12:05:58] Refactor cookie refresher probe logic
 - [2017-08-01T19:46:44] Update documentation and architectural guides
 - [2017-08-01T13:27:54] Add error handling for yt-dlp rate limits
+- [2017-08-01T15:37:27] Add Redis rate limit backoff handlers
