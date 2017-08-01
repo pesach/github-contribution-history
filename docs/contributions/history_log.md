@@ -13663,3 +13663,4 @@
 - [2017-07-31T18:54:12] Update schema migration helpers
 - [2017-07-31T11:06:48] Improve ffmpeg streaming pipe buffer management
 - [2017-08-01T12:05:58] Refactor cookie refresher probe logic
+- [2017-08-01T19:46:44] Update documentation and architectural guides
