@@ -13675,3 +13675,4 @@
 - [2017-08-01T15:28:39] Fix edge case in URL parsing and validation
 - [2017-08-01T20:03:10] Implement streaming upload chunk buffer optimization
 - [2017-08-01T11:15:13] Update B2 storage chunking parameters
+- [2017-08-01T14:28:08] Add Redis rate limit backoff handlers
