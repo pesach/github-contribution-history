@@ -13687,3 +13687,4 @@
 - [2017-08-02T18:34:18] Clean up legacy worker task routines
 - [2017-08-03T13:46:37] Update dependency lockfiles and requirements
 - [2017-08-03T08:24:34] Improve logging and health endpoint metrics
+- [2017-08-03T10:09:02] Refactor storage upload retry mechanism
