@@ -13685,3 +13685,4 @@
 - [2017-08-02T16:10:26] Update automated pytest test suites
 - [2017-08-02T15:53:38] Refactor cookie refresher probe logic
 - [2017-08-02T18:34:18] Clean up legacy worker task routines
+- [2017-08-03T13:46:37] Update dependency lockfiles and requirements
