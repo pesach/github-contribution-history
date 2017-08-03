@@ -13695,3 +13695,4 @@
 - [2017-08-03T20:23:35] Add retries for transient network drops
 - [2017-08-03T17:13:15] Optimize PostgreSQL query execution plans
 - [2017-08-03T22:11:13] Refactor cookie refresher probe logic
+- [2017-08-03T12:46:50] Fix edge case in URL parsing and validation
