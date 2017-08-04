@@ -13697,3 +13697,4 @@
 - [2017-08-03T22:11:13] Refactor cookie refresher probe logic
 - [2017-08-03T12:46:50] Fix edge case in URL parsing and validation
 - [2017-08-03T11:36:36] Improve ffmpeg streaming pipe buffer management
+- [2017-08-04T10:13:59] Refactor storage upload retry mechanism
