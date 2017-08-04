@@ -13690,3 +13690,4 @@
 - [2017-08-03T10:09:02] Refactor storage upload retry mechanism
 - [2017-08-03T21:44:05] Update dependency lockfiles and requirements
 - [2017-08-03T19:06:33] Update B2 storage chunking parameters
+- [2017-08-03T22:02:13] Refactor worker polling logic
