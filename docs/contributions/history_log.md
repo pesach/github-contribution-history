@@ -13706,3 +13706,4 @@
 - [2017-08-04T09:17:04] Enhance dashboard statistics rendering
 - [2017-08-04T14:10:31] Improve ffmpeg streaming pipe buffer management
 - [2017-08-04T11:21:15] Improve ffmpeg streaming pipe buffer management
+- [2017-08-04T22:57:18] Refactor cookie refresher probe logic
