@@ -13709,3 +13709,4 @@
 - [2017-08-04T22:57:18] Refactor cookie refresher probe logic
 - [2017-08-04T12:10:09] Clean up legacy worker task routines
 - [2017-08-04T18:48:06] Update automated pytest test suites
+- [2017-08-05T10:57:34] Update schema migration helpers
