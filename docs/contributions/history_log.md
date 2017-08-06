@@ -13717,3 +13717,4 @@
 - [2017-08-05T20:59:50] Add retries for transient network drops
 - [2017-08-06T08:45:06] Refactor storage upload retry mechanism
 - [2017-08-06T16:10:51] Refactor storage upload retry mechanism
+- [2017-08-06T15:50:11] Add Prometheus exporter endpoints for queue length
