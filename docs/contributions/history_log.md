@@ -13712,3 +13712,4 @@
 - [2017-08-05T10:57:34] Update schema migration helpers
 - [2017-08-05T20:38:51] Add Redis rate limit backoff handlers
 - [2017-08-05T20:35:54] Update documentation and architectural guides
+- [2017-08-05T22:55:10] Refactor storage upload retry mechanism
