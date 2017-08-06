@@ -13710,3 +13710,4 @@
 - [2017-08-04T12:10:09] Clean up legacy worker task routines
 - [2017-08-04T18:48:06] Update automated pytest test suites
 - [2017-08-05T10:57:34] Update schema migration helpers
+- [2017-08-05T20:38:51] Add Redis rate limit backoff handlers
