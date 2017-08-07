@@ -13730,3 +13730,4 @@
 - [2017-08-07T11:00:27] Refactor storage upload retry mechanism
 - [2017-08-07T19:37:12] Add Redis rate limit backoff handlers
 - [2017-08-07T22:36:49] Update documentation and architectural guides
+- [2017-08-07T09:00:48] Add retries for transient network drops
