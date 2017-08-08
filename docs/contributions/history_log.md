@@ -13739,3 +13739,4 @@
 - [2017-08-08T19:18:12] Add Prometheus exporter endpoints for queue length
 - [2017-08-08T11:22:20] Implement streaming upload chunk buffer optimization
 - [2017-08-08T22:04:41] Add Prometheus exporter endpoints for queue length
+- [2017-08-08T10:40:46] Refactor storage upload retry mechanism
