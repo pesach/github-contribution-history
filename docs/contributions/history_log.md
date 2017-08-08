@@ -13735,3 +13735,4 @@
 - [2017-08-08T10:40:09] Enhance dashboard statistics rendering
 - [2017-08-08T14:11:52] Clean up legacy worker task routines
 - [2017-08-08T20:31:12] Add Redis rate limit backoff handlers
+- [2017-08-08T09:30:09] Clean up legacy worker task routines
