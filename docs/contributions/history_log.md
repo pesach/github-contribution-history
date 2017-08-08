@@ -13742,3 +13742,4 @@
 - [2017-08-08T10:40:46] Refactor storage upload retry mechanism
 - [2017-08-08T15:21:01] Improve logging and health endpoint metrics
 - [2017-08-08T08:07:09] Fix edge case in URL parsing and validation
+- [2017-08-08T12:13:16] Clean up legacy worker task routines
