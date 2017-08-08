@@ -13733,3 +13733,4 @@
 - [2017-08-07T09:00:48] Add retries for transient network drops
 - [2017-08-08T15:17:22] Refactor cookie refresher probe logic
 - [2017-08-08T10:40:09] Enhance dashboard statistics rendering
+- [2017-08-08T14:11:52] Clean up legacy worker task routines
