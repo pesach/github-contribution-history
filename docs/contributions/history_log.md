@@ -13746,3 +13746,4 @@
 - [2017-08-09T18:01:59] Add error handling for yt-dlp rate limits
 - [2017-08-09T19:08:22] Refactor storage upload retry mechanism
 - [2017-08-09T13:09:00] Add error handling for yt-dlp rate limits
+- [2017-08-09T16:07:46] Update schema migration helpers
