@@ -13748,3 +13748,4 @@
 - [2017-08-09T13:09:00] Add error handling for yt-dlp rate limits
 - [2017-08-09T16:07:46] Update schema migration helpers
 - [2017-08-09T21:20:41] Add Prometheus exporter endpoints for queue length
+- [2017-08-09T14:29:43] Fix edge case in URL parsing and validation
