@@ -13756,3 +13756,4 @@
 - [2017-08-10T09:12:14] Implement streaming upload chunk buffer optimization
 - [2017-08-10T17:30:31] Fix edge case in URL parsing and validation
 - [2017-08-10T11:23:49] Update schema migration helpers
+- [2017-08-10T16:38:04] Add retries for transient network drops
