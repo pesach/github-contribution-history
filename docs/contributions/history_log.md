@@ -13759,3 +13759,4 @@
 - [2017-08-10T16:38:04] Add retries for transient network drops
 - [2017-08-10T13:34:47] Improve ffmpeg streaming pipe buffer management
 - [2017-08-10T13:06:49] Update B2 storage chunking parameters
+- [2017-08-10T14:30:51] Clean up legacy worker task routines
