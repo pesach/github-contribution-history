@@ -13755,3 +13755,4 @@
 - [2017-08-10T20:13:16] Add Prometheus exporter endpoints for queue length
 - [2017-08-10T09:12:14] Implement streaming upload chunk buffer optimization
 - [2017-08-10T17:30:31] Fix edge case in URL parsing and validation
+- [2017-08-10T11:23:49] Update schema migration helpers
