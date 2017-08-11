@@ -13767,3 +13767,4 @@
 - [2017-08-11T18:06:09] Update schema migration helpers
 - [2017-08-11T13:33:05] Refactor storage upload retry mechanism
 - [2017-08-11T13:59:42] Improve ffmpeg streaming pipe buffer management
+- [2017-08-11T18:04:29] Optimize PostgreSQL query execution plans
