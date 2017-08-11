@@ -13769,3 +13769,4 @@
 - [2017-08-11T13:59:42] Improve ffmpeg streaming pipe buffer management
 - [2017-08-11T18:04:29] Optimize PostgreSQL query execution plans
 - [2017-08-11T14:27:43] Add Prometheus exporter endpoints for queue length
+- [2017-08-11T15:30:16] Refactor worker polling logic
