@@ -13766,3 +13766,4 @@
 - [2017-08-11T21:34:42] Refactor worker polling logic
 - [2017-08-11T18:06:09] Update schema migration helpers
 - [2017-08-11T13:33:05] Refactor storage upload retry mechanism
+- [2017-08-11T13:59:42] Improve ffmpeg streaming pipe buffer management
