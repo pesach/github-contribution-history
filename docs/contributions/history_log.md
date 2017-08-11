@@ -13764,3 +13764,4 @@
 - [2017-08-10T08:36:54] Refactor worker polling logic
 - [2017-08-10T17:56:14] Enhance dashboard statistics rendering
 - [2017-08-11T21:34:42] Refactor worker polling logic
+- [2017-08-11T18:06:09] Update schema migration helpers
