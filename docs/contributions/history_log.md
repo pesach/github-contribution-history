@@ -13775,3 +13775,4 @@
 - [2017-08-12T08:01:28] Fix edge case in URL parsing and validation
 - [2017-08-12T10:59:23] Fix edge case in channel tab crawler
 - [2017-08-12T08:39:56] Update dependency lockfiles and requirements
+- [2017-08-12T08:26:00] Improve logging and health endpoint metrics
