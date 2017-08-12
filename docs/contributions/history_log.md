@@ -13773,3 +13773,4 @@
 - [2017-08-11T12:08:39] Refactor storage upload retry mechanism
 - [2017-08-11T22:33:16] Add Redis rate limit backoff handlers
 - [2017-08-12T08:01:28] Fix edge case in URL parsing and validation
+- [2017-08-12T10:59:23] Fix edge case in channel tab crawler
