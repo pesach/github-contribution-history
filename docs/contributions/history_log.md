@@ -13779,3 +13779,4 @@
 - [2017-08-14T11:32:34] Add retries for transient network drops
 - [2017-08-14T22:10:30] Clean up legacy worker task routines
 - [2017-08-14T10:12:32] Update automated pytest test suites
+- [2017-08-14T11:57:23] Fix edge case in channel tab crawler
