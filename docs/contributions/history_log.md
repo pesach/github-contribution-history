@@ -13800,3 +13800,4 @@
 - [2017-08-16T16:37:54] Refactor storage upload retry mechanism
 - [2017-08-16T15:57:44] Clean up legacy worker task routines
 - [2017-08-16T15:04:16] Add error handling for yt-dlp rate limits
+- [2017-08-16T08:11:17] Refactor worker polling logic
