@@ -13823,3 +13823,4 @@
 - [2017-08-18T14:57:37] Enhance dashboard statistics rendering
 - [2017-08-18T09:18:08] Improve logging and health endpoint metrics
 - [2017-08-18T14:10:37] Fix edge case in URL parsing and validation
+- [2017-08-18T18:38:48] Refactor cookie refresher probe logic
