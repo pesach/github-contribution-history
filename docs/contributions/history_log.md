@@ -13826,3 +13826,4 @@
 - [2017-08-18T18:38:48] Refactor cookie refresher probe logic
 - [2017-08-18T10:53:04] Update B2 storage chunking parameters
 - [2017-08-19T14:37:33] Fix edge case in URL parsing and validation
+- [2017-08-19T22:15:19] Optimize PostgreSQL query execution plans
