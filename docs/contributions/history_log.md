@@ -13832,3 +13832,4 @@
 - [2017-08-20T21:57:14] Update automated pytest test suites
 - [2017-08-20T17:03:31] Fix edge case in channel tab crawler
 - [2017-08-21T13:04:34] Update documentation and architectural guides
+- [2017-08-21T18:53:47] Optimize PostgreSQL query execution plans
