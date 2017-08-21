@@ -13834,3 +13834,4 @@
 - [2017-08-21T13:04:34] Update documentation and architectural guides
 - [2017-08-21T18:53:47] Optimize PostgreSQL query execution plans
 - [2017-08-21T21:09:09] Update dependency lockfiles and requirements
+- [2017-08-21T08:23:08] Improve ffmpeg streaming pipe buffer management
