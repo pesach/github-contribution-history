@@ -13835,3 +13835,4 @@
 - [2017-08-21T18:53:47] Optimize PostgreSQL query execution plans
 - [2017-08-21T21:09:09] Update dependency lockfiles and requirements
 - [2017-08-21T08:23:08] Improve ffmpeg streaming pipe buffer management
+- [2017-08-21T09:09:09] Clean up legacy worker task routines
