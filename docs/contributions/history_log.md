@@ -13845,3 +13845,4 @@
 - [2017-08-22T18:05:41] Update dependency lockfiles and requirements
 - [2017-08-22T16:49:43] Update documentation and architectural guides
 - [2017-08-22T21:08:01] Add error handling for yt-dlp rate limits
+- [2017-08-22T10:12:16] Fix edge case in URL parsing and validation
