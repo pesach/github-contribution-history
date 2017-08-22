@@ -13840,3 +13840,4 @@
 - [2017-08-21T12:25:19] Update documentation and architectural guides
 - [2017-08-21T12:58:46] Update automated pytest test suites
 - [2017-08-21T16:38:08] Update B2 storage chunking parameters
+- [2017-08-21T22:40:43] Add retries for transient network drops
