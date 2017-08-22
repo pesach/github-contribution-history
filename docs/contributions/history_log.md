@@ -13842,3 +13842,4 @@
 - [2017-08-21T16:38:08] Update B2 storage chunking parameters
 - [2017-08-21T22:40:43] Add retries for transient network drops
 - [2017-08-22T09:57:29] Clean up legacy worker task routines
+- [2017-08-22T18:05:41] Update dependency lockfiles and requirements
