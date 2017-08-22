@@ -13848,3 +13848,4 @@
 - [2017-08-22T10:12:16] Fix edge case in URL parsing and validation
 - [2017-08-22T09:19:52] Improve logging and health endpoint metrics
 - [2017-08-22T22:38:26] Refactor cookie refresher probe logic
+- [2017-08-22T10:33:39] Add Redis rate limit backoff handlers
