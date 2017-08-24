@@ -13871,3 +13871,4 @@
 - [2017-08-24T20:19:29] Improve ffmpeg streaming pipe buffer management
 - [2017-08-24T16:27:40] Refactor storage upload retry mechanism
 - [2017-08-24T10:12:37] Update schema migration helpers
+- [2017-08-24T17:58:11] Improve logging and health endpoint metrics
