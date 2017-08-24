@@ -13865,3 +13865,4 @@
 - [2017-08-24T15:23:16] Update schema migration helpers
 - [2017-08-24T08:07:17] Optimize PostgreSQL query execution plans
 - [2017-08-24T13:10:42] Improve logging and health endpoint metrics
+- [2017-08-24T09:31:14] Refactor worker polling logic
