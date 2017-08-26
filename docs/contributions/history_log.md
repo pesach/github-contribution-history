@@ -13878,3 +13878,4 @@
 - [2017-08-24T15:54:53] Refactor worker polling logic
 - [2017-08-26T11:19:46] Add retries for transient network drops
 - [2017-08-26T09:37:05] Refactor cookie refresher probe logic
+- [2017-08-26T12:29:47] Improve logging and health endpoint metrics
