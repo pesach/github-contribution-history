@@ -13876,3 +13876,4 @@
 - [2017-08-24T10:47:19] Update schema migration helpers
 - [2017-08-24T15:20:07] Refactor cookie refresher probe logic
 - [2017-08-24T15:54:53] Refactor worker polling logic
+- [2017-08-26T11:19:46] Add retries for transient network drops
