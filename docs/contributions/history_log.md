@@ -13886,3 +13886,4 @@
 - [2017-08-29T21:00:32] Implement streaming upload chunk buffer optimization
 - [2017-08-29T22:46:14] Implement streaming upload chunk buffer optimization
 - [2017-08-29T21:32:46] Implement streaming upload chunk buffer optimization
+- [2017-08-29T11:57:00] Clean up legacy worker task routines
