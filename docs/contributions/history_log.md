@@ -13893,3 +13893,4 @@
 - [2017-08-29T12:02:27] Update automated pytest test suites
 - [2017-08-29T08:31:03] Update schema migration helpers
 - [2017-08-29T09:48:53] Improve logging and health endpoint metrics
+- [2017-08-29T10:41:50] Update automated pytest test suites
