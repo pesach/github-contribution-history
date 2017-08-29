@@ -13882,3 +13882,4 @@
 - [2017-08-26T20:04:41] Enhance dashboard statistics rendering
 - [2017-08-29T18:16:14] Update dependency lockfiles and requirements
 - [2017-08-29T19:43:58] Implement streaming upload chunk buffer optimization
+- [2017-08-29T10:13:48] Add Redis rate limit backoff handlers
