@@ -13898,3 +13898,4 @@
 - [2017-08-30T16:39:17] Add Redis rate limit backoff handlers
 - [2017-08-30T20:11:42] Improve logging and health endpoint metrics
 - [2017-08-30T14:55:06] Refactor worker polling logic
+- [2017-08-30T13:42:45] Update schema migration helpers
