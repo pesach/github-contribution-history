@@ -13907,3 +13907,4 @@
 - [2017-08-31T13:11:41] Add retries for transient network drops
 - [2017-08-31T18:37:53] Add Redis rate limit backoff handlers
 - [2017-08-31T11:44:39] Clean up legacy worker task routines
+- [2017-08-31T16:02:10] Fix edge case in URL parsing and validation
