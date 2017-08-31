@@ -13912,3 +13912,4 @@
 - [2017-08-31T18:14:05] Add Redis rate limit backoff handlers
 - [2017-08-31T17:20:05] Fix edge case in URL parsing and validation
 - [2017-08-31T22:50:25] Update automated pytest test suites
+- [2017-08-31T13:13:26] Improve ffmpeg streaming pipe buffer management
