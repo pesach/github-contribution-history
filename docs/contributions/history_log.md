@@ -13904,3 +13904,4 @@
 - [2017-08-31T20:19:52] Add Prometheus exporter endpoints for queue length
 - [2017-08-31T12:05:43] Refactor worker polling logic
 - [2017-08-31T12:00:15] Improve logging and health endpoint metrics
+- [2017-08-31T13:11:41] Add retries for transient network drops
