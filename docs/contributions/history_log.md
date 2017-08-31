@@ -13896,3 +13896,4 @@
 - [2017-08-29T10:41:50] Update automated pytest test suites
 - [2017-08-29T10:15:09] Add retries for transient network drops
 - [2017-08-30T16:39:17] Add Redis rate limit backoff handlers
+- [2017-08-30T20:11:42] Improve logging and health endpoint metrics
