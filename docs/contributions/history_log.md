@@ -13910,3 +13910,4 @@
 - [2017-08-31T16:02:10] Fix edge case in URL parsing and validation
 - [2017-08-31T14:25:09] Enhance dashboard statistics rendering
 - [2017-08-31T18:14:05] Add Redis rate limit backoff handlers
+- [2017-08-31T17:20:05] Fix edge case in URL parsing and validation
