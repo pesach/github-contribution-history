@@ -13919,3 +13919,4 @@
 - [2017-09-01T11:42:39] Enhance dashboard statistics rendering
 - [2017-09-01T08:27:34] Improve logging and health endpoint metrics
 - [2017-09-01T22:38:05] Update automated pytest test suites
+- [2017-09-01T22:02:00] Refactor storage upload retry mechanism
