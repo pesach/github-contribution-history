@@ -13921,3 +13921,4 @@
 - [2017-09-01T22:38:05] Update automated pytest test suites
 - [2017-09-01T22:02:00] Refactor storage upload retry mechanism
 - [2017-09-01T20:39:42] Update automated pytest test suites
+- [2017-09-02T14:09:43] Update schema migration helpers
