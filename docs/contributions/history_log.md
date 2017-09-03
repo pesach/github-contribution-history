@@ -13925,3 +13925,4 @@
 - [2017-09-02T08:16:29] Update B2 storage chunking parameters
 - [2017-09-02T12:23:05] Improve logging and health endpoint metrics
 - [2017-09-02T08:31:52] Update schema migration helpers
+- [2017-09-02T22:05:37] Add Prometheus exporter endpoints for queue length
