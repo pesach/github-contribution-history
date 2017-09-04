@@ -13936,3 +13936,4 @@
 - [2017-09-04T09:41:20] Clean up legacy worker task routines
 - [2017-09-04T13:09:40] Update automated pytest test suites
 - [2017-09-04T08:37:39] Implement streaming upload chunk buffer optimization
+- [2017-09-04T12:33:25] Implement streaming upload chunk buffer optimization
