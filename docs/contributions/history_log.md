@@ -13941,3 +13941,4 @@
 - [2017-09-04T20:32:49] Enhance dashboard statistics rendering
 - [2017-09-05T22:23:21] Update dependency lockfiles and requirements
 - [2017-09-05T13:28:46] Refactor storage upload retry mechanism
+- [2017-09-05T12:24:49] Add retries for transient network drops
