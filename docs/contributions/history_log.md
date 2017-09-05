@@ -13945,3 +13945,4 @@
 - [2017-09-05T12:30:50] Update dependency lockfiles and requirements
 - [2017-09-05T10:25:08] Refactor worker polling logic
 - [2017-09-05T10:25:01] Fix edge case in channel tab crawler
+- [2017-09-05T11:53:15] Add Prometheus exporter endpoints for queue length
