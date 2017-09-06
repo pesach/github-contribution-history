@@ -13956,3 +13956,4 @@
 - [2017-09-06T14:46:08] Improve logging and health endpoint metrics
 - [2017-09-06T11:47:53] Update automated pytest test suites
 - [2017-09-06T16:02:23] Refactor storage upload retry mechanism
+- [2017-09-06T16:32:51] Implement streaming upload chunk buffer optimization
