@@ -13960,3 +13960,4 @@
 - [2017-09-06T22:08:25] Update dependency lockfiles and requirements
 - [2017-09-07T12:21:33] Update schema migration helpers
 - [2017-09-07T19:55:13] Update automated pytest test suites
+- [2017-09-07T13:29:02] Update dependency lockfiles and requirements
