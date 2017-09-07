@@ -13964,3 +13964,4 @@
 - [2017-09-07T17:00:12] Update schema migration helpers
 - [2017-09-07T08:45:54] Enhance dashboard statistics rendering
 - [2017-09-07T08:17:20] Refactor cookie refresher probe logic
+- [2017-09-07T09:52:52] Update B2 storage chunking parameters
