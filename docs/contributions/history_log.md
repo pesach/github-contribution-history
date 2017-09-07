@@ -13959,3 +13959,4 @@
 - [2017-09-06T16:32:51] Implement streaming upload chunk buffer optimization
 - [2017-09-06T22:08:25] Update dependency lockfiles and requirements
 - [2017-09-07T12:21:33] Update schema migration helpers
+- [2017-09-07T19:55:13] Update automated pytest test suites
