@@ -13976,3 +13976,4 @@
 - [2017-09-08T15:13:30] Improve logging and health endpoint metrics
 - [2017-09-08T09:05:23] Update automated pytest test suites
 - [2017-09-08T10:56:24] Enhance dashboard statistics rendering
+- [2017-09-08T12:26:27] Update B2 storage chunking parameters
