@@ -13981,3 +13981,4 @@
 - [2017-09-08T12:56:49] Refactor storage upload retry mechanism
 - [2017-09-08T22:47:30] Improve ffmpeg streaming pipe buffer management
 - [2017-09-09T22:58:08] Update automated pytest test suites
+- [2017-09-09T21:43:07] Refactor storage upload retry mechanism
