@@ -13984,3 +13984,4 @@
 - [2017-09-09T21:43:07] Refactor storage upload retry mechanism
 - [2017-09-09T10:20:23] Fix edge case in URL parsing and validation
 - [2017-09-11T21:46:59] Update schema migration helpers
+- [2017-09-11T10:28:09] Add Redis rate limit backoff handlers
