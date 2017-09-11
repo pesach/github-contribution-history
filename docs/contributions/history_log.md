@@ -13987,3 +13987,4 @@
 - [2017-09-11T10:28:09] Add Redis rate limit backoff handlers
 - [2017-09-11T18:20:19] Add Redis rate limit backoff handlers
 - [2017-09-11T17:08:30] Clean up legacy worker task routines
+- [2017-09-11T11:07:44] Fix edge case in URL parsing and validation
