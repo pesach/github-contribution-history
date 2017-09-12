@@ -13989,3 +13989,4 @@
 - [2017-09-11T17:08:30] Clean up legacy worker task routines
 - [2017-09-11T11:07:44] Fix edge case in URL parsing and validation
 - [2017-09-11T20:09:25] Improve ffmpeg streaming pipe buffer management
+- [2017-09-11T22:24:42] Add Redis rate limit backoff handlers
