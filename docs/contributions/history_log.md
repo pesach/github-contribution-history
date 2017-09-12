@@ -13983,3 +13983,4 @@
 - [2017-09-09T22:58:08] Update automated pytest test suites
 - [2017-09-09T21:43:07] Refactor storage upload retry mechanism
 - [2017-09-09T10:20:23] Fix edge case in URL parsing and validation
+- [2017-09-11T21:46:59] Update schema migration helpers
