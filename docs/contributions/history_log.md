@@ -13992,3 +13992,4 @@
 - [2017-09-11T22:24:42] Add Redis rate limit backoff handlers
 - [2017-09-11T18:11:16] Clean up legacy worker task routines
 - [2017-09-12T09:58:16] Clean up legacy worker task routines
+- [2017-09-12T09:17:35] Improve logging and health endpoint metrics
