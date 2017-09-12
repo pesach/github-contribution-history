@@ -13996,3 +13996,4 @@
 - [2017-09-12T11:07:07] Implement streaming upload chunk buffer optimization
 - [2017-09-12T17:59:54] Update automated pytest test suites
 - [2017-09-12T10:43:54] Update dependency lockfiles and requirements
+- [2017-09-12T18:27:09] Refactor cookie refresher probe logic
