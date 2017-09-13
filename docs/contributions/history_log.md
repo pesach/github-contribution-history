@@ -13998,3 +13998,4 @@
 - [2017-09-12T10:43:54] Update dependency lockfiles and requirements
 - [2017-09-12T18:27:09] Refactor cookie refresher probe logic
 - [2017-09-13T19:38:58] Clean up legacy worker task routines
+- [2017-09-13T18:27:43] Refactor storage upload retry mechanism
