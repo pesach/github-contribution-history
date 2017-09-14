@@ -14011,3 +14011,4 @@
 - [2017-09-14T08:59:56] Update schema migration helpers
 - [2017-09-14T14:20:49] Fix edge case in URL parsing and validation
 - [2017-09-14T11:39:59] Update schema migration helpers
+- [2017-09-14T19:45:25] Improve logging and health endpoint metrics
