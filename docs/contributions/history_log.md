@@ -14008,3 +14008,4 @@
 - [2017-09-13T19:31:38] Add Prometheus exporter endpoints for queue length
 - [2017-09-13T11:56:21] Improve ffmpeg streaming pipe buffer management
 - [2017-09-13T08:04:31] Optimize PostgreSQL query execution plans
+- [2017-09-14T08:59:56] Update schema migration helpers
