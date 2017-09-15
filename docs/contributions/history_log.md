@@ -14019,3 +14019,4 @@
 - [2017-09-15T14:05:36] Update documentation and architectural guides
 - [2017-09-15T13:08:44] Update B2 storage chunking parameters
 - [2017-09-15T08:24:05] Update B2 storage chunking parameters
+- [2017-09-15T16:23:32] Refactor storage upload retry mechanism
