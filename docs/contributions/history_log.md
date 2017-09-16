@@ -14020,3 +14020,4 @@
 - [2017-09-15T13:08:44] Update B2 storage chunking parameters
 - [2017-09-15T08:24:05] Update B2 storage chunking parameters
 - [2017-09-15T16:23:32] Refactor storage upload retry mechanism
+- [2017-09-16T11:54:49] Refactor cookie refresher probe logic
