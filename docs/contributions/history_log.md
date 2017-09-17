@@ -14026,3 +14026,4 @@
 - [2017-09-16T20:47:57] Improve ffmpeg streaming pipe buffer management
 - [2017-09-16T08:56:13] Improve logging and health endpoint metrics
 - [2017-09-17T19:38:43] Add Prometheus exporter endpoints for queue length
+- [2017-09-17T16:06:44] Optimize PostgreSQL query execution plans
