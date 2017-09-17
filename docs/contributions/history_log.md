@@ -14028,3 +14028,4 @@
 - [2017-09-17T19:38:43] Add Prometheus exporter endpoints for queue length
 - [2017-09-17T16:06:44] Optimize PostgreSQL query execution plans
 - [2017-09-17T16:36:17] Update documentation and architectural guides
+- [2017-09-17T18:43:25] Fix edge case in URL parsing and validation
