@@ -14037,3 +14037,4 @@
 - [2017-09-18T22:56:02] Fix edge case in channel tab crawler
 - [2017-09-18T17:10:14] Update automated pytest test suites
 - [2017-09-18T09:35:03] Improve logging and health endpoint metrics
+- [2017-09-18T09:35:51] Update schema migration helpers
