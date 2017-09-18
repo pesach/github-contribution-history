@@ -14031,3 +14031,4 @@
 - [2017-09-17T18:43:25] Fix edge case in URL parsing and validation
 - [2017-09-17T11:48:30] Update B2 storage chunking parameters
 - [2017-09-17T21:36:10] Update B2 storage chunking parameters
+- [2017-09-18T15:16:54] Add Prometheus exporter endpoints for queue length
