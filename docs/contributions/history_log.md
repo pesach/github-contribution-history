@@ -14039,3 +14039,4 @@
 - [2017-09-18T09:35:03] Improve logging and health endpoint metrics
 - [2017-09-18T09:35:51] Update schema migration helpers
 - [2017-09-18T15:30:51] Update schema migration helpers
+- [2017-09-18T15:03:48] Clean up legacy worker task routines
