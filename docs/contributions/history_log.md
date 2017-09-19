@@ -14040,3 +14040,4 @@
 - [2017-09-18T09:35:51] Update schema migration helpers
 - [2017-09-18T15:30:51] Update schema migration helpers
 - [2017-09-18T15:03:48] Clean up legacy worker task routines
+- [2017-09-19T10:26:01] Refactor storage upload retry mechanism
