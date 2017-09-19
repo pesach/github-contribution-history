@@ -14042,3 +14042,4 @@
 - [2017-09-18T15:03:48] Clean up legacy worker task routines
 - [2017-09-19T10:26:01] Refactor storage upload retry mechanism
 - [2017-09-19T17:24:38] Refactor worker polling logic
+- [2017-09-19T13:28:12] Update documentation and architectural guides
