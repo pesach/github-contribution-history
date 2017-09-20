@@ -14055,3 +14055,4 @@
 - [2017-09-20T13:23:14] Update B2 storage chunking parameters
 - [2017-09-20T09:36:37] Optimize PostgreSQL query execution plans
 - [2017-09-20T13:37:26] Fix edge case in URL parsing and validation
+- [2017-09-20T19:46:56] Optimize PostgreSQL query execution plans
