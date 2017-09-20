@@ -14048,3 +14048,4 @@
 - [2017-09-19T11:51:46] Update documentation and architectural guides
 - [2017-09-19T11:13:41] Add Prometheus exporter endpoints for queue length
 - [2017-09-19T18:05:10] Refactor storage upload retry mechanism
+- [2017-09-20T13:13:12] Fix edge case in URL parsing and validation
