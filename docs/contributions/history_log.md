@@ -14066,3 +14066,4 @@
 - [2017-09-21T14:37:02] Improve ffmpeg streaming pipe buffer management
 - [2017-09-21T13:16:41] Fix edge case in URL parsing and validation
 - [2017-09-21T22:37:47] Update automated pytest test suites
+- [2017-09-21T08:46:07] Update B2 storage chunking parameters
