@@ -14058,3 +14058,4 @@
 - [2017-09-20T19:46:56] Optimize PostgreSQL query execution plans
 - [2017-09-20T12:13:23] Fix edge case in URL parsing and validation
 - [2017-09-21T21:08:26] Refactor storage upload retry mechanism
+- [2017-09-21T14:10:30] Fix edge case in URL parsing and validation
