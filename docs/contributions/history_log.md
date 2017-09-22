@@ -14061,3 +14061,4 @@
 - [2017-09-21T14:10:30] Fix edge case in URL parsing and validation
 - [2017-09-21T17:39:20] Update dependency lockfiles and requirements
 - [2017-09-21T14:46:13] Update dependency lockfiles and requirements
+- [2017-09-21T21:16:13] Refactor cookie refresher probe logic
