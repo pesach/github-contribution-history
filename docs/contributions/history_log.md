@@ -14071,3 +14071,4 @@
 - [2017-09-21T22:41:33] Update schema migration helpers
 - [2017-09-21T08:51:06] Add Prometheus exporter endpoints for queue length
 - [2017-09-21T11:39:10] Update documentation and architectural guides
+- [2017-09-22T12:21:31] Update documentation and architectural guides
