@@ -14080,3 +14080,4 @@
 - [2017-09-24T22:28:15] Refactor worker polling logic
 - [2017-09-24T10:29:44] Refactor worker polling logic
 - [2017-09-24T16:58:23] Add Redis rate limit backoff handlers
+- [2017-09-24T08:18:56] Add error handling for yt-dlp rate limits
