@@ -14089,3 +14089,4 @@
 - [2017-09-25T09:21:57] Fix edge case in channel tab crawler
 - [2017-09-25T12:33:17] Refactor cookie refresher probe logic
 - [2017-09-25T16:43:42] Improve ffmpeg streaming pipe buffer management
+- [2017-09-25T08:52:44] Fix edge case in channel tab crawler
