@@ -14077,3 +14077,4 @@
 - [2017-09-22T21:57:41] Update dependency lockfiles and requirements
 - [2017-09-22T22:16:33] Update automated pytest test suites
 - [2017-09-22T22:00:42] Update documentation and architectural guides
+- [2017-09-24T22:28:15] Refactor worker polling logic
