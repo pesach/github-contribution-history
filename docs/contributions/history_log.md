@@ -14088,3 +14088,4 @@
 - [2017-09-25T21:59:53] Improve logging and health endpoint metrics
 - [2017-09-25T09:21:57] Fix edge case in channel tab crawler
 - [2017-09-25T12:33:17] Refactor cookie refresher probe logic
+- [2017-09-25T16:43:42] Improve ffmpeg streaming pipe buffer management
