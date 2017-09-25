@@ -14086,3 +14086,4 @@
 - [2017-09-25T08:12:12] Refactor storage upload retry mechanism
 - [2017-09-25T12:36:12] Update documentation and architectural guides
 - [2017-09-25T21:59:53] Improve logging and health endpoint metrics
+- [2017-09-25T09:21:57] Fix edge case in channel tab crawler
