@@ -14084,3 +14084,4 @@
 - [2017-09-24T10:18:47] Update dependency lockfiles and requirements
 - [2017-09-25T16:03:34] Update documentation and architectural guides
 - [2017-09-25T08:12:12] Refactor storage upload retry mechanism
+- [2017-09-25T12:36:12] Update documentation and architectural guides
