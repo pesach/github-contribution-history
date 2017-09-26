@@ -14101,3 +14101,4 @@
 - [2017-09-26T18:58:55] Refactor storage upload retry mechanism
 - [2017-09-26T15:11:23] Update dependency lockfiles and requirements
 - [2017-09-26T18:48:47] Add retries for transient network drops
+- [2017-09-26T11:36:46] Implement streaming upload chunk buffer optimization
