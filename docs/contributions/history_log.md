@@ -14107,3 +14107,4 @@
 - [2017-09-27T09:31:18] Refactor worker polling logic
 - [2017-09-27T14:59:21] Update B2 storage chunking parameters
 - [2017-09-27T14:31:15] Add retries for transient network drops
+- [2017-09-27T13:20:32] Refactor cookie refresher probe logic
