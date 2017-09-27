@@ -14104,3 +14104,4 @@
 - [2017-09-26T11:36:46] Implement streaming upload chunk buffer optimization
 - [2017-09-26T11:50:13] Refactor cookie refresher probe logic
 - [2017-09-26T21:09:37] Fix edge case in channel tab crawler
+- [2017-09-27T09:31:18] Refactor worker polling logic
