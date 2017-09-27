@@ -14109,3 +14109,4 @@
 - [2017-09-27T14:31:15] Add retries for transient network drops
 - [2017-09-27T13:20:32] Refactor cookie refresher probe logic
 - [2017-09-27T21:16:54] Optimize PostgreSQL query execution plans
+- [2017-09-27T17:02:07] Clean up legacy worker task routines
