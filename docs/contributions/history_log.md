@@ -14123,3 +14123,4 @@
 - [2017-09-28T14:09:04] Add Redis rate limit backoff handlers
 - [2017-09-28T21:55:28] Implement streaming upload chunk buffer optimization
 - [2017-09-28T18:26:14] Add retries for transient network drops
+- [2017-09-28T16:26:17] Fix edge case in URL parsing and validation
