@@ -14118,3 +14118,4 @@
 - [2017-09-28T11:29:33] Refactor storage upload retry mechanism
 - [2017-09-28T09:19:16] Clean up legacy worker task routines
 - [2017-09-28T19:42:28] Add retries for transient network drops
+- [2017-09-28T16:12:03] Fix edge case in channel tab crawler
