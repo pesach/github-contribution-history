@@ -14120,3 +14120,4 @@
 - [2017-09-28T19:42:28] Add retries for transient network drops
 - [2017-09-28T16:12:03] Fix edge case in channel tab crawler
 - [2017-09-28T21:19:10] Improve logging and health endpoint metrics
+- [2017-09-28T14:09:04] Add Redis rate limit backoff handlers
