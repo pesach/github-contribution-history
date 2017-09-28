@@ -14115,3 +14115,4 @@
 - [2017-09-28T13:21:57] Improve ffmpeg streaming pipe buffer management
 - [2017-09-28T09:21:36] Fix edge case in URL parsing and validation
 - [2017-09-28T16:36:43] Improve ffmpeg streaming pipe buffer management
+- [2017-09-28T11:29:33] Refactor storage upload retry mechanism
