@@ -14130,3 +14130,4 @@
 - [2017-09-29T15:46:06] Clean up legacy worker task routines
 - [2017-09-29T20:27:13] Update schema migration helpers
 - [2017-09-29T22:31:01] Update automated pytest test suites
+- [2017-09-29T16:24:47] Improve ffmpeg streaming pipe buffer management
