@@ -14131,3 +14131,4 @@
 - [2017-09-29T20:27:13] Update schema migration helpers
 - [2017-09-29T22:31:01] Update automated pytest test suites
 - [2017-09-29T16:24:47] Improve ffmpeg streaming pipe buffer management
+- [2017-09-29T18:44:28] Add Prometheus exporter endpoints for queue length
