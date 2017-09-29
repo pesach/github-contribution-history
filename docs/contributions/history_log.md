@@ -14127,3 +14127,4 @@
 - [2017-09-29T17:49:43] Improve logging and health endpoint metrics
 - [2017-09-29T15:57:22] Update documentation and architectural guides
 - [2017-09-29T21:35:48] Implement streaming upload chunk buffer optimization
+- [2017-09-29T15:46:06] Clean up legacy worker task routines
