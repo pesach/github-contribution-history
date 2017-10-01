@@ -14137,3 +14137,4 @@
 - [2017-09-29T14:26:30] Update schema migration helpers
 - [2017-09-29T12:09:29] Add Prometheus exporter endpoints for queue length
 - [2017-10-01T13:16:15] Refactor worker polling logic
+- [2017-10-01T11:15:42] Improve ffmpeg streaming pipe buffer management
