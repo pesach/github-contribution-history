@@ -14140,3 +14140,4 @@
 - [2017-10-01T11:15:42] Improve ffmpeg streaming pipe buffer management
 - [2017-10-01T14:44:54] Update B2 storage chunking parameters
 - [2017-10-02T08:25:20] Enhance dashboard statistics rendering
+- [2017-10-02T16:30:28] Fix edge case in URL parsing and validation
