@@ -14146,3 +14146,4 @@
 - [2017-10-02T22:50:21] Fix edge case in channel tab crawler
 - [2017-10-02T10:08:11] Clean up legacy worker task routines
 - [2017-10-02T09:48:26] Improve logging and health endpoint metrics
+- [2017-10-02T10:49:51] Add Prometheus exporter endpoints for queue length
