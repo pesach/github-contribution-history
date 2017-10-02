@@ -14145,3 +14145,4 @@
 - [2017-10-02T09:19:03] Refactor cookie refresher probe logic
 - [2017-10-02T22:50:21] Fix edge case in channel tab crawler
 - [2017-10-02T10:08:11] Clean up legacy worker task routines
+- [2017-10-02T09:48:26] Improve logging and health endpoint metrics
