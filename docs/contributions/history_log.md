@@ -14143,3 +14143,4 @@
 - [2017-10-02T16:30:28] Fix edge case in URL parsing and validation
 - [2017-10-02T22:44:08] Update documentation and architectural guides
 - [2017-10-02T09:19:03] Refactor cookie refresher probe logic
+- [2017-10-02T22:50:21] Fix edge case in channel tab crawler
