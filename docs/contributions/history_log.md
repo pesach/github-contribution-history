@@ -14156,3 +14156,4 @@
 - [2017-10-03T20:14:00] Update dependency lockfiles and requirements
 - [2017-10-03T15:15:20] Fix edge case in channel tab crawler
 - [2017-10-03T22:11:10] Fix edge case in channel tab crawler
+- [2017-10-03T11:53:09] Optimize PostgreSQL query execution plans
