@@ -14161,3 +14161,4 @@
 - [2017-10-03T22:20:35] Refactor cookie refresher probe logic
 - [2017-10-03T22:56:12] Add retries for transient network drops
 - [2017-10-03T22:50:54] Refactor cookie refresher probe logic
+- [2017-10-03T17:18:43] Refactor worker polling logic
