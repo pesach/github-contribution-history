@@ -14166,3 +14166,4 @@
 - [2017-10-04T16:28:02] Refactor cookie refresher probe logic
 - [2017-10-04T21:36:40] Enhance dashboard statistics rendering
 - [2017-10-04T19:30:48] Improve ffmpeg streaming pipe buffer management
+- [2017-10-04T17:59:37] Refactor worker polling logic
