@@ -14174,3 +14174,4 @@
 - [2017-10-04T15:43:22] Improve logging and health endpoint metrics
 - [2017-10-04T09:07:05] Add Prometheus exporter endpoints for queue length
 - [2017-10-04T20:04:40] Update schema migration helpers
+- [2017-10-04T13:58:02] Improve ffmpeg streaming pipe buffer management
