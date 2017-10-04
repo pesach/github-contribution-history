@@ -14160,3 +14160,4 @@
 - [2017-10-03T22:39:32] Improve logging and health endpoint metrics
 - [2017-10-03T22:20:35] Refactor cookie refresher probe logic
 - [2017-10-03T22:56:12] Add retries for transient network drops
+- [2017-10-03T22:50:54] Refactor cookie refresher probe logic
