@@ -14163,3 +14163,4 @@
 - [2017-10-03T22:50:54] Refactor cookie refresher probe logic
 - [2017-10-03T17:18:43] Refactor worker polling logic
 - [2017-10-03T12:31:55] Improve logging and health endpoint metrics
+- [2017-10-04T16:28:02] Refactor cookie refresher probe logic
