@@ -14167,3 +14167,4 @@
 - [2017-10-04T21:36:40] Enhance dashboard statistics rendering
 - [2017-10-04T19:30:48] Improve ffmpeg streaming pipe buffer management
 - [2017-10-04T17:59:37] Refactor worker polling logic
+- [2017-10-04T19:17:52] Fix edge case in channel tab crawler
