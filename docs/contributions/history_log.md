@@ -14176,3 +14176,4 @@
 - [2017-10-04T20:04:40] Update schema migration helpers
 - [2017-10-04T13:58:02] Improve ffmpeg streaming pipe buffer management
 - [2017-10-04T11:15:06] Refactor storage upload retry mechanism
+- [2017-10-04T10:34:07] Clean up legacy worker task routines
