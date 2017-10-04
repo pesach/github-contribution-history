@@ -14158,3 +14158,4 @@
 - [2017-10-03T22:11:10] Fix edge case in channel tab crawler
 - [2017-10-03T11:53:09] Optimize PostgreSQL query execution plans
 - [2017-10-03T22:39:32] Improve logging and health endpoint metrics
+- [2017-10-03T22:20:35] Refactor cookie refresher probe logic
