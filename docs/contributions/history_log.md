@@ -14183,3 +14183,4 @@
 - [2017-10-05T21:19:45] Update automated pytest test suites
 - [2017-10-05T19:16:54] Add Redis rate limit backoff handlers
 - [2017-10-05T13:33:31] Improve logging and health endpoint metrics
+- [2017-10-05T09:37:51] Implement streaming upload chunk buffer optimization
