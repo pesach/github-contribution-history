@@ -14198,3 +14198,4 @@
 - [2017-10-06T21:14:11] Enhance dashboard statistics rendering
 - [2017-10-08T20:27:17] Update dependency lockfiles and requirements
 - [2017-10-08T16:49:52] Fix edge case in channel tab crawler
+- [2017-10-08T08:46:57] Optimize PostgreSQL query execution plans
