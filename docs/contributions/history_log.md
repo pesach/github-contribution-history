@@ -14197,3 +14197,4 @@
 - [2017-10-06T12:33:22] Update documentation and architectural guides
 - [2017-10-06T21:14:11] Enhance dashboard statistics rendering
 - [2017-10-08T20:27:17] Update dependency lockfiles and requirements
+- [2017-10-08T16:49:52] Fix edge case in channel tab crawler
