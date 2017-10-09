@@ -14214,3 +14214,4 @@
 - [2017-10-09T19:10:48] Refactor storage upload retry mechanism
 - [2017-10-09T15:51:45] Update B2 storage chunking parameters
 - [2017-10-09T18:57:10] Optimize PostgreSQL query execution plans
+- [2017-10-09T17:28:29] Clean up legacy worker task routines
