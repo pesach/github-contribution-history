@@ -14210,3 +14210,4 @@
 - [2017-10-09T16:48:16] Improve ffmpeg streaming pipe buffer management
 - [2017-10-09T11:07:58] Update schema migration helpers
 - [2017-10-09T08:55:40] Add retries for transient network drops
+- [2017-10-09T11:48:19] Refactor worker polling logic
