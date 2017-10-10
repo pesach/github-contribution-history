@@ -14220,3 +14220,4 @@
 - [2017-10-10T21:20:20] Improve logging and health endpoint metrics
 - [2017-10-10T20:11:49] Add retries for transient network drops
 - [2017-10-10T12:05:35] Update dependency lockfiles and requirements
+- [2017-10-10T13:50:06] Add Redis rate limit backoff handlers
