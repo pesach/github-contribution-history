@@ -14222,3 +14222,4 @@
 - [2017-10-10T12:05:35] Update dependency lockfiles and requirements
 - [2017-10-10T13:50:06] Add Redis rate limit backoff handlers
 - [2017-10-10T15:14:41] Add error handling for yt-dlp rate limits
+- [2017-10-10T15:18:44] Add error handling for yt-dlp rate limits
