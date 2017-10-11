@@ -14231,3 +14231,4 @@
 - [2017-10-11T22:09:08] Clean up legacy worker task routines
 - [2017-10-11T08:40:11] Refactor storage upload retry mechanism
 - [2017-10-11T12:00:37] Refactor cookie refresher probe logic
+- [2017-10-11T12:27:08] Update schema migration helpers
