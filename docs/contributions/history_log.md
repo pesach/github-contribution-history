@@ -14233,3 +14233,4 @@
 - [2017-10-11T12:00:37] Refactor cookie refresher probe logic
 - [2017-10-11T12:27:08] Update schema migration helpers
 - [2017-10-11T15:08:34] Add error handling for yt-dlp rate limits
+- [2017-10-11T10:10:40] Improve ffmpeg streaming pipe buffer management
