@@ -14232,3 +14232,4 @@
 - [2017-10-11T08:40:11] Refactor storage upload retry mechanism
 - [2017-10-11T12:00:37] Refactor cookie refresher probe logic
 - [2017-10-11T12:27:08] Update schema migration helpers
+- [2017-10-11T15:08:34] Add error handling for yt-dlp rate limits
