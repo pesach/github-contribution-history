@@ -14226,3 +14226,4 @@
 - [2017-10-11T19:33:20] Fix edge case in channel tab crawler
 - [2017-10-11T20:48:20] Fix edge case in URL parsing and validation
 - [2017-10-11T16:13:32] Update automated pytest test suites
+- [2017-10-11T14:00:50] Add retries for transient network drops
