@@ -14228,3 +14228,4 @@
 - [2017-10-11T16:13:32] Update automated pytest test suites
 - [2017-10-11T14:00:50] Add retries for transient network drops
 - [2017-10-11T15:27:51] Clean up legacy worker task routines
+- [2017-10-11T22:09:08] Clean up legacy worker task routines
