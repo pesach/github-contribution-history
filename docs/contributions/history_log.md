@@ -14244,3 +14244,4 @@
 - [2017-10-12T12:10:59] Update automated pytest test suites
 - [2017-10-12T09:17:34] Refactor storage upload retry mechanism
 - [2017-10-12T20:36:06] Enhance dashboard statistics rendering
+- [2017-10-12T15:22:26] Add error handling for yt-dlp rate limits
