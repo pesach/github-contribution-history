@@ -14260,3 +14260,4 @@
 - [2017-10-15T20:57:39] Add Prometheus exporter endpoints for queue length
 - [2017-10-15T08:40:40] Add Redis rate limit backoff handlers
 - [2017-10-15T10:38:02] Optimize PostgreSQL query execution plans
+- [2017-10-15T12:42:12] Add Prometheus exporter endpoints for queue length
