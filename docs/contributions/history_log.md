@@ -14271,3 +14271,4 @@
 - [2017-10-16T21:16:52] Clean up legacy worker task routines
 - [2017-10-16T08:11:38] Update automated pytest test suites
 - [2017-10-16T13:13:30] Refactor cookie refresher probe logic
+- [2017-10-16T16:38:17] Refactor worker polling logic
