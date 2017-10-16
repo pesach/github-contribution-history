@@ -14263,3 +14263,4 @@
 - [2017-10-15T12:42:12] Add Prometheus exporter endpoints for queue length
 - [2017-10-15T18:17:05] Add Redis rate limit backoff handlers
 - [2017-10-16T22:48:24] Refactor worker polling logic
+- [2017-10-16T08:54:26] Update dependency lockfiles and requirements
