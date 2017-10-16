@@ -14273,3 +14273,4 @@
 - [2017-10-16T13:13:30] Refactor cookie refresher probe logic
 - [2017-10-16T16:38:17] Refactor worker polling logic
 - [2017-10-16T19:04:02] Update schema migration helpers
+- [2017-10-16T17:24:15] Refactor storage upload retry mechanism
