@@ -14265,3 +14265,4 @@
 - [2017-10-16T22:48:24] Refactor worker polling logic
 - [2017-10-16T08:54:26] Update dependency lockfiles and requirements
 - [2017-10-16T13:09:32] Update B2 storage chunking parameters
+- [2017-10-16T17:34:54] Fix edge case in channel tab crawler
