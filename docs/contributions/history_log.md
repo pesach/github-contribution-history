@@ -14278,3 +14278,4 @@
 - [2017-10-17T11:53:46] Optimize PostgreSQL query execution plans
 - [2017-10-17T20:26:26] Update dependency lockfiles and requirements
 - [2017-10-17T19:01:30] Update automated pytest test suites
+- [2017-10-17T10:02:24] Update B2 storage chunking parameters
