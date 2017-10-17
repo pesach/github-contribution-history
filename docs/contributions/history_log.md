@@ -14275,3 +14275,4 @@
 - [2017-10-16T19:04:02] Update schema migration helpers
 - [2017-10-16T17:24:15] Refactor storage upload retry mechanism
 - [2017-10-16T11:46:17] Improve logging and health endpoint metrics
+- [2017-10-17T11:53:46] Optimize PostgreSQL query execution plans
