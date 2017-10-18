@@ -14288,3 +14288,4 @@
 - [2017-10-18T21:10:19] Implement streaming upload chunk buffer optimization
 - [2017-10-18T12:19:32] Update automated pytest test suites
 - [2017-10-18T09:38:47] Add Redis rate limit backoff handlers
+- [2017-10-18T13:24:07] Refactor cookie refresher probe logic
