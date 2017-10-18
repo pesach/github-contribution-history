@@ -14292,3 +14292,4 @@
 - [2017-10-18T18:47:54] Enhance dashboard statistics rendering
 - [2017-10-18T11:46:37] Refactor storage upload retry mechanism
 - [2017-10-18T09:04:13] Fix edge case in channel tab crawler
+- [2017-10-18T11:49:01] Add retries for transient network drops
