@@ -14287,3 +14287,4 @@
 - [2017-10-18T19:25:03] Refactor storage upload retry mechanism
 - [2017-10-18T21:10:19] Implement streaming upload chunk buffer optimization
 - [2017-10-18T12:19:32] Update automated pytest test suites
+- [2017-10-18T09:38:47] Add Redis rate limit backoff handlers
