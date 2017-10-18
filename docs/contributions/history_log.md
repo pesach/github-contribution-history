@@ -14290,3 +14290,4 @@
 - [2017-10-18T09:38:47] Add Redis rate limit backoff handlers
 - [2017-10-18T13:24:07] Refactor cookie refresher probe logic
 - [2017-10-18T18:47:54] Enhance dashboard statistics rendering
+- [2017-10-18T11:46:37] Refactor storage upload retry mechanism
