@@ -14318,3 +14318,4 @@
 - [2017-10-20T11:44:14] Fix edge case in channel tab crawler
 - [2017-10-20T12:53:20] Update automated pytest test suites
 - [2017-10-20T17:24:14] Update dependency lockfiles and requirements
+- [2017-10-20T13:55:01] Improve logging and health endpoint metrics
