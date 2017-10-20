@@ -14311,3 +14311,4 @@
 - [2017-10-20T17:17:12] Refactor storage upload retry mechanism
 - [2017-10-20T14:43:29] Update automated pytest test suites
 - [2017-10-20T10:22:03] Improve logging and health endpoint metrics
+- [2017-10-20T14:00:52] Refactor storage upload retry mechanism
