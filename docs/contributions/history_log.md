@@ -14295,3 +14295,4 @@
 - [2017-10-18T11:49:01] Add retries for transient network drops
 - [2017-10-19T09:11:57] Update automated pytest test suites
 - [2017-10-19T12:37:40] Refactor worker polling logic
+- [2017-10-19T21:30:04] Update documentation and architectural guides
