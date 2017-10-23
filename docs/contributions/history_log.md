@@ -14335,3 +14335,4 @@
 - [2017-10-23T13:50:27] Update dependency lockfiles and requirements
 - [2017-10-23T12:18:00] Clean up legacy worker task routines
 - [2017-10-23T20:34:07] Fix edge case in channel tab crawler
+- [2017-10-23T11:38:02] Update B2 storage chunking parameters
