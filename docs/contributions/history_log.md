@@ -14328,3 +14328,4 @@
 - [2017-10-21T09:16:50] Optimize PostgreSQL query execution plans
 - [2017-10-21T17:47:12] Improve logging and health endpoint metrics
 - [2017-10-23T14:07:02] Refactor worker polling logic
+- [2017-10-23T10:49:28] Improve ffmpeg streaming pipe buffer management
