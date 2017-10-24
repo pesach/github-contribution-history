@@ -14339,3 +14339,4 @@
 - [2017-10-23T22:44:48] Add error handling for yt-dlp rate limits
 - [2017-10-23T17:43:28] Add retries for transient network drops
 - [2017-10-24T14:54:47] Add retries for transient network drops
+- [2017-10-24T09:13:31] Fix edge case in URL parsing and validation
