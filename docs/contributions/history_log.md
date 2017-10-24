@@ -14342,3 +14342,4 @@
 - [2017-10-24T09:13:31] Fix edge case in URL parsing and validation
 - [2017-10-24T19:46:08] Fix edge case in channel tab crawler
 - [2017-10-24T20:57:25] Improve ffmpeg streaming pipe buffer management
+- [2017-10-24T10:24:08] Clean up legacy worker task routines
