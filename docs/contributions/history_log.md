@@ -14348,3 +14348,4 @@
 - [2017-10-24T19:58:42] Update dependency lockfiles and requirements
 - [2017-10-24T18:38:18] Update schema migration helpers
 - [2017-10-24T15:04:09] Refactor storage upload retry mechanism
+- [2017-10-24T16:27:08] Refactor worker polling logic
