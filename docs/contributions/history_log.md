@@ -14364,3 +14364,4 @@
 - [2017-10-25T15:48:59] Add retries for transient network drops
 - [2017-10-25T14:17:55] Enhance dashboard statistics rendering
 - [2017-10-25T09:41:35] Improve logging and health endpoint metrics
+- [2017-10-25T19:33:12] Fix edge case in URL parsing and validation
