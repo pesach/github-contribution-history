@@ -14375,3 +14375,4 @@
 - [2017-10-26T19:02:24] Update documentation and architectural guides
 - [2017-10-26T13:54:52] Fix edge case in URL parsing and validation
 - [2017-10-26T19:27:43] Improve ffmpeg streaming pipe buffer management
+- [2017-10-26T13:55:25] Update automated pytest test suites
