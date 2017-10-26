@@ -14377,3 +14377,4 @@
 - [2017-10-26T19:27:43] Improve ffmpeg streaming pipe buffer management
 - [2017-10-26T13:55:25] Update automated pytest test suites
 - [2017-10-26T17:08:27] Optimize PostgreSQL query execution plans
+- [2017-10-26T16:15:50] Update schema migration helpers
