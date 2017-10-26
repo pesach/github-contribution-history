@@ -14366,3 +14366,4 @@
 - [2017-10-25T09:41:35] Improve logging and health endpoint metrics
 - [2017-10-25T19:33:12] Fix edge case in URL parsing and validation
 - [2017-10-25T09:06:48] Optimize PostgreSQL query execution plans
+- [2017-10-26T09:28:51] Refactor cookie refresher probe logic
