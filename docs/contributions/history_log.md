@@ -14368,3 +14368,4 @@
 - [2017-10-25T09:06:48] Optimize PostgreSQL query execution plans
 - [2017-10-26T09:28:51] Refactor cookie refresher probe logic
 - [2017-10-26T19:36:12] Refactor worker polling logic
+- [2017-10-26T20:02:51] Add Prometheus exporter endpoints for queue length
