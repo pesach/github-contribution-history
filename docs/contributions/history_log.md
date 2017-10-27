@@ -14390,3 +14390,4 @@
 - [2017-10-27T19:12:11] Update dependency lockfiles and requirements
 - [2017-10-27T13:53:53] Implement streaming upload chunk buffer optimization
 - [2017-10-27T09:43:54] Update schema migration helpers
+- [2017-10-27T18:31:07] Refactor storage upload retry mechanism
