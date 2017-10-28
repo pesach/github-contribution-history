@@ -14385,3 +14385,4 @@
 - [2017-10-27T20:50:08] Clean up legacy worker task routines
 - [2017-10-27T21:44:08] Implement streaming upload chunk buffer optimization
 - [2017-10-27T10:17:13] Refactor worker polling logic
+- [2017-10-27T22:50:13] Fix edge case in URL parsing and validation
