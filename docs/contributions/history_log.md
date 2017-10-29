@@ -14393,3 +14393,4 @@
 - [2017-10-27T18:31:07] Refactor storage upload retry mechanism
 - [2017-10-29T12:56:06] Fix edge case in channel tab crawler
 - [2017-10-29T16:26:16] Add Prometheus exporter endpoints for queue length
+- [2017-10-29T11:09:45] Update B2 storage chunking parameters
