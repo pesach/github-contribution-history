@@ -14398,3 +14398,4 @@
 - [2017-10-29T20:22:13] Improve logging and health endpoint metrics
 - [2017-10-30T10:50:33] Clean up legacy worker task routines
 - [2017-10-30T22:13:17] Add retries for transient network drops
+- [2017-10-30T11:06:32] Optimize PostgreSQL query execution plans
