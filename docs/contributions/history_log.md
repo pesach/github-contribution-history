@@ -14399,3 +14399,4 @@
 - [2017-10-30T10:50:33] Clean up legacy worker task routines
 - [2017-10-30T22:13:17] Add retries for transient network drops
 - [2017-10-30T11:06:32] Optimize PostgreSQL query execution plans
+- [2017-10-30T08:00:20] Fix edge case in URL parsing and validation
