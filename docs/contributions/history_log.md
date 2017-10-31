@@ -14397,3 +14397,4 @@
 - [2017-10-29T08:41:00] Fix edge case in channel tab crawler
 - [2017-10-29T20:22:13] Improve logging and health endpoint metrics
 - [2017-10-30T10:50:33] Clean up legacy worker task routines
+- [2017-10-30T22:13:17] Add retries for transient network drops
