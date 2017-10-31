@@ -14411,3 +14411,4 @@
 - [2017-10-31T10:13:43] Enhance dashboard statistics rendering
 - [2017-10-31T11:34:20] Fix edge case in channel tab crawler
 - [2017-10-31T14:39:06] Implement streaming upload chunk buffer optimization
+- [2017-10-31T11:52:40] Update schema migration helpers
