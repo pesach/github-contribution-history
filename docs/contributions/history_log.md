@@ -14404,3 +14404,4 @@
 - [2017-10-30T15:05:07] Improve ffmpeg streaming pipe buffer management
 - [2017-10-31T10:52:29] Enhance dashboard statistics rendering
 - [2017-10-31T16:26:04] Add Redis rate limit backoff handlers
+- [2017-10-31T11:34:04] Add retries for transient network drops
