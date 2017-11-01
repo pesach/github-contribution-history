@@ -14421,3 +14421,4 @@
 - [2017-11-01T11:44:12] Add retries for transient network drops
 - [2017-11-01T10:07:47] Add Prometheus exporter endpoints for queue length
 - [2017-11-01T16:20:57] Refactor cookie refresher probe logic
+- [2017-11-01T12:44:37] Refactor worker polling logic
