@@ -14414,3 +14414,4 @@
 - [2017-10-31T11:52:40] Update schema migration helpers
 - [2017-10-31T20:51:42] Enhance dashboard statistics rendering
 - [2017-11-01T17:01:39] Add retries for transient network drops
+- [2017-11-01T12:43:29] Implement streaming upload chunk buffer optimization
