@@ -14428,3 +14428,4 @@
 - [2017-11-01T14:44:49] Update automated pytest test suites
 - [2017-11-02T15:42:16] Refactor storage upload retry mechanism
 - [2017-11-02T16:15:31] Update documentation and architectural guides
+- [2017-11-02T15:09:26] Refactor storage upload retry mechanism
