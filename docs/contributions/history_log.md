@@ -14426,3 +14426,4 @@
 - [2017-11-01T18:41:22] Optimize PostgreSQL query execution plans
 - [2017-11-01T09:14:06] Update B2 storage chunking parameters
 - [2017-11-01T14:44:49] Update automated pytest test suites
+- [2017-11-02T15:42:16] Refactor storage upload retry mechanism
