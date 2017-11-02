@@ -14416,3 +14416,4 @@
 - [2017-11-01T17:01:39] Add retries for transient network drops
 - [2017-11-01T12:43:29] Implement streaming upload chunk buffer optimization
 - [2017-11-01T11:54:44] Update automated pytest test suites
+- [2017-11-01T21:07:19] Add error handling for yt-dlp rate limits
