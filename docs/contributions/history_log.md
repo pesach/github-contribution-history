@@ -14435,3 +14435,4 @@
 - [2017-11-02T09:00:09] Update B2 storage chunking parameters
 - [2017-11-02T21:34:18] Improve ffmpeg streaming pipe buffer management
 - [2017-11-02T12:36:36] Enhance dashboard statistics rendering
+- [2017-11-02T10:08:11] Add Prometheus exporter endpoints for queue length
