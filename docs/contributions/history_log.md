@@ -14431,3 +14431,4 @@
 - [2017-11-02T15:09:26] Refactor storage upload retry mechanism
 - [2017-11-02T21:16:43] Refactor cookie refresher probe logic
 - [2017-11-02T22:45:43] Update documentation and architectural guides
+- [2017-11-02T16:50:02] Fix edge case in URL parsing and validation
