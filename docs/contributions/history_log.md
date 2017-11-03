@@ -14438,3 +14438,4 @@
 - [2017-11-02T10:08:11] Add Prometheus exporter endpoints for queue length
 - [2017-11-02T21:15:03] Update automated pytest test suites
 - [2017-11-03T16:10:39] Enhance dashboard statistics rendering
+- [2017-11-03T17:35:22] Add retries for transient network drops
