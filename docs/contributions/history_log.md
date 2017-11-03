@@ -14445,3 +14445,4 @@
 - [2017-11-03T18:18:30] Update dependency lockfiles and requirements
 - [2017-11-03T16:13:50] Add retries for transient network drops
 - [2017-11-03T09:56:48] Implement streaming upload chunk buffer optimization
+- [2017-11-03T17:19:28] Add Prometheus exporter endpoints for queue length
