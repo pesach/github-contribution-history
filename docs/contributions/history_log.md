@@ -14449,3 +14449,4 @@
 - [2017-11-04T13:01:07] Enhance dashboard statistics rendering
 - [2017-11-04T19:59:40] Fix edge case in channel tab crawler
 - [2017-11-04T13:55:14] Add Prometheus exporter endpoints for queue length
+- [2017-11-04T13:06:54] Refactor worker polling logic
