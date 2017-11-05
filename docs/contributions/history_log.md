@@ -14451,3 +14451,4 @@
 - [2017-11-04T13:55:14] Add Prometheus exporter endpoints for queue length
 - [2017-11-04T13:06:54] Refactor worker polling logic
 - [2017-11-05T08:34:59] Add Prometheus exporter endpoints for queue length
+- [2017-11-05T13:01:35] Improve ffmpeg streaming pipe buffer management
