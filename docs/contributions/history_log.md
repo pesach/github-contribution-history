@@ -14461,3 +14461,4 @@
 - [2017-11-06T21:23:19] Fix edge case in channel tab crawler
 - [2017-11-06T16:06:16] Update schema migration helpers
 - [2017-11-06T21:52:58] Optimize PostgreSQL query execution plans
+- [2017-11-06T11:15:49] Fix edge case in channel tab crawler
