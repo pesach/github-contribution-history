@@ -14463,3 +14463,4 @@
 - [2017-11-06T21:52:58] Optimize PostgreSQL query execution plans
 - [2017-11-06T11:15:49] Fix edge case in channel tab crawler
 - [2017-11-06T17:37:41] Improve ffmpeg streaming pipe buffer management
+- [2017-11-06T20:45:22] Optimize PostgreSQL query execution plans
