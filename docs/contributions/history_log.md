@@ -14470,3 +14470,4 @@
 - [2017-11-07T20:05:49] Optimize PostgreSQL query execution plans
 - [2017-11-07T11:46:02] Clean up legacy worker task routines
 - [2017-11-07T15:43:20] Refactor worker polling logic
+- [2017-11-07T12:16:16] Refactor cookie refresher probe logic
