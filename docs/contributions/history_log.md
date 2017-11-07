@@ -14458,3 +14458,4 @@
 - [2017-11-05T10:34:37] Improve logging and health endpoint metrics
 - [2017-11-06T09:27:42] Update dependency lockfiles and requirements
 - [2017-11-06T11:30:26] Enhance dashboard statistics rendering
+- [2017-11-06T21:23:19] Fix edge case in channel tab crawler
