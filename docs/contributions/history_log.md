@@ -14483,3 +14483,4 @@
 - [2017-11-09T10:51:19] Update documentation and architectural guides
 - [2017-11-09T12:33:39] Refactor cookie refresher probe logic
 - [2017-11-09T20:12:07] Update B2 storage chunking parameters
+- [2017-11-09T08:13:45] Fix edge case in channel tab crawler
