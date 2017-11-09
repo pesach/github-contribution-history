@@ -14477,3 +14477,4 @@
 - [2017-11-07T10:10:43] Implement streaming upload chunk buffer optimization
 - [2017-11-07T19:37:31] Update documentation and architectural guides
 - [2017-11-09T11:46:34] Refactor storage upload retry mechanism
+- [2017-11-09T08:09:30] Update B2 storage chunking parameters
