@@ -14481,3 +14481,4 @@
 - [2017-11-09T19:02:47] Add retries for transient network drops
 - [2017-11-09T11:57:27] Add Redis rate limit backoff handlers
 - [2017-11-09T10:51:19] Update documentation and architectural guides
+- [2017-11-09T12:33:39] Refactor cookie refresher probe logic
