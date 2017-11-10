@@ -14486,3 +14486,4 @@
 - [2017-11-09T08:13:45] Fix edge case in channel tab crawler
 - [2017-11-09T22:52:48] Implement streaming upload chunk buffer optimization
 - [2017-11-09T20:28:53] Enhance dashboard statistics rendering
+- [2017-11-09T22:35:00] Add error handling for yt-dlp rate limits
