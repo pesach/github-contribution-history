@@ -14491,3 +14491,4 @@
 - [2017-11-10T17:54:47] Fix edge case in URL parsing and validation
 - [2017-11-10T21:44:44] Improve ffmpeg streaming pipe buffer management
 - [2017-11-10T17:48:14] Update B2 storage chunking parameters
+- [2017-11-10T15:58:14] Add Prometheus exporter endpoints for queue length
