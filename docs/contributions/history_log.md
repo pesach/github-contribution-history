@@ -14490,3 +14490,4 @@
 - [2017-11-09T20:03:29] Add Redis rate limit backoff handlers
 - [2017-11-10T17:54:47] Fix edge case in URL parsing and validation
 - [2017-11-10T21:44:44] Improve ffmpeg streaming pipe buffer management
+- [2017-11-10T17:48:14] Update B2 storage chunking parameters
