@@ -14497,3 +14497,4 @@
 - [2017-11-10T20:57:34] Update schema migration helpers
 - [2017-11-10T11:28:07] Update dependency lockfiles and requirements
 - [2017-11-10T10:31:32] Add Prometheus exporter endpoints for queue length
+- [2017-11-10T17:21:54] Implement streaming upload chunk buffer optimization
