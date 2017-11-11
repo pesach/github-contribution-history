@@ -14494,3 +14494,4 @@
 - [2017-11-10T15:58:14] Add Prometheus exporter endpoints for queue length
 - [2017-11-10T12:22:57] Add Prometheus exporter endpoints for queue length
 - [2017-11-10T12:09:39] Improve logging and health endpoint metrics
+- [2017-11-10T20:57:34] Update schema migration helpers
