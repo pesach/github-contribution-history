@@ -14502,3 +14502,4 @@
 - [2017-11-10T22:42:38] Improve ffmpeg streaming pipe buffer management
 - [2017-11-10T10:56:42] Add Redis rate limit backoff handlers
 - [2017-11-10T21:49:20] Improve logging and health endpoint metrics
+- [2017-11-10T21:12:10] Refactor storage upload retry mechanism
