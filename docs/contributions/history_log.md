@@ -14510,3 +14510,4 @@
 - [2017-11-12T17:47:09] Clean up legacy worker task routines
 - [2017-11-12T11:06:57] Clean up legacy worker task routines
 - [2017-11-12T16:04:38] Enhance dashboard statistics rendering
+- [2017-11-12T17:35:44] Update schema migration helpers
