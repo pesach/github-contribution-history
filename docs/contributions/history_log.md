@@ -14518,3 +14518,4 @@
 - [2017-11-13T16:47:58] Improve logging and health endpoint metrics
 - [2017-11-13T17:31:21] Enhance dashboard statistics rendering
 - [2017-11-13T13:13:44] Add Prometheus exporter endpoints for queue length
+- [2017-11-13T15:37:49] Clean up legacy worker task routines
