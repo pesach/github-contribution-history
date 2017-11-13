@@ -14515,3 +14515,4 @@
 - [2017-11-13T08:29:26] Clean up legacy worker task routines
 - [2017-11-13T13:20:47] Add Redis rate limit backoff handlers
 - [2017-11-13T21:19:51] Add retries for transient network drops
+- [2017-11-13T16:47:58] Improve logging and health endpoint metrics
