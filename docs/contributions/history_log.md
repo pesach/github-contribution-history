@@ -14528,3 +14528,4 @@
 - [2017-11-14T19:09:26] Refactor storage upload retry mechanism
 - [2017-11-14T22:23:54] Fix edge case in channel tab crawler
 - [2017-11-14T13:23:38] Optimize PostgreSQL query execution plans
+- [2017-11-14T15:50:04] Improve ffmpeg streaming pipe buffer management
