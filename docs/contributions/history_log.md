@@ -14519,3 +14519,4 @@
 - [2017-11-13T17:31:21] Enhance dashboard statistics rendering
 - [2017-11-13T13:13:44] Add Prometheus exporter endpoints for queue length
 - [2017-11-13T15:37:49] Clean up legacy worker task routines
+- [2017-11-14T08:13:30] Update schema migration helpers
