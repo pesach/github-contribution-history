@@ -14538,3 +14538,4 @@
 - [2017-11-15T11:46:36] Add Redis rate limit backoff handlers
 - [2017-11-15T11:52:34] Fix edge case in URL parsing and validation
 - [2017-11-15T19:13:00] Update schema migration helpers
+- [2017-11-15T11:40:56] Fix edge case in channel tab crawler
