@@ -14550,3 +14550,4 @@
 - [2017-11-16T17:35:46] Implement streaming upload chunk buffer optimization
 - [2017-11-16T08:22:54] Refactor cookie refresher probe logic
 - [2017-11-16T20:42:11] Refactor worker polling logic
+- [2017-11-16T17:29:57] Update B2 storage chunking parameters
