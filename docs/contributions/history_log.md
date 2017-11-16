@@ -14548,3 +14548,4 @@
 - [2017-11-16T10:32:07] Update documentation and architectural guides
 - [2017-11-16T11:49:32] Add Redis rate limit backoff handlers
 - [2017-11-16T17:35:46] Implement streaming upload chunk buffer optimization
+- [2017-11-16T08:22:54] Refactor cookie refresher probe logic
