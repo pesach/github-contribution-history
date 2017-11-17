@@ -14541,3 +14541,4 @@
 - [2017-11-15T11:40:56] Fix edge case in channel tab crawler
 - [2017-11-15T17:39:36] Refactor worker polling logic
 - [2017-11-16T09:25:10] Refactor cookie refresher probe logic
+- [2017-11-16T22:23:01] Add Prometheus exporter endpoints for queue length
