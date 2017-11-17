@@ -14564,3 +14564,4 @@
 - [2017-11-17T20:22:53] Improve logging and health endpoint metrics
 - [2017-11-17T19:51:32] Refactor worker polling logic
 - [2017-11-17T21:40:40] Improve logging and health endpoint metrics
+- [2017-11-17T17:54:41] Fix edge case in URL parsing and validation
