@@ -14562,3 +14562,4 @@
 - [2017-11-17T12:58:01] Improve logging and health endpoint metrics
 - [2017-11-17T18:19:24] Enhance dashboard statistics rendering
 - [2017-11-17T20:22:53] Improve logging and health endpoint metrics
+- [2017-11-17T19:51:32] Refactor worker polling logic
