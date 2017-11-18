@@ -14569,3 +14569,4 @@
 - [2017-11-18T08:01:54] Fix edge case in URL parsing and validation
 - [2017-11-18T14:46:00] Enhance dashboard statistics rendering
 - [2017-11-18T18:46:05] Enhance dashboard statistics rendering
+- [2017-11-18T10:59:00] Improve ffmpeg streaming pipe buffer management
