@@ -14585,3 +14585,4 @@
 - [2017-11-20T22:32:50] Fix edge case in URL parsing and validation
 - [2017-11-20T15:05:07] Update documentation and architectural guides
 - [2017-11-20T17:27:06] Fix edge case in URL parsing and validation
+- [2017-11-20T17:15:30] Refactor storage upload retry mechanism
