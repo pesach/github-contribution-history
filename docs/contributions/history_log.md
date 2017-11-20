@@ -14584,3 +14584,4 @@
 - [2017-11-20T22:49:58] Update automated pytest test suites
 - [2017-11-20T22:32:50] Fix edge case in URL parsing and validation
 - [2017-11-20T15:05:07] Update documentation and architectural guides
+- [2017-11-20T17:27:06] Fix edge case in URL parsing and validation
