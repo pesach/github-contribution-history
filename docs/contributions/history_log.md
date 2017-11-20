@@ -14578,3 +14578,4 @@
 - [2017-11-20T22:32:22] Improve ffmpeg streaming pipe buffer management
 - [2017-11-20T11:13:20] Optimize PostgreSQL query execution plans
 - [2017-11-20T15:23:27] Update schema migration helpers
+- [2017-11-20T13:44:15] Update B2 storage chunking parameters
