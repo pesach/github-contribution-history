@@ -14592,3 +14592,4 @@
 - [2017-11-21T08:15:39] Fix edge case in URL parsing and validation
 - [2017-11-21T09:36:31] Update automated pytest test suites
 - [2017-11-21T15:28:16] Add retries for transient network drops
+- [2017-11-21T11:11:55] Add Prometheus exporter endpoints for queue length
