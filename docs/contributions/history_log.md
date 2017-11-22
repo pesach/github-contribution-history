@@ -14600,3 +14600,4 @@
 - [2017-11-22T20:45:56] Fix edge case in channel tab crawler
 - [2017-11-22T16:11:35] Update documentation and architectural guides
 - [2017-11-22T09:22:40] Fix edge case in URL parsing and validation
+- [2017-11-22T15:32:52] Clean up legacy worker task routines
