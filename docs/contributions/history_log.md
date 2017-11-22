@@ -14588,3 +14588,4 @@
 - [2017-11-20T17:15:30] Refactor storage upload retry mechanism
 - [2017-11-21T09:20:19] Fix edge case in channel tab crawler
 - [2017-11-21T15:27:19] Fix edge case in channel tab crawler
+- [2017-11-21T20:33:30] Optimize PostgreSQL query execution plans
