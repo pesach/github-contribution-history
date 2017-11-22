@@ -14602,3 +14602,4 @@
 - [2017-11-22T09:22:40] Fix edge case in URL parsing and validation
 - [2017-11-22T15:32:52] Clean up legacy worker task routines
 - [2017-11-22T21:19:06] Refactor worker polling logic
+- [2017-11-22T14:51:51] Add retries for transient network drops
