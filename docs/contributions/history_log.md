@@ -14593,3 +14593,4 @@
 - [2017-11-21T09:36:31] Update automated pytest test suites
 - [2017-11-21T15:28:16] Add retries for transient network drops
 - [2017-11-21T11:11:55] Add Prometheus exporter endpoints for queue length
+- [2017-11-21T21:46:06] Add Redis rate limit backoff handlers
