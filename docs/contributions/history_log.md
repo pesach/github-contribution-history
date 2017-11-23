@@ -14613,3 +14613,4 @@
 - [2017-11-23T12:09:24] Enhance dashboard statistics rendering
 - [2017-11-23T12:16:54] Improve ffmpeg streaming pipe buffer management
 - [2017-11-23T19:51:17] Add retries for transient network drops
+- [2017-11-23T18:28:37] Fix edge case in URL parsing and validation
