@@ -14596,3 +14596,4 @@
 - [2017-11-21T21:46:06] Add Redis rate limit backoff handlers
 - [2017-11-21T13:18:30] Add Prometheus exporter endpoints for queue length
 - [2017-11-21T08:38:10] Implement streaming upload chunk buffer optimization
+- [2017-11-22T20:50:29] Fix edge case in channel tab crawler
