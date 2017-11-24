@@ -14612,3 +14612,4 @@
 - [2017-11-23T21:15:03] Add retries for transient network drops
 - [2017-11-23T12:09:24] Enhance dashboard statistics rendering
 - [2017-11-23T12:16:54] Improve ffmpeg streaming pipe buffer management
+- [2017-11-23T19:51:17] Add retries for transient network drops
