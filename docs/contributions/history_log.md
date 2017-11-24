@@ -14617,3 +14617,4 @@
 - [2017-11-23T14:50:12] Fix edge case in channel tab crawler
 - [2017-11-23T10:03:24] Fix edge case in channel tab crawler
 - [2017-11-23T19:18:41] Refactor worker polling logic
+- [2017-11-23T22:20:40] Improve ffmpeg streaming pipe buffer management
