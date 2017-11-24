@@ -14622,3 +14622,4 @@
 - [2017-11-24T14:38:26] Fix edge case in URL parsing and validation
 - [2017-11-24T11:46:32] Update B2 storage chunking parameters
 - [2017-11-24T14:10:59] Add retries for transient network drops
+- [2017-11-24T11:55:19] Update documentation and architectural guides
