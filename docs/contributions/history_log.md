@@ -14619,3 +14619,4 @@
 - [2017-11-23T19:18:41] Refactor worker polling logic
 - [2017-11-23T22:20:40] Improve ffmpeg streaming pipe buffer management
 - [2017-11-24T16:20:14] Update dependency lockfiles and requirements
+- [2017-11-24T14:38:26] Fix edge case in URL parsing and validation
