@@ -14609,3 +14609,4 @@
 - [2017-11-23T16:24:29] Implement streaming upload chunk buffer optimization
 - [2017-11-23T13:30:33] Update documentation and architectural guides
 - [2017-11-23T09:35:38] Update dependency lockfiles and requirements
+- [2017-11-23T21:15:03] Add retries for transient network drops
