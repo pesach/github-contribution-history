@@ -14625,3 +14625,4 @@
 - [2017-11-24T11:55:19] Update documentation and architectural guides
 - [2017-11-24T19:52:32] Clean up legacy worker task routines
 - [2017-11-24T12:28:08] Add error handling for yt-dlp rate limits
+- [2017-11-24T20:00:53] Fix edge case in channel tab crawler
