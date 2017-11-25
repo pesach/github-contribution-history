@@ -14626,3 +14626,4 @@
 - [2017-11-24T19:52:32] Clean up legacy worker task routines
 - [2017-11-24T12:28:08] Add error handling for yt-dlp rate limits
 - [2017-11-24T20:00:53] Fix edge case in channel tab crawler
+- [2017-11-25T13:07:14] Refactor worker polling logic
