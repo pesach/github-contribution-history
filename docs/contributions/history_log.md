@@ -14637,3 +14637,4 @@
 - [2017-11-26T20:34:38] Enhance dashboard statistics rendering
 - [2017-11-26T08:17:16] Improve ffmpeg streaming pipe buffer management
 - [2017-11-26T08:29:07] Update automated pytest test suites
+- [2017-11-27T09:47:54] Update dependency lockfiles and requirements
