@@ -14643,3 +14643,4 @@
 - [2017-11-27T19:14:28] Refactor storage upload retry mechanism
 - [2017-11-27T14:21:50] Update automated pytest test suites
 - [2017-11-27T16:55:13] Refactor cookie refresher probe logic
+- [2017-11-27T22:31:40] Add error handling for yt-dlp rate limits
