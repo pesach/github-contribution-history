@@ -14650,3 +14650,4 @@
 - [2017-11-28T22:13:51] Improve logging and health endpoint metrics
 - [2017-11-28T22:17:24] Add retries for transient network drops
 - [2017-11-28T10:27:54] Improve ffmpeg streaming pipe buffer management
+- [2017-11-28T14:55:41] Add Prometheus exporter endpoints for queue length
