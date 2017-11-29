@@ -14667,3 +14667,4 @@
 - [2017-11-29T21:55:27] Clean up legacy worker task routines
 - [2017-11-29T13:55:08] Fix edge case in channel tab crawler
 - [2017-11-29T12:56:45] Fix edge case in URL parsing and validation
+- [2017-11-29T08:08:39] Fix edge case in channel tab crawler
