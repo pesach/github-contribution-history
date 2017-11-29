@@ -14661,3 +14661,4 @@
 - [2017-11-29T20:06:31] Fix edge case in channel tab crawler
 - [2017-11-29T21:11:55] Add Redis rate limit backoff handlers
 - [2017-11-29T08:10:45] Fix edge case in channel tab crawler
+- [2017-11-29T10:03:44] Add Redis rate limit backoff handlers
