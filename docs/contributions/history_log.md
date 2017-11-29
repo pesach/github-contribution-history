@@ -14648,3 +14648,4 @@
 - [2017-11-28T16:18:12] Implement streaming upload chunk buffer optimization
 - [2017-11-28T10:31:51] Improve ffmpeg streaming pipe buffer management
 - [2017-11-28T22:13:51] Improve logging and health endpoint metrics
+- [2017-11-28T22:17:24] Add retries for transient network drops
