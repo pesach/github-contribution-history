@@ -14670,3 +14670,4 @@
 - [2017-11-29T08:08:39] Fix edge case in channel tab crawler
 - [2017-11-29T20:47:54] Refactor worker polling logic
 - [2017-11-30T08:42:33] Improve ffmpeg streaming pipe buffer management
+- [2017-11-30T15:22:39] Update B2 storage chunking parameters
