@@ -14680,3 +14680,4 @@
 - [2017-11-30T11:07:54] Update schema migration helpers
 - [2017-11-30T13:36:57] Implement streaming upload chunk buffer optimization
 - [2017-11-30T11:29:06] Refactor storage upload retry mechanism
+- [2017-11-30T16:39:57] Update automated pytest test suites
