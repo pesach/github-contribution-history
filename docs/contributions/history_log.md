@@ -14658,3 +14658,4 @@
 - [2017-11-28T10:05:25] Improve ffmpeg streaming pipe buffer management
 - [2017-11-28T22:35:28] Add Redis rate limit backoff handlers
 - [2017-11-28T12:19:28] Clean up legacy worker task routines
+- [2017-11-29T20:06:31] Fix edge case in channel tab crawler
