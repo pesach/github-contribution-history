@@ -14664,3 +14664,4 @@
 - [2017-11-29T10:03:44] Add Redis rate limit backoff handlers
 - [2017-11-29T17:19:52] Update documentation and architectural guides
 - [2017-11-29T11:55:06] Clean up legacy worker task routines
+- [2017-11-29T21:55:27] Clean up legacy worker task routines
