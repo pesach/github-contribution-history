@@ -14685,3 +14685,4 @@
 - [2017-11-30T19:26:56] Implement streaming upload chunk buffer optimization
 - [2017-11-30T11:40:27] Implement streaming upload chunk buffer optimization
 - [2017-12-01T16:40:51] Add Prometheus exporter endpoints for queue length
+- [2017-12-01T11:31:55] Optimize PostgreSQL query execution plans
