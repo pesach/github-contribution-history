@@ -14694,3 +14694,4 @@
 - [2017-12-01T15:58:44] Implement streaming upload chunk buffer optimization
 - [2017-12-02T11:50:20] Add Prometheus exporter endpoints for queue length
 - [2017-12-02T19:38:25] Improve logging and health endpoint metrics
+- [2017-12-02T13:11:35] Add Redis rate limit backoff handlers
