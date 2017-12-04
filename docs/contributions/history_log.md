@@ -14703,3 +14703,4 @@
 - [2017-12-04T08:53:15] Add Redis rate limit backoff handlers
 - [2017-12-04T15:52:16] Clean up legacy worker task routines
 - [2017-12-04T21:14:30] Refactor cookie refresher probe logic
+- [2017-12-04T11:04:43] Optimize PostgreSQL query execution plans
