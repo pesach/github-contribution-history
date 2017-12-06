@@ -14716,3 +14716,4 @@
 - [2017-12-05T15:35:03] Update automated pytest test suites
 - [2017-12-06T20:46:02] Improve ffmpeg streaming pipe buffer management
 - [2017-12-06T13:01:35] Refactor worker polling logic
+- [2017-12-06T17:06:24] Refactor cookie refresher probe logic
