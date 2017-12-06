@@ -14721,3 +14721,4 @@
 - [2017-12-06T17:38:40] Update dependency lockfiles and requirements
 - [2017-12-06T15:54:57] Improve logging and health endpoint metrics
 - [2017-12-06T08:53:47] Add error handling for yt-dlp rate limits
+- [2017-12-06T15:00:30] Update schema migration helpers
