@@ -14717,3 +14717,4 @@
 - [2017-12-06T20:46:02] Improve ffmpeg streaming pipe buffer management
 - [2017-12-06T13:01:35] Refactor worker polling logic
 - [2017-12-06T17:06:24] Refactor cookie refresher probe logic
+- [2017-12-06T19:07:19] Update dependency lockfiles and requirements
