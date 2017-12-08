@@ -14727,3 +14727,4 @@
 - [2017-12-07T15:31:48] Update documentation and architectural guides
 - [2017-12-07T11:11:58] Fix edge case in URL parsing and validation
 - [2017-12-07T10:43:59] Update schema migration helpers
+- [2017-12-07T22:47:18] Implement streaming upload chunk buffer optimization
