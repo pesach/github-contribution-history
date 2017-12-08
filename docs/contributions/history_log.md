@@ -14734,3 +14734,4 @@
 - [2017-12-08T18:48:40] Update schema migration helpers
 - [2017-12-08T09:54:35] Refactor cookie refresher probe logic
 - [2017-12-08T11:16:37] Update automated pytest test suites
+- [2017-12-08T13:03:33] Update B2 storage chunking parameters
