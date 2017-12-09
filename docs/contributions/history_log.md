@@ -14739,3 +14739,4 @@
 - [2017-12-08T09:34:10] Fix edge case in URL parsing and validation
 - [2017-12-08T22:35:53] Update dependency lockfiles and requirements
 - [2017-12-08T08:53:08] Refactor worker polling logic
+- [2017-12-09T10:23:02] Add Prometheus exporter endpoints for queue length
