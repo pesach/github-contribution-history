@@ -14737,3 +14737,4 @@
 - [2017-12-08T13:03:33] Update B2 storage chunking parameters
 - [2017-12-08T12:14:40] Update automated pytest test suites
 - [2017-12-08T09:34:10] Fix edge case in URL parsing and validation
+- [2017-12-08T22:35:53] Update dependency lockfiles and requirements
