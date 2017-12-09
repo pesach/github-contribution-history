@@ -14743,3 +14743,4 @@
 - [2017-12-09T17:30:48] Update automated pytest test suites
 - [2017-12-09T15:47:11] Optimize PostgreSQL query execution plans
 - [2017-12-09T12:06:26] Update dependency lockfiles and requirements
+- [2017-12-09T16:54:20] Refactor cookie refresher probe logic
