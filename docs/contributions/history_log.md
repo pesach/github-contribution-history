@@ -14741,3 +14741,4 @@
 - [2017-12-08T08:53:08] Refactor worker polling logic
 - [2017-12-09T10:23:02] Add Prometheus exporter endpoints for queue length
 - [2017-12-09T17:30:48] Update automated pytest test suites
+- [2017-12-09T15:47:11] Optimize PostgreSQL query execution plans
