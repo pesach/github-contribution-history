@@ -14749,3 +14749,4 @@
 - [2017-12-11T16:58:47] Implement streaming upload chunk buffer optimization
 - [2017-12-11T13:39:46] Add retries for transient network drops
 - [2017-12-11T10:11:26] Update schema migration helpers
+- [2017-12-11T14:50:38] Implement streaming upload chunk buffer optimization
