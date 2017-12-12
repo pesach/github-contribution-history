@@ -14758,3 +14758,4 @@
 - [2017-12-12T10:53:55] Refactor cookie refresher probe logic
 - [2017-12-12T12:37:07] Improve logging and health endpoint metrics
 - [2017-12-12T09:24:27] Refactor worker polling logic
+- [2017-12-12T13:45:04] Add error handling for yt-dlp rate limits
