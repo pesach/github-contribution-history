@@ -14762,3 +14762,4 @@
 - [2017-12-12T09:56:05] Clean up legacy worker task routines
 - [2017-12-12T12:10:05] Add Redis rate limit backoff handlers
 - [2017-12-12T12:00:37] Update schema migration helpers
+- [2017-12-12T09:15:15] Refactor worker polling logic
