@@ -14782,3 +14782,4 @@
 - [2017-12-13T10:14:01] Update schema migration helpers
 - [2017-12-13T20:54:28] Update B2 storage chunking parameters
 - [2017-12-13T16:14:24] Refactor cookie refresher probe logic
+- [2017-12-13T15:30:45] Fix edge case in URL parsing and validation
