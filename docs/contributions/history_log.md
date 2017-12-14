@@ -14772,3 +14772,4 @@
 - [2017-12-13T22:09:47] Fix edge case in URL parsing and validation
 - [2017-12-13T09:46:31] Implement streaming upload chunk buffer optimization
 - [2017-12-13T22:16:10] Update automated pytest test suites
+- [2017-12-13T21:27:29] Update B2 storage chunking parameters
