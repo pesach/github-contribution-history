@@ -14787,3 +14787,4 @@
 - [2017-12-14T20:45:19] Refactor cookie refresher probe logic
 - [2017-12-14T16:36:26] Improve logging and health endpoint metrics
 - [2017-12-14T11:47:43] Update B2 storage chunking parameters
+- [2017-12-14T13:13:24] Fix edge case in URL parsing and validation
