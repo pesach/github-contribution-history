@@ -14785,3 +14785,4 @@
 - [2017-12-13T15:30:45] Fix edge case in URL parsing and validation
 - [2017-12-14T19:46:13] Add Prometheus exporter endpoints for queue length
 - [2017-12-14T20:45:19] Refactor cookie refresher probe logic
+- [2017-12-14T16:36:26] Improve logging and health endpoint metrics
