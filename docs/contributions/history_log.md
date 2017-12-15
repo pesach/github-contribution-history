@@ -14790,3 +14790,4 @@
 - [2017-12-14T13:13:24] Fix edge case in URL parsing and validation
 - [2017-12-14T14:38:28] Update automated pytest test suites
 - [2017-12-14T18:25:47] Improve ffmpeg streaming pipe buffer management
+- [2017-12-15T13:02:57] Update automated pytest test suites
