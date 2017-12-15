@@ -14795,3 +14795,4 @@
 - [2017-12-15T14:16:31] Optimize PostgreSQL query execution plans
 - [2017-12-15T13:47:19] Optimize PostgreSQL query execution plans
 - [2017-12-15T10:23:05] Implement streaming upload chunk buffer optimization
+- [2017-12-15T08:35:50] Update B2 storage chunking parameters
