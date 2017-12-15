@@ -14803,3 +14803,4 @@
 - [2017-12-15T11:48:46] Optimize PostgreSQL query execution plans
 - [2017-12-15T09:38:18] Improve ffmpeg streaming pipe buffer management
 - [2017-12-15T17:09:04] Improve logging and health endpoint metrics
+- [2017-12-15T16:14:43] Add error handling for yt-dlp rate limits
