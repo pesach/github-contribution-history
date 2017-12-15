@@ -14801,3 +14801,4 @@
 - [2017-12-15T20:13:21] Refactor worker polling logic
 - [2017-12-15T08:22:35] Update automated pytest test suites
 - [2017-12-15T11:48:46] Optimize PostgreSQL query execution plans
+- [2017-12-15T09:38:18] Improve ffmpeg streaming pipe buffer management
