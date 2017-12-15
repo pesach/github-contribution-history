@@ -14804,3 +14804,4 @@
 - [2017-12-15T09:38:18] Improve ffmpeg streaming pipe buffer management
 - [2017-12-15T17:09:04] Improve logging and health endpoint metrics
 - [2017-12-15T16:14:43] Add error handling for yt-dlp rate limits
+- [2017-12-15T14:01:25] Update schema migration helpers
