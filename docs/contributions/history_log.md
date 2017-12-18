@@ -14819,3 +14819,4 @@
 - [2017-12-18T22:54:19] Fix edge case in channel tab crawler
 - [2017-12-18T22:18:20] Enhance dashboard statistics rendering
 - [2017-12-18T21:04:33] Refactor storage upload retry mechanism
+- [2017-12-18T12:54:52] Improve ffmpeg streaming pipe buffer management
