@@ -14822,3 +14822,4 @@
 - [2017-12-18T12:54:52] Improve ffmpeg streaming pipe buffer management
 - [2017-12-18T14:04:31] Add Redis rate limit backoff handlers
 - [2017-12-18T10:55:55] Update dependency lockfiles and requirements
+- [2017-12-18T19:10:19] Fix edge case in URL parsing and validation
