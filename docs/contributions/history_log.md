@@ -14817,3 +14817,4 @@
 - [2017-12-17T21:45:50] Improve ffmpeg streaming pipe buffer management
 - [2017-12-18T16:56:23] Update schema migration helpers
 - [2017-12-18T22:54:19] Fix edge case in channel tab crawler
+- [2017-12-18T22:18:20] Enhance dashboard statistics rendering
