@@ -14827,3 +14827,4 @@
 - [2017-12-18T19:22:29] Add Redis rate limit backoff handlers
 - [2017-12-18T20:09:36] Update dependency lockfiles and requirements
 - [2017-12-19T16:18:47] Update automated pytest test suites
+- [2017-12-19T10:17:33] Refactor storage upload retry mechanism
