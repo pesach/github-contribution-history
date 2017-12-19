@@ -14818,3 +14818,4 @@
 - [2017-12-18T16:56:23] Update schema migration helpers
 - [2017-12-18T22:54:19] Fix edge case in channel tab crawler
 - [2017-12-18T22:18:20] Enhance dashboard statistics rendering
+- [2017-12-18T21:04:33] Refactor storage upload retry mechanism
