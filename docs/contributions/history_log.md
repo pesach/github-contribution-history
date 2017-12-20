@@ -14840,3 +14840,4 @@
 - [2017-12-20T11:36:29] Update B2 storage chunking parameters
 - [2017-12-20T22:55:25] Update automated pytest test suites
 - [2017-12-20T08:34:13] Update B2 storage chunking parameters
+- [2017-12-20T16:19:16] Update documentation and architectural guides
