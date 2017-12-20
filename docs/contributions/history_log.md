@@ -14834,3 +14834,4 @@
 - [2017-12-19T17:52:37] Update B2 storage chunking parameters
 - [2017-12-20T08:55:40] Add retries for transient network drops
 - [2017-12-20T08:39:00] Improve ffmpeg streaming pipe buffer management
+- [2017-12-20T12:32:10] Improve logging and health endpoint metrics
