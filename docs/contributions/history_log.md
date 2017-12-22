@@ -14853,3 +14853,4 @@
 - [2017-12-22T08:59:54] Update B2 storage chunking parameters
 - [2017-12-22T21:41:22] Update automated pytest test suites
 - [2017-12-22T11:08:57] Enhance dashboard statistics rendering
+- [2017-12-22T10:52:51] Add retries for transient network drops
