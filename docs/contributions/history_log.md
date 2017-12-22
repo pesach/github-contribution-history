@@ -14854,3 +14854,4 @@
 - [2017-12-22T21:41:22] Update automated pytest test suites
 - [2017-12-22T11:08:57] Enhance dashboard statistics rendering
 - [2017-12-22T10:52:51] Add retries for transient network drops
+- [2017-12-22T11:35:46] Improve logging and health endpoint metrics
