@@ -14860,3 +14860,4 @@
 - [2017-12-25T16:55:41] Refactor storage upload retry mechanism
 - [2017-12-25T21:43:32] Update dependency lockfiles and requirements
 - [2017-12-25T12:32:13] Update dependency lockfiles and requirements
+- [2017-12-25T10:55:49] Optimize PostgreSQL query execution plans
