@@ -14869,3 +14869,4 @@
 - [2017-12-26T17:43:45] Improve logging and health endpoint metrics
 - [2017-12-26T12:51:57] Update automated pytest test suites
 - [2017-12-26T09:39:50] Fix edge case in URL parsing and validation
+- [2017-12-26T16:09:55] Refactor worker polling logic
