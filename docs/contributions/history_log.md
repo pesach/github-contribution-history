@@ -14876,3 +14876,4 @@
 - [2017-12-27T13:35:53] Implement streaming upload chunk buffer optimization
 - [2017-12-27T21:47:18] Add Redis rate limit backoff handlers
 - [2017-12-27T20:03:13] Clean up legacy worker task routines
+- [2017-12-27T13:39:55] Fix edge case in URL parsing and validation
