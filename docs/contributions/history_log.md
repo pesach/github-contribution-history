@@ -14878,3 +14878,4 @@
 - [2017-12-27T20:03:13] Clean up legacy worker task routines
 - [2017-12-27T13:39:55] Fix edge case in URL parsing and validation
 - [2017-12-27T21:00:39] Improve ffmpeg streaming pipe buffer management
+- [2017-12-27T10:33:34] Update documentation and architectural guides
