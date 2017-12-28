@@ -14880,3 +14880,4 @@
 - [2017-12-27T21:00:39] Improve ffmpeg streaming pipe buffer management
 - [2017-12-27T10:33:34] Update documentation and architectural guides
 - [2017-12-27T22:57:58] Fix edge case in channel tab crawler
+- [2017-12-27T20:14:45] Refactor cookie refresher probe logic
