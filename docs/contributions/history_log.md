@@ -14890,3 +14890,4 @@
 - [2017-12-28T20:45:10] Improve logging and health endpoint metrics
 - [2017-12-28T22:29:11] Add error handling for yt-dlp rate limits
 - [2017-12-28T13:45:18] Add Prometheus exporter endpoints for queue length
+- [2017-12-28T08:28:53] Improve logging and health endpoint metrics
