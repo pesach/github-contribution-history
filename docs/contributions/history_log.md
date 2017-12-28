@@ -14879,3 +14879,4 @@
 - [2017-12-27T13:39:55] Fix edge case in URL parsing and validation
 - [2017-12-27T21:00:39] Improve ffmpeg streaming pipe buffer management
 - [2017-12-27T10:33:34] Update documentation and architectural guides
+- [2017-12-27T22:57:58] Fix edge case in channel tab crawler
