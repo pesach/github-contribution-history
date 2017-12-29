@@ -14897,3 +14897,4 @@
 - [2017-12-29T12:46:43] Update dependency lockfiles and requirements
 - [2017-12-29T08:55:57] Add Redis rate limit backoff handlers
 - [2017-12-29T20:26:41] Enhance dashboard statistics rendering
+- [2017-12-29T09:45:14] Clean up legacy worker task routines
