@@ -14887,3 +14887,4 @@
 - [2017-12-28T08:45:56] Fix edge case in channel tab crawler
 - [2017-12-28T10:05:28] Enhance dashboard statistics rendering
 - [2017-12-28T13:21:18] Refactor cookie refresher probe logic
+- [2017-12-28T20:45:10] Improve logging and health endpoint metrics
