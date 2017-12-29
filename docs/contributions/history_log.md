@@ -14893,3 +14893,4 @@
 - [2017-12-28T08:28:53] Improve logging and health endpoint metrics
 - [2017-12-28T11:09:44] Fix edge case in URL parsing and validation
 - [2017-12-29T12:43:29] Add Redis rate limit backoff handlers
+- [2017-12-29T14:15:31] Update documentation and architectural guides
