@@ -14888,3 +14888,4 @@
 - [2017-12-28T10:05:28] Enhance dashboard statistics rendering
 - [2017-12-28T13:21:18] Refactor cookie refresher probe logic
 - [2017-12-28T20:45:10] Improve logging and health endpoint metrics
+- [2017-12-28T22:29:11] Add error handling for yt-dlp rate limits
