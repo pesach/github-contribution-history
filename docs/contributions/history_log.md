@@ -14895,3 +14895,4 @@
 - [2017-12-29T12:43:29] Add Redis rate limit backoff handlers
 - [2017-12-29T14:15:31] Update documentation and architectural guides
 - [2017-12-29T12:46:43] Update dependency lockfiles and requirements
+- [2017-12-29T08:55:57] Add Redis rate limit backoff handlers
