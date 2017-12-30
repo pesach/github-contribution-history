@@ -14903,3 +14903,4 @@
 - [2017-12-30T11:42:53] Fix edge case in channel tab crawler
 - [2017-12-30T09:17:33] Fix edge case in channel tab crawler
 - [2017-12-30T19:11:29] Optimize PostgreSQL query execution plans
+- [2017-12-30T18:00:28] Implement streaming upload chunk buffer optimization
