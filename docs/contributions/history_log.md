@@ -14915,3 +14915,4 @@
 - [2018-01-01T12:34:21] Update dependency lockfiles and requirements
 - [2018-01-01T16:00:54] Update dependency lockfiles and requirements
 - [2018-01-01T12:37:31] Fix edge case in channel tab crawler
+- [2018-01-01T18:31:13] Improve logging and health endpoint metrics
