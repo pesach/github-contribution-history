@@ -14919,3 +14919,4 @@
 - [2018-01-03T20:11:12] Improve logging and health endpoint metrics
 - [2018-01-03T17:42:20] Improve logging and health endpoint metrics
 - [2018-01-03T15:42:41] Improve logging and health endpoint metrics
+- [2018-01-03T14:28:37] Refactor storage upload retry mechanism
