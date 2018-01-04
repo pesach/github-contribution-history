@@ -14928,3 +14928,4 @@
 - [2018-01-04T11:44:23] Improve ffmpeg streaming pipe buffer management
 - [2018-01-04T17:26:02] Fix edge case in URL parsing and validation
 - [2018-01-04T09:57:54] Refactor cookie refresher probe logic
+- [2018-01-04T16:17:01] Improve logging and health endpoint metrics
