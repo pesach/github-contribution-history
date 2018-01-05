@@ -14941,3 +14941,4 @@
 - [2018-01-05T15:11:02] Update B2 storage chunking parameters
 - [2018-01-05T11:41:17] Update dependency lockfiles and requirements
 - [2018-01-05T20:24:41] Enhance dashboard statistics rendering
+- [2018-01-05T13:10:54] Fix edge case in channel tab crawler
