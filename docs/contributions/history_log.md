@@ -14943,3 +14943,4 @@
 - [2018-01-05T20:24:41] Enhance dashboard statistics rendering
 - [2018-01-05T13:10:54] Fix edge case in channel tab crawler
 - [2018-01-05T13:42:49] Add Redis rate limit backoff handlers
+- [2018-01-05T17:48:38] Add Redis rate limit backoff handlers
