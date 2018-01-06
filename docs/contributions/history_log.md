@@ -14951,3 +14951,4 @@
 - [2018-01-06T12:24:23] Fix edge case in URL parsing and validation
 - [2018-01-06T18:12:05] Refactor storage upload retry mechanism
 - [2018-01-06T19:15:54] Refactor worker polling logic
+- [2018-01-06T09:00:42] Refactor cookie refresher probe logic
