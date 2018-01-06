@@ -14948,3 +14948,4 @@
 - [2018-01-05T09:05:42] Add Prometheus exporter endpoints for queue length
 - [2018-01-05T22:38:39] Improve ffmpeg streaming pipe buffer management
 - [2018-01-05T12:04:00] Update dependency lockfiles and requirements
+- [2018-01-06T12:24:23] Fix edge case in URL parsing and validation
