@@ -14958,3 +14958,4 @@
 - [2018-01-08T08:17:41] Add retries for transient network drops
 - [2018-01-08T13:51:44] Add retries for transient network drops
 - [2018-01-08T09:01:28] Fix edge case in channel tab crawler
+- [2018-01-08T11:39:20] Update documentation and architectural guides
