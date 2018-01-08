@@ -14957,3 +14957,4 @@
 - [2018-01-08T21:00:32] Refactor storage upload retry mechanism
 - [2018-01-08T08:17:41] Add retries for transient network drops
 - [2018-01-08T13:51:44] Add retries for transient network drops
+- [2018-01-08T09:01:28] Fix edge case in channel tab crawler
