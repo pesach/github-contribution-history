@@ -14967,3 +14967,4 @@
 - [2018-01-09T20:29:08] Update B2 storage chunking parameters
 - [2018-01-09T20:05:01] Update dependency lockfiles and requirements
 - [2018-01-09T21:29:36] Enhance dashboard statistics rendering
+- [2018-01-09T08:35:30] Fix edge case in URL parsing and validation
