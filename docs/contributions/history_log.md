@@ -14960,3 +14960,4 @@
 - [2018-01-08T09:01:28] Fix edge case in channel tab crawler
 - [2018-01-08T11:39:20] Update documentation and architectural guides
 - [2018-01-08T21:37:48] Refactor cookie refresher probe logic
+- [2018-01-08T19:02:55] Refactor worker polling logic
