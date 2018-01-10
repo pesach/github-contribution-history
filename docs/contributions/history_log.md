@@ -14975,3 +14975,4 @@
 - [2018-01-10T11:02:00] Update B2 storage chunking parameters
 - [2018-01-10T22:24:12] Update automated pytest test suites
 - [2018-01-10T10:42:55] Add Prometheus exporter endpoints for queue length
+- [2018-01-10T10:22:42] Add error handling for yt-dlp rate limits
