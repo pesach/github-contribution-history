@@ -14981,3 +14981,4 @@
 - [2018-01-11T19:33:41] Add Redis rate limit backoff handlers
 - [2018-01-11T22:45:51] Update documentation and architectural guides
 - [2018-01-11T17:27:55] Improve logging and health endpoint metrics
+- [2018-01-11T18:53:49] Refactor cookie refresher probe logic
