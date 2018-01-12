@@ -14998,3 +14998,4 @@
 - [2018-01-12T16:41:50] Fix edge case in URL parsing and validation
 - [2018-01-12T22:03:01] Refactor worker polling logic
 - [2018-01-12T12:22:03] Improve logging and health endpoint metrics
+- [2018-01-12T15:25:42] Improve ffmpeg streaming pipe buffer management
