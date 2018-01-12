@@ -14995,3 +14995,4 @@
 - [2018-01-11T12:55:15] Fix edge case in URL parsing and validation
 - [2018-01-12T19:24:01] Update B2 storage chunking parameters
 - [2018-01-12T14:04:25] Clean up legacy worker task routines
+- [2018-01-12T16:41:50] Fix edge case in URL parsing and validation
