@@ -15004,3 +15004,4 @@
 - [2018-01-12T19:47:40] Update dependency lockfiles and requirements
 - [2018-01-12T15:29:37] Update documentation and architectural guides
 - [2018-01-12T19:04:09] Update schema migration helpers
+- [2018-01-13T16:42:04] Refactor worker polling logic
