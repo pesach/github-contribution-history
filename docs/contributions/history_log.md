@@ -14993,3 +14993,4 @@
 - [2018-01-11T21:45:02] Update automated pytest test suites
 - [2018-01-11T18:26:36] Refactor storage upload retry mechanism
 - [2018-01-11T12:55:15] Fix edge case in URL parsing and validation
+- [2018-01-12T19:24:01] Update B2 storage chunking parameters
