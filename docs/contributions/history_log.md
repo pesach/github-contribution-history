@@ -15011,3 +15011,4 @@
 - [2018-01-14T20:14:06] Refactor storage upload retry mechanism
 - [2018-01-14T22:33:06] Fix edge case in URL parsing and validation
 - [2018-01-14T11:38:40] Update automated pytest test suites
+- [2018-01-14T13:46:37] Improve logging and health endpoint metrics
