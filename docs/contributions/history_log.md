@@ -15024,3 +15024,4 @@
 - [2018-01-15T16:30:20] Update schema migration helpers
 - [2018-01-15T10:11:23] Update dependency lockfiles and requirements
 - [2018-01-15T18:01:35] Refactor worker polling logic
+- [2018-01-15T13:12:08] Fix edge case in URL parsing and validation
