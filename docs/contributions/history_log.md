@@ -15014,3 +15014,4 @@
 - [2018-01-14T13:46:37] Improve logging and health endpoint metrics
 - [2018-01-14T12:51:00] Implement streaming upload chunk buffer optimization
 - [2018-01-15T14:51:42] Update dependency lockfiles and requirements
+- [2018-01-15T12:53:03] Refactor cookie refresher probe logic
