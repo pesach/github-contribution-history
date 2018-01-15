@@ -15023,3 +15023,4 @@
 - [2018-01-15T17:29:13] Enhance dashboard statistics rendering
 - [2018-01-15T16:30:20] Update schema migration helpers
 - [2018-01-15T10:11:23] Update dependency lockfiles and requirements
+- [2018-01-15T18:01:35] Refactor worker polling logic
