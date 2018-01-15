@@ -15016,3 +15016,4 @@
 - [2018-01-15T14:51:42] Update dependency lockfiles and requirements
 - [2018-01-15T12:53:03] Refactor cookie refresher probe logic
 - [2018-01-15T18:26:12] Implement streaming upload chunk buffer optimization
+- [2018-01-15T10:06:58] Add error handling for yt-dlp rate limits
