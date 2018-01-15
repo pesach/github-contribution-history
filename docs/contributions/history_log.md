@@ -15008,3 +15008,4 @@
 - [2018-01-13T19:26:35] Update B2 storage chunking parameters
 - [2018-01-13T09:14:37] Add Prometheus exporter endpoints for queue length
 - [2018-01-13T09:59:43] Optimize PostgreSQL query execution plans
+- [2018-01-14T20:14:06] Refactor storage upload retry mechanism
