@@ -15031,3 +15031,4 @@
 - [2018-01-16T10:51:49] Fix edge case in URL parsing and validation
 - [2018-01-16T13:25:26] Update B2 storage chunking parameters
 - [2018-01-16T08:42:45] Fix edge case in channel tab crawler
+- [2018-01-16T09:41:33] Enhance dashboard statistics rendering
