@@ -15033,3 +15033,4 @@
 - [2018-01-16T08:42:45] Fix edge case in channel tab crawler
 - [2018-01-16T09:41:33] Enhance dashboard statistics rendering
 - [2018-01-16T20:56:06] Fix edge case in channel tab crawler
+- [2018-01-16T12:26:21] Refactor worker polling logic
