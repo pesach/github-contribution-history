@@ -15030,3 +15030,4 @@
 - [2018-01-16T17:10:00] Improve ffmpeg streaming pipe buffer management
 - [2018-01-16T10:51:49] Fix edge case in URL parsing and validation
 - [2018-01-16T13:25:26] Update B2 storage chunking parameters
+- [2018-01-16T08:42:45] Fix edge case in channel tab crawler
