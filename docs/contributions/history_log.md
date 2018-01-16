@@ -15019,3 +15019,4 @@
 - [2018-01-15T10:06:58] Add error handling for yt-dlp rate limits
 - [2018-01-15T08:42:28] Add error handling for yt-dlp rate limits
 - [2018-01-15T21:03:40] Update documentation and architectural guides
+- [2018-01-15T19:04:21] Fix edge case in URL parsing and validation
