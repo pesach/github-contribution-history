@@ -15028,3 +15028,4 @@
 - [2018-01-15T16:01:17] Fix edge case in channel tab crawler
 - [2018-01-15T19:25:14] Add retries for transient network drops
 - [2018-01-16T17:10:00] Improve ffmpeg streaming pipe buffer management
+- [2018-01-16T10:51:49] Fix edge case in URL parsing and validation
