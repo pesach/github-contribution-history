@@ -15051,3 +15051,4 @@
 - [2018-01-17T17:59:01] Optimize PostgreSQL query execution plans
 - [2018-01-17T10:19:41] Improve logging and health endpoint metrics
 - [2018-01-17T21:07:45] Add Prometheus exporter endpoints for queue length
+- [2018-01-17T13:36:35] Refactor worker polling logic
