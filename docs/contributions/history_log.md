@@ -15043,3 +15043,4 @@
 - [2018-01-17T13:21:07] Update automated pytest test suites
 - [2018-01-17T19:18:55] Enhance dashboard statistics rendering
 - [2018-01-17T13:20:01] Update automated pytest test suites
+- [2018-01-17T19:11:16] Fix edge case in URL parsing and validation
