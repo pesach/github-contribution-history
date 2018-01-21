@@ -15065,3 +15065,4 @@
 - [2018-01-18T13:58:56] Add Prometheus exporter endpoints for queue length
 - [2018-01-18T17:24:26] Clean up legacy worker task routines
 - [2018-01-21T21:42:02] Add retries for transient network drops
+- [2018-01-21T13:48:40] Optimize PostgreSQL query execution plans
