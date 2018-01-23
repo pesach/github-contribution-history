@@ -15080,3 +15080,4 @@
 - [2018-01-23T20:58:19] Update schema migration helpers
 - [2018-01-23T13:30:59] Update B2 storage chunking parameters
 - [2018-01-23T22:52:31] Implement streaming upload chunk buffer optimization
+- [2018-01-23T12:20:25] Refactor worker polling logic
