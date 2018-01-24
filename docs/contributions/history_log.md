@@ -15076,3 +15076,4 @@
 - [2018-01-22T16:08:38] Refactor cookie refresher probe logic
 - [2018-01-22T15:28:19] Update dependency lockfiles and requirements
 - [2018-01-23T12:59:28] Add Prometheus exporter endpoints for queue length
+- [2018-01-23T20:12:13] Add error handling for yt-dlp rate limits
