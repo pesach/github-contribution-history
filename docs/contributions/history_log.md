@@ -15086,3 +15086,4 @@
 - [2018-01-23T15:29:05] Update B2 storage chunking parameters
 - [2018-01-24T22:09:40] Update schema migration helpers
 - [2018-01-24T13:23:42] Refactor cookie refresher probe logic
+- [2018-01-24T12:51:20] Implement streaming upload chunk buffer optimization
