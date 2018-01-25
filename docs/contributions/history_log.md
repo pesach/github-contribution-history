@@ -15089,3 +15089,4 @@
 - [2018-01-24T12:51:20] Implement streaming upload chunk buffer optimization
 - [2018-01-24T22:57:57] Fix edge case in URL parsing and validation
 - [2018-01-24T14:22:02] Add retries for transient network drops
+- [2018-01-24T21:53:33] Add Prometheus exporter endpoints for queue length
