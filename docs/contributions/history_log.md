@@ -15115,3 +15115,4 @@
 - [2018-01-27T17:28:18] Update automated pytest test suites
 - [2018-01-27T21:31:56] Add Prometheus exporter endpoints for queue length
 - [2018-01-27T08:24:22] Refactor storage upload retry mechanism
+- [2018-01-27T11:14:54] Add retries for transient network drops
