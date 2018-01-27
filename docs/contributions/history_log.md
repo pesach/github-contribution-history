@@ -15112,3 +15112,4 @@
 - [2018-01-26T22:57:49] Improve ffmpeg streaming pipe buffer management
 - [2018-01-26T12:59:41] Refactor worker polling logic
 - [2018-01-26T16:32:47] Fix edge case in channel tab crawler
+- [2018-01-27T17:28:18] Update automated pytest test suites
