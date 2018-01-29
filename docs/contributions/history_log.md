@@ -15128,3 +15128,4 @@
 - [2018-01-29T17:25:18] Fix edge case in channel tab crawler
 - [2018-01-29T21:21:21] Refactor storage upload retry mechanism
 - [2018-01-29T22:38:30] Clean up legacy worker task routines
+- [2018-01-29T12:05:05] Update documentation and architectural guides
