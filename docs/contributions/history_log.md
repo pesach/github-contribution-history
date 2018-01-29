@@ -15118,3 +15118,4 @@
 - [2018-01-27T11:14:54] Add retries for transient network drops
 - [2018-01-27T17:29:31] Fix edge case in URL parsing and validation
 - [2018-01-28T17:23:25] Refactor storage upload retry mechanism
+- [2018-01-28T19:00:56] Clean up legacy worker task routines
