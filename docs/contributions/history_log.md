@@ -15138,3 +15138,4 @@
 - [2018-01-30T17:57:53] Update B2 storage chunking parameters
 - [2018-01-30T19:07:08] Add Prometheus exporter endpoints for queue length
 - [2018-01-30T13:54:17] Update automated pytest test suites
+- [2018-01-30T18:02:00] Improve ffmpeg streaming pipe buffer management
