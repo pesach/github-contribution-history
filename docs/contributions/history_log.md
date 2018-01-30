@@ -15127,3 +15127,4 @@
 - [2018-01-29T22:30:19] Implement streaming upload chunk buffer optimization
 - [2018-01-29T17:25:18] Fix edge case in channel tab crawler
 - [2018-01-29T21:21:21] Refactor storage upload retry mechanism
+- [2018-01-29T22:38:30] Clean up legacy worker task routines
