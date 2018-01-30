@@ -15140,3 +15140,4 @@
 - [2018-01-30T13:54:17] Update automated pytest test suites
 - [2018-01-30T18:02:00] Improve ffmpeg streaming pipe buffer management
 - [2018-01-30T10:37:47] Refactor cookie refresher probe logic
+- [2018-01-30T17:36:35] Update dependency lockfiles and requirements
