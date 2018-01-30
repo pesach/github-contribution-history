@@ -15135,3 +15135,4 @@
 - [2018-01-30T22:24:55] Update automated pytest test suites
 - [2018-01-30T13:47:00] Improve logging and health endpoint metrics
 - [2018-01-30T13:39:52] Refactor cookie refresher probe logic
+- [2018-01-30T17:57:53] Update B2 storage chunking parameters
