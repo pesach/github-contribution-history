@@ -15143,3 +15143,4 @@
 - [2018-01-30T17:36:35] Update dependency lockfiles and requirements
 - [2018-01-31T19:00:13] Update automated pytest test suites
 - [2018-01-31T16:38:17] Clean up legacy worker task routines
+- [2018-01-31T10:11:58] Refactor cookie refresher probe logic
