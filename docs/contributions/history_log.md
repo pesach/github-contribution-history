@@ -15145,3 +15145,4 @@
 - [2018-01-31T16:38:17] Clean up legacy worker task routines
 - [2018-01-31T10:11:58] Refactor cookie refresher probe logic
 - [2018-01-31T20:41:14] Update schema migration helpers
+- [2018-01-31T20:53:54] Refactor cookie refresher probe logic
