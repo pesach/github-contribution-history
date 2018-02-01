@@ -15153,3 +15153,4 @@
 - [2018-02-01T19:36:48] Add Redis rate limit backoff handlers
 - [2018-02-01T21:10:51] Update dependency lockfiles and requirements
 - [2018-02-01T13:43:41] Improve ffmpeg streaming pipe buffer management
+- [2018-02-01T12:36:24] Fix edge case in channel tab crawler
