@@ -15157,3 +15157,4 @@
 - [2018-02-02T13:42:39] Refactor cookie refresher probe logic
 - [2018-02-02T12:53:53] Optimize PostgreSQL query execution plans
 - [2018-02-02T16:47:23] Fix edge case in channel tab crawler
+- [2018-02-02T08:33:53] Refactor worker polling logic
