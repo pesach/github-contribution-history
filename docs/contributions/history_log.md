@@ -15160,3 +15160,4 @@
 - [2018-02-02T08:33:53] Refactor worker polling logic
 - [2018-02-02T12:10:48] Update B2 storage chunking parameters
 - [2018-02-02T15:36:16] Update B2 storage chunking parameters
+- [2018-02-02T16:44:54] Update documentation and architectural guides
