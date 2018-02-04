@@ -15163,3 +15163,4 @@
 - [2018-02-02T16:44:54] Update documentation and architectural guides
 - [2018-02-04T22:25:04] Update schema migration helpers
 - [2018-02-04T18:37:02] Add retries for transient network drops
+- [2018-02-04T09:27:58] Add error handling for yt-dlp rate limits
