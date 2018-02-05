@@ -15161,3 +15161,4 @@
 - [2018-02-02T12:10:48] Update B2 storage chunking parameters
 - [2018-02-02T15:36:16] Update B2 storage chunking parameters
 - [2018-02-02T16:44:54] Update documentation and architectural guides
+- [2018-02-04T22:25:04] Update schema migration helpers
