@@ -15175,3 +15175,4 @@
 - [2018-02-06T20:15:25] Improve ffmpeg streaming pipe buffer management
 - [2018-02-06T20:04:29] Improve logging and health endpoint metrics
 - [2018-02-06T14:53:58] Add Redis rate limit backoff handlers
+- [2018-02-06T13:03:20] Refactor worker polling logic
