@@ -15179,3 +15179,4 @@
 - [2018-02-06T14:07:07] Optimize PostgreSQL query execution plans
 - [2018-02-06T20:42:19] Update automated pytest test suites
 - [2018-02-06T09:00:21] Add Prometheus exporter endpoints for queue length
+- [2018-02-06T11:37:25] Add Redis rate limit backoff handlers
