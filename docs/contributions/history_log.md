@@ -15173,3 +15173,4 @@
 - [2018-02-05T17:49:03] Clean up legacy worker task routines
 - [2018-02-06T16:14:13] Fix edge case in URL parsing and validation
 - [2018-02-06T20:15:25] Improve ffmpeg streaming pipe buffer management
+- [2018-02-06T20:04:29] Improve logging and health endpoint metrics
