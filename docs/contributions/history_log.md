@@ -15186,3 +15186,4 @@
 - [2018-02-07T15:32:00] Update B2 storage chunking parameters
 - [2018-02-07T17:23:29] Update automated pytest test suites
 - [2018-02-07T08:07:13] Add retries for transient network drops
+- [2018-02-07T18:09:37] Add Redis rate limit backoff handlers
