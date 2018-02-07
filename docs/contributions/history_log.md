@@ -15180,3 +15180,4 @@
 - [2018-02-06T20:42:19] Update automated pytest test suites
 - [2018-02-06T09:00:21] Add Prometheus exporter endpoints for queue length
 - [2018-02-06T11:37:25] Add Redis rate limit backoff handlers
+- [2018-02-07T18:05:27] Implement streaming upload chunk buffer optimization
