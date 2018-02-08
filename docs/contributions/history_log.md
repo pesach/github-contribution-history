@@ -15202,3 +15202,4 @@
 - [2018-02-08T14:11:57] Update automated pytest test suites
 - [2018-02-08T09:42:34] Refactor storage upload retry mechanism
 - [2018-02-08T18:13:55] Clean up legacy worker task routines
+- [2018-02-08T10:01:41] Improve ffmpeg streaming pipe buffer management
