@@ -15218,3 +15218,4 @@
 - [2018-02-12T10:13:49] Add retries for transient network drops
 - [2018-02-12T15:30:04] Update documentation and architectural guides
 - [2018-02-12T21:21:37] Add error handling for yt-dlp rate limits
+- [2018-02-12T10:00:38] Add error handling for yt-dlp rate limits
