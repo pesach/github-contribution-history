@@ -15213,3 +15213,4 @@
 - [2018-02-12T10:19:21] Update schema migration helpers
 - [2018-02-12T19:35:58] Enhance dashboard statistics rendering
 - [2018-02-12T19:41:46] Update automated pytest test suites
+- [2018-02-12T13:22:07] Refactor storage upload retry mechanism
