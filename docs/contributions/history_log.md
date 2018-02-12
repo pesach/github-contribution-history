@@ -15214,3 +15214,4 @@
 - [2018-02-12T19:35:58] Enhance dashboard statistics rendering
 - [2018-02-12T19:41:46] Update automated pytest test suites
 - [2018-02-12T13:22:07] Refactor storage upload retry mechanism
+- [2018-02-12T17:49:22] Update B2 storage chunking parameters
