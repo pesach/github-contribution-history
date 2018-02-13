@@ -15217,3 +15217,4 @@
 - [2018-02-12T17:49:22] Update B2 storage chunking parameters
 - [2018-02-12T10:13:49] Add retries for transient network drops
 - [2018-02-12T15:30:04] Update documentation and architectural guides
+- [2018-02-12T21:21:37] Add error handling for yt-dlp rate limits
