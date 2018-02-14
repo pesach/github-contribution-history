@@ -15237,3 +15237,4 @@
 - [2018-02-14T15:07:28] Optimize PostgreSQL query execution plans
 - [2018-02-14T22:48:36] Update B2 storage chunking parameters
 - [2018-02-14T15:42:10] Add retries for transient network drops
+- [2018-02-14T13:30:51] Refactor worker polling logic
