@@ -15233,3 +15233,4 @@
 - [2018-02-13T20:08:56] Add Prometheus exporter endpoints for queue length
 - [2018-02-13T08:14:50] Fix edge case in channel tab crawler
 - [2018-02-13T16:14:36] Improve logging and health endpoint metrics
+- [2018-02-14T15:47:09] Refactor cookie refresher probe logic
