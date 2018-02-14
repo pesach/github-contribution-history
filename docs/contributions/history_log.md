@@ -15230,3 +15230,4 @@
 - [2018-02-13T12:11:09] Add Prometheus exporter endpoints for queue length
 - [2018-02-13T18:32:17] Update automated pytest test suites
 - [2018-02-13T17:10:32] Update B2 storage chunking parameters
+- [2018-02-13T20:08:56] Add Prometheus exporter endpoints for queue length
