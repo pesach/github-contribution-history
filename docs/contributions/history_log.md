@@ -15239,3 +15239,4 @@
 - [2018-02-14T15:42:10] Add retries for transient network drops
 - [2018-02-14T13:30:51] Refactor worker polling logic
 - [2018-02-14T12:02:11] Enhance dashboard statistics rendering
+- [2018-02-14T16:05:32] Clean up legacy worker task routines
