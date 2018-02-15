@@ -15235,3 +15235,4 @@
 - [2018-02-13T16:14:36] Improve logging and health endpoint metrics
 - [2018-02-14T15:47:09] Refactor cookie refresher probe logic
 - [2018-02-14T15:07:28] Optimize PostgreSQL query execution plans
+- [2018-02-14T22:48:36] Update B2 storage chunking parameters
