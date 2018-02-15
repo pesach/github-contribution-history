@@ -15243,3 +15243,4 @@
 - [2018-02-14T17:33:13] Refactor worker polling logic
 - [2018-02-14T18:52:53] Clean up legacy worker task routines
 - [2018-02-14T09:56:20] Clean up legacy worker task routines
+- [2018-02-14T20:35:47] Add Prometheus exporter endpoints for queue length
