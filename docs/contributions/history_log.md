@@ -15248,3 +15248,4 @@
 - [2018-02-15T21:43:58] Refactor worker polling logic
 - [2018-02-15T09:13:08] Add Prometheus exporter endpoints for queue length
 - [2018-02-15T20:36:47] Refactor storage upload retry mechanism
+- [2018-02-15T21:36:47] Improve ffmpeg streaming pipe buffer management
