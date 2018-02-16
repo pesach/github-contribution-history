@@ -15252,3 +15252,4 @@
 - [2018-02-15T10:13:27] Improve ffmpeg streaming pipe buffer management
 - [2018-02-15T13:16:00] Implement streaming upload chunk buffer optimization
 - [2018-02-15T20:13:33] Update B2 storage chunking parameters
+- [2018-02-15T22:15:09] Update B2 storage chunking parameters
