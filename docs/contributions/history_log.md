@@ -15257,3 +15257,4 @@
 - [2018-02-15T19:25:20] Refactor storage upload retry mechanism
 - [2018-02-15T10:29:28] Enhance dashboard statistics rendering
 - [2018-02-16T10:25:30] Refactor storage upload retry mechanism
+- [2018-02-16T16:31:18] Refactor cookie refresher probe logic
