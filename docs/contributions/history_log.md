@@ -15274,3 +15274,4 @@
 - [2018-02-18T21:23:40] Improve ffmpeg streaming pipe buffer management
 - [2018-02-19T09:54:36] Fix edge case in channel tab crawler
 - [2018-02-19T15:11:21] Optimize PostgreSQL query execution plans
+- [2018-02-19T14:47:57] Improve logging and health endpoint metrics
