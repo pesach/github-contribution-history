@@ -15273,3 +15273,4 @@
 - [2018-02-18T18:09:45] Update automated pytest test suites
 - [2018-02-18T21:23:40] Improve ffmpeg streaming pipe buffer management
 - [2018-02-19T09:54:36] Fix edge case in channel tab crawler
+- [2018-02-19T15:11:21] Optimize PostgreSQL query execution plans
