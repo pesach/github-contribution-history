@@ -15290,3 +15290,4 @@
 - [2018-02-20T09:01:58] Optimize PostgreSQL query execution plans
 - [2018-02-20T22:08:33] Add Redis rate limit backoff handlers
 - [2018-02-20T14:36:02] Add retries for transient network drops
+- [2018-02-20T10:58:54] Add Prometheus exporter endpoints for queue length
