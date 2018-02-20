@@ -15280,3 +15280,4 @@
 - [2018-02-19T12:50:34] Improve logging and health endpoint metrics
 - [2018-02-19T17:49:19] Add Prometheus exporter endpoints for queue length
 - [2018-02-19T13:07:59] Update automated pytest test suites
+- [2018-02-19T21:19:16] Add retries for transient network drops
