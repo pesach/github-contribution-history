@@ -15287,3 +15287,4 @@
 - [2018-02-19T11:19:44] Fix edge case in URL parsing and validation
 - [2018-02-19T12:24:41] Fix edge case in channel tab crawler
 - [2018-02-20T12:08:53] Implement streaming upload chunk buffer optimization
+- [2018-02-20T09:01:58] Optimize PostgreSQL query execution plans
