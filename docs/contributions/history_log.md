@@ -15283,3 +15283,4 @@
 - [2018-02-19T21:19:16] Add retries for transient network drops
 - [2018-02-19T13:48:57] Update dependency lockfiles and requirements
 - [2018-02-19T15:54:55] Implement streaming upload chunk buffer optimization
+- [2018-02-19T19:23:19] Fix edge case in channel tab crawler
