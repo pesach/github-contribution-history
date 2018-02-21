@@ -15288,3 +15288,4 @@
 - [2018-02-19T12:24:41] Fix edge case in channel tab crawler
 - [2018-02-20T12:08:53] Implement streaming upload chunk buffer optimization
 - [2018-02-20T09:01:58] Optimize PostgreSQL query execution plans
+- [2018-02-20T22:08:33] Add Redis rate limit backoff handlers
