@@ -15300,3 +15300,4 @@
 - [2018-02-21T09:04:07] Update automated pytest test suites
 - [2018-02-21T22:14:16] Fix edge case in URL parsing and validation
 - [2018-02-21T21:53:08] Update schema migration helpers
+- [2018-02-21T08:26:54] Update dependency lockfiles and requirements
