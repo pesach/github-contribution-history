@@ -15303,3 +15303,4 @@
 - [2018-02-21T08:26:54] Update dependency lockfiles and requirements
 - [2018-02-21T13:52:29] Fix edge case in channel tab crawler
 - [2018-02-21T13:41:18] Clean up legacy worker task routines
+- [2018-02-22T17:18:40] Refactor storage upload retry mechanism
