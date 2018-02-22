@@ -15309,3 +15309,4 @@
 - [2018-02-22T21:47:31] Update schema migration helpers
 - [2018-02-22T22:09:45] Add retries for transient network drops
 - [2018-02-22T16:48:10] Add Prometheus exporter endpoints for queue length
+- [2018-02-22T13:53:33] Add retries for transient network drops
