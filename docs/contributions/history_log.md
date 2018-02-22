@@ -15294,3 +15294,4 @@
 - [2018-02-20T20:17:40] Refactor cookie refresher probe logic
 - [2018-02-20T11:09:13] Improve logging and health endpoint metrics
 - [2018-02-21T08:29:59] Update schema migration helpers
+- [2018-02-21T20:34:07] Add Prometheus exporter endpoints for queue length
