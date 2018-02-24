@@ -15333,3 +15333,4 @@
 - [2018-02-24T19:17:31] Implement streaming upload chunk buffer optimization
 - [2018-02-24T21:45:47] Update schema migration helpers
 - [2018-02-24T21:33:09] Add Redis rate limit backoff handlers
+- [2018-02-24T10:53:18] Refactor cookie refresher probe logic
