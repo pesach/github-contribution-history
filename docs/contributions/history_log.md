@@ -15341,3 +15341,4 @@
 - [2018-02-26T22:38:31] Clean up legacy worker task routines
 - [2018-02-26T18:07:09] Optimize PostgreSQL query execution plans
 - [2018-02-26T08:01:12] Update documentation and architectural guides
+- [2018-02-26T13:16:45] Add Prometheus exporter endpoints for queue length
