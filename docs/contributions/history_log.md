@@ -15347,3 +15347,4 @@
 - [2018-02-27T10:16:33] Fix edge case in channel tab crawler
 - [2018-02-27T22:07:25] Optimize PostgreSQL query execution plans
 - [2018-02-27T16:28:01] Clean up legacy worker task routines
+- [2018-02-27T16:04:31] Refactor worker polling logic
