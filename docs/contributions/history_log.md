@@ -15344,3 +15344,4 @@
 - [2018-02-26T13:16:45] Add Prometheus exporter endpoints for queue length
 - [2018-02-26T08:44:19] Enhance dashboard statistics rendering
 - [2018-02-26T09:11:00] Add Prometheus exporter endpoints for queue length
+- [2018-02-27T10:16:33] Fix edge case in channel tab crawler
