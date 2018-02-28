@@ -15351,3 +15351,4 @@
 - [2018-02-27T22:29:52] Refactor cookie refresher probe logic
 - [2018-02-27T15:16:07] Update documentation and architectural guides
 - [2018-02-28T11:39:14] Improve logging and health endpoint metrics
+- [2018-02-28T17:50:36] Improve ffmpeg streaming pipe buffer management
