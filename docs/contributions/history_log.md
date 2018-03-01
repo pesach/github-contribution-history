@@ -15366,3 +15366,4 @@
 - [2018-03-01T19:23:26] Update dependency lockfiles and requirements
 - [2018-03-01T11:19:05] Update documentation and architectural guides
 - [2018-03-01T10:23:47] Add retries for transient network drops
+- [2018-03-01T08:52:32] Improve ffmpeg streaming pipe buffer management
