@@ -15367,3 +15367,4 @@
 - [2018-03-01T11:19:05] Update documentation and architectural guides
 - [2018-03-01T10:23:47] Add retries for transient network drops
 - [2018-03-01T08:52:32] Improve ffmpeg streaming pipe buffer management
+- [2018-03-01T19:21:53] Fix edge case in channel tab crawler
