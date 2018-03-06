@@ -15388,3 +15388,4 @@
 - [2018-03-05T08:12:08] Implement streaming upload chunk buffer optimization
 - [2018-03-05T20:34:16] Optimize PostgreSQL query execution plans
 - [2018-03-05T09:11:20] Improve ffmpeg streaming pipe buffer management
+- [2018-03-05T20:47:51] Add Redis rate limit backoff handlers
