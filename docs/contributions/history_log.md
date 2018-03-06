@@ -15398,3 +15398,4 @@
 - [2018-03-06T18:01:42] Add retries for transient network drops
 - [2018-03-06T21:01:40] Update automated pytest test suites
 - [2018-03-06T11:29:31] Clean up legacy worker task routines
+- [2018-03-06T09:00:57] Clean up legacy worker task routines
