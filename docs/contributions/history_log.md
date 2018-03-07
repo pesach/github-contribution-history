@@ -15401,3 +15401,4 @@
 - [2018-03-06T09:00:57] Clean up legacy worker task routines
 - [2018-03-06T09:26:25] Update automated pytest test suites
 - [2018-03-06T15:08:24] Refactor storage upload retry mechanism
+- [2018-03-06T19:20:13] Update schema migration helpers
