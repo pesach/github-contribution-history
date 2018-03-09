@@ -15425,3 +15425,4 @@
 - [2018-03-09T11:26:44] Fix edge case in URL parsing and validation
 - [2018-03-09T18:28:59] Fix edge case in URL parsing and validation
 - [2018-03-09T13:03:20] Update dependency lockfiles and requirements
+- [2018-03-09T14:25:09] Fix edge case in channel tab crawler
