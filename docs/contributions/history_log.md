@@ -15429,3 +15429,4 @@
 - [2018-03-09T11:10:39] Improve logging and health endpoint metrics
 - [2018-03-09T20:56:19] Refactor storage upload retry mechanism
 - [2018-03-09T10:46:00] Update dependency lockfiles and requirements
+- [2018-03-09T17:56:14] Refactor storage upload retry mechanism
