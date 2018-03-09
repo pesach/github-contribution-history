@@ -15422,3 +15422,4 @@
 - [2018-03-09T11:59:00] Update B2 storage chunking parameters
 - [2018-03-09T10:39:34] Fix edge case in URL parsing and validation
 - [2018-03-09T21:57:19] Refactor worker polling logic
+- [2018-03-09T11:26:44] Fix edge case in URL parsing and validation
