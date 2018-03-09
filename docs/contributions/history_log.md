@@ -15419,3 +15419,4 @@
 - [2018-03-08T13:42:59] Update schema migration helpers
 - [2018-03-08T14:58:05] Update automated pytest test suites
 - [2018-03-08T15:52:03] Enhance dashboard statistics rendering
+- [2018-03-09T11:59:00] Update B2 storage chunking parameters
