@@ -15427,3 +15427,4 @@
 - [2018-03-09T13:03:20] Update dependency lockfiles and requirements
 - [2018-03-09T14:25:09] Fix edge case in channel tab crawler
 - [2018-03-09T11:10:39] Improve logging and health endpoint metrics
+- [2018-03-09T20:56:19] Refactor storage upload retry mechanism
