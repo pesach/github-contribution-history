@@ -15447,3 +15447,4 @@
 - [2018-03-12T18:04:54] Update automated pytest test suites
 - [2018-03-12T20:38:26] Add Prometheus exporter endpoints for queue length
 - [2018-03-12T13:37:06] Update documentation and architectural guides
+- [2018-03-12T11:43:34] Add Prometheus exporter endpoints for queue length
