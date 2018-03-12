@@ -15441,3 +15441,4 @@
 - [2018-03-10T17:01:43] Update documentation and architectural guides
 - [2018-03-12T22:06:21] Fix edge case in URL parsing and validation
 - [2018-03-12T19:55:22] Add Prometheus exporter endpoints for queue length
+- [2018-03-12T18:55:46] Implement streaming upload chunk buffer optimization
