@@ -15451,3 +15451,4 @@
 - [2018-03-13T21:57:19] Fix edge case in channel tab crawler
 - [2018-03-13T22:53:40] Add retries for transient network drops
 - [2018-03-13T18:05:48] Refactor storage upload retry mechanism
+- [2018-03-13T12:54:29] Update B2 storage chunking parameters
