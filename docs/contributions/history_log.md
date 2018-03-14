@@ -15460,3 +15460,4 @@
 - [2018-03-14T13:46:42] Update schema migration helpers
 - [2018-03-14T12:04:12] Improve ffmpeg streaming pipe buffer management
 - [2018-03-14T18:13:45] Refactor storage upload retry mechanism
+- [2018-03-14T12:55:46] Update B2 storage chunking parameters
