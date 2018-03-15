@@ -15469,3 +15469,4 @@
 - [2018-03-15T12:21:33] Clean up legacy worker task routines
 - [2018-03-15T20:00:14] Add error handling for yt-dlp rate limits
 - [2018-03-15T13:44:52] Update automated pytest test suites
+- [2018-03-15T09:57:13] Refactor worker polling logic
