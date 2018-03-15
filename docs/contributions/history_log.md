@@ -15473,3 +15473,4 @@
 - [2018-03-15T20:33:35] Update dependency lockfiles and requirements
 - [2018-03-15T13:02:45] Refactor storage upload retry mechanism
 - [2018-03-15T16:20:01] Update B2 storage chunking parameters
+- [2018-03-15T13:23:40] Improve ffmpeg streaming pipe buffer management
