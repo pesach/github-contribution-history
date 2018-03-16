@@ -15467,3 +15467,4 @@
 - [2018-03-15T15:35:06] Fix edge case in channel tab crawler
 - [2018-03-15T10:01:02] Improve ffmpeg streaming pipe buffer management
 - [2018-03-15T12:21:33] Clean up legacy worker task routines
+- [2018-03-15T20:00:14] Add error handling for yt-dlp rate limits
