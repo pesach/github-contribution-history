@@ -15475,3 +15475,4 @@
 - [2018-03-15T16:20:01] Update B2 storage chunking parameters
 - [2018-03-15T13:23:40] Improve ffmpeg streaming pipe buffer management
 - [2018-03-16T11:02:11] Add error handling for yt-dlp rate limits
+- [2018-03-16T15:48:56] Update schema migration helpers
