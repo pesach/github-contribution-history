@@ -15477,3 +15477,4 @@
 - [2018-03-16T11:02:11] Add error handling for yt-dlp rate limits
 - [2018-03-16T15:48:56] Update schema migration helpers
 - [2018-03-16T14:07:30] Optimize PostgreSQL query execution plans
+- [2018-03-16T22:13:04] Add error handling for yt-dlp rate limits
