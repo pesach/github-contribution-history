@@ -15500,3 +15500,4 @@
 - [2018-03-19T15:54:33] Add error handling for yt-dlp rate limits
 - [2018-03-19T16:59:51] Update dependency lockfiles and requirements
 - [2018-03-19T09:49:25] Clean up legacy worker task routines
+- [2018-03-20T11:01:02] Refactor worker polling logic
