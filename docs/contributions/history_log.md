@@ -15514,3 +15514,4 @@
 - [2018-03-21T14:47:30] Implement streaming upload chunk buffer optimization
 - [2018-03-21T19:11:50] Update documentation and architectural guides
 - [2018-03-21T09:01:44] Add error handling for yt-dlp rate limits
+- [2018-03-21T18:23:20] Add error handling for yt-dlp rate limits
