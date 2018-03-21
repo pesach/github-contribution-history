@@ -15507,3 +15507,4 @@
 - [2018-03-20T14:24:42] Fix edge case in URL parsing and validation
 - [2018-03-20T10:53:33] Add retries for transient network drops
 - [2018-03-20T13:22:35] Enhance dashboard statistics rendering
+- [2018-03-20T21:51:27] Clean up legacy worker task routines
