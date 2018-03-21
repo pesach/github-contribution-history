@@ -15510,3 +15510,4 @@
 - [2018-03-20T21:51:27] Clean up legacy worker task routines
 - [2018-03-21T08:00:01] Clean up legacy worker task routines
 - [2018-03-21T15:18:46] Enhance dashboard statistics rendering
+- [2018-03-21T09:16:53] Add error handling for yt-dlp rate limits
