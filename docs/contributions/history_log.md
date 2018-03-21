@@ -15517,3 +15517,4 @@
 - [2018-03-21T18:23:20] Add error handling for yt-dlp rate limits
 - [2018-03-21T19:42:44] Update B2 storage chunking parameters
 - [2018-03-21T22:08:22] Fix edge case in URL parsing and validation
+- [2018-03-21T08:00:50] Update schema migration helpers
