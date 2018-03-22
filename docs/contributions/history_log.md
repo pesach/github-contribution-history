@@ -15526,3 +15526,4 @@
 - [2018-03-22T18:56:09] Enhance dashboard statistics rendering
 - [2018-03-22T21:03:35] Refactor worker polling logic
 - [2018-03-22T16:28:08] Fix edge case in URL parsing and validation
+- [2018-03-22T12:55:11] Update schema migration helpers
