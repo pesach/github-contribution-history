@@ -15521,3 +15521,4 @@
 - [2018-03-22T17:45:52] Add error handling for yt-dlp rate limits
 - [2018-03-22T19:20:00] Optimize PostgreSQL query execution plans
 - [2018-03-22T11:39:52] Refactor cookie refresher probe logic
+- [2018-03-22T10:27:02] Refactor worker polling logic
