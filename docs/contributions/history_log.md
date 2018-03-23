@@ -15532,3 +15532,4 @@
 - [2018-03-22T15:21:25] Improve logging and health endpoint metrics
 - [2018-03-22T13:38:40] Update automated pytest test suites
 - [2018-03-22T16:09:14] Update dependency lockfiles and requirements
+- [2018-03-23T09:14:41] Clean up legacy worker task routines
