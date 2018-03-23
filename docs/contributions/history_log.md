@@ -15539,3 +15539,4 @@
 - [2018-03-23T08:15:43] Refactor storage upload retry mechanism
 - [2018-03-23T22:37:12] Refactor cookie refresher probe logic
 - [2018-03-23T12:59:16] Optimize PostgreSQL query execution plans
+- [2018-03-23T13:31:28] Refactor worker polling logic
