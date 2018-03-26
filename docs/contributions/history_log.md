@@ -15560,3 +15560,4 @@
 - [2018-03-26T10:36:29] Update schema migration helpers
 - [2018-03-26T12:53:53] Clean up legacy worker task routines
 - [2018-03-26T14:56:40] Improve logging and health endpoint metrics
+- [2018-03-26T12:59:53] Update documentation and architectural guides
