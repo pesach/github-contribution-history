@@ -15557,3 +15557,4 @@
 - [2018-03-26T17:38:23] Clean up legacy worker task routines
 - [2018-03-26T14:43:32] Add retries for transient network drops
 - [2018-03-26T18:51:50] Update schema migration helpers
+- [2018-03-26T10:36:29] Update schema migration helpers
