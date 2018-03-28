@@ -15569,3 +15569,4 @@
 - [2018-03-27T19:44:29] Enhance dashboard statistics rendering
 - [2018-03-28T10:22:23] Refactor cookie refresher probe logic
 - [2018-03-28T18:09:49] Enhance dashboard statistics rendering
+- [2018-03-28T14:16:53] Add error handling for yt-dlp rate limits
