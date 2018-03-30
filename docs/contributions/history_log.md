@@ -15578,3 +15578,4 @@
 - [2018-03-28T15:00:59] Refactor storage upload retry mechanism
 - [2018-03-28T10:48:31] Add Redis rate limit backoff handlers
 - [2018-03-29T21:01:16] Update B2 storage chunking parameters
+- [2018-03-29T22:21:32] Implement streaming upload chunk buffer optimization
