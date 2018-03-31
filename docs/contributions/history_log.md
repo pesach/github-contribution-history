@@ -15584,3 +15584,4 @@
 - [2018-03-29T17:44:30] Update automated pytest test suites
 - [2018-03-29T14:34:38] Refactor worker polling logic
 - [2018-03-30T13:42:01] Improve logging and health endpoint metrics
+- [2018-03-30T20:23:13] Update documentation and architectural guides
