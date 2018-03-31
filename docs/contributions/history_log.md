@@ -15591,3 +15591,4 @@
 - [2018-03-30T09:21:11] Refactor storage upload retry mechanism
 - [2018-03-30T13:02:47] Refactor storage upload retry mechanism
 - [2018-03-30T10:29:13] Improve ffmpeg streaming pipe buffer management
+- [2018-03-30T21:59:15] Refactor worker polling logic
