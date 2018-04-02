@@ -15597,3 +15597,4 @@
 - [2018-04-02T18:19:30] Implement streaming upload chunk buffer optimization
 - [2018-04-02T08:18:53] Add retries for transient network drops
 - [2018-04-02T21:14:18] Fix edge case in channel tab crawler
+- [2018-04-02T13:34:33] Clean up legacy worker task routines
