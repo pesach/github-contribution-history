@@ -15601,3 +15601,4 @@
 - [2018-04-02T15:01:15] Update documentation and architectural guides
 - [2018-04-03T15:29:33] Update automated pytest test suites
 - [2018-04-03T09:41:08] Update documentation and architectural guides
+- [2018-04-03T16:07:32] Clean up legacy worker task routines
