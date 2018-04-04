@@ -15612,3 +15612,4 @@
 - [2018-04-04T12:50:01] Improve logging and health endpoint metrics
 - [2018-04-04T10:01:20] Fix edge case in URL parsing and validation
 - [2018-04-04T16:23:08] Update documentation and architectural guides
+- [2018-04-04T13:28:46] Fix edge case in URL parsing and validation
