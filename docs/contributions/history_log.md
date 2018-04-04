@@ -15605,3 +15605,4 @@
 - [2018-04-03T21:03:51] Fix edge case in channel tab crawler
 - [2018-04-03T12:56:38] Refactor cookie refresher probe logic
 - [2018-04-03T18:08:20] Implement streaming upload chunk buffer optimization
+- [2018-04-04T11:47:02] Improve ffmpeg streaming pipe buffer management
