@@ -15616,3 +15616,4 @@
 - [2018-04-04T09:14:34] Add error handling for yt-dlp rate limits
 - [2018-04-04T17:02:34] Enhance dashboard statistics rendering
 - [2018-04-04T17:25:15] Refactor storage upload retry mechanism
+- [2018-04-04T15:42:21] Update schema migration helpers
