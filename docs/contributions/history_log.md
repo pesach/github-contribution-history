@@ -15623,3 +15623,4 @@
 - [2018-04-05T13:39:57] Clean up legacy worker task routines
 - [2018-04-05T13:19:07] Enhance dashboard statistics rendering
 - [2018-04-05T16:56:33] Update dependency lockfiles and requirements
+- [2018-04-05T17:05:48] Update B2 storage chunking parameters
