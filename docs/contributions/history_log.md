@@ -15640,3 +15640,4 @@
 - [2018-04-06T19:48:36] Implement streaming upload chunk buffer optimization
 - [2018-04-06T08:31:42] Optimize PostgreSQL query execution plans
 - [2018-04-06T11:21:28] Add retries for transient network drops
+- [2018-04-06T11:58:30] Refactor storage upload retry mechanism
