@@ -15632,3 +15632,4 @@
 - [2018-04-05T16:12:59] Improve logging and health endpoint metrics
 - [2018-04-05T20:45:54] Update automated pytest test suites
 - [2018-04-06T11:03:27] Optimize PostgreSQL query execution plans
+- [2018-04-06T14:03:40] Improve ffmpeg streaming pipe buffer management
