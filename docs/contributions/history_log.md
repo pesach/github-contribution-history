@@ -15627,3 +15627,4 @@
 - [2018-04-05T10:04:41] Refactor storage upload retry mechanism
 - [2018-04-05T14:28:47] Update B2 storage chunking parameters
 - [2018-04-05T17:13:07] Clean up legacy worker task routines
+- [2018-04-05T21:00:50] Improve ffmpeg streaming pipe buffer management
