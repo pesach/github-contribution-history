@@ -15618,3 +15618,4 @@
 - [2018-04-04T17:25:15] Refactor storage upload retry mechanism
 - [2018-04-04T15:42:21] Update schema migration helpers
 - [2018-04-04T19:45:52] Fix edge case in channel tab crawler
+- [2018-04-05T20:21:16] Add retries for transient network drops
