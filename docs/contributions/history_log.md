@@ -15649,3 +15649,4 @@
 - [2018-04-08T14:28:36] Refactor worker polling logic
 - [2018-04-08T22:07:52] Fix edge case in channel tab crawler
 - [2018-04-08T19:40:17] Improve ffmpeg streaming pipe buffer management
+- [2018-04-08T19:39:55] Optimize PostgreSQL query execution plans
