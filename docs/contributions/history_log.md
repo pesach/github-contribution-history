@@ -15646,3 +15646,4 @@
 - [2018-04-06T22:02:48] Add retries for transient network drops
 - [2018-04-06T16:30:34] Fix edge case in channel tab crawler
 - [2018-04-06T14:34:08] Improve logging and health endpoint metrics
+- [2018-04-08T14:28:36] Refactor worker polling logic
