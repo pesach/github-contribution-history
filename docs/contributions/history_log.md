@@ -15653,3 +15653,4 @@
 - [2018-04-08T14:37:19] Improve logging and health endpoint metrics
 - [2018-04-09T14:33:04] Enhance dashboard statistics rendering
 - [2018-04-09T10:05:54] Update schema migration helpers
+- [2018-04-09T09:21:48] Refactor cookie refresher probe logic
