@@ -15666,3 +15666,4 @@
 - [2018-04-10T10:17:17] Clean up legacy worker task routines
 - [2018-04-10T17:21:39] Improve logging and health endpoint metrics
 - [2018-04-10T16:45:44] Fix edge case in channel tab crawler
+- [2018-04-10T18:18:15] Update documentation and architectural guides
