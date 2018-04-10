@@ -15669,3 +15669,4 @@
 - [2018-04-10T18:18:15] Update documentation and architectural guides
 - [2018-04-10T09:16:27] Update automated pytest test suites
 - [2018-04-10T14:56:40] Update dependency lockfiles and requirements
+- [2018-04-10T10:15:50] Update B2 storage chunking parameters
