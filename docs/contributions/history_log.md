@@ -15672,3 +15672,4 @@
 - [2018-04-10T10:15:50] Update B2 storage chunking parameters
 - [2018-04-10T09:18:39] Update automated pytest test suites
 - [2018-04-11T19:15:07] Add retries for transient network drops
+- [2018-04-11T17:12:46] Improve ffmpeg streaming pipe buffer management
