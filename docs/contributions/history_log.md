@@ -15676,3 +15676,4 @@
 - [2018-04-11T14:31:27] Improve logging and health endpoint metrics
 - [2018-04-11T15:02:21] Update dependency lockfiles and requirements
 - [2018-04-11T13:32:50] Optimize PostgreSQL query execution plans
+- [2018-04-11T17:25:24] Add Prometheus exporter endpoints for queue length
