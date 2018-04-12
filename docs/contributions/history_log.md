@@ -15679,3 +15679,4 @@
 - [2018-04-11T17:25:24] Add Prometheus exporter endpoints for queue length
 - [2018-04-11T19:05:09] Enhance dashboard statistics rendering
 - [2018-04-11T10:01:33] Refactor storage upload retry mechanism
+- [2018-04-12T17:10:03] Enhance dashboard statistics rendering
