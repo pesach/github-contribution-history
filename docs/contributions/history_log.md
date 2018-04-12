@@ -15680,3 +15680,4 @@
 - [2018-04-11T19:05:09] Enhance dashboard statistics rendering
 - [2018-04-11T10:01:33] Refactor storage upload retry mechanism
 - [2018-04-12T17:10:03] Enhance dashboard statistics rendering
+- [2018-04-12T13:04:02] Fix edge case in channel tab crawler
