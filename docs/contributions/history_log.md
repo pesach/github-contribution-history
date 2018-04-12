@@ -15684,3 +15684,4 @@
 - [2018-04-12T09:31:58] Implement streaming upload chunk buffer optimization
 - [2018-04-12T14:38:25] Refactor storage upload retry mechanism
 - [2018-04-12T13:18:54] Add error handling for yt-dlp rate limits
+- [2018-04-12T15:33:47] Improve ffmpeg streaming pipe buffer management
