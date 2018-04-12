@@ -15687,3 +15687,4 @@
 - [2018-04-12T15:33:47] Improve ffmpeg streaming pipe buffer management
 - [2018-04-12T16:01:02] Clean up legacy worker task routines
 - [2018-04-12T18:58:21] Fix edge case in channel tab crawler
+- [2018-04-12T15:57:35] Update dependency lockfiles and requirements
