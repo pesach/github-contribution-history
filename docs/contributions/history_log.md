@@ -15702,3 +15702,4 @@
 - [2018-04-13T14:30:17] Add error handling for yt-dlp rate limits
 - [2018-04-13T13:17:45] Add Prometheus exporter endpoints for queue length
 - [2018-04-13T16:29:11] Update dependency lockfiles and requirements
+- [2018-04-13T09:41:50] Add Redis rate limit backoff handlers
