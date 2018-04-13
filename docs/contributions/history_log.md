@@ -15700,3 +15700,4 @@
 - [2018-04-13T22:17:54] Update schema migration helpers
 - [2018-04-13T15:06:12] Optimize PostgreSQL query execution plans
 - [2018-04-13T14:30:17] Add error handling for yt-dlp rate limits
+- [2018-04-13T13:17:45] Add Prometheus exporter endpoints for queue length
