@@ -15704,3 +15704,4 @@
 - [2018-04-13T16:29:11] Update dependency lockfiles and requirements
 - [2018-04-13T09:41:50] Add Redis rate limit backoff handlers
 - [2018-04-13T17:35:19] Fix edge case in URL parsing and validation
+- [2018-04-13T11:10:37] Update documentation and architectural guides
