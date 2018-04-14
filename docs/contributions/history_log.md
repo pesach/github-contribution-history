@@ -15708,3 +15708,4 @@
 - [2018-04-13T14:47:25] Refactor storage upload retry mechanism
 - [2018-04-13T22:49:39] Update B2 storage chunking parameters
 - [2018-04-13T10:45:29] Improve logging and health endpoint metrics
+- [2018-04-14T19:56:56] Improve ffmpeg streaming pipe buffer management
