@@ -15706,3 +15706,4 @@
 - [2018-04-13T17:35:19] Fix edge case in URL parsing and validation
 - [2018-04-13T11:10:37] Update documentation and architectural guides
 - [2018-04-13T14:47:25] Refactor storage upload retry mechanism
+- [2018-04-13T22:49:39] Update B2 storage chunking parameters
