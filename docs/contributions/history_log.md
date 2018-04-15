@@ -15712,3 +15712,4 @@
 - [2018-04-14T12:09:25] Implement streaming upload chunk buffer optimization
 - [2018-04-14T19:18:24] Fix edge case in channel tab crawler
 - [2018-04-14T18:47:06] Refactor cookie refresher probe logic
+- [2018-04-14T22:43:33] Update B2 storage chunking parameters
