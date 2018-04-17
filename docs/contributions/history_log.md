@@ -15729,3 +15729,4 @@
 - [2018-04-16T17:40:46] Fix edge case in channel tab crawler
 - [2018-04-16T12:47:23] Update B2 storage chunking parameters
 - [2018-04-17T12:23:09] Update dependency lockfiles and requirements
+- [2018-04-17T12:43:05] Refactor worker polling logic
