@@ -15730,3 +15730,4 @@
 - [2018-04-16T12:47:23] Update B2 storage chunking parameters
 - [2018-04-17T12:23:09] Update dependency lockfiles and requirements
 - [2018-04-17T12:43:05] Refactor worker polling logic
+- [2018-04-17T08:24:55] Implement streaming upload chunk buffer optimization
