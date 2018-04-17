@@ -15733,3 +15733,4 @@
 - [2018-04-17T08:24:55] Implement streaming upload chunk buffer optimization
 - [2018-04-17T17:39:58] Improve ffmpeg streaming pipe buffer management
 - [2018-04-17T16:36:17] Refactor cookie refresher probe logic
+- [2018-04-17T13:05:03] Update B2 storage chunking parameters
