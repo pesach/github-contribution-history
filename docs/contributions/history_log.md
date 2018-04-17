@@ -15714,3 +15714,4 @@
 - [2018-04-14T18:47:06] Refactor cookie refresher probe logic
 - [2018-04-14T22:43:33] Update B2 storage chunking parameters
 - [2018-04-16T22:07:54] Clean up legacy worker task routines
+- [2018-04-16T21:40:59] Refactor storage upload retry mechanism
