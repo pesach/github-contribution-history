@@ -15739,3 +15739,4 @@
 - [2018-04-18T20:49:05] Fix edge case in URL parsing and validation
 - [2018-04-18T08:39:07] Improve ffmpeg streaming pipe buffer management
 - [2018-04-18T19:25:20] Add retries for transient network drops
+- [2018-04-18T10:08:38] Add Prometheus exporter endpoints for queue length
