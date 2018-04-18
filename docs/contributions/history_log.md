@@ -15734,3 +15734,4 @@
 - [2018-04-17T17:39:58] Improve ffmpeg streaming pipe buffer management
 - [2018-04-17T16:36:17] Refactor cookie refresher probe logic
 - [2018-04-17T13:05:03] Update B2 storage chunking parameters
+- [2018-04-18T19:28:25] Fix edge case in URL parsing and validation
