@@ -15735,3 +15735,4 @@
 - [2018-04-17T16:36:17] Refactor cookie refresher probe logic
 - [2018-04-17T13:05:03] Update B2 storage chunking parameters
 - [2018-04-18T19:28:25] Fix edge case in URL parsing and validation
+- [2018-04-18T18:31:37] Add error handling for yt-dlp rate limits
