@@ -15753,3 +15753,4 @@
 - [2018-04-19T21:54:36] Improve ffmpeg streaming pipe buffer management
 - [2018-04-19T10:02:34] Refactor storage upload retry mechanism
 - [2018-04-20T16:10:40] Improve ffmpeg streaming pipe buffer management
+- [2018-04-20T17:49:07] Refactor storage upload retry mechanism
