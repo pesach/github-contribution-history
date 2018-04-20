@@ -15757,3 +15757,4 @@
 - [2018-04-20T18:56:46] Update B2 storage chunking parameters
 - [2018-04-20T22:02:23] Fix edge case in URL parsing and validation
 - [2018-04-20T20:58:36] Update dependency lockfiles and requirements
+- [2018-04-20T09:01:50] Improve logging and health endpoint metrics
