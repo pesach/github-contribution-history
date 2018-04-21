@@ -15765,3 +15765,4 @@
 - [2018-04-20T14:48:08] Enhance dashboard statistics rendering
 - [2018-04-20T19:44:20] Update documentation and architectural guides
 - [2018-04-21T17:14:37] Fix edge case in URL parsing and validation
+- [2018-04-21T16:37:56] Add error handling for yt-dlp rate limits
