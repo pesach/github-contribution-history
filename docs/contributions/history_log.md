@@ -15768,3 +15768,4 @@
 - [2018-04-21T16:37:56] Add error handling for yt-dlp rate limits
 - [2018-04-21T13:33:02] Refactor cookie refresher probe logic
 - [2018-04-21T12:26:34] Enhance dashboard statistics rendering
+- [2018-04-21T08:02:19] Update schema migration helpers
