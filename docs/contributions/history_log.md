@@ -15783,3 +15783,4 @@
 - [2018-04-23T14:16:04] Fix edge case in URL parsing and validation
 - [2018-04-23T12:41:03] Update dependency lockfiles and requirements
 - [2018-04-23T20:27:33] Add retries for transient network drops
+- [2018-04-23T18:01:34] Refactor storage upload retry mechanism
