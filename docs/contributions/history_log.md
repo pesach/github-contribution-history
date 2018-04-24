@@ -15789,3 +15789,4 @@
 - [2018-04-24T13:06:13] Optimize PostgreSQL query execution plans
 - [2018-04-24T22:09:17] Add Prometheus exporter endpoints for queue length
 - [2018-04-24T20:41:11] Fix edge case in channel tab crawler
+- [2018-04-24T18:21:51] Update B2 storage chunking parameters
