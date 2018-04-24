@@ -15775,3 +15775,4 @@
 - [2018-04-22T17:49:52] Update documentation and architectural guides
 - [2018-04-22T09:57:59] Improve logging and health endpoint metrics
 - [2018-04-22T19:36:30] Clean up legacy worker task routines
+- [2018-04-23T20:24:14] Fix edge case in channel tab crawler
