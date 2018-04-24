@@ -15779,3 +15779,4 @@
 - [2018-04-23T14:33:52] Clean up legacy worker task routines
 - [2018-04-23T22:04:24] Add Redis rate limit backoff handlers
 - [2018-04-23T14:12:13] Improve logging and health endpoint metrics
+- [2018-04-23T21:27:22] Update schema migration helpers
