@@ -15802,3 +15802,4 @@
 - [2018-04-25T21:31:07] Clean up legacy worker task routines
 - [2018-04-25T19:47:57] Implement streaming upload chunk buffer optimization
 - [2018-04-25T09:49:16] Fix edge case in URL parsing and validation
+- [2018-04-25T16:04:41] Add retries for transient network drops
