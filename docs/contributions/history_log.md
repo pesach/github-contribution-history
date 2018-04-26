@@ -15810,3 +15810,4 @@
 - [2018-04-26T08:38:55] Fix edge case in URL parsing and validation
 - [2018-04-26T19:03:38] Refactor worker polling logic
 - [2018-04-26T08:56:47] Add Prometheus exporter endpoints for queue length
+- [2018-04-26T15:10:22] Improve ffmpeg streaming pipe buffer management
