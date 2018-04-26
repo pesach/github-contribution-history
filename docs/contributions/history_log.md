@@ -15808,3 +15808,4 @@
 - [2018-04-26T19:34:30] Implement streaming upload chunk buffer optimization
 - [2018-04-26T11:22:10] Update automated pytest test suites
 - [2018-04-26T08:38:55] Fix edge case in URL parsing and validation
+- [2018-04-26T19:03:38] Refactor worker polling logic
