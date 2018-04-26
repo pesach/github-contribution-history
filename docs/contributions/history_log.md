@@ -15799,3 +15799,4 @@
 - [2018-04-24T18:45:04] Update documentation and architectural guides
 - [2018-04-25T10:16:36] Add retries for transient network drops
 - [2018-04-25T17:23:00] Add retries for transient network drops
+- [2018-04-25T21:31:07] Clean up legacy worker task routines
