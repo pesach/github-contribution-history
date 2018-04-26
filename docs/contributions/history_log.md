@@ -15814,3 +15814,4 @@
 - [2018-04-26T13:50:30] Improve logging and health endpoint metrics
 - [2018-04-26T12:13:08] Fix edge case in URL parsing and validation
 - [2018-04-26T20:34:14] Fix edge case in channel tab crawler
+- [2018-04-26T10:10:33] Update schema migration helpers
