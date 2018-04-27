@@ -15804,3 +15804,4 @@
 - [2018-04-25T09:49:16] Fix edge case in URL parsing and validation
 - [2018-04-25T16:04:41] Add retries for transient network drops
 - [2018-04-25T17:36:17] Add Prometheus exporter endpoints for queue length
+- [2018-04-26T22:18:00] Fix edge case in URL parsing and validation
