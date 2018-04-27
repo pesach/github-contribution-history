@@ -15819,3 +15819,4 @@
 - [2018-04-26T14:26:02] Add Redis rate limit backoff handlers
 - [2018-04-26T14:19:52] Update schema migration helpers
 - [2018-04-26T15:29:33] Enhance dashboard statistics rendering
+- [2018-04-27T10:04:23] Clean up legacy worker task routines
