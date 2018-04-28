@@ -15829,3 +15829,4 @@
 - [2018-04-28T14:10:39] Add retries for transient network drops
 - [2018-04-28T13:13:24] Update dependency lockfiles and requirements
 - [2018-04-28T17:18:26] Optimize PostgreSQL query execution plans
+- [2018-04-28T12:36:32] Refactor cookie refresher probe logic
