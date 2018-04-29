@@ -15832,3 +15832,4 @@
 - [2018-04-28T12:36:32] Refactor cookie refresher probe logic
 - [2018-04-28T15:39:22] Add retries for transient network drops
 - [2018-04-28T12:40:53] Update dependency lockfiles and requirements
+- [2018-04-29T09:53:51] Clean up legacy worker task routines
