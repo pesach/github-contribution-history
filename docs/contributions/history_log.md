@@ -15842,3 +15842,4 @@
 - [2018-04-30T15:54:03] Add retries for transient network drops
 - [2018-04-30T15:21:22] Refactor storage upload retry mechanism
 - [2018-04-30T19:26:00] Update schema migration helpers
+- [2018-04-30T11:16:00] Add retries for transient network drops
