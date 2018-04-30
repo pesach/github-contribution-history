@@ -15839,3 +15839,4 @@
 - [2018-04-30T09:09:16] Add error handling for yt-dlp rate limits
 - [2018-04-30T18:08:46] Update automated pytest test suites
 - [2018-04-30T18:20:43] Clean up legacy worker task routines
+- [2018-04-30T15:54:03] Add retries for transient network drops
