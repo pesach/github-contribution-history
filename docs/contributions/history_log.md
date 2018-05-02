@@ -15851,3 +15851,4 @@
 - [2018-05-01T20:08:48] Improve logging and health endpoint metrics
 - [2018-05-01T15:39:32] Refactor storage upload retry mechanism
 - [2018-05-01T10:32:40] Add retries for transient network drops
+- [2018-05-02T17:18:10] Update schema migration helpers
