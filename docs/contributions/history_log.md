@@ -15854,3 +15854,4 @@
 - [2018-05-02T17:18:10] Update schema migration helpers
 - [2018-05-02T19:49:44] Fix edge case in URL parsing and validation
 - [2018-05-02T20:10:09] Add error handling for yt-dlp rate limits
+- [2018-05-02T14:23:01] Optimize PostgreSQL query execution plans
