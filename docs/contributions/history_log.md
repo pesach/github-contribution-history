@@ -15865,3 +15865,4 @@
 - [2018-05-03T16:12:52] Clean up legacy worker task routines
 - [2018-05-03T13:55:50] Clean up legacy worker task routines
 - [2018-05-03T10:10:20] Fix edge case in URL parsing and validation
+- [2018-05-03T12:45:27] Update schema migration helpers
