@@ -15863,3 +15863,4 @@
 - [2018-05-03T10:13:28] Refactor worker polling logic
 - [2018-05-03T14:09:36] Refactor cookie refresher probe logic
 - [2018-05-03T16:12:52] Clean up legacy worker task routines
+- [2018-05-03T13:55:50] Clean up legacy worker task routines
