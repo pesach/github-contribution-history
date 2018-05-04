@@ -15881,3 +15881,4 @@
 - [2018-05-04T08:06:51] Update dependency lockfiles and requirements
 - [2018-05-04T19:19:54] Improve logging and health endpoint metrics
 - [2018-05-04T13:04:12] Clean up legacy worker task routines
+- [2018-05-04T15:10:46] Fix edge case in channel tab crawler
