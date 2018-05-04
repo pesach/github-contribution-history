@@ -15879,3 +15879,4 @@
 - [2018-05-04T18:07:26] Refactor storage upload retry mechanism
 - [2018-05-04T21:41:57] Add Prometheus exporter endpoints for queue length
 - [2018-05-04T08:06:51] Update dependency lockfiles and requirements
+- [2018-05-04T19:19:54] Improve logging and health endpoint metrics
