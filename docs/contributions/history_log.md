@@ -15873,3 +15873,4 @@
 - [2018-05-04T08:59:46] Update documentation and architectural guides
 - [2018-05-04T21:27:32] Optimize PostgreSQL query execution plans
 - [2018-05-04T13:50:52] Improve logging and health endpoint metrics
+- [2018-05-04T11:24:07] Improve ffmpeg streaming pipe buffer management
