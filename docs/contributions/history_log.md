@@ -15875,3 +15875,4 @@
 - [2018-05-04T13:50:52] Improve logging and health endpoint metrics
 - [2018-05-04T11:24:07] Improve ffmpeg streaming pipe buffer management
 - [2018-05-04T20:15:38] Update schema migration helpers
+- [2018-05-04T09:21:05] Enhance dashboard statistics rendering
