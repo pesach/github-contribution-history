@@ -15882,3 +15882,4 @@
 - [2018-05-04T19:19:54] Improve logging and health endpoint metrics
 - [2018-05-04T13:04:12] Clean up legacy worker task routines
 - [2018-05-04T15:10:46] Fix edge case in channel tab crawler
+- [2018-05-06T16:39:51] Update B2 storage chunking parameters
