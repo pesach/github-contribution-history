@@ -15893,3 +15893,4 @@
 - [2018-05-07T15:58:49] Update automated pytest test suites
 - [2018-05-07T16:21:15] Add Prometheus exporter endpoints for queue length
 - [2018-05-07T19:04:00] Fix edge case in channel tab crawler
+- [2018-05-07T18:12:48] Optimize PostgreSQL query execution plans
