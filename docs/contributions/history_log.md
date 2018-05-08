@@ -15895,3 +15895,4 @@
 - [2018-05-07T19:04:00] Fix edge case in channel tab crawler
 - [2018-05-07T18:12:48] Optimize PostgreSQL query execution plans
 - [2018-05-07T13:13:44] Add retries for transient network drops
+- [2018-05-08T10:52:58] Update dependency lockfiles and requirements
