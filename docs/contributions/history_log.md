@@ -15900,3 +15900,4 @@
 - [2018-05-08T21:01:06] Update automated pytest test suites
 - [2018-05-08T20:59:23] Update documentation and architectural guides
 - [2018-05-08T14:48:45] Update schema migration helpers
+- [2018-05-08T09:54:47] Refactor worker polling logic
