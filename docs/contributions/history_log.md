@@ -15904,3 +15904,4 @@
 - [2018-05-08T11:27:06] Add Prometheus exporter endpoints for queue length
 - [2018-05-08T17:29:04] Update automated pytest test suites
 - [2018-05-08T13:14:19] Refactor worker polling logic
+- [2018-05-08T17:12:17] Add Redis rate limit backoff handlers
