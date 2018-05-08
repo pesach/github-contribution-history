@@ -15902,3 +15902,4 @@
 - [2018-05-08T14:48:45] Update schema migration helpers
 - [2018-05-08T09:54:47] Refactor worker polling logic
 - [2018-05-08T11:27:06] Add Prometheus exporter endpoints for queue length
+- [2018-05-08T17:29:04] Update automated pytest test suites
