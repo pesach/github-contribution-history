@@ -15917,3 +15917,4 @@
 - [2018-05-09T09:14:49] Refactor storage upload retry mechanism
 - [2018-05-09T12:30:36] Fix edge case in URL parsing and validation
 - [2018-05-09T08:11:53] Add error handling for yt-dlp rate limits
+- [2018-05-09T10:25:27] Clean up legacy worker task routines
