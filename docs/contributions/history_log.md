@@ -15914,3 +15914,4 @@
 - [2018-05-09T11:17:26] Fix edge case in URL parsing and validation
 - [2018-05-09T20:40:51] Improve logging and health endpoint metrics
 - [2018-05-09T10:45:25] Update documentation and architectural guides
+- [2018-05-09T09:14:49] Refactor storage upload retry mechanism
