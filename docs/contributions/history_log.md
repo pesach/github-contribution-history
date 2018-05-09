@@ -15911,3 +15911,4 @@
 - [2018-05-08T12:53:26] Enhance dashboard statistics rendering
 - [2018-05-09T15:42:08] Enhance dashboard statistics rendering
 - [2018-05-09T19:58:14] Refactor cookie refresher probe logic
+- [2018-05-09T11:17:26] Fix edge case in URL parsing and validation
