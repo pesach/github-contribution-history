@@ -15920,3 +15920,4 @@
 - [2018-05-09T10:25:27] Clean up legacy worker task routines
 - [2018-05-09T21:42:34] Refactor cookie refresher probe logic
 - [2018-05-09T15:09:03] Enhance dashboard statistics rendering
+- [2018-05-10T15:41:14] Fix edge case in URL parsing and validation
