@@ -15926,3 +15926,4 @@
 - [2018-05-10T15:54:26] Improve ffmpeg streaming pipe buffer management
 - [2018-05-10T09:57:36] Update B2 storage chunking parameters
 - [2018-05-10T21:21:39] Update B2 storage chunking parameters
+- [2018-05-10T10:21:34] Update schema migration helpers
