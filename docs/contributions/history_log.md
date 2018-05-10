@@ -15921,3 +15921,4 @@
 - [2018-05-09T21:42:34] Refactor cookie refresher probe logic
 - [2018-05-09T15:09:03] Enhance dashboard statistics rendering
 - [2018-05-10T15:41:14] Fix edge case in URL parsing and validation
+- [2018-05-10T08:48:42] Add Prometheus exporter endpoints for queue length
