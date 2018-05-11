@@ -15934,3 +15934,4 @@
 - [2018-05-11T15:24:26] Improve ffmpeg streaming pipe buffer management
 - [2018-05-11T18:04:34] Add retries for transient network drops
 - [2018-05-11T15:59:51] Fix edge case in channel tab crawler
+- [2018-05-11T19:02:44] Refactor worker polling logic
