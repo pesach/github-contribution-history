@@ -15940,3 +15940,4 @@
 - [2018-05-11T20:13:39] Add retries for transient network drops
 - [2018-05-11T21:16:26] Update automated pytest test suites
 - [2018-05-11T21:57:03] Update B2 storage chunking parameters
+- [2018-05-11T13:13:43] Update B2 storage chunking parameters
