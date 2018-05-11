@@ -15929,3 +15929,4 @@
 - [2018-05-10T10:21:34] Update schema migration helpers
 - [2018-05-10T08:58:04] Refactor worker polling logic
 - [2018-05-11T21:44:57] Update B2 storage chunking parameters
+- [2018-05-11T11:36:16] Update B2 storage chunking parameters
