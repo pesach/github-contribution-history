@@ -15933,3 +15933,4 @@
 - [2018-05-11T20:48:16] Improve ffmpeg streaming pipe buffer management
 - [2018-05-11T15:24:26] Improve ffmpeg streaming pipe buffer management
 - [2018-05-11T18:04:34] Add retries for transient network drops
+- [2018-05-11T15:59:51] Fix edge case in channel tab crawler
