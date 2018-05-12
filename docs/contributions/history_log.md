@@ -15942,3 +15942,4 @@
 - [2018-05-11T21:57:03] Update B2 storage chunking parameters
 - [2018-05-11T13:13:43] Update B2 storage chunking parameters
 - [2018-05-11T19:39:53] Implement streaming upload chunk buffer optimization
+- [2018-05-12T14:54:58] Update schema migration helpers
