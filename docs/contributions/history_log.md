@@ -15946,3 +15946,4 @@
 - [2018-05-12T08:56:07] Update documentation and architectural guides
 - [2018-05-12T19:33:23] Enhance dashboard statistics rendering
 - [2018-05-12T09:06:52] Refactor cookie refresher probe logic
+- [2018-05-12T15:43:15] Refactor worker polling logic
