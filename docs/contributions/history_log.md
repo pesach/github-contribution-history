@@ -15947,3 +15947,4 @@
 - [2018-05-12T19:33:23] Enhance dashboard statistics rendering
 - [2018-05-12T09:06:52] Refactor cookie refresher probe logic
 - [2018-05-12T15:43:15] Refactor worker polling logic
+- [2018-05-12T15:46:17] Clean up legacy worker task routines
