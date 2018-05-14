@@ -15957,3 +15957,4 @@
 - [2018-05-14T18:26:51] Update dependency lockfiles and requirements
 - [2018-05-14T08:02:40] Refactor storage upload retry mechanism
 - [2018-05-14T10:47:53] Update automated pytest test suites
+- [2018-05-14T08:39:50] Improve ffmpeg streaming pipe buffer management
