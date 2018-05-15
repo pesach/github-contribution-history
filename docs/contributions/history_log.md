@@ -15963,3 +15963,4 @@
 - [2018-05-14T08:27:29] Update documentation and architectural guides
 - [2018-05-14T16:03:48] Improve ffmpeg streaming pipe buffer management
 - [2018-05-14T09:35:39] Add Prometheus exporter endpoints for queue length
+- [2018-05-15T18:15:47] Add error handling for yt-dlp rate limits
