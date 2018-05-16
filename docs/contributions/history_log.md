@@ -15979,3 +15979,4 @@
 - [2018-05-16T09:31:30] Update schema migration helpers
 - [2018-05-16T21:14:19] Fix edge case in channel tab crawler
 - [2018-05-16T22:10:20] Update documentation and architectural guides
+- [2018-05-16T15:42:47] Update B2 storage chunking parameters
