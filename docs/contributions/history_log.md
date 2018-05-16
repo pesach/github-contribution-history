@@ -15972,3 +15972,4 @@
 - [2018-05-16T19:00:19] Enhance dashboard statistics rendering
 - [2018-05-16T16:26:10] Add error handling for yt-dlp rate limits
 - [2018-05-16T09:13:54] Refactor storage upload retry mechanism
+- [2018-05-16T11:15:16] Add Redis rate limit backoff handlers
