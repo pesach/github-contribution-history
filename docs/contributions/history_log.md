@@ -15975,3 +15975,4 @@
 - [2018-05-16T11:15:16] Add Redis rate limit backoff handlers
 - [2018-05-16T14:06:11] Update schema migration helpers
 - [2018-05-16T15:04:52] Clean up legacy worker task routines
+- [2018-05-16T17:00:31] Clean up legacy worker task routines
