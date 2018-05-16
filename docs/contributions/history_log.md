@@ -15970,3 +15970,4 @@
 - [2018-05-15T14:35:27] Refactor cookie refresher probe logic
 - [2018-05-15T21:31:13] Update automated pytest test suites
 - [2018-05-16T19:00:19] Enhance dashboard statistics rendering
+- [2018-05-16T16:26:10] Add error handling for yt-dlp rate limits
