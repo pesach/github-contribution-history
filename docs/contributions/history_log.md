@@ -15977,3 +15977,4 @@
 - [2018-05-16T15:04:52] Clean up legacy worker task routines
 - [2018-05-16T17:00:31] Clean up legacy worker task routines
 - [2018-05-16T09:31:30] Update schema migration helpers
+- [2018-05-16T21:14:19] Fix edge case in channel tab crawler
