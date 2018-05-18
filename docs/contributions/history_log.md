@@ -15998,3 +15998,4 @@
 - [2018-05-18T14:30:47] Refactor storage upload retry mechanism
 - [2018-05-18T21:54:00] Add retries for transient network drops
 - [2018-05-18T20:44:40] Improve ffmpeg streaming pipe buffer management
+- [2018-05-18T14:00:33] Fix edge case in URL parsing and validation
