@@ -15991,3 +15991,4 @@
 - [2018-05-17T10:49:23] Improve ffmpeg streaming pipe buffer management
 - [2018-05-17T22:19:16] Fix edge case in URL parsing and validation
 - [2018-05-17T22:20:04] Refactor worker polling logic
+- [2018-05-17T22:51:25] Update schema migration helpers
