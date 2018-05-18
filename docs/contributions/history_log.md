@@ -15981,3 +15981,4 @@
 - [2018-05-16T22:10:20] Update documentation and architectural guides
 - [2018-05-16T15:42:47] Update B2 storage chunking parameters
 - [2018-05-16T20:07:03] Update schema migration helpers
+- [2018-05-17T20:46:57] Update dependency lockfiles and requirements
