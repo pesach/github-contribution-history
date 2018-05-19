@@ -16006,3 +16006,4 @@
 - [2018-05-18T20:07:22] Update automated pytest test suites
 - [2018-05-19T19:12:44] Refactor worker polling logic
 - [2018-05-19T21:56:28] Add retries for transient network drops
+- [2018-05-19T14:21:56] Improve ffmpeg streaming pipe buffer management
