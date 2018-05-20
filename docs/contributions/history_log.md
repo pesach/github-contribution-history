@@ -16005,3 +16005,4 @@
 - [2018-05-18T12:13:21] Update B2 storage chunking parameters
 - [2018-05-18T20:07:22] Update automated pytest test suites
 - [2018-05-19T19:12:44] Refactor worker polling logic
+- [2018-05-19T21:56:28] Add retries for transient network drops
