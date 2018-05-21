@@ -16026,3 +16026,4 @@
 - [2018-05-21T22:00:59] Add error handling for yt-dlp rate limits
 - [2018-05-21T16:05:54] Add error handling for yt-dlp rate limits
 - [2018-05-21T11:20:09] Improve logging and health endpoint metrics
+- [2018-05-21T11:26:58] Fix edge case in URL parsing and validation
