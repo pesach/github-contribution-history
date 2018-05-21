@@ -16016,3 +16016,4 @@
 - [2018-05-21T10:14:32] Optimize PostgreSQL query execution plans
 - [2018-05-21T20:51:41] Update B2 storage chunking parameters
 - [2018-05-21T17:20:47] Add retries for transient network drops
+- [2018-05-21T16:48:19] Add Prometheus exporter endpoints for queue length
