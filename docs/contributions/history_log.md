@@ -16013,3 +16013,4 @@
 - [2018-05-20T13:04:39] Fix edge case in channel tab crawler
 - [2018-05-20T22:59:38] Update dependency lockfiles and requirements
 - [2018-05-20T08:01:43] Implement streaming upload chunk buffer optimization
+- [2018-05-21T10:14:32] Optimize PostgreSQL query execution plans
