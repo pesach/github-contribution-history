@@ -16033,3 +16033,4 @@
 - [2018-05-22T22:15:37] Refactor storage upload retry mechanism
 - [2018-05-22T20:25:05] Refactor worker polling logic
 - [2018-05-22T12:27:10] Add Prometheus exporter endpoints for queue length
+- [2018-05-22T12:16:17] Clean up legacy worker task routines
