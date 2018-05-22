@@ -16023,3 +16023,4 @@
 - [2018-05-21T19:10:19] Add Prometheus exporter endpoints for queue length
 - [2018-05-21T10:45:41] Update B2 storage chunking parameters
 - [2018-05-21T22:20:20] Improve logging and health endpoint metrics
+- [2018-05-21T22:00:59] Add error handling for yt-dlp rate limits
