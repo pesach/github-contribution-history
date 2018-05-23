@@ -16048,3 +16048,4 @@
 - [2018-05-23T13:19:35] Optimize PostgreSQL query execution plans
 - [2018-05-23T17:24:18] Update schema migration helpers
 - [2018-05-23T11:19:30] Optimize PostgreSQL query execution plans
+- [2018-05-23T12:49:55] Fix edge case in channel tab crawler
