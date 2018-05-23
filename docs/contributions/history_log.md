@@ -16045,3 +16045,4 @@
 - [2018-05-23T15:00:50] Update dependency lockfiles and requirements
 - [2018-05-23T21:27:56] Update dependency lockfiles and requirements
 - [2018-05-23T19:57:41] Fix edge case in URL parsing and validation
+- [2018-05-23T13:19:35] Optimize PostgreSQL query execution plans
