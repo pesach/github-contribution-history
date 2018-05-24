@@ -16058,3 +16058,4 @@
 - [2018-05-24T21:24:30] Refactor cookie refresher probe logic
 - [2018-05-24T21:36:55] Improve ffmpeg streaming pipe buffer management
 - [2018-05-24T13:26:39] Update B2 storage chunking parameters
+- [2018-05-24T09:06:39] Add error handling for yt-dlp rate limits
