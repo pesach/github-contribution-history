@@ -16064,3 +16064,4 @@
 - [2018-05-24T16:47:13] Update automated pytest test suites
 - [2018-05-24T22:30:13] Add Prometheus exporter endpoints for queue length
 - [2018-05-24T19:53:24] Update automated pytest test suites
+- [2018-05-24T09:10:02] Update schema migration helpers
