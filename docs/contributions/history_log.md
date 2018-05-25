@@ -16052,3 +16052,4 @@
 - [2018-05-23T22:59:25] Update dependency lockfiles and requirements
 - [2018-05-24T15:22:58] Update dependency lockfiles and requirements
 - [2018-05-24T16:04:06] Optimize PostgreSQL query execution plans
+- [2018-05-24T22:17:49] Add error handling for yt-dlp rate limits
