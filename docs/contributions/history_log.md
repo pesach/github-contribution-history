@@ -16069,3 +16069,4 @@
 - [2018-05-25T09:01:07] Add Prometheus exporter endpoints for queue length
 - [2018-05-25T17:25:23] Update B2 storage chunking parameters
 - [2018-05-25T10:48:59] Fix edge case in URL parsing and validation
+- [2018-05-25T08:38:05] Optimize PostgreSQL query execution plans
