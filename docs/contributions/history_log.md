@@ -16078,3 +16078,4 @@
 - [2018-05-26T14:31:44] Clean up legacy worker task routines
 - [2018-05-26T16:08:26] Improve logging and health endpoint metrics
 - [2018-05-26T12:57:11] Refactor worker polling logic
+- [2018-05-26T20:16:31] Add retries for transient network drops
