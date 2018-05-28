@@ -16082,3 +16082,4 @@
 - [2018-05-28T12:14:15] Refactor worker polling logic
 - [2018-05-28T20:17:33] Improve logging and health endpoint metrics
 - [2018-05-28T12:24:33] Update automated pytest test suites
+- [2018-05-28T19:50:33] Fix edge case in channel tab crawler
