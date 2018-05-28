@@ -16083,3 +16083,4 @@
 - [2018-05-28T20:17:33] Improve logging and health endpoint metrics
 - [2018-05-28T12:24:33] Update automated pytest test suites
 - [2018-05-28T19:50:33] Fix edge case in channel tab crawler
+- [2018-05-28T17:10:00] Refactor cookie refresher probe logic
