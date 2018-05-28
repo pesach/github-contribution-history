@@ -16086,3 +16086,4 @@
 - [2018-05-28T17:10:00] Refactor cookie refresher probe logic
 - [2018-05-28T15:24:37] Refactor worker polling logic
 - [2018-05-28T13:38:52] Update B2 storage chunking parameters
+- [2018-05-28T15:07:25] Add error handling for yt-dlp rate limits
