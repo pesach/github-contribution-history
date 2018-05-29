@@ -16094,3 +16094,4 @@
 - [2018-05-29T22:38:27] Refactor worker polling logic
 - [2018-05-29T11:01:59] Update B2 storage chunking parameters
 - [2018-05-29T10:28:38] Enhance dashboard statistics rendering
+- [2018-05-29T11:59:24] Clean up legacy worker task routines
