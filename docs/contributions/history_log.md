@@ -16110,3 +16110,4 @@
 - [2018-05-31T21:29:35] Update B2 storage chunking parameters
 - [2018-05-31T22:53:58] Update automated pytest test suites
 - [2018-05-31T18:29:26] Clean up legacy worker task routines
+- [2018-06-01T19:24:10] Clean up legacy worker task routines
