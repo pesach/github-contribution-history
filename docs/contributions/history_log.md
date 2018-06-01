@@ -16117,3 +16117,4 @@
 - [2018-06-01T19:13:21] Enhance dashboard statistics rendering
 - [2018-06-01T13:27:14] Enhance dashboard statistics rendering
 - [2018-06-01T20:31:18] Update dependency lockfiles and requirements
+- [2018-06-01T09:52:35] Update schema migration helpers
