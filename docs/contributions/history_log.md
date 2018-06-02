@@ -16120,3 +16120,4 @@
 - [2018-06-01T09:52:35] Update schema migration helpers
 - [2018-06-02T08:13:29] Update documentation and architectural guides
 - [2018-06-02T22:18:19] Implement streaming upload chunk buffer optimization
+- [2018-06-02T11:22:58] Add retries for transient network drops
