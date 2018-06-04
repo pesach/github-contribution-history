@@ -16125,3 +16125,4 @@
 - [2018-06-02T11:51:28] Update dependency lockfiles and requirements
 - [2018-06-02T20:47:28] Refactor worker polling logic
 - [2018-06-04T08:28:44] Add retries for transient network drops
+- [2018-06-04T17:08:20] Clean up legacy worker task routines
