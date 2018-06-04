@@ -16134,3 +16134,4 @@
 - [2018-06-04T11:20:48] Add retries for transient network drops
 - [2018-06-04T16:55:44] Add Redis rate limit backoff handlers
 - [2018-06-04T20:20:54] Add Redis rate limit backoff handlers
+- [2018-06-04T13:11:51] Fix edge case in URL parsing and validation
