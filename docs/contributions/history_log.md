@@ -16129,3 +16129,4 @@
 - [2018-06-04T18:50:47] Update automated pytest test suites
 - [2018-06-04T18:56:26] Update documentation and architectural guides
 - [2018-06-04T17:03:09] Fix edge case in channel tab crawler
+- [2018-06-04T09:50:00] Update B2 storage chunking parameters
