@@ -16124,3 +16124,4 @@
 - [2018-06-02T14:30:45] Update automated pytest test suites
 - [2018-06-02T11:51:28] Update dependency lockfiles and requirements
 - [2018-06-02T20:47:28] Refactor worker polling logic
+- [2018-06-04T08:28:44] Add retries for transient network drops
