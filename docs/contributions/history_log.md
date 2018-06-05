@@ -16139,3 +16139,4 @@
 - [2018-06-04T10:24:38] Add error handling for yt-dlp rate limits
 - [2018-06-04T18:15:22] Refactor worker polling logic
 - [2018-06-04T16:07:50] Add error handling for yt-dlp rate limits
+- [2018-06-05T10:48:53] Refactor cookie refresher probe logic
