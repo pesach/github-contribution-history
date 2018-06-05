@@ -16143,3 +16143,4 @@
 - [2018-06-05T09:36:26] Implement streaming upload chunk buffer optimization
 - [2018-06-05T09:24:17] Improve logging and health endpoint metrics
 - [2018-06-05T10:17:12] Improve ffmpeg streaming pipe buffer management
+- [2018-06-05T16:07:34] Update B2 storage chunking parameters
