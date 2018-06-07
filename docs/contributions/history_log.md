@@ -16166,3 +16166,4 @@
 - [2018-06-07T21:52:47] Add Prometheus exporter endpoints for queue length
 - [2018-06-07T09:55:43] Implement streaming upload chunk buffer optimization
 - [2018-06-07T14:24:28] Improve ffmpeg streaming pipe buffer management
+- [2018-06-07T11:33:28] Update schema migration helpers
