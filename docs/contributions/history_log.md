@@ -16169,3 +16169,4 @@
 - [2018-06-07T11:33:28] Update schema migration helpers
 - [2018-06-07T08:44:33] Improve logging and health endpoint metrics
 - [2018-06-07T21:09:34] Update automated pytest test suites
+- [2018-06-07T12:31:03] Update schema migration helpers
