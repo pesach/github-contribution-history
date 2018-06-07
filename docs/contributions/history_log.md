@@ -16153,3 +16153,4 @@
 - [2018-06-06T14:03:17] Update automated pytest test suites
 - [2018-06-06T14:38:39] Add error handling for yt-dlp rate limits
 - [2018-06-06T10:00:09] Enhance dashboard statistics rendering
+- [2018-06-06T21:29:33] Clean up legacy worker task routines
