@@ -16162,3 +16162,4 @@
 - [2018-06-06T12:09:58] Improve ffmpeg streaming pipe buffer management
 - [2018-06-06T19:23:03] Add Redis rate limit backoff handlers
 - [2018-06-06T17:47:11] Enhance dashboard statistics rendering
+- [2018-06-07T16:12:08] Fix edge case in channel tab crawler
