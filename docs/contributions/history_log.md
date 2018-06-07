@@ -16164,3 +16164,4 @@
 - [2018-06-06T17:47:11] Enhance dashboard statistics rendering
 - [2018-06-07T16:12:08] Fix edge case in channel tab crawler
 - [2018-06-07T21:52:47] Add Prometheus exporter endpoints for queue length
+- [2018-06-07T09:55:43] Implement streaming upload chunk buffer optimization
