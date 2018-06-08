@@ -16175,3 +16175,4 @@
 - [2018-06-08T12:28:09] Clean up legacy worker task routines
 - [2018-06-08T19:55:15] Refactor worker polling logic
 - [2018-06-08T12:42:29] Update B2 storage chunking parameters
+- [2018-06-08T18:56:58] Clean up legacy worker task routines
