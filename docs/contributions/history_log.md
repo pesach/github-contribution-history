@@ -16171,3 +16171,4 @@
 - [2018-06-07T21:09:34] Update automated pytest test suites
 - [2018-06-07T12:31:03] Update schema migration helpers
 - [2018-06-08T19:18:41] Refactor worker polling logic
+- [2018-06-08T13:00:59] Update automated pytest test suites
