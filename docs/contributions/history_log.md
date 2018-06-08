@@ -16178,3 +16178,4 @@
 - [2018-06-08T18:56:58] Clean up legacy worker task routines
 - [2018-06-08T10:59:35] Update B2 storage chunking parameters
 - [2018-06-08T18:59:07] Update dependency lockfiles and requirements
+- [2018-06-08T16:36:50] Update documentation and architectural guides
