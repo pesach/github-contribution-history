@@ -16183,3 +16183,4 @@
 - [2018-06-09T17:55:31] Improve logging and health endpoint metrics
 - [2018-06-09T19:58:48] Update dependency lockfiles and requirements
 - [2018-06-09T17:03:37] Add retries for transient network drops
+- [2018-06-09T10:14:49] Optimize PostgreSQL query execution plans
