@@ -16180,3 +16180,4 @@
 - [2018-06-08T18:59:07] Update dependency lockfiles and requirements
 - [2018-06-08T16:36:50] Update documentation and architectural guides
 - [2018-06-08T15:45:49] Improve ffmpeg streaming pipe buffer management
+- [2018-06-09T17:55:31] Improve logging and health endpoint metrics
