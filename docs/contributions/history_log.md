@@ -16194,3 +16194,4 @@
 - [2018-06-11T18:50:15] Update automated pytest test suites
 - [2018-06-11T17:18:34] Refactor cookie refresher probe logic
 - [2018-06-11T22:55:09] Update documentation and architectural guides
+- [2018-06-11T17:05:24] Add Prometheus exporter endpoints for queue length
