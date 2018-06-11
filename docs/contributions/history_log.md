@@ -16189,3 +16189,4 @@
 - [2018-06-10T16:16:16] Refactor storage upload retry mechanism
 - [2018-06-10T16:34:46] Add Redis rate limit backoff handlers
 - [2018-06-10T13:58:48] Improve ffmpeg streaming pipe buffer management
+- [2018-06-10T22:06:18] Fix edge case in channel tab crawler
