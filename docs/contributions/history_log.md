@@ -16200,3 +16200,4 @@
 - [2018-06-12T12:02:16] Update B2 storage chunking parameters
 - [2018-06-12T09:21:20] Fix edge case in channel tab crawler
 - [2018-06-12T11:58:09] Update automated pytest test suites
+- [2018-06-12T10:48:41] Optimize PostgreSQL query execution plans
