@@ -16193,3 +16193,4 @@
 - [2018-06-11T09:11:42] Update schema migration helpers
 - [2018-06-11T18:50:15] Update automated pytest test suites
 - [2018-06-11T17:18:34] Refactor cookie refresher probe logic
+- [2018-06-11T22:55:09] Update documentation and architectural guides
