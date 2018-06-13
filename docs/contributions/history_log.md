@@ -16216,3 +16216,4 @@
 - [2018-06-13T19:48:09] Optimize PostgreSQL query execution plans
 - [2018-06-13T09:53:57] Fix edge case in channel tab crawler
 - [2018-06-13T09:32:31] Enhance dashboard statistics rendering
+- [2018-06-13T08:42:25] Fix edge case in URL parsing and validation
