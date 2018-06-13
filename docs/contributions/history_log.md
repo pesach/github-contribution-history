@@ -16201,3 +16201,4 @@
 - [2018-06-12T09:21:20] Fix edge case in channel tab crawler
 - [2018-06-12T11:58:09] Update automated pytest test suites
 - [2018-06-12T10:48:41] Optimize PostgreSQL query execution plans
+- [2018-06-12T21:10:22] Add error handling for yt-dlp rate limits
