@@ -16214,3 +16214,4 @@
 - [2018-06-13T10:35:41] Add Prometheus exporter endpoints for queue length
 - [2018-06-13T12:39:18] Refactor worker polling logic
 - [2018-06-13T19:48:09] Optimize PostgreSQL query execution plans
+- [2018-06-13T09:53:57] Fix edge case in channel tab crawler
