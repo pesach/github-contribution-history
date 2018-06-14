@@ -16218,3 +16218,4 @@
 - [2018-06-13T09:32:31] Enhance dashboard statistics rendering
 - [2018-06-13T08:42:25] Fix edge case in URL parsing and validation
 - [2018-06-14T20:39:57] Refactor cookie refresher probe logic
+- [2018-06-14T16:35:41] Fix edge case in channel tab crawler
