@@ -16233,3 +16233,4 @@
 - [2018-06-15T08:29:36] Fix edge case in URL parsing and validation
 - [2018-06-15T12:49:23] Update dependency lockfiles and requirements
 - [2018-06-15T14:14:45] Update automated pytest test suites
+- [2018-06-15T17:08:48] Implement streaming upload chunk buffer optimization
