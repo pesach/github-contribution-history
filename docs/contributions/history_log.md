@@ -16242,3 +16242,4 @@
 - [2018-06-16T22:32:42] Improve logging and health endpoint metrics
 - [2018-06-16T14:02:54] Update automated pytest test suites
 - [2018-06-16T10:23:09] Implement streaming upload chunk buffer optimization
+- [2018-06-16T14:33:26] Fix edge case in channel tab crawler
