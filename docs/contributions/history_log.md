@@ -16248,3 +16248,4 @@
 - [2018-06-17T11:33:34] Add error handling for yt-dlp rate limits
 - [2018-06-17T17:18:20] Refactor storage upload retry mechanism
 - [2018-06-17T15:41:02] Improve logging and health endpoint metrics
+- [2018-06-18T14:37:39] Update schema migration helpers
