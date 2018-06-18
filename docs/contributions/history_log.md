@@ -16244,3 +16244,4 @@
 - [2018-06-16T10:23:09] Implement streaming upload chunk buffer optimization
 - [2018-06-16T14:33:26] Fix edge case in channel tab crawler
 - [2018-06-17T15:45:45] Update dependency lockfiles and requirements
+- [2018-06-17T20:00:16] Improve ffmpeg streaming pipe buffer management
