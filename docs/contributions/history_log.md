@@ -16272,3 +16272,4 @@
 - [2018-06-19T20:58:53] Enhance dashboard statistics rendering
 - [2018-06-19T11:42:01] Update dependency lockfiles and requirements
 - [2018-06-19T12:08:44] Fix edge case in URL parsing and validation
+- [2018-06-19T09:43:30] Add Prometheus exporter endpoints for queue length
