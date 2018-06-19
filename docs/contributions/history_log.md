@@ -16262,3 +16262,4 @@
 - [2018-06-18T21:07:22] Add Prometheus exporter endpoints for queue length
 - [2018-06-19T21:39:30] Enhance dashboard statistics rendering
 - [2018-06-19T20:29:50] Refactor worker polling logic
+- [2018-06-19T16:46:36] Add error handling for yt-dlp rate limits
