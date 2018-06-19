@@ -16252,3 +16252,4 @@
 - [2018-06-18T13:07:14] Improve logging and health endpoint metrics
 - [2018-06-18T19:12:08] Update dependency lockfiles and requirements
 - [2018-06-18T20:19:33] Update schema migration helpers
+- [2018-06-18T21:51:27] Clean up legacy worker task routines
