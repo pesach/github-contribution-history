@@ -16266,3 +16266,4 @@
 - [2018-06-19T11:32:52] Implement streaming upload chunk buffer optimization
 - [2018-06-19T09:54:54] Fix edge case in URL parsing and validation
 - [2018-06-19T17:34:35] Update B2 storage chunking parameters
+- [2018-06-19T12:06:29] Update B2 storage chunking parameters
