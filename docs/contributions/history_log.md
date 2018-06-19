@@ -16255,3 +16255,4 @@
 - [2018-06-18T21:51:27] Clean up legacy worker task routines
 - [2018-06-18T20:43:42] Refactor worker polling logic
 - [2018-06-18T16:53:45] Add Redis rate limit backoff handlers
+- [2018-06-18T22:30:04] Update documentation and architectural guides
