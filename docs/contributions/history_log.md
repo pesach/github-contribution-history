@@ -16274,3 +16274,4 @@
 - [2018-06-19T12:08:44] Fix edge case in URL parsing and validation
 - [2018-06-19T09:43:30] Add Prometheus exporter endpoints for queue length
 - [2018-06-19T17:40:03] Refactor storage upload retry mechanism
+- [2018-06-20T14:14:55] Update automated pytest test suites
