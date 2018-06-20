@@ -16278,3 +16278,4 @@
 - [2018-06-20T17:46:08] Update documentation and architectural guides
 - [2018-06-20T21:14:18] Update B2 storage chunking parameters
 - [2018-06-20T22:42:35] Refactor storage upload retry mechanism
+- [2018-06-20T10:02:23] Refactor worker polling logic
