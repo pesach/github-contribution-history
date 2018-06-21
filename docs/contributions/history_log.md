@@ -16292,3 +16292,4 @@
 - [2018-06-21T15:50:29] Update dependency lockfiles and requirements
 - [2018-06-21T15:28:18] Update dependency lockfiles and requirements
 - [2018-06-21T11:05:40] Add error handling for yt-dlp rate limits
+- [2018-06-21T10:30:53] Clean up legacy worker task routines
