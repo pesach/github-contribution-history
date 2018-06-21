@@ -16277,3 +16277,4 @@
 - [2018-06-20T14:14:55] Update automated pytest test suites
 - [2018-06-20T17:46:08] Update documentation and architectural guides
 - [2018-06-20T21:14:18] Update B2 storage chunking parameters
+- [2018-06-20T22:42:35] Refactor storage upload retry mechanism
