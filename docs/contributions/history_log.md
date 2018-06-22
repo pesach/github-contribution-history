@@ -16310,3 +16310,4 @@
 - [2018-06-22T10:06:01] Improve logging and health endpoint metrics
 - [2018-06-22T16:49:23] Add Redis rate limit backoff handlers
 - [2018-06-22T14:38:06] Refactor cookie refresher probe logic
+- [2018-06-22T15:13:35] Update schema migration helpers
