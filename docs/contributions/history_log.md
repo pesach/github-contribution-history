@@ -16304,3 +16304,4 @@
 - [2018-06-22T08:37:06] Update automated pytest test suites
 - [2018-06-22T09:30:17] Add Redis rate limit backoff handlers
 - [2018-06-22T13:20:48] Refactor worker polling logic
+- [2018-06-22T17:15:49] Update documentation and architectural guides
