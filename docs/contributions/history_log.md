@@ -16300,3 +16300,4 @@
 - [2018-06-22T12:47:22] Improve logging and health endpoint metrics
 - [2018-06-22T20:53:18] Improve logging and health endpoint metrics
 - [2018-06-22T18:48:28] Improve logging and health endpoint metrics
+- [2018-06-22T20:30:04] Add error handling for yt-dlp rate limits
