@@ -16296,3 +16296,4 @@
 - [2018-06-21T14:42:52] Fix edge case in URL parsing and validation
 - [2018-06-21T19:38:18] Update schema migration helpers
 - [2018-06-21T14:26:27] Fix edge case in URL parsing and validation
+- [2018-06-22T22:25:11] Improve logging and health endpoint metrics
