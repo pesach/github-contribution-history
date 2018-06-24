@@ -16315,3 +16315,4 @@
 - [2018-06-23T10:28:39] Add retries for transient network drops
 - [2018-06-23T14:53:52] Refactor cookie refresher probe logic
 - [2018-06-23T16:23:16] Update automated pytest test suites
+- [2018-06-24T09:27:41] Add Redis rate limit backoff handlers
