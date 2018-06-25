@@ -16326,3 +16326,4 @@
 - [2018-06-25T11:40:07] Update dependency lockfiles and requirements
 - [2018-06-25T19:33:37] Refactor cookie refresher probe logic
 - [2018-06-25T17:42:58] Improve logging and health endpoint metrics
+- [2018-06-25T09:07:04] Fix edge case in channel tab crawler
