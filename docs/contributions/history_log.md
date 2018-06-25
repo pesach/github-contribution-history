@@ -16324,3 +16324,4 @@
 - [2018-06-25T15:52:47] Fix edge case in URL parsing and validation
 - [2018-06-25T14:43:04] Improve logging and health endpoint metrics
 - [2018-06-25T11:40:07] Update dependency lockfiles and requirements
+- [2018-06-25T19:33:37] Refactor cookie refresher probe logic
