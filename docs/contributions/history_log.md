@@ -16329,3 +16329,4 @@
 - [2018-06-25T09:07:04] Fix edge case in channel tab crawler
 - [2018-06-25T09:04:33] Update schema migration helpers
 - [2018-06-25T22:19:19] Refactor worker polling logic
+- [2018-06-25T15:22:02] Refactor cookie refresher probe logic
