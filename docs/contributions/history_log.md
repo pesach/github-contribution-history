@@ -16331,3 +16331,4 @@
 - [2018-06-25T22:19:19] Refactor worker polling logic
 - [2018-06-25T15:22:02] Refactor cookie refresher probe logic
 - [2018-06-25T18:59:13] Update schema migration helpers
+- [2018-06-25T21:43:39] Update schema migration helpers
