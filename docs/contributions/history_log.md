@@ -16340,3 +16340,4 @@
 - [2018-06-26T11:01:33] Add Prometheus exporter endpoints for queue length
 - [2018-06-26T12:44:56] Improve logging and health endpoint metrics
 - [2018-06-26T20:56:13] Add retries for transient network drops
+- [2018-06-26T09:22:57] Update B2 storage chunking parameters
