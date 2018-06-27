@@ -16349,3 +16349,4 @@
 - [2018-06-27T10:12:55] Refactor storage upload retry mechanism
 - [2018-06-27T12:49:19] Fix edge case in URL parsing and validation
 - [2018-06-27T14:47:56] Update dependency lockfiles and requirements
+- [2018-06-27T08:56:59] Implement streaming upload chunk buffer optimization
