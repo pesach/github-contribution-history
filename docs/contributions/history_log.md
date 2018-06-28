@@ -16354,3 +16354,4 @@
 - [2018-06-28T08:41:45] Update automated pytest test suites
 - [2018-06-28T11:12:03] Refactor worker polling logic
 - [2018-06-28T13:29:33] Update B2 storage chunking parameters
+- [2018-06-28T13:33:51] Clean up legacy worker task routines
