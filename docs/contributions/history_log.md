@@ -16369,3 +16369,4 @@
 - [2018-06-29T20:46:45] Update documentation and architectural guides
 - [2018-06-29T11:52:47] Refactor storage upload retry mechanism
 - [2018-06-30T21:10:29] Update dependency lockfiles and requirements
+- [2018-06-30T16:00:25] Clean up legacy worker task routines
