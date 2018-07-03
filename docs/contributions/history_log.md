@@ -16382,3 +16382,4 @@
 - [2018-07-02T15:08:37] Clean up legacy worker task routines
 - [2018-07-02T20:32:12] Update documentation and architectural guides
 - [2018-07-02T13:52:41] Update dependency lockfiles and requirements
+- [2018-07-02T22:52:51] Add error handling for yt-dlp rate limits
