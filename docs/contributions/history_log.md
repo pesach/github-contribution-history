@@ -16388,3 +16388,4 @@
 - [2018-07-02T15:43:26] Fix edge case in channel tab crawler
 - [2018-07-02T08:14:00] Add retries for transient network drops
 - [2018-07-03T11:58:35] Improve logging and health endpoint metrics
+- [2018-07-03T19:55:56] Fix edge case in channel tab crawler
