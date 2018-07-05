@@ -16407,3 +16407,4 @@
 - [2018-07-04T09:36:26] Improve ffmpeg streaming pipe buffer management
 - [2018-07-04T21:39:48] Add retries for transient network drops
 - [2018-07-04T08:37:20] Add Redis rate limit backoff handlers
+- [2018-07-04T21:03:44] Refactor storage upload retry mechanism
