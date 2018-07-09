@@ -16425,3 +16425,4 @@
 - [2018-07-07T14:33:56] Update B2 storage chunking parameters
 - [2018-07-07T08:55:35] Update schema migration helpers
 - [2018-07-09T21:42:27] Update schema migration helpers
+- [2018-07-09T13:05:11] Optimize PostgreSQL query execution plans
