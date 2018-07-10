@@ -16438,3 +16438,4 @@
 - [2018-07-10T09:26:59] Fix edge case in channel tab crawler
 - [2018-07-10T19:47:35] Update B2 storage chunking parameters
 - [2018-07-10T10:59:03] Update schema migration helpers
+- [2018-07-10T12:41:07] Clean up legacy worker task routines
