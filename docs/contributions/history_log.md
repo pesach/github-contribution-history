@@ -16436,3 +16436,4 @@
 - [2018-07-10T22:12:33] Enhance dashboard statistics rendering
 - [2018-07-10T14:37:28] Clean up legacy worker task routines
 - [2018-07-10T09:26:59] Fix edge case in channel tab crawler
+- [2018-07-10T19:47:35] Update B2 storage chunking parameters
