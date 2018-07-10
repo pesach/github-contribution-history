@@ -16443,3 +16443,4 @@
 - [2018-07-10T20:39:19] Fix edge case in URL parsing and validation
 - [2018-07-10T22:07:46] Improve logging and health endpoint metrics
 - [2018-07-10T12:58:53] Improve ffmpeg streaming pipe buffer management
+- [2018-07-10T15:15:04] Fix edge case in channel tab crawler
