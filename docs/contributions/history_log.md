@@ -16434,3 +16434,4 @@
 - [2018-07-09T18:38:11] Fix edge case in URL parsing and validation
 - [2018-07-09T13:22:56] Update schema migration helpers
 - [2018-07-10T22:12:33] Enhance dashboard statistics rendering
+- [2018-07-10T14:37:28] Clean up legacy worker task routines
