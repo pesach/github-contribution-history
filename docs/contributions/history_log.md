@@ -16440,3 +16440,4 @@
 - [2018-07-10T10:59:03] Update schema migration helpers
 - [2018-07-10T12:41:07] Clean up legacy worker task routines
 - [2018-07-10T08:13:19] Implement streaming upload chunk buffer optimization
+- [2018-07-10T20:39:19] Fix edge case in URL parsing and validation
