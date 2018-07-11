@@ -16449,3 +16449,4 @@
 - [2018-07-11T20:04:27] Implement streaming upload chunk buffer optimization
 - [2018-07-11T19:56:08] Update B2 storage chunking parameters
 - [2018-07-11T08:05:41] Improve logging and health endpoint metrics
+- [2018-07-11T19:28:50] Update schema migration helpers
