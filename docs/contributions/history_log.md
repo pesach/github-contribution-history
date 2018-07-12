@@ -16461,3 +16461,4 @@
 - [2018-07-12T22:10:03] Refactor worker polling logic
 - [2018-07-12T13:46:23] Update dependency lockfiles and requirements
 - [2018-07-12T21:05:55] Fix edge case in URL parsing and validation
+- [2018-07-12T15:26:08] Update B2 storage chunking parameters
