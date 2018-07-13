@@ -16458,3 +16458,4 @@
 - [2018-07-11T19:07:57] Fix edge case in channel tab crawler
 - [2018-07-11T18:40:39] Update B2 storage chunking parameters
 - [2018-07-11T22:09:48] Enhance dashboard statistics rendering
+- [2018-07-12T22:10:03] Refactor worker polling logic
