@@ -16460,3 +16460,4 @@
 - [2018-07-11T22:09:48] Enhance dashboard statistics rendering
 - [2018-07-12T22:10:03] Refactor worker polling logic
 - [2018-07-12T13:46:23] Update dependency lockfiles and requirements
+- [2018-07-12T21:05:55] Fix edge case in URL parsing and validation
