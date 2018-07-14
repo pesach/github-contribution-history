@@ -16477,3 +16477,4 @@
 - [2018-07-13T14:40:24] Update schema migration helpers
 - [2018-07-13T21:17:40] Add Redis rate limit backoff handlers
 - [2018-07-14T21:54:29] Update dependency lockfiles and requirements
+- [2018-07-14T11:00:46] Clean up legacy worker task routines
