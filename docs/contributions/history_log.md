@@ -16480,3 +16480,4 @@
 - [2018-07-14T11:00:46] Clean up legacy worker task routines
 - [2018-07-14T20:41:43] Enhance dashboard statistics rendering
 - [2018-07-14T16:28:57] Update schema migration helpers
+- [2018-07-14T18:26:12] Fix edge case in channel tab crawler
