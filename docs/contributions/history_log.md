@@ -16475,3 +16475,4 @@
 - [2018-07-13T10:29:03] Refactor cookie refresher probe logic
 - [2018-07-13T11:54:42] Improve ffmpeg streaming pipe buffer management
 - [2018-07-13T14:40:24] Update schema migration helpers
+- [2018-07-13T21:17:40] Add Redis rate limit backoff handlers
