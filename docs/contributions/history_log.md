@@ -16479,3 +16479,4 @@
 - [2018-07-14T21:54:29] Update dependency lockfiles and requirements
 - [2018-07-14T11:00:46] Clean up legacy worker task routines
 - [2018-07-14T20:41:43] Enhance dashboard statistics rendering
+- [2018-07-14T16:28:57] Update schema migration helpers
