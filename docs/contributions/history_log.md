@@ -16482,3 +16482,4 @@
 - [2018-07-14T16:28:57] Update schema migration helpers
 - [2018-07-14T18:26:12] Fix edge case in channel tab crawler
 - [2018-07-15T16:43:06] Clean up legacy worker task routines
+- [2018-07-15T13:39:46] Improve ffmpeg streaming pipe buffer management
