@@ -16493,3 +16493,4 @@
 - [2018-07-16T17:39:28] Improve logging and health endpoint metrics
 - [2018-07-16T08:46:51] Implement streaming upload chunk buffer optimization
 - [2018-07-16T10:44:53] Add retries for transient network drops
+- [2018-07-16T10:40:06] Update schema migration helpers
