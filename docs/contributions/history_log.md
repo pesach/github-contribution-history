@@ -16499,3 +16499,4 @@
 - [2018-07-16T16:45:05] Update automated pytest test suites
 - [2018-07-16T15:36:46] Refactor storage upload retry mechanism
 - [2018-07-17T19:04:34] Clean up legacy worker task routines
+- [2018-07-17T16:54:35] Update automated pytest test suites
