@@ -16514,3 +16514,4 @@
 - [2018-07-18T17:09:08] Improve logging and health endpoint metrics
 - [2018-07-18T08:32:03] Improve logging and health endpoint metrics
 - [2018-07-18T15:37:41] Optimize PostgreSQL query execution plans
+- [2018-07-18T17:28:46] Update schema migration helpers
