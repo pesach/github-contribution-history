@@ -16511,3 +16511,4 @@
 - [2018-07-18T10:31:53] Improve ffmpeg streaming pipe buffer management
 - [2018-07-18T21:47:04] Fix edge case in URL parsing and validation
 - [2018-07-18T18:19:36] Add Redis rate limit backoff handlers
+- [2018-07-18T17:09:08] Improve logging and health endpoint metrics
