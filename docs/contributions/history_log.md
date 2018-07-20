@@ -16523,3 +16523,4 @@
 - [2018-07-19T17:22:25] Refactor cookie refresher probe logic
 - [2018-07-19T19:20:35] Add Prometheus exporter endpoints for queue length
 - [2018-07-19T21:35:07] Add Prometheus exporter endpoints for queue length
+- [2018-07-20T17:51:55] Add Redis rate limit backoff handlers
