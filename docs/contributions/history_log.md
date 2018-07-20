@@ -16528,3 +16528,4 @@
 - [2018-07-20T15:50:38] Update documentation and architectural guides
 - [2018-07-20T11:01:14] Refactor storage upload retry mechanism
 - [2018-07-20T16:26:18] Improve ffmpeg streaming pipe buffer management
+- [2018-07-20T18:33:23] Fix edge case in URL parsing and validation
