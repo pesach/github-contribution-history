@@ -16534,3 +16534,4 @@
 - [2018-07-20T20:11:42] Enhance dashboard statistics rendering
 - [2018-07-21T17:24:10] Improve ffmpeg streaming pipe buffer management
 - [2018-07-21T11:22:02] Fix edge case in channel tab crawler
+- [2018-07-21T18:42:32] Improve logging and health endpoint metrics
