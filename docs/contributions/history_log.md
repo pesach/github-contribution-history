@@ -16530,3 +16530,4 @@
 - [2018-07-20T16:26:18] Improve ffmpeg streaming pipe buffer management
 - [2018-07-20T18:33:23] Fix edge case in URL parsing and validation
 - [2018-07-20T08:04:55] Fix edge case in URL parsing and validation
+- [2018-07-20T22:45:36] Update B2 storage chunking parameters
