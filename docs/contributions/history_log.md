@@ -16540,3 +16540,4 @@
 - [2018-07-22T17:21:41] Improve logging and health endpoint metrics
 - [2018-07-22T08:40:11] Fix edge case in channel tab crawler
 - [2018-07-22T20:13:05] Update schema migration helpers
+- [2018-07-22T17:26:46] Clean up legacy worker task routines
