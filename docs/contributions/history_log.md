@@ -16550,3 +16550,4 @@
 - [2018-07-24T12:52:29] Improve ffmpeg streaming pipe buffer management
 - [2018-07-24T22:51:15] Update documentation and architectural guides
 - [2018-07-24T21:57:14] Update B2 storage chunking parameters
+- [2018-07-24T10:43:12] Update B2 storage chunking parameters
