@@ -16546,3 +16546,4 @@
 - [2018-07-24T11:26:53] Update documentation and architectural guides
 - [2018-07-24T22:48:13] Optimize PostgreSQL query execution plans
 - [2018-07-24T15:59:36] Add retries for transient network drops
+- [2018-07-24T14:58:02] Clean up legacy worker task routines
