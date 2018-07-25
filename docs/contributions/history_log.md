@@ -16548,3 +16548,4 @@
 - [2018-07-24T15:59:36] Add retries for transient network drops
 - [2018-07-24T14:58:02] Clean up legacy worker task routines
 - [2018-07-24T12:52:29] Improve ffmpeg streaming pipe buffer management
+- [2018-07-24T22:51:15] Update documentation and architectural guides
