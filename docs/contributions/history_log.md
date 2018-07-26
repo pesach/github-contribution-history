@@ -16565,3 +16565,4 @@
 - [2018-07-26T12:30:13] Clean up legacy worker task routines
 - [2018-07-26T10:06:22] Add error handling for yt-dlp rate limits
 - [2018-07-26T13:43:11] Update automated pytest test suites
+- [2018-07-26T11:25:25] Add error handling for yt-dlp rate limits
