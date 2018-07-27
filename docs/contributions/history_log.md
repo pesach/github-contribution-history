@@ -16585,3 +16585,4 @@
 - [2018-07-27T11:24:21] Refactor worker polling logic
 - [2018-07-27T09:43:38] Add retries for transient network drops
 - [2018-07-27T20:55:31] Refactor storage upload retry mechanism
+- [2018-07-27T15:15:27] Fix edge case in URL parsing and validation
