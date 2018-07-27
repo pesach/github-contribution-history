@@ -16582,3 +16582,4 @@
 - [2018-07-27T18:59:44] Improve logging and health endpoint metrics
 - [2018-07-27T22:45:15] Improve logging and health endpoint metrics
 - [2018-07-27T18:22:24] Refactor storage upload retry mechanism
+- [2018-07-27T11:24:21] Refactor worker polling logic
