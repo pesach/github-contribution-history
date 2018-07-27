@@ -16581,3 +16581,4 @@
 - [2018-07-27T21:21:35] Update automated pytest test suites
 - [2018-07-27T18:59:44] Improve logging and health endpoint metrics
 - [2018-07-27T22:45:15] Improve logging and health endpoint metrics
+- [2018-07-27T18:22:24] Refactor storage upload retry mechanism
