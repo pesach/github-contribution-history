@@ -16575,3 +16575,4 @@
 - [2018-07-26T18:22:31] Fix edge case in channel tab crawler
 - [2018-07-27T10:14:23] Update schema migration helpers
 - [2018-07-27T22:59:50] Refactor cookie refresher probe logic
+- [2018-07-27T09:53:33] Optimize PostgreSQL query execution plans
