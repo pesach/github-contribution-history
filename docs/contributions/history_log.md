@@ -16589,3 +16589,4 @@
 - [2018-07-28T16:47:15] Refactor storage upload retry mechanism
 - [2018-07-28T18:06:25] Add retries for transient network drops
 - [2018-07-28T22:57:25] Improve logging and health endpoint metrics
+- [2018-07-28T16:19:08] Add error handling for yt-dlp rate limits
