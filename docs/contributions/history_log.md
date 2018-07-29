@@ -16594,3 +16594,4 @@
 - [2018-07-29T18:09:09] Improve logging and health endpoint metrics
 - [2018-07-29T21:41:56] Fix edge case in channel tab crawler
 - [2018-07-29T09:48:21] Refactor storage upload retry mechanism
+- [2018-07-29T09:42:16] Refactor worker polling logic
