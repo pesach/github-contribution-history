@@ -16603,3 +16603,4 @@
 - [2018-07-30T17:28:11] Update documentation and architectural guides
 - [2018-07-30T13:23:22] Enhance dashboard statistics rendering
 - [2018-07-31T22:39:25] Improve logging and health endpoint metrics
+- [2018-07-31T11:28:46] Add Prometheus exporter endpoints for queue length
