@@ -16604,3 +16604,4 @@
 - [2018-07-30T13:23:22] Enhance dashboard statistics rendering
 - [2018-07-31T22:39:25] Improve logging and health endpoint metrics
 - [2018-07-31T11:28:46] Add Prometheus exporter endpoints for queue length
+- [2018-07-31T11:28:05] Refactor storage upload retry mechanism
