@@ -16608,3 +16608,4 @@
 - [2018-07-31T08:55:54] Improve logging and health endpoint metrics
 - [2018-07-31T22:40:47] Fix edge case in URL parsing and validation
 - [2018-07-31T13:45:50] Clean up legacy worker task routines
+- [2018-08-01T15:18:39] Optimize PostgreSQL query execution plans
