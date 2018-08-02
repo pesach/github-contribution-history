@@ -16620,3 +16620,4 @@
 - [2018-08-02T22:03:28] Fix edge case in channel tab crawler
 - [2018-08-02T22:59:59] Refactor worker polling logic
 - [2018-08-02T10:00:58] Fix edge case in URL parsing and validation
+- [2018-08-02T15:01:44] Refactor storage upload retry mechanism
