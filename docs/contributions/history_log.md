@@ -16627,3 +16627,4 @@
 - [2018-08-02T12:11:56] Refactor cookie refresher probe logic
 - [2018-08-02T13:52:24] Optimize PostgreSQL query execution plans
 - [2018-08-02T12:01:47] Refactor storage upload retry mechanism
+- [2018-08-03T11:24:14] Update schema migration helpers
