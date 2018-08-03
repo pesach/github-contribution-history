@@ -16633,3 +16633,4 @@
 - [2018-08-03T17:36:59] Improve logging and health endpoint metrics
 - [2018-08-03T16:34:26] Implement streaming upload chunk buffer optimization
 - [2018-08-03T14:56:22] Improve ffmpeg streaming pipe buffer management
+- [2018-08-03T11:59:46] Add error handling for yt-dlp rate limits
