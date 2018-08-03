@@ -16637,3 +16637,4 @@
 - [2018-08-03T11:59:03] Refactor cookie refresher probe logic
 - [2018-08-03T21:55:52] Update documentation and architectural guides
 - [2018-08-03T08:40:39] Update automated pytest test suites
+- [2018-08-03T18:48:00] Improve ffmpeg streaming pipe buffer management
