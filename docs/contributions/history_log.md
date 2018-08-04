@@ -16640,3 +16640,4 @@
 - [2018-08-03T18:48:00] Improve ffmpeg streaming pipe buffer management
 - [2018-08-03T10:13:40] Add error handling for yt-dlp rate limits
 - [2018-08-03T21:35:13] Update dependency lockfiles and requirements
+- [2018-08-04T18:10:56] Add error handling for yt-dlp rate limits
