@@ -16641,3 +16641,4 @@
 - [2018-08-03T10:13:40] Add error handling for yt-dlp rate limits
 - [2018-08-03T21:35:13] Update dependency lockfiles and requirements
 - [2018-08-04T18:10:56] Add error handling for yt-dlp rate limits
+- [2018-08-04T11:37:24] Add retries for transient network drops
