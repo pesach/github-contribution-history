@@ -16644,3 +16644,4 @@
 - [2018-08-04T11:37:24] Add retries for transient network drops
 - [2018-08-04T13:59:24] Update B2 storage chunking parameters
 - [2018-08-05T11:28:59] Refactor cookie refresher probe logic
+- [2018-08-05T10:22:17] Add Redis rate limit backoff handlers
