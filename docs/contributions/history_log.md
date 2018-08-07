@@ -16662,3 +16662,4 @@
 - [2018-08-07T22:56:55] Update documentation and architectural guides
 - [2018-08-07T09:07:54] Add Redis rate limit backoff handlers
 - [2018-08-07T13:30:43] Update dependency lockfiles and requirements
+- [2018-08-07T10:13:32] Improve ffmpeg streaming pipe buffer management
