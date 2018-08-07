@@ -16664,3 +16664,4 @@
 - [2018-08-07T13:30:43] Update dependency lockfiles and requirements
 - [2018-08-07T10:13:32] Improve ffmpeg streaming pipe buffer management
 - [2018-08-07T17:59:16] Improve ffmpeg streaming pipe buffer management
+- [2018-08-07T14:58:53] Fix edge case in channel tab crawler
