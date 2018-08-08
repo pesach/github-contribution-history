@@ -16668,3 +16668,4 @@
 - [2018-08-08T09:28:25] Optimize PostgreSQL query execution plans
 - [2018-08-08T09:42:44] Refactor storage upload retry mechanism
 - [2018-08-08T09:17:01] Refactor storage upload retry mechanism
+- [2018-08-08T17:18:30] Add retries for transient network drops
