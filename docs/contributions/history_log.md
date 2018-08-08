@@ -16666,3 +16666,4 @@
 - [2018-08-07T17:59:16] Improve ffmpeg streaming pipe buffer management
 - [2018-08-07T14:58:53] Fix edge case in channel tab crawler
 - [2018-08-08T09:28:25] Optimize PostgreSQL query execution plans
+- [2018-08-08T09:42:44] Refactor storage upload retry mechanism
