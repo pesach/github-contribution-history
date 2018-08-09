@@ -16673,3 +16673,4 @@
 - [2018-08-08T19:18:11] Update documentation and architectural guides
 - [2018-08-09T18:17:19] Update automated pytest test suites
 - [2018-08-09T13:07:48] Improve logging and health endpoint metrics
+- [2018-08-09T13:50:48] Clean up legacy worker task routines
