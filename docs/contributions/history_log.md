@@ -16684,3 +16684,4 @@
 - [2018-08-09T10:03:28] Implement streaming upload chunk buffer optimization
 - [2018-08-09T14:03:47] Update dependency lockfiles and requirements
 - [2018-08-09T22:09:42] Add retries for transient network drops
+- [2018-08-10T12:51:37] Refactor cookie refresher probe logic
