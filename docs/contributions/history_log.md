@@ -16689,3 +16689,4 @@
 - [2018-08-10T17:51:20] Add error handling for yt-dlp rate limits
 - [2018-08-10T19:54:36] Fix edge case in channel tab crawler
 - [2018-08-10T19:38:59] Update B2 storage chunking parameters
+- [2018-08-10T08:33:01] Fix edge case in URL parsing and validation
