@@ -16693,3 +16693,4 @@
 - [2018-08-10T12:27:35] Update dependency lockfiles and requirements
 - [2018-08-12T13:21:48] Update schema migration helpers
 - [2018-08-12T10:20:32] Improve ffmpeg streaming pipe buffer management
+- [2018-08-12T10:03:11] Refactor worker polling logic
