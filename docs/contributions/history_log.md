@@ -16694,3 +16694,4 @@
 - [2018-08-12T13:21:48] Update schema migration helpers
 - [2018-08-12T10:20:32] Improve ffmpeg streaming pipe buffer management
 - [2018-08-12T10:03:11] Refactor worker polling logic
+- [2018-08-14T15:53:07] Improve logging and health endpoint metrics
