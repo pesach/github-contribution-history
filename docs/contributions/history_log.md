@@ -16709,3 +16709,4 @@
 - [2018-08-15T14:40:55] Refactor storage upload retry mechanism
 - [2018-08-15T12:33:30] Add Prometheus exporter endpoints for queue length
 - [2018-08-15T11:56:44] Add Redis rate limit backoff handlers
+- [2018-08-15T09:27:15] Refactor cookie refresher probe logic
