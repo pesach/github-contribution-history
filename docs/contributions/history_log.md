@@ -16711,3 +16711,4 @@
 - [2018-08-15T11:56:44] Add Redis rate limit backoff handlers
 - [2018-08-15T09:27:15] Refactor cookie refresher probe logic
 - [2018-08-15T18:34:55] Update schema migration helpers
+- [2018-08-15T17:28:52] Add error handling for yt-dlp rate limits
