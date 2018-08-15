@@ -16708,3 +16708,4 @@
 - [2018-08-15T21:02:28] Update B2 storage chunking parameters
 - [2018-08-15T14:40:55] Refactor storage upload retry mechanism
 - [2018-08-15T12:33:30] Add Prometheus exporter endpoints for queue length
+- [2018-08-15T11:56:44] Add Redis rate limit backoff handlers
