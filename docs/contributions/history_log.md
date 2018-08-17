@@ -16730,3 +16730,4 @@
 - [2018-08-16T18:38:53] Improve ffmpeg streaming pipe buffer management
 - [2018-08-16T21:24:52] Update documentation and architectural guides
 - [2018-08-17T18:24:03] Refactor worker polling logic
+- [2018-08-17T16:52:41] Update schema migration helpers
