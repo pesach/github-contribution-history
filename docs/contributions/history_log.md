@@ -16732,3 +16732,4 @@
 - [2018-08-17T18:24:03] Refactor worker polling logic
 - [2018-08-17T16:52:41] Update schema migration helpers
 - [2018-08-17T20:51:50] Update schema migration helpers
+- [2018-08-17T15:45:27] Improve logging and health endpoint metrics
