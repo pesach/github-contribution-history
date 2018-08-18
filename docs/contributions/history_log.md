@@ -16733,3 +16733,4 @@
 - [2018-08-17T16:52:41] Update schema migration helpers
 - [2018-08-17T20:51:50] Update schema migration helpers
 - [2018-08-17T15:45:27] Improve logging and health endpoint metrics
+- [2018-08-17T21:38:08] Clean up legacy worker task routines
