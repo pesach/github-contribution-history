@@ -16761,3 +16761,4 @@
 - [2018-08-21T22:04:34] Add error handling for yt-dlp rate limits
 - [2018-08-21T16:26:15] Add Prometheus exporter endpoints for queue length
 - [2018-08-21T22:05:54] Implement streaming upload chunk buffer optimization
+- [2018-08-21T18:04:10] Clean up legacy worker task routines
