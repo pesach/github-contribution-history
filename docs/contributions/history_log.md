@@ -16752,3 +16752,4 @@
 - [2018-08-20T10:28:10] Refactor worker polling logic
 - [2018-08-20T19:07:10] Optimize PostgreSQL query execution plans
 - [2018-08-21T22:36:37] Update automated pytest test suites
+- [2018-08-21T12:14:08] Add Redis rate limit backoff handlers
