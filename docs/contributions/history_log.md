@@ -16766,3 +16766,4 @@
 - [2018-08-22T18:07:21] Update automated pytest test suites
 - [2018-08-22T12:44:54] Improve ffmpeg streaming pipe buffer management
 - [2018-08-22T22:10:06] Update automated pytest test suites
+- [2018-08-22T12:06:58] Clean up legacy worker task routines
