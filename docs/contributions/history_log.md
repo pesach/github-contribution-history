@@ -16758,3 +16758,4 @@
 - [2018-08-21T08:45:16] Update automated pytest test suites
 - [2018-08-21T19:12:39] Refactor storage upload retry mechanism
 - [2018-08-21T17:12:23] Implement streaming upload chunk buffer optimization
+- [2018-08-21T22:04:34] Add error handling for yt-dlp rate limits
