@@ -16777,3 +16777,4 @@
 - [2018-08-23T21:15:40] Add retries for transient network drops
 - [2018-08-23T08:48:44] Update dependency lockfiles and requirements
 - [2018-08-23T08:49:00] Update documentation and architectural guides
+- [2018-08-23T17:17:14] Refactor cookie refresher probe logic
