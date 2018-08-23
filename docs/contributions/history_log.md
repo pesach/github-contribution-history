@@ -16775,3 +16775,4 @@
 - [2018-08-22T15:23:41] Update automated pytest test suites
 - [2018-08-23T16:19:41] Implement streaming upload chunk buffer optimization
 - [2018-08-23T21:15:40] Add retries for transient network drops
+- [2018-08-23T08:48:44] Update dependency lockfiles and requirements
