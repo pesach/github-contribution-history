@@ -16788,3 +16788,4 @@
 - [2018-08-24T20:32:34] Implement streaming upload chunk buffer optimization
 - [2018-08-24T16:54:52] Add Prometheus exporter endpoints for queue length
 - [2018-08-24T18:10:15] Refactor cookie refresher probe logic
+- [2018-08-24T13:40:00] Refactor worker polling logic
