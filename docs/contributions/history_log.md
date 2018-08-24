@@ -16779,3 +16779,4 @@
 - [2018-08-23T08:49:00] Update documentation and architectural guides
 - [2018-08-23T17:17:14] Refactor cookie refresher probe logic
 - [2018-08-23T10:20:31] Fix edge case in channel tab crawler
+- [2018-08-23T21:07:42] Fix edge case in URL parsing and validation
