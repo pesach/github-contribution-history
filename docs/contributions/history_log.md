@@ -16781,3 +16781,4 @@
 - [2018-08-23T10:20:31] Fix edge case in channel tab crawler
 - [2018-08-23T21:07:42] Fix edge case in URL parsing and validation
 - [2018-08-24T14:52:53] Optimize PostgreSQL query execution plans
+- [2018-08-24T12:47:27] Refactor worker polling logic
