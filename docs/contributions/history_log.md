@@ -16789,3 +16789,4 @@
 - [2018-08-24T16:54:52] Add Prometheus exporter endpoints for queue length
 - [2018-08-24T18:10:15] Refactor cookie refresher probe logic
 - [2018-08-24T13:40:00] Refactor worker polling logic
+- [2018-08-27T13:52:06] Add error handling for yt-dlp rate limits
