@@ -16805,3 +16805,4 @@
 - [2018-08-28T11:08:27] Refactor worker polling logic
 - [2018-08-28T13:40:48] Add Redis rate limit backoff handlers
 - [2018-08-28T16:37:52] Update automated pytest test suites
+- [2018-08-28T13:24:14] Clean up legacy worker task routines
