@@ -16799,3 +16799,4 @@
 - [2018-08-28T11:12:04] Add retries for transient network drops
 - [2018-08-28T22:24:29] Fix edge case in channel tab crawler
 - [2018-08-28T20:48:19] Update B2 storage chunking parameters
+- [2018-08-28T10:20:02] Add Prometheus exporter endpoints for queue length
