@@ -16807,3 +16807,4 @@
 - [2018-08-28T16:37:52] Update automated pytest test suites
 - [2018-08-28T13:24:14] Clean up legacy worker task routines
 - [2018-08-29T14:35:24] Add retries for transient network drops
+- [2018-08-29T16:17:27] Update dependency lockfiles and requirements
