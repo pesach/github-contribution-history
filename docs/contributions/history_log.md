@@ -16814,3 +16814,4 @@
 - [2018-08-29T17:58:30] Add Prometheus exporter endpoints for queue length
 - [2018-08-29T08:40:22] Update automated pytest test suites
 - [2018-08-29T12:49:05] Enhance dashboard statistics rendering
+- [2018-08-29T17:13:35] Fix edge case in URL parsing and validation
