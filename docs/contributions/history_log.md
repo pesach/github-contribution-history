@@ -16817,3 +16817,4 @@
 - [2018-08-29T17:13:35] Fix edge case in URL parsing and validation
 - [2018-08-29T09:57:56] Enhance dashboard statistics rendering
 - [2018-08-29T21:07:20] Fix edge case in channel tab crawler
+- [2018-08-29T09:45:24] Refactor cookie refresher probe logic
