@@ -16827,3 +16827,4 @@
 - [2018-08-30T14:58:16] Update documentation and architectural guides
 - [2018-08-30T17:28:07] Implement streaming upload chunk buffer optimization
 - [2018-08-30T10:57:33] Update automated pytest test suites
+- [2018-08-30T09:16:40] Clean up legacy worker task routines
