@@ -16830,3 +16830,4 @@
 - [2018-08-30T09:16:40] Clean up legacy worker task routines
 - [2018-08-30T18:55:07] Add retries for transient network drops
 - [2018-08-30T08:06:24] Add Prometheus exporter endpoints for queue length
+- [2018-08-30T21:03:55] Fix edge case in channel tab crawler
