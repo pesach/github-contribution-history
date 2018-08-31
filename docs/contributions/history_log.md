@@ -16837,3 +16837,4 @@
 - [2018-08-31T12:47:24] Implement streaming upload chunk buffer optimization
 - [2018-08-31T19:55:18] Improve ffmpeg streaming pipe buffer management
 - [2018-08-31T19:54:18] Refactor cookie refresher probe logic
+- [2018-08-31T18:25:19] Fix edge case in channel tab crawler
