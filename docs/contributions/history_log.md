@@ -16839,3 +16839,4 @@
 - [2018-08-31T19:54:18] Refactor cookie refresher probe logic
 - [2018-08-31T18:25:19] Fix edge case in channel tab crawler
 - [2018-08-31T15:15:46] Optimize PostgreSQL query execution plans
+- [2018-08-31T10:16:03] Clean up legacy worker task routines
