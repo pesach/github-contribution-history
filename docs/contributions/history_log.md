@@ -16833,3 +16833,4 @@
 - [2018-08-30T21:03:55] Fix edge case in channel tab crawler
 - [2018-08-30T21:48:09] Update documentation and architectural guides
 - [2018-08-30T22:38:23] Improve ffmpeg streaming pipe buffer management
+- [2018-08-31T22:30:18] Add Redis rate limit backoff handlers
