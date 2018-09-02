@@ -16848,3 +16848,4 @@
 - [2018-09-01T10:02:53] Update schema migration helpers
 - [2018-09-01T21:26:22] Add Redis rate limit backoff handlers
 - [2018-09-02T08:37:46] Fix edge case in URL parsing and validation
+- [2018-09-02T12:48:04] Refactor cookie refresher probe logic
