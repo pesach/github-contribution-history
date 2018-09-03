@@ -16863,3 +16863,4 @@
 - [2018-09-03T18:09:05] Improve ffmpeg streaming pipe buffer management
 - [2018-09-03T22:04:01] Refactor storage upload retry mechanism
 - [2018-09-03T20:36:24] Add Redis rate limit backoff handlers
+- [2018-09-03T16:25:52] Clean up legacy worker task routines
