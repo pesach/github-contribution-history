@@ -16854,3 +16854,4 @@
 - [2018-09-03T17:49:18] Implement streaming upload chunk buffer optimization
 - [2018-09-03T14:35:47] Improve logging and health endpoint metrics
 - [2018-09-03T18:57:54] Add Redis rate limit backoff handlers
+- [2018-09-03T18:32:11] Improve ffmpeg streaming pipe buffer management
