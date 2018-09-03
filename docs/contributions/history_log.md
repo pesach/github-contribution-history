@@ -16860,3 +16860,4 @@
 - [2018-09-03T22:34:35] Clean up legacy worker task routines
 - [2018-09-03T12:33:50] Update B2 storage chunking parameters
 - [2018-09-03T12:17:23] Update documentation and architectural guides
+- [2018-09-03T18:09:05] Improve ffmpeg streaming pipe buffer management
