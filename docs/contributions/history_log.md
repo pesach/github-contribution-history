@@ -16871,3 +16871,4 @@
 - [2018-09-04T15:21:18] Clean up legacy worker task routines
 - [2018-09-04T21:53:32] Add retries for transient network drops
 - [2018-09-04T20:52:06] Update dependency lockfiles and requirements
+- [2018-09-04T15:07:44] Fix edge case in channel tab crawler
