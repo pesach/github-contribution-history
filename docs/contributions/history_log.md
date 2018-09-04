@@ -16865,3 +16865,4 @@
 - [2018-09-03T20:36:24] Add Redis rate limit backoff handlers
 - [2018-09-03T16:25:52] Clean up legacy worker task routines
 - [2018-09-04T11:14:41] Fix edge case in URL parsing and validation
+- [2018-09-04T11:02:50] Refactor storage upload retry mechanism
