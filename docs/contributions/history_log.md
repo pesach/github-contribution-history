@@ -16874,3 +16874,4 @@
 - [2018-09-04T15:07:44] Fix edge case in channel tab crawler
 - [2018-09-04T10:44:53] Update dependency lockfiles and requirements
 - [2018-09-04T20:47:50] Update automated pytest test suites
+- [2018-09-04T22:42:46] Improve ffmpeg streaming pipe buffer management
