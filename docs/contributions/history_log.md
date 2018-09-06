@@ -16876,3 +16876,4 @@
 - [2018-09-04T20:47:50] Update automated pytest test suites
 - [2018-09-04T22:42:46] Improve ffmpeg streaming pipe buffer management
 - [2018-09-06T21:28:25] Add Prometheus exporter endpoints for queue length
+- [2018-09-06T14:39:56] Implement streaming upload chunk buffer optimization
