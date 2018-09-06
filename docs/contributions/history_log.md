@@ -16880,3 +16880,4 @@
 - [2018-09-06T22:51:30] Refactor cookie refresher probe logic
 - [2018-09-06T16:52:44] Improve logging and health endpoint metrics
 - [2018-09-06T12:28:30] Fix edge case in channel tab crawler
+- [2018-09-06T16:03:03] Update documentation and architectural guides
