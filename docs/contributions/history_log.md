@@ -16885,3 +16885,4 @@
 - [2018-09-06T08:17:18] Fix edge case in URL parsing and validation
 - [2018-09-06T09:46:02] Refactor cookie refresher probe logic
 - [2018-09-06T08:24:17] Update documentation and architectural guides
+- [2018-09-06T11:03:55] Refactor cookie refresher probe logic
