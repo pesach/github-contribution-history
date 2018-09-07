@@ -16900,3 +16900,4 @@
 - [2018-09-07T19:40:12] Implement streaming upload chunk buffer optimization
 - [2018-09-07T08:55:47] Improve ffmpeg streaming pipe buffer management
 - [2018-09-07T19:11:36] Fix edge case in channel tab crawler
+- [2018-09-07T08:13:44] Update B2 storage chunking parameters
