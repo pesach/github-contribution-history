@@ -16917,3 +16917,4 @@
 - [2018-09-11T21:52:08] Add error handling for yt-dlp rate limits
 - [2018-09-11T12:24:19] Update automated pytest test suites
 - [2018-09-11T18:37:15] Enhance dashboard statistics rendering
+- [2018-09-11T14:15:20] Clean up legacy worker task routines
