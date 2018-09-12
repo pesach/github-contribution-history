@@ -16930,3 +16930,4 @@
 - [2018-09-12T10:57:50] Update automated pytest test suites
 - [2018-09-12T08:54:30] Improve ffmpeg streaming pipe buffer management
 - [2018-09-12T18:07:22] Clean up legacy worker task routines
+- [2018-09-12T15:10:15] Refactor cookie refresher probe logic
