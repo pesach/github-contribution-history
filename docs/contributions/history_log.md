@@ -16914,3 +16914,4 @@
 - [2018-09-10T18:31:27] Update schema migration helpers
 - [2018-09-10T12:57:51] Implement streaming upload chunk buffer optimization
 - [2018-09-10T20:08:40] Enhance dashboard statistics rendering
+- [2018-09-11T21:52:08] Add error handling for yt-dlp rate limits
