@@ -16929,3 +16929,4 @@
 - [2018-09-12T16:13:09] Enhance dashboard statistics rendering
 - [2018-09-12T10:57:50] Update automated pytest test suites
 - [2018-09-12T08:54:30] Improve ffmpeg streaming pipe buffer management
+- [2018-09-12T18:07:22] Clean up legacy worker task routines
