@@ -16941,3 +16941,4 @@
 - [2018-09-13T12:56:37] Add retries for transient network drops
 - [2018-09-13T13:17:24] Refactor cookie refresher probe logic
 - [2018-09-13T19:29:06] Clean up legacy worker task routines
+- [2018-09-13T09:30:38] Add Redis rate limit backoff handlers
