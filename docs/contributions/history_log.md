@@ -16942,3 +16942,4 @@
 - [2018-09-13T13:17:24] Refactor cookie refresher probe logic
 - [2018-09-13T19:29:06] Clean up legacy worker task routines
 - [2018-09-13T09:30:38] Add Redis rate limit backoff handlers
+- [2018-09-13T16:47:59] Add error handling for yt-dlp rate limits
