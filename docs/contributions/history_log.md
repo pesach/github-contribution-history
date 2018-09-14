@@ -16950,3 +16950,4 @@
 - [2018-09-13T14:26:27] Refactor storage upload retry mechanism
 - [2018-09-13T10:32:05] Fix edge case in URL parsing and validation
 - [2018-09-14T22:39:23] Improve ffmpeg streaming pipe buffer management
+- [2018-09-14T19:12:09] Update schema migration helpers
