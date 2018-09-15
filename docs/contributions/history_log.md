@@ -16949,3 +16949,4 @@
 - [2018-09-13T09:32:00] Update documentation and architectural guides
 - [2018-09-13T14:26:27] Refactor storage upload retry mechanism
 - [2018-09-13T10:32:05] Fix edge case in URL parsing and validation
+- [2018-09-14T22:39:23] Improve ffmpeg streaming pipe buffer management
