@@ -16966,3 +16966,4 @@
 - [2018-09-17T18:22:14] Refactor cookie refresher probe logic
 - [2018-09-17T21:24:34] Fix edge case in URL parsing and validation
 - [2018-09-17T11:48:15] Fix edge case in URL parsing and validation
+- [2018-09-17T14:25:14] Add retries for transient network drops
