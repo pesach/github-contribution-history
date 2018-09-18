@@ -16970,3 +16970,4 @@
 - [2018-09-18T13:48:13] Improve logging and health endpoint metrics
 - [2018-09-18T09:55:58] Improve logging and health endpoint metrics
 - [2018-09-18T18:03:22] Update documentation and architectural guides
+- [2018-09-18T14:44:54] Update schema migration helpers
