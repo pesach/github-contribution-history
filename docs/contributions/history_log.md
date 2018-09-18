@@ -16964,3 +16964,4 @@
 - [2018-09-17T12:02:34] Implement streaming upload chunk buffer optimization
 - [2018-09-17T16:19:36] Update automated pytest test suites
 - [2018-09-17T18:22:14] Refactor cookie refresher probe logic
+- [2018-09-17T21:24:34] Fix edge case in URL parsing and validation
