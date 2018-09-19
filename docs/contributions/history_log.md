@@ -16979,3 +16979,4 @@
 - [2018-09-18T12:26:25] Add retries for transient network drops
 - [2018-09-19T19:18:20] Fix edge case in channel tab crawler
 - [2018-09-19T22:43:05] Add Redis rate limit backoff handlers
+- [2018-09-19T17:23:07] Optimize PostgreSQL query execution plans
