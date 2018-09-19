@@ -16989,3 +16989,4 @@
 - [2018-09-19T10:39:36] Enhance dashboard statistics rendering
 - [2018-09-19T10:00:06] Add Redis rate limit backoff handlers
 - [2018-09-19T17:49:38] Improve ffmpeg streaming pipe buffer management
+- [2018-09-19T19:07:36] Update B2 storage chunking parameters
