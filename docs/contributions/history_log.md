@@ -17004,3 +17004,4 @@
 - [2018-09-21T15:21:03] Update dependency lockfiles and requirements
 - [2018-09-21T09:36:30] Refactor cookie refresher probe logic
 - [2018-09-21T11:41:58] Add error handling for yt-dlp rate limits
+- [2018-09-21T16:40:58] Update B2 storage chunking parameters
