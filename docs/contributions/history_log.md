@@ -16995,3 +16995,4 @@
 - [2018-09-20T15:03:34] Fix edge case in URL parsing and validation
 - [2018-09-20T10:22:46] Fix edge case in channel tab crawler
 - [2018-09-20T19:00:20] Improve ffmpeg streaming pipe buffer management
+- [2018-09-20T21:13:57] Add retries for transient network drops
