@@ -17002,3 +17002,4 @@
 - [2018-09-20T11:55:49] Improve logging and health endpoint metrics
 - [2018-09-21T22:28:20] Refactor storage upload retry mechanism
 - [2018-09-21T15:21:03] Update dependency lockfiles and requirements
+- [2018-09-21T09:36:30] Refactor cookie refresher probe logic
