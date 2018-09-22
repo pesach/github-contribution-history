@@ -17008,3 +17008,4 @@
 - [2018-09-21T18:21:03] Improve ffmpeg streaming pipe buffer management
 - [2018-09-22T19:12:43] Update schema migration helpers
 - [2018-09-22T10:06:05] Add Prometheus exporter endpoints for queue length
+- [2018-09-22T15:44:19] Update dependency lockfiles and requirements
