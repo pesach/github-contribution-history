@@ -17009,3 +17009,4 @@
 - [2018-09-22T19:12:43] Update schema migration helpers
 - [2018-09-22T10:06:05] Add Prometheus exporter endpoints for queue length
 - [2018-09-22T15:44:19] Update dependency lockfiles and requirements
+- [2018-09-22T11:36:07] Fix edge case in URL parsing and validation
