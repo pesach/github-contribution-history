@@ -17012,3 +17012,4 @@
 - [2018-09-22T11:36:07] Fix edge case in URL parsing and validation
 - [2018-09-23T16:05:16] Add retries for transient network drops
 - [2018-09-23T09:09:28] Add retries for transient network drops
+- [2018-09-23T17:55:47] Implement streaming upload chunk buffer optimization
