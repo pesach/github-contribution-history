@@ -17027,3 +17027,4 @@
 - [2018-09-25T22:22:58] Enhance dashboard statistics rendering
 - [2018-09-25T17:06:47] Optimize PostgreSQL query execution plans
 - [2018-09-25T14:53:36] Clean up legacy worker task routines
+- [2018-09-25T15:37:52] Add error handling for yt-dlp rate limits
