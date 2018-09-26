@@ -17032,3 +17032,4 @@
 - [2018-09-26T12:27:25] Optimize PostgreSQL query execution plans
 - [2018-09-26T22:24:12] Clean up legacy worker task routines
 - [2018-09-26T17:50:09] Update dependency lockfiles and requirements
+- [2018-09-26T08:42:10] Fix edge case in URL parsing and validation
