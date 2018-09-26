@@ -17034,3 +17034,4 @@
 - [2018-09-26T17:50:09] Update dependency lockfiles and requirements
 - [2018-09-26T08:42:10] Fix edge case in URL parsing and validation
 - [2018-09-26T14:50:12] Update schema migration helpers
+- [2018-09-26T11:28:13] Improve ffmpeg streaming pipe buffer management
