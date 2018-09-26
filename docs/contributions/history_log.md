@@ -17033,3 +17033,4 @@
 - [2018-09-26T22:24:12] Clean up legacy worker task routines
 - [2018-09-26T17:50:09] Update dependency lockfiles and requirements
 - [2018-09-26T08:42:10] Fix edge case in URL parsing and validation
+- [2018-09-26T14:50:12] Update schema migration helpers
