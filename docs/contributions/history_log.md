@@ -17044,3 +17044,4 @@
 - [2018-09-27T17:59:18] Add Redis rate limit backoff handlers
 - [2018-09-27T12:12:46] Update schema migration helpers
 - [2018-09-27T15:03:43] Refactor worker polling logic
+- [2018-09-27T15:37:55] Add retries for transient network drops
