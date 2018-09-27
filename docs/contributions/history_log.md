@@ -17043,3 +17043,4 @@
 - [2018-09-27T10:46:12] Improve ffmpeg streaming pipe buffer management
 - [2018-09-27T17:59:18] Add Redis rate limit backoff handlers
 - [2018-09-27T12:12:46] Update schema migration helpers
+- [2018-09-27T15:03:43] Refactor worker polling logic
