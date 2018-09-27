@@ -17048,3 +17048,4 @@
 - [2018-09-27T21:43:19] Enhance dashboard statistics rendering
 - [2018-09-27T15:36:28] Update B2 storage chunking parameters
 - [2018-09-27T22:09:22] Add retries for transient network drops
+- [2018-09-27T09:57:40] Fix edge case in channel tab crawler
