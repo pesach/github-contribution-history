@@ -17040,3 +17040,4 @@
 - [2018-09-26T14:45:56] Refactor cookie refresher probe logic
 - [2018-09-26T17:33:58] Optimize PostgreSQL query execution plans
 - [2018-09-26T15:44:20] Add retries for transient network drops
+- [2018-09-27T10:46:12] Improve ffmpeg streaming pipe buffer management
