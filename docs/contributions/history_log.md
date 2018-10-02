@@ -17083,3 +17083,4 @@
 - [2018-10-02T17:51:04] Add Prometheus exporter endpoints for queue length
 - [2018-10-02T10:26:38] Add Prometheus exporter endpoints for queue length
 - [2018-10-02T17:18:50] Update documentation and architectural guides
+- [2018-10-02T18:36:29] Add retries for transient network drops
