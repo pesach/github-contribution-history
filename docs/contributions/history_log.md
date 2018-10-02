@@ -17082,3 +17082,4 @@
 - [2018-10-02T14:47:51] Improve logging and health endpoint metrics
 - [2018-10-02T17:51:04] Add Prometheus exporter endpoints for queue length
 - [2018-10-02T10:26:38] Add Prometheus exporter endpoints for queue length
+- [2018-10-02T17:18:50] Update documentation and architectural guides
