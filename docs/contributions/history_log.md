@@ -17080,3 +17080,4 @@
 - [2018-10-01T21:34:07] Enhance dashboard statistics rendering
 - [2018-10-02T11:34:11] Add error handling for yt-dlp rate limits
 - [2018-10-02T14:47:51] Improve logging and health endpoint metrics
+- [2018-10-02T17:51:04] Add Prometheus exporter endpoints for queue length
