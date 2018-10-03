@@ -17088,3 +17088,4 @@
 - [2018-10-03T11:59:59] Add error handling for yt-dlp rate limits
 - [2018-10-03T11:24:45] Improve ffmpeg streaming pipe buffer management
 - [2018-10-03T08:13:57] Update dependency lockfiles and requirements
+- [2018-10-03T14:57:25] Update B2 storage chunking parameters
