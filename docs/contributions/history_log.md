@@ -17086,3 +17086,4 @@
 - [2018-10-02T18:36:29] Add retries for transient network drops
 - [2018-10-02T10:01:55] Add Redis rate limit backoff handlers
 - [2018-10-03T11:59:59] Add error handling for yt-dlp rate limits
+- [2018-10-03T11:24:45] Improve ffmpeg streaming pipe buffer management
