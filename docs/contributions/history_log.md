@@ -17089,3 +17089,4 @@
 - [2018-10-03T11:24:45] Improve ffmpeg streaming pipe buffer management
 - [2018-10-03T08:13:57] Update dependency lockfiles and requirements
 - [2018-10-03T14:57:25] Update B2 storage chunking parameters
+- [2018-10-03T15:43:11] Update documentation and architectural guides
