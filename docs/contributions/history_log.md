@@ -17091,3 +17091,4 @@
 - [2018-10-03T14:57:25] Update B2 storage chunking parameters
 - [2018-10-03T15:43:11] Update documentation and architectural guides
 - [2018-10-03T11:38:51] Add retries for transient network drops
+- [2018-10-03T15:02:00] Refactor cookie refresher probe logic
