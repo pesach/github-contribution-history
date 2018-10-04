@@ -17107,3 +17107,4 @@
 - [2018-10-04T17:44:24] Add Redis rate limit backoff handlers
 - [2018-10-04T13:18:13] Update schema migration helpers
 - [2018-10-04T14:50:53] Refactor cookie refresher probe logic
+- [2018-10-04T18:57:26] Refactor storage upload retry mechanism
