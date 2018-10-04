@@ -17103,3 +17103,4 @@
 - [2018-10-04T09:58:16] Add error handling for yt-dlp rate limits
 - [2018-10-04T13:26:45] Update B2 storage chunking parameters
 - [2018-10-04T14:46:10] Fix edge case in channel tab crawler
+- [2018-10-04T11:10:46] Refactor worker polling logic
