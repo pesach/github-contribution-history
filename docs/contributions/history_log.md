@@ -17105,3 +17105,4 @@
 - [2018-10-04T14:46:10] Fix edge case in channel tab crawler
 - [2018-10-04T11:10:46] Refactor worker polling logic
 - [2018-10-04T17:44:24] Add Redis rate limit backoff handlers
+- [2018-10-04T13:18:13] Update schema migration helpers
