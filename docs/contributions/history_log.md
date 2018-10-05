@@ -17109,3 +17109,4 @@
 - [2018-10-04T14:50:53] Refactor cookie refresher probe logic
 - [2018-10-04T18:57:26] Refactor storage upload retry mechanism
 - [2018-10-04T22:31:26] Optimize PostgreSQL query execution plans
+- [2018-10-05T08:10:04] Fix edge case in channel tab crawler
