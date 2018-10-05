@@ -17116,3 +17116,4 @@
 - [2018-10-05T12:40:05] Refactor worker polling logic
 - [2018-10-05T11:24:00] Update schema migration helpers
 - [2018-10-05T10:39:32] Refactor storage upload retry mechanism
+- [2018-10-05T13:59:14] Add error handling for yt-dlp rate limits
