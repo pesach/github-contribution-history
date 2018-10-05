@@ -17112,3 +17112,4 @@
 - [2018-10-05T08:10:04] Fix edge case in channel tab crawler
 - [2018-10-05T20:53:54] Fix edge case in URL parsing and validation
 - [2018-10-05T17:37:09] Implement streaming upload chunk buffer optimization
+- [2018-10-05T17:01:38] Add error handling for yt-dlp rate limits
