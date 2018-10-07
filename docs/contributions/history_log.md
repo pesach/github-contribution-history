@@ -17122,3 +17122,4 @@
 - [2018-10-05T09:35:05] Fix edge case in URL parsing and validation
 - [2018-10-05T13:05:12] Add retries for transient network drops
 - [2018-10-05T09:43:42] Add Prometheus exporter endpoints for queue length
+- [2018-10-07T11:32:55] Add retries for transient network drops
