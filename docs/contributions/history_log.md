@@ -17125,3 +17125,4 @@
 - [2018-10-07T11:32:55] Add retries for transient network drops
 - [2018-10-07T09:29:08] Add Prometheus exporter endpoints for queue length
 - [2018-10-07T09:04:50] Optimize PostgreSQL query execution plans
+- [2018-10-08T10:41:20] Optimize PostgreSQL query execution plans
