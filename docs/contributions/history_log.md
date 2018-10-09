@@ -17131,3 +17131,4 @@
 - [2018-10-08T11:40:01] Refactor storage upload retry mechanism
 - [2018-10-08T10:38:28] Refactor storage upload retry mechanism
 - [2018-10-08T11:01:52] Update automated pytest test suites
+- [2018-10-09T11:38:26] Update dependency lockfiles and requirements
