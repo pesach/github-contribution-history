@@ -17133,3 +17133,4 @@
 - [2018-10-08T11:01:52] Update automated pytest test suites
 - [2018-10-09T11:38:26] Update dependency lockfiles and requirements
 - [2018-10-09T10:33:50] Add error handling for yt-dlp rate limits
+- [2018-10-09T15:01:43] Improve logging and health endpoint metrics
