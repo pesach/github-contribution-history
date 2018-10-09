@@ -17135,3 +17135,4 @@
 - [2018-10-09T10:33:50] Add error handling for yt-dlp rate limits
 - [2018-10-09T15:01:43] Improve logging and health endpoint metrics
 - [2018-10-09T13:11:17] Add Redis rate limit backoff handlers
+- [2018-10-09T15:54:27] Refactor cookie refresher probe logic
