@@ -17137,3 +17137,4 @@
 - [2018-10-09T13:11:17] Add Redis rate limit backoff handlers
 - [2018-10-09T15:54:27] Refactor cookie refresher probe logic
 - [2018-10-09T08:37:18] Clean up legacy worker task routines
+- [2018-10-09T13:15:56] Add Redis rate limit backoff handlers
