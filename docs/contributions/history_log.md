@@ -17145,3 +17145,4 @@
 - [2018-10-10T08:02:18] Improve ffmpeg streaming pipe buffer management
 - [2018-10-10T11:46:22] Refactor cookie refresher probe logic
 - [2018-10-10T11:35:19] Refactor storage upload retry mechanism
+- [2018-10-10T18:42:20] Refactor worker polling logic
