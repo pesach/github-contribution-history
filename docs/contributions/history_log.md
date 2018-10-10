@@ -17140,3 +17140,4 @@
 - [2018-10-09T13:15:56] Add Redis rate limit backoff handlers
 - [2018-10-10T18:54:52] Add Redis rate limit backoff handlers
 - [2018-10-10T11:31:57] Improve logging and health endpoint metrics
+- [2018-10-10T13:39:37] Improve ffmpeg streaming pipe buffer management
