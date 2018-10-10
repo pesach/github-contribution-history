@@ -17143,3 +17143,4 @@
 - [2018-10-10T13:39:37] Improve ffmpeg streaming pipe buffer management
 - [2018-10-10T10:05:03] Refactor cookie refresher probe logic
 - [2018-10-10T08:02:18] Improve ffmpeg streaming pipe buffer management
+- [2018-10-10T11:46:22] Refactor cookie refresher probe logic
