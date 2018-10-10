@@ -17149,3 +17149,4 @@
 - [2018-10-10T14:32:42] Update dependency lockfiles and requirements
 - [2018-10-10T08:30:02] Update B2 storage chunking parameters
 - [2018-10-10T09:43:02] Improve logging and health endpoint metrics
+- [2018-10-10T16:18:10] Improve ffmpeg streaming pipe buffer management
