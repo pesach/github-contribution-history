@@ -17152,3 +17152,4 @@
 - [2018-10-10T16:18:10] Improve ffmpeg streaming pipe buffer management
 - [2018-10-10T13:07:05] Update automated pytest test suites
 - [2018-10-10T22:27:32] Implement streaming upload chunk buffer optimization
+- [2018-10-11T16:20:39] Update dependency lockfiles and requirements
