@@ -17170,3 +17170,4 @@
 - [2018-10-12T16:00:18] Improve logging and health endpoint metrics
 - [2018-10-12T16:35:16] Improve ffmpeg streaming pipe buffer management
 - [2018-10-12T18:40:51] Update automated pytest test suites
+- [2018-10-12T11:37:06] Clean up legacy worker task routines
