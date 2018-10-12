@@ -17168,3 +17168,4 @@
 - [2018-10-12T14:33:15] Update B2 storage chunking parameters
 - [2018-10-12T19:44:54] Add Redis rate limit backoff handlers
 - [2018-10-12T16:00:18] Improve logging and health endpoint metrics
+- [2018-10-12T16:35:16] Improve ffmpeg streaming pipe buffer management
