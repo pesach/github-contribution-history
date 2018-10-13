@@ -17171,3 +17171,4 @@
 - [2018-10-12T16:35:16] Improve ffmpeg streaming pipe buffer management
 - [2018-10-12T18:40:51] Update automated pytest test suites
 - [2018-10-12T11:37:06] Clean up legacy worker task routines
+- [2018-10-13T16:43:15] Add error handling for yt-dlp rate limits
