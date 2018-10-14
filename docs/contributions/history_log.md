@@ -17178,3 +17178,4 @@
 - [2018-10-13T13:13:26] Improve ffmpeg streaming pipe buffer management
 - [2018-10-14T18:13:22] Update B2 storage chunking parameters
 - [2018-10-14T20:41:32] Refactor worker polling logic
+- [2018-10-14T13:35:42] Update documentation and architectural guides
