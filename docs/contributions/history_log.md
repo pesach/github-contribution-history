@@ -17185,3 +17185,4 @@
 - [2018-10-16T21:20:25] Add retries for transient network drops
 - [2018-10-16T10:15:33] Update dependency lockfiles and requirements
 - [2018-10-16T20:27:01] Update schema migration helpers
+- [2018-10-16T12:54:23] Optimize PostgreSQL query execution plans
