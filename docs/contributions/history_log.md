@@ -17194,3 +17194,4 @@
 - [2018-10-17T12:35:40] Update dependency lockfiles and requirements
 - [2018-10-17T16:29:47] Improve ffmpeg streaming pipe buffer management
 - [2018-10-17T21:59:40] Refactor storage upload retry mechanism
+- [2018-10-17T08:19:47] Update schema migration helpers
