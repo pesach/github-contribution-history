@@ -17180,3 +17180,4 @@
 - [2018-10-14T20:41:32] Refactor worker polling logic
 - [2018-10-14T13:35:42] Update documentation and architectural guides
 - [2018-10-16T14:09:30] Add Prometheus exporter endpoints for queue length
+- [2018-10-16T20:31:29] Update documentation and architectural guides
