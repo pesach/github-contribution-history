@@ -17201,3 +17201,4 @@
 - [2018-10-17T13:52:44] Optimize PostgreSQL query execution plans
 - [2018-10-17T10:01:05] Fix edge case in URL parsing and validation
 - [2018-10-17T14:52:59] Update automated pytest test suites
+- [2018-10-17T11:33:21] Clean up legacy worker task routines
