@@ -17203,3 +17203,4 @@
 - [2018-10-17T14:52:59] Update automated pytest test suites
 - [2018-10-17T11:33:21] Clean up legacy worker task routines
 - [2018-10-17T17:58:05] Clean up legacy worker task routines
+- [2018-10-17T21:30:20] Improve ffmpeg streaming pipe buffer management
