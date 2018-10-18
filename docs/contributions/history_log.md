@@ -17209,3 +17209,4 @@
 - [2018-10-18T20:13:59] Fix edge case in channel tab crawler
 - [2018-10-18T17:24:30] Update automated pytest test suites
 - [2018-10-18T18:22:54] Fix edge case in channel tab crawler
+- [2018-10-18T14:06:02] Fix edge case in URL parsing and validation
