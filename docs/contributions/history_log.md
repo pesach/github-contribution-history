@@ -17205,3 +17205,4 @@
 - [2018-10-17T17:58:05] Clean up legacy worker task routines
 - [2018-10-17T21:30:20] Improve ffmpeg streaming pipe buffer management
 - [2018-10-18T14:22:36] Update B2 storage chunking parameters
+- [2018-10-18T09:06:49] Update B2 storage chunking parameters
