@@ -17215,3 +17215,4 @@
 - [2018-10-18T10:41:05] Fix edge case in channel tab crawler
 - [2018-10-18T18:29:05] Refactor worker polling logic
 - [2018-10-18T09:35:45] Clean up legacy worker task routines
+- [2018-10-19T16:16:16] Fix edge case in URL parsing and validation
