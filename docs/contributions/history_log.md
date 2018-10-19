@@ -17219,3 +17219,4 @@
 - [2018-10-19T19:45:15] Fix edge case in channel tab crawler
 - [2018-10-19T10:08:58] Update schema migration helpers
 - [2018-10-19T10:49:40] Enhance dashboard statistics rendering
+- [2018-10-19T15:42:07] Fix edge case in channel tab crawler
