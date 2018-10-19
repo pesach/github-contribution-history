@@ -17223,3 +17223,4 @@
 - [2018-10-19T09:44:15] Update dependency lockfiles and requirements
 - [2018-10-19T13:57:25] Update schema migration helpers
 - [2018-10-19T18:45:53] Refactor storage upload retry mechanism
+- [2018-10-19T11:32:17] Fix edge case in channel tab crawler
