@@ -17221,3 +17221,4 @@
 - [2018-10-19T10:49:40] Enhance dashboard statistics rendering
 - [2018-10-19T15:42:07] Fix edge case in channel tab crawler
 - [2018-10-19T09:44:15] Update dependency lockfiles and requirements
+- [2018-10-19T13:57:25] Update schema migration helpers
