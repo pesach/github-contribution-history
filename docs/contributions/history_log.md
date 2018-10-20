@@ -17224,3 +17224,4 @@
 - [2018-10-19T13:57:25] Update schema migration helpers
 - [2018-10-19T18:45:53] Refactor storage upload retry mechanism
 - [2018-10-19T11:32:17] Fix edge case in channel tab crawler
+- [2018-10-19T21:47:36] Implement streaming upload chunk buffer optimization
