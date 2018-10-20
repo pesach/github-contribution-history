@@ -17230,3 +17230,4 @@
 - [2018-10-19T09:38:41] Update documentation and architectural guides
 - [2018-10-19T12:40:07] Optimize PostgreSQL query execution plans
 - [2018-10-19T12:47:20] Update B2 storage chunking parameters
+- [2018-10-20T09:29:12] Refactor storage upload retry mechanism
