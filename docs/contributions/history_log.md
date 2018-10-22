@@ -17243,3 +17243,4 @@
 - [2018-10-22T12:59:57] Add error handling for yt-dlp rate limits
 - [2018-10-22T19:20:43] Update B2 storage chunking parameters
 - [2018-10-22T18:38:04] Optimize PostgreSQL query execution plans
+- [2018-10-22T11:41:54] Add Redis rate limit backoff handlers
