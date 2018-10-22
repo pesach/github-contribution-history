@@ -17238,3 +17238,4 @@
 - [2018-10-21T21:50:38] Update B2 storage chunking parameters
 - [2018-10-21T14:17:14] Add Redis rate limit backoff handlers
 - [2018-10-21T17:04:03] Update B2 storage chunking parameters
+- [2018-10-22T17:37:43] Fix edge case in URL parsing and validation
