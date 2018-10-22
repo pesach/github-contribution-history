@@ -17235,3 +17235,4 @@
 - [2018-10-20T08:10:41] Enhance dashboard statistics rendering
 - [2018-10-20T15:35:35] Update automated pytest test suites
 - [2018-10-20T22:58:37] Add retries for transient network drops
+- [2018-10-21T21:50:38] Update B2 storage chunking parameters
