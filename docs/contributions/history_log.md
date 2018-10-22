@@ -17240,3 +17240,4 @@
 - [2018-10-21T17:04:03] Update B2 storage chunking parameters
 - [2018-10-22T17:37:43] Fix edge case in URL parsing and validation
 - [2018-10-22T14:09:24] Fix edge case in URL parsing and validation
+- [2018-10-22T12:59:57] Add error handling for yt-dlp rate limits
