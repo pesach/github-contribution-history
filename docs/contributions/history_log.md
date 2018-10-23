@@ -17259,3 +17259,4 @@
 - [2018-10-23T11:07:33] Fix edge case in URL parsing and validation
 - [2018-10-23T21:47:49] Improve logging and health endpoint metrics
 - [2018-10-23T15:26:40] Improve logging and health endpoint metrics
+- [2018-10-23T13:10:57] Refactor cookie refresher probe logic
