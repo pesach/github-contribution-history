@@ -17263,3 +17263,4 @@
 - [2018-10-24T09:11:37] Clean up legacy worker task routines
 - [2018-10-24T14:31:43] Update B2 storage chunking parameters
 - [2018-10-24T14:03:19] Add Redis rate limit backoff handlers
+- [2018-10-24T15:49:12] Refactor storage upload retry mechanism
