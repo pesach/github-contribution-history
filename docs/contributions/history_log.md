@@ -17269,3 +17269,4 @@
 - [2018-10-25T08:42:40] Update automated pytest test suites
 - [2018-10-25T10:38:22] Update automated pytest test suites
 - [2018-10-25T10:22:08] Update dependency lockfiles and requirements
+- [2018-10-25T13:24:40] Add Prometheus exporter endpoints for queue length
