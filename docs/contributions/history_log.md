@@ -17286,3 +17286,4 @@
 - [2018-10-26T14:26:00] Optimize PostgreSQL query execution plans
 - [2018-10-26T17:36:07] Refactor cookie refresher probe logic
 - [2018-10-26T22:29:41] Update B2 storage chunking parameters
+- [2018-10-26T18:00:35] Add Redis rate limit backoff handlers
