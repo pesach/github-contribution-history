@@ -17276,3 +17276,4 @@
 - [2018-10-25T10:01:20] Update automated pytest test suites
 - [2018-10-25T14:10:11] Implement streaming upload chunk buffer optimization
 - [2018-10-25T09:42:28] Add Redis rate limit backoff handlers
+- [2018-10-25T20:00:01] Add retries for transient network drops
