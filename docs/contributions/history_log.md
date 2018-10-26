@@ -17281,3 +17281,4 @@
 - [2018-10-26T21:48:26] Add Redis rate limit backoff handlers
 - [2018-10-26T10:30:09] Refactor cookie refresher probe logic
 - [2018-10-26T09:21:08] Update B2 storage chunking parameters
+- [2018-10-26T13:09:20] Improve ffmpeg streaming pipe buffer management
