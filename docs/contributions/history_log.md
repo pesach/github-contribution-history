@@ -17283,3 +17283,4 @@
 - [2018-10-26T09:21:08] Update B2 storage chunking parameters
 - [2018-10-26T13:09:20] Improve ffmpeg streaming pipe buffer management
 - [2018-10-26T12:11:42] Clean up legacy worker task routines
+- [2018-10-26T14:26:00] Optimize PostgreSQL query execution plans
