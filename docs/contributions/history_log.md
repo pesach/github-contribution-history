@@ -17294,3 +17294,4 @@
 - [2018-10-26T11:49:27] Add Redis rate limit backoff handlers
 - [2018-10-27T13:35:03] Refactor worker polling logic
 - [2018-10-27T16:20:34] Add Prometheus exporter endpoints for queue length
+- [2018-10-27T18:58:08] Update B2 storage chunking parameters
