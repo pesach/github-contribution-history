@@ -17296,3 +17296,4 @@
 - [2018-10-27T16:20:34] Add Prometheus exporter endpoints for queue length
 - [2018-10-27T18:58:08] Update B2 storage chunking parameters
 - [2018-10-27T11:26:52] Fix edge case in URL parsing and validation
+- [2018-10-28T08:20:58] Fix edge case in channel tab crawler
