@@ -17304,3 +17304,4 @@
 - [2018-10-29T16:49:43] Update B2 storage chunking parameters
 - [2018-10-29T17:56:04] Improve ffmpeg streaming pipe buffer management
 - [2018-10-29T22:00:12] Update B2 storage chunking parameters
+- [2018-10-29T19:36:46] Fix edge case in channel tab crawler
