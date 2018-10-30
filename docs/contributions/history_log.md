@@ -17307,3 +17307,4 @@
 - [2018-10-29T19:36:46] Fix edge case in channel tab crawler
 - [2018-10-29T09:50:32] Add Redis rate limit backoff handlers
 - [2018-10-30T08:46:48] Update B2 storage chunking parameters
+- [2018-10-30T13:10:12] Fix edge case in URL parsing and validation
