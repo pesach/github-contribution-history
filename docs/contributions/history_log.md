@@ -17319,3 +17319,4 @@
 - [2018-10-30T13:12:26] Implement streaming upload chunk buffer optimization
 - [2018-10-31T13:42:05] Update B2 storage chunking parameters
 - [2018-10-31T16:35:53] Improve ffmpeg streaming pipe buffer management
+- [2018-10-31T11:45:25] Add Prometheus exporter endpoints for queue length
