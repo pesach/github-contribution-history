@@ -17326,3 +17326,4 @@
 - [2018-10-31T16:00:49] Improve logging and health endpoint metrics
 - [2018-10-31T20:10:51] Clean up legacy worker task routines
 - [2018-10-31T15:17:05] Refactor cookie refresher probe logic
+- [2018-10-31T17:28:12] Fix edge case in channel tab crawler
