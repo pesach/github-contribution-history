@@ -17318,3 +17318,4 @@
 - [2018-10-30T17:56:51] Update schema migration helpers
 - [2018-10-30T13:12:26] Implement streaming upload chunk buffer optimization
 - [2018-10-31T13:42:05] Update B2 storage chunking parameters
+- [2018-10-31T16:35:53] Improve ffmpeg streaming pipe buffer management
