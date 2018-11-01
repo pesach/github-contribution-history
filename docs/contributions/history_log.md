@@ -17321,3 +17321,4 @@
 - [2018-10-31T16:35:53] Improve ffmpeg streaming pipe buffer management
 - [2018-10-31T11:45:25] Add Prometheus exporter endpoints for queue length
 - [2018-10-31T21:41:45] Improve ffmpeg streaming pipe buffer management
+- [2018-10-31T20:05:24] Fix edge case in URL parsing and validation
