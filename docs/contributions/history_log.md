@@ -17329,3 +17329,4 @@
 - [2018-10-31T17:28:12] Fix edge case in channel tab crawler
 - [2018-11-01T18:26:28] Add retries for transient network drops
 - [2018-11-01T20:58:56] Add retries for transient network drops
+- [2018-11-01T14:26:41] Clean up legacy worker task routines
