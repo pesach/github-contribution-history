@@ -17343,3 +17343,4 @@
 - [2018-11-01T08:28:18] Fix edge case in URL parsing and validation
 - [2018-11-01T20:46:43] Update documentation and architectural guides
 - [2018-11-02T21:43:35] Optimize PostgreSQL query execution plans
+- [2018-11-02T15:52:32] Add Redis rate limit backoff handlers
