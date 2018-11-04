@@ -17349,3 +17349,4 @@
 - [2018-11-02T20:11:24] Refactor worker polling logic
 - [2018-11-02T09:27:02] Update schema migration helpers
 - [2018-11-04T16:51:22] Optimize PostgreSQL query execution plans
+- [2018-11-04T12:14:01] Clean up legacy worker task routines
