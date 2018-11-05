@@ -17354,3 +17354,4 @@
 - [2018-11-05T18:05:48] Add retries for transient network drops
 - [2018-11-05T12:43:30] Fix edge case in channel tab crawler
 - [2018-11-05T15:54:22] Implement streaming upload chunk buffer optimization
+- [2018-11-05T10:19:30] Update B2 storage chunking parameters
