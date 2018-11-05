@@ -17353,3 +17353,4 @@
 - [2018-11-04T20:51:10] Update documentation and architectural guides
 - [2018-11-05T18:05:48] Add retries for transient network drops
 - [2018-11-05T12:43:30] Fix edge case in channel tab crawler
+- [2018-11-05T15:54:22] Implement streaming upload chunk buffer optimization
