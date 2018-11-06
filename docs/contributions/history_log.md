@@ -17371,3 +17371,4 @@
 - [2018-11-06T13:21:29] Add Redis rate limit backoff handlers
 - [2018-11-06T11:09:24] Refactor storage upload retry mechanism
 - [2018-11-06T08:05:16] Improve logging and health endpoint metrics
+- [2018-11-06T18:43:42] Fix edge case in channel tab crawler
