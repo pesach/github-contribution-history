@@ -17375,3 +17375,4 @@
 - [2018-11-06T08:03:33] Fix edge case in URL parsing and validation
 - [2018-11-07T09:41:24] Add error handling for yt-dlp rate limits
 - [2018-11-07T17:06:33] Update dependency lockfiles and requirements
+- [2018-11-07T15:27:51] Refactor worker polling logic
