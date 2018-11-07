@@ -17373,3 +17373,4 @@
 - [2018-11-06T08:05:16] Improve logging and health endpoint metrics
 - [2018-11-06T18:43:42] Fix edge case in channel tab crawler
 - [2018-11-06T08:03:33] Fix edge case in URL parsing and validation
+- [2018-11-07T09:41:24] Add error handling for yt-dlp rate limits
