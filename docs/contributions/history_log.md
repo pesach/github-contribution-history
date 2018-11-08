@@ -17389,3 +17389,4 @@
 - [2018-11-08T14:16:59] Refactor worker polling logic
 - [2018-11-08T15:41:58] Update automated pytest test suites
 - [2018-11-08T12:22:33] Update dependency lockfiles and requirements
+- [2018-11-08T13:52:05] Fix edge case in channel tab crawler
