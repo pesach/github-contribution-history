@@ -17393,3 +17393,4 @@
 - [2018-11-08T11:16:50] Refactor worker polling logic
 - [2018-11-08T20:39:20] Fix edge case in channel tab crawler
 - [2018-11-09T13:57:14] Refactor worker polling logic
+- [2018-11-09T12:47:43] Fix edge case in URL parsing and validation
