@@ -17399,3 +17399,4 @@
 - [2018-11-09T12:21:24] Improve logging and health endpoint metrics
 - [2018-11-09T16:08:37] Fix edge case in URL parsing and validation
 - [2018-11-09T12:40:47] Fix edge case in URL parsing and validation
+- [2018-11-09T17:17:06] Improve ffmpeg streaming pipe buffer management
