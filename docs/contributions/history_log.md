@@ -17384,3 +17384,4 @@
 - [2018-11-08T12:37:50] Update dependency lockfiles and requirements
 - [2018-11-08T10:23:33] Add error handling for yt-dlp rate limits
 - [2018-11-08T18:35:47] Optimize PostgreSQL query execution plans
+- [2018-11-08T22:52:56] Clean up legacy worker task routines
