@@ -17395,3 +17395,4 @@
 - [2018-11-09T13:57:14] Refactor worker polling logic
 - [2018-11-09T12:47:43] Fix edge case in URL parsing and validation
 - [2018-11-09T20:34:01] Add retries for transient network drops
+- [2018-11-09T19:38:57] Update B2 storage chunking parameters
