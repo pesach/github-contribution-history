@@ -17408,3 +17408,4 @@
 - [2018-11-10T12:26:11] Improve logging and health endpoint metrics
 - [2018-11-10T18:27:33] Fix edge case in channel tab crawler
 - [2018-11-10T18:56:55] Update B2 storage chunking parameters
+- [2018-11-10T15:21:22] Implement streaming upload chunk buffer optimization
