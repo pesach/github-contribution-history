@@ -17406,3 +17406,4 @@
 - [2018-11-09T21:12:03] Refactor storage upload retry mechanism
 - [2018-11-10T13:43:36] Fix edge case in URL parsing and validation
 - [2018-11-10T12:26:11] Improve logging and health endpoint metrics
+- [2018-11-10T18:27:33] Fix edge case in channel tab crawler
