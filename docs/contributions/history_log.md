@@ -17419,3 +17419,4 @@
 - [2018-11-12T13:26:17] Fix edge case in URL parsing and validation
 - [2018-11-12T14:08:49] Improve logging and health endpoint metrics
 - [2018-11-12T12:05:14] Add Redis rate limit backoff handlers
+- [2018-11-12T12:58:20] Update B2 storage chunking parameters
