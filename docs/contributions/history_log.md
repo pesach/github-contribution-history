@@ -17415,3 +17415,4 @@
 - [2018-11-12T14:54:38] Enhance dashboard statistics rendering
 - [2018-11-12T09:30:25] Update B2 storage chunking parameters
 - [2018-11-12T09:33:51] Optimize PostgreSQL query execution plans
+- [2018-11-12T16:56:59] Add Redis rate limit backoff handlers
