@@ -17425,3 +17425,4 @@
 - [2018-11-12T20:31:51] Improve logging and health endpoint metrics
 - [2018-11-13T18:04:10] Improve logging and health endpoint metrics
 - [2018-11-13T10:30:09] Improve ffmpeg streaming pipe buffer management
+- [2018-11-13T16:02:59] Refactor cookie refresher probe logic
