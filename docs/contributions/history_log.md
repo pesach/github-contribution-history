@@ -17424,3 +17424,4 @@
 - [2018-11-12T20:18:00] Add error handling for yt-dlp rate limits
 - [2018-11-12T20:31:51] Improve logging and health endpoint metrics
 - [2018-11-13T18:04:10] Improve logging and health endpoint metrics
+- [2018-11-13T10:30:09] Improve ffmpeg streaming pipe buffer management
