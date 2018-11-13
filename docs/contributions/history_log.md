@@ -17411,3 +17411,4 @@
 - [2018-11-10T15:21:22] Implement streaming upload chunk buffer optimization
 - [2018-11-12T11:45:06] Add error handling for yt-dlp rate limits
 - [2018-11-12T21:01:16] Refactor storage upload retry mechanism
+- [2018-11-12T20:02:28] Update schema migration helpers
