@@ -17449,3 +17449,4 @@
 - [2018-11-15T09:43:42] Add Redis rate limit backoff handlers
 - [2018-11-15T22:02:45] Update schema migration helpers
 - [2018-11-15T14:16:31] Fix edge case in channel tab crawler
+- [2018-11-15T10:08:43] Update B2 storage chunking parameters
