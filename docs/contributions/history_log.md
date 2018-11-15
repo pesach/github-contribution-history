@@ -17452,3 +17452,4 @@
 - [2018-11-15T10:08:43] Update B2 storage chunking parameters
 - [2018-11-15T10:06:10] Fix edge case in URL parsing and validation
 - [2018-11-15T10:00:42] Update schema migration helpers
+- [2018-11-15T18:31:06] Update schema migration helpers
