@@ -17433,3 +17433,4 @@
 - [2018-11-14T09:33:43] Update B2 storage chunking parameters
 - [2018-11-14T09:48:52] Update B2 storage chunking parameters
 - [2018-11-14T16:32:22] Fix edge case in channel tab crawler
+- [2018-11-14T19:55:08] Implement streaming upload chunk buffer optimization
