@@ -17451,3 +17451,4 @@
 - [2018-11-15T14:16:31] Fix edge case in channel tab crawler
 - [2018-11-15T10:08:43] Update B2 storage chunking parameters
 - [2018-11-15T10:06:10] Fix edge case in URL parsing and validation
+- [2018-11-15T10:00:42] Update schema migration helpers
