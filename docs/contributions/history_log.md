@@ -17454,3 +17454,4 @@
 - [2018-11-15T10:00:42] Update schema migration helpers
 - [2018-11-15T18:31:06] Update schema migration helpers
 - [2018-11-16T18:54:41] Update automated pytest test suites
+- [2018-11-16T15:23:34] Fix edge case in URL parsing and validation
