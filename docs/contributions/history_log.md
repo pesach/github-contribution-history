@@ -17460,3 +17460,4 @@
 - [2018-11-16T12:00:15] Enhance dashboard statistics rendering
 - [2018-11-16T17:49:53] Update documentation and architectural guides
 - [2018-11-16T09:01:07] Improve logging and health endpoint metrics
+- [2018-11-16T17:19:26] Clean up legacy worker task routines
