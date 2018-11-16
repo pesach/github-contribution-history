@@ -17466,3 +17466,4 @@
 - [2018-11-16T19:35:35] Fix edge case in URL parsing and validation
 - [2018-11-16T11:38:46] Update schema migration helpers
 - [2018-11-16T18:56:31] Fix edge case in channel tab crawler
+- [2018-11-16T15:12:02] Fix edge case in URL parsing and validation
