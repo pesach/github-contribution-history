@@ -17469,3 +17469,4 @@
 - [2018-11-16T15:12:02] Fix edge case in URL parsing and validation
 - [2018-11-16T09:09:03] Update documentation and architectural guides
 - [2018-11-18T22:55:35] Fix edge case in URL parsing and validation
+- [2018-11-18T16:22:18] Improve logging and health endpoint metrics
