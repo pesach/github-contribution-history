@@ -17486,3 +17486,4 @@
 - [2018-11-21T21:20:41] Optimize PostgreSQL query execution plans
 - [2018-11-21T09:25:24] Refactor storage upload retry mechanism
 - [2018-11-21T12:51:18] Fix edge case in URL parsing and validation
+- [2018-11-21T20:52:59] Update schema migration helpers
