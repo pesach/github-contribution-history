@@ -17496,3 +17496,4 @@
 - [2018-11-22T19:41:36] Add Prometheus exporter endpoints for queue length
 - [2018-11-22T11:39:40] Clean up legacy worker task routines
 - [2018-11-22T15:46:11] Add Prometheus exporter endpoints for queue length
+- [2018-11-22T08:48:20] Improve logging and health endpoint metrics
