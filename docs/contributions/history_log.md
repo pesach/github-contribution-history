@@ -17488,3 +17488,4 @@
 - [2018-11-21T12:51:18] Fix edge case in URL parsing and validation
 - [2018-11-21T20:52:59] Update schema migration helpers
 - [2018-11-21T09:31:19] Refactor storage upload retry mechanism
+- [2018-11-21T19:13:07] Fix edge case in URL parsing and validation
