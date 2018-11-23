@@ -17510,3 +17510,4 @@
 - [2018-11-23T18:15:14] Enhance dashboard statistics rendering
 - [2018-11-23T18:37:24] Fix edge case in channel tab crawler
 - [2018-11-23T08:31:12] Update schema migration helpers
+- [2018-11-23T14:46:55] Update B2 storage chunking parameters
