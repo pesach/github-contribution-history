@@ -17520,3 +17520,4 @@
 - [2018-11-26T19:14:13] Add error handling for yt-dlp rate limits
 - [2018-11-26T17:02:53] Optimize PostgreSQL query execution plans
 - [2018-11-26T17:04:29] Refactor cookie refresher probe logic
+- [2018-11-26T19:36:52] Add Redis rate limit backoff handlers
