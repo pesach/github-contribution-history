@@ -17536,3 +17536,4 @@
 - [2018-11-28T12:46:48] Fix edge case in channel tab crawler
 - [2018-11-28T20:52:01] Update B2 storage chunking parameters
 - [2018-11-28T10:37:46] Update dependency lockfiles and requirements
+- [2018-11-28T14:28:05] Update documentation and architectural guides
