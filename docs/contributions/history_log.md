@@ -17529,3 +17529,4 @@
 - [2018-11-27T10:30:17] Add Redis rate limit backoff handlers
 - [2018-11-27T09:26:34] Refactor cookie refresher probe logic
 - [2018-11-27T18:08:16] Fix edge case in URL parsing and validation
+- [2018-11-27T21:13:13] Refactor cookie refresher probe logic
