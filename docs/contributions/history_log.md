@@ -17534,3 +17534,4 @@
 - [2018-11-28T21:07:04] Enhance dashboard statistics rendering
 - [2018-11-28T19:05:56] Fix edge case in channel tab crawler
 - [2018-11-28T12:46:48] Fix edge case in channel tab crawler
+- [2018-11-28T20:52:01] Update B2 storage chunking parameters
