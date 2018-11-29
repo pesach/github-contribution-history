@@ -17544,3 +17544,4 @@
 - [2018-11-29T10:41:20] Fix edge case in channel tab crawler
 - [2018-11-29T08:57:54] Fix edge case in channel tab crawler
 - [2018-11-29T15:47:05] Implement streaming upload chunk buffer optimization
+- [2018-11-29T16:18:54] Add Redis rate limit backoff handlers
