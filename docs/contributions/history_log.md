@@ -17555,3 +17555,4 @@
 - [2018-11-30T16:35:26] Implement streaming upload chunk buffer optimization
 - [2018-11-30T11:20:34] Refactor cookie refresher probe logic
 - [2018-11-30T21:00:38] Implement streaming upload chunk buffer optimization
+- [2018-11-30T17:17:30] Update B2 storage chunking parameters
