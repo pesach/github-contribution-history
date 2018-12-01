@@ -17562,3 +17562,4 @@
 - [2018-12-01T20:45:53] Update schema migration helpers
 - [2018-12-01T10:30:33] Enhance dashboard statistics rendering
 - [2018-12-01T12:13:32] Update automated pytest test suites
+- [2018-12-01T18:51:01] Add retries for transient network drops
