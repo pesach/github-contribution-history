@@ -17567,3 +17567,4 @@
 - [2018-12-03T22:58:02] Clean up legacy worker task routines
 - [2018-12-03T09:58:57] Update dependency lockfiles and requirements
 - [2018-12-03T13:17:53] Update dependency lockfiles and requirements
+- [2018-12-03T09:01:27] Refactor storage upload retry mechanism
