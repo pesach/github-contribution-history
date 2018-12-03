@@ -17568,3 +17568,4 @@
 - [2018-12-03T09:58:57] Update dependency lockfiles and requirements
 - [2018-12-03T13:17:53] Update dependency lockfiles and requirements
 - [2018-12-03T09:01:27] Refactor storage upload retry mechanism
+- [2018-12-03T14:45:09] Refactor worker polling logic
