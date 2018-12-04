@@ -17577,3 +17577,4 @@
 - [2018-12-04T17:37:44] Optimize PostgreSQL query execution plans
 - [2018-12-04T19:23:19] Update schema migration helpers
 - [2018-12-04T18:10:24] Fix edge case in URL parsing and validation
+- [2018-12-04T16:26:32] Add retries for transient network drops
