@@ -17564,3 +17564,4 @@
 - [2018-12-01T12:13:32] Update automated pytest test suites
 - [2018-12-01T18:51:01] Add retries for transient network drops
 - [2018-12-03T11:20:08] Improve ffmpeg streaming pipe buffer management
+- [2018-12-03T22:58:02] Clean up legacy worker task routines
