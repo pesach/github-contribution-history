@@ -17574,3 +17574,4 @@
 - [2018-12-04T18:40:35] Fix edge case in channel tab crawler
 - [2018-12-04T14:16:46] Update B2 storage chunking parameters
 - [2018-12-04T09:33:12] Improve logging and health endpoint metrics
+- [2018-12-04T17:37:44] Optimize PostgreSQL query execution plans
