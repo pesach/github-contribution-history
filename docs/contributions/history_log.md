@@ -17572,3 +17572,4 @@
 - [2018-12-03T11:50:14] Improve logging and health endpoint metrics
 - [2018-12-04T19:12:53] Implement streaming upload chunk buffer optimization
 - [2018-12-04T18:40:35] Fix edge case in channel tab crawler
+- [2018-12-04T14:16:46] Update B2 storage chunking parameters
