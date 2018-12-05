@@ -17587,3 +17587,4 @@
 - [2018-12-05T11:02:51] Update dependency lockfiles and requirements
 - [2018-12-05T12:18:40] Add retries for transient network drops
 - [2018-12-05T22:55:30] Add error handling for yt-dlp rate limits
+- [2018-12-05T14:42:30] Add Redis rate limit backoff handlers
