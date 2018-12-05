@@ -17575,3 +17575,4 @@
 - [2018-12-04T14:16:46] Update B2 storage chunking parameters
 - [2018-12-04T09:33:12] Improve logging and health endpoint metrics
 - [2018-12-04T17:37:44] Optimize PostgreSQL query execution plans
+- [2018-12-04T19:23:19] Update schema migration helpers
