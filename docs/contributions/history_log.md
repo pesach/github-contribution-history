@@ -17580,3 +17580,4 @@
 - [2018-12-04T16:26:32] Add retries for transient network drops
 - [2018-12-05T20:05:43] Update B2 storage chunking parameters
 - [2018-12-05T14:15:52] Refactor cookie refresher probe logic
+- [2018-12-05T20:22:25] Refactor worker polling logic
