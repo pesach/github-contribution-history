@@ -17590,3 +17590,4 @@
 - [2018-12-05T14:42:30] Add Redis rate limit backoff handlers
 - [2018-12-05T11:58:48] Fix edge case in channel tab crawler
 - [2018-12-05T13:56:43] Clean up legacy worker task routines
+- [2018-12-06T08:46:53] Fix edge case in channel tab crawler
