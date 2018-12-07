@@ -17609,3 +17609,4 @@
 - [2018-12-07T11:45:15] Refactor storage upload retry mechanism
 - [2018-12-07T21:37:37] Improve ffmpeg streaming pipe buffer management
 - [2018-12-07T11:59:04] Refactor cookie refresher probe logic
+- [2018-12-07T08:09:21] Add Prometheus exporter endpoints for queue length
