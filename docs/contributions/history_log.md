@@ -17602,3 +17602,4 @@
 - [2018-12-06T21:14:01] Update documentation and architectural guides
 - [2018-12-06T15:53:36] Improve logging and health endpoint metrics
 - [2018-12-06T15:28:22] Refactor storage upload retry mechanism
+- [2018-12-06T21:44:49] Refactor cookie refresher probe logic
