@@ -17614,3 +17614,4 @@
 - [2018-12-07T11:48:35] Update dependency lockfiles and requirements
 - [2018-12-07T12:55:24] Update schema migration helpers
 - [2018-12-07T14:44:05] Enhance dashboard statistics rendering
+- [2018-12-07T19:37:51] Add error handling for yt-dlp rate limits
