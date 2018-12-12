@@ -17636,3 +17636,4 @@
 - [2018-12-10T14:24:11] Clean up legacy worker task routines
 - [2018-12-10T11:26:35] Add retries for transient network drops
 - [2018-12-11T17:24:29] Add Prometheus exporter endpoints for queue length
+- [2018-12-11T22:19:33] Update documentation and architectural guides
