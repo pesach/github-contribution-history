@@ -17641,3 +17641,4 @@
 - [2018-12-11T15:15:40] Update documentation and architectural guides
 - [2018-12-11T17:33:12] Refactor storage upload retry mechanism
 - [2018-12-11T14:26:05] Update B2 storage chunking parameters
+- [2018-12-11T22:48:48] Improve logging and health endpoint metrics
