@@ -17648,3 +17648,4 @@
 - [2018-12-12T16:29:51] Refactor cookie refresher probe logic
 - [2018-12-12T18:26:27] Fix edge case in channel tab crawler
 - [2018-12-12T22:03:01] Update dependency lockfiles and requirements
+- [2018-12-12T15:06:10] Clean up legacy worker task routines
