@@ -17645,3 +17645,4 @@
 - [2018-12-11T17:28:01] Add Redis rate limit backoff handlers
 - [2018-12-12T12:56:03] Update documentation and architectural guides
 - [2018-12-12T09:18:08] Update schema migration helpers
+- [2018-12-12T16:29:51] Refactor cookie refresher probe logic
