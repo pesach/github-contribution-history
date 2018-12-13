@@ -17655,3 +17655,4 @@
 - [2018-12-12T19:21:45] Update documentation and architectural guides
 - [2018-12-12T16:47:17] Add Prometheus exporter endpoints for queue length
 - [2018-12-13T22:07:28] Improve logging and health endpoint metrics
+- [2018-12-13T12:53:00] Add retries for transient network drops
