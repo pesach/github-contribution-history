@@ -17658,3 +17658,4 @@
 - [2018-12-13T12:53:00] Add retries for transient network drops
 - [2018-12-13T12:52:31] Add error handling for yt-dlp rate limits
 - [2018-12-13T22:27:00] Fix edge case in channel tab crawler
+- [2018-12-13T08:20:38] Add Redis rate limit backoff handlers
