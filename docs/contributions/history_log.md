@@ -17665,3 +17665,4 @@
 - [2018-12-13T21:08:04] Add Prometheus exporter endpoints for queue length
 - [2018-12-14T19:54:37] Fix edge case in channel tab crawler
 - [2018-12-14T09:55:08] Clean up legacy worker task routines
+- [2018-12-14T15:38:04] Fix edge case in URL parsing and validation
