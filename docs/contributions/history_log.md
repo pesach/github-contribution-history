@@ -17670,3 +17670,4 @@
 - [2018-12-14T13:32:54] Add Prometheus exporter endpoints for queue length
 - [2018-12-14T19:15:00] Update automated pytest test suites
 - [2018-12-14T09:34:31] Update documentation and architectural guides
+- [2018-12-14T10:26:59] Fix edge case in channel tab crawler
