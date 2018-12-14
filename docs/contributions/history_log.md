@@ -17667,3 +17667,4 @@
 - [2018-12-14T09:55:08] Clean up legacy worker task routines
 - [2018-12-14T15:38:04] Fix edge case in URL parsing and validation
 - [2018-12-14T21:22:26] Update automated pytest test suites
+- [2018-12-14T13:32:54] Add Prometheus exporter endpoints for queue length
