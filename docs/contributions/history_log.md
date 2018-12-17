@@ -17682,3 +17682,4 @@
 - [2018-12-15T09:06:40] Update automated pytest test suites
 - [2018-12-15T10:55:41] Update dependency lockfiles and requirements
 - [2018-12-17T12:23:12] Improve logging and health endpoint metrics
+- [2018-12-17T12:05:49] Fix edge case in channel tab crawler
