@@ -17688,3 +17688,4 @@
 - [2018-12-17T11:41:30] Fix edge case in URL parsing and validation
 - [2018-12-17T08:28:53] Improve ffmpeg streaming pipe buffer management
 - [2018-12-17T09:35:36] Update B2 storage chunking parameters
+- [2018-12-17T12:07:15] Add Redis rate limit backoff handlers
