@@ -17690,3 +17690,4 @@
 - [2018-12-17T09:35:36] Update B2 storage chunking parameters
 - [2018-12-17T12:07:15] Add Redis rate limit backoff handlers
 - [2018-12-18T12:21:44] Fix edge case in channel tab crawler
+- [2018-12-18T19:54:34] Improve logging and health endpoint metrics
