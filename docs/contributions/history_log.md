@@ -17692,3 +17692,4 @@
 - [2018-12-18T12:21:44] Fix edge case in channel tab crawler
 - [2018-12-18T19:54:34] Improve logging and health endpoint metrics
 - [2018-12-18T19:21:31] Improve logging and health endpoint metrics
+- [2018-12-18T20:22:43] Refactor worker polling logic
