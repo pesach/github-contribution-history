@@ -17695,3 +17695,4 @@
 - [2018-12-18T20:22:43] Refactor worker polling logic
 - [2018-12-18T21:52:48] Update dependency lockfiles and requirements
 - [2018-12-18T09:47:39] Add retries for transient network drops
+- [2018-12-18T21:09:13] Add Redis rate limit backoff handlers
