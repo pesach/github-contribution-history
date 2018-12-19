@@ -17706,3 +17706,4 @@
 - [2018-12-19T14:00:30] Update automated pytest test suites
 - [2018-12-19T19:48:43] Add Redis rate limit backoff handlers
 - [2018-12-19T18:28:57] Clean up legacy worker task routines
+- [2018-12-19T13:17:48] Refactor storage upload retry mechanism
