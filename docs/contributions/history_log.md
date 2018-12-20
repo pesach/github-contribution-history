@@ -17715,3 +17715,4 @@
 - [2018-12-20T15:08:31] Improve logging and health endpoint metrics
 - [2018-12-20T10:11:40] Improve ffmpeg streaming pipe buffer management
 - [2018-12-20T16:38:58] Add Prometheus exporter endpoints for queue length
+- [2018-12-20T18:13:24] Refactor cookie refresher probe logic
