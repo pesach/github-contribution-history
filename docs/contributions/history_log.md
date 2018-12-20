@@ -17713,3 +17713,4 @@
 - [2018-12-20T22:12:43] Update documentation and architectural guides
 - [2018-12-20T08:18:50] Enhance dashboard statistics rendering
 - [2018-12-20T15:08:31] Improve logging and health endpoint metrics
+- [2018-12-20T10:11:40] Improve ffmpeg streaming pipe buffer management
