@@ -17704,3 +17704,4 @@
 - [2018-12-19T18:04:27] Clean up legacy worker task routines
 - [2018-12-19T21:50:29] Fix edge case in URL parsing and validation
 - [2018-12-19T14:00:30] Update automated pytest test suites
+- [2018-12-19T19:48:43] Add Redis rate limit backoff handlers
