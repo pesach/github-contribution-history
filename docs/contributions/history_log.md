@@ -17724,3 +17724,4 @@
 - [2018-12-21T19:08:52] Implement streaming upload chunk buffer optimization
 - [2018-12-21T12:50:06] Update dependency lockfiles and requirements
 - [2018-12-21T13:40:47] Refactor storage upload retry mechanism
+- [2018-12-21T16:30:25] Update B2 storage chunking parameters
