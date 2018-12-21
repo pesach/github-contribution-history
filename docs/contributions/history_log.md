@@ -17723,3 +17723,4 @@
 - [2018-12-21T16:28:17] Add Redis rate limit backoff handlers
 - [2018-12-21T19:08:52] Implement streaming upload chunk buffer optimization
 - [2018-12-21T12:50:06] Update dependency lockfiles and requirements
+- [2018-12-21T13:40:47] Refactor storage upload retry mechanism
