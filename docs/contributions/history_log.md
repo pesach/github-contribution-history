@@ -17725,3 +17725,4 @@
 - [2018-12-21T12:50:06] Update dependency lockfiles and requirements
 - [2018-12-21T13:40:47] Refactor storage upload retry mechanism
 - [2018-12-21T16:30:25] Update B2 storage chunking parameters
+- [2018-12-21T22:52:10] Fix edge case in channel tab crawler
