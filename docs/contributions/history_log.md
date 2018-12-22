@@ -17721,3 +17721,4 @@
 - [2018-12-20T16:31:19] Add retries for transient network drops
 - [2018-12-21T09:46:58] Update schema migration helpers
 - [2018-12-21T16:28:17] Add Redis rate limit backoff handlers
+- [2018-12-21T19:08:52] Implement streaming upload chunk buffer optimization
