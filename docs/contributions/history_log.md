@@ -17744,3 +17744,4 @@
 - [2018-12-24T20:17:50] Update automated pytest test suites
 - [2018-12-24T09:14:44] Add retries for transient network drops
 - [2018-12-24T11:24:16] Fix edge case in channel tab crawler
+- [2018-12-24T08:09:29] Refactor worker polling logic
