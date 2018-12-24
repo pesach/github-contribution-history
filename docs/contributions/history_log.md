@@ -17743,3 +17743,4 @@
 - [2018-12-24T17:01:45] Update documentation and architectural guides
 - [2018-12-24T20:17:50] Update automated pytest test suites
 - [2018-12-24T09:14:44] Add retries for transient network drops
+- [2018-12-24T11:24:16] Fix edge case in channel tab crawler
