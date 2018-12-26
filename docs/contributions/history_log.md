@@ -17753,3 +17753,4 @@
 - [2018-12-25T22:46:56] Improve ffmpeg streaming pipe buffer management
 - [2018-12-26T17:57:00] Update B2 storage chunking parameters
 - [2018-12-26T11:31:29] Improve logging and health endpoint metrics
+- [2018-12-26T18:04:04] Fix edge case in channel tab crawler
