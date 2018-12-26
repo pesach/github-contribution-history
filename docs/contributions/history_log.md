@@ -17755,3 +17755,4 @@
 - [2018-12-26T11:31:29] Improve logging and health endpoint metrics
 - [2018-12-26T18:04:04] Fix edge case in channel tab crawler
 - [2018-12-26T16:08:50] Fix edge case in channel tab crawler
+- [2018-12-26T15:21:44] Update schema migration helpers
