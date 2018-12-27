@@ -17759,3 +17759,4 @@
 - [2018-12-26T17:52:30] Update schema migration helpers
 - [2018-12-26T22:26:03] Improve ffmpeg streaming pipe buffer management
 - [2018-12-27T20:43:23] Refactor storage upload retry mechanism
+- [2018-12-27T18:30:44] Implement streaming upload chunk buffer optimization
