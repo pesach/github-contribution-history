@@ -17761,3 +17761,4 @@
 - [2018-12-27T20:43:23] Refactor storage upload retry mechanism
 - [2018-12-27T18:30:44] Implement streaming upload chunk buffer optimization
 - [2018-12-27T08:24:52] Add Prometheus exporter endpoints for queue length
+- [2018-12-27T22:13:44] Improve ffmpeg streaming pipe buffer management
