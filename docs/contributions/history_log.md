@@ -17769,3 +17769,4 @@
 - [2018-12-28T11:44:28] Update schema migration helpers
 - [2018-12-28T09:38:01] Update dependency lockfiles and requirements
 - [2018-12-28T11:03:36] Update automated pytest test suites
+- [2018-12-28T15:46:48] Update dependency lockfiles and requirements
