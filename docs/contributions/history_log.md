@@ -17773,3 +17773,4 @@
 - [2018-12-28T15:26:16] Add error handling for yt-dlp rate limits
 - [2018-12-28T12:42:06] Update automated pytest test suites
 - [2018-12-28T18:41:49] Refactor worker polling logic
+- [2018-12-28T13:35:01] Fix edge case in channel tab crawler
