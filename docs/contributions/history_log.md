@@ -17780,3 +17780,4 @@
 - [2018-12-29T10:15:40] Add retries for transient network drops
 - [2018-12-29T13:55:43] Refactor storage upload retry mechanism
 - [2018-12-29T12:09:29] Update documentation and architectural guides
+- [2018-12-29T18:45:24] Clean up legacy worker task routines
