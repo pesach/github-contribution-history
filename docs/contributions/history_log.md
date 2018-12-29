@@ -17765,3 +17765,4 @@
 - [2018-12-27T14:30:54] Refactor cookie refresher probe logic
 - [2018-12-27T15:22:56] Add retries for transient network drops
 - [2018-12-27T12:49:19] Add retries for transient network drops
+- [2018-12-28T19:48:25] Improve logging and health endpoint metrics
