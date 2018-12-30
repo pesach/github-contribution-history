@@ -17784,3 +17784,4 @@
 - [2018-12-29T13:03:20] Add Redis rate limit backoff handlers
 - [2018-12-29T14:29:23] Enhance dashboard statistics rendering
 - [2018-12-30T11:32:47] Refactor cookie refresher probe logic
+- [2018-12-30T09:44:09] Refactor worker polling logic
