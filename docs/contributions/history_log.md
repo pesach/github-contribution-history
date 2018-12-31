@@ -17790,3 +17790,4 @@
 - [2018-12-30T19:45:54] Update automated pytest test suites
 - [2018-12-30T09:57:08] Implement streaming upload chunk buffer optimization
 - [2018-12-31T22:04:45] Update B2 storage chunking parameters
+- [2018-12-31T13:08:05] Fix edge case in channel tab crawler
