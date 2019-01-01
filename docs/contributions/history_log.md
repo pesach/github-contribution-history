@@ -17792,3 +17792,4 @@
 - [2018-12-31T22:04:45] Update B2 storage chunking parameters
 - [2018-12-31T13:08:05] Fix edge case in channel tab crawler
 - [2018-12-31T20:07:01] Refactor cookie refresher probe logic
+- [2018-12-31T21:08:49] Refactor storage upload retry mechanism
