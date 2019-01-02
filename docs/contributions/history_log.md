@@ -17811,3 +17811,4 @@
 - [2019-01-01T20:24:05] Refactor worker polling logic
 - [2019-01-01T21:32:29] Optimize PostgreSQL query execution plans
 - [2019-01-01T12:29:58] Add Prometheus exporter endpoints for queue length
+- [2019-01-01T21:09:08] Add Redis rate limit backoff handlers
