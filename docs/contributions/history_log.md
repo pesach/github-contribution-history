@@ -17830,3 +17830,4 @@
 - [2019-01-03T14:12:06] Add Prometheus exporter endpoints for queue length
 - [2019-01-03T14:30:05] Update automated pytest test suites
 - [2019-01-03T17:41:05] Enhance dashboard statistics rendering
+- [2019-01-03T16:26:07] Fix edge case in channel tab crawler
