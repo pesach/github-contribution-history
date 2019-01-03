@@ -17832,3 +17832,4 @@
 - [2019-01-03T17:41:05] Enhance dashboard statistics rendering
 - [2019-01-03T16:26:07] Fix edge case in channel tab crawler
 - [2019-01-03T14:03:10] Update schema migration helpers
+- [2019-01-03T17:57:53] Refactor storage upload retry mechanism
