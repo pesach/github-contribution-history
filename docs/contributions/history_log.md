@@ -17841,3 +17841,4 @@
 - [2019-01-03T22:48:46] Improve logging and health endpoint metrics
 - [2019-01-04T17:26:54] Improve logging and health endpoint metrics
 - [2019-01-04T20:46:39] Improve ffmpeg streaming pipe buffer management
+- [2019-01-04T16:53:19] Add retries for transient network drops
