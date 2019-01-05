@@ -17855,3 +17855,4 @@
 - [2019-01-05T16:05:40] Update dependency lockfiles and requirements
 - [2019-01-05T21:33:18] Update B2 storage chunking parameters
 - [2019-01-05T20:51:39] Clean up legacy worker task routines
+- [2019-01-05T12:14:53] Implement streaming upload chunk buffer optimization
