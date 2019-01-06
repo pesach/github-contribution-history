@@ -17859,3 +17859,4 @@
 - [2019-01-05T08:20:05] Refactor cookie refresher probe logic
 - [2019-01-06T18:29:17] Update schema migration helpers
 - [2019-01-06T14:17:28] Add Redis rate limit backoff handlers
+- [2019-01-06T17:54:24] Clean up legacy worker task routines
