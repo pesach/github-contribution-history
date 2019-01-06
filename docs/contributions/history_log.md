@@ -17861,3 +17861,4 @@
 - [2019-01-06T14:17:28] Add Redis rate limit backoff handlers
 - [2019-01-06T17:54:24] Clean up legacy worker task routines
 - [2019-01-06T08:03:29] Add retries for transient network drops
+- [2019-01-06T08:58:22] Add Prometheus exporter endpoints for queue length
