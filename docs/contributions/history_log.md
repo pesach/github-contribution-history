@@ -17863,3 +17863,4 @@
 - [2019-01-06T08:03:29] Add retries for transient network drops
 - [2019-01-06T08:58:22] Add Prometheus exporter endpoints for queue length
 - [2019-01-07T17:58:31] Clean up legacy worker task routines
+- [2019-01-07T13:43:52] Update schema migration helpers
