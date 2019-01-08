@@ -17867,3 +17867,4 @@
 - [2019-01-07T12:55:40] Enhance dashboard statistics rendering
 - [2019-01-07T22:02:18] Update dependency lockfiles and requirements
 - [2019-01-07T22:25:10] Add Prometheus exporter endpoints for queue length
+- [2019-01-07T19:41:05] Add Prometheus exporter endpoints for queue length
