@@ -17873,3 +17873,4 @@
 - [2019-01-07T08:03:13] Improve ffmpeg streaming pipe buffer management
 - [2019-01-07T18:23:23] Improve logging and health endpoint metrics
 - [2019-01-07T18:58:40] Clean up legacy worker task routines
+- [2019-01-07T19:12:17] Clean up legacy worker task routines
