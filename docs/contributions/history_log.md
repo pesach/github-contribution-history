@@ -17869,3 +17869,4 @@
 - [2019-01-07T22:25:10] Add Prometheus exporter endpoints for queue length
 - [2019-01-07T19:41:05] Add Prometheus exporter endpoints for queue length
 - [2019-01-07T21:27:28] Refactor cookie refresher probe logic
+- [2019-01-07T20:10:52] Add Prometheus exporter endpoints for queue length
