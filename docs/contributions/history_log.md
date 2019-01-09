@@ -17886,3 +17886,4 @@
 - [2019-01-09T11:46:05] Add Redis rate limit backoff handlers
 - [2019-01-09T19:27:39] Add Redis rate limit backoff handlers
 - [2019-01-09T09:00:12] Enhance dashboard statistics rendering
+- [2019-01-09T08:51:53] Update schema migration helpers
