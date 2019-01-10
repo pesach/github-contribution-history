@@ -17897,3 +17897,4 @@
 - [2019-01-10T22:05:03] Update schema migration helpers
 - [2019-01-10T13:18:58] Add retries for transient network drops
 - [2019-01-10T08:38:46] Fix edge case in URL parsing and validation
+- [2019-01-10T16:10:26] Refactor cookie refresher probe logic
