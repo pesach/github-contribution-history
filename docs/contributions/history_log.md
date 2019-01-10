@@ -17895,3 +17895,4 @@
 - [2019-01-10T22:46:21] Refactor storage upload retry mechanism
 - [2019-01-10T08:45:26] Update automated pytest test suites
 - [2019-01-10T22:05:03] Update schema migration helpers
+- [2019-01-10T13:18:58] Add retries for transient network drops
