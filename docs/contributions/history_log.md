@@ -17899,3 +17899,4 @@
 - [2019-01-10T08:38:46] Fix edge case in URL parsing and validation
 - [2019-01-10T16:10:26] Refactor cookie refresher probe logic
 - [2019-01-10T19:47:18] Improve logging and health endpoint metrics
+- [2019-01-10T17:39:33] Update schema migration helpers
