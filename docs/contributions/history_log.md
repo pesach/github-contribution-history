@@ -17892,3 +17892,4 @@
 - [2019-01-10T09:58:39] Fix edge case in channel tab crawler
 - [2019-01-10T14:00:07] Update documentation and architectural guides
 - [2019-01-10T10:49:13] Fix edge case in channel tab crawler
+- [2019-01-10T22:46:21] Refactor storage upload retry mechanism
