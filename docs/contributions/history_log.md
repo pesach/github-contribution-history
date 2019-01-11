@@ -17906,3 +17906,4 @@
 - [2019-01-11T20:45:31] Refactor storage upload retry mechanism
 - [2019-01-11T17:25:35] Clean up legacy worker task routines
 - [2019-01-11T08:10:28] Refactor cookie refresher probe logic
+- [2019-01-11T18:52:33] Update schema migration helpers
