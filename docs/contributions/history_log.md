@@ -17914,3 +17914,4 @@
 - [2019-01-12T15:28:25] Update B2 storage chunking parameters
 - [2019-01-12T19:05:23] Improve ffmpeg streaming pipe buffer management
 - [2019-01-12T14:56:28] Update B2 storage chunking parameters
+- [2019-01-12T18:25:59] Improve logging and health endpoint metrics
