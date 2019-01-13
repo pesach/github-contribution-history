@@ -17912,3 +17912,4 @@
 - [2019-01-11T13:38:46] Improve ffmpeg streaming pipe buffer management
 - [2019-01-12T21:36:44] Fix edge case in channel tab crawler
 - [2019-01-12T15:28:25] Update B2 storage chunking parameters
+- [2019-01-12T19:05:23] Improve ffmpeg streaming pipe buffer management
