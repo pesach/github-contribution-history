@@ -17916,3 +17916,4 @@
 - [2019-01-12T14:56:28] Update B2 storage chunking parameters
 - [2019-01-12T18:25:59] Improve logging and health endpoint metrics
 - [2019-01-12T16:17:57] Update automated pytest test suites
+- [2019-01-13T12:44:03] Refactor worker polling logic
