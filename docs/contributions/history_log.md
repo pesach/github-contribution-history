@@ -17936,3 +17936,4 @@
 - [2019-01-15T12:01:38] Clean up legacy worker task routines
 - [2019-01-15T08:14:36] Fix edge case in channel tab crawler
 - [2019-01-15T18:23:58] Add retries for transient network drops
+- [2019-01-15T20:13:41] Optimize PostgreSQL query execution plans
