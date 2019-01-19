@@ -17954,3 +17954,4 @@
 - [2019-01-18T11:42:06] Update schema migration helpers
 - [2019-01-19T22:34:27] Improve logging and health endpoint metrics
 - [2019-01-19T13:44:13] Add Redis rate limit backoff handlers
+- [2019-01-19T10:33:58] Add retries for transient network drops
