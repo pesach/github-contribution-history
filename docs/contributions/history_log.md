@@ -17961,3 +17961,4 @@
 - [2019-01-20T10:07:44] Add retries for transient network drops
 - [2019-01-20T16:26:48] Update dependency lockfiles and requirements
 - [2019-01-20T22:05:49] Clean up legacy worker task routines
+- [2019-01-20T17:56:05] Refactor cookie refresher probe logic
