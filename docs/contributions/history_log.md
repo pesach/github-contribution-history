@@ -17957,3 +17957,4 @@
 - [2019-01-19T10:33:58] Add retries for transient network drops
 - [2019-01-19T11:03:33] Refactor worker polling logic
 - [2019-01-19T13:06:31] Refactor worker polling logic
+- [2019-01-20T14:51:53] Refactor cookie refresher probe logic
