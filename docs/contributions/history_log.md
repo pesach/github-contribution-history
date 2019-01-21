@@ -17967,3 +17967,4 @@
 - [2019-01-21T12:17:44] Fix edge case in URL parsing and validation
 - [2019-01-21T10:29:11] Refactor worker polling logic
 - [2019-01-21T12:02:19] Update B2 storage chunking parameters
+- [2019-01-21T13:13:39] Implement streaming upload chunk buffer optimization
