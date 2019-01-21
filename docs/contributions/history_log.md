@@ -17965,3 +17965,4 @@
 - [2019-01-20T17:28:40] Clean up legacy worker task routines
 - [2019-01-21T10:48:30] Refactor storage upload retry mechanism
 - [2019-01-21T12:17:44] Fix edge case in URL parsing and validation
+- [2019-01-21T10:29:11] Refactor worker polling logic
