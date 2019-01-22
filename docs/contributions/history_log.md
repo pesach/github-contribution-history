@@ -17975,3 +17975,4 @@
 - [2019-01-21T22:48:54] Update documentation and architectural guides
 - [2019-01-21T22:38:18] Improve logging and health endpoint metrics
 - [2019-01-22T16:27:52] Update dependency lockfiles and requirements
+- [2019-01-22T08:29:56] Refactor worker polling logic
