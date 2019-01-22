@@ -17981,3 +17981,4 @@
 - [2019-01-22T19:37:48] Refactor cookie refresher probe logic
 - [2019-01-22T08:31:57] Fix edge case in URL parsing and validation
 - [2019-01-22T14:10:29] Optimize PostgreSQL query execution plans
+- [2019-01-22T14:02:10] Add error handling for yt-dlp rate limits
