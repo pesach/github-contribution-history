@@ -17979,3 +17979,4 @@
 - [2019-01-22T18:12:30] Refactor storage upload retry mechanism
 - [2019-01-22T16:07:31] Implement streaming upload chunk buffer optimization
 - [2019-01-22T19:37:48] Refactor cookie refresher probe logic
+- [2019-01-22T08:31:57] Fix edge case in URL parsing and validation
