@@ -17991,3 +17991,4 @@
 - [2019-01-23T16:09:33] Implement streaming upload chunk buffer optimization
 - [2019-01-23T16:32:32] Clean up legacy worker task routines
 - [2019-01-23T16:33:35] Add retries for transient network drops
+- [2019-01-23T14:16:34] Improve ffmpeg streaming pipe buffer management
