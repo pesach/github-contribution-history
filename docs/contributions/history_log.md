@@ -17992,3 +17992,4 @@
 - [2019-01-23T16:32:32] Clean up legacy worker task routines
 - [2019-01-23T16:33:35] Add retries for transient network drops
 - [2019-01-23T14:16:34] Improve ffmpeg streaming pipe buffer management
+- [2019-01-23T10:04:50] Fix edge case in URL parsing and validation
