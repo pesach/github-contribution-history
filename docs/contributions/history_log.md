@@ -18001,3 +18001,4 @@
 - [2019-01-24T20:27:26] Add Redis rate limit backoff handlers
 - [2019-01-24T12:33:11] Refactor storage upload retry mechanism
 - [2019-01-24T10:16:36] Update dependency lockfiles and requirements
+- [2019-01-24T16:26:08] Update B2 storage chunking parameters
