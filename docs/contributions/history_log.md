@@ -18012,3 +18012,4 @@
 - [2019-01-25T22:54:51] Update dependency lockfiles and requirements
 - [2019-01-25T11:24:49] Update dependency lockfiles and requirements
 - [2019-01-25T20:57:01] Add Redis rate limit backoff handlers
+- [2019-01-25T10:20:18] Refactor worker polling logic
