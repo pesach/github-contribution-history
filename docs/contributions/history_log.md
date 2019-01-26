@@ -18011,3 +18011,4 @@
 - [2019-01-25T08:00:22] Refactor cookie refresher probe logic
 - [2019-01-25T22:54:51] Update dependency lockfiles and requirements
 - [2019-01-25T11:24:49] Update dependency lockfiles and requirements
+- [2019-01-25T20:57:01] Add Redis rate limit backoff handlers
