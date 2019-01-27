@@ -18024,3 +18024,4 @@
 - [2019-01-27T18:42:37] Clean up legacy worker task routines
 - [2019-01-27T21:14:59] Update schema migration helpers
 - [2019-01-27T17:25:01] Add Redis rate limit backoff handlers
+- [2019-01-27T09:21:06] Update B2 storage chunking parameters
