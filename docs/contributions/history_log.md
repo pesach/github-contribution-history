@@ -18034,3 +18034,4 @@
 - [2019-01-28T17:59:19] Add Prometheus exporter endpoints for queue length
 - [2019-01-29T13:46:17] Refactor storage upload retry mechanism
 - [2019-01-29T16:41:39] Update schema migration helpers
+- [2019-01-29T08:55:46] Add Redis rate limit backoff handlers
