@@ -18039,3 +18039,4 @@
 - [2019-01-29T20:52:51] Update documentation and architectural guides
 - [2019-01-29T09:45:41] Improve ffmpeg streaming pipe buffer management
 - [2019-01-30T13:30:55] Add Prometheus exporter endpoints for queue length
+- [2019-01-30T14:11:41] Refactor storage upload retry mechanism
