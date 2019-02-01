@@ -18060,3 +18060,4 @@
 - [2019-01-31T19:47:26] Add Redis rate limit backoff handlers
 - [2019-01-31T22:17:22] Refactor worker polling logic
 - [2019-02-01T12:37:08] Fix edge case in channel tab crawler
+- [2019-02-01T09:01:35] Update documentation and architectural guides
