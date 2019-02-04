@@ -18081,3 +18081,4 @@
 - [2019-02-04T19:45:53] Implement streaming upload chunk buffer optimization
 - [2019-02-04T20:07:53] Refactor worker polling logic
 - [2019-02-04T19:15:02] Improve ffmpeg streaming pipe buffer management
+- [2019-02-04T18:17:59] Add Prometheus exporter endpoints for queue length
