@@ -18075,3 +18075,4 @@
 - [2019-02-01T11:00:54] Add Redis rate limit backoff handlers
 - [2019-02-03T19:14:37] Enhance dashboard statistics rendering
 - [2019-02-03T12:43:58] Improve logging and health endpoint metrics
+- [2019-02-03T20:06:37] Improve ffmpeg streaming pipe buffer management
