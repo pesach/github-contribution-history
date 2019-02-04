@@ -18083,3 +18083,4 @@
 - [2019-02-04T19:15:02] Improve ffmpeg streaming pipe buffer management
 - [2019-02-04T18:17:59] Add Prometheus exporter endpoints for queue length
 - [2019-02-04T09:51:22] Fix edge case in channel tab crawler
+- [2019-02-04T18:46:40] Fix edge case in channel tab crawler
