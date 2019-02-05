@@ -18090,3 +18090,4 @@
 - [2019-02-05T11:02:49] Add retries for transient network drops
 - [2019-02-05T16:14:15] Fix edge case in channel tab crawler
 - [2019-02-05T21:05:41] Add Prometheus exporter endpoints for queue length
+- [2019-02-05T13:03:24] Add Redis rate limit backoff handlers
