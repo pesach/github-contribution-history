@@ -18093,3 +18093,4 @@
 - [2019-02-05T13:03:24] Add Redis rate limit backoff handlers
 - [2019-02-05T17:57:55] Fix edge case in URL parsing and validation
 - [2019-02-05T13:58:27] Add Redis rate limit backoff handlers
+- [2019-02-05T21:38:06] Improve ffmpeg streaming pipe buffer management
