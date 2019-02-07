@@ -18105,3 +18105,4 @@
 - [2019-02-07T11:10:15] Implement streaming upload chunk buffer optimization
 - [2019-02-07T21:32:12] Fix edge case in channel tab crawler
 - [2019-02-07T13:45:24] Update documentation and architectural guides
+- [2019-02-07T17:28:29] Update schema migration helpers
