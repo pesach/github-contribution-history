@@ -18112,3 +18112,4 @@
 - [2019-02-08T15:31:49] Update dependency lockfiles and requirements
 - [2019-02-08T08:48:09] Implement streaming upload chunk buffer optimization
 - [2019-02-08T17:21:35] Refactor worker polling logic
+- [2019-02-08T14:56:13] Update schema migration helpers
