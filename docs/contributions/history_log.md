@@ -18145,3 +18145,4 @@
 - [2019-02-12T12:31:40] Implement streaming upload chunk buffer optimization
 - [2019-02-12T12:49:00] Improve logging and health endpoint metrics
 - [2019-02-12T12:54:19] Improve logging and health endpoint metrics
+- [2019-02-12T13:44:00] Fix edge case in URL parsing and validation
