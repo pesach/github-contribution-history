@@ -18131,3 +18131,4 @@
 - [2019-02-11T10:30:33] Refactor storage upload retry mechanism
 - [2019-02-11T12:22:54] Update schema migration helpers
 - [2019-02-11T09:19:54] Refactor cookie refresher probe logic
+- [2019-02-11T19:44:59] Update B2 storage chunking parameters
