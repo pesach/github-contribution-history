@@ -18146,3 +18146,4 @@
 - [2019-02-12T12:49:00] Improve logging and health endpoint metrics
 - [2019-02-12T12:54:19] Improve logging and health endpoint metrics
 - [2019-02-12T13:44:00] Fix edge case in URL parsing and validation
+- [2019-02-13T18:19:53] Refactor storage upload retry mechanism
