@@ -18147,3 +18147,4 @@
 - [2019-02-12T12:54:19] Improve logging and health endpoint metrics
 - [2019-02-12T13:44:00] Fix edge case in URL parsing and validation
 - [2019-02-13T18:19:53] Refactor storage upload retry mechanism
+- [2019-02-13T22:40:25] Add error handling for yt-dlp rate limits
