@@ -18170,3 +18170,4 @@
 - [2019-02-15T17:47:24] Improve logging and health endpoint metrics
 - [2019-02-15T10:02:34] Update dependency lockfiles and requirements
 - [2019-02-15T18:33:01] Enhance dashboard statistics rendering
+- [2019-02-15T15:08:00] Improve ffmpeg streaming pipe buffer management
