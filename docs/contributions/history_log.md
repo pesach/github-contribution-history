@@ -18173,3 +18173,4 @@
 - [2019-02-15T15:08:00] Improve ffmpeg streaming pipe buffer management
 - [2019-02-15T20:06:09] Clean up legacy worker task routines
 - [2019-02-15T18:50:06] Improve logging and health endpoint metrics
+- [2019-02-15T09:27:35] Refactor storage upload retry mechanism
