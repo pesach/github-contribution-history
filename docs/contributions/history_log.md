@@ -18176,3 +18176,4 @@
 - [2019-02-15T09:27:35] Refactor storage upload retry mechanism
 - [2019-02-15T21:06:50] Update B2 storage chunking parameters
 - [2019-02-15T20:51:01] Add retries for transient network drops
+- [2019-02-15T16:32:25] Add error handling for yt-dlp rate limits
