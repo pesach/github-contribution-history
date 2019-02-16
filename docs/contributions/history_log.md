@@ -18181,3 +18181,4 @@
 - [2019-02-15T09:18:37] Update schema migration helpers
 - [2019-02-16T12:30:45] Update documentation and architectural guides
 - [2019-02-16T21:59:33] Update B2 storage chunking parameters
+- [2019-02-16T08:28:24] Fix edge case in URL parsing and validation
