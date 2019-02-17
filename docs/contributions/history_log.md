@@ -18183,3 +18183,4 @@
 - [2019-02-16T21:59:33] Update B2 storage chunking parameters
 - [2019-02-16T08:28:24] Fix edge case in URL parsing and validation
 - [2019-02-16T17:35:48] Improve ffmpeg streaming pipe buffer management
+- [2019-02-17T18:19:38] Add error handling for yt-dlp rate limits
