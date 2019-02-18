@@ -18184,3 +18184,4 @@
 - [2019-02-16T08:28:24] Fix edge case in URL parsing and validation
 - [2019-02-16T17:35:48] Improve ffmpeg streaming pipe buffer management
 - [2019-02-17T18:19:38] Add error handling for yt-dlp rate limits
+- [2019-02-17T21:06:27] Fix edge case in channel tab crawler
