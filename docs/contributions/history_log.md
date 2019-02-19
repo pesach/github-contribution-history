@@ -18201,3 +18201,4 @@
 - [2019-02-19T20:54:20] Update automated pytest test suites
 - [2019-02-19T19:57:23] Add Redis rate limit backoff handlers
 - [2019-02-19T18:11:17] Update automated pytest test suites
+- [2019-02-19T08:58:59] Add error handling for yt-dlp rate limits
