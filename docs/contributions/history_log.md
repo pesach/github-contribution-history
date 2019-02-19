@@ -18205,3 +18205,4 @@
 - [2019-02-19T15:13:04] Optimize PostgreSQL query execution plans
 - [2019-02-19T09:44:05] Update automated pytest test suites
 - [2019-02-19T09:25:56] Add Prometheus exporter endpoints for queue length
+- [2019-02-19T15:47:56] Fix edge case in URL parsing and validation
