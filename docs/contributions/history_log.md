@@ -18197,3 +18197,4 @@
 - [2019-02-18T09:45:24] Update dependency lockfiles and requirements
 - [2019-02-18T13:29:51] Improve logging and health endpoint metrics
 - [2019-02-18T08:09:35] Update schema migration helpers
+- [2019-02-19T22:36:45] Update B2 storage chunking parameters
