@@ -18210,3 +18210,4 @@
 - [2019-02-19T17:16:55] Add Prometheus exporter endpoints for queue length
 - [2019-02-19T09:15:20] Optimize PostgreSQL query execution plans
 - [2019-02-19T15:37:17] Update dependency lockfiles and requirements
+- [2019-02-19T20:35:14] Add Redis rate limit backoff handlers
