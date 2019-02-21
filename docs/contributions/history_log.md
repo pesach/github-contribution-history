@@ -18229,3 +18229,4 @@
 - [2019-02-21T09:08:59] Add retries for transient network drops
 - [2019-02-21T20:10:34] Refactor storage upload retry mechanism
 - [2019-02-21T14:53:34] Implement streaming upload chunk buffer optimization
+- [2019-02-21T18:52:13] Fix edge case in URL parsing and validation
