@@ -18233,3 +18233,4 @@
 - [2019-02-21T18:13:39] Refactor worker polling logic
 - [2019-02-21T08:57:54] Fix edge case in URL parsing and validation
 - [2019-02-21T16:12:59] Refactor storage upload retry mechanism
+- [2019-02-21T08:41:30] Add Prometheus exporter endpoints for queue length
