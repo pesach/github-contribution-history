@@ -18241,3 +18241,4 @@
 - [2019-02-22T19:15:15] Clean up legacy worker task routines
 - [2019-02-22T11:15:49] Update documentation and architectural guides
 - [2019-02-22T19:42:51] Clean up legacy worker task routines
+- [2019-02-22T19:56:57] Add Prometheus exporter endpoints for queue length
