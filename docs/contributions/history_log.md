@@ -18247,3 +18247,4 @@
 - [2019-02-22T22:05:36] Update dependency lockfiles and requirements
 - [2019-02-22T18:38:50] Add Redis rate limit backoff handlers
 - [2019-02-22T22:01:41] Improve ffmpeg streaming pipe buffer management
+- [2019-02-23T11:45:03] Clean up legacy worker task routines
