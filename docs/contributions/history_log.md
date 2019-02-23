@@ -18246,3 +18246,4 @@
 - [2019-02-22T15:46:00] Update automated pytest test suites
 - [2019-02-22T22:05:36] Update dependency lockfiles and requirements
 - [2019-02-22T18:38:50] Add Redis rate limit backoff handlers
+- [2019-02-22T22:01:41] Improve ffmpeg streaming pipe buffer management
