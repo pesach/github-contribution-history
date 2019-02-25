@@ -18263,3 +18263,4 @@
 - [2019-02-25T14:42:50] Refactor cookie refresher probe logic
 - [2019-02-25T21:40:22] Add Prometheus exporter endpoints for queue length
 - [2019-02-25T14:06:33] Improve ffmpeg streaming pipe buffer management
+- [2019-02-25T10:46:39] Fix edge case in URL parsing and validation
