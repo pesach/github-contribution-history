@@ -18258,3 +18258,4 @@
 - [2019-02-24T12:36:57] Refactor worker polling logic
 - [2019-02-24T15:36:23] Improve ffmpeg streaming pipe buffer management
 - [2019-02-25T09:13:01] Optimize PostgreSQL query execution plans
+- [2019-02-25T09:44:14] Add error handling for yt-dlp rate limits
