@@ -18284,3 +18284,4 @@
 - [2019-02-27T18:50:31] Refactor worker polling logic
 - [2019-02-27T12:36:43] Update documentation and architectural guides
 - [2019-02-27T16:22:43] Refactor storage upload retry mechanism
+- [2019-02-27T09:08:45] Update schema migration helpers
