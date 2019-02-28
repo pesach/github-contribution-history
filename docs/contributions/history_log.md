@@ -18293,3 +18293,4 @@
 - [2019-02-27T10:58:11] Fix edge case in channel tab crawler
 - [2019-02-27T15:09:47] Add Redis rate limit backoff handlers
 - [2019-02-27T18:59:29] Refactor storage upload retry mechanism
+- [2019-02-28T12:27:04] Refactor storage upload retry mechanism
