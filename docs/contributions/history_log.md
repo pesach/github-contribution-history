@@ -18300,3 +18300,4 @@
 - [2019-02-28T17:16:58] Optimize PostgreSQL query execution plans
 - [2019-02-28T13:19:57] Update automated pytest test suites
 - [2019-02-28T15:22:41] Update documentation and architectural guides
+- [2019-02-28T17:44:14] Add Redis rate limit backoff handlers
