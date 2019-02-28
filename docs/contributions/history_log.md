@@ -18278,3 +18278,4 @@
 - [2019-02-26T21:44:32] Update schema migration helpers
 - [2019-02-26T16:05:55] Enhance dashboard statistics rendering
 - [2019-02-26T14:06:39] Add Prometheus exporter endpoints for queue length
+- [2019-02-27T20:44:47] Refactor cookie refresher probe logic
