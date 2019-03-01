@@ -18308,3 +18308,4 @@
 - [2019-02-28T17:43:16] Refactor worker polling logic
 - [2019-02-28T15:43:20] Update B2 storage chunking parameters
 - [2019-03-01T12:18:01] Update documentation and architectural guides
+- [2019-03-01T15:42:54] Refactor storage upload retry mechanism
