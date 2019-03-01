@@ -18321,3 +18321,4 @@
 - [2019-03-01T19:27:30] Optimize PostgreSQL query execution plans
 - [2019-03-01T20:46:49] Refactor cookie refresher probe logic
 - [2019-03-01T14:13:03] Update schema migration helpers
+- [2019-03-01T18:58:58] Clean up legacy worker task routines
