@@ -18324,3 +18324,4 @@
 - [2019-03-01T18:58:58] Clean up legacy worker task routines
 - [2019-03-02T09:18:23] Fix edge case in channel tab crawler
 - [2019-03-02T08:18:23] Update B2 storage chunking parameters
+- [2019-03-02T17:29:30] Refactor storage upload retry mechanism
