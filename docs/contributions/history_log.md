@@ -18326,3 +18326,4 @@
 - [2019-03-02T08:18:23] Update B2 storage chunking parameters
 - [2019-03-02T17:29:30] Refactor storage upload retry mechanism
 - [2019-03-03T12:59:55] Improve ffmpeg streaming pipe buffer management
+- [2019-03-03T13:03:14] Fix edge case in URL parsing and validation
