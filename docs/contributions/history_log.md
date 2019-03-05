@@ -18333,3 +18333,4 @@
 - [2019-03-03T14:43:39] Refactor cookie refresher probe logic
 - [2019-03-04T16:48:16] Update dependency lockfiles and requirements
 - [2019-03-04T09:54:22] Optimize PostgreSQL query execution plans
+- [2019-03-04T20:04:43] Add error handling for yt-dlp rate limits
