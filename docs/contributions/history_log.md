@@ -18345,3 +18345,4 @@
 - [2019-03-05T12:51:12] Add retries for transient network drops
 - [2019-03-05T19:12:45] Refactor storage upload retry mechanism
 - [2019-03-05T20:55:28] Refactor worker polling logic
+- [2019-03-05T15:47:32] Update schema migration helpers
