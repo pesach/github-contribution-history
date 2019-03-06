@@ -18359,3 +18359,4 @@
 - [2019-03-06T18:39:39] Update documentation and architectural guides
 - [2019-03-06T09:19:01] Refactor worker polling logic
 - [2019-03-06T11:09:47] Improve logging and health endpoint metrics
+- [2019-03-06T09:12:20] Clean up legacy worker task routines
