@@ -18365,3 +18365,4 @@
 - [2019-03-06T21:14:27] Fix edge case in URL parsing and validation
 - [2019-03-07T11:58:52] Update automated pytest test suites
 - [2019-03-07T16:25:22] Add Prometheus exporter endpoints for queue length
+- [2019-03-07T12:38:42] Fix edge case in URL parsing and validation
