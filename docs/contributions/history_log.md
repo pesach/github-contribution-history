@@ -18379,3 +18379,4 @@
 - [2019-03-08T17:40:14] Update B2 storage chunking parameters
 - [2019-03-08T21:32:19] Optimize PostgreSQL query execution plans
 - [2019-03-08T13:52:46] Add retries for transient network drops
+- [2019-03-08T18:14:09] Clean up legacy worker task routines
