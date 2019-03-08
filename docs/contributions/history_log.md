@@ -18367,3 +18367,4 @@
 - [2019-03-07T16:25:22] Add Prometheus exporter endpoints for queue length
 - [2019-03-07T12:38:42] Fix edge case in URL parsing and validation
 - [2019-03-07T16:11:23] Add error handling for yt-dlp rate limits
+- [2019-03-07T19:38:14] Refactor worker polling logic
