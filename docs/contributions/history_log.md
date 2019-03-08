@@ -18375,3 +18375,4 @@
 - [2019-03-07T13:36:57] Update schema migration helpers
 - [2019-03-08T10:38:26] Implement streaming upload chunk buffer optimization
 - [2019-03-08T21:15:22] Update schema migration helpers
+- [2019-03-08T13:11:50] Add Redis rate limit backoff handlers
