@@ -18377,3 +18377,4 @@
 - [2019-03-08T21:15:22] Update schema migration helpers
 - [2019-03-08T13:11:50] Add Redis rate limit backoff handlers
 - [2019-03-08T17:40:14] Update B2 storage chunking parameters
+- [2019-03-08T21:32:19] Optimize PostgreSQL query execution plans
