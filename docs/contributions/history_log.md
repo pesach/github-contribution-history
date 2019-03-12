@@ -18387,3 +18387,4 @@
 - [2019-03-12T12:18:11] Update schema migration helpers
 - [2019-03-12T18:42:23] Refactor storage upload retry mechanism
 - [2019-03-12T21:07:36] Update B2 storage chunking parameters
+- [2019-03-12T12:12:54] Update B2 storage chunking parameters
