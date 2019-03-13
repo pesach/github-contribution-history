@@ -18396,3 +18396,4 @@
 - [2019-03-13T17:01:34] Update schema migration helpers
 - [2019-03-13T14:23:50] Clean up legacy worker task routines
 - [2019-03-13T22:11:19] Improve ffmpeg streaming pipe buffer management
+- [2019-03-13T15:02:22] Add Redis rate limit backoff handlers
