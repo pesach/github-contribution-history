@@ -18394,3 +18394,4 @@
 - [2019-03-13T09:02:47] Optimize PostgreSQL query execution plans
 - [2019-03-13T08:11:49] Fix edge case in channel tab crawler
 - [2019-03-13T17:01:34] Update schema migration helpers
+- [2019-03-13T14:23:50] Clean up legacy worker task routines
