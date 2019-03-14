@@ -18401,3 +18401,4 @@
 - [2019-03-14T11:19:41] Refactor cookie refresher probe logic
 - [2019-03-14T19:19:47] Refactor worker polling logic
 - [2019-03-14T11:20:38] Refactor storage upload retry mechanism
+- [2019-03-14T08:58:16] Clean up legacy worker task routines
