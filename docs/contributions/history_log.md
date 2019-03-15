@@ -18410,3 +18410,4 @@
 - [2019-03-15T21:44:13] Add retries for transient network drops
 - [2019-03-15T22:31:14] Clean up legacy worker task routines
 - [2019-03-15T21:39:18] Improve ffmpeg streaming pipe buffer management
+- [2019-03-15T09:07:21] Improve logging and health endpoint metrics
