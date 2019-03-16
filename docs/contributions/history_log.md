@@ -18414,3 +18414,4 @@
 - [2019-03-15T21:36:40] Refactor worker polling logic
 - [2019-03-16T08:52:27] Optimize PostgreSQL query execution plans
 - [2019-03-16T17:37:26] Update documentation and architectural guides
+- [2019-03-16T17:31:41] Add error handling for yt-dlp rate limits
