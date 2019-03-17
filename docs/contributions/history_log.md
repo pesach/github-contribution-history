@@ -18419,3 +18419,4 @@
 - [2019-03-16T14:05:57] Update B2 storage chunking parameters
 - [2019-03-17T20:12:49] Add Prometheus exporter endpoints for queue length
 - [2019-03-17T08:55:31] Update dependency lockfiles and requirements
+- [2019-03-17T15:20:55] Clean up legacy worker task routines
