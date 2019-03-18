@@ -18425,3 +18425,4 @@
 - [2019-03-18T18:59:23] Add retries for transient network drops
 - [2019-03-18T15:15:49] Improve logging and health endpoint metrics
 - [2019-03-18T18:00:45] Update documentation and architectural guides
+- [2019-03-18T08:28:45] Fix edge case in URL parsing and validation
