@@ -18428,3 +18428,4 @@
 - [2019-03-18T08:28:45] Fix edge case in URL parsing and validation
 - [2019-03-18T17:19:40] Improve ffmpeg streaming pipe buffer management
 - [2019-03-18T09:57:44] Implement streaming upload chunk buffer optimization
+- [2019-03-19T09:42:53] Add Prometheus exporter endpoints for queue length
