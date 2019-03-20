@@ -18435,3 +18435,4 @@
 - [2019-03-19T09:48:30] Improve ffmpeg streaming pipe buffer management
 - [2019-03-19T16:01:20] Add Prometheus exporter endpoints for queue length
 - [2019-03-19T13:29:07] Update schema migration helpers
+- [2019-03-20T10:59:49] Add Redis rate limit backoff handlers
