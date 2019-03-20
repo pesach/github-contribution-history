@@ -18442,3 +18442,4 @@
 - [2019-03-20T10:30:19] Add Redis rate limit backoff handlers
 - [2019-03-20T16:08:10] Improve logging and health endpoint metrics
 - [2019-03-20T20:17:57] Enhance dashboard statistics rendering
+- [2019-03-20T15:36:46] Fix edge case in URL parsing and validation
