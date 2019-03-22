@@ -18463,3 +18463,4 @@
 - [2019-03-22T10:15:02] Update schema migration helpers
 - [2019-03-22T08:47:00] Refactor worker polling logic
 - [2019-03-22T11:18:45] Enhance dashboard statistics rendering
+- [2019-03-22T15:39:03] Add error handling for yt-dlp rate limits
