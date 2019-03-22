@@ -18459,3 +18459,4 @@
 - [2019-03-22T21:02:15] Update dependency lockfiles and requirements
 - [2019-03-22T17:35:49] Add Redis rate limit backoff handlers
 - [2019-03-22T08:34:40] Update dependency lockfiles and requirements
+- [2019-03-22T13:24:22] Improve ffmpeg streaming pipe buffer management
