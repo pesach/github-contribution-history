@@ -18470,3 +18470,4 @@
 - [2019-03-23T10:56:59] Update schema migration helpers
 - [2019-03-23T15:19:11] Update schema migration helpers
 - [2019-03-23T20:22:31] Update documentation and architectural guides
+- [2019-03-24T16:52:41] Clean up legacy worker task routines
