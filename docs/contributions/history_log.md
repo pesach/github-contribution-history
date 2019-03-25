@@ -18474,3 +18474,4 @@
 - [2019-03-24T11:24:54] Add Redis rate limit backoff handlers
 - [2019-03-24T13:26:48] Implement streaming upload chunk buffer optimization
 - [2019-03-25T17:05:42] Update dependency lockfiles and requirements
+- [2019-03-25T11:52:06] Refactor worker polling logic
