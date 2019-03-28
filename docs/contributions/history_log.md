@@ -18507,3 +18507,4 @@
 - [2019-03-28T09:24:42] Update dependency lockfiles and requirements
 - [2019-03-28T20:43:06] Update automated pytest test suites
 - [2019-03-28T08:43:51] Refactor storage upload retry mechanism
+- [2019-03-28T19:48:51] Add retries for transient network drops
