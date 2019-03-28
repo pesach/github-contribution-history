@@ -18503,3 +18503,4 @@
 - [2019-03-28T20:59:08] Refactor worker polling logic
 - [2019-03-28T12:20:39] Improve logging and health endpoint metrics
 - [2019-03-28T22:37:16] Refactor storage upload retry mechanism
+- [2019-03-28T17:08:51] Add error handling for yt-dlp rate limits
