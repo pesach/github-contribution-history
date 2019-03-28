@@ -18497,3 +18497,4 @@
 - [2019-03-27T08:15:56] Update documentation and architectural guides
 - [2019-03-27T10:31:39] Update dependency lockfiles and requirements
 - [2019-03-27T14:33:27] Add retries for transient network drops
+- [2019-03-27T20:04:04] Refactor storage upload retry mechanism
