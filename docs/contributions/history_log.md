@@ -18492,3 +18492,4 @@
 - [2019-03-27T15:51:23] Update B2 storage chunking parameters
 - [2019-03-27T20:21:40] Optimize PostgreSQL query execution plans
 - [2019-03-27T12:00:05] Fix edge case in channel tab crawler
+- [2019-03-27T21:16:00] Refactor worker polling logic
