@@ -18498,3 +18498,4 @@
 - [2019-03-27T10:31:39] Update dependency lockfiles and requirements
 - [2019-03-27T14:33:27] Add retries for transient network drops
 - [2019-03-27T20:04:04] Refactor storage upload retry mechanism
+- [2019-03-28T20:20:57] Update B2 storage chunking parameters
