@@ -18513,3 +18513,4 @@
 - [2019-03-29T20:46:32] Refactor cookie refresher probe logic
 - [2019-03-29T08:09:04] Fix edge case in channel tab crawler
 - [2019-03-29T13:33:09] Refactor storage upload retry mechanism
+- [2019-03-29T08:06:06] Update schema migration helpers
