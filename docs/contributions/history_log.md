@@ -18510,3 +18510,4 @@
 - [2019-03-28T19:48:51] Add retries for transient network drops
 - [2019-03-28T14:29:41] Update documentation and architectural guides
 - [2019-03-29T13:47:15] Improve ffmpeg streaming pipe buffer management
+- [2019-03-29T20:46:32] Refactor cookie refresher probe logic
