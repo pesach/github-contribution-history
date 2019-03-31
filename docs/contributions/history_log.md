@@ -18527,3 +18527,4 @@
 - [2019-03-31T17:47:06] Update B2 storage chunking parameters
 - [2019-03-31T16:50:07] Improve ffmpeg streaming pipe buffer management
 - [2019-03-31T18:50:25] Refactor cookie refresher probe logic
+- [2019-03-31T19:33:23] Fix edge case in channel tab crawler
