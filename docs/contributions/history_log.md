@@ -18529,3 +18529,4 @@
 - [2019-03-31T18:50:25] Refactor cookie refresher probe logic
 - [2019-03-31T19:33:23] Fix edge case in channel tab crawler
 - [2019-03-31T17:49:27] Fix edge case in URL parsing and validation
+- [2019-04-01T15:13:58] Improve ffmpeg streaming pipe buffer management
