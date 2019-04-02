@@ -18543,3 +18543,4 @@
 - [2019-04-02T22:15:23] Implement streaming upload chunk buffer optimization
 - [2019-04-02T10:54:16] Update dependency lockfiles and requirements
 - [2019-04-02T10:58:04] Update B2 storage chunking parameters
+- [2019-04-02T14:05:34] Clean up legacy worker task routines
