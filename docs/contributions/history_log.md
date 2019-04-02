@@ -18550,3 +18550,4 @@
 - [2019-04-02T12:31:08] Update schema migration helpers
 - [2019-04-02T18:49:08] Refactor cookie refresher probe logic
 - [2019-04-02T20:40:40] Update dependency lockfiles and requirements
+- [2019-04-02T19:29:59] Improve logging and health endpoint metrics
