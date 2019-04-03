@@ -18558,3 +18558,4 @@
 - [2019-04-03T22:50:18] Add Redis rate limit backoff handlers
 - [2019-04-03T18:10:52] Refactor worker polling logic
 - [2019-04-03T10:41:39] Update dependency lockfiles and requirements
+- [2019-04-03T12:14:11] Clean up legacy worker task routines
