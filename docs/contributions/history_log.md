@@ -18553,3 +18553,4 @@
 - [2019-04-02T19:29:59] Improve logging and health endpoint metrics
 - [2019-04-03T08:30:46] Improve ffmpeg streaming pipe buffer management
 - [2019-04-03T10:33:41] Improve logging and health endpoint metrics
+- [2019-04-03T10:14:16] Refactor storage upload retry mechanism
