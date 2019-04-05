@@ -18584,3 +18584,4 @@
 - [2019-04-05T14:28:02] Fix edge case in URL parsing and validation
 - [2019-04-05T17:44:46] Fix edge case in URL parsing and validation
 - [2019-04-05T12:28:11] Add retries for transient network drops
+- [2019-04-05T16:24:40] Refactor storage upload retry mechanism
