@@ -18582,3 +18582,4 @@
 - [2019-04-05T22:40:00] Add Prometheus exporter endpoints for queue length
 - [2019-04-05T09:07:04] Enhance dashboard statistics rendering
 - [2019-04-05T14:28:02] Fix edge case in URL parsing and validation
+- [2019-04-05T17:44:46] Fix edge case in URL parsing and validation
