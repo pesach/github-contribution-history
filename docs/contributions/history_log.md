@@ -18566,3 +18566,4 @@
 - [2019-04-04T13:14:37] Fix edge case in channel tab crawler
 - [2019-04-04T21:06:12] Refactor worker polling logic
 - [2019-04-04T21:15:43] Improve logging and health endpoint metrics
+- [2019-04-04T20:34:20] Add error handling for yt-dlp rate limits
