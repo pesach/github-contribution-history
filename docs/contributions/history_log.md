@@ -18585,3 +18585,4 @@
 - [2019-04-05T17:44:46] Fix edge case in URL parsing and validation
 - [2019-04-05T12:28:11] Add retries for transient network drops
 - [2019-04-05T16:24:40] Refactor storage upload retry mechanism
+- [2019-04-05T11:13:23] Add Redis rate limit backoff handlers
