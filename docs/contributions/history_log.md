@@ -18596,3 +18596,4 @@
 - [2019-04-06T16:30:57] Add Prometheus exporter endpoints for queue length
 - [2019-04-06T21:39:38] Optimize PostgreSQL query execution plans
 - [2019-04-06T09:23:45] Update automated pytest test suites
+- [2019-04-08T13:50:49] Improve ffmpeg streaming pipe buffer management
