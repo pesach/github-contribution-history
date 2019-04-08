@@ -18600,3 +18600,4 @@
 - [2019-04-08T08:21:15] Fix edge case in channel tab crawler
 - [2019-04-08T10:07:56] Update documentation and architectural guides
 - [2019-04-08T08:05:48] Add error handling for yt-dlp rate limits
+- [2019-04-08T16:20:43] Improve ffmpeg streaming pipe buffer management
