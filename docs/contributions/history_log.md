@@ -18609,3 +18609,4 @@
 - [2019-04-09T13:50:37] Update automated pytest test suites
 - [2019-04-09T10:37:51] Optimize PostgreSQL query execution plans
 - [2019-04-09T08:26:36] Add retries for transient network drops
+- [2019-04-09T11:51:51] Clean up legacy worker task routines
