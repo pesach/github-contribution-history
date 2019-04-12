@@ -18628,3 +18628,4 @@
 - [2019-04-12T09:23:28] Update documentation and architectural guides
 - [2019-04-12T16:47:30] Clean up legacy worker task routines
 - [2019-04-12T19:30:38] Refactor cookie refresher probe logic
+- [2019-04-12T10:56:44] Improve ffmpeg streaming pipe buffer management
