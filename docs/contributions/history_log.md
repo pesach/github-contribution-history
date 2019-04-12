@@ -18632,3 +18632,4 @@
 - [2019-04-12T21:47:31] Add Prometheus exporter endpoints for queue length
 - [2019-04-12T20:43:31] Update B2 storage chunking parameters
 - [2019-04-12T18:24:01] Enhance dashboard statistics rendering
+- [2019-04-12T09:24:04] Add error handling for yt-dlp rate limits
