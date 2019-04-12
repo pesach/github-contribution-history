@@ -18638,3 +18638,4 @@
 - [2019-04-12T12:02:24] Optimize PostgreSQL query execution plans
 - [2019-04-12T10:55:09] Update documentation and architectural guides
 - [2019-04-12T17:02:59] Improve logging and health endpoint metrics
+- [2019-04-12T15:57:14] Add error handling for yt-dlp rate limits
