@@ -18626,3 +18626,4 @@
 - [2019-04-10T19:46:03] Update B2 storage chunking parameters
 - [2019-04-10T21:40:03] Enhance dashboard statistics rendering
 - [2019-04-12T09:23:28] Update documentation and architectural guides
+- [2019-04-12T16:47:30] Clean up legacy worker task routines
