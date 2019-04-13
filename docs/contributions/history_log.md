@@ -18629,3 +18629,4 @@
 - [2019-04-12T16:47:30] Clean up legacy worker task routines
 - [2019-04-12T19:30:38] Refactor cookie refresher probe logic
 - [2019-04-12T10:56:44] Improve ffmpeg streaming pipe buffer management
+- [2019-04-12T21:47:31] Add Prometheus exporter endpoints for queue length
