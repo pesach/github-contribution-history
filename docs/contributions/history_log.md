@@ -18643,3 +18643,4 @@
 - [2019-04-13T10:16:01] Add Prometheus exporter endpoints for queue length
 - [2019-04-13T22:20:50] Clean up legacy worker task routines
 - [2019-04-13T12:54:49] Fix edge case in URL parsing and validation
+- [2019-04-13T19:21:49] Improve ffmpeg streaming pipe buffer management
