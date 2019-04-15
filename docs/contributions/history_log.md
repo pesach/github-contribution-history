@@ -18659,3 +18659,4 @@
 - [2019-04-15T22:50:00] Fix edge case in URL parsing and validation
 - [2019-04-15T10:28:20] Add retries for transient network drops
 - [2019-04-15T10:51:27] Fix edge case in channel tab crawler
+- [2019-04-15T16:52:48] Improve logging and health endpoint metrics
