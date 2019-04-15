@@ -18662,3 +18662,4 @@
 - [2019-04-15T16:52:48] Improve logging and health endpoint metrics
 - [2019-04-15T14:09:05] Clean up legacy worker task routines
 - [2019-04-15T17:18:13] Add Redis rate limit backoff handlers
+- [2019-04-15T08:04:29] Refactor worker polling logic
