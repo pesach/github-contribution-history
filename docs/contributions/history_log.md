@@ -18657,3 +18657,4 @@
 - [2019-04-15T11:51:04] Improve logging and health endpoint metrics
 - [2019-04-15T19:44:32] Update B2 storage chunking parameters
 - [2019-04-15T22:50:00] Fix edge case in URL parsing and validation
+- [2019-04-15T10:28:20] Add retries for transient network drops
