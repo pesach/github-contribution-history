@@ -18656,3 +18656,4 @@
 - [2019-04-15T11:05:50] Refactor worker polling logic
 - [2019-04-15T11:51:04] Improve logging and health endpoint metrics
 - [2019-04-15T19:44:32] Update B2 storage chunking parameters
+- [2019-04-15T22:50:00] Fix edge case in URL parsing and validation
