@@ -18690,3 +18690,4 @@
 - [2019-04-17T16:03:23] Add Redis rate limit backoff handlers
 - [2019-04-17T20:12:52] Refactor cookie refresher probe logic
 - [2019-04-17T09:37:34] Implement streaming upload chunk buffer optimization
+- [2019-04-17T11:04:02] Improve ffmpeg streaming pipe buffer management
