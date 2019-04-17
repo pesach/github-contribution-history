@@ -18679,3 +18679,4 @@
 - [2019-04-16T18:40:31] Enhance dashboard statistics rendering
 - [2019-04-16T10:05:43] Update automated pytest test suites
 - [2019-04-17T14:41:19] Update B2 storage chunking parameters
+- [2019-04-17T15:29:00] Fix edge case in URL parsing and validation
