@@ -18685,3 +18685,4 @@
 - [2019-04-17T20:44:24] Fix edge case in channel tab crawler
 - [2019-04-17T09:48:57] Update automated pytest test suites
 - [2019-04-17T21:18:06] Update dependency lockfiles and requirements
+- [2019-04-17T20:28:04] Clean up legacy worker task routines
