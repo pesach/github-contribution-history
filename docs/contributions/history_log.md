@@ -18704,3 +18704,4 @@
 - [2019-04-19T11:43:43] Optimize PostgreSQL query execution plans
 - [2019-04-19T18:33:38] Update schema migration helpers
 - [2019-04-19T17:22:03] Optimize PostgreSQL query execution plans
+- [2019-04-20T15:48:21] Fix edge case in URL parsing and validation
