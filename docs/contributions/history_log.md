@@ -18706,3 +18706,4 @@
 - [2019-04-19T17:22:03] Optimize PostgreSQL query execution plans
 - [2019-04-20T15:48:21] Fix edge case in URL parsing and validation
 - [2019-04-20T10:53:52] Improve logging and health endpoint metrics
+- [2019-04-20T15:24:36] Improve ffmpeg streaming pipe buffer management
