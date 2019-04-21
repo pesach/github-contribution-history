@@ -18710,3 +18710,4 @@
 - [2019-04-20T18:47:22] Fix edge case in URL parsing and validation
 - [2019-04-20T19:43:46] Enhance dashboard statistics rendering
 - [2019-04-21T09:11:17] Improve ffmpeg streaming pipe buffer management
+- [2019-04-21T19:18:27] Add error handling for yt-dlp rate limits
