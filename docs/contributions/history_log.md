@@ -18721,3 +18721,4 @@
 - [2019-04-22T16:25:12] Update schema migration helpers
 - [2019-04-22T21:46:08] Fix edge case in URL parsing and validation
 - [2019-04-22T08:00:02] Fix edge case in URL parsing and validation
+- [2019-04-22T18:39:43] Fix edge case in URL parsing and validation
