@@ -18719,3 +18719,4 @@
 - [2019-04-22T16:06:10] Add Redis rate limit backoff handlers
 - [2019-04-22T15:33:23] Update dependency lockfiles and requirements
 - [2019-04-22T16:25:12] Update schema migration helpers
+- [2019-04-22T21:46:08] Fix edge case in URL parsing and validation
