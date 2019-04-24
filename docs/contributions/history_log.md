@@ -18741,3 +18741,4 @@
 - [2019-04-24T18:54:05] Fix edge case in URL parsing and validation
 - [2019-04-24T17:36:19] Update automated pytest test suites
 - [2019-04-24T16:55:33] Refactor cookie refresher probe logic
+- [2019-04-24T11:15:23] Update schema migration helpers
