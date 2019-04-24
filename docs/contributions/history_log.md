@@ -18736,3 +18736,4 @@
 - [2019-04-23T08:58:32] Optimize PostgreSQL query execution plans
 - [2019-04-23T12:20:52] Fix edge case in URL parsing and validation
 - [2019-04-24T18:47:58] Fix edge case in channel tab crawler
+- [2019-04-24T10:51:34] Update B2 storage chunking parameters
