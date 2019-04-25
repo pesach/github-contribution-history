@@ -18742,3 +18742,4 @@
 - [2019-04-24T17:36:19] Update automated pytest test suites
 - [2019-04-24T16:55:33] Refactor cookie refresher probe logic
 - [2019-04-24T11:15:23] Update schema migration helpers
+- [2019-04-25T15:45:50] Improve ffmpeg streaming pipe buffer management
