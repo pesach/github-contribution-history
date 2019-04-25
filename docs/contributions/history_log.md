@@ -18745,3 +18745,4 @@
 - [2019-04-25T15:45:50] Improve ffmpeg streaming pipe buffer management
 - [2019-04-25T14:34:11] Optimize PostgreSQL query execution plans
 - [2019-04-25T15:10:15] Add Redis rate limit backoff handlers
+- [2019-04-25T13:46:03] Update B2 storage chunking parameters
