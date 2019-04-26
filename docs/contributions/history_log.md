@@ -18764,3 +18764,4 @@
 - [2019-04-26T13:41:21] Fix edge case in URL parsing and validation
 - [2019-04-26T15:49:46] Improve ffmpeg streaming pipe buffer management
 - [2019-04-26T20:24:55] Add Redis rate limit backoff handlers
+- [2019-04-26T11:53:50] Refactor worker polling logic
