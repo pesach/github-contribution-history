@@ -18765,3 +18765,4 @@
 - [2019-04-26T15:49:46] Improve ffmpeg streaming pipe buffer management
 - [2019-04-26T20:24:55] Add Redis rate limit backoff handlers
 - [2019-04-26T11:53:50] Refactor worker polling logic
+- [2019-04-26T19:23:20] Add Prometheus exporter endpoints for queue length
