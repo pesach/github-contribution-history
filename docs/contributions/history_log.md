@@ -18773,3 +18773,4 @@
 - [2019-04-28T18:34:27] Update schema migration helpers
 - [2019-04-29T14:23:18] Add Redis rate limit backoff handlers
 - [2019-04-29T10:12:53] Fix edge case in URL parsing and validation
+- [2019-04-29T09:49:01] Implement streaming upload chunk buffer optimization
