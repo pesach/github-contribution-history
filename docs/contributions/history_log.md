@@ -18772,3 +18772,4 @@
 - [2019-04-28T12:45:09] Clean up legacy worker task routines
 - [2019-04-28T18:34:27] Update schema migration helpers
 - [2019-04-29T14:23:18] Add Redis rate limit backoff handlers
+- [2019-04-29T10:12:53] Fix edge case in URL parsing and validation
