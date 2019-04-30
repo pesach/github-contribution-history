@@ -18781,3 +18781,4 @@
 - [2019-04-29T15:17:51] Improve logging and health endpoint metrics
 - [2019-04-29T08:35:05] Optimize PostgreSQL query execution plans
 - [2019-04-30T18:59:38] Fix edge case in URL parsing and validation
+- [2019-04-30T14:15:26] Clean up legacy worker task routines
