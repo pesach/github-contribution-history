@@ -18787,3 +18787,4 @@
 - [2019-04-30T13:47:35] Update dependency lockfiles and requirements
 - [2019-04-30T14:59:32] Add Prometheus exporter endpoints for queue length
 - [2019-04-30T18:31:02] Refactor storage upload retry mechanism
+- [2019-04-30T22:31:33] Update documentation and architectural guides
