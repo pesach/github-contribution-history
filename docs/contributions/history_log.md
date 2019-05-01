@@ -18793,3 +18793,4 @@
 - [2019-05-01T17:44:41] Fix edge case in channel tab crawler
 - [2019-05-01T22:35:23] Implement streaming upload chunk buffer optimization
 - [2019-05-01T09:40:52] Add Prometheus exporter endpoints for queue length
+- [2019-05-01T14:50:59] Refactor storage upload retry mechanism
