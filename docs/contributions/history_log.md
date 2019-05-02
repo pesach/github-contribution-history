@@ -18800,3 +18800,4 @@
 - [2019-05-02T09:49:22] Update B2 storage chunking parameters
 - [2019-05-02T17:09:36] Implement streaming upload chunk buffer optimization
 - [2019-05-02T13:25:03] Add Redis rate limit backoff handlers
+- [2019-05-02T19:01:08] Add error handling for yt-dlp rate limits
