@@ -18806,3 +18806,4 @@
 - [2019-05-03T12:22:05] Improve logging and health endpoint metrics
 - [2019-05-03T09:02:50] Optimize PostgreSQL query execution plans
 - [2019-05-03T17:02:15] Refactor worker polling logic
+- [2019-05-03T19:11:53] Improve ffmpeg streaming pipe buffer management
