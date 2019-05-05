@@ -18814,3 +18814,4 @@
 - [2019-05-04T22:07:50] Fix edge case in URL parsing and validation
 - [2019-05-04T16:36:06] Optimize PostgreSQL query execution plans
 - [2019-05-05T13:13:55] Improve ffmpeg streaming pipe buffer management
+- [2019-05-05T13:35:28] Update schema migration helpers
