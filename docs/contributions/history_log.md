@@ -18818,3 +18818,4 @@
 - [2019-05-05T10:25:10] Enhance dashboard statistics rendering
 - [2019-05-06T18:21:58] Clean up legacy worker task routines
 - [2019-05-06T12:45:03] Add error handling for yt-dlp rate limits
+- [2019-05-06T17:03:16] Update schema migration helpers
