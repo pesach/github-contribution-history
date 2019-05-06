@@ -18821,3 +18821,4 @@
 - [2019-05-06T17:03:16] Update schema migration helpers
 - [2019-05-06T21:51:08] Update B2 storage chunking parameters
 - [2019-05-06T20:56:51] Refactor cookie refresher probe logic
+- [2019-05-06T11:05:15] Refactor worker polling logic
