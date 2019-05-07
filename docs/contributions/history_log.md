@@ -18828,3 +18828,4 @@
 - [2019-05-07T10:30:46] Clean up legacy worker task routines
 - [2019-05-07T18:59:14] Enhance dashboard statistics rendering
 - [2019-05-07T21:51:20] Update schema migration helpers
+- [2019-05-07T13:55:06] Improve ffmpeg streaming pipe buffer management
