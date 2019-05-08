@@ -18837,3 +18837,4 @@
 - [2019-05-08T20:04:37] Update dependency lockfiles and requirements
 - [2019-05-08T19:43:30] Add error handling for yt-dlp rate limits
 - [2019-05-08T10:25:50] Update automated pytest test suites
+- [2019-05-08T14:22:41] Improve ffmpeg streaming pipe buffer management
