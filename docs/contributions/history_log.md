@@ -18830,3 +18830,4 @@
 - [2019-05-07T21:51:20] Update schema migration helpers
 - [2019-05-07T13:55:06] Improve ffmpeg streaming pipe buffer management
 - [2019-05-08T16:41:11] Update automated pytest test suites
+- [2019-05-08T21:23:02] Update documentation and architectural guides
