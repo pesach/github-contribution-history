@@ -18847,3 +18847,4 @@
 - [2019-05-09T14:24:14] Update B2 storage chunking parameters
 - [2019-05-09T09:07:30] Refactor cookie refresher probe logic
 - [2019-05-09T21:11:43] Refactor cookie refresher probe logic
+- [2019-05-09T16:27:41] Update schema migration helpers
