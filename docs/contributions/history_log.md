@@ -18852,3 +18852,4 @@
 - [2019-05-10T10:34:13] Refactor storage upload retry mechanism
 - [2019-05-10T16:03:36] Update dependency lockfiles and requirements
 - [2019-05-10T15:00:15] Update dependency lockfiles and requirements
+- [2019-05-10T20:31:52] Update B2 storage chunking parameters
