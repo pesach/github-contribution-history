@@ -18857,3 +18857,4 @@
 - [2019-05-10T18:31:04] Fix edge case in channel tab crawler
 - [2019-05-10T21:39:02] Update automated pytest test suites
 - [2019-05-10T14:36:19] Refactor cookie refresher probe logic
+- [2019-05-11T19:46:35] Clean up legacy worker task routines
