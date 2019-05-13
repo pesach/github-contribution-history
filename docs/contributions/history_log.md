@@ -18867,3 +18867,4 @@
 - [2019-05-13T20:11:59] Add Redis rate limit backoff handlers
 - [2019-05-13T15:24:10] Add error handling for yt-dlp rate limits
 - [2019-05-13T16:46:43] Update automated pytest test suites
+- [2019-05-13T15:09:17] Update schema migration helpers
