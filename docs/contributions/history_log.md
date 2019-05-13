@@ -18876,3 +18876,4 @@
 - [2019-05-13T08:07:16] Add Prometheus exporter endpoints for queue length
 - [2019-05-13T14:38:21] Refactor storage upload retry mechanism
 - [2019-05-13T18:02:10] Fix edge case in URL parsing and validation
+- [2019-05-13T14:06:12] Add error handling for yt-dlp rate limits
