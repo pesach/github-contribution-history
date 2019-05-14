@@ -18881,3 +18881,4 @@
 - [2019-05-14T17:52:13] Update schema migration helpers
 - [2019-05-14T13:23:37] Enhance dashboard statistics rendering
 - [2019-05-14T21:36:44] Improve logging and health endpoint metrics
+- [2019-05-14T16:19:26] Add error handling for yt-dlp rate limits
