@@ -18893,3 +18893,4 @@
 - [2019-05-15T08:19:34] Update B2 storage chunking parameters
 - [2019-05-15T11:09:10] Add Prometheus exporter endpoints for queue length
 - [2019-05-15T14:56:21] Update automated pytest test suites
+- [2019-05-15T16:02:50] Refactor worker polling logic
