@@ -18888,3 +18888,4 @@
 - [2019-05-14T20:00:29] Update dependency lockfiles and requirements
 - [2019-05-14T10:58:04] Improve logging and health endpoint metrics
 - [2019-05-15T15:10:27] Refactor storage upload retry mechanism
+- [2019-05-15T18:31:24] Fix edge case in channel tab crawler
