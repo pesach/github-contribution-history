@@ -18907,3 +18907,4 @@
 - [2019-05-16T11:14:42] Implement streaming upload chunk buffer optimization
 - [2019-05-16T08:25:56] Add Redis rate limit backoff handlers
 - [2019-05-16T19:37:50] Update schema migration helpers
+- [2019-05-16T20:05:08] Clean up legacy worker task routines
