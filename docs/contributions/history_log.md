@@ -18912,3 +18912,4 @@
 - [2019-05-17T13:06:19] Add Redis rate limit backoff handlers
 - [2019-05-17T17:57:29] Fix edge case in channel tab crawler
 - [2019-05-17T14:41:17] Add retries for transient network drops
+- [2019-05-17T17:20:28] Clean up legacy worker task routines
