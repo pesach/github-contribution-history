@@ -18910,3 +18910,4 @@
 - [2019-05-16T20:05:08] Clean up legacy worker task routines
 - [2019-05-17T17:59:53] Optimize PostgreSQL query execution plans
 - [2019-05-17T13:06:19] Add Redis rate limit backoff handlers
+- [2019-05-17T17:57:29] Fix edge case in channel tab crawler
