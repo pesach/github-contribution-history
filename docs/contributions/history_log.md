@@ -18917,3 +18917,4 @@
 - [2019-05-18T08:57:51] Fix edge case in URL parsing and validation
 - [2019-05-18T21:09:21] Fix edge case in URL parsing and validation
 - [2019-05-18T10:39:58] Clean up legacy worker task routines
+- [2019-05-18T19:25:04] Refactor cookie refresher probe logic
