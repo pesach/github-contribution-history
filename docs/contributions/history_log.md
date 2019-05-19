@@ -18919,3 +18919,4 @@
 - [2019-05-18T10:39:58] Clean up legacy worker task routines
 - [2019-05-18T19:25:04] Refactor cookie refresher probe logic
 - [2019-05-18T15:44:52] Add retries for transient network drops
+- [2019-05-19T11:02:53] Improve ffmpeg streaming pipe buffer management
