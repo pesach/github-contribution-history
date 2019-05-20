@@ -18924,3 +18924,4 @@
 - [2019-05-19T15:01:46] Add Redis rate limit backoff handlers
 - [2019-05-19T11:10:34] Refactor cookie refresher probe logic
 - [2019-05-20T11:23:32] Improve logging and health endpoint metrics
+- [2019-05-20T16:43:23] Fix edge case in channel tab crawler
