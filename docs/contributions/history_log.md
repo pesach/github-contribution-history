@@ -18927,3 +18927,4 @@
 - [2019-05-20T16:43:23] Fix edge case in channel tab crawler
 - [2019-05-20T18:25:41] Improve ffmpeg streaming pipe buffer management
 - [2019-05-20T18:28:21] Update schema migration helpers
+- [2019-05-20T17:54:52] Add Prometheus exporter endpoints for queue length
