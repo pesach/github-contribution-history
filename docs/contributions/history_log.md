@@ -18943,3 +18943,4 @@
 - [2019-05-21T18:24:22] Fix edge case in URL parsing and validation
 - [2019-05-21T09:56:45] Fix edge case in channel tab crawler
 - [2019-05-21T09:08:36] Add Redis rate limit backoff handlers
+- [2019-05-21T14:37:03] Optimize PostgreSQL query execution plans
