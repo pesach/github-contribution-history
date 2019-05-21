@@ -18940,3 +18940,4 @@
 - [2019-05-21T21:58:06] Add Prometheus exporter endpoints for queue length
 - [2019-05-21T08:31:04] Add Redis rate limit backoff handlers
 - [2019-05-21T13:30:18] Add error handling for yt-dlp rate limits
+- [2019-05-21T18:24:22] Fix edge case in URL parsing and validation
