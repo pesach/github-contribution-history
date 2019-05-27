@@ -18976,3 +18976,4 @@
 - [2019-05-27T12:15:53] Update schema migration helpers
 - [2019-05-27T22:31:49] Refactor storage upload retry mechanism
 - [2019-05-27T15:47:32] Update dependency lockfiles and requirements
+- [2019-05-27T16:45:18] Update documentation and architectural guides
