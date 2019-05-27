@@ -18973,3 +18973,4 @@
 - [2019-05-26T08:31:05] Refactor cookie refresher probe logic
 - [2019-05-27T20:32:52] Refactor cookie refresher probe logic
 - [2019-05-27T16:35:56] Clean up legacy worker task routines
+- [2019-05-27T12:15:53] Update schema migration helpers
