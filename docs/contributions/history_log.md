@@ -18978,3 +18978,4 @@
 - [2019-05-27T15:47:32] Update dependency lockfiles and requirements
 - [2019-05-27T16:45:18] Update documentation and architectural guides
 - [2019-05-27T12:51:42] Refactor worker polling logic
+- [2019-05-27T21:07:25] Update B2 storage chunking parameters
