@@ -18980,3 +18980,4 @@
 - [2019-05-27T12:51:42] Refactor worker polling logic
 - [2019-05-27T21:07:25] Update B2 storage chunking parameters
 - [2019-05-27T13:18:26] Improve ffmpeg streaming pipe buffer management
+- [2019-05-27T21:36:04] Fix edge case in URL parsing and validation
