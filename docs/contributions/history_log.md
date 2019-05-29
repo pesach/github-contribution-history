@@ -18993,3 +18993,4 @@
 - [2019-05-28T17:11:33] Clean up legacy worker task routines
 - [2019-05-28T09:49:04] Enhance dashboard statistics rendering
 - [2019-05-28T11:11:42] Add Redis rate limit backoff handlers
+- [2019-05-28T22:42:01] Fix edge case in URL parsing and validation
