@@ -18999,3 +18999,4 @@
 - [2019-05-29T14:30:31] Update B2 storage chunking parameters
 - [2019-05-29T18:48:04] Optimize PostgreSQL query execution plans
 - [2019-05-29T18:28:47] Refactor worker polling logic
+- [2019-05-29T13:05:56] Add error handling for yt-dlp rate limits
