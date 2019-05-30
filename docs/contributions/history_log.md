@@ -19016,3 +19016,4 @@
 - [2019-05-30T21:38:59] Update documentation and architectural guides
 - [2019-05-30T16:07:48] Update dependency lockfiles and requirements
 - [2019-05-30T08:33:38] Fix edge case in URL parsing and validation
+- [2019-05-30T15:39:45] Add Prometheus exporter endpoints for queue length
