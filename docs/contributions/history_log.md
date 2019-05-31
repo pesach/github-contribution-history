@@ -19011,3 +19011,4 @@
 - [2019-05-29T18:56:59] Update dependency lockfiles and requirements
 - [2019-05-29T09:21:29] Improve logging and health endpoint metrics
 - [2019-05-29T20:27:16] Enhance dashboard statistics rendering
+- [2019-05-30T20:08:35] Add Prometheus exporter endpoints for queue length
