@@ -19033,3 +19033,4 @@
 - [2019-06-01T18:39:13] Update automated pytest test suites
 - [2019-06-02T17:58:39] Update dependency lockfiles and requirements
 - [2019-06-02T14:22:04] Add Prometheus exporter endpoints for queue length
+- [2019-06-02T21:38:46] Refactor storage upload retry mechanism
