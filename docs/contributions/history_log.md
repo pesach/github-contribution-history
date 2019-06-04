@@ -19047,3 +19047,4 @@
 - [2019-06-04T17:13:47] Optimize PostgreSQL query execution plans
 - [2019-06-04T12:41:17] Refactor worker polling logic
 - [2019-06-04T08:29:55] Refactor cookie refresher probe logic
+- [2019-06-04T16:10:39] Add Redis rate limit backoff handlers
