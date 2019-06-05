@@ -19059,3 +19059,4 @@
 - [2019-06-05T22:04:17] Refactor worker polling logic
 - [2019-06-05T15:04:27] Update dependency lockfiles and requirements
 - [2019-06-05T21:41:11] Update automated pytest test suites
+- [2019-06-05T19:41:01] Clean up legacy worker task routines
