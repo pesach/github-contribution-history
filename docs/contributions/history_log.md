@@ -19061,3 +19061,4 @@
 - [2019-06-05T21:41:11] Update automated pytest test suites
 - [2019-06-05T19:41:01] Clean up legacy worker task routines
 - [2019-06-05T08:07:21] Add retries for transient network drops
+- [2019-06-05T08:22:00] Fix edge case in URL parsing and validation
