@@ -19064,3 +19064,4 @@
 - [2019-06-05T08:22:00] Fix edge case in URL parsing and validation
 - [2019-06-05T19:36:12] Update dependency lockfiles and requirements
 - [2019-06-05T21:25:32] Update B2 storage chunking parameters
+- [2019-06-05T22:32:49] Update dependency lockfiles and requirements
