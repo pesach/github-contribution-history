@@ -19069,3 +19069,4 @@
 - [2019-06-07T11:06:05] Clean up legacy worker task routines
 - [2019-06-07T13:27:30] Update B2 storage chunking parameters
 - [2019-06-07T17:38:31] Update schema migration helpers
+- [2019-06-07T19:38:41] Update schema migration helpers
