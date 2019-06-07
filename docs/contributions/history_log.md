@@ -19066,3 +19066,4 @@
 - [2019-06-05T21:25:32] Update B2 storage chunking parameters
 - [2019-06-05T22:32:49] Update dependency lockfiles and requirements
 - [2019-06-05T22:22:27] Clean up legacy worker task routines
+- [2019-06-07T11:06:05] Clean up legacy worker task routines
