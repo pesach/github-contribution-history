@@ -19112,3 +19112,4 @@
 - [2019-06-12T22:07:12] Refactor worker polling logic
 - [2019-06-12T19:10:59] Refactor cookie refresher probe logic
 - [2019-06-12T21:19:24] Add Prometheus exporter endpoints for queue length
+- [2019-06-12T10:27:38] Add Redis rate limit backoff handlers
