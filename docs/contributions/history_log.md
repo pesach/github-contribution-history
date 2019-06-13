@@ -19119,3 +19119,4 @@
 - [2019-06-12T08:39:28] Fix edge case in channel tab crawler
 - [2019-06-13T08:35:26] Update schema migration helpers
 - [2019-06-13T17:00:13] Update documentation and architectural guides
+- [2019-06-13T14:03:02] Add Redis rate limit backoff handlers
