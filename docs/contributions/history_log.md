@@ -19128,3 +19128,4 @@
 - [2019-06-13T15:46:17] Improve logging and health endpoint metrics
 - [2019-06-13T16:30:43] Update dependency lockfiles and requirements
 - [2019-06-13T20:25:01] Update schema migration helpers
+- [2019-06-13T14:43:01] Fix edge case in channel tab crawler
