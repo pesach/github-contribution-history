@@ -19117,3 +19117,4 @@
 - [2019-06-12T15:03:13] Update dependency lockfiles and requirements
 - [2019-06-12T22:21:59] Add retries for transient network drops
 - [2019-06-12T08:39:28] Fix edge case in channel tab crawler
+- [2019-06-13T08:35:26] Update schema migration helpers
