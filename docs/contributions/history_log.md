@@ -19120,3 +19120,4 @@
 - [2019-06-13T08:35:26] Update schema migration helpers
 - [2019-06-13T17:00:13] Update documentation and architectural guides
 - [2019-06-13T14:03:02] Add Redis rate limit backoff handlers
+- [2019-06-13T13:34:12] Add Prometheus exporter endpoints for queue length
