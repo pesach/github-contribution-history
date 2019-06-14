@@ -19136,3 +19136,4 @@
 - [2019-06-14T17:50:03] Add error handling for yt-dlp rate limits
 - [2019-06-14T20:42:30] Fix edge case in URL parsing and validation
 - [2019-06-14T09:43:44] Clean up legacy worker task routines
+- [2019-06-14T19:03:14] Update schema migration helpers
