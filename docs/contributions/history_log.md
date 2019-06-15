@@ -19138,3 +19138,4 @@
 - [2019-06-14T09:43:44] Clean up legacy worker task routines
 - [2019-06-14T19:03:14] Update schema migration helpers
 - [2019-06-14T15:47:17] Update B2 storage chunking parameters
+- [2019-06-15T14:07:49] Improve ffmpeg streaming pipe buffer management
