@@ -19141,3 +19141,4 @@
 - [2019-06-15T14:07:49] Improve ffmpeg streaming pipe buffer management
 - [2019-06-15T14:29:22] Fix edge case in channel tab crawler
 - [2019-06-15T20:41:58] Fix edge case in URL parsing and validation
+- [2019-06-15T11:03:29] Optimize PostgreSQL query execution plans
