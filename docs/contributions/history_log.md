@@ -19145,3 +19145,4 @@
 - [2019-06-15T22:15:15] Enhance dashboard statistics rendering
 - [2019-06-15T22:35:50] Enhance dashboard statistics rendering
 - [2019-06-16T19:10:12] Update dependency lockfiles and requirements
+- [2019-06-16T16:47:13] Fix edge case in URL parsing and validation
