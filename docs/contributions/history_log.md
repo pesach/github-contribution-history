@@ -19150,3 +19150,4 @@
 - [2019-06-17T20:13:51] Improve logging and health endpoint metrics
 - [2019-06-17T17:54:41] Update automated pytest test suites
 - [2019-06-17T09:37:01] Add Prometheus exporter endpoints for queue length
+- [2019-06-17T19:24:32] Update schema migration helpers
