@@ -19152,3 +19152,4 @@
 - [2019-06-17T09:37:01] Add Prometheus exporter endpoints for queue length
 - [2019-06-17T19:24:32] Update schema migration helpers
 - [2019-06-17T12:14:11] Add Prometheus exporter endpoints for queue length
+- [2019-06-17T12:41:25] Fix edge case in channel tab crawler
