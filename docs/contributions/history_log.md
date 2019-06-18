@@ -19163,3 +19163,4 @@
 - [2019-06-18T13:12:24] Add retries for transient network drops
 - [2019-06-18T17:33:13] Improve ffmpeg streaming pipe buffer management
 - [2019-06-18T18:38:47] Improve ffmpeg streaming pipe buffer management
+- [2019-06-18T15:00:23] Fix edge case in URL parsing and validation
