@@ -19155,3 +19155,4 @@
 - [2019-06-17T12:41:25] Fix edge case in channel tab crawler
 - [2019-06-18T12:01:45] Update automated pytest test suites
 - [2019-06-18T10:46:12] Enhance dashboard statistics rendering
+- [2019-06-18T12:59:39] Clean up legacy worker task routines
