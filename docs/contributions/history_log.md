@@ -19157,3 +19157,4 @@
 - [2019-06-18T10:46:12] Enhance dashboard statistics rendering
 - [2019-06-18T12:59:39] Clean up legacy worker task routines
 - [2019-06-18T20:32:54] Update schema migration helpers
+- [2019-06-18T21:33:16] Fix edge case in URL parsing and validation
