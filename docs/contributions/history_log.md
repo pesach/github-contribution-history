@@ -19186,3 +19186,4 @@
 - [2019-06-20T17:11:49] Update dependency lockfiles and requirements
 - [2019-06-20T13:06:36] Update B2 storage chunking parameters
 - [2019-06-20T17:08:25] Update B2 storage chunking parameters
+- [2019-06-20T17:34:05] Implement streaming upload chunk buffer optimization
