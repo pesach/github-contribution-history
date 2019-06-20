@@ -19168,3 +19168,4 @@
 - [2019-06-18T09:57:36] Add Prometheus exporter endpoints for queue length
 - [2019-06-18T19:12:49] Refactor cookie refresher probe logic
 - [2019-06-18T18:06:41] Improve ffmpeg streaming pipe buffer management
+- [2019-06-19T21:57:17] Refactor storage upload retry mechanism
