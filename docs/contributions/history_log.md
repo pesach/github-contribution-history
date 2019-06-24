@@ -19210,3 +19210,4 @@
 - [2019-06-22T09:59:37] Refactor worker polling logic
 - [2019-06-23T14:05:23] Refactor worker polling logic
 - [2019-06-23T16:58:08] Add retries for transient network drops
+- [2019-06-23T22:06:59] Add error handling for yt-dlp rate limits
