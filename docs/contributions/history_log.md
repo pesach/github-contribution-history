@@ -19212,3 +19212,4 @@
 - [2019-06-23T16:58:08] Add retries for transient network drops
 - [2019-06-23T22:06:59] Add error handling for yt-dlp rate limits
 - [2019-06-24T12:05:42] Add retries for transient network drops
+- [2019-06-24T17:07:49] Add error handling for yt-dlp rate limits
