@@ -19216,3 +19216,4 @@
 - [2019-06-24T21:03:23] Improve logging and health endpoint metrics
 - [2019-06-24T21:17:05] Add Redis rate limit backoff handlers
 - [2019-06-24T14:34:25] Refactor worker polling logic
+- [2019-06-24T10:52:34] Refactor cookie refresher probe logic
