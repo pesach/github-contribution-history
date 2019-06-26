@@ -19240,3 +19240,4 @@
 - [2019-06-26T12:57:13] Improve logging and health endpoint metrics
 - [2019-06-26T11:51:58] Fix edge case in URL parsing and validation
 - [2019-06-26T17:14:13] Update documentation and architectural guides
+- [2019-06-26T09:16:32] Refactor cookie refresher probe logic
