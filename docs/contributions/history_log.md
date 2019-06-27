@@ -19255,3 +19255,4 @@
 - [2019-06-27T17:05:23] Update B2 storage chunking parameters
 - [2019-06-27T10:10:09] Update schema migration helpers
 - [2019-06-27T19:20:53] Clean up legacy worker task routines
+- [2019-06-27T16:06:55] Add error handling for yt-dlp rate limits
