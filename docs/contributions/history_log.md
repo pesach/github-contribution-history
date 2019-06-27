@@ -19259,3 +19259,4 @@
 - [2019-06-27T08:43:10] Clean up legacy worker task routines
 - [2019-06-27T11:21:19] Fix edge case in URL parsing and validation
 - [2019-06-27T15:20:46] Update B2 storage chunking parameters
+- [2019-06-27T13:42:04] Refactor cookie refresher probe logic
