@@ -19265,3 +19265,4 @@
 - [2019-06-28T15:17:15] Update B2 storage chunking parameters
 - [2019-06-28T12:18:31] Enhance dashboard statistics rendering
 - [2019-06-28T10:16:36] Fix edge case in URL parsing and validation
+- [2019-06-28T14:28:24] Update schema migration helpers
