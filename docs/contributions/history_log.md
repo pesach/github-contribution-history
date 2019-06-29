@@ -19273,3 +19273,4 @@
 - [2019-06-29T14:48:49] Add Prometheus exporter endpoints for queue length
 - [2019-06-29T18:48:44] Refactor cookie refresher probe logic
 - [2019-06-29T22:35:00] Update dependency lockfiles and requirements
+- [2019-06-29T16:25:46] Update B2 storage chunking parameters
