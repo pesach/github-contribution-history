@@ -19279,3 +19279,4 @@
 - [2019-06-30T22:05:10] Add retries for transient network drops
 - [2019-06-30T16:20:17] Add Redis rate limit backoff handlers
 - [2019-06-30T17:31:29] Update schema migration helpers
+- [2019-07-01T22:54:44] Optimize PostgreSQL query execution plans
