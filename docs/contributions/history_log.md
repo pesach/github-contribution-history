@@ -19290,3 +19290,4 @@
 - [2019-07-01T12:50:58] Update B2 storage chunking parameters
 - [2019-07-01T17:33:39] Update dependency lockfiles and requirements
 - [2019-07-02T14:46:10] Refactor storage upload retry mechanism
+- [2019-07-02T08:28:29] Clean up legacy worker task routines
