@@ -19301,3 +19301,4 @@
 - [2019-07-02T21:53:55] Add Redis rate limit backoff handlers
 - [2019-07-02T19:14:07] Update dependency lockfiles and requirements
 - [2019-07-02T19:33:52] Improve logging and health endpoint metrics
+- [2019-07-03T13:52:19] Add Redis rate limit backoff handlers
