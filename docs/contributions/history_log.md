@@ -19304,3 +19304,4 @@
 - [2019-07-03T13:52:19] Add Redis rate limit backoff handlers
 - [2019-07-03T20:05:50] Fix edge case in URL parsing and validation
 - [2019-07-03T13:59:52] Fix edge case in URL parsing and validation
+- [2019-07-03T16:10:47] Add Redis rate limit backoff handlers
