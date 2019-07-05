@@ -19326,3 +19326,4 @@
 - [2019-07-05T19:21:06] Clean up legacy worker task routines
 - [2019-07-05T11:09:06] Add Prometheus exporter endpoints for queue length
 - [2019-07-05T14:00:30] Improve ffmpeg streaming pipe buffer management
+- [2019-07-05T19:36:50] Fix edge case in channel tab crawler
