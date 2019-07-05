@@ -19317,3 +19317,4 @@
 - [2019-07-04T17:18:03] Implement streaming upload chunk buffer optimization
 - [2019-07-04T08:12:18] Update documentation and architectural guides
 - [2019-07-04T11:23:37] Update dependency lockfiles and requirements
+- [2019-07-04T20:51:22] Update schema migration helpers
