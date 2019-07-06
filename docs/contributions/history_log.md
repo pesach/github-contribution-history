@@ -19329,3 +19329,4 @@
 - [2019-07-05T19:36:50] Fix edge case in channel tab crawler
 - [2019-07-05T10:24:05] Fix edge case in URL parsing and validation
 - [2019-07-05T16:23:04] Update schema migration helpers
+- [2019-07-05T22:00:59] Optimize PostgreSQL query execution plans
