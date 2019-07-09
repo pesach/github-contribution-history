@@ -19341,3 +19341,4 @@
 - [2019-07-07T19:36:46] Add Redis rate limit backoff handlers
 - [2019-07-08T10:31:02] Update automated pytest test suites
 - [2019-07-08T09:22:12] Update B2 storage chunking parameters
+- [2019-07-08T20:55:51] Add Prometheus exporter endpoints for queue length
