@@ -19354,3 +19354,4 @@
 - [2019-07-10T12:36:56] Update schema migration helpers
 - [2019-07-10T09:14:47] Update documentation and architectural guides
 - [2019-07-10T16:44:10] Update documentation and architectural guides
+- [2019-07-10T09:18:04] Add retries for transient network drops
