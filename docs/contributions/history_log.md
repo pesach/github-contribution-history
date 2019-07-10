@@ -19351,3 +19351,4 @@
 - [2019-07-10T18:58:38] Refactor cookie refresher probe logic
 - [2019-07-10T22:14:39] Clean up legacy worker task routines
 - [2019-07-10T10:43:47] Optimize PostgreSQL query execution plans
+- [2019-07-10T12:36:56] Update schema migration helpers
