@@ -19357,3 +19357,4 @@
 - [2019-07-10T09:18:04] Add retries for transient network drops
 - [2019-07-12T16:06:03] Implement streaming upload chunk buffer optimization
 - [2019-07-12T14:01:47] Add retries for transient network drops
+- [2019-07-12T13:02:03] Update dependency lockfiles and requirements
