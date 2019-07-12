@@ -19355,3 +19355,4 @@
 - [2019-07-10T09:14:47] Update documentation and architectural guides
 - [2019-07-10T16:44:10] Update documentation and architectural guides
 - [2019-07-10T09:18:04] Add retries for transient network drops
+- [2019-07-12T16:06:03] Implement streaming upload chunk buffer optimization
