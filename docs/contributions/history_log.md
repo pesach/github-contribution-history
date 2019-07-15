@@ -19376,3 +19376,4 @@
 - [2019-07-15T14:59:58] Update B2 storage chunking parameters
 - [2019-07-15T19:49:55] Update automated pytest test suites
 - [2019-07-15T18:43:10] Update documentation and architectural guides
+- [2019-07-15T15:55:22] Refactor worker polling logic
