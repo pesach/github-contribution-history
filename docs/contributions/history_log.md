@@ -19386,3 +19386,4 @@
 - [2019-07-16T08:15:03] Clean up legacy worker task routines
 - [2019-07-16T20:51:31] Improve ffmpeg streaming pipe buffer management
 - [2019-07-16T20:08:11] Improve logging and health endpoint metrics
+- [2019-07-16T19:47:25] Add retries for transient network drops
