@@ -19383,3 +19383,4 @@
 - [2019-07-16T17:35:26] Update documentation and architectural guides
 - [2019-07-16T21:57:13] Refactor cookie refresher probe logic
 - [2019-07-16T22:04:37] Add error handling for yt-dlp rate limits
+- [2019-07-16T08:15:03] Clean up legacy worker task routines
