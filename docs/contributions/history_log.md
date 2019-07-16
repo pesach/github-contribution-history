@@ -19378,3 +19378,4 @@
 - [2019-07-15T18:43:10] Update documentation and architectural guides
 - [2019-07-15T15:55:22] Refactor worker polling logic
 - [2019-07-15T13:29:09] Implement streaming upload chunk buffer optimization
+- [2019-07-16T11:07:30] Update schema migration helpers
