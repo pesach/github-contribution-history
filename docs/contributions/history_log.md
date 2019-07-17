@@ -19385,3 +19385,4 @@
 - [2019-07-16T22:04:37] Add error handling for yt-dlp rate limits
 - [2019-07-16T08:15:03] Clean up legacy worker task routines
 - [2019-07-16T20:51:31] Improve ffmpeg streaming pipe buffer management
+- [2019-07-16T20:08:11] Improve logging and health endpoint metrics
