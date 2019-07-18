@@ -19405,3 +19405,4 @@
 - [2019-07-18T17:28:11] Update documentation and architectural guides
 - [2019-07-18T21:12:40] Fix edge case in URL parsing and validation
 - [2019-07-18T11:24:32] Refactor worker polling logic
+- [2019-07-18T11:28:04] Fix edge case in channel tab crawler
