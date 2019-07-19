@@ -19416,3 +19416,4 @@
 - [2019-07-19T21:40:57] Fix edge case in URL parsing and validation
 - [2019-07-19T11:41:31] Update automated pytest test suites
 - [2019-07-19T11:11:06] Refactor cookie refresher probe logic
+- [2019-07-19T19:23:36] Add error handling for yt-dlp rate limits
