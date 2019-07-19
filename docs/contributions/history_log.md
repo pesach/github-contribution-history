@@ -19415,3 +19415,4 @@
 - [2019-07-18T10:36:06] Update dependency lockfiles and requirements
 - [2019-07-19T21:40:57] Fix edge case in URL parsing and validation
 - [2019-07-19T11:41:31] Update automated pytest test suites
+- [2019-07-19T11:11:06] Refactor cookie refresher probe logic
