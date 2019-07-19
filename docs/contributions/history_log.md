@@ -19403,3 +19403,4 @@
 - [2019-07-18T21:22:41] Add retries for transient network drops
 - [2019-07-18T08:34:00] Update documentation and architectural guides
 - [2019-07-18T17:28:11] Update documentation and architectural guides
+- [2019-07-18T21:12:40] Fix edge case in URL parsing and validation
