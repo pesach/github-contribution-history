@@ -19435,3 +19435,4 @@
 - [2019-07-22T19:15:17] Clean up legacy worker task routines
 - [2019-07-22T22:13:30] Fix edge case in URL parsing and validation
 - [2019-07-22T18:09:48] Improve ffmpeg streaming pipe buffer management
+- [2019-07-22T14:04:35] Update B2 storage chunking parameters
