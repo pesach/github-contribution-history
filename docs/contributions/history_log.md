@@ -19439,3 +19439,4 @@
 - [2019-07-22T08:01:36] Add Prometheus exporter endpoints for queue length
 - [2019-07-22T12:43:15] Update B2 storage chunking parameters
 - [2019-07-22T09:10:10] Add error handling for yt-dlp rate limits
+- [2019-07-22T16:33:28] Fix edge case in URL parsing and validation
