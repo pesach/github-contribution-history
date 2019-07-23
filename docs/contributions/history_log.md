@@ -19430,3 +19430,4 @@
 - [2019-07-22T21:40:20] Update automated pytest test suites
 - [2019-07-22T22:59:31] Enhance dashboard statistics rendering
 - [2019-07-22T21:14:21] Add error handling for yt-dlp rate limits
+- [2019-07-22T21:28:33] Add error handling for yt-dlp rate limits
