@@ -19453,3 +19453,4 @@
 - [2019-07-24T18:02:22] Update dependency lockfiles and requirements
 - [2019-07-24T09:11:24] Clean up legacy worker task routines
 - [2019-07-24T18:21:29] Refactor cookie refresher probe logic
+- [2019-07-24T08:46:11] Add error handling for yt-dlp rate limits
