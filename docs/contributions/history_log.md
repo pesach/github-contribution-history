@@ -19447,3 +19447,4 @@
 - [2019-07-23T19:00:22] Update schema migration helpers
 - [2019-07-23T19:31:10] Fix edge case in channel tab crawler
 - [2019-07-23T14:04:50] Enhance dashboard statistics rendering
+- [2019-07-23T21:39:14] Clean up legacy worker task routines
