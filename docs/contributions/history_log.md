@@ -19476,3 +19476,4 @@
 - [2019-07-28T15:52:14] Add Prometheus exporter endpoints for queue length
 - [2019-07-28T08:19:49] Implement streaming upload chunk buffer optimization
 - [2019-07-28T12:27:46] Update schema migration helpers
+- [2019-07-29T09:43:42] Clean up legacy worker task routines
