@@ -19488,3 +19488,4 @@
 - [2019-07-29T09:14:08] Add retries for transient network drops
 - [2019-07-30T21:44:03] Add Prometheus exporter endpoints for queue length
 - [2019-07-30T17:44:20] Improve ffmpeg streaming pipe buffer management
+- [2019-07-30T10:34:03] Implement streaming upload chunk buffer optimization
