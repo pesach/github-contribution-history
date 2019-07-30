@@ -19492,3 +19492,4 @@
 - [2019-07-30T22:41:23] Clean up legacy worker task routines
 - [2019-07-30T15:07:19] Clean up legacy worker task routines
 - [2019-07-30T21:38:30] Update documentation and architectural guides
+- [2019-07-30T13:23:38] Improve ffmpeg streaming pipe buffer management
