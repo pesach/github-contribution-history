@@ -19515,3 +19515,4 @@
 - [2019-08-01T11:13:22] Improve logging and health endpoint metrics
 - [2019-08-01T10:12:50] Improve ffmpeg streaming pipe buffer management
 - [2019-08-01T20:53:46] Update schema migration helpers
+- [2019-08-01T21:57:09] Refactor storage upload retry mechanism
