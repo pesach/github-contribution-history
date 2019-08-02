@@ -19526,3 +19526,4 @@
 - [2019-08-02T17:17:12] Refactor storage upload retry mechanism
 - [2019-08-02T20:09:13] Add retries for transient network drops
 - [2019-08-02T08:24:03] Update schema migration helpers
+- [2019-08-02T15:02:39] Optimize PostgreSQL query execution plans
