@@ -19511,3 +19511,4 @@
 - [2019-07-31T21:57:42] Add Redis rate limit backoff handlers
 - [2019-07-31T14:48:21] Enhance dashboard statistics rendering
 - [2019-07-31T15:15:17] Add Redis rate limit backoff handlers
+- [2019-08-01T20:40:36] Add Prometheus exporter endpoints for queue length
