@@ -19525,3 +19525,4 @@
 - [2019-08-02T21:20:41] Refactor cookie refresher probe logic
 - [2019-08-02T17:17:12] Refactor storage upload retry mechanism
 - [2019-08-02T20:09:13] Add retries for transient network drops
+- [2019-08-02T08:24:03] Update schema migration helpers
