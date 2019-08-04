@@ -19537,3 +19537,4 @@
 - [2019-08-04T09:04:10] Clean up legacy worker task routines
 - [2019-08-04T12:56:01] Enhance dashboard statistics rendering
 - [2019-08-04T08:29:26] Enhance dashboard statistics rendering
+- [2019-08-04T15:43:45] Fix edge case in URL parsing and validation
