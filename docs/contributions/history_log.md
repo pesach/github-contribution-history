@@ -19534,3 +19534,4 @@
 - [2019-08-02T11:44:57] Fix edge case in channel tab crawler
 - [2019-08-02T13:20:20] Fix edge case in URL parsing and validation
 - [2019-08-02T20:39:44] Update documentation and architectural guides
+- [2019-08-04T09:04:10] Clean up legacy worker task routines
