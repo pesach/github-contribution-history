@@ -19540,3 +19540,4 @@
 - [2019-08-04T15:43:45] Fix edge case in URL parsing and validation
 - [2019-08-04T15:59:45] Clean up legacy worker task routines
 - [2019-08-05T12:35:49] Update automated pytest test suites
+- [2019-08-05T15:08:33] Add error handling for yt-dlp rate limits
