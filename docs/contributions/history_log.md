@@ -19554,3 +19554,4 @@
 - [2019-08-06T08:46:12] Improve logging and health endpoint metrics
 - [2019-08-06T14:04:52] Optimize PostgreSQL query execution plans
 - [2019-08-06T22:42:24] Update automated pytest test suites
+- [2019-08-06T14:10:33] Update schema migration helpers
