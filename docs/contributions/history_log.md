@@ -19573,3 +19573,4 @@
 - [2019-08-08T13:09:30] Fix edge case in channel tab crawler
 - [2019-08-08T12:21:47] Add retries for transient network drops
 - [2019-08-08T18:38:59] Add retries for transient network drops
+- [2019-08-08T12:46:26] Update B2 storage chunking parameters
