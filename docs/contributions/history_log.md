@@ -19586,3 +19586,4 @@
 - [2019-08-09T22:26:29] Add error handling for yt-dlp rate limits
 - [2019-08-09T12:44:22] Clean up legacy worker task routines
 - [2019-08-09T20:19:54] Update dependency lockfiles and requirements
+- [2019-08-09T08:27:21] Add Redis rate limit backoff handlers
