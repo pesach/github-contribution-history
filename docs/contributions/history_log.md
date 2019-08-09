@@ -19588,3 +19588,4 @@
 - [2019-08-09T20:19:54] Update dependency lockfiles and requirements
 - [2019-08-09T08:27:21] Add Redis rate limit backoff handlers
 - [2019-08-09T17:41:01] Refactor cookie refresher probe logic
+- [2019-08-09T13:19:46] Update B2 storage chunking parameters
