@@ -19582,3 +19582,4 @@
 - [2019-08-09T13:37:12] Fix edge case in channel tab crawler
 - [2019-08-09T16:43:29] Add Redis rate limit backoff handlers
 - [2019-08-09T20:47:35] Update automated pytest test suites
+- [2019-08-09T19:04:16] Improve ffmpeg streaming pipe buffer management
