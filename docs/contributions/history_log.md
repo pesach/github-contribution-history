@@ -19593,3 +19593,4 @@
 - [2019-08-09T08:51:28] Update automated pytest test suites
 - [2019-08-10T14:24:01] Update dependency lockfiles and requirements
 - [2019-08-10T12:29:03] Update schema migration helpers
+- [2019-08-10T09:39:02] Add Redis rate limit backoff handlers
