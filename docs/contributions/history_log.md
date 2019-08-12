@@ -19597,3 +19597,4 @@
 - [2019-08-10T16:33:43] Improve ffmpeg streaming pipe buffer management
 - [2019-08-12T22:49:09] Update automated pytest test suites
 - [2019-08-12T18:59:30] Add error handling for yt-dlp rate limits
+- [2019-08-12T16:47:47] Add Prometheus exporter endpoints for queue length
