@@ -19607,3 +19607,4 @@
 - [2019-08-13T13:58:27] Fix edge case in channel tab crawler
 - [2019-08-13T15:20:45] Add Prometheus exporter endpoints for queue length
 - [2019-08-13T12:46:17] Update dependency lockfiles and requirements
+- [2019-08-13T12:08:48] Refactor cookie refresher probe logic
