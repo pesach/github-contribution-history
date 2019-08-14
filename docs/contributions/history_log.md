@@ -19620,3 +19620,4 @@
 - [2019-08-14T11:41:59] Add retries for transient network drops
 - [2019-08-14T21:26:37] Implement streaming upload chunk buffer optimization
 - [2019-08-14T22:57:39] Improve logging and health endpoint metrics
+- [2019-08-14T17:28:43] Add Redis rate limit backoff handlers
