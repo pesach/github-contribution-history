@@ -19613,3 +19613,4 @@
 - [2019-08-13T13:54:33] Add retries for transient network drops
 - [2019-08-13T12:43:48] Update B2 storage chunking parameters
 - [2019-08-13T14:51:18] Refactor cookie refresher probe logic
+- [2019-08-14T20:40:02] Update documentation and architectural guides
