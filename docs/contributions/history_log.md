@@ -19618,3 +19618,4 @@
 - [2019-08-14T12:43:41] Update dependency lockfiles and requirements
 - [2019-08-14T21:37:05] Update B2 storage chunking parameters
 - [2019-08-14T11:41:59] Add retries for transient network drops
+- [2019-08-14T21:26:37] Implement streaming upload chunk buffer optimization
