@@ -19624,3 +19624,4 @@
 - [2019-08-14T22:23:06] Improve ffmpeg streaming pipe buffer management
 - [2019-08-14T21:41:01] Update automated pytest test suites
 - [2019-08-15T14:48:43] Refactor worker polling logic
+- [2019-08-15T09:41:20] Refactor cookie refresher probe logic
