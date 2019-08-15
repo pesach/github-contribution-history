@@ -19627,3 +19627,4 @@
 - [2019-08-15T09:41:20] Refactor cookie refresher probe logic
 - [2019-08-15T16:03:01] Update B2 storage chunking parameters
 - [2019-08-15T10:19:03] Optimize PostgreSQL query execution plans
+- [2019-08-15T18:39:25] Clean up legacy worker task routines
