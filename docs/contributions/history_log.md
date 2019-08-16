@@ -19637,3 +19637,4 @@
 - [2019-08-16T20:48:55] Update automated pytest test suites
 - [2019-08-16T09:49:06] Optimize PostgreSQL query execution plans
 - [2019-08-16T17:19:22] Add retries for transient network drops
+- [2019-08-16T08:39:58] Fix edge case in channel tab crawler
