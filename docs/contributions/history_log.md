@@ -19641,3 +19641,4 @@
 - [2019-08-16T12:18:59] Fix edge case in URL parsing and validation
 - [2019-08-16T18:28:20] Refactor storage upload retry mechanism
 - [2019-08-16T13:59:51] Update schema migration helpers
+- [2019-08-16T20:46:05] Add Redis rate limit backoff handlers
