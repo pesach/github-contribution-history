@@ -19645,3 +19645,4 @@
 - [2019-08-16T19:04:20] Implement streaming upload chunk buffer optimization
 - [2019-08-16T13:49:55] Improve logging and health endpoint metrics
 - [2019-08-17T19:33:39] Update automated pytest test suites
+- [2019-08-17T20:24:48] Fix edge case in URL parsing and validation
