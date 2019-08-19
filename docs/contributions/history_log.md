@@ -19650,3 +19650,4 @@
 - [2019-08-17T09:18:28] Clean up legacy worker task routines
 - [2019-08-19T21:54:20] Refactor storage upload retry mechanism
 - [2019-08-19T13:30:43] Add Prometheus exporter endpoints for queue length
+- [2019-08-19T18:58:39] Add Redis rate limit backoff handlers
