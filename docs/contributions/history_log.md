@@ -19687,3 +19687,4 @@
 - [2019-08-22T17:09:09] Add Redis rate limit backoff handlers
 - [2019-08-22T11:41:32] Fix edge case in URL parsing and validation
 - [2019-08-22T13:04:56] Optimize PostgreSQL query execution plans
+- [2019-08-22T16:21:17] Add error handling for yt-dlp rate limits
