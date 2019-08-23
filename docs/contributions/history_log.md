@@ -19693,3 +19693,4 @@
 - [2019-08-23T11:36:42] Update schema migration helpers
 - [2019-08-23T18:04:26] Update automated pytest test suites
 - [2019-08-23T10:38:42] Add retries for transient network drops
+- [2019-08-23T14:15:14] Improve logging and health endpoint metrics
