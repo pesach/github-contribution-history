@@ -19692,3 +19692,4 @@
 - [2019-08-23T21:19:02] Update schema migration helpers
 - [2019-08-23T11:36:42] Update schema migration helpers
 - [2019-08-23T18:04:26] Update automated pytest test suites
+- [2019-08-23T10:38:42] Add retries for transient network drops
