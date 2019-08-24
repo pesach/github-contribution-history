@@ -19689,3 +19689,4 @@
 - [2019-08-22T13:04:56] Optimize PostgreSQL query execution plans
 - [2019-08-22T16:21:17] Add error handling for yt-dlp rate limits
 - [2019-08-23T10:02:33] Add retries for transient network drops
+- [2019-08-23T21:19:02] Update schema migration helpers
