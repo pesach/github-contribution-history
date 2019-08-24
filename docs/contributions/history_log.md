@@ -19698,3 +19698,4 @@
 - [2019-08-24T12:36:53] Add error handling for yt-dlp rate limits
 - [2019-08-24T14:05:31] Fix edge case in channel tab crawler
 - [2019-08-24T13:07:44] Refactor cookie refresher probe logic
+- [2019-08-24T11:09:23] Fix edge case in URL parsing and validation
