@@ -19707,3 +19707,4 @@
 - [2019-08-26T16:20:18] Add retries for transient network drops
 - [2019-08-26T20:48:46] Improve logging and health endpoint metrics
 - [2019-08-26T11:20:13] Update dependency lockfiles and requirements
+- [2019-08-26T13:08:09] Clean up legacy worker task routines
