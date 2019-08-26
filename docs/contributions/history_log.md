@@ -19704,3 +19704,4 @@
 - [2019-08-26T21:55:41] Refactor worker polling logic
 - [2019-08-26T20:12:14] Update B2 storage chunking parameters
 - [2019-08-26T13:01:42] Update schema migration helpers
+- [2019-08-26T16:20:18] Add retries for transient network drops
