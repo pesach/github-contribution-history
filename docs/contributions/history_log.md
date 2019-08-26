@@ -19703,3 +19703,4 @@
 - [2019-08-26T14:04:34] Add Redis rate limit backoff handlers
 - [2019-08-26T21:55:41] Refactor worker polling logic
 - [2019-08-26T20:12:14] Update B2 storage chunking parameters
+- [2019-08-26T13:01:42] Update schema migration helpers
