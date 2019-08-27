@@ -19716,3 +19716,4 @@
 - [2019-08-27T19:46:07] Update dependency lockfiles and requirements
 - [2019-08-27T22:12:45] Optimize PostgreSQL query execution plans
 - [2019-08-27T11:18:18] Add Redis rate limit backoff handlers
+- [2019-08-27T12:46:13] Add error handling for yt-dlp rate limits
