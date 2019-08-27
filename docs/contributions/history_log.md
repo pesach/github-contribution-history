@@ -19701,3 +19701,4 @@
 - [2019-08-24T11:09:23] Fix edge case in URL parsing and validation
 - [2019-08-26T22:37:02] Clean up legacy worker task routines
 - [2019-08-26T14:04:34] Add Redis rate limit backoff handlers
+- [2019-08-26T21:55:41] Refactor worker polling logic
