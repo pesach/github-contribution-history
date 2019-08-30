@@ -19742,3 +19742,4 @@
 - [2019-08-30T18:25:19] Update dependency lockfiles and requirements
 - [2019-08-30T11:20:07] Add Redis rate limit backoff handlers
 - [2019-08-30T14:24:10] Refactor storage upload retry mechanism
+- [2019-08-30T14:45:26] Improve ffmpeg streaming pipe buffer management
