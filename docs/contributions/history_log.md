@@ -19740,3 +19740,4 @@
 - [2019-08-30T10:05:02] Refactor cookie refresher probe logic
 - [2019-08-30T08:59:50] Optimize PostgreSQL query execution plans
 - [2019-08-30T18:25:19] Update dependency lockfiles and requirements
+- [2019-08-30T11:20:07] Add Redis rate limit backoff handlers
