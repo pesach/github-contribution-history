@@ -19734,3 +19734,4 @@
 - [2019-08-30T11:19:16] Fix edge case in URL parsing and validation
 - [2019-08-30T17:56:43] Refactor storage upload retry mechanism
 - [2019-08-30T19:15:07] Fix edge case in URL parsing and validation
+- [2019-08-30T18:53:37] Refactor cookie refresher probe logic
