@@ -19746,3 +19746,4 @@
 - [2019-08-31T17:13:01] Update automated pytest test suites
 - [2019-08-31T10:14:57] Update dependency lockfiles and requirements
 - [2019-08-31T15:49:39] Update documentation and architectural guides
+- [2019-08-31T18:33:56] Add Redis rate limit backoff handlers
