@@ -19744,3 +19744,4 @@
 - [2019-08-30T14:24:10] Refactor storage upload retry mechanism
 - [2019-08-30T14:45:26] Improve ffmpeg streaming pipe buffer management
 - [2019-08-31T17:13:01] Update automated pytest test suites
+- [2019-08-31T10:14:57] Update dependency lockfiles and requirements
