@@ -19762,3 +19762,4 @@
 - [2019-09-02T08:48:21] Update dependency lockfiles and requirements
 - [2019-09-02T08:44:06] Fix edge case in URL parsing and validation
 - [2019-09-02T22:40:08] Enhance dashboard statistics rendering
+- [2019-09-02T16:22:45] Add error handling for yt-dlp rate limits
