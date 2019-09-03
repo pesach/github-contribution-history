@@ -19771,3 +19771,4 @@
 - [2019-09-03T09:15:46] Add retries for transient network drops
 - [2019-09-03T09:22:25] Fix edge case in channel tab crawler
 - [2019-09-03T17:00:43] Add error handling for yt-dlp rate limits
+- [2019-09-03T13:27:18] Clean up legacy worker task routines
