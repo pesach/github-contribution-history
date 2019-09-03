@@ -19769,3 +19769,4 @@
 - [2019-09-03T18:22:06] Refactor storage upload retry mechanism
 - [2019-09-03T17:38:33] Update dependency lockfiles and requirements
 - [2019-09-03T09:15:46] Add retries for transient network drops
+- [2019-09-03T09:22:25] Fix edge case in channel tab crawler
