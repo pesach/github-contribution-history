@@ -19757,3 +19757,4 @@
 - [2019-09-02T17:16:12] Implement streaming upload chunk buffer optimization
 - [2019-09-02T10:02:23] Update B2 storage chunking parameters
 - [2019-09-02T19:40:30] Add Prometheus exporter endpoints for queue length
+- [2019-09-02T21:26:36] Optimize PostgreSQL query execution plans
