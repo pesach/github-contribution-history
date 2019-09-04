@@ -19781,3 +19781,4 @@
 - [2019-09-04T11:34:08] Implement streaming upload chunk buffer optimization
 - [2019-09-04T21:58:45] Fix edge case in URL parsing and validation
 - [2019-09-04T08:21:24] Refactor storage upload retry mechanism
+- [2019-09-04T16:29:35] Update B2 storage chunking parameters
