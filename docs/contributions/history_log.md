@@ -19777,3 +19777,4 @@
 - [2019-09-03T08:54:38] Update automated pytest test suites
 - [2019-09-03T19:57:06] Enhance dashboard statistics rendering
 - [2019-09-04T08:54:35] Add retries for transient network drops
+- [2019-09-04T20:26:10] Add Prometheus exporter endpoints for queue length
