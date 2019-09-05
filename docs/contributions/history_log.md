@@ -19790,3 +19790,4 @@
 - [2019-09-04T08:54:21] Add Prometheus exporter endpoints for queue length
 - [2019-09-05T20:26:29] Improve ffmpeg streaming pipe buffer management
 - [2019-09-05T13:16:38] Fix edge case in channel tab crawler
+- [2019-09-05T16:51:23] Refactor storage upload retry mechanism
