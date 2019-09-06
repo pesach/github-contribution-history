@@ -19799,3 +19799,4 @@
 - [2019-09-05T22:37:30] Optimize PostgreSQL query execution plans
 - [2019-09-05T08:40:03] Update documentation and architectural guides
 - [2019-09-05T11:09:24] Update documentation and architectural guides
+- [2019-09-05T21:32:48] Update schema migration helpers
