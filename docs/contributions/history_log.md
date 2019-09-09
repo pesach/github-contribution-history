@@ -19821,3 +19821,4 @@
 - [2019-09-09T16:17:40] Clean up legacy worker task routines
 - [2019-09-09T21:03:13] Fix edge case in URL parsing and validation
 - [2019-09-09T09:45:22] Fix edge case in URL parsing and validation
+- [2019-09-09T17:50:08] Optimize PostgreSQL query execution plans
