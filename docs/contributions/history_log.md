@@ -19823,3 +19823,4 @@
 - [2019-09-09T09:45:22] Fix edge case in URL parsing and validation
 - [2019-09-09T17:50:08] Optimize PostgreSQL query execution plans
 - [2019-09-09T11:40:03] Update schema migration helpers
+- [2019-09-09T09:59:43] Add Redis rate limit backoff handlers
