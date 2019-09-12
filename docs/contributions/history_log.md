@@ -19848,3 +19848,4 @@
 - [2019-09-11T17:17:27] Add retries for transient network drops
 - [2019-09-11T10:07:35] Update B2 storage chunking parameters
 - [2019-09-12T21:39:40] Fix edge case in channel tab crawler
+- [2019-09-12T14:21:31] Update schema migration helpers
