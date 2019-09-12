@@ -19852,3 +19852,4 @@
 - [2019-09-12T21:10:22] Update documentation and architectural guides
 - [2019-09-12T21:32:31] Update automated pytest test suites
 - [2019-09-12T22:44:35] Refactor storage upload retry mechanism
+- [2019-09-12T12:44:54] Add Redis rate limit backoff handlers
