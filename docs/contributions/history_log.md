@@ -19851,3 +19851,4 @@
 - [2019-09-12T14:21:31] Update schema migration helpers
 - [2019-09-12T21:10:22] Update documentation and architectural guides
 - [2019-09-12T21:32:31] Update automated pytest test suites
+- [2019-09-12T22:44:35] Refactor storage upload retry mechanism
