@@ -19868,3 +19868,4 @@
 - [2019-09-14T15:00:41] Refactor storage upload retry mechanism
 - [2019-09-14T12:29:02] Add retries for transient network drops
 - [2019-09-14T13:56:07] Update automated pytest test suites
+- [2019-09-14T19:57:13] Add Prometheus exporter endpoints for queue length
