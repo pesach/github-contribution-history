@@ -19866,3 +19866,4 @@
 - [2019-09-13T18:09:41] Refactor worker polling logic
 - [2019-09-14T11:08:49] Update dependency lockfiles and requirements
 - [2019-09-14T15:00:41] Refactor storage upload retry mechanism
+- [2019-09-14T12:29:02] Add retries for transient network drops
