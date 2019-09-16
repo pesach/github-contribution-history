@@ -19878,3 +19878,4 @@
 - [2019-09-15T08:16:39] Update B2 storage chunking parameters
 - [2019-09-16T16:54:41] Fix edge case in URL parsing and validation
 - [2019-09-16T22:22:40] Refactor cookie refresher probe logic
+- [2019-09-16T18:57:55] Update dependency lockfiles and requirements
