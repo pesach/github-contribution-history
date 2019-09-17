@@ -19892,3 +19892,4 @@
 - [2019-09-17T15:29:47] Update schema migration helpers
 - [2019-09-17T10:25:03] Add Prometheus exporter endpoints for queue length
 - [2019-09-17T22:36:18] Refactor cookie refresher probe logic
+- [2019-09-17T09:21:20] Add error handling for yt-dlp rate limits
