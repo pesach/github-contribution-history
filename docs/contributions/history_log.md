@@ -19885,3 +19885,4 @@
 - [2019-09-16T17:36:43] Update automated pytest test suites
 - [2019-09-17T15:18:49] Add retries for transient network drops
 - [2019-09-17T21:50:01] Add Redis rate limit backoff handlers
+- [2019-09-17T17:14:49] Update schema migration helpers
