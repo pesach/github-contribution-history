@@ -19889,3 +19889,4 @@
 - [2019-09-17T18:01:09] Refactor storage upload retry mechanism
 - [2019-09-17T10:20:45] Clean up legacy worker task routines
 - [2019-09-17T13:54:46] Add Redis rate limit backoff handlers
+- [2019-09-17T15:29:47] Update schema migration helpers
