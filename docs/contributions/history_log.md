@@ -19887,3 +19887,4 @@
 - [2019-09-17T21:50:01] Add Redis rate limit backoff handlers
 - [2019-09-17T17:14:49] Update schema migration helpers
 - [2019-09-17T18:01:09] Refactor storage upload retry mechanism
+- [2019-09-17T10:20:45] Clean up legacy worker task routines
