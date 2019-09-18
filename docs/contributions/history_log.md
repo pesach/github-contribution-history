@@ -19884,3 +19884,4 @@
 - [2019-09-16T15:21:23] Fix edge case in channel tab crawler
 - [2019-09-16T17:36:43] Update automated pytest test suites
 - [2019-09-17T15:18:49] Add retries for transient network drops
+- [2019-09-17T21:50:01] Add Redis rate limit backoff handlers
