@@ -19910,3 +19910,4 @@
 - [2019-09-19T13:00:51] Implement streaming upload chunk buffer optimization
 - [2019-09-19T11:27:40] Update schema migration helpers
 - [2019-09-19T22:48:11] Improve ffmpeg streaming pipe buffer management
+- [2019-09-19T16:19:22] Refactor worker polling logic
