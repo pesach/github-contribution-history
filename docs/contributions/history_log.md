@@ -19940,3 +19940,4 @@
 - [2019-09-23T14:21:45] Enhance dashboard statistics rendering
 - [2019-09-23T22:56:27] Improve ffmpeg streaming pipe buffer management
 - [2019-09-23T15:20:26] Add retries for transient network drops
+- [2019-09-23T12:19:13] Add error handling for yt-dlp rate limits
