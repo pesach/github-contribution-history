@@ -19945,3 +19945,4 @@
 - [2019-09-24T20:54:58] Add Redis rate limit backoff handlers
 - [2019-09-24T11:27:58] Fix edge case in URL parsing and validation
 - [2019-09-24T16:15:23] Fix edge case in channel tab crawler
+- [2019-09-24T21:40:14] Refactor cookie refresher probe logic
