@@ -19974,3 +19974,4 @@
 - [2019-09-27T09:26:37] Enhance dashboard statistics rendering
 - [2019-09-27T18:23:36] Update schema migration helpers
 - [2019-09-27T09:31:41] Update dependency lockfiles and requirements
+- [2019-09-27T13:38:56] Add Redis rate limit backoff handlers
