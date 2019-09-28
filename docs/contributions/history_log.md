@@ -19970,3 +19970,4 @@
 - [2019-09-26T13:39:56] Optimize PostgreSQL query execution plans
 - [2019-09-26T13:39:32] Update automated pytest test suites
 - [2019-09-27T08:27:36] Update B2 storage chunking parameters
+- [2019-09-27T22:15:13] Refactor worker polling logic
