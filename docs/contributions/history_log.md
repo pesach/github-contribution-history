@@ -19979,3 +19979,4 @@
 - [2019-09-27T09:49:44] Add Prometheus exporter endpoints for queue length
 - [2019-09-27T17:57:44] Update dependency lockfiles and requirements
 - [2019-09-27T11:16:33] Clean up legacy worker task routines
+- [2019-09-29T08:11:35] Optimize PostgreSQL query execution plans
