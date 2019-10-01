@@ -19985,3 +19985,4 @@
 - [2019-09-30T18:43:26] Add Redis rate limit backoff handlers
 - [2019-09-30T12:05:27] Update automated pytest test suites
 - [2019-09-30T18:08:49] Update dependency lockfiles and requirements
+- [2019-09-30T22:49:45] Implement streaming upload chunk buffer optimization
