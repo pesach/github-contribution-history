@@ -19998,3 +19998,4 @@
 - [2019-10-02T22:13:19] Update dependency lockfiles and requirements
 - [2019-10-02T17:32:16] Add retries for transient network drops
 - [2019-10-02T16:10:22] Optimize PostgreSQL query execution plans
+- [2019-10-02T19:23:14] Clean up legacy worker task routines
