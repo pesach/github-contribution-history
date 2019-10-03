@@ -20006,3 +20006,4 @@
 - [2019-10-03T17:56:27] Add retries for transient network drops
 - [2019-10-03T18:52:58] Fix edge case in URL parsing and validation
 - [2019-10-03T18:10:48] Update automated pytest test suites
+- [2019-10-03T08:24:52] Improve ffmpeg streaming pipe buffer management
