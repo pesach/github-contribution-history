@@ -20007,3 +20007,4 @@
 - [2019-10-03T18:52:58] Fix edge case in URL parsing and validation
 - [2019-10-03T18:10:48] Update automated pytest test suites
 - [2019-10-03T08:24:52] Improve ffmpeg streaming pipe buffer management
+- [2019-10-03T15:12:05] Add error handling for yt-dlp rate limits
