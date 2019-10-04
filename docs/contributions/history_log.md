@@ -20001,3 +20001,4 @@
 - [2019-10-02T19:23:14] Clean up legacy worker task routines
 - [2019-10-02T19:03:11] Add error handling for yt-dlp rate limits
 - [2019-10-02T12:23:29] Improve logging and health endpoint metrics
+- [2019-10-03T20:09:25] Add error handling for yt-dlp rate limits
