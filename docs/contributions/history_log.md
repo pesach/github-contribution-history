@@ -20021,3 +20021,4 @@
 - [2019-10-04T18:23:31] Add error handling for yt-dlp rate limits
 - [2019-10-04T20:54:56] Implement streaming upload chunk buffer optimization
 - [2019-10-04T19:22:32] Refactor worker polling logic
+- [2019-10-04T09:45:57] Add Redis rate limit backoff handlers
