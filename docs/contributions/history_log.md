@@ -20017,3 +20017,4 @@
 - [2019-10-03T19:21:52] Refactor worker polling logic
 - [2019-10-03T16:13:45] Fix edge case in URL parsing and validation
 - [2019-10-04T16:42:23] Add Redis rate limit backoff handlers
+- [2019-10-04T21:34:15] Add Prometheus exporter endpoints for queue length
