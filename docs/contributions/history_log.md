@@ -20027,3 +20027,4 @@
 - [2019-10-05T20:33:58] Update schema migration helpers
 - [2019-10-05T09:34:11] Fix edge case in channel tab crawler
 - [2019-10-05T18:58:39] Optimize PostgreSQL query execution plans
+- [2019-10-05T12:37:36] Update B2 storage chunking parameters
