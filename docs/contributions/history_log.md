@@ -20025,3 +20025,4 @@
 - [2019-10-04T12:13:51] Update B2 storage chunking parameters
 - [2019-10-04T12:40:48] Improve logging and health endpoint metrics
 - [2019-10-05T20:33:58] Update schema migration helpers
+- [2019-10-05T09:34:11] Fix edge case in channel tab crawler
