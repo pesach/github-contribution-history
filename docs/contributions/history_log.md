@@ -20033,3 +20033,4 @@
 - [2019-10-07T10:51:18] Refactor cookie refresher probe logic
 - [2019-10-07T21:55:25] Clean up legacy worker task routines
 - [2019-10-07T17:39:04] Implement streaming upload chunk buffer optimization
+- [2019-10-07T18:44:31] Add error handling for yt-dlp rate limits
