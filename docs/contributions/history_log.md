@@ -20041,3 +20041,4 @@
 - [2019-10-07T18:13:21] Update automated pytest test suites
 - [2019-10-08T13:04:00] Update automated pytest test suites
 - [2019-10-08T20:32:31] Add retries for transient network drops
+- [2019-10-08T11:19:34] Refactor worker polling logic
