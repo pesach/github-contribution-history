@@ -20045,3 +20045,4 @@
 - [2019-10-08T17:39:20] Update dependency lockfiles and requirements
 - [2019-10-08T20:28:03] Improve ffmpeg streaming pipe buffer management
 - [2019-10-08T15:37:59] Refactor cookie refresher probe logic
+- [2019-10-08T08:08:43] Add retries for transient network drops
