@@ -20043,3 +20043,4 @@
 - [2019-10-08T20:32:31] Add retries for transient network drops
 - [2019-10-08T11:19:34] Refactor worker polling logic
 - [2019-10-08T17:39:20] Update dependency lockfiles and requirements
+- [2019-10-08T20:28:03] Improve ffmpeg streaming pipe buffer management
