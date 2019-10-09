@@ -20048,3 +20048,4 @@
 - [2019-10-08T08:08:43] Add retries for transient network drops
 - [2019-10-09T22:32:43] Add Prometheus exporter endpoints for queue length
 - [2019-10-09T20:32:23] Update schema migration helpers
+- [2019-10-09T10:49:54] Fix edge case in URL parsing and validation
