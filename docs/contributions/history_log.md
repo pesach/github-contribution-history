@@ -20046,3 +20046,4 @@
 - [2019-10-08T20:28:03] Improve ffmpeg streaming pipe buffer management
 - [2019-10-08T15:37:59] Refactor cookie refresher probe logic
 - [2019-10-08T08:08:43] Add retries for transient network drops
+- [2019-10-09T22:32:43] Add Prometheus exporter endpoints for queue length
