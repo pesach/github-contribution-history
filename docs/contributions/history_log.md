@@ -20061,3 +20061,4 @@
 - [2019-10-09T21:51:39] Refactor cookie refresher probe logic
 - [2019-10-09T16:29:07] Improve logging and health endpoint metrics
 - [2019-10-11T15:59:25] Refactor cookie refresher probe logic
+- [2019-10-11T17:17:33] Update schema migration helpers
