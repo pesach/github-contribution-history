@@ -20064,3 +20064,4 @@
 - [2019-10-11T17:17:33] Update schema migration helpers
 - [2019-10-11T22:58:01] Improve logging and health endpoint metrics
 - [2019-10-11T13:00:11] Fix edge case in channel tab crawler
+- [2019-10-11T17:40:18] Clean up legacy worker task routines
