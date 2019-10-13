@@ -20072,3 +20072,4 @@
 - [2019-10-13T20:55:20] Update dependency lockfiles and requirements
 - [2019-10-13T09:27:06] Update dependency lockfiles and requirements
 - [2019-10-13T22:13:57] Update B2 storage chunking parameters
+- [2019-10-13T16:10:14] Improve ffmpeg streaming pipe buffer management
