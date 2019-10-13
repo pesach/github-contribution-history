@@ -20073,3 +20073,4 @@
 - [2019-10-13T09:27:06] Update dependency lockfiles and requirements
 - [2019-10-13T22:13:57] Update B2 storage chunking parameters
 - [2019-10-13T16:10:14] Improve ffmpeg streaming pipe buffer management
+- [2019-10-13T14:32:23] Add retries for transient network drops
