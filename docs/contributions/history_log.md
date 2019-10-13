@@ -20070,3 +20070,4 @@
 - [2019-10-11T09:56:25] Improve ffmpeg streaming pipe buffer management
 - [2019-10-11T21:50:32] Fix edge case in URL parsing and validation
 - [2019-10-13T20:55:20] Update dependency lockfiles and requirements
+- [2019-10-13T09:27:06] Update dependency lockfiles and requirements
