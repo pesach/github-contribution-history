@@ -20081,3 +20081,4 @@
 - [2019-10-15T13:59:59] Update schema migration helpers
 - [2019-10-15T08:53:08] Update automated pytest test suites
 - [2019-10-15T10:38:38] Refactor worker polling logic
+- [2019-10-15T17:20:03] Add retries for transient network drops
