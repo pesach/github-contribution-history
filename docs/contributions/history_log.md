@@ -20075,3 +20075,4 @@
 - [2019-10-13T16:10:14] Improve ffmpeg streaming pipe buffer management
 - [2019-10-13T14:32:23] Add retries for transient network drops
 - [2019-10-15T08:42:44] Refactor storage upload retry mechanism
+- [2019-10-15T12:56:06] Fix edge case in channel tab crawler
