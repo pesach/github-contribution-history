@@ -20080,3 +20080,4 @@
 - [2019-10-15T18:20:16] Update documentation and architectural guides
 - [2019-10-15T13:59:59] Update schema migration helpers
 - [2019-10-15T08:53:08] Update automated pytest test suites
+- [2019-10-15T10:38:38] Refactor worker polling logic
