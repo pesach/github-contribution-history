@@ -20078,3 +20078,4 @@
 - [2019-10-15T12:56:06] Fix edge case in channel tab crawler
 - [2019-10-15T08:23:25] Refactor storage upload retry mechanism
 - [2019-10-15T18:20:16] Update documentation and architectural guides
+- [2019-10-15T13:59:59] Update schema migration helpers
