@@ -20091,3 +20091,4 @@
 - [2019-10-16T16:23:40] Add error handling for yt-dlp rate limits
 - [2019-10-16T09:45:47] Improve logging and health endpoint metrics
 - [2019-10-16T14:28:52] Add Redis rate limit backoff handlers
+- [2019-10-16T15:01:45] Fix edge case in URL parsing and validation
