@@ -20090,3 +20090,4 @@
 - [2019-10-16T16:53:32] Update dependency lockfiles and requirements
 - [2019-10-16T16:23:40] Add error handling for yt-dlp rate limits
 - [2019-10-16T09:45:47] Improve logging and health endpoint metrics
+- [2019-10-16T14:28:52] Add Redis rate limit backoff handlers
