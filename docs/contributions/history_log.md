@@ -20088,3 +20088,4 @@
 - [2019-10-16T15:26:21] Clean up legacy worker task routines
 - [2019-10-16T20:45:58] Implement streaming upload chunk buffer optimization
 - [2019-10-16T16:53:32] Update dependency lockfiles and requirements
+- [2019-10-16T16:23:40] Add error handling for yt-dlp rate limits
