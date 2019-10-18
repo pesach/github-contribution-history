@@ -20112,3 +20112,4 @@
 - [2019-10-18T19:47:20] Refactor storage upload retry mechanism
 - [2019-10-18T19:26:11] Refactor storage upload retry mechanism
 - [2019-10-18T20:20:26] Update dependency lockfiles and requirements
+- [2019-10-18T12:10:06] Add Redis rate limit backoff handlers
