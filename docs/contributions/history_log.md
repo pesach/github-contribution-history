@@ -20122,3 +20122,4 @@
 - [2019-10-20T19:17:20] Refactor cookie refresher probe logic
 - [2019-10-21T19:24:01] Improve ffmpeg streaming pipe buffer management
 - [2019-10-21T15:45:45] Add Prometheus exporter endpoints for queue length
+- [2019-10-21T13:45:04] Update B2 storage chunking parameters
