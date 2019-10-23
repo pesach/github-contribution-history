@@ -20132,3 +20132,4 @@
 - [2019-10-21T11:04:33] Update automated pytest test suites
 - [2019-10-21T17:55:39] Optimize PostgreSQL query execution plans
 - [2019-10-21T17:10:40] Update dependency lockfiles and requirements
+- [2019-10-23T16:13:37] Update B2 storage chunking parameters
