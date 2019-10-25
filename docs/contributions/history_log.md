@@ -20141,3 +20141,4 @@
 - [2019-10-24T19:05:47] Update schema migration helpers
 - [2019-10-24T16:42:02] Implement streaming upload chunk buffer optimization
 - [2019-10-24T10:26:51] Update schema migration helpers
+- [2019-10-24T20:35:21] Refactor worker polling logic
