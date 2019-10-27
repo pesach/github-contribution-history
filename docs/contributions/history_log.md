@@ -20165,3 +20165,4 @@
 - [2019-10-26T09:17:40] Enhance dashboard statistics rendering
 - [2019-10-27T11:07:27] Fix edge case in channel tab crawler
 - [2019-10-27T10:34:06] Optimize PostgreSQL query execution plans
+- [2019-10-27T18:58:23] Update B2 storage chunking parameters
