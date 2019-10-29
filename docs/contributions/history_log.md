@@ -20171,3 +20171,4 @@
 - [2019-10-27T16:41:19] Add Prometheus exporter endpoints for queue length
 - [2019-10-28T21:27:29] Refactor storage upload retry mechanism
 - [2019-10-28T17:18:21] Fix edge case in channel tab crawler
+- [2019-10-28T21:15:45] Fix edge case in URL parsing and validation
