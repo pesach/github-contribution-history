@@ -20176,3 +20176,4 @@
 - [2019-10-28T15:52:35] Refactor storage upload retry mechanism
 - [2019-10-28T19:33:12] Fix edge case in URL parsing and validation
 - [2019-10-29T22:18:33] Add Prometheus exporter endpoints for queue length
+- [2019-10-29T09:43:57] Update documentation and architectural guides
