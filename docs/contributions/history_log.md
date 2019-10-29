@@ -20186,3 +20186,4 @@
 - [2019-10-29T08:48:01] Update dependency lockfiles and requirements
 - [2019-10-29T09:18:08] Update automated pytest test suites
 - [2019-10-29T18:06:11] Fix edge case in URL parsing and validation
+- [2019-10-29T12:01:05] Refactor storage upload retry mechanism
