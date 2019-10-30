@@ -20198,3 +20198,4 @@
 - [2019-10-30T10:50:43] Improve ffmpeg streaming pipe buffer management
 - [2019-10-30T14:32:27] Update schema migration helpers
 - [2019-10-30T12:23:51] Add error handling for yt-dlp rate limits
+- [2019-10-30T12:20:28] Refactor cookie refresher probe logic
