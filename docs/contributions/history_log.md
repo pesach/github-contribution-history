@@ -20199,3 +20199,4 @@
 - [2019-10-30T14:32:27] Update schema migration helpers
 - [2019-10-30T12:23:51] Add error handling for yt-dlp rate limits
 - [2019-10-30T12:20:28] Refactor cookie refresher probe logic
+- [2019-10-30T19:21:23] Refactor cookie refresher probe logic
