@@ -20192,3 +20192,4 @@
 - [2019-10-29T17:09:32] Improve logging and health endpoint metrics
 - [2019-10-30T14:33:02] Fix edge case in URL parsing and validation
 - [2019-10-30T18:48:51] Add Redis rate limit backoff handlers
+- [2019-10-30T17:56:43] Refactor storage upload retry mechanism
