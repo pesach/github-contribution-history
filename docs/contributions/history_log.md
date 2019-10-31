@@ -20206,3 +20206,4 @@
 - [2019-10-31T16:14:11] Enhance dashboard statistics rendering
 - [2019-10-31T13:06:21] Fix edge case in URL parsing and validation
 - [2019-10-31T17:28:03] Improve logging and health endpoint metrics
+- [2019-10-31T12:24:41] Add Prometheus exporter endpoints for queue length
