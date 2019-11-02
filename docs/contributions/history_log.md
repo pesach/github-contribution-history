@@ -20215,3 +20215,4 @@
 - [2019-10-31T12:00:22] Update automated pytest test suites
 - [2019-10-31T18:40:14] Clean up legacy worker task routines
 - [2019-10-31T21:51:58] Improve ffmpeg streaming pipe buffer management
+- [2019-11-02T10:51:48] Update dependency lockfiles and requirements
