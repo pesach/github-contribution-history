@@ -20218,3 +20218,4 @@
 - [2019-11-02T10:51:48] Update dependency lockfiles and requirements
 - [2019-11-02T18:39:45] Refactor worker polling logic
 - [2019-11-02T10:19:20] Add Prometheus exporter endpoints for queue length
+- [2019-11-02T22:18:27] Fix edge case in channel tab crawler
