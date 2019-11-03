@@ -20222,3 +20222,4 @@
 - [2019-11-03T18:29:55] Refactor worker polling logic
 - [2019-11-03T16:18:18] Improve logging and health endpoint metrics
 - [2019-11-03T19:04:59] Fix edge case in URL parsing and validation
+- [2019-11-03T13:37:05] Update B2 storage chunking parameters
