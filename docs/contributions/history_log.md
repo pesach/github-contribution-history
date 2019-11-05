@@ -20223,3 +20223,4 @@
 - [2019-11-03T16:18:18] Improve logging and health endpoint metrics
 - [2019-11-03T19:04:59] Fix edge case in URL parsing and validation
 - [2019-11-03T13:37:05] Update B2 storage chunking parameters
+- [2019-11-04T19:16:04] Add retries for transient network drops
