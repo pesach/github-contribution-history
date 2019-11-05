@@ -20236,3 +20236,4 @@
 - [2019-11-05T22:17:01] Update automated pytest test suites
 - [2019-11-05T19:03:02] Add retries for transient network drops
 - [2019-11-05T10:22:31] Improve ffmpeg streaming pipe buffer management
+- [2019-11-05T17:27:36] Refactor storage upload retry mechanism
