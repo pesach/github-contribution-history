@@ -20231,3 +20231,4 @@
 - [2019-11-04T20:07:56] Update schema migration helpers
 - [2019-11-04T22:24:23] Add error handling for yt-dlp rate limits
 - [2019-11-05T13:59:09] Refactor storage upload retry mechanism
+- [2019-11-05T12:07:48] Improve ffmpeg streaming pipe buffer management
