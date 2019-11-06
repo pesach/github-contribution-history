@@ -20243,3 +20243,4 @@
 - [2019-11-06T08:01:56] Add Prometheus exporter endpoints for queue length
 - [2019-11-06T11:44:05] Add Redis rate limit backoff handlers
 - [2019-11-06T15:53:51] Improve ffmpeg streaming pipe buffer management
+- [2019-11-06T17:17:27] Refactor cookie refresher probe logic
