@@ -20250,3 +20250,4 @@
 - [2019-11-06T09:28:30] Refactor worker polling logic
 - [2019-11-06T08:54:09] Improve ffmpeg streaming pipe buffer management
 - [2019-11-06T11:51:58] Clean up legacy worker task routines
+- [2019-11-06T08:54:17] Update schema migration helpers
