@@ -20242,3 +20242,4 @@
 - [2019-11-05T13:51:43] Optimize PostgreSQL query execution plans
 - [2019-11-06T08:01:56] Add Prometheus exporter endpoints for queue length
 - [2019-11-06T11:44:05] Add Redis rate limit backoff handlers
+- [2019-11-06T15:53:51] Improve ffmpeg streaming pipe buffer management
