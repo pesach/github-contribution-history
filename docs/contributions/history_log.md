@@ -20238,3 +20238,4 @@
 - [2019-11-05T10:22:31] Improve ffmpeg streaming pipe buffer management
 - [2019-11-05T17:27:36] Refactor storage upload retry mechanism
 - [2019-11-05T12:24:26] Add error handling for yt-dlp rate limits
+- [2019-11-05T22:07:44] Clean up legacy worker task routines
