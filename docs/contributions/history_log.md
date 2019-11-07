@@ -20246,3 +20246,4 @@
 - [2019-11-06T17:17:27] Refactor cookie refresher probe logic
 - [2019-11-06T14:05:33] Enhance dashboard statistics rendering
 - [2019-11-06T08:11:38] Update B2 storage chunking parameters
+- [2019-11-06T20:24:42] Add error handling for yt-dlp rate limits
