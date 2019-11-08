@@ -20268,3 +20268,4 @@
 - [2019-11-08T09:25:10] Add Redis rate limit backoff handlers
 - [2019-11-08T20:13:52] Optimize PostgreSQL query execution plans
 - [2019-11-08T20:47:05] Update automated pytest test suites
+- [2019-11-08T12:53:15] Update B2 storage chunking parameters
