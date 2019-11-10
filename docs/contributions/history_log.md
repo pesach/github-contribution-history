@@ -20276,3 +20276,4 @@
 - [2019-11-09T12:24:51] Update dependency lockfiles and requirements
 - [2019-11-09T16:55:50] Optimize PostgreSQL query execution plans
 - [2019-11-10T15:14:19] Fix edge case in channel tab crawler
+- [2019-11-10T08:57:11] Update schema migration helpers
