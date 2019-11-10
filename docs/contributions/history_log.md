@@ -20279,3 +20279,4 @@
 - [2019-11-10T08:57:11] Update schema migration helpers
 - [2019-11-10T13:04:23] Improve logging and health endpoint metrics
 - [2019-11-10T17:44:44] Enhance dashboard statistics rendering
+- [2019-11-10T08:19:21] Update B2 storage chunking parameters
