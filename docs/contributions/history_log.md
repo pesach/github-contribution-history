@@ -20287,3 +20287,4 @@
 - [2019-11-11T14:13:04] Fix edge case in channel tab crawler
 - [2019-11-11T13:55:24] Update automated pytest test suites
 - [2019-11-12T13:17:45] Refactor storage upload retry mechanism
+- [2019-11-12T18:29:23] Improve ffmpeg streaming pipe buffer management
