@@ -20298,3 +20298,4 @@
 - [2019-11-12T20:03:54] Fix edge case in channel tab crawler
 - [2019-11-12T13:23:12] Update automated pytest test suites
 - [2019-11-12T18:17:46] Improve logging and health endpoint metrics
+- [2019-11-12T22:40:44] Clean up legacy worker task routines
