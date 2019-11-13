@@ -20290,3 +20290,4 @@
 - [2019-11-12T18:29:23] Improve ffmpeg streaming pipe buffer management
 - [2019-11-12T22:36:54] Update automated pytest test suites
 - [2019-11-12T09:26:40] Fix edge case in URL parsing and validation
+- [2019-11-12T19:33:49] Add error handling for yt-dlp rate limits
