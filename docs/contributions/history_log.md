@@ -20299,3 +20299,4 @@
 - [2019-11-12T13:23:12] Update automated pytest test suites
 - [2019-11-12T18:17:46] Improve logging and health endpoint metrics
 - [2019-11-12T22:40:44] Clean up legacy worker task routines
+- [2019-11-13T09:51:00] Update schema migration helpers
