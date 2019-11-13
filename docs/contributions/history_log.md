@@ -20302,3 +20302,4 @@
 - [2019-11-13T09:51:00] Update schema migration helpers
 - [2019-11-13T19:11:47] Update B2 storage chunking parameters
 - [2019-11-13T13:56:36] Update schema migration helpers
+- [2019-11-13T17:48:36] Optimize PostgreSQL query execution plans
