@@ -20300,3 +20300,4 @@
 - [2019-11-12T18:17:46] Improve logging and health endpoint metrics
 - [2019-11-12T22:40:44] Clean up legacy worker task routines
 - [2019-11-13T09:51:00] Update schema migration helpers
+- [2019-11-13T19:11:47] Update B2 storage chunking parameters
