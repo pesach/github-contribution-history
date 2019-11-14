@@ -20311,3 +20311,4 @@
 - [2019-11-14T18:53:05] Update schema migration helpers
 - [2019-11-14T19:37:52] Enhance dashboard statistics rendering
 - [2019-11-14T10:16:01] Update B2 storage chunking parameters
+- [2019-11-14T16:25:41] Clean up legacy worker task routines
