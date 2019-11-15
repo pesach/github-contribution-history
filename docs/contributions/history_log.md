@@ -20320,3 +20320,4 @@
 - [2019-11-15T12:53:02] Improve ffmpeg streaming pipe buffer management
 - [2019-11-15T09:52:10] Update B2 storage chunking parameters
 - [2019-11-15T15:35:09] Enhance dashboard statistics rendering
+- [2019-11-15T18:25:22] Refactor worker polling logic
