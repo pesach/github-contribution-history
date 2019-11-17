@@ -20321,3 +20321,4 @@
 - [2019-11-15T09:52:10] Update B2 storage chunking parameters
 - [2019-11-15T15:35:09] Enhance dashboard statistics rendering
 - [2019-11-15T18:25:22] Refactor worker polling logic
+- [2019-11-16T22:01:39] Add Redis rate limit backoff handlers
