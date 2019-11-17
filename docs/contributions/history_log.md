@@ -20327,3 +20327,4 @@
 - [2019-11-16T16:45:43] Enhance dashboard statistics rendering
 - [2019-11-16T11:05:43] Implement streaming upload chunk buffer optimization
 - [2019-11-16T15:39:21] Update schema migration helpers
+- [2019-11-17T10:18:04] Fix edge case in URL parsing and validation
