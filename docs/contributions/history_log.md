@@ -20334,3 +20334,4 @@
 - [2019-11-19T19:54:40] Update dependency lockfiles and requirements
 - [2019-11-19T13:32:10] Enhance dashboard statistics rendering
 - [2019-11-19T08:40:11] Refactor storage upload retry mechanism
+- [2019-11-19T11:04:16] Add Redis rate limit backoff handlers
