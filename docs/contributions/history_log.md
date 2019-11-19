@@ -20330,3 +20330,4 @@
 - [2019-11-17T10:18:04] Fix edge case in URL parsing and validation
 - [2019-11-17T13:32:26] Update B2 storage chunking parameters
 - [2019-11-17T16:46:22] Add error handling for yt-dlp rate limits
+- [2019-11-19T17:28:14] Clean up legacy worker task routines
