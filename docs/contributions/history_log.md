@@ -20348,3 +20348,4 @@
 - [2019-11-20T19:13:19] Update automated pytest test suites
 - [2019-11-20T16:02:21] Add Prometheus exporter endpoints for queue length
 - [2019-11-20T15:00:53] Clean up legacy worker task routines
+- [2019-11-20T17:03:40] Add retries for transient network drops
