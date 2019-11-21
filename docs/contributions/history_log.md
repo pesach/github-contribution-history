@@ -20353,3 +20353,4 @@
 - [2019-11-20T19:30:25] Update B2 storage chunking parameters
 - [2019-11-20T17:23:03] Refactor storage upload retry mechanism
 - [2019-11-21T16:22:29] Update dependency lockfiles and requirements
+- [2019-11-21T08:30:56] Improve ffmpeg streaming pipe buffer management
