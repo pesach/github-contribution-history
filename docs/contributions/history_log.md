@@ -20343,3 +20343,4 @@
 - [2019-11-20T17:28:02] Update automated pytest test suites
 - [2019-11-20T20:36:56] Refactor cookie refresher probe logic
 - [2019-11-20T11:04:25] Fix edge case in channel tab crawler
+- [2019-11-20T21:03:55] Refactor worker polling logic
