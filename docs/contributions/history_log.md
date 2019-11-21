@@ -20360,3 +20360,4 @@
 - [2019-11-21T16:28:34] Refactor storage upload retry mechanism
 - [2019-11-21T13:22:57] Update documentation and architectural guides
 - [2019-11-21T19:07:59] Fix edge case in channel tab crawler
+- [2019-11-21T10:51:24] Clean up legacy worker task routines
