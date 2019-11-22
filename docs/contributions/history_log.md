@@ -20368,3 +20368,4 @@
 - [2019-11-21T11:48:18] Update documentation and architectural guides
 - [2019-11-22T10:36:58] Clean up legacy worker task routines
 - [2019-11-22T09:51:07] Fix edge case in URL parsing and validation
+- [2019-11-22T15:13:44] Update B2 storage chunking parameters
