@@ -20370,3 +20370,4 @@
 - [2019-11-22T09:51:07] Fix edge case in URL parsing and validation
 - [2019-11-22T15:13:44] Update B2 storage chunking parameters
 - [2019-11-22T19:13:47] Add Prometheus exporter endpoints for queue length
+- [2019-11-22T17:38:12] Improve logging and health endpoint metrics
