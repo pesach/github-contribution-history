@@ -20395,3 +20395,4 @@
 - [2019-11-26T10:48:04] Improve ffmpeg streaming pipe buffer management
 - [2019-11-26T21:47:21] Refactor worker polling logic
 - [2019-11-26T22:42:09] Add Prometheus exporter endpoints for queue length
+- [2019-11-26T16:54:47] Fix edge case in channel tab crawler
