@@ -20393,3 +20393,4 @@
 - [2019-11-25T09:02:51] Improve ffmpeg streaming pipe buffer management
 - [2019-11-26T19:50:28] Refactor worker polling logic
 - [2019-11-26T10:48:04] Improve ffmpeg streaming pipe buffer management
+- [2019-11-26T21:47:21] Refactor worker polling logic
