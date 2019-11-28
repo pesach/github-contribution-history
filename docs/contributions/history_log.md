@@ -20415,3 +20415,4 @@
 - [2019-11-28T18:32:18] Fix edge case in channel tab crawler
 - [2019-11-28T13:35:14] Refactor worker polling logic
 - [2019-11-28T22:35:20] Improve ffmpeg streaming pipe buffer management
+- [2019-11-28T13:50:25] Refactor storage upload retry mechanism
