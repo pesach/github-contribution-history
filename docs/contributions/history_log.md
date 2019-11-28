@@ -20410,3 +20410,4 @@
 - [2019-11-28T15:54:42] Refactor worker polling logic
 - [2019-11-28T16:42:34] Improve logging and health endpoint metrics
 - [2019-11-28T17:09:05] Update schema migration helpers
+- [2019-11-28T11:42:30] Update schema migration helpers
