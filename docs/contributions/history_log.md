@@ -20413,3 +20413,4 @@
 - [2019-11-28T11:42:30] Update schema migration helpers
 - [2019-11-28T22:28:08] Clean up legacy worker task routines
 - [2019-11-28T18:32:18] Fix edge case in channel tab crawler
+- [2019-11-28T13:35:14] Refactor worker polling logic
