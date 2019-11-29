@@ -20411,3 +20411,4 @@
 - [2019-11-28T16:42:34] Improve logging and health endpoint metrics
 - [2019-11-28T17:09:05] Update schema migration helpers
 - [2019-11-28T11:42:30] Update schema migration helpers
+- [2019-11-28T22:28:08] Clean up legacy worker task routines
