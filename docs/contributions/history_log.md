@@ -20437,3 +20437,4 @@
 - [2019-12-02T09:08:20] Add Prometheus exporter endpoints for queue length
 - [2019-12-02T20:39:18] Refactor cookie refresher probe logic
 - [2019-12-02T13:02:16] Update dependency lockfiles and requirements
+- [2019-12-02T11:53:29] Improve logging and health endpoint metrics
