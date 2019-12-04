@@ -20460,3 +20460,4 @@
 - [2019-12-04T17:05:18] Improve logging and health endpoint metrics
 - [2019-12-04T17:21:09] Improve logging and health endpoint metrics
 - [2019-12-04T14:19:57] Refactor cookie refresher probe logic
+- [2019-12-04T17:42:50] Refactor cookie refresher probe logic
