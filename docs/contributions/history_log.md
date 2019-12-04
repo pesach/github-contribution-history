@@ -20466,3 +20466,4 @@
 - [2019-12-04T16:50:36] Update B2 storage chunking parameters
 - [2019-12-04T19:44:55] Update automated pytest test suites
 - [2019-12-04T14:18:50] Refactor storage upload retry mechanism
+- [2019-12-04T12:25:17] Improve ffmpeg streaming pipe buffer management
