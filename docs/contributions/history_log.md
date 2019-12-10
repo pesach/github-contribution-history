@@ -20473,3 +20473,4 @@
 - [2019-12-09T22:08:53] Update dependency lockfiles and requirements
 - [2019-12-09T16:54:09] Implement streaming upload chunk buffer optimization
 - [2019-12-09T14:46:26] Improve logging and health endpoint metrics
+- [2019-12-09T22:55:46] Add error handling for yt-dlp rate limits
