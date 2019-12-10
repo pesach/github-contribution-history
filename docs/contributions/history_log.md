@@ -20479,3 +20479,4 @@
 - [2019-12-09T09:39:18] Update documentation and architectural guides
 - [2019-12-09T14:09:33] Update documentation and architectural guides
 - [2019-12-09T18:28:05] Add retries for transient network drops
+- [2019-12-10T10:14:18] Optimize PostgreSQL query execution plans
