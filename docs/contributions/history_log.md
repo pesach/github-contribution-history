@@ -20486,3 +20486,4 @@
 - [2019-12-10T13:25:45] Refactor worker polling logic
 - [2019-12-10T18:47:58] Refactor cookie refresher probe logic
 - [2019-12-10T11:24:05] Update B2 storage chunking parameters
+- [2019-12-11T14:31:01] Fix edge case in URL parsing and validation
