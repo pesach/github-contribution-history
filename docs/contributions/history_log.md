@@ -20488,3 +20488,4 @@
 - [2019-12-10T11:24:05] Update B2 storage chunking parameters
 - [2019-12-11T14:31:01] Fix edge case in URL parsing and validation
 - [2019-12-11T12:10:05] Refactor storage upload retry mechanism
+- [2019-12-11T20:29:30] Optimize PostgreSQL query execution plans
