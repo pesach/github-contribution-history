@@ -20500,3 +20500,4 @@
 - [2019-12-12T12:02:25] Add error handling for yt-dlp rate limits
 - [2019-12-12T14:32:04] Refactor cookie refresher probe logic
 - [2019-12-12T17:38:46] Update automated pytest test suites
+- [2019-12-12T14:01:40] Clean up legacy worker task routines
