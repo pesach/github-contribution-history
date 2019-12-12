@@ -20503,3 +20503,4 @@
 - [2019-12-12T14:01:40] Clean up legacy worker task routines
 - [2019-12-12T13:58:13] Update B2 storage chunking parameters
 - [2019-12-12T12:59:01] Optimize PostgreSQL query execution plans
+- [2019-12-12T12:23:51] Improve ffmpeg streaming pipe buffer management
