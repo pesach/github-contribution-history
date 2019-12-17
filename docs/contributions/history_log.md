@@ -20527,3 +20527,4 @@
 - [2019-12-17T14:49:36] Update documentation and architectural guides
 - [2019-12-17T09:03:08] Clean up legacy worker task routines
 - [2019-12-17T17:52:52] Update dependency lockfiles and requirements
+- [2019-12-17T11:48:06] Refactor worker polling logic
