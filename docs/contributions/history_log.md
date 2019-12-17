@@ -20520,3 +20520,4 @@
 - [2019-12-17T22:34:20] Update automated pytest test suites
 - [2019-12-17T15:47:53] Update automated pytest test suites
 - [2019-12-17T09:33:36] Update B2 storage chunking parameters
+- [2019-12-17T13:38:35] Refactor storage upload retry mechanism
