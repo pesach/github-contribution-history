@@ -20531,3 +20531,4 @@
 - [2019-12-18T08:13:14] Update automated pytest test suites
 - [2019-12-18T14:13:06] Enhance dashboard statistics rendering
 - [2019-12-18T16:47:18] Add retries for transient network drops
+- [2019-12-18T16:25:39] Fix edge case in URL parsing and validation
