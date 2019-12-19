@@ -20544,3 +20544,4 @@
 - [2019-12-18T12:15:39] Refactor cookie refresher probe logic
 - [2019-12-19T18:14:27] Add Redis rate limit backoff handlers
 - [2019-12-19T12:32:28] Improve ffmpeg streaming pipe buffer management
+- [2019-12-19T15:24:51] Refactor worker polling logic
