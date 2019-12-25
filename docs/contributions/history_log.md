@@ -20585,3 +20585,4 @@
 - [2019-12-25T10:22:30] Add retries for transient network drops
 - [2019-12-25T18:34:15] Fix edge case in channel tab crawler
 - [2019-12-25T15:38:34] Refactor worker polling logic
+- [2019-12-25T13:28:36] Fix edge case in URL parsing and validation
