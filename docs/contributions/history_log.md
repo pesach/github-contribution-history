@@ -20588,3 +20588,4 @@
 - [2019-12-25T13:28:36] Fix edge case in URL parsing and validation
 - [2019-12-25T14:53:17] Refactor cookie refresher probe logic
 - [2019-12-25T12:41:29] Clean up legacy worker task routines
+- [2019-12-25T16:26:39] Add retries for transient network drops
