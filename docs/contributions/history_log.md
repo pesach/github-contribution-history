@@ -20568,3 +20568,4 @@
 - [2019-12-23T15:16:29] Enhance dashboard statistics rendering
 - [2019-12-23T13:27:53] Add error handling for yt-dlp rate limits
 - [2019-12-23T18:41:33] Add Redis rate limit backoff handlers
+- [2019-12-24T21:11:01] Fix edge case in URL parsing and validation
