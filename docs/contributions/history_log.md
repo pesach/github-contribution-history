@@ -20603,3 +20603,4 @@
 - [2019-12-26T22:23:46] Add Prometheus exporter endpoints for queue length
 - [2019-12-27T17:15:51] Add retries for transient network drops
 - [2019-12-27T11:17:04] Fix edge case in channel tab crawler
+- [2019-12-27T15:40:21] Fix edge case in URL parsing and validation
