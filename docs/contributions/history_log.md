@@ -20632,3 +20632,4 @@
 - [2019-12-30T13:30:32] Improve ffmpeg streaming pipe buffer management
 - [2019-12-30T12:49:15] Clean up legacy worker task routines
 - [2019-12-30T21:23:28] Add Redis rate limit backoff handlers
+- [2019-12-30T09:52:29] Add Redis rate limit backoff handlers
