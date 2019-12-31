@@ -20634,3 +20634,4 @@
 - [2019-12-30T21:23:28] Add Redis rate limit backoff handlers
 - [2019-12-30T09:52:29] Add Redis rate limit backoff handlers
 - [2019-12-30T18:05:26] Optimize PostgreSQL query execution plans
+- [2019-12-30T19:59:25] Add Prometheus exporter endpoints for queue length
