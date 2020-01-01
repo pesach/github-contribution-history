@@ -20636,3 +20636,4 @@
 - [2019-12-30T18:05:26] Optimize PostgreSQL query execution plans
 - [2019-12-30T19:59:25] Add Prometheus exporter endpoints for queue length
 - [2020-01-01T22:53:31] Update schema migration helpers
+- [2020-01-01T13:56:40] Fix edge case in channel tab crawler
