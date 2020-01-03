@@ -20644,3 +20644,4 @@
 - [2020-01-01T09:13:48] Enhance dashboard statistics rendering
 - [2020-01-03T09:23:59] Enhance dashboard statistics rendering
 - [2020-01-03T17:27:23] Refactor storage upload retry mechanism
+- [2020-01-03T18:49:14] Update schema migration helpers
