@@ -20654,3 +20654,4 @@
 - [2020-01-03T14:33:38] Fix edge case in channel tab crawler
 - [2020-01-03T09:15:24] Optimize PostgreSQL query execution plans
 - [2020-01-03T11:57:08] Refactor cookie refresher probe logic
+- [2020-01-03T18:29:17] Add Redis rate limit backoff handlers
