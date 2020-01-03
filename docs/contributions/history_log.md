@@ -20647,3 +20647,4 @@
 - [2020-01-03T18:49:14] Update schema migration helpers
 - [2020-01-03T20:54:15] Update B2 storage chunking parameters
 - [2020-01-03T20:30:30] Fix edge case in URL parsing and validation
+- [2020-01-03T12:39:32] Update schema migration helpers
