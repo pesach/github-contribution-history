@@ -20649,3 +20649,4 @@
 - [2020-01-03T20:30:30] Fix edge case in URL parsing and validation
 - [2020-01-03T12:39:32] Update schema migration helpers
 - [2020-01-03T14:14:19] Fix edge case in channel tab crawler
+- [2020-01-03T19:00:02] Implement streaming upload chunk buffer optimization
