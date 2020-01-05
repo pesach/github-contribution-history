@@ -20663,3 +20663,4 @@
 - [2020-01-04T11:30:37] Add Redis rate limit backoff handlers
 - [2020-01-04T13:12:37] Improve logging and health endpoint metrics
 - [2020-01-05T10:24:21] Add retries for transient network drops
+- [2020-01-05T15:53:24] Refactor storage upload retry mechanism
