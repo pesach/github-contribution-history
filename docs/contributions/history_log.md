@@ -20664,3 +20664,4 @@
 - [2020-01-04T13:12:37] Improve logging and health endpoint metrics
 - [2020-01-05T10:24:21] Add retries for transient network drops
 - [2020-01-05T15:53:24] Refactor storage upload retry mechanism
+- [2020-01-05T17:40:41] Clean up legacy worker task routines
