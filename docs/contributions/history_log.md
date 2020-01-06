@@ -20668,3 +20668,4 @@
 - [2020-01-05T11:15:52] Improve ffmpeg streaming pipe buffer management
 - [2020-01-05T10:24:45] Add Redis rate limit backoff handlers
 - [2020-01-06T10:09:04] Refactor worker polling logic
+- [2020-01-06T16:57:26] Improve logging and health endpoint metrics
