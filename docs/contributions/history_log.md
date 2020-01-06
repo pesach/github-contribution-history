@@ -20675,3 +20675,4 @@
 - [2020-01-06T12:42:31] Refactor worker polling logic
 - [2020-01-06T09:58:30] Add retries for transient network drops
 - [2020-01-06T09:08:55] Fix edge case in channel tab crawler
+- [2020-01-06T15:20:14] Update schema migration helpers
