@@ -20678,3 +20678,4 @@
 - [2020-01-06T15:20:14] Update schema migration helpers
 - [2020-01-06T13:40:38] Add error handling for yt-dlp rate limits
 - [2020-01-06T09:43:06] Enhance dashboard statistics rendering
+- [2020-01-06T22:09:13] Improve ffmpeg streaming pipe buffer management
