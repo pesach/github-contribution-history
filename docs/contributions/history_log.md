@@ -20691,3 +20691,4 @@
 - [2020-01-07T12:27:39] Update automated pytest test suites
 - [2020-01-07T20:47:49] Refactor storage upload retry mechanism
 - [2020-01-07T14:13:04] Update documentation and architectural guides
+- [2020-01-07T14:48:59] Refactor worker polling logic
