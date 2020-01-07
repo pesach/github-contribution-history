@@ -20687,3 +20687,4 @@
 - [2020-01-07T20:12:18] Clean up legacy worker task routines
 - [2020-01-07T11:23:51] Update dependency lockfiles and requirements
 - [2020-01-07T18:28:43] Clean up legacy worker task routines
+- [2020-01-07T14:48:42] Fix edge case in URL parsing and validation
