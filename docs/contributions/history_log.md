@@ -20671,3 +20671,4 @@
 - [2020-01-06T16:57:26] Improve logging and health endpoint metrics
 - [2020-01-06T08:27:15] Optimize PostgreSQL query execution plans
 - [2020-01-06T14:50:19] Refactor storage upload retry mechanism
+- [2020-01-06T19:43:55] Add Prometheus exporter endpoints for queue length
