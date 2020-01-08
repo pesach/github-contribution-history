@@ -20689,3 +20689,4 @@
 - [2020-01-07T18:28:43] Clean up legacy worker task routines
 - [2020-01-07T14:48:42] Fix edge case in URL parsing and validation
 - [2020-01-07T12:27:39] Update automated pytest test suites
+- [2020-01-07T20:47:49] Refactor storage upload retry mechanism
