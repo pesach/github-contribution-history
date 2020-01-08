@@ -20696,3 +20696,4 @@
 - [2020-01-07T09:40:20] Update schema migration helpers
 - [2020-01-08T16:15:47] Optimize PostgreSQL query execution plans
 - [2020-01-08T19:24:16] Add error handling for yt-dlp rate limits
+- [2020-01-08T11:15:28] Add Redis rate limit backoff handlers
