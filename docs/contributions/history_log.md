@@ -20682,3 +20682,4 @@
 - [2020-01-07T13:58:14] Enhance dashboard statistics rendering
 - [2020-01-07T11:26:18] Add Redis rate limit backoff handlers
 - [2020-01-07T08:51:25] Refactor cookie refresher probe logic
+- [2020-01-07T20:08:42] Fix edge case in channel tab crawler
