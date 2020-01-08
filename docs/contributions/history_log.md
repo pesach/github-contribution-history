@@ -20701,3 +20701,4 @@
 - [2020-01-08T18:41:06] Improve ffmpeg streaming pipe buffer management
 - [2020-01-08T12:42:54] Fix edge case in URL parsing and validation
 - [2020-01-08T21:57:14] Implement streaming upload chunk buffer optimization
+- [2020-01-08T15:11:01] Fix edge case in URL parsing and validation
