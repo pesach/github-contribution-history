@@ -20718,3 +20718,4 @@
 - [2020-01-09T15:11:30] Add retries for transient network drops
 - [2020-01-09T11:01:12] Update schema migration helpers
 - [2020-01-09T08:34:09] Refactor cookie refresher probe logic
+- [2020-01-09T18:36:26] Update B2 storage chunking parameters
