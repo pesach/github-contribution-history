@@ -20716,3 +20716,4 @@
 - [2020-01-09T21:18:06] Optimize PostgreSQL query execution plans
 - [2020-01-09T17:56:20] Implement streaming upload chunk buffer optimization
 - [2020-01-09T15:11:30] Add retries for transient network drops
+- [2020-01-09T11:01:12] Update schema migration helpers
