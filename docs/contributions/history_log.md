@@ -20706,3 +20706,4 @@
 - [2020-01-08T12:32:28] Improve logging and health endpoint metrics
 - [2020-01-08T22:24:30] Improve ffmpeg streaming pipe buffer management
 - [2020-01-08T15:15:55] Refactor cookie refresher probe logic
+- [2020-01-08T22:53:41] Add error handling for yt-dlp rate limits
