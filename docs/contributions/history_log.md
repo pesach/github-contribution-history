@@ -20720,3 +20720,4 @@
 - [2020-01-09T08:34:09] Refactor cookie refresher probe logic
 - [2020-01-09T18:36:26] Update B2 storage chunking parameters
 - [2020-01-09T20:20:25] Refactor worker polling logic
+- [2020-01-10T22:53:44] Update schema migration helpers
