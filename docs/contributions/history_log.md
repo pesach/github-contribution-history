@@ -20730,3 +20730,4 @@
 - [2020-01-10T08:24:51] Refactor storage upload retry mechanism
 - [2020-01-11T13:35:55] Improve ffmpeg streaming pipe buffer management
 - [2020-01-11T15:03:55] Add retries for transient network drops
+- [2020-01-11T20:32:34] Update schema migration helpers
