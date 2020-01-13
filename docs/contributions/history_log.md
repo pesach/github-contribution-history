@@ -20742,3 +20742,4 @@
 - [2020-01-13T17:21:09] Update B2 storage chunking parameters
 - [2020-01-13T21:15:56] Improve logging and health endpoint metrics
 - [2020-01-13T12:46:53] Fix edge case in URL parsing and validation
+- [2020-01-13T08:11:18] Clean up legacy worker task routines
