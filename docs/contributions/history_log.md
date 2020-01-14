@@ -20746,3 +20746,4 @@
 - [2020-01-13T11:27:42] Add Redis rate limit backoff handlers
 - [2020-01-13T17:22:08] Update automated pytest test suites
 - [2020-01-14T08:09:44] Optimize PostgreSQL query execution plans
+- [2020-01-14T10:55:44] Update schema migration helpers
