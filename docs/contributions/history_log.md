@@ -20751,3 +20751,4 @@
 - [2020-01-14T15:03:36] Update B2 storage chunking parameters
 - [2020-01-14T08:11:21] Improve logging and health endpoint metrics
 - [2020-01-14T10:09:32] Refactor storage upload retry mechanism
+- [2020-01-14T19:01:57] Improve ffmpeg streaming pipe buffer management
