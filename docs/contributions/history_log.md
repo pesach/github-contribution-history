@@ -20753,3 +20753,4 @@
 - [2020-01-14T10:09:32] Refactor storage upload retry mechanism
 - [2020-01-14T19:01:57] Improve ffmpeg streaming pipe buffer management
 - [2020-01-15T18:37:04] Fix edge case in channel tab crawler
+- [2020-01-15T09:35:47] Add error handling for yt-dlp rate limits
