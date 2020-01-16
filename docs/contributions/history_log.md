@@ -20773,3 +20773,4 @@
 - [2020-01-16T11:32:31] Update dependency lockfiles and requirements
 - [2020-01-16T20:28:54] Fix edge case in channel tab crawler
 - [2020-01-16T09:08:33] Refactor cookie refresher probe logic
+- [2020-01-16T09:25:54] Fix edge case in URL parsing and validation
