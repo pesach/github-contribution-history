@@ -20761,3 +20761,4 @@
 - [2020-01-15T15:29:48] Update B2 storage chunking parameters
 - [2020-01-15T18:37:44] Add Redis rate limit backoff handlers
 - [2020-01-15T12:40:30] Add retries for transient network drops
+- [2020-01-16T12:51:27] Implement streaming upload chunk buffer optimization
