@@ -20771,3 +20771,4 @@
 - [2020-01-16T22:32:15] Fix edge case in URL parsing and validation
 - [2020-01-16T17:33:06] Update schema migration helpers
 - [2020-01-16T11:32:31] Update dependency lockfiles and requirements
+- [2020-01-16T20:28:54] Fix edge case in channel tab crawler
