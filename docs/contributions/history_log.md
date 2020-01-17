@@ -20768,3 +20768,4 @@
 - [2020-01-16T15:18:29] Update dependency lockfiles and requirements
 - [2020-01-16T09:02:43] Update documentation and architectural guides
 - [2020-01-16T09:50:50] Fix edge case in channel tab crawler
+- [2020-01-16T22:32:15] Fix edge case in URL parsing and validation
