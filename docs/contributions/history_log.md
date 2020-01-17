@@ -20781,3 +20781,4 @@
 - [2020-01-17T09:14:41] Improve logging and health endpoint metrics
 - [2020-01-17T16:47:56] Fix edge case in channel tab crawler
 - [2020-01-17T10:41:33] Enhance dashboard statistics rendering
+- [2020-01-17T15:52:37] Fix edge case in channel tab crawler
