@@ -20786,3 +20786,4 @@
 - [2020-01-17T14:02:07] Refactor worker polling logic
 - [2020-01-17T17:55:06] Fix edge case in channel tab crawler
 - [2020-01-17T17:33:13] Add retries for transient network drops
+- [2020-01-17T09:09:12] Update B2 storage chunking parameters
