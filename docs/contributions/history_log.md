@@ -20789,3 +20789,4 @@
 - [2020-01-17T09:09:12] Update B2 storage chunking parameters
 - [2020-01-17T15:24:08] Refactor worker polling logic
 - [2020-01-18T20:08:04] Clean up legacy worker task routines
+- [2020-01-18T08:23:31] Fix edge case in URL parsing and validation
