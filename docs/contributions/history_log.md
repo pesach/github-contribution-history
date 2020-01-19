@@ -20791,3 +20791,4 @@
 - [2020-01-18T20:08:04] Clean up legacy worker task routines
 - [2020-01-18T08:23:31] Fix edge case in URL parsing and validation
 - [2020-01-18T08:22:23] Refactor storage upload retry mechanism
+- [2020-01-19T13:45:34] Add Prometheus exporter endpoints for queue length
