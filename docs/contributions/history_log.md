@@ -20799,3 +20799,4 @@
 - [2020-01-20T18:49:13] Add Redis rate limit backoff handlers
 - [2020-01-20T20:20:21] Add retries for transient network drops
 - [2020-01-20T15:02:32] Improve logging and health endpoint metrics
+- [2020-01-20T14:02:39] Add error handling for yt-dlp rate limits
