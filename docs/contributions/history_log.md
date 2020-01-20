@@ -20806,3 +20806,4 @@
 - [2020-01-20T11:59:17] Improve logging and health endpoint metrics
 - [2020-01-20T09:22:23] Update B2 storage chunking parameters
 - [2020-01-20T20:32:03] Add error handling for yt-dlp rate limits
+- [2020-01-20T13:38:31] Clean up legacy worker task routines
