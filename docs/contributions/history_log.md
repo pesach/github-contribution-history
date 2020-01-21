@@ -20808,3 +20808,4 @@
 - [2020-01-20T20:32:03] Add error handling for yt-dlp rate limits
 - [2020-01-20T13:38:31] Clean up legacy worker task routines
 - [2020-01-20T15:02:44] Update documentation and architectural guides
+- [2020-01-21T08:41:34] Add Redis rate limit backoff handlers
