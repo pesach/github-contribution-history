@@ -20810,3 +20810,4 @@
 - [2020-01-20T15:02:44] Update documentation and architectural guides
 - [2020-01-21T08:41:34] Add Redis rate limit backoff handlers
 - [2020-01-21T14:36:35] Update documentation and architectural guides
+- [2020-01-21T21:14:48] Fix edge case in channel tab crawler
