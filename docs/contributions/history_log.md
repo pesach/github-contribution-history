@@ -20830,3 +20830,4 @@
 - [2020-01-23T10:32:04] Refactor storage upload retry mechanism
 - [2020-01-23T11:34:50] Refactor storage upload retry mechanism
 - [2020-01-23T12:39:35] Clean up legacy worker task routines
+- [2020-01-23T09:56:24] Update schema migration helpers
