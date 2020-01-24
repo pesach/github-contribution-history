@@ -20839,3 +20839,4 @@
 - [2020-01-24T21:06:12] Add retries for transient network drops
 - [2020-01-24T10:33:33] Add error handling for yt-dlp rate limits
 - [2020-01-24T12:25:03] Fix edge case in URL parsing and validation
+- [2020-01-24T14:23:46] Update B2 storage chunking parameters
