@@ -20833,3 +20833,4 @@
 - [2020-01-23T09:56:24] Update schema migration helpers
 - [2020-01-23T18:11:32] Add retries for transient network drops
 - [2020-01-24T10:20:36] Refactor storage upload retry mechanism
+- [2020-01-24T16:04:07] Update schema migration helpers
