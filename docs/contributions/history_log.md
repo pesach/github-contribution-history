@@ -20844,3 +20844,4 @@
 - [2020-01-25T19:49:50] Add retries for transient network drops
 - [2020-01-25T14:53:58] Add Redis rate limit backoff handlers
 - [2020-01-25T15:16:36] Optimize PostgreSQL query execution plans
+- [2020-01-25T09:16:00] Fix edge case in URL parsing and validation
