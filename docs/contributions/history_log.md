@@ -20841,3 +20841,4 @@
 - [2020-01-24T12:25:03] Fix edge case in URL parsing and validation
 - [2020-01-24T14:23:46] Update B2 storage chunking parameters
 - [2020-01-24T15:47:07] Fix edge case in URL parsing and validation
+- [2020-01-25T19:49:50] Add retries for transient network drops
