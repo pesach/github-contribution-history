@@ -20858,3 +20858,4 @@
 - [2020-01-27T16:25:55] Add Redis rate limit backoff handlers
 - [2020-01-27T10:20:43] Improve ffmpeg streaming pipe buffer management
 - [2020-01-27T20:43:43] Implement streaming upload chunk buffer optimization
+- [2020-01-27T14:34:16] Fix edge case in URL parsing and validation
