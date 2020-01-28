@@ -20865,3 +20865,4 @@
 - [2020-01-28T15:38:36] Refactor cookie refresher probe logic
 - [2020-01-28T12:13:59] Update dependency lockfiles and requirements
 - [2020-01-28T22:48:59] Update dependency lockfiles and requirements
+- [2020-01-28T13:46:22] Clean up legacy worker task routines
