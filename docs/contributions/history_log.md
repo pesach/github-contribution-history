@@ -20873,3 +20873,4 @@
 - [2020-01-28T14:13:17] Add Redis rate limit backoff handlers
 - [2020-01-29T14:00:40] Refactor worker polling logic
 - [2020-01-29T09:16:59] Add error handling for yt-dlp rate limits
+- [2020-01-29T14:33:03] Update documentation and architectural guides
