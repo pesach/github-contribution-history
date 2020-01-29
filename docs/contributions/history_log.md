@@ -20871,3 +20871,4 @@
 - [2020-01-28T21:01:55] Update B2 storage chunking parameters
 - [2020-01-28T11:16:43] Fix edge case in URL parsing and validation
 - [2020-01-28T14:13:17] Add Redis rate limit backoff handlers
+- [2020-01-29T14:00:40] Refactor worker polling logic
