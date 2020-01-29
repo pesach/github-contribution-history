@@ -20877,3 +20877,4 @@
 - [2020-01-29T13:29:48] Implement streaming upload chunk buffer optimization
 - [2020-01-29T18:25:17] Optimize PostgreSQL query execution plans
 - [2020-01-29T13:40:45] Clean up legacy worker task routines
+- [2020-01-29T17:21:01] Update schema migration helpers
