@@ -20890,3 +20890,4 @@
 - [2020-01-30T14:45:43] Refactor worker polling logic
 - [2020-01-30T14:24:42] Update dependency lockfiles and requirements
 - [2020-01-30T20:17:06] Refactor worker polling logic
+- [2020-01-30T12:48:33] Add Prometheus exporter endpoints for queue length
