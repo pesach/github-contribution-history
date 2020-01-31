@@ -20885,3 +20885,4 @@
 - [2020-01-29T17:47:17] Add retries for transient network drops
 - [2020-01-29T10:52:57] Update dependency lockfiles and requirements
 - [2020-01-30T10:50:35] Refactor storage upload retry mechanism
+- [2020-01-30T22:35:08] Add Prometheus exporter endpoints for queue length
