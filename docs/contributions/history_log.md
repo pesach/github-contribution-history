@@ -20907,3 +20907,4 @@
 - [2020-01-31T15:55:14] Optimize PostgreSQL query execution plans
 - [2020-01-31T19:55:21] Update automated pytest test suites
 - [2020-01-31T20:52:30] Update B2 storage chunking parameters
+- [2020-01-31T16:17:07] Add error handling for yt-dlp rate limits
