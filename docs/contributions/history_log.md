@@ -20903,3 +20903,4 @@
 - [2020-01-31T09:55:33] Clean up legacy worker task routines
 - [2020-01-31T15:17:36] Improve logging and health endpoint metrics
 - [2020-01-31T19:36:28] Update schema migration helpers
+- [2020-01-31T21:04:29] Clean up legacy worker task routines
