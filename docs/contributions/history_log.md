@@ -20920,3 +20920,4 @@
 - [2020-02-03T10:01:47] Add retries for transient network drops
 - [2020-02-04T13:19:31] Add Prometheus exporter endpoints for queue length
 - [2020-02-04T20:03:21] Improve ffmpeg streaming pipe buffer management
+- [2020-02-04T17:00:26] Add error handling for yt-dlp rate limits
