@@ -20948,3 +20948,4 @@
 - [2020-02-06T18:56:16] Implement streaming upload chunk buffer optimization
 - [2020-02-06T21:57:50] Add retries for transient network drops
 - [2020-02-07T16:17:44] Add retries for transient network drops
+- [2020-02-07T12:29:07] Refactor cookie refresher probe logic
