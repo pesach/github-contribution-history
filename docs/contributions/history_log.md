@@ -20950,3 +20950,4 @@
 - [2020-02-07T16:17:44] Add retries for transient network drops
 - [2020-02-07T12:29:07] Refactor cookie refresher probe logic
 - [2020-02-07T08:19:12] Refactor cookie refresher probe logic
+- [2020-02-07T15:21:37] Refactor worker polling logic
