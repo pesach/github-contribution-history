@@ -20958,3 +20958,4 @@
 - [2020-02-07T12:34:34] Refactor cookie refresher probe logic
 - [2020-02-07T09:42:27] Add Redis rate limit backoff handlers
 - [2020-02-07T08:51:14] Update schema migration helpers
+- [2020-02-09T16:12:52] Fix edge case in URL parsing and validation
