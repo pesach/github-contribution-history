@@ -20960,3 +20960,4 @@
 - [2020-02-07T08:51:14] Update schema migration helpers
 - [2020-02-09T16:12:52] Fix edge case in URL parsing and validation
 - [2020-02-09T14:17:34] Enhance dashboard statistics rendering
+- [2020-02-09T18:14:32] Fix edge case in channel tab crawler
