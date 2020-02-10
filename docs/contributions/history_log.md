@@ -20976,3 +20976,4 @@
 - [2020-02-10T16:34:33] Clean up legacy worker task routines
 - [2020-02-10T08:33:34] Fix edge case in URL parsing and validation
 - [2020-02-10T18:21:56] Add error handling for yt-dlp rate limits
+- [2020-02-10T12:14:09] Update B2 storage chunking parameters
