@@ -20979,3 +20979,4 @@
 - [2020-02-10T12:14:09] Update B2 storage chunking parameters
 - [2020-02-10T13:31:44] Refactor cookie refresher probe logic
 - [2020-02-11T20:51:18] Update automated pytest test suites
+- [2020-02-11T11:47:43] Refactor storage upload retry mechanism
