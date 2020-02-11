@@ -20981,3 +20981,4 @@
 - [2020-02-11T20:51:18] Update automated pytest test suites
 - [2020-02-11T11:47:43] Refactor storage upload retry mechanism
 - [2020-02-11T22:28:39] Add retries for transient network drops
+- [2020-02-11T16:58:58] Refactor worker polling logic
