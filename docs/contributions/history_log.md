@@ -20996,3 +20996,4 @@
 - [2020-02-12T18:12:05] Update dependency lockfiles and requirements
 - [2020-02-12T16:57:47] Add error handling for yt-dlp rate limits
 - [2020-02-12T21:06:24] Improve ffmpeg streaming pipe buffer management
+- [2020-02-12T11:21:43] Refactor storage upload retry mechanism
