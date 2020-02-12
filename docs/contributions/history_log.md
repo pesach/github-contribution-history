@@ -20985,3 +20985,4 @@
 - [2020-02-11T21:50:56] Update documentation and architectural guides
 - [2020-02-11T17:07:47] Fix edge case in channel tab crawler
 - [2020-02-11T10:39:00] Optimize PostgreSQL query execution plans
+- [2020-02-12T11:54:06] Fix edge case in URL parsing and validation
