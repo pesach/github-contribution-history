@@ -20990,3 +20990,4 @@
 - [2020-02-12T19:34:33] Add Prometheus exporter endpoints for queue length
 - [2020-02-12T18:56:32] Add retries for transient network drops
 - [2020-02-12T10:47:39] Add retries for transient network drops
+- [2020-02-12T08:06:47] Update documentation and architectural guides
