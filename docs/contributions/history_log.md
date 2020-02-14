@@ -21018,3 +21018,4 @@
 - [2020-02-14T12:02:37] Update B2 storage chunking parameters
 - [2020-02-14T10:47:21] Enhance dashboard statistics rendering
 - [2020-02-14T18:30:01] Implement streaming upload chunk buffer optimization
+- [2020-02-14T17:20:55] Clean up legacy worker task routines
