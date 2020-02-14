@@ -21011,3 +21011,4 @@
 - [2020-02-14T21:46:49] Add error handling for yt-dlp rate limits
 - [2020-02-14T09:23:29] Update dependency lockfiles and requirements
 - [2020-02-14T22:04:29] Refactor worker polling logic
+- [2020-02-14T11:28:11] Add retries for transient network drops
