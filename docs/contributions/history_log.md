@@ -21015,3 +21015,4 @@
 - [2020-02-14T22:22:52] Fix edge case in URL parsing and validation
 - [2020-02-14T20:18:32] Improve ffmpeg streaming pipe buffer management
 - [2020-02-14T08:40:44] Update automated pytest test suites
+- [2020-02-14T12:02:37] Update B2 storage chunking parameters
