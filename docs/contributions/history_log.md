@@ -21012,3 +21012,4 @@
 - [2020-02-14T09:23:29] Update dependency lockfiles and requirements
 - [2020-02-14T22:04:29] Refactor worker polling logic
 - [2020-02-14T11:28:11] Add retries for transient network drops
+- [2020-02-14T22:22:52] Fix edge case in URL parsing and validation
