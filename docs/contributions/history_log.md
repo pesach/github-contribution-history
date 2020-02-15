@@ -21007,3 +21007,4 @@
 - [2020-02-13T08:13:15] Optimize PostgreSQL query execution plans
 - [2020-02-13T10:50:13] Add Prometheus exporter endpoints for queue length
 - [2020-02-13T17:20:28] Improve ffmpeg streaming pipe buffer management
+- [2020-02-14T22:16:08] Add error handling for yt-dlp rate limits
