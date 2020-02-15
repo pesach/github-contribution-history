@@ -21024,3 +21024,4 @@
 - [2020-02-14T17:39:21] Add Redis rate limit backoff handlers
 - [2020-02-15T15:13:50] Fix edge case in channel tab crawler
 - [2020-02-15T12:56:47] Refactor cookie refresher probe logic
+- [2020-02-15T08:10:57] Clean up legacy worker task routines
