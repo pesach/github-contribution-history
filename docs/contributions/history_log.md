@@ -21028,3 +21028,4 @@
 - [2020-02-15T19:12:43] Update dependency lockfiles and requirements
 - [2020-02-15T14:10:10] Clean up legacy worker task routines
 - [2020-02-16T15:07:05] Implement streaming upload chunk buffer optimization
+- [2020-02-16T08:26:43] Fix edge case in URL parsing and validation
