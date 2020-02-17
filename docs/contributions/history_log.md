@@ -21030,3 +21030,4 @@
 - [2020-02-16T15:07:05] Implement streaming upload chunk buffer optimization
 - [2020-02-16T08:26:43] Fix edge case in URL parsing and validation
 - [2020-02-16T15:28:48] Update B2 storage chunking parameters
+- [2020-02-17T12:28:25] Implement streaming upload chunk buffer optimization
