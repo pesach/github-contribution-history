@@ -21070,3 +21070,4 @@
 - [2020-02-20T22:41:24] Optimize PostgreSQL query execution plans
 - [2020-02-20T16:52:32] Improve logging and health endpoint metrics
 - [2020-02-20T19:10:46] Add retries for transient network drops
+- [2020-02-20T10:01:49] Fix edge case in URL parsing and validation
