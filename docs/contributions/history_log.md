@@ -21072,3 +21072,4 @@
 - [2020-02-20T19:10:46] Add retries for transient network drops
 - [2020-02-20T10:01:49] Fix edge case in URL parsing and validation
 - [2020-02-21T10:46:23] Update automated pytest test suites
+- [2020-02-21T11:48:25] Refactor worker polling logic
