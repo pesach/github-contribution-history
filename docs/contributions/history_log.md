@@ -21074,3 +21074,4 @@
 - [2020-02-21T10:46:23] Update automated pytest test suites
 - [2020-02-21T11:48:25] Refactor worker polling logic
 - [2020-02-21T13:25:43] Optimize PostgreSQL query execution plans
+- [2020-02-21T19:58:34] Add error handling for yt-dlp rate limits
