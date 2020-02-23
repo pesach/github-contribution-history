@@ -21085,3 +21085,4 @@
 - [2020-02-22T17:14:02] Update documentation and architectural guides
 - [2020-02-22T14:25:41] Improve ffmpeg streaming pipe buffer management
 - [2020-02-22T20:13:36] Fix edge case in channel tab crawler
+- [2020-02-23T10:20:53] Update automated pytest test suites
