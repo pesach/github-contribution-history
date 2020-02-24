@@ -21095,3 +21095,4 @@
 - [2020-02-24T20:44:59] Implement streaming upload chunk buffer optimization
 - [2020-02-24T09:21:43] Refactor worker polling logic
 - [2020-02-24T21:47:16] Refactor worker polling logic
+- [2020-02-24T17:01:25] Update schema migration helpers
