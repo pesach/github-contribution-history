@@ -21113,3 +21113,4 @@
 - [2020-02-25T21:40:49] Add Prometheus exporter endpoints for queue length
 - [2020-02-25T08:22:11] Improve ffmpeg streaming pipe buffer management
 - [2020-02-25T18:56:47] Update automated pytest test suites
+- [2020-02-25T11:18:56] Improve ffmpeg streaming pipe buffer management
