@@ -21107,3 +21107,4 @@
 - [2020-02-25T20:09:56] Update automated pytest test suites
 - [2020-02-25T09:32:21] Update dependency lockfiles and requirements
 - [2020-02-25T19:11:33] Refactor storage upload retry mechanism
+- [2020-02-25T09:44:22] Fix edge case in channel tab crawler
