@@ -21116,3 +21116,4 @@
 - [2020-02-25T11:18:56] Improve ffmpeg streaming pipe buffer management
 - [2020-02-25T14:21:23] Optimize PostgreSQL query execution plans
 - [2020-02-25T12:33:28] Improve ffmpeg streaming pipe buffer management
+- [2020-02-25T17:55:32] Update schema migration helpers
