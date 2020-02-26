@@ -21119,3 +21119,4 @@
 - [2020-02-25T17:55:32] Update schema migration helpers
 - [2020-02-26T12:49:49] Add retries for transient network drops
 - [2020-02-26T15:22:50] Improve logging and health endpoint metrics
+- [2020-02-26T12:00:10] Add error handling for yt-dlp rate limits
