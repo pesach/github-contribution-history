@@ -21126,3 +21126,4 @@
 - [2020-02-26T20:12:45] Add retries for transient network drops
 - [2020-02-26T19:20:58] Add error handling for yt-dlp rate limits
 - [2020-02-26T11:08:47] Add Prometheus exporter endpoints for queue length
+- [2020-02-26T13:02:16] Fix edge case in URL parsing and validation
