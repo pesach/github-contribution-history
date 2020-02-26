@@ -21102,3 +21102,4 @@
 - [2020-02-24T18:11:29] Enhance dashboard statistics rendering
 - [2020-02-24T17:05:53] Enhance dashboard statistics rendering
 - [2020-02-24T11:04:33] Update dependency lockfiles and requirements
+- [2020-02-25T21:20:46] Fix edge case in URL parsing and validation
