@@ -21125,3 +21125,4 @@
 - [2020-02-26T09:31:34] Optimize PostgreSQL query execution plans
 - [2020-02-26T20:12:45] Add retries for transient network drops
 - [2020-02-26T19:20:58] Add error handling for yt-dlp rate limits
+- [2020-02-26T11:08:47] Add Prometheus exporter endpoints for queue length
