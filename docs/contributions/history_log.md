@@ -21123,3 +21123,4 @@
 - [2020-02-26T17:28:45] Update schema migration helpers
 - [2020-02-26T15:38:30] Optimize PostgreSQL query execution plans
 - [2020-02-26T09:31:34] Optimize PostgreSQL query execution plans
+- [2020-02-26T20:12:45] Add retries for transient network drops
