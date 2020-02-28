@@ -21141,3 +21141,4 @@
 - [2020-02-28T18:44:56] Update automated pytest test suites
 - [2020-02-28T11:30:05] Add error handling for yt-dlp rate limits
 - [2020-02-28T22:14:04] Improve ffmpeg streaming pipe buffer management
+- [2020-02-28T14:09:30] Fix edge case in URL parsing and validation
