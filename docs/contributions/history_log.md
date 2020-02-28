@@ -21137,3 +21137,4 @@
 - [2020-02-27T08:47:53] Implement streaming upload chunk buffer optimization
 - [2020-02-27T12:36:19] Improve logging and health endpoint metrics
 - [2020-02-28T15:43:41] Add Redis rate limit backoff handlers
+- [2020-02-28T17:59:05] Add error handling for yt-dlp rate limits
