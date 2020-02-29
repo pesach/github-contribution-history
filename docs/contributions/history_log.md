@@ -21140,3 +21140,4 @@
 - [2020-02-28T17:59:05] Add error handling for yt-dlp rate limits
 - [2020-02-28T18:44:56] Update automated pytest test suites
 - [2020-02-28T11:30:05] Add error handling for yt-dlp rate limits
+- [2020-02-28T22:14:04] Improve ffmpeg streaming pipe buffer management
