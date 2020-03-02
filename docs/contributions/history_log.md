@@ -21157,3 +21157,4 @@
 - [2020-03-01T22:23:04] Improve ffmpeg streaming pipe buffer management
 - [2020-03-02T15:44:52] Add retries for transient network drops
 - [2020-03-02T13:57:24] Improve logging and health endpoint metrics
+- [2020-03-02T08:40:35] Update B2 storage chunking parameters
