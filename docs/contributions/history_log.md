@@ -21164,3 +21164,4 @@
 - [2020-03-02T15:43:38] Refactor worker polling logic
 - [2020-03-02T13:19:54] Improve ffmpeg streaming pipe buffer management
 - [2020-03-02T14:58:16] Refactor worker polling logic
+- [2020-03-02T11:26:50] Update schema migration helpers
