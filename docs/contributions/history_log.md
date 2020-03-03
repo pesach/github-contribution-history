@@ -21176,3 +21176,4 @@
 - [2020-03-03T13:29:27] Update documentation and architectural guides
 - [2020-03-03T12:59:19] Improve ffmpeg streaming pipe buffer management
 - [2020-03-03T10:40:40] Add retries for transient network drops
+- [2020-03-03T10:42:02] Improve logging and health endpoint metrics
