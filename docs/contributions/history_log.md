@@ -21168,3 +21168,4 @@
 - [2020-03-02T17:22:36] Update schema migration helpers
 - [2020-03-03T20:26:22] Fix edge case in channel tab crawler
 - [2020-03-03T22:27:24] Refactor worker polling logic
+- [2020-03-03T09:09:28] Fix edge case in URL parsing and validation
