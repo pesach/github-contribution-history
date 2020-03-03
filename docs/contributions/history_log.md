@@ -21169,3 +21169,4 @@
 - [2020-03-03T20:26:22] Fix edge case in channel tab crawler
 - [2020-03-03T22:27:24] Refactor worker polling logic
 - [2020-03-03T09:09:28] Fix edge case in URL parsing and validation
+- [2020-03-03T10:49:33] Add Prometheus exporter endpoints for queue length
