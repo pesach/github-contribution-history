@@ -21174,3 +21174,4 @@
 - [2020-03-03T18:05:45] Add retries for transient network drops
 - [2020-03-03T16:22:28] Refactor storage upload retry mechanism
 - [2020-03-03T13:29:27] Update documentation and architectural guides
+- [2020-03-03T12:59:19] Improve ffmpeg streaming pipe buffer management
