@@ -21186,3 +21186,4 @@
 - [2020-03-04T22:42:23] Add error handling for yt-dlp rate limits
 - [2020-03-04T17:12:30] Improve logging and health endpoint metrics
 - [2020-03-04T20:07:05] Add error handling for yt-dlp rate limits
+- [2020-03-04T08:00:50] Fix edge case in channel tab crawler
