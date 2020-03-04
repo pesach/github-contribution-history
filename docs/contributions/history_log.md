@@ -21179,3 +21179,4 @@
 - [2020-03-03T10:42:02] Improve logging and health endpoint metrics
 - [2020-03-03T08:47:40] Update dependency lockfiles and requirements
 - [2020-03-03T14:09:14] Add Redis rate limit backoff handlers
+- [2020-03-04T08:45:07] Optimize PostgreSQL query execution plans
