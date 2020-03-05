@@ -21181,3 +21181,4 @@
 - [2020-03-03T14:09:14] Add Redis rate limit backoff handlers
 - [2020-03-04T08:45:07] Optimize PostgreSQL query execution plans
 - [2020-03-04T12:00:22] Refactor storage upload retry mechanism
+- [2020-03-04T19:06:29] Add Redis rate limit backoff handlers
