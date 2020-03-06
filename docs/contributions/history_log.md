@@ -21188,3 +21188,4 @@
 - [2020-03-04T20:07:05] Add error handling for yt-dlp rate limits
 - [2020-03-04T08:00:50] Fix edge case in channel tab crawler
 - [2020-03-05T20:45:42] Update schema migration helpers
+- [2020-03-05T21:38:48] Add retries for transient network drops
