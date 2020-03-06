@@ -21202,3 +21202,4 @@
 - [2020-03-05T11:07:38] Fix edge case in channel tab crawler
 - [2020-03-06T15:55:24] Fix edge case in URL parsing and validation
 - [2020-03-06T08:48:03] Update B2 storage chunking parameters
+- [2020-03-06T14:15:20] Refactor cookie refresher probe logic
