@@ -21220,3 +21220,4 @@
 - [2020-03-09T09:00:12] Fix edge case in channel tab crawler
 - [2020-03-09T09:09:07] Improve logging and health endpoint metrics
 - [2020-03-09T17:56:01] Implement streaming upload chunk buffer optimization
+- [2020-03-09T22:33:20] Update schema migration helpers
