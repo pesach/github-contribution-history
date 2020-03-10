@@ -21236,3 +21236,4 @@
 - [2020-03-10T17:50:47] Refactor worker polling logic
 - [2020-03-10T17:47:19] Update schema migration helpers
 - [2020-03-10T22:40:01] Add retries for transient network drops
+- [2020-03-10T08:41:10] Add error handling for yt-dlp rate limits
