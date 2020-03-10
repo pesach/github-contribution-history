@@ -21231,3 +21231,4 @@
 - [2020-03-10T17:11:26] Fix edge case in URL parsing and validation
 - [2020-03-10T08:07:48] Update documentation and architectural guides
 - [2020-03-10T19:03:19] Improve logging and health endpoint metrics
+- [2020-03-10T19:57:52] Fix edge case in URL parsing and validation
