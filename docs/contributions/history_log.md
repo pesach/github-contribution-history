@@ -21233,3 +21233,4 @@
 - [2020-03-10T19:03:19] Improve logging and health endpoint metrics
 - [2020-03-10T19:57:52] Fix edge case in URL parsing and validation
 - [2020-03-10T19:40:12] Add retries for transient network drops
+- [2020-03-10T17:50:47] Refactor worker polling logic
