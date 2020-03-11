@@ -21239,3 +21239,4 @@
 - [2020-03-10T08:41:10] Add error handling for yt-dlp rate limits
 - [2020-03-11T12:05:46] Add Redis rate limit backoff handlers
 - [2020-03-11T15:59:14] Add Redis rate limit backoff handlers
+- [2020-03-11T16:34:20] Improve logging and health endpoint metrics
