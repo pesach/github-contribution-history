@@ -21241,3 +21241,4 @@
 - [2020-03-11T15:59:14] Add Redis rate limit backoff handlers
 - [2020-03-11T16:34:20] Improve logging and health endpoint metrics
 - [2020-03-11T21:34:51] Refactor storage upload retry mechanism
+- [2020-03-11T18:02:25] Fix edge case in URL parsing and validation
