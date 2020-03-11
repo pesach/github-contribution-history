@@ -21226,3 +21226,4 @@
 - [2020-03-09T13:12:31] Add Redis rate limit backoff handlers
 - [2020-03-09T15:15:51] Update dependency lockfiles and requirements
 - [2020-03-09T09:22:36] Fix edge case in channel tab crawler
+- [2020-03-10T21:02:01] Optimize PostgreSQL query execution plans
