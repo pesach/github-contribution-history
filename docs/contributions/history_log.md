@@ -21245,3 +21245,4 @@
 - [2020-03-11T13:22:02] Update documentation and architectural guides
 - [2020-03-11T18:21:06] Clean up legacy worker task routines
 - [2020-03-12T13:07:47] Update documentation and architectural guides
+- [2020-03-12T13:00:36] Refactor storage upload retry mechanism
