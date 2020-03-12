@@ -21257,3 +21257,4 @@
 - [2020-03-12T19:49:30] Add Prometheus exporter endpoints for queue length
 - [2020-03-12T11:30:32] Update automated pytest test suites
 - [2020-03-12T09:08:58] Fix edge case in channel tab crawler
+- [2020-03-12T08:45:40] Fix edge case in URL parsing and validation
