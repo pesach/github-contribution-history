@@ -21254,3 +21254,4 @@
 - [2020-03-12T21:27:21] Add retries for transient network drops
 - [2020-03-12T22:33:56] Update automated pytest test suites
 - [2020-03-12T21:55:09] Refactor cookie refresher probe logic
+- [2020-03-12T19:49:30] Add Prometheus exporter endpoints for queue length
