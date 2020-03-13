@@ -21261,3 +21261,4 @@
 - [2020-03-12T22:25:41] Improve logging and health endpoint metrics
 - [2020-03-13T17:18:26] Implement streaming upload chunk buffer optimization
 - [2020-03-13T11:46:51] Update automated pytest test suites
+- [2020-03-13T14:26:40] Update schema migration helpers
