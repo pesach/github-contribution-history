@@ -21264,3 +21264,4 @@
 - [2020-03-13T14:26:40] Update schema migration helpers
 - [2020-03-13T22:02:53] Add Redis rate limit backoff handlers
 - [2020-03-13T21:39:55] Update schema migration helpers
+- [2020-03-13T09:45:19] Fix edge case in channel tab crawler
