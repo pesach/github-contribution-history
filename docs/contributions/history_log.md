@@ -21272,3 +21272,4 @@
 - [2020-03-13T15:44:12] Improve ffmpeg streaming pipe buffer management
 - [2020-03-13T15:01:42] Add Redis rate limit backoff handlers
 - [2020-03-13T13:31:07] Update dependency lockfiles and requirements
+- [2020-03-14T10:48:30] Add Prometheus exporter endpoints for queue length
