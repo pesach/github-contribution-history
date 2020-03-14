@@ -21267,3 +21267,4 @@
 - [2020-03-13T09:45:19] Fix edge case in channel tab crawler
 - [2020-03-13T09:46:00] Refactor storage upload retry mechanism
 - [2020-03-13T15:21:16] Fix edge case in channel tab crawler
+- [2020-03-13T21:36:21] Update schema migration helpers
