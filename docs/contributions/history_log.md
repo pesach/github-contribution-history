@@ -21262,3 +21262,4 @@
 - [2020-03-13T17:18:26] Implement streaming upload chunk buffer optimization
 - [2020-03-13T11:46:51] Update automated pytest test suites
 - [2020-03-13T14:26:40] Update schema migration helpers
+- [2020-03-13T22:02:53] Add Redis rate limit backoff handlers
