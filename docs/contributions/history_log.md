@@ -21282,3 +21282,4 @@
 - [2020-03-15T19:39:16] Add Prometheus exporter endpoints for queue length
 - [2020-03-16T20:04:16] Add retries for transient network drops
 - [2020-03-16T21:51:57] Update documentation and architectural guides
+- [2020-03-16T14:06:22] Improve ffmpeg streaming pipe buffer management
