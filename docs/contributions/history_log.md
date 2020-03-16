@@ -21288,3 +21288,4 @@
 - [2020-03-16T16:16:38] Clean up legacy worker task routines
 - [2020-03-16T22:30:47] Add Redis rate limit backoff handlers
 - [2020-03-16T12:58:15] Add error handling for yt-dlp rate limits
+- [2020-03-16T13:07:51] Update schema migration helpers
