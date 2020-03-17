@@ -21291,3 +21291,4 @@
 - [2020-03-16T13:07:51] Update schema migration helpers
 - [2020-03-16T17:40:56] Optimize PostgreSQL query execution plans
 - [2020-03-17T16:13:19] Add error handling for yt-dlp rate limits
+- [2020-03-17T11:39:04] Refactor storage upload retry mechanism
