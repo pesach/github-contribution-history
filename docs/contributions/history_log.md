@@ -21325,3 +21325,4 @@
 - [2020-03-20T17:41:37] Update schema migration helpers
 - [2020-03-20T14:59:16] Enhance dashboard statistics rendering
 - [2020-03-20T21:01:03] Refactor cookie refresher probe logic
+- [2020-03-20T14:22:26] Fix edge case in URL parsing and validation
