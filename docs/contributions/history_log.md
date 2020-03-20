@@ -21322,3 +21322,4 @@
 - [2020-03-20T15:27:42] Enhance dashboard statistics rendering
 - [2020-03-20T17:04:09] Update automated pytest test suites
 - [2020-03-20T20:11:00] Fix edge case in channel tab crawler
+- [2020-03-20T17:41:37] Update schema migration helpers
