@@ -21330,3 +21330,4 @@
 - [2020-03-21T18:51:28] Update documentation and architectural guides
 - [2020-03-21T15:53:14] Improve ffmpeg streaming pipe buffer management
 - [2020-03-21T17:25:08] Update schema migration helpers
+- [2020-03-22T11:21:27] Refactor cookie refresher probe logic
