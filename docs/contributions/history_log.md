@@ -21331,3 +21331,4 @@
 - [2020-03-21T15:53:14] Improve ffmpeg streaming pipe buffer management
 - [2020-03-21T17:25:08] Update schema migration helpers
 - [2020-03-22T11:21:27] Refactor cookie refresher probe logic
+- [2020-03-22T14:14:39] Add error handling for yt-dlp rate limits
