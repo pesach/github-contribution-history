@@ -21338,3 +21338,4 @@
 - [2020-03-23T10:24:46] Refactor storage upload retry mechanism
 - [2020-03-23T21:11:41] Refactor storage upload retry mechanism
 - [2020-03-23T16:28:09] Add Redis rate limit backoff handlers
+- [2020-03-23T13:04:51] Update schema migration helpers
