@@ -21341,3 +21341,4 @@
 - [2020-03-23T13:04:51] Update schema migration helpers
 - [2020-03-23T10:12:48] Update B2 storage chunking parameters
 - [2020-03-23T13:16:10] Add retries for transient network drops
+- [2020-03-23T12:51:58] Add error handling for yt-dlp rate limits
