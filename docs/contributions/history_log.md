@@ -21340,3 +21340,4 @@
 - [2020-03-23T16:28:09] Add Redis rate limit backoff handlers
 - [2020-03-23T13:04:51] Update schema migration helpers
 - [2020-03-23T10:12:48] Update B2 storage chunking parameters
+- [2020-03-23T13:16:10] Add retries for transient network drops
