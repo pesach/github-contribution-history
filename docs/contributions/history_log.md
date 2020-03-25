@@ -21356,3 +21356,4 @@
 - [2020-03-25T19:04:27] Add error handling for yt-dlp rate limits
 - [2020-03-25T10:07:36] Fix edge case in URL parsing and validation
 - [2020-03-25T13:39:24] Fix edge case in URL parsing and validation
+- [2020-03-25T18:42:22] Update schema migration helpers
