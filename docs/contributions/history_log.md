@@ -21350,3 +21350,4 @@
 - [2020-03-24T10:46:20] Fix edge case in channel tab crawler
 - [2020-03-24T19:09:19] Clean up legacy worker task routines
 - [2020-03-25T22:26:04] Fix edge case in URL parsing and validation
+- [2020-03-25T17:04:33] Update schema migration helpers
