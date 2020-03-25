@@ -21361,3 +21361,4 @@
 - [2020-03-25T16:01:32] Clean up legacy worker task routines
 - [2020-03-25T21:11:56] Update schema migration helpers
 - [2020-03-25T20:40:11] Update B2 storage chunking parameters
+- [2020-03-25T16:30:38] Update schema migration helpers
