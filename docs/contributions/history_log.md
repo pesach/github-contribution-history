@@ -21370,3 +21370,4 @@
 - [2020-03-26T20:53:23] Update schema migration helpers
 - [2020-03-26T14:28:49] Refactor storage upload retry mechanism
 - [2020-03-26T19:37:05] Fix edge case in URL parsing and validation
+- [2020-03-26T15:49:49] Add Redis rate limit backoff handlers
