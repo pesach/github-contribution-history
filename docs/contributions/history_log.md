@@ -21360,3 +21360,4 @@
 - [2020-03-25T14:09:10] Add error handling for yt-dlp rate limits
 - [2020-03-25T16:01:32] Clean up legacy worker task routines
 - [2020-03-25T21:11:56] Update schema migration helpers
+- [2020-03-25T20:40:11] Update B2 storage chunking parameters
