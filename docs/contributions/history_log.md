@@ -21385,3 +21385,4 @@
 - [2020-03-27T17:37:36] Add retries for transient network drops
 - [2020-03-28T20:22:05] Refactor cookie refresher probe logic
 - [2020-03-28T08:29:48] Refactor cookie refresher probe logic
+- [2020-03-28T19:19:05] Improve logging and health endpoint metrics
