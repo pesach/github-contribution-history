@@ -21386,3 +21386,4 @@
 - [2020-03-28T20:22:05] Refactor cookie refresher probe logic
 - [2020-03-28T08:29:48] Refactor cookie refresher probe logic
 - [2020-03-28T19:19:05] Improve logging and health endpoint metrics
+- [2020-03-28T17:07:57] Fix edge case in URL parsing and validation
