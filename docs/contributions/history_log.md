@@ -21392,3 +21392,4 @@
 - [2020-03-29T14:14:41] Update schema migration helpers
 - [2020-03-29T08:41:50] Optimize PostgreSQL query execution plans
 - [2020-03-29T09:21:13] Update B2 storage chunking parameters
+- [2020-03-29T11:48:27] Clean up legacy worker task routines
