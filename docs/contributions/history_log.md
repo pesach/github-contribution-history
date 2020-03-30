@@ -21396,3 +21396,4 @@
 - [2020-03-29T15:43:15] Improve logging and health endpoint metrics
 - [2020-03-30T17:38:43] Refactor cookie refresher probe logic
 - [2020-03-30T16:03:31] Fix edge case in channel tab crawler
+- [2020-03-30T17:05:19] Add error handling for yt-dlp rate limits
