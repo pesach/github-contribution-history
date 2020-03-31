@@ -21401,3 +21401,4 @@
 - [2020-03-30T17:48:51] Improve logging and health endpoint metrics
 - [2020-03-30T16:08:33] Improve ffmpeg streaming pipe buffer management
 - [2020-03-30T16:15:53] Optimize PostgreSQL query execution plans
+- [2020-03-31T08:53:23] Update schema migration helpers
