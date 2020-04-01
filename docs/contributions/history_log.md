@@ -21412,3 +21412,4 @@
 - [2020-04-01T22:03:44] Refactor cookie refresher probe logic
 - [2020-04-01T20:48:56] Optimize PostgreSQL query execution plans
 - [2020-04-01T18:57:17] Optimize PostgreSQL query execution plans
+- [2020-04-01T09:33:59] Fix edge case in URL parsing and validation
