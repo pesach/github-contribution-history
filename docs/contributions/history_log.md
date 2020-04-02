@@ -21408,3 +21408,4 @@
 - [2020-03-31T17:44:31] Update dependency lockfiles and requirements
 - [2020-03-31T11:41:45] Update automated pytest test suites
 - [2020-03-31T11:24:56] Add Prometheus exporter endpoints for queue length
+- [2020-04-01T21:41:34] Add retries for transient network drops
