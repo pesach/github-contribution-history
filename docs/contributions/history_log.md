@@ -21410,3 +21410,4 @@
 - [2020-03-31T11:24:56] Add Prometheus exporter endpoints for queue length
 - [2020-04-01T21:41:34] Add retries for transient network drops
 - [2020-04-01T22:03:44] Refactor cookie refresher probe logic
+- [2020-04-01T20:48:56] Optimize PostgreSQL query execution plans
