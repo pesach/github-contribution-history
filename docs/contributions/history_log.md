@@ -21415,3 +21415,4 @@
 - [2020-04-01T09:33:59] Fix edge case in URL parsing and validation
 - [2020-04-01T11:03:12] Improve logging and health endpoint metrics
 - [2020-04-02T09:46:45] Add Redis rate limit backoff handlers
+- [2020-04-02T22:58:48] Add error handling for yt-dlp rate limits
