@@ -21435,3 +21435,4 @@
 - [2020-04-05T18:29:32] Refactor cookie refresher probe logic
 - [2020-04-06T11:50:40] Refactor worker polling logic
 - [2020-04-06T18:03:42] Update schema migration helpers
+- [2020-04-06T17:29:51] Fix edge case in URL parsing and validation
