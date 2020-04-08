@@ -21449,3 +21449,4 @@
 - [2020-04-07T20:35:13] Update schema migration helpers
 - [2020-04-07T10:34:57] Update dependency lockfiles and requirements
 - [2020-04-07T22:52:42] Enhance dashboard statistics rendering
+- [2020-04-07T22:35:33] Fix edge case in channel tab crawler
