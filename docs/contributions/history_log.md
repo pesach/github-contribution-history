@@ -21450,3 +21450,4 @@
 - [2020-04-07T10:34:57] Update dependency lockfiles and requirements
 - [2020-04-07T22:52:42] Enhance dashboard statistics rendering
 - [2020-04-07T22:35:33] Fix edge case in channel tab crawler
+- [2020-04-07T22:20:52] Add error handling for yt-dlp rate limits
