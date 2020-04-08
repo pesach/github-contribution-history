@@ -21446,3 +21446,4 @@
 - [2020-04-06T10:22:13] Update B2 storage chunking parameters
 - [2020-04-06T16:13:54] Update automated pytest test suites
 - [2020-04-07T12:43:45] Add Prometheus exporter endpoints for queue length
+- [2020-04-07T20:35:13] Update schema migration helpers
