@@ -21463,3 +21463,4 @@
 - [2020-04-09T11:58:47] Optimize PostgreSQL query execution plans
 - [2020-04-09T19:13:44] Update automated pytest test suites
 - [2020-04-09T22:24:00] Update schema migration helpers
+- [2020-04-09T08:39:15] Add error handling for yt-dlp rate limits
