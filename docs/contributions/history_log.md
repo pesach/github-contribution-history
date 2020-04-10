@@ -21472,3 +21472,4 @@
 - [2020-04-10T22:41:53] Update dependency lockfiles and requirements
 - [2020-04-10T15:08:50] Refactor cookie refresher probe logic
 - [2020-04-10T16:18:08] Add retries for transient network drops
+- [2020-04-10T13:31:30] Clean up legacy worker task routines
