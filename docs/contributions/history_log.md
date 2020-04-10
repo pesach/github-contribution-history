@@ -21468,3 +21468,4 @@
 - [2020-04-09T08:14:41] Add Prometheus exporter endpoints for queue length
 - [2020-04-09T21:41:14] Improve ffmpeg streaming pipe buffer management
 - [2020-04-10T19:50:01] Fix edge case in channel tab crawler
+- [2020-04-10T08:55:59] Clean up legacy worker task routines
