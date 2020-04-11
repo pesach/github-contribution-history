@@ -21478,3 +21478,4 @@
 - [2020-04-10T09:16:36] Update dependency lockfiles and requirements
 - [2020-04-10T20:42:45] Clean up legacy worker task routines
 - [2020-04-10T15:36:34] Fix edge case in URL parsing and validation
+- [2020-04-10T21:30:09] Refactor worker polling logic
