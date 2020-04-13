@@ -21493,3 +21493,4 @@
 - [2020-04-13T19:17:56] Update documentation and architectural guides
 - [2020-04-13T13:20:38] Add Prometheus exporter endpoints for queue length
 - [2020-04-13T17:11:08] Update dependency lockfiles and requirements
+- [2020-04-13T16:41:20] Improve ffmpeg streaming pipe buffer management
