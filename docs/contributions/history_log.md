@@ -21488,3 +21488,4 @@
 - [2020-04-12T19:15:37] Fix edge case in channel tab crawler
 - [2020-04-12T15:03:20] Add Redis rate limit backoff handlers
 - [2020-04-12T17:07:45] Clean up legacy worker task routines
+- [2020-04-13T18:15:47] Improve logging and health endpoint metrics
