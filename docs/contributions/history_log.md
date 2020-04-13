@@ -21495,3 +21495,4 @@
 - [2020-04-13T17:11:08] Update dependency lockfiles and requirements
 - [2020-04-13T16:41:20] Improve ffmpeg streaming pipe buffer management
 - [2020-04-13T20:59:13] Update documentation and architectural guides
+- [2020-04-13T12:22:11] Add Redis rate limit backoff handlers
