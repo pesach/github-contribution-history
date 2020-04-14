@@ -21503,3 +21503,4 @@
 - [2020-04-14T19:24:40] Update dependency lockfiles and requirements
 - [2020-04-14T20:38:26] Implement streaming upload chunk buffer optimization
 - [2020-04-14T09:23:34] Update B2 storage chunking parameters
+- [2020-04-14T16:26:55] Refactor storage upload retry mechanism
