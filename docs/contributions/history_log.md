@@ -21499,3 +21499,4 @@
 - [2020-04-13T12:26:30] Refactor cookie refresher probe logic
 - [2020-04-13T13:33:13] Implement streaming upload chunk buffer optimization
 - [2020-04-14T17:28:37] Add Prometheus exporter endpoints for queue length
+- [2020-04-14T12:41:44] Update schema migration helpers
