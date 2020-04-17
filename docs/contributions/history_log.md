@@ -21521,3 +21521,4 @@
 - [2020-04-16T11:01:22] Update dependency lockfiles and requirements
 - [2020-04-16T15:19:00] Update schema migration helpers
 - [2020-04-16T16:50:17] Refactor worker polling logic
+- [2020-04-17T10:06:05] Fix edge case in channel tab crawler
