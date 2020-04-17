@@ -21511,3 +21511,4 @@
 - [2020-04-15T14:09:11] Enhance dashboard statistics rendering
 - [2020-04-15T17:40:39] Add Redis rate limit backoff handlers
 - [2020-04-15T15:20:42] Update dependency lockfiles and requirements
+- [2020-04-16T20:35:35] Refactor cookie refresher probe logic
