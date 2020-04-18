@@ -21525,3 +21525,4 @@
 - [2020-04-17T22:23:45] Update automated pytest test suites
 - [2020-04-17T18:55:51] Add retries for transient network drops
 - [2020-04-17T14:34:55] Optimize PostgreSQL query execution plans
+- [2020-04-17T22:36:58] Add Redis rate limit backoff handlers
