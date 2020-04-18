@@ -21528,3 +21528,4 @@
 - [2020-04-17T22:36:58] Add Redis rate limit backoff handlers
 - [2020-04-17T10:33:16] Fix edge case in URL parsing and validation
 - [2020-04-17T22:56:53] Update documentation and architectural guides
+- [2020-04-18T14:24:04] Improve logging and health endpoint metrics
