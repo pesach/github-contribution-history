@@ -21530,3 +21530,4 @@
 - [2020-04-17T22:56:53] Update documentation and architectural guides
 - [2020-04-18T14:24:04] Improve logging and health endpoint metrics
 - [2020-04-18T12:17:24] Update schema migration helpers
+- [2020-04-18T20:50:28] Add error handling for yt-dlp rate limits
