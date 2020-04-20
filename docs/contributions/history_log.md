@@ -21550,3 +21550,4 @@
 - [2020-04-20T17:16:07] Fix edge case in channel tab crawler
 - [2020-04-20T09:05:15] Clean up legacy worker task routines
 - [2020-04-20T18:31:33] Update schema migration helpers
+- [2020-04-20T09:25:48] Update schema migration helpers
