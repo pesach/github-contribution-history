@@ -21543,3 +21543,4 @@
 - [2020-04-20T19:09:52] Refactor cookie refresher probe logic
 - [2020-04-20T22:09:18] Implement streaming upload chunk buffer optimization
 - [2020-04-20T11:11:36] Update automated pytest test suites
+- [2020-04-20T09:44:03] Update B2 storage chunking parameters
