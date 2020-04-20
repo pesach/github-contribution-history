@@ -21546,3 +21546,4 @@
 - [2020-04-20T09:44:03] Update B2 storage chunking parameters
 - [2020-04-20T15:31:12] Refactor worker polling logic
 - [2020-04-20T15:25:58] Update automated pytest test suites
+- [2020-04-20T17:34:07] Fix edge case in channel tab crawler
