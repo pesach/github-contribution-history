@@ -21544,3 +21544,4 @@
 - [2020-04-20T22:09:18] Implement streaming upload chunk buffer optimization
 - [2020-04-20T11:11:36] Update automated pytest test suites
 - [2020-04-20T09:44:03] Update B2 storage chunking parameters
+- [2020-04-20T15:31:12] Refactor worker polling logic
