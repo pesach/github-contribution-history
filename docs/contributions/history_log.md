@@ -21563,3 +21563,4 @@
 - [2020-04-21T09:16:50] Improve logging and health endpoint metrics
 - [2020-04-21T20:19:45] Refactor storage upload retry mechanism
 - [2020-04-21T20:06:31] Refactor cookie refresher probe logic
+- [2020-04-21T12:54:21] Update B2 storage chunking parameters
