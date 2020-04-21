@@ -21555,3 +21555,4 @@
 - [2020-04-21T11:59:38] Refactor worker polling logic
 - [2020-04-21T20:36:41] Add error handling for yt-dlp rate limits
 - [2020-04-21T22:08:13] Update automated pytest test suites
+- [2020-04-21T14:40:24] Refactor storage upload retry mechanism
