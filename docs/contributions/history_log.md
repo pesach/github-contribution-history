@@ -21569,3 +21569,4 @@
 - [2020-04-22T13:32:02] Enhance dashboard statistics rendering
 - [2020-04-22T12:19:56] Update documentation and architectural guides
 - [2020-04-22T14:21:01] Add error handling for yt-dlp rate limits
+- [2020-04-22T13:35:11] Fix edge case in URL parsing and validation
