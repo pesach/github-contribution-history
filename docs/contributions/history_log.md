@@ -21565,3 +21565,4 @@
 - [2020-04-21T20:06:31] Refactor cookie refresher probe logic
 - [2020-04-21T12:54:21] Update B2 storage chunking parameters
 - [2020-04-21T20:30:50] Refactor storage upload retry mechanism
+- [2020-04-22T13:20:50] Add Prometheus exporter endpoints for queue length
