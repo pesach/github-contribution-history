@@ -21583,3 +21583,4 @@
 - [2020-04-23T18:47:11] Add error handling for yt-dlp rate limits
 - [2020-04-23T20:08:47] Optimize PostgreSQL query execution plans
 - [2020-04-23T15:05:01] Update schema migration helpers
+- [2020-04-23T15:49:25] Add Prometheus exporter endpoints for queue length
