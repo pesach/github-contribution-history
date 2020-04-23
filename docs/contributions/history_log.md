@@ -21582,3 +21582,4 @@
 - [2020-04-23T13:47:30] Fix edge case in channel tab crawler
 - [2020-04-23T18:47:11] Add error handling for yt-dlp rate limits
 - [2020-04-23T20:08:47] Optimize PostgreSQL query execution plans
+- [2020-04-23T15:05:01] Update schema migration helpers
