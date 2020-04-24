@@ -21589,3 +21589,4 @@
 - [2020-04-24T16:29:32] Update automated pytest test suites
 - [2020-04-24T22:03:53] Enhance dashboard statistics rendering
 - [2020-04-24T11:13:09] Update automated pytest test suites
+- [2020-04-24T12:05:58] Clean up legacy worker task routines
