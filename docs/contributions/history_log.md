@@ -21585,3 +21585,4 @@
 - [2020-04-23T15:05:01] Update schema migration helpers
 - [2020-04-23T15:49:25] Add Prometheus exporter endpoints for queue length
 - [2020-04-23T12:14:40] Add retries for transient network drops
+- [2020-04-24T20:22:04] Improve ffmpeg streaming pipe buffer management
