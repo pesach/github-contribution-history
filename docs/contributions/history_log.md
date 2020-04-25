@@ -21591,3 +21591,4 @@
 - [2020-04-24T11:13:09] Update automated pytest test suites
 - [2020-04-24T12:05:58] Clean up legacy worker task routines
 - [2020-04-24T08:08:47] Update B2 storage chunking parameters
+- [2020-04-24T20:21:19] Add Prometheus exporter endpoints for queue length
