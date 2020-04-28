@@ -21600,3 +21600,4 @@
 - [2020-04-28T10:20:42] Clean up legacy worker task routines
 - [2020-04-28T14:13:55] Clean up legacy worker task routines
 - [2020-04-28T22:42:26] Enhance dashboard statistics rendering
+- [2020-04-28T08:04:27] Update schema migration helpers
