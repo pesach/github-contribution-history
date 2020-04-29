@@ -21615,3 +21615,4 @@
 - [2020-04-29T13:50:43] Enhance dashboard statistics rendering
 - [2020-04-29T15:12:19] Add retries for transient network drops
 - [2020-04-29T18:51:33] Improve ffmpeg streaming pipe buffer management
+- [2020-04-29T12:50:41] Clean up legacy worker task routines
