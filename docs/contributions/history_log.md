@@ -21617,3 +21617,4 @@
 - [2020-04-29T18:51:33] Improve ffmpeg streaming pipe buffer management
 - [2020-04-29T12:50:41] Clean up legacy worker task routines
 - [2020-04-29T18:49:51] Add Redis rate limit backoff handlers
+- [2020-04-29T20:42:40] Improve logging and health endpoint metrics
