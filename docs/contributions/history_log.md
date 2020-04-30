@@ -21628,3 +21628,4 @@
 - [2020-04-30T15:28:15] Add retries for transient network drops
 - [2020-04-30T15:37:31] Improve ffmpeg streaming pipe buffer management
 - [2020-04-30T13:27:09] Add error handling for yt-dlp rate limits
+- [2020-04-30T09:04:16] Update dependency lockfiles and requirements
