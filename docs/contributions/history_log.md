@@ -21637,3 +21637,4 @@
 - [2020-04-30T09:45:32] Improve logging and health endpoint metrics
 - [2020-04-30T13:19:26] Improve logging and health endpoint metrics
 - [2020-05-01T16:40:48] Improve ffmpeg streaming pipe buffer management
+- [2020-05-01T10:08:12] Update documentation and architectural guides
