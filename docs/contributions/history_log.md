@@ -21642,3 +21642,4 @@
 - [2020-05-01T15:22:26] Add error handling for yt-dlp rate limits
 - [2020-05-01T13:59:26] Update B2 storage chunking parameters
 - [2020-05-01T12:38:22] Update automated pytest test suites
+- [2020-05-01T13:31:00] Clean up legacy worker task routines
