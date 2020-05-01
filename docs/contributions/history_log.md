@@ -21632,3 +21632,4 @@
 - [2020-04-30T16:55:57] Fix edge case in URL parsing and validation
 - [2020-04-30T19:58:10] Update automated pytest test suites
 - [2020-04-30T21:17:23] Optimize PostgreSQL query execution plans
+- [2020-04-30T22:51:39] Update B2 storage chunking parameters
