@@ -21647,3 +21647,4 @@
 - [2020-05-01T11:15:04] Fix edge case in channel tab crawler
 - [2020-05-01T14:21:48] Improve ffmpeg streaming pipe buffer management
 - [2020-05-01T18:44:00] Optimize PostgreSQL query execution plans
+- [2020-05-01T18:51:25] Add error handling for yt-dlp rate limits
