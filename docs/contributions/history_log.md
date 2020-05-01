@@ -21639,3 +21639,4 @@
 - [2020-05-01T16:40:48] Improve ffmpeg streaming pipe buffer management
 - [2020-05-01T10:08:12] Update documentation and architectural guides
 - [2020-05-01T20:46:09] Add retries for transient network drops
+- [2020-05-01T15:22:26] Add error handling for yt-dlp rate limits
