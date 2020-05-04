@@ -21666,3 +21666,4 @@
 - [2020-05-04T19:50:35] Implement streaming upload chunk buffer optimization
 - [2020-05-04T10:06:21] Implement streaming upload chunk buffer optimization
 - [2020-05-04T15:32:26] Improve ffmpeg streaming pipe buffer management
+- [2020-05-04T15:01:52] Update documentation and architectural guides
