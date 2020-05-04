@@ -21660,3 +21660,4 @@
 - [2020-05-04T22:49:40] Update schema migration helpers
 - [2020-05-04T17:47:10] Enhance dashboard statistics rendering
 - [2020-05-04T08:31:45] Add Prometheus exporter endpoints for queue length
+- [2020-05-04T13:48:22] Add retries for transient network drops
