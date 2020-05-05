@@ -21657,3 +21657,4 @@
 - [2020-05-03T17:46:26] Enhance dashboard statistics rendering
 - [2020-05-04T18:16:30] Update documentation and architectural guides
 - [2020-05-04T21:07:08] Refactor worker polling logic
+- [2020-05-04T22:49:40] Update schema migration helpers
