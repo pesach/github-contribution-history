@@ -21680,3 +21680,4 @@
 - [2020-05-05T17:14:30] Update B2 storage chunking parameters
 - [2020-05-05T15:05:50] Enhance dashboard statistics rendering
 - [2020-05-05T22:29:21] Update documentation and architectural guides
+- [2020-05-05T10:44:47] Add Prometheus exporter endpoints for queue length
