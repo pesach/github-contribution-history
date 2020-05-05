@@ -21675,3 +21675,4 @@
 - [2020-05-05T14:58:21] Update automated pytest test suites
 - [2020-05-05T12:01:47] Fix edge case in URL parsing and validation
 - [2020-05-05T09:35:35] Fix edge case in URL parsing and validation
+- [2020-05-05T13:20:37] Fix edge case in URL parsing and validation
