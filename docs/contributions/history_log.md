@@ -21681,3 +21681,4 @@
 - [2020-05-05T15:05:50] Enhance dashboard statistics rendering
 - [2020-05-05T22:29:21] Update documentation and architectural guides
 - [2020-05-05T10:44:47] Add Prometheus exporter endpoints for queue length
+- [2020-05-06T13:55:54] Refactor storage upload retry mechanism
