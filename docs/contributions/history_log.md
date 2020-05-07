@@ -21688,3 +21688,4 @@
 - [2020-05-06T21:02:56] Refactor cookie refresher probe logic
 - [2020-05-06T13:17:32] Update B2 storage chunking parameters
 - [2020-05-06T14:08:32] Update documentation and architectural guides
+- [2020-05-07T11:01:56] Update schema migration helpers
