@@ -21691,3 +21691,4 @@
 - [2020-05-07T11:01:56] Update schema migration helpers
 - [2020-05-07T20:02:02] Add Prometheus exporter endpoints for queue length
 - [2020-05-07T20:27:48] Improve logging and health endpoint metrics
+- [2020-05-07T21:59:55] Add retries for transient network drops
