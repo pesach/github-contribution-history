@@ -21703,3 +21703,4 @@
 - [2020-05-07T19:32:30] Update schema migration helpers
 - [2020-05-08T20:41:41] Clean up legacy worker task routines
 - [2020-05-08T15:18:13] Improve ffmpeg streaming pipe buffer management
+- [2020-05-08T11:46:56] Add retries for transient network drops
