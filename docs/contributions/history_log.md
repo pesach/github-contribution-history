@@ -21713,3 +21713,4 @@
 - [2020-05-08T13:24:19] Add error handling for yt-dlp rate limits
 - [2020-05-08T13:17:50] Add Redis rate limit backoff handlers
 - [2020-05-08T17:24:49] Enhance dashboard statistics rendering
+- [2020-05-08T11:13:52] Update B2 storage chunking parameters
