@@ -21690,3 +21690,4 @@
 - [2020-05-06T14:08:32] Update documentation and architectural guides
 - [2020-05-07T11:01:56] Update schema migration helpers
 - [2020-05-07T20:02:02] Add Prometheus exporter endpoints for queue length
+- [2020-05-07T20:27:48] Improve logging and health endpoint metrics
