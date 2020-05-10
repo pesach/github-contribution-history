@@ -21724,3 +21724,4 @@
 - [2020-05-10T18:38:34] Refactor cookie refresher probe logic
 - [2020-05-10T10:47:31] Clean up legacy worker task routines
 - [2020-05-10T09:27:37] Fix edge case in URL parsing and validation
+- [2020-05-10T12:41:17] Fix edge case in channel tab crawler
