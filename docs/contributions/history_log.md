@@ -21729,3 +21729,4 @@
 - [2020-05-11T10:01:34] Improve logging and health endpoint metrics
 - [2020-05-11T12:45:39] Fix edge case in URL parsing and validation
 - [2020-05-11T22:47:15] Update dependency lockfiles and requirements
+- [2020-05-11T09:34:59] Fix edge case in URL parsing and validation
