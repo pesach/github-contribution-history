@@ -21731,3 +21731,4 @@
 - [2020-05-11T22:47:15] Update dependency lockfiles and requirements
 - [2020-05-11T09:34:59] Fix edge case in URL parsing and validation
 - [2020-05-11T18:30:42] Add error handling for yt-dlp rate limits
+- [2020-05-12T19:02:43] Refactor worker polling logic
