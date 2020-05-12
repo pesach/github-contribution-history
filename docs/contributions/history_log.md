@@ -21742,3 +21742,4 @@
 - [2020-05-12T12:10:43] Fix edge case in URL parsing and validation
 - [2020-05-12T13:00:09] Add Prometheus exporter endpoints for queue length
 - [2020-05-12T08:19:29] Add Redis rate limit backoff handlers
+- [2020-05-12T16:13:45] Update automated pytest test suites
