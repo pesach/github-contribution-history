@@ -21747,3 +21747,4 @@
 - [2020-05-12T22:20:20] Update B2 storage chunking parameters
 - [2020-05-13T19:43:34] Implement streaming upload chunk buffer optimization
 - [2020-05-13T15:55:10] Fix edge case in URL parsing and validation
+- [2020-05-13T13:04:47] Add retries for transient network drops
