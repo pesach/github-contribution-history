@@ -21751,3 +21751,4 @@
 - [2020-05-13T09:47:19] Update schema migration helpers
 - [2020-05-13T12:14:45] Update automated pytest test suites
 - [2020-05-13T14:59:26] Refactor storage upload retry mechanism
+- [2020-05-13T11:46:26] Improve ffmpeg streaming pipe buffer management
