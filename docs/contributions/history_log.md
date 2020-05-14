@@ -21753,3 +21753,4 @@
 - [2020-05-13T14:59:26] Refactor storage upload retry mechanism
 - [2020-05-13T11:46:26] Improve ffmpeg streaming pipe buffer management
 - [2020-05-14T10:13:54] Implement streaming upload chunk buffer optimization
+- [2020-05-14T13:55:17] Fix edge case in URL parsing and validation
