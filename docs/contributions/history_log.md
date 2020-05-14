@@ -21758,3 +21758,4 @@
 - [2020-05-14T22:09:03] Update documentation and architectural guides
 - [2020-05-14T14:31:13] Update schema migration helpers
 - [2020-05-14T14:11:40] Update schema migration helpers
+- [2020-05-14T09:43:58] Refactor cookie refresher probe logic
