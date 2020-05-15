@@ -21767,3 +21767,4 @@
 - [2020-05-15T22:09:24] Improve logging and health endpoint metrics
 - [2020-05-15T20:41:05] Update automated pytest test suites
 - [2020-05-15T11:04:28] Refactor worker polling logic
+- [2020-05-15T16:56:35] Refactor storage upload retry mechanism
