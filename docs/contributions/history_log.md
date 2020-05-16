@@ -21763,3 +21763,4 @@
 - [2020-05-14T14:36:40] Update automated pytest test suites
 - [2020-05-14T08:34:56] Add retries for transient network drops
 - [2020-05-15T16:14:45] Add retries for transient network drops
+- [2020-05-15T21:42:28] Implement streaming upload chunk buffer optimization
