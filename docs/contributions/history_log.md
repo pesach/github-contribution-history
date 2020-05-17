@@ -21773,3 +21773,4 @@
 - [2020-05-17T14:44:35] Add retries for transient network drops
 - [2020-05-17T12:10:37] Improve logging and health endpoint metrics
 - [2020-05-17T12:49:45] Update B2 storage chunking parameters
+- [2020-05-17T14:06:54] Refactor cookie refresher probe logic
