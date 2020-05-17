@@ -21770,3 +21770,4 @@
 - [2020-05-15T16:56:35] Refactor storage upload retry mechanism
 - [2020-05-17T09:15:38] Add Prometheus exporter endpoints for queue length
 - [2020-05-17T19:30:55] Implement streaming upload chunk buffer optimization
+- [2020-05-17T14:44:35] Add retries for transient network drops
