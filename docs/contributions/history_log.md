@@ -21779,3 +21779,4 @@
 - [2020-05-18T12:39:21] Refactor storage upload retry mechanism
 - [2020-05-18T21:07:02] Optimize PostgreSQL query execution plans
 - [2020-05-18T22:53:26] Update schema migration helpers
+- [2020-05-18T12:05:10] Clean up legacy worker task routines
