@@ -21775,3 +21775,4 @@
 - [2020-05-17T12:49:45] Update B2 storage chunking parameters
 - [2020-05-17T14:06:54] Refactor cookie refresher probe logic
 - [2020-05-18T18:43:21] Refactor cookie refresher probe logic
+- [2020-05-18T17:32:10] Update documentation and architectural guides
