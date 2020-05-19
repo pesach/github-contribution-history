@@ -21784,3 +21784,4 @@
 - [2020-05-18T13:18:59] Update documentation and architectural guides
 - [2020-05-19T08:23:40] Optimize PostgreSQL query execution plans
 - [2020-05-19T13:09:34] Optimize PostgreSQL query execution plans
+- [2020-05-19T19:20:20] Add Redis rate limit backoff handlers
