@@ -21804,3 +21804,4 @@
 - [2020-05-20T21:32:09] Improve logging and health endpoint metrics
 - [2020-05-20T10:59:58] Update B2 storage chunking parameters
 - [2020-05-21T21:26:30] Update automated pytest test suites
+- [2020-05-21T08:25:52] Update documentation and architectural guides
