@@ -21803,3 +21803,4 @@
 - [2020-05-20T13:00:57] Refactor storage upload retry mechanism
 - [2020-05-20T21:32:09] Improve logging and health endpoint metrics
 - [2020-05-20T10:59:58] Update B2 storage chunking parameters
+- [2020-05-21T21:26:30] Update automated pytest test suites
