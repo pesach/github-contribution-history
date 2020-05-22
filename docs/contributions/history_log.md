@@ -21809,3 +21809,4 @@
 - [2020-05-21T19:14:13] Enhance dashboard statistics rendering
 - [2020-05-21T12:31:02] Improve ffmpeg streaming pipe buffer management
 - [2020-05-21T21:06:39] Implement streaming upload chunk buffer optimization
+- [2020-05-21T20:26:00] Clean up legacy worker task routines
