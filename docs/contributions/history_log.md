@@ -21835,3 +21835,4 @@
 - [2020-05-25T11:56:04] Add Prometheus exporter endpoints for queue length
 - [2020-05-25T14:48:18] Optimize PostgreSQL query execution plans
 - [2020-05-25T15:12:47] Improve ffmpeg streaming pipe buffer management
+- [2020-05-25T11:36:05] Update schema migration helpers
