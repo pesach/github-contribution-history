@@ -21828,3 +21828,4 @@
 - [2020-05-24T11:24:31] Update dependency lockfiles and requirements
 - [2020-05-24T11:23:22] Fix edge case in URL parsing and validation
 - [2020-05-25T12:53:26] Fix edge case in channel tab crawler
+- [2020-05-25T17:12:44] Add error handling for yt-dlp rate limits
