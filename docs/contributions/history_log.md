@@ -21848,3 +21848,4 @@
 - [2020-05-26T12:03:58] Fix edge case in URL parsing and validation
 - [2020-05-26T09:42:25] Add Redis rate limit backoff handlers
 - [2020-05-26T19:01:22] Add Prometheus exporter endpoints for queue length
+- [2020-05-26T08:52:01] Add retries for transient network drops
