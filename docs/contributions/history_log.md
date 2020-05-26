@@ -21839,3 +21839,4 @@
 - [2020-05-26T22:57:53] Optimize PostgreSQL query execution plans
 - [2020-05-26T11:16:57] Implement streaming upload chunk buffer optimization
 - [2020-05-26T12:26:14] Update dependency lockfiles and requirements
+- [2020-05-26T19:19:04] Add Prometheus exporter endpoints for queue length
