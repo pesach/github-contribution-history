@@ -21855,3 +21855,4 @@
 - [2020-05-27T10:52:43] Clean up legacy worker task routines
 - [2020-05-27T08:30:30] Implement streaming upload chunk buffer optimization
 - [2020-05-27T09:35:42] Add Prometheus exporter endpoints for queue length
+- [2020-05-27T10:29:41] Update B2 storage chunking parameters
