@@ -21872,3 +21872,4 @@
 - [2020-05-28T21:28:05] Refactor worker polling logic
 - [2020-05-28T22:05:48] Fix edge case in URL parsing and validation
 - [2020-05-30T14:02:25] Refactor worker polling logic
+- [2020-05-30T17:50:21] Clean up legacy worker task routines
