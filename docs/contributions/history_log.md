@@ -21878,3 +21878,4 @@
 - [2020-05-30T17:22:49] Clean up legacy worker task routines
 - [2020-05-31T17:54:07] Improve logging and health endpoint metrics
 - [2020-05-31T14:10:39] Improve ffmpeg streaming pipe buffer management
+- [2020-05-31T15:38:13] Update B2 storage chunking parameters
