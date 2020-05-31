@@ -21880,3 +21880,4 @@
 - [2020-05-31T14:10:39] Improve ffmpeg streaming pipe buffer management
 - [2020-05-31T15:38:13] Update B2 storage chunking parameters
 - [2020-05-31T15:54:33] Fix edge case in channel tab crawler
+- [2020-05-31T18:28:01] Add Prometheus exporter endpoints for queue length
