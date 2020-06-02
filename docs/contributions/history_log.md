@@ -21902,3 +21902,4 @@
 - [2020-06-02T18:05:23] Update schema migration helpers
 - [2020-06-02T17:28:30] Improve ffmpeg streaming pipe buffer management
 - [2020-06-02T18:14:46] Enhance dashboard statistics rendering
+- [2020-06-02T15:29:58] Fix edge case in URL parsing and validation
