@@ -21900,3 +21900,4 @@
 - [2020-06-02T09:31:07] Update automated pytest test suites
 - [2020-06-02T19:25:46] Optimize PostgreSQL query execution plans
 - [2020-06-02T18:05:23] Update schema migration helpers
+- [2020-06-02T17:28:30] Improve ffmpeg streaming pipe buffer management
