@@ -21896,3 +21896,4 @@
 - [2020-06-01T11:39:17] Update B2 storage chunking parameters
 - [2020-06-01T15:12:19] Optimize PostgreSQL query execution plans
 - [2020-06-01T17:35:40] Improve ffmpeg streaming pipe buffer management
+- [2020-06-02T16:51:50] Update schema migration helpers
