@@ -21911,3 +21911,4 @@
 - [2020-06-02T12:33:12] Update documentation and architectural guides
 - [2020-06-02T20:09:18] Add Prometheus exporter endpoints for queue length
 - [2020-06-02T10:52:12] Refactor storage upload retry mechanism
+- [2020-06-03T18:12:41] Optimize PostgreSQL query execution plans
