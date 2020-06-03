@@ -21909,3 +21909,4 @@
 - [2020-06-02T14:38:41] Update dependency lockfiles and requirements
 - [2020-06-02T14:03:22] Enhance dashboard statistics rendering
 - [2020-06-02T12:33:12] Update documentation and architectural guides
+- [2020-06-02T20:09:18] Add Prometheus exporter endpoints for queue length
