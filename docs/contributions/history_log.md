@@ -21937,3 +21937,4 @@
 - [2020-06-05T11:21:20] Update documentation and architectural guides
 - [2020-06-05T14:54:24] Update dependency lockfiles and requirements
 - [2020-06-05T10:50:28] Update schema migration helpers
+- [2020-06-05T14:04:52] Update schema migration helpers
