@@ -21931,3 +21931,4 @@
 - [2020-06-04T16:23:31] Refactor worker polling logic
 - [2020-06-04T20:13:57] Update automated pytest test suites
 - [2020-06-05T19:46:36] Fix edge case in channel tab crawler
+- [2020-06-05T22:04:39] Update documentation and architectural guides
