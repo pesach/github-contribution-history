@@ -21940,3 +21940,4 @@
 - [2020-06-05T14:04:52] Update schema migration helpers
 - [2020-06-06T21:27:43] Update schema migration helpers
 - [2020-06-06T20:02:43] Refactor storage upload retry mechanism
+- [2020-06-06T20:12:13] Update schema migration helpers
