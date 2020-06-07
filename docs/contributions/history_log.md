@@ -21938,3 +21938,4 @@
 - [2020-06-05T14:54:24] Update dependency lockfiles and requirements
 - [2020-06-05T10:50:28] Update schema migration helpers
 - [2020-06-05T14:04:52] Update schema migration helpers
+- [2020-06-06T21:27:43] Update schema migration helpers
