@@ -21954,3 +21954,4 @@
 - [2020-06-09T20:45:42] Fix edge case in channel tab crawler
 - [2020-06-09T10:59:40] Fix edge case in URL parsing and validation
 - [2020-06-09T17:26:38] Update documentation and architectural guides
+- [2020-06-09T08:09:08] Add error handling for yt-dlp rate limits
