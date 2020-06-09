@@ -21962,3 +21962,4 @@
 - [2020-06-09T15:23:04] Improve ffmpeg streaming pipe buffer management
 - [2020-06-09T13:24:06] Update documentation and architectural guides
 - [2020-06-09T22:38:41] Add error handling for yt-dlp rate limits
+- [2020-06-09T11:24:41] Fix edge case in channel tab crawler
