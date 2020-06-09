@@ -21960,3 +21960,4 @@
 - [2020-06-09T09:44:18] Refactor cookie refresher probe logic
 - [2020-06-09T11:07:20] Add retries for transient network drops
 - [2020-06-09T15:23:04] Improve ffmpeg streaming pipe buffer management
+- [2020-06-09T13:24:06] Update documentation and architectural guides
