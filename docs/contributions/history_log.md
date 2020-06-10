@@ -21951,3 +21951,4 @@
 - [2020-06-08T19:12:02] Implement streaming upload chunk buffer optimization
 - [2020-06-08T21:38:21] Implement streaming upload chunk buffer optimization
 - [2020-06-09T13:33:19] Update dependency lockfiles and requirements
+- [2020-06-09T20:45:42] Fix edge case in channel tab crawler
