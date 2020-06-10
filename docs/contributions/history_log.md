@@ -21973,3 +21973,4 @@
 - [2020-06-10T08:47:05] Add Redis rate limit backoff handlers
 - [2020-06-10T10:01:56] Refactor cookie refresher probe logic
 - [2020-06-10T21:36:45] Improve ffmpeg streaming pipe buffer management
+- [2020-06-10T13:59:34] Add retries for transient network drops
