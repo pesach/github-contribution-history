@@ -21971,3 +21971,4 @@
 - [2020-06-10T21:32:14] Fix edge case in URL parsing and validation
 - [2020-06-10T19:10:06] Implement streaming upload chunk buffer optimization
 - [2020-06-10T08:47:05] Add Redis rate limit backoff handlers
+- [2020-06-10T10:01:56] Refactor cookie refresher probe logic
