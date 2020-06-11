@@ -21990,3 +21990,4 @@
 - [2020-06-11T08:44:46] Add Prometheus exporter endpoints for queue length
 - [2020-06-11T16:44:55] Update documentation and architectural guides
 - [2020-06-11T19:33:34] Fix edge case in channel tab crawler
+- [2020-06-11T11:53:04] Refactor cookie refresher probe logic
