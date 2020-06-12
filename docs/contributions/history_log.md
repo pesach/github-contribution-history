@@ -21980,3 +21980,4 @@
 - [2020-06-10T19:19:20] Fix edge case in URL parsing and validation
 - [2020-06-11T13:28:47] Update automated pytest test suites
 - [2020-06-11T10:57:38] Fix edge case in URL parsing and validation
+- [2020-06-11T20:24:58] Clean up legacy worker task routines
