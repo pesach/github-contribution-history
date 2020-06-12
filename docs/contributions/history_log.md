@@ -21982,3 +21982,4 @@
 - [2020-06-11T10:57:38] Fix edge case in URL parsing and validation
 - [2020-06-11T20:24:58] Clean up legacy worker task routines
 - [2020-06-11T13:04:19] Fix edge case in URL parsing and validation
+- [2020-06-11T20:16:54] Refactor cookie refresher probe logic
