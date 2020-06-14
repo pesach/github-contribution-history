@@ -22006,3 +22006,4 @@
 - [2020-06-14T18:22:03] Add retries for transient network drops
 - [2020-06-14T16:51:37] Refactor worker polling logic
 - [2020-06-14T22:13:36] Fix edge case in URL parsing and validation
+- [2020-06-14T18:29:34] Refactor storage upload retry mechanism
