@@ -22005,3 +22005,4 @@
 - [2020-06-12T11:57:08] Update schema migration helpers
 - [2020-06-14T18:22:03] Add retries for transient network drops
 - [2020-06-14T16:51:37] Refactor worker polling logic
+- [2020-06-14T22:13:36] Fix edge case in URL parsing and validation
