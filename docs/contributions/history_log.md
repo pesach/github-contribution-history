@@ -22021,3 +22021,4 @@
 - [2020-06-15T11:56:27] Fix edge case in URL parsing and validation
 - [2020-06-15T08:10:19] Update B2 storage chunking parameters
 - [2020-06-16T20:15:01] Improve ffmpeg streaming pipe buffer management
+- [2020-06-16T10:26:22] Clean up legacy worker task routines
