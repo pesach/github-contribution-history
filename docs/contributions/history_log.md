@@ -22030,3 +22030,4 @@
 - [2020-06-16T09:12:21] Enhance dashboard statistics rendering
 - [2020-06-16T22:06:14] Add error handling for yt-dlp rate limits
 - [2020-06-16T10:39:58] Refactor cookie refresher probe logic
+- [2020-06-16T19:47:15] Fix edge case in URL parsing and validation
