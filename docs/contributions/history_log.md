@@ -22011,3 +22011,4 @@
 - [2020-06-15T11:01:05] Update automated pytest test suites
 - [2020-06-15T11:37:11] Add error handling for yt-dlp rate limits
 - [2020-06-15T18:52:04] Implement streaming upload chunk buffer optimization
+- [2020-06-15T21:35:52] Clean up legacy worker task routines
