@@ -22020,3 +22020,4 @@
 - [2020-06-15T08:18:54] Add Prometheus exporter endpoints for queue length
 - [2020-06-15T11:56:27] Fix edge case in URL parsing and validation
 - [2020-06-15T08:10:19] Update B2 storage chunking parameters
+- [2020-06-16T20:15:01] Improve ffmpeg streaming pipe buffer management
