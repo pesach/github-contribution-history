@@ -22045,3 +22045,4 @@
 - [2020-06-17T09:31:54] Update automated pytest test suites
 - [2020-06-17T19:07:16] Update automated pytest test suites
 - [2020-06-17T17:33:18] Add retries for transient network drops
+- [2020-06-17T16:30:10] Refactor cookie refresher probe logic
