@@ -22049,3 +22049,4 @@
 - [2020-06-18T18:11:39] Add retries for transient network drops
 - [2020-06-18T10:06:23] Improve ffmpeg streaming pipe buffer management
 - [2020-06-18T17:28:59] Update schema migration helpers
+- [2020-06-18T14:03:29] Update documentation and architectural guides
