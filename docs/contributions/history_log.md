@@ -22059,3 +22059,4 @@
 - [2020-06-18T09:12:46] Update automated pytest test suites
 - [2020-06-18T14:43:13] Update documentation and architectural guides
 - [2020-06-18T18:50:09] Add retries for transient network drops
+- [2020-06-18T09:33:45] Add Prometheus exporter endpoints for queue length
