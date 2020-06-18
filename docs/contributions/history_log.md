@@ -22036,3 +22036,4 @@
 - [2020-06-17T14:06:18] Enhance dashboard statistics rendering
 - [2020-06-17T16:06:35] Update documentation and architectural guides
 - [2020-06-17T20:09:53] Fix edge case in channel tab crawler
+- [2020-06-17T22:18:24] Update B2 storage chunking parameters
