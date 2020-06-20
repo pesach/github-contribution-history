@@ -22067,3 +22067,4 @@
 - [2020-06-19T16:30:30] Update dependency lockfiles and requirements
 - [2020-06-19T19:06:25] Add retries for transient network drops
 - [2020-06-19T18:41:50] Add Redis rate limit backoff handlers
+- [2020-06-20T11:30:58] Update B2 storage chunking parameters
