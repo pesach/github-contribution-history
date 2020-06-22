@@ -22080,3 +22080,4 @@
 - [2020-06-22T14:33:21] Refactor worker polling logic
 - [2020-06-22T22:57:24] Add error handling for yt-dlp rate limits
 - [2020-06-22T09:57:50] Add error handling for yt-dlp rate limits
+- [2020-06-22T19:13:16] Add Prometheus exporter endpoints for queue length
