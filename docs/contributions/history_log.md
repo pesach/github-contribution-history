@@ -22097,3 +22097,4 @@
 - [2020-06-24T16:35:19] Update automated pytest test suites
 - [2020-06-24T13:52:47] Add Redis rate limit backoff handlers
 - [2020-06-24T12:15:28] Optimize PostgreSQL query execution plans
+- [2020-06-24T10:10:04] Clean up legacy worker task routines
