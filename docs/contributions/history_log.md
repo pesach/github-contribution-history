@@ -22113,3 +22113,4 @@
 - [2020-06-25T11:16:41] Improve ffmpeg streaming pipe buffer management
 - [2020-06-25T13:40:13] Update dependency lockfiles and requirements
 - [2020-06-25T09:07:39] Update schema migration helpers
+- [2020-06-25T13:38:21] Clean up legacy worker task routines
