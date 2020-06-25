@@ -22111,3 +22111,4 @@
 - [2020-06-25T21:55:51] Update automated pytest test suites
 - [2020-06-25T14:26:32] Update documentation and architectural guides
 - [2020-06-25T11:16:41] Improve ffmpeg streaming pipe buffer management
+- [2020-06-25T13:40:13] Update dependency lockfiles and requirements
