@@ -22115,3 +22115,4 @@
 - [2020-06-25T09:07:39] Update schema migration helpers
 - [2020-06-25T13:38:21] Clean up legacy worker task routines
 - [2020-06-25T10:32:28] Update schema migration helpers
+- [2020-06-25T20:46:30] Update schema migration helpers
