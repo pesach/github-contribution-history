@@ -22119,3 +22119,4 @@
 - [2020-06-25T22:12:26] Update dependency lockfiles and requirements
 - [2020-06-25T17:52:54] Fix edge case in channel tab crawler
 - [2020-06-25T08:21:12] Refactor cookie refresher probe logic
+- [2020-06-26T22:09:18] Update schema migration helpers
