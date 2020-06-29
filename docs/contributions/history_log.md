@@ -22136,3 +22136,4 @@
 - [2020-06-29T20:45:43] Refactor storage upload retry mechanism
 - [2020-06-29T17:54:20] Improve ffmpeg streaming pipe buffer management
 - [2020-06-29T22:39:25] Update B2 storage chunking parameters
+- [2020-06-29T11:07:36] Add error handling for yt-dlp rate limits
