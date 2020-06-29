@@ -22132,3 +22132,4 @@
 - [2020-06-26T08:34:48] Add Prometheus exporter endpoints for queue length
 - [2020-06-26T21:57:48] Clean up legacy worker task routines
 - [2020-06-29T10:01:38] Update B2 storage chunking parameters
+- [2020-06-29T16:43:52] Add Prometheus exporter endpoints for queue length
