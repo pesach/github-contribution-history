@@ -22151,3 +22151,4 @@
 - [2020-07-01T18:37:47] Add retries for transient network drops
 - [2020-07-01T21:29:28] Fix edge case in channel tab crawler
 - [2020-07-01T19:05:59] Update automated pytest test suites
+- [2020-07-01T11:34:42] Update schema migration helpers
