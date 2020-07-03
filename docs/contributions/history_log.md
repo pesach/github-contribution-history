@@ -22173,3 +22173,4 @@
 - [2020-07-02T15:34:57] Update automated pytest test suites
 - [2020-07-03T14:32:17] Improve ffmpeg streaming pipe buffer management
 - [2020-07-03T22:49:25] Add error handling for yt-dlp rate limits
+- [2020-07-03T13:09:37] Improve logging and health endpoint metrics
