@@ -22174,3 +22174,4 @@
 - [2020-07-03T14:32:17] Improve ffmpeg streaming pipe buffer management
 - [2020-07-03T22:49:25] Add error handling for yt-dlp rate limits
 - [2020-07-03T13:09:37] Improve logging and health endpoint metrics
+- [2020-07-03T19:59:03] Fix edge case in URL parsing and validation
