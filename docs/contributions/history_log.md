@@ -22179,3 +22179,4 @@
 - [2020-07-03T11:28:52] Update automated pytest test suites
 - [2020-07-04T14:26:59] Optimize PostgreSQL query execution plans
 - [2020-07-04T13:10:48] Optimize PostgreSQL query execution plans
+- [2020-07-04T19:55:05] Refactor worker polling logic
