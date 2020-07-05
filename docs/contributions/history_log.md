@@ -22184,3 +22184,4 @@
 - [2020-07-04T15:29:30] Fix edge case in URL parsing and validation
 - [2020-07-04T19:47:52] Refactor worker polling logic
 - [2020-07-05T20:22:16] Add error handling for yt-dlp rate limits
+- [2020-07-05T14:35:53] Update B2 storage chunking parameters
