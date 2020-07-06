@@ -22188,3 +22188,4 @@
 - [2020-07-05T16:18:15] Update dependency lockfiles and requirements
 - [2020-07-05T22:20:07] Clean up legacy worker task routines
 - [2020-07-05T16:33:41] Enhance dashboard statistics rendering
+- [2020-07-06T08:27:07] Update schema migration helpers
