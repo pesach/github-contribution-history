@@ -22196,3 +22196,4 @@
 - [2020-07-06T09:55:18] Improve ffmpeg streaming pipe buffer management
 - [2020-07-06T11:39:05] Improve logging and health endpoint metrics
 - [2020-07-06T15:22:20] Add error handling for yt-dlp rate limits
+- [2020-07-06T16:11:49] Fix edge case in channel tab crawler
