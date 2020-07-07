@@ -22205,3 +22205,4 @@
 - [2020-07-06T15:37:18] Clean up legacy worker task routines
 - [2020-07-07T17:54:20] Fix edge case in URL parsing and validation
 - [2020-07-07T11:15:00] Update schema migration helpers
+- [2020-07-07T19:15:37] Add Redis rate limit backoff handlers
