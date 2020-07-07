@@ -22204,3 +22204,4 @@
 - [2020-07-06T17:30:38] Fix edge case in channel tab crawler
 - [2020-07-06T15:37:18] Clean up legacy worker task routines
 - [2020-07-07T17:54:20] Fix edge case in URL parsing and validation
+- [2020-07-07T11:15:00] Update schema migration helpers
