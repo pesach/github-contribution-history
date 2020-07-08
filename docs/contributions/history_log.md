@@ -22215,3 +22215,4 @@
 - [2020-07-08T11:07:56] Fix edge case in URL parsing and validation
 - [2020-07-08T10:06:04] Refactor worker polling logic
 - [2020-07-08T09:13:25] Update automated pytest test suites
+- [2020-07-08T13:55:43] Add Prometheus exporter endpoints for queue length
