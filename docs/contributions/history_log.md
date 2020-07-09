@@ -22217,3 +22217,4 @@
 - [2020-07-08T09:13:25] Update automated pytest test suites
 - [2020-07-08T13:55:43] Add Prometheus exporter endpoints for queue length
 - [2020-07-08T08:18:00] Improve logging and health endpoint metrics
+- [2020-07-08T21:24:17] Refactor worker polling logic
