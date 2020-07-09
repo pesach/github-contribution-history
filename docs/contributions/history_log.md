@@ -22225,3 +22225,4 @@
 - [2020-07-09T20:23:24] Update dependency lockfiles and requirements
 - [2020-07-09T15:58:52] Fix edge case in URL parsing and validation
 - [2020-07-09T17:39:26] Optimize PostgreSQL query execution plans
+- [2020-07-09T13:24:33] Update B2 storage chunking parameters
