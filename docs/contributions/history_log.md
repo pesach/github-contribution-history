@@ -22223,3 +22223,4 @@
 - [2020-07-08T11:55:38] Update documentation and architectural guides
 - [2020-07-08T08:06:34] Clean up legacy worker task routines
 - [2020-07-09T20:23:24] Update dependency lockfiles and requirements
+- [2020-07-09T15:58:52] Fix edge case in URL parsing and validation
