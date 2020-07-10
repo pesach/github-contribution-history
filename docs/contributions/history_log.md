@@ -22232,3 +22232,4 @@
 - [2020-07-09T08:54:23] Update dependency lockfiles and requirements
 - [2020-07-09T11:45:40] Fix edge case in channel tab crawler
 - [2020-07-10T22:16:40] Add Prometheus exporter endpoints for queue length
+- [2020-07-10T13:29:28] Implement streaming upload chunk buffer optimization
