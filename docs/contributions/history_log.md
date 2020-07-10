@@ -22241,3 +22241,4 @@
 - [2020-07-10T08:16:06] Update B2 storage chunking parameters
 - [2020-07-10T20:34:50] Update documentation and architectural guides
 - [2020-07-10T10:01:41] Optimize PostgreSQL query execution plans
+- [2020-07-10T13:02:10] Clean up legacy worker task routines
