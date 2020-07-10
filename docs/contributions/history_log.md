@@ -22240,3 +22240,4 @@
 - [2020-07-10T18:37:29] Update documentation and architectural guides
 - [2020-07-10T08:16:06] Update B2 storage chunking parameters
 - [2020-07-10T20:34:50] Update documentation and architectural guides
+- [2020-07-10T10:01:41] Optimize PostgreSQL query execution plans
