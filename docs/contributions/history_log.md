@@ -22251,3 +22251,4 @@
 - [2020-07-13T18:35:34] Fix edge case in URL parsing and validation
 - [2020-07-13T21:30:34] Fix edge case in URL parsing and validation
 - [2020-07-13T08:58:23] Refactor storage upload retry mechanism
+- [2020-07-13T17:49:31] Update schema migration helpers
