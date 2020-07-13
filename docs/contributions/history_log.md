@@ -22261,3 +22261,4 @@
 - [2020-07-13T12:07:38] Add Redis rate limit backoff handlers
 - [2020-07-13T15:19:37] Update documentation and architectural guides
 - [2020-07-13T16:10:38] Improve logging and health endpoint metrics
+- [2020-07-13T18:02:11] Fix edge case in channel tab crawler
