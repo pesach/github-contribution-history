@@ -22253,3 +22253,4 @@
 - [2020-07-13T08:58:23] Refactor storage upload retry mechanism
 - [2020-07-13T17:49:31] Update schema migration helpers
 - [2020-07-13T15:26:52] Fix edge case in channel tab crawler
+- [2020-07-13T18:18:05] Update B2 storage chunking parameters
