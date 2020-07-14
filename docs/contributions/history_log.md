@@ -22249,3 +22249,4 @@
 - [2020-07-11T12:51:50] Implement streaming upload chunk buffer optimization
 - [2020-07-11T22:01:26] Add Redis rate limit backoff handlers
 - [2020-07-13T18:35:34] Fix edge case in URL parsing and validation
+- [2020-07-13T21:30:34] Fix edge case in URL parsing and validation
