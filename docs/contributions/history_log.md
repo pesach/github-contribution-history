@@ -22263,3 +22263,4 @@
 - [2020-07-13T16:10:38] Improve logging and health endpoint metrics
 - [2020-07-13T18:02:11] Fix edge case in channel tab crawler
 - [2020-07-13T15:27:39] Refactor storage upload retry mechanism
+- [2020-07-14T14:45:55] Fix edge case in channel tab crawler
