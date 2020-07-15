@@ -22276,3 +22276,4 @@
 - [2020-07-14T19:03:51] Add error handling for yt-dlp rate limits
 - [2020-07-14T09:46:30] Update automated pytest test suites
 - [2020-07-14T11:56:47] Add Prometheus exporter endpoints for queue length
+- [2020-07-15T18:36:58] Clean up legacy worker task routines
