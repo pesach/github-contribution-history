@@ -22281,3 +22281,4 @@
 - [2020-07-15T14:33:01] Update B2 storage chunking parameters
 - [2020-07-15T21:41:01] Improve logging and health endpoint metrics
 - [2020-07-15T21:07:21] Add retries for transient network drops
+- [2020-07-15T17:47:25] Update dependency lockfiles and requirements
