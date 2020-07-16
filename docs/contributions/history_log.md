@@ -22289,3 +22289,4 @@
 - [2020-07-16T13:39:27] Improve logging and health endpoint metrics
 - [2020-07-16T11:28:16] Fix edge case in URL parsing and validation
 - [2020-07-16T17:53:53] Enhance dashboard statistics rendering
+- [2020-07-16T15:05:32] Add error handling for yt-dlp rate limits
