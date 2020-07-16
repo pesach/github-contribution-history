@@ -22283,3 +22283,4 @@
 - [2020-07-15T21:07:21] Add retries for transient network drops
 - [2020-07-15T17:47:25] Update dependency lockfiles and requirements
 - [2020-07-16T21:05:31] Clean up legacy worker task routines
+- [2020-07-16T17:08:15] Refactor storage upload retry mechanism
