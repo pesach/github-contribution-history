@@ -22282,3 +22282,4 @@
 - [2020-07-15T21:41:01] Improve logging and health endpoint metrics
 - [2020-07-15T21:07:21] Add retries for transient network drops
 - [2020-07-15T17:47:25] Update dependency lockfiles and requirements
+- [2020-07-16T21:05:31] Clean up legacy worker task routines
