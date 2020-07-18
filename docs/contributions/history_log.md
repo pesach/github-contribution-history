@@ -22298,3 +22298,4 @@
 - [2020-07-17T10:23:42] Update schema migration helpers
 - [2020-07-18T15:51:50] Improve ffmpeg streaming pipe buffer management
 - [2020-07-18T15:58:10] Update automated pytest test suites
+- [2020-07-18T11:54:08] Fix edge case in URL parsing and validation
