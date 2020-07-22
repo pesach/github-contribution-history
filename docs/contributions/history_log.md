@@ -22300,3 +22300,4 @@
 - [2020-07-18T15:58:10] Update automated pytest test suites
 - [2020-07-18T11:54:08] Fix edge case in URL parsing and validation
 - [2020-07-21T10:46:44] Enhance dashboard statistics rendering
+- [2020-07-21T22:46:07] Fix edge case in URL parsing and validation
