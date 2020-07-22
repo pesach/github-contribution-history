@@ -22315,3 +22315,4 @@
 - [2020-07-22T17:24:24] Enhance dashboard statistics rendering
 - [2020-07-22T08:50:48] Fix edge case in channel tab crawler
 - [2020-07-22T21:20:33] Improve ffmpeg streaming pipe buffer management
+- [2020-07-22T09:10:57] Refactor cookie refresher probe logic
