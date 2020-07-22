@@ -22317,3 +22317,4 @@
 - [2020-07-22T21:20:33] Improve ffmpeg streaming pipe buffer management
 - [2020-07-22T09:10:57] Refactor cookie refresher probe logic
 - [2020-07-22T11:02:21] Update schema migration helpers
+- [2020-07-22T13:25:21] Fix edge case in URL parsing and validation
