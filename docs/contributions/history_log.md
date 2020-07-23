@@ -22324,3 +22324,4 @@
 - [2020-07-23T18:47:58] Implement streaming upload chunk buffer optimization
 - [2020-07-23T22:41:31] Add Redis rate limit backoff handlers
 - [2020-07-23T17:28:27] Update automated pytest test suites
+- [2020-07-23T08:01:17] Refactor worker polling logic
