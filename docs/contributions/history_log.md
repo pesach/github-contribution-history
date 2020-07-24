@@ -22336,3 +22336,4 @@
 - [2020-07-24T15:50:53] Clean up legacy worker task routines
 - [2020-07-24T16:54:17] Improve ffmpeg streaming pipe buffer management
 - [2020-07-24T08:17:45] Refactor cookie refresher probe logic
+- [2020-07-24T14:15:46] Add retries for transient network drops
