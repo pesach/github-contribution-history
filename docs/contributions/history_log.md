@@ -22344,3 +22344,4 @@
 - [2020-07-26T22:47:02] Update B2 storage chunking parameters
 - [2020-07-26T09:09:06] Enhance dashboard statistics rendering
 - [2020-07-26T18:35:15] Update documentation and architectural guides
+- [2020-07-26T22:27:41] Clean up legacy worker task routines
