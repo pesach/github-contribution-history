@@ -22353,3 +22353,4 @@
 - [2020-07-27T11:38:46] Add error handling for yt-dlp rate limits
 - [2020-07-27T20:27:15] Add error handling for yt-dlp rate limits
 - [2020-07-28T19:21:52] Update B2 storage chunking parameters
+- [2020-07-28T11:02:39] Add error handling for yt-dlp rate limits
