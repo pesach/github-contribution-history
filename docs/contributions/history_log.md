@@ -22351,3 +22351,4 @@
 - [2020-07-27T11:33:10] Update documentation and architectural guides
 - [2020-07-27T19:18:24] Add error handling for yt-dlp rate limits
 - [2020-07-27T11:38:46] Add error handling for yt-dlp rate limits
+- [2020-07-27T20:27:15] Add error handling for yt-dlp rate limits
