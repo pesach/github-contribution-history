@@ -22366,3 +22366,4 @@
 - [2020-07-29T14:28:54] Refactor storage upload retry mechanism
 - [2020-07-29T15:34:39] Add retries for transient network drops
 - [2020-07-29T10:29:29] Add Redis rate limit backoff handlers
+- [2020-07-29T20:35:39] Refactor worker polling logic
