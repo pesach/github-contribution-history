@@ -22375,3 +22375,4 @@
 - [2020-07-29T14:02:59] Add retries for transient network drops
 - [2020-07-29T15:04:19] Fix edge case in channel tab crawler
 - [2020-07-29T21:44:16] Improve ffmpeg streaming pipe buffer management
+- [2020-07-30T19:20:45] Fix edge case in channel tab crawler
