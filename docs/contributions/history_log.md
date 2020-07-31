@@ -22390,3 +22390,4 @@
 - [2020-07-31T18:55:30] Refactor worker polling logic
 - [2020-07-31T17:41:47] Clean up legacy worker task routines
 - [2020-07-31T16:08:04] Improve ffmpeg streaming pipe buffer management
+- [2020-07-31T10:27:56] Fix edge case in URL parsing and validation
