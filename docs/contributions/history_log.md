@@ -22388,3 +22388,4 @@
 - [2020-07-31T13:58:41] Refactor storage upload retry mechanism
 - [2020-07-31T18:32:01] Improve ffmpeg streaming pipe buffer management
 - [2020-07-31T18:55:30] Refactor worker polling logic
+- [2020-07-31T17:41:47] Clean up legacy worker task routines
