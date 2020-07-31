@@ -22386,3 +22386,4 @@
 - [2020-07-30T09:28:06] Refactor worker polling logic
 - [2020-07-31T19:50:06] Optimize PostgreSQL query execution plans
 - [2020-07-31T13:58:41] Refactor storage upload retry mechanism
+- [2020-07-31T18:32:01] Improve ffmpeg streaming pipe buffer management
