@@ -22396,3 +22396,4 @@
 - [2020-08-01T10:39:56] Update automated pytest test suites
 - [2020-08-01T15:44:08] Add Redis rate limit backoff handlers
 - [2020-08-01T17:46:07] Refactor storage upload retry mechanism
+- [2020-08-01T13:06:12] Update B2 storage chunking parameters
