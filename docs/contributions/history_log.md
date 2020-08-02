@@ -22398,3 +22398,4 @@
 - [2020-08-01T17:46:07] Refactor storage upload retry mechanism
 - [2020-08-01T13:06:12] Update B2 storage chunking parameters
 - [2020-08-02T11:13:13] Update B2 storage chunking parameters
+- [2020-08-02T13:43:56] Update dependency lockfiles and requirements
