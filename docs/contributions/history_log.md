@@ -22416,3 +22416,4 @@
 - [2020-08-04T18:20:03] Update dependency lockfiles and requirements
 - [2020-08-04T13:33:08] Update automated pytest test suites
 - [2020-08-04T10:27:01] Add error handling for yt-dlp rate limits
+- [2020-08-04T19:21:10] Fix edge case in channel tab crawler
