@@ -22419,3 +22419,4 @@
 - [2020-08-04T19:21:10] Fix edge case in channel tab crawler
 - [2020-08-04T14:18:02] Update B2 storage chunking parameters
 - [2020-08-04T17:17:37] Update documentation and architectural guides
+- [2020-08-04T19:45:33] Update schema migration helpers
