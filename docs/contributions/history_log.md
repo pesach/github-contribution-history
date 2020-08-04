@@ -22403,3 +22403,4 @@
 - [2020-08-02T14:49:08] Update automated pytest test suites
 - [2020-08-02T13:57:16] Implement streaming upload chunk buffer optimization
 - [2020-08-02T19:02:00] Add error handling for yt-dlp rate limits
+- [2020-08-03T22:45:51] Add Redis rate limit backoff handlers
