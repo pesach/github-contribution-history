@@ -22417,3 +22417,4 @@
 - [2020-08-04T13:33:08] Update automated pytest test suites
 - [2020-08-04T10:27:01] Add error handling for yt-dlp rate limits
 - [2020-08-04T19:21:10] Fix edge case in channel tab crawler
+- [2020-08-04T14:18:02] Update B2 storage chunking parameters
