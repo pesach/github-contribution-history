@@ -22437,3 +22437,4 @@
 - [2020-08-05T15:49:10] Update B2 storage chunking parameters
 - [2020-08-05T22:16:37] Update B2 storage chunking parameters
 - [2020-08-06T19:30:58] Add Redis rate limit backoff handlers
+- [2020-08-06T11:42:30] Add error handling for yt-dlp rate limits
