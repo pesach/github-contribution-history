@@ -22450,3 +22450,4 @@
 - [2020-08-07T09:23:35] Add Redis rate limit backoff handlers
 - [2020-08-07T20:42:45] Update schema migration helpers
 - [2020-08-07T11:13:55] Improve ffmpeg streaming pipe buffer management
+- [2020-08-07T20:12:27] Add Redis rate limit backoff handlers
