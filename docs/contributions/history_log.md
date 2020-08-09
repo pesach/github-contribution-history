@@ -22460,3 +22460,4 @@
 - [2020-08-09T14:32:49] Update B2 storage chunking parameters
 - [2020-08-09T14:46:31] Enhance dashboard statistics rendering
 - [2020-08-09T21:23:57] Update dependency lockfiles and requirements
+- [2020-08-09T16:18:09] Fix edge case in URL parsing and validation
