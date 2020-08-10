@@ -22461,3 +22461,4 @@
 - [2020-08-09T14:46:31] Enhance dashboard statistics rendering
 - [2020-08-09T21:23:57] Update dependency lockfiles and requirements
 - [2020-08-09T16:18:09] Fix edge case in URL parsing and validation
+- [2020-08-10T08:18:29] Refactor cookie refresher probe logic
