@@ -22468,3 +22468,4 @@
 - [2020-08-10T08:05:02] Refactor storage upload retry mechanism
 - [2020-08-10T13:27:12] Update dependency lockfiles and requirements
 - [2020-08-10T12:48:37] Refactor cookie refresher probe logic
+- [2020-08-10T21:52:49] Refactor worker polling logic
