@@ -22488,3 +22488,4 @@
 - [2020-08-12T18:39:49] Update documentation and architectural guides
 - [2020-08-12T10:31:37] Fix edge case in URL parsing and validation
 - [2020-08-12T21:07:43] Add Redis rate limit backoff handlers
+- [2020-08-12T12:05:30] Add retries for transient network drops
