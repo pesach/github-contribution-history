@@ -22495,3 +22495,4 @@
 - [2020-08-13T19:12:23] Update B2 storage chunking parameters
 - [2020-08-13T17:51:06] Add Prometheus exporter endpoints for queue length
 - [2020-08-13T21:04:22] Improve ffmpeg streaming pipe buffer management
+- [2020-08-13T12:12:33] Update schema migration helpers
