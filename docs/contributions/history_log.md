@@ -22498,3 +22498,4 @@
 - [2020-08-13T12:12:33] Update schema migration helpers
 - [2020-08-13T12:17:20] Update B2 storage chunking parameters
 - [2020-08-13T12:50:41] Refactor worker polling logic
+- [2020-08-13T17:00:18] Improve logging and health endpoint metrics
