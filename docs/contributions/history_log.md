@@ -22497,3 +22497,4 @@
 - [2020-08-13T21:04:22] Improve ffmpeg streaming pipe buffer management
 - [2020-08-13T12:12:33] Update schema migration helpers
 - [2020-08-13T12:17:20] Update B2 storage chunking parameters
+- [2020-08-13T12:50:41] Refactor worker polling logic
