@@ -22503,3 +22503,4 @@
 - [2020-08-13T18:35:46] Refactor cookie refresher probe logic
 - [2020-08-13T20:53:55] Add error handling for yt-dlp rate limits
 - [2020-08-14T16:55:38] Fix edge case in URL parsing and validation
+- [2020-08-14T09:46:27] Update schema migration helpers
