@@ -22506,3 +22506,4 @@
 - [2020-08-14T09:46:27] Update schema migration helpers
 - [2020-08-14T12:06:28] Improve ffmpeg streaming pipe buffer management
 - [2020-08-14T19:30:27] Fix edge case in URL parsing and validation
+- [2020-08-14T13:52:39] Update B2 storage chunking parameters
