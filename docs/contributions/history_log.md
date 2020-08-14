@@ -22514,3 +22514,4 @@
 - [2020-08-14T12:31:28] Update schema migration helpers
 - [2020-08-14T13:44:12] Update schema migration helpers
 - [2020-08-14T10:47:13] Fix edge case in URL parsing and validation
+- [2020-08-14T12:42:06] Update documentation and architectural guides
