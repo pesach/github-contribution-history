@@ -22518,3 +22518,4 @@
 - [2020-08-14T14:34:21] Improve logging and health endpoint metrics
 - [2020-08-14T14:22:57] Optimize PostgreSQL query execution plans
 - [2020-08-15T20:57:48] Add error handling for yt-dlp rate limits
+- [2020-08-15T15:59:41] Improve ffmpeg streaming pipe buffer management
