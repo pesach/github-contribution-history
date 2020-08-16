@@ -22523,3 +22523,4 @@
 - [2020-08-15T14:01:20] Fix edge case in channel tab crawler
 - [2020-08-16T14:02:22] Add Redis rate limit backoff handlers
 - [2020-08-16T21:58:33] Refactor storage upload retry mechanism
+- [2020-08-16T17:34:15] Improve logging and health endpoint metrics
