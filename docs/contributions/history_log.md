@@ -22521,3 +22521,4 @@
 - [2020-08-15T15:59:41] Improve ffmpeg streaming pipe buffer management
 - [2020-08-15T19:09:47] Update B2 storage chunking parameters
 - [2020-08-15T14:01:20] Fix edge case in channel tab crawler
+- [2020-08-16T14:02:22] Add Redis rate limit backoff handlers
