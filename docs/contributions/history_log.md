@@ -22517,3 +22517,4 @@
 - [2020-08-14T12:42:06] Update documentation and architectural guides
 - [2020-08-14T14:34:21] Improve logging and health endpoint metrics
 - [2020-08-14T14:22:57] Optimize PostgreSQL query execution plans
+- [2020-08-15T20:57:48] Add error handling for yt-dlp rate limits
