@@ -22536,3 +22536,4 @@
 - [2020-08-17T14:10:01] Update automated pytest test suites
 - [2020-08-17T16:48:30] Fix edge case in channel tab crawler
 - [2020-08-17T08:01:49] Update schema migration helpers
+- [2020-08-17T12:44:34] Add error handling for yt-dlp rate limits
