@@ -22531,3 +22531,4 @@
 - [2020-08-17T22:57:28] Implement streaming upload chunk buffer optimization
 - [2020-08-17T12:43:40] Add Redis rate limit backoff handlers
 - [2020-08-17T17:36:39] Update B2 storage chunking parameters
+- [2020-08-17T12:02:29] Fix edge case in channel tab crawler
