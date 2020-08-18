@@ -22538,3 +22538,4 @@
 - [2020-08-17T08:01:49] Update schema migration helpers
 - [2020-08-17T12:44:34] Add error handling for yt-dlp rate limits
 - [2020-08-17T16:58:31] Update automated pytest test suites
+- [2020-08-17T21:10:07] Refactor storage upload retry mechanism
