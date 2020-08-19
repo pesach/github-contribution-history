@@ -22548,3 +22548,4 @@
 - [2020-08-18T08:48:43] Improve ffmpeg streaming pipe buffer management
 - [2020-08-18T21:11:16] Fix edge case in channel tab crawler
 - [2020-08-19T10:16:39] Improve ffmpeg streaming pipe buffer management
+- [2020-08-19T17:36:39] Fix edge case in URL parsing and validation
