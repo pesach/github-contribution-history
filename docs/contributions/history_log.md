@@ -22560,3 +22560,4 @@
 - [2020-08-19T17:15:47] Improve logging and health endpoint metrics
 - [2020-08-20T14:51:48] Add error handling for yt-dlp rate limits
 - [2020-08-20T22:48:36] Update dependency lockfiles and requirements
+- [2020-08-20T12:01:15] Fix edge case in URL parsing and validation
