@@ -22568,3 +22568,4 @@
 - [2020-08-20T21:50:17] Add retries for transient network drops
 - [2020-08-20T18:53:15] Update B2 storage chunking parameters
 - [2020-08-20T13:08:47] Improve ffmpeg streaming pipe buffer management
+- [2020-08-20T20:13:43] Implement streaming upload chunk buffer optimization
