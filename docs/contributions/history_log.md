@@ -22579,3 +22579,4 @@
 - [2020-08-21T11:03:57] Fix edge case in channel tab crawler
 - [2020-08-21T17:08:06] Update dependency lockfiles and requirements
 - [2020-08-21T13:11:09] Enhance dashboard statistics rendering
+- [2020-08-22T08:55:35] Improve ffmpeg streaming pipe buffer management
