@@ -22587,3 +22587,4 @@
 - [2020-08-23T18:50:06] Refactor cookie refresher probe logic
 - [2020-08-23T21:02:25] Improve ffmpeg streaming pipe buffer management
 - [2020-08-23T19:11:55] Fix edge case in URL parsing and validation
+- [2020-08-24T09:30:53] Refactor worker polling logic
