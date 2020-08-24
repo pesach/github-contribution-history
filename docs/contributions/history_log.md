@@ -22589,3 +22589,4 @@
 - [2020-08-23T19:11:55] Fix edge case in URL parsing and validation
 - [2020-08-24T09:30:53] Refactor worker polling logic
 - [2020-08-24T14:01:41] Update schema migration helpers
+- [2020-08-24T09:44:08] Add error handling for yt-dlp rate limits
