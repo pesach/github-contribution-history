@@ -22601,3 +22601,4 @@
 - [2020-08-24T16:01:39] Fix edge case in channel tab crawler
 - [2020-08-24T12:48:28] Improve ffmpeg streaming pipe buffer management
 - [2020-08-25T18:11:49] Add Prometheus exporter endpoints for queue length
+- [2020-08-25T08:33:08] Optimize PostgreSQL query execution plans
