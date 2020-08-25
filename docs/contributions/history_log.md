@@ -22606,3 +22606,4 @@
 - [2020-08-25T18:12:58] Add retries for transient network drops
 - [2020-08-25T11:20:45] Fix edge case in URL parsing and validation
 - [2020-08-25T18:33:58] Improve ffmpeg streaming pipe buffer management
+- [2020-08-25T14:54:54] Update dependency lockfiles and requirements
