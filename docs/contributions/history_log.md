@@ -22600,3 +22600,4 @@
 - [2020-08-24T12:09:33] Implement streaming upload chunk buffer optimization
 - [2020-08-24T16:01:39] Fix edge case in channel tab crawler
 - [2020-08-24T12:48:28] Improve ffmpeg streaming pipe buffer management
+- [2020-08-25T18:11:49] Add Prometheus exporter endpoints for queue length
