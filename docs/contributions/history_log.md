@@ -22595,3 +22595,4 @@
 - [2020-08-24T16:14:21] Update dependency lockfiles and requirements
 - [2020-08-24T16:39:09] Enhance dashboard statistics rendering
 - [2020-08-24T09:14:46] Update automated pytest test suites
+- [2020-08-24T20:20:01] Add Redis rate limit backoff handlers
