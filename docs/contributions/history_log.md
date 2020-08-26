@@ -22613,3 +22613,4 @@
 - [2020-08-25T21:49:50] Implement streaming upload chunk buffer optimization
 - [2020-08-26T10:55:45] Fix edge case in URL parsing and validation
 - [2020-08-26T15:42:53] Update automated pytest test suites
+- [2020-08-26T14:52:22] Add Prometheus exporter endpoints for queue length
