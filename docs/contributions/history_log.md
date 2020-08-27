@@ -22618,3 +22618,4 @@
 - [2020-08-26T14:49:47] Update schema migration helpers
 - [2020-08-26T13:54:10] Optimize PostgreSQL query execution plans
 - [2020-08-26T13:11:29] Refactor cookie refresher probe logic
+- [2020-08-27T12:22:11] Refactor worker polling logic
