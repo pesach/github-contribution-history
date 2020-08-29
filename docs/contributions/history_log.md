@@ -22631,3 +22631,4 @@
 - [2020-08-27T19:50:21] Add retries for transient network drops
 - [2020-08-28T21:26:10] Implement streaming upload chunk buffer optimization
 - [2020-08-28T22:24:19] Add error handling for yt-dlp rate limits
+- [2020-08-28T20:07:38] Fix edge case in URL parsing and validation
