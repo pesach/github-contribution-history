@@ -22647,3 +22647,4 @@
 - [2020-08-29T17:04:56] Add Prometheus exporter endpoints for queue length
 - [2020-08-30T21:47:07] Add retries for transient network drops
 - [2020-08-30T18:56:51] Update automated pytest test suites
+- [2020-08-30T15:33:23] Update dependency lockfiles and requirements
