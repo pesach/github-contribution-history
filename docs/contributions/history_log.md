@@ -22641,3 +22641,4 @@
 - [2020-08-28T15:58:26] Clean up legacy worker task routines
 - [2020-08-28T12:59:02] Enhance dashboard statistics rendering
 - [2020-08-29T17:25:48] Update schema migration helpers
+- [2020-08-29T22:52:05] Add error handling for yt-dlp rate limits
