@@ -22660,3 +22660,4 @@
 - [2020-09-01T09:50:18] Refactor worker polling logic
 - [2020-09-01T20:25:33] Enhance dashboard statistics rendering
 - [2020-09-01T21:13:48] Fix edge case in URL parsing and validation
+- [2020-09-01T18:06:10] Add error handling for yt-dlp rate limits
