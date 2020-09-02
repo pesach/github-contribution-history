@@ -22675,3 +22675,4 @@
 - [2020-09-02T22:22:10] Refactor worker polling logic
 - [2020-09-02T18:43:20] Clean up legacy worker task routines
 - [2020-09-02T11:29:08] Update automated pytest test suites
+- [2020-09-02T19:18:42] Refactor storage upload retry mechanism
