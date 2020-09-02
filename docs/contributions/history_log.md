@@ -22665,3 +22665,4 @@
 - [2020-09-01T14:32:03] Improve ffmpeg streaming pipe buffer management
 - [2020-09-01T21:41:48] Update schema migration helpers
 - [2020-09-01T17:23:45] Fix edge case in channel tab crawler
+- [2020-09-02T13:22:16] Update automated pytest test suites
