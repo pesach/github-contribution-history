@@ -22663,3 +22663,4 @@
 - [2020-09-01T18:06:10] Add error handling for yt-dlp rate limits
 - [2020-09-01T14:52:40] Clean up legacy worker task routines
 - [2020-09-01T14:32:03] Improve ffmpeg streaming pipe buffer management
+- [2020-09-01T21:41:48] Update schema migration helpers
