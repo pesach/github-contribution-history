@@ -22684,3 +22684,4 @@
 - [2020-09-03T16:19:28] Optimize PostgreSQL query execution plans
 - [2020-09-03T20:53:26] Improve ffmpeg streaming pipe buffer management
 - [2020-09-03T13:13:17] Add retries for transient network drops
+- [2020-09-03T16:09:23] Clean up legacy worker task routines
