@@ -22687,3 +22687,4 @@
 - [2020-09-03T16:09:23] Clean up legacy worker task routines
 - [2020-09-03T21:41:17] Improve logging and health endpoint metrics
 - [2020-09-03T21:32:19] Refactor worker polling logic
+- [2020-09-03T22:07:28] Update schema migration helpers
