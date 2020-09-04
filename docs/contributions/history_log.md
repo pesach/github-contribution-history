@@ -22689,3 +22689,4 @@
 - [2020-09-03T21:32:19] Refactor worker polling logic
 - [2020-09-03T22:07:28] Update schema migration helpers
 - [2020-09-04T13:14:48] Update documentation and architectural guides
+- [2020-09-04T13:41:48] Refactor worker polling logic
