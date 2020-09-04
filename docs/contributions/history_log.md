@@ -22699,3 +22699,4 @@
 - [2020-09-04T10:33:07] Refactor storage upload retry mechanism
 - [2020-09-04T14:39:29] Refactor cookie refresher probe logic
 - [2020-09-04T11:45:21] Refactor storage upload retry mechanism
+- [2020-09-04T15:57:02] Fix edge case in URL parsing and validation
