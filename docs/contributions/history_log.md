@@ -22704,3 +22704,4 @@
 - [2020-09-05T15:47:38] Clean up legacy worker task routines
 - [2020-09-05T18:28:09] Optimize PostgreSQL query execution plans
 - [2020-09-05T09:53:11] Improve ffmpeg streaming pipe buffer management
+- [2020-09-05T10:58:55] Update B2 storage chunking parameters
