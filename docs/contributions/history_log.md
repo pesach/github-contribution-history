@@ -22707,3 +22707,4 @@
 - [2020-09-05T10:58:55] Update B2 storage chunking parameters
 - [2020-09-06T18:19:08] Add Prometheus exporter endpoints for queue length
 - [2020-09-06T13:43:32] Update dependency lockfiles and requirements
+- [2020-09-06T13:02:47] Update documentation and architectural guides
