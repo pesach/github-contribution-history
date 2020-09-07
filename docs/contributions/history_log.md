@@ -22712,3 +22712,4 @@
 - [2020-09-07T09:33:59] Refactor storage upload retry mechanism
 - [2020-09-07T12:08:23] Add retries for transient network drops
 - [2020-09-07T16:04:30] Update schema migration helpers
+- [2020-09-07T14:56:40] Refactor storage upload retry mechanism
