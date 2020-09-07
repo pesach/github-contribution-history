@@ -22715,3 +22715,4 @@
 - [2020-09-07T14:56:40] Refactor storage upload retry mechanism
 - [2020-09-07T09:54:07] Implement streaming upload chunk buffer optimization
 - [2020-09-07T13:15:53] Implement streaming upload chunk buffer optimization
+- [2020-09-07T12:18:05] Fix edge case in URL parsing and validation
