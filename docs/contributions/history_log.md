@@ -22722,3 +22722,4 @@
 - [2020-09-07T09:28:42] Implement streaming upload chunk buffer optimization
 - [2020-09-07T14:25:40] Update schema migration helpers
 - [2020-09-07T11:10:55] Update dependency lockfiles and requirements
+- [2020-09-08T11:16:08] Refactor cookie refresher probe logic
