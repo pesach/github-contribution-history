@@ -22734,3 +22734,4 @@
 - [2020-09-09T16:16:30] Clean up legacy worker task routines
 - [2020-09-09T19:26:02] Update documentation and architectural guides
 - [2020-09-09T12:13:04] Enhance dashboard statistics rendering
+- [2020-09-09T18:07:59] Add error handling for yt-dlp rate limits
