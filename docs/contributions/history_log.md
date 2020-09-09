@@ -22731,3 +22731,4 @@
 - [2020-09-09T15:23:20] Improve ffmpeg streaming pipe buffer management
 - [2020-09-09T13:22:14] Improve ffmpeg streaming pipe buffer management
 - [2020-09-09T15:10:16] Optimize PostgreSQL query execution plans
+- [2020-09-09T16:16:30] Clean up legacy worker task routines
