@@ -22743,3 +22743,4 @@
 - [2020-09-10T16:08:01] Update documentation and architectural guides
 - [2020-09-10T14:21:17] Update schema migration helpers
 - [2020-09-10T19:09:09] Add retries for transient network drops
+- [2020-09-10T15:44:46] Fix edge case in URL parsing and validation
