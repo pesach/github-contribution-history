@@ -22741,3 +22741,4 @@
 - [2020-09-10T10:47:19] Optimize PostgreSQL query execution plans
 - [2020-09-10T18:35:25] Update B2 storage chunking parameters
 - [2020-09-10T16:08:01] Update documentation and architectural guides
+- [2020-09-10T14:21:17] Update schema migration helpers
