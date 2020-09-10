@@ -22742,3 +22742,4 @@
 - [2020-09-10T18:35:25] Update B2 storage chunking parameters
 - [2020-09-10T16:08:01] Update documentation and architectural guides
 - [2020-09-10T14:21:17] Update schema migration helpers
+- [2020-09-10T19:09:09] Add retries for transient network drops
