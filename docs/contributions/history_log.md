@@ -22749,3 +22749,4 @@
 - [2020-09-11T22:25:18] Improve ffmpeg streaming pipe buffer management
 - [2020-09-11T16:46:29] Add retries for transient network drops
 - [2020-09-11T14:39:25] Update automated pytest test suites
+- [2020-09-11T14:02:02] Update B2 storage chunking parameters
