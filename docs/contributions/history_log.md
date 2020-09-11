@@ -22751,3 +22751,4 @@
 - [2020-09-11T14:39:25] Update automated pytest test suites
 - [2020-09-11T14:02:02] Update B2 storage chunking parameters
 - [2020-09-11T09:21:04] Enhance dashboard statistics rendering
+- [2020-09-11T19:15:28] Update schema migration helpers
