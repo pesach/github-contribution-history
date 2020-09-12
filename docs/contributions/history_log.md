@@ -22761,3 +22761,4 @@
 - [2020-09-12T19:47:41] Update schema migration helpers
 - [2020-09-12T16:27:07] Update automated pytest test suites
 - [2020-09-12T20:24:23] Update dependency lockfiles and requirements
+- [2020-09-12T19:33:53] Update B2 storage chunking parameters
