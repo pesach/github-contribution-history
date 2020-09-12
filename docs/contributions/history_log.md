@@ -22756,3 +22756,4 @@
 - [2020-09-11T14:40:16] Fix edge case in channel tab crawler
 - [2020-09-11T16:06:26] Fix edge case in URL parsing and validation
 - [2020-09-11T19:34:52] Update B2 storage chunking parameters
+- [2020-09-12T08:58:17] Update schema migration helpers
