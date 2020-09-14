@@ -22772,3 +22772,4 @@
 - [2020-09-14T15:54:00] Enhance dashboard statistics rendering
 - [2020-09-14T15:09:44] Update B2 storage chunking parameters
 - [2020-09-14T20:21:40] Update automated pytest test suites
+- [2020-09-14T16:14:07] Refactor cookie refresher probe logic
