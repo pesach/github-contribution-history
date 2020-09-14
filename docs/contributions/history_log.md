@@ -22763,3 +22763,4 @@
 - [2020-09-12T20:24:23] Update dependency lockfiles and requirements
 - [2020-09-12T19:33:53] Update B2 storage chunking parameters
 - [2020-09-14T14:27:38] Refactor worker polling logic
+- [2020-09-14T19:27:44] Add retries for transient network drops
