@@ -22784,3 +22784,4 @@
 - [2020-09-15T14:47:48] Implement streaming upload chunk buffer optimization
 - [2020-09-15T12:39:11] Update B2 storage chunking parameters
 - [2020-09-15T21:49:43] Update schema migration helpers
+- [2020-09-15T14:45:11] Refactor worker polling logic
