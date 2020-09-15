@@ -22779,3 +22779,4 @@
 - [2020-09-15T21:08:24] Add retries for transient network drops
 - [2020-09-15T18:50:26] Optimize PostgreSQL query execution plans
 - [2020-09-15T15:37:57] Add error handling for yt-dlp rate limits
+- [2020-09-15T08:22:54] Improve ffmpeg streaming pipe buffer management
