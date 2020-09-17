@@ -22789,3 +22789,4 @@
 - [2020-09-17T15:34:13] Add retries for transient network drops
 - [2020-09-17T21:25:18] Update automated pytest test suites
 - [2020-09-17T18:09:50] Refactor worker polling logic
+- [2020-09-17T10:25:43] Fix edge case in URL parsing and validation
