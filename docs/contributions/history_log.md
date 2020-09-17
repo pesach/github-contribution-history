@@ -22786,3 +22786,4 @@
 - [2020-09-15T21:49:43] Update schema migration helpers
 - [2020-09-15T14:45:11] Refactor worker polling logic
 - [2020-09-17T12:34:42] Refactor cookie refresher probe logic
+- [2020-09-17T15:34:13] Add retries for transient network drops
