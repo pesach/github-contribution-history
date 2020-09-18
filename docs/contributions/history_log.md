@@ -22792,3 +22792,4 @@
 - [2020-09-17T10:25:43] Fix edge case in URL parsing and validation
 - [2020-09-17T21:28:33] Fix edge case in channel tab crawler
 - [2020-09-17T19:30:22] Update documentation and architectural guides
+- [2020-09-18T13:23:18] Refactor worker polling logic
