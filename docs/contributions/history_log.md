@@ -22798,3 +22798,4 @@
 - [2020-09-18T19:43:02] Update dependency lockfiles and requirements
 - [2020-09-18T11:50:09] Refactor storage upload retry mechanism
 - [2020-09-18T10:33:10] Add Redis rate limit backoff handlers
+- [2020-09-18T16:57:55] Update schema migration helpers
