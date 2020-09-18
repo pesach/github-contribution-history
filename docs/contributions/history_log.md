@@ -22790,3 +22790,4 @@
 - [2020-09-17T21:25:18] Update automated pytest test suites
 - [2020-09-17T18:09:50] Refactor worker polling logic
 - [2020-09-17T10:25:43] Fix edge case in URL parsing and validation
+- [2020-09-17T21:28:33] Fix edge case in channel tab crawler
