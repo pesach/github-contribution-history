@@ -22803,3 +22803,4 @@
 - [2020-09-18T16:12:38] Refactor storage upload retry mechanism
 - [2020-09-19T08:57:51] Fix edge case in channel tab crawler
 - [2020-09-19T16:01:57] Update dependency lockfiles and requirements
+- [2020-09-19T15:29:54] Add error handling for yt-dlp rate limits
