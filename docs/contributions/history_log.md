@@ -22837,3 +22837,4 @@
 - [2020-09-23T12:09:56] Enhance dashboard statistics rendering
 - [2020-09-23T21:02:06] Update automated pytest test suites
 - [2020-09-23T17:47:43] Update automated pytest test suites
+- [2020-09-23T16:56:20] Fix edge case in channel tab crawler
