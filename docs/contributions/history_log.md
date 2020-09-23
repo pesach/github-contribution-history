@@ -22831,3 +22831,4 @@
 - [2020-09-22T17:27:48] Update schema migration helpers
 - [2020-09-22T09:38:57] Add error handling for yt-dlp rate limits
 - [2020-09-23T22:37:20] Update automated pytest test suites
+- [2020-09-23T08:43:33] Add retries for transient network drops
