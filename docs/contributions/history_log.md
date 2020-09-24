@@ -22840,3 +22840,4 @@
 - [2020-09-23T16:56:20] Fix edge case in channel tab crawler
 - [2020-09-23T13:58:18] Refactor storage upload retry mechanism
 - [2020-09-23T21:08:47] Optimize PostgreSQL query execution plans
+- [2020-09-24T16:21:30] Fix edge case in URL parsing and validation
