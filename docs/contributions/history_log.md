@@ -22842,3 +22842,4 @@
 - [2020-09-23T21:08:47] Optimize PostgreSQL query execution plans
 - [2020-09-24T16:21:30] Fix edge case in URL parsing and validation
 - [2020-09-24T11:22:42] Update dependency lockfiles and requirements
+- [2020-09-24T18:16:37] Clean up legacy worker task routines
