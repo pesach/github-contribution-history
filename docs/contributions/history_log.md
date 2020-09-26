@@ -22856,3 +22856,4 @@
 - [2020-09-25T21:38:50] Improve logging and health endpoint metrics
 - [2020-09-25T14:30:32] Update schema migration helpers
 - [2020-09-25T15:32:48] Update B2 storage chunking parameters
+- [2020-09-26T17:57:05] Fix edge case in channel tab crawler
