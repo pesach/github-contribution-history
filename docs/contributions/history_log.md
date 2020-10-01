@@ -22887,3 +22887,4 @@
 - [2020-10-01T12:26:08] Update B2 storage chunking parameters
 - [2020-10-01T16:13:39] Update dependency lockfiles and requirements
 - [2020-10-01T08:54:37] Improve ffmpeg streaming pipe buffer management
+- [2020-10-01T18:51:35] Update schema migration helpers
