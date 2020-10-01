@@ -22885,3 +22885,4 @@
 - [2020-09-29T15:31:34] Update schema migration helpers
 - [2020-09-29T17:27:25] Add retries for transient network drops
 - [2020-10-01T12:26:08] Update B2 storage chunking parameters
+- [2020-10-01T16:13:39] Update dependency lockfiles and requirements
