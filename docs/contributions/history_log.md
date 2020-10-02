@@ -22899,3 +22899,4 @@
 - [2020-10-02T14:29:12] Add retries for transient network drops
 - [2020-10-02T22:11:17] Update dependency lockfiles and requirements
 - [2020-10-02T13:38:34] Update automated pytest test suites
+- [2020-10-02T14:24:46] Fix edge case in channel tab crawler
