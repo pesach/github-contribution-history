@@ -22896,3 +22896,4 @@
 - [2020-10-01T08:59:32] Improve logging and health endpoint metrics
 - [2020-10-01T20:56:12] Add Redis rate limit backoff handlers
 - [2020-10-02T11:26:58] Add Prometheus exporter endpoints for queue length
+- [2020-10-02T14:29:12] Add retries for transient network drops
