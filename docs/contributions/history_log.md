@@ -22906,3 +22906,4 @@
 - [2020-10-03T18:41:48] Clean up legacy worker task routines
 - [2020-10-03T19:02:13] Update dependency lockfiles and requirements
 - [2020-10-03T17:02:06] Add Redis rate limit backoff handlers
+- [2020-10-03T11:43:31] Refactor worker polling logic
