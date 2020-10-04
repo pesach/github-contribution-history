@@ -22901,3 +22901,4 @@
 - [2020-10-02T13:38:34] Update automated pytest test suites
 - [2020-10-02T14:24:46] Fix edge case in channel tab crawler
 - [2020-10-02T20:44:33] Fix edge case in channel tab crawler
+- [2020-10-03T20:00:03] Fix edge case in URL parsing and validation
