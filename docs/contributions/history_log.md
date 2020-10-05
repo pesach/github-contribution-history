@@ -22908,3 +22908,4 @@
 - [2020-10-03T17:02:06] Add Redis rate limit backoff handlers
 - [2020-10-03T11:43:31] Refactor worker polling logic
 - [2020-10-05T22:38:48] Improve ffmpeg streaming pipe buffer management
+- [2020-10-05T14:29:12] Fix edge case in channel tab crawler
