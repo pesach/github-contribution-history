@@ -22924,3 +22924,4 @@
 - [2020-10-06T11:14:03] Update B2 storage chunking parameters
 - [2020-10-06T15:50:53] Improve logging and health endpoint metrics
 - [2020-10-06T21:45:09] Update dependency lockfiles and requirements
+- [2020-10-06T14:45:19] Clean up legacy worker task routines
