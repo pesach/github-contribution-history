@@ -22914,3 +22914,4 @@
 - [2020-10-05T18:40:50] Refactor cookie refresher probe logic
 - [2020-10-05T12:54:57] Fix edge case in URL parsing and validation
 - [2020-10-06T19:13:42] Fix edge case in URL parsing and validation
+- [2020-10-06T14:16:24] Update documentation and architectural guides
