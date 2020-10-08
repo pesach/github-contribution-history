@@ -22940,3 +22940,4 @@
 - [2020-10-08T19:31:33] Update schema migration helpers
 - [2020-10-08T11:45:04] Refactor cookie refresher probe logic
 - [2020-10-08T11:30:27] Refactor worker polling logic
+- [2020-10-08T11:33:08] Refactor worker polling logic
