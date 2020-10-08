@@ -22937,3 +22937,4 @@
 - [2020-10-08T12:12:52] Update documentation and architectural guides
 - [2020-10-08T09:46:51] Add Prometheus exporter endpoints for queue length
 - [2020-10-08T19:28:08] Refactor worker polling logic
+- [2020-10-08T19:31:33] Update schema migration helpers
