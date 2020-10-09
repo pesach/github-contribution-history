@@ -22945,3 +22945,4 @@
 - [2020-10-08T09:48:35] Refactor storage upload retry mechanism
 - [2020-10-09T08:36:05] Refactor storage upload retry mechanism
 - [2020-10-09T13:55:38] Fix edge case in URL parsing and validation
+- [2020-10-09T10:15:08] Add retries for transient network drops
