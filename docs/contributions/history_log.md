@@ -22955,3 +22955,4 @@
 - [2020-10-09T21:00:11] Improve ffmpeg streaming pipe buffer management
 - [2020-10-09T22:15:49] Fix edge case in URL parsing and validation
 - [2020-10-09T17:32:22] Fix edge case in URL parsing and validation
+- [2020-10-09T19:03:11] Update documentation and architectural guides
