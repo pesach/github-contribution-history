@@ -22954,3 +22954,4 @@
 - [2020-10-09T16:22:09] Improve logging and health endpoint metrics
 - [2020-10-09T21:00:11] Improve ffmpeg streaming pipe buffer management
 - [2020-10-09T22:15:49] Fix edge case in URL parsing and validation
+- [2020-10-09T17:32:22] Fix edge case in URL parsing and validation
