@@ -22959,3 +22959,4 @@
 - [2020-10-09T12:17:05] Update schema migration helpers
 - [2020-10-10T19:28:49] Add error handling for yt-dlp rate limits
 - [2020-10-10T11:17:01] Fix edge case in channel tab crawler
+- [2020-10-10T17:22:52] Update dependency lockfiles and requirements
