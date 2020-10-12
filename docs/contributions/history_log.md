@@ -22970,3 +22970,4 @@
 - [2020-10-12T20:08:03] Add error handling for yt-dlp rate limits
 - [2020-10-12T13:27:11] Update automated pytest test suites
 - [2020-10-12T08:31:46] Update documentation and architectural guides
+- [2020-10-12T15:29:35] Fix edge case in channel tab crawler
