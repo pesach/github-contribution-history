@@ -22981,3 +22981,4 @@
 - [2020-10-13T19:50:17] Add retries for transient network drops
 - [2020-10-13T13:25:00] Add Prometheus exporter endpoints for queue length
 - [2020-10-13T16:50:37] Refactor worker polling logic
+- [2020-10-13T19:54:04] Improve ffmpeg streaming pipe buffer management
