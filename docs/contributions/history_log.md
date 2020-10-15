@@ -22995,3 +22995,4 @@
 - [2020-10-14T22:46:41] Refactor storage upload retry mechanism
 - [2020-10-14T21:21:41] Add error handling for yt-dlp rate limits
 - [2020-10-15T15:51:48] Update dependency lockfiles and requirements
+- [2020-10-15T18:31:57] Update schema migration helpers
