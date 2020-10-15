@@ -22993,3 +22993,4 @@
 - [2020-10-14T11:59:55] Update documentation and architectural guides
 - [2020-10-14T18:41:23] Update documentation and architectural guides
 - [2020-10-14T22:46:41] Refactor storage upload retry mechanism
+- [2020-10-14T21:21:41] Add error handling for yt-dlp rate limits
