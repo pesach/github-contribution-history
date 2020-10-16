@@ -23008,3 +23008,4 @@
 - [2020-10-16T12:13:08] Refactor worker polling logic
 - [2020-10-16T18:30:37] Improve ffmpeg streaming pipe buffer management
 - [2020-10-16T18:06:21] Fix edge case in channel tab crawler
+- [2020-10-16T19:00:46] Improve logging and health endpoint metrics
