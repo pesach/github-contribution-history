@@ -23021,3 +23021,4 @@
 - [2020-10-18T15:46:30] Update automated pytest test suites
 - [2020-10-18T11:42:51] Update schema migration helpers
 - [2020-10-18T15:22:57] Update schema migration helpers
+- [2020-10-19T15:37:44] Optimize PostgreSQL query execution plans
