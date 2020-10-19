@@ -23026,3 +23026,4 @@
 - [2020-10-19T22:29:22] Refactor storage upload retry mechanism
 - [2020-10-19T20:45:41] Refactor cookie refresher probe logic
 - [2020-10-19T09:45:11] Update schema migration helpers
+- [2020-10-19T11:48:53] Add Prometheus exporter endpoints for queue length
