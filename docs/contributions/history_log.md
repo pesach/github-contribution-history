@@ -23025,3 +23025,4 @@
 - [2020-10-19T16:28:48] Clean up legacy worker task routines
 - [2020-10-19T22:29:22] Refactor storage upload retry mechanism
 - [2020-10-19T20:45:41] Refactor cookie refresher probe logic
+- [2020-10-19T09:45:11] Update schema migration helpers
