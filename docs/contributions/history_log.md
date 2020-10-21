@@ -23038,3 +23038,4 @@
 - [2020-10-21T18:06:21] Add error handling for yt-dlp rate limits
 - [2020-10-21T08:05:12] Refactor worker polling logic
 - [2020-10-21T19:31:30] Improve ffmpeg streaming pipe buffer management
+- [2020-10-21T18:36:17] Fix edge case in URL parsing and validation
