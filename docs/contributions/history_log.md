@@ -23044,3 +23044,4 @@
 - [2020-10-22T14:34:24] Update automated pytest test suites
 - [2020-10-22T21:30:01] Add Prometheus exporter endpoints for queue length
 - [2020-10-22T20:54:17] Refactor storage upload retry mechanism
+- [2020-10-22T12:45:10] Refactor worker polling logic
