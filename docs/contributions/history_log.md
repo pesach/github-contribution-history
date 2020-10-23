@@ -23058,3 +23058,4 @@
 - [2020-10-23T21:37:41] Add error handling for yt-dlp rate limits
 - [2020-10-23T16:05:43] Refactor worker polling logic
 - [2020-10-23T16:04:27] Add retries for transient network drops
+- [2020-10-23T19:13:29] Update B2 storage chunking parameters
