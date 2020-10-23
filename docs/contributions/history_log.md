@@ -23059,3 +23059,4 @@
 - [2020-10-23T16:05:43] Refactor worker polling logic
 - [2020-10-23T16:04:27] Add retries for transient network drops
 - [2020-10-23T19:13:29] Update B2 storage chunking parameters
+- [2020-10-23T18:42:43] Refactor storage upload retry mechanism
