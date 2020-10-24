@@ -23055,3 +23055,4 @@
 - [2020-10-23T14:15:56] Update documentation and architectural guides
 - [2020-10-23T16:37:57] Update dependency lockfiles and requirements
 - [2020-10-23T19:13:29] Update automated pytest test suites
+- [2020-10-23T21:37:41] Add error handling for yt-dlp rate limits
