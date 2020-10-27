@@ -23081,3 +23081,4 @@
 - [2020-10-27T15:29:50] Add retries for transient network drops
 - [2020-10-27T09:42:37] Fix edge case in URL parsing and validation
 - [2020-10-27T11:40:49] Add Prometheus exporter endpoints for queue length
+- [2020-10-27T15:18:51] Refactor storage upload retry mechanism
