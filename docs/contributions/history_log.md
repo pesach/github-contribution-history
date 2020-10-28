@@ -23087,3 +23087,4 @@
 - [2020-10-28T21:52:15] Update documentation and architectural guides
 - [2020-10-28T10:24:47] Add error handling for yt-dlp rate limits
 - [2020-10-28T09:56:22] Implement streaming upload chunk buffer optimization
+- [2020-10-28T12:16:27] Update B2 storage chunking parameters
