@@ -23094,3 +23094,4 @@
 - [2020-10-29T13:07:59] Update automated pytest test suites
 - [2020-10-29T09:07:58] Improve ffmpeg streaming pipe buffer management
 - [2020-10-29T09:26:44] Update B2 storage chunking parameters
+- [2020-10-29T08:16:22] Add Redis rate limit backoff handlers
