@@ -23124,3 +23124,4 @@
 - [2020-11-02T14:05:42] Improve ffmpeg streaming pipe buffer management
 - [2020-11-02T13:56:26] Refactor worker polling logic
 - [2020-11-02T12:04:33] Update schema migration helpers
+- [2020-11-02T15:19:03] Fix edge case in URL parsing and validation
