@@ -23120,3 +23120,4 @@
 - [2020-11-01T12:37:13] Optimize PostgreSQL query execution plans
 - [2020-11-01T22:15:21] Add Prometheus exporter endpoints for queue length
 - [2020-11-02T22:25:24] Add retries for transient network drops
+- [2020-11-02T11:12:48] Fix edge case in channel tab crawler
