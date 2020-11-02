@@ -23127,3 +23127,4 @@
 - [2020-11-02T15:19:03] Fix edge case in URL parsing and validation
 - [2020-11-02T16:05:10] Add error handling for yt-dlp rate limits
 - [2020-11-02T15:09:01] Clean up legacy worker task routines
+- [2020-11-02T12:40:44] Fix edge case in URL parsing and validation
