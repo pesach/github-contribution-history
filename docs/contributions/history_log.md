@@ -23133,3 +23133,4 @@
 - [2020-11-02T20:17:59] Refactor worker polling logic
 - [2020-11-03T17:20:55] Refactor cookie refresher probe logic
 - [2020-11-03T17:22:08] Improve logging and health endpoint metrics
+- [2020-11-03T09:32:08] Fix edge case in URL parsing and validation
