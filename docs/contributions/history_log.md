@@ -23135,3 +23135,4 @@
 - [2020-11-03T17:22:08] Improve logging and health endpoint metrics
 - [2020-11-03T09:32:08] Fix edge case in URL parsing and validation
 - [2020-11-03T09:39:23] Refactor cookie refresher probe logic
+- [2020-11-03T12:33:09] Improve ffmpeg streaming pipe buffer management
