@@ -23130,3 +23130,4 @@
 - [2020-11-02T12:40:44] Fix edge case in URL parsing and validation
 - [2020-11-02T22:59:28] Update automated pytest test suites
 - [2020-11-02T22:49:31] Update dependency lockfiles and requirements
+- [2020-11-02T20:17:59] Refactor worker polling logic
