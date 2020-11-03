@@ -23119,3 +23119,4 @@
 - [2020-11-01T21:54:14] Refactor storage upload retry mechanism
 - [2020-11-01T12:37:13] Optimize PostgreSQL query execution plans
 - [2020-11-01T22:15:21] Add Prometheus exporter endpoints for queue length
+- [2020-11-02T22:25:24] Add retries for transient network drops
