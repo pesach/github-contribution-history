@@ -23131,3 +23131,4 @@
 - [2020-11-02T22:59:28] Update automated pytest test suites
 - [2020-11-02T22:49:31] Update dependency lockfiles and requirements
 - [2020-11-02T20:17:59] Refactor worker polling logic
+- [2020-11-03T17:20:55] Refactor cookie refresher probe logic
