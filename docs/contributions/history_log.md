@@ -23145,3 +23145,4 @@
 - [2020-11-04T11:44:22] Update automated pytest test suites
 - [2020-11-04T12:29:39] Add Prometheus exporter endpoints for queue length
 - [2020-11-04T19:40:34] Refactor cookie refresher probe logic
+- [2020-11-04T18:03:04] Clean up legacy worker task routines
