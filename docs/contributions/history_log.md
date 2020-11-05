@@ -23159,3 +23159,4 @@
 - [2020-11-05T19:18:43] Update B2 storage chunking parameters
 - [2020-11-05T22:06:32] Add Redis rate limit backoff handlers
 - [2020-11-05T14:03:10] Refactor cookie refresher probe logic
+- [2020-11-05T17:12:34] Fix edge case in URL parsing and validation
