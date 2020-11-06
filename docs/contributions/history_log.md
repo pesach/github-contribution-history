@@ -23156,3 +23156,4 @@
 - [2020-11-04T17:05:10] Fix edge case in channel tab crawler
 - [2020-11-04T18:50:45] Update automated pytest test suites
 - [2020-11-05T10:34:47] Implement streaming upload chunk buffer optimization
+- [2020-11-05T19:18:43] Update B2 storage chunking parameters
