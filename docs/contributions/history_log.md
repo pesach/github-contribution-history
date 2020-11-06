@@ -23164,3 +23164,4 @@
 - [2020-11-05T21:35:37] Refactor worker polling logic
 - [2020-11-05T13:43:43] Add Redis rate limit backoff handlers
 - [2020-11-05T17:09:21] Update dependency lockfiles and requirements
+- [2020-11-05T20:33:22] Update schema migration helpers
