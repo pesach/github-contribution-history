@@ -23172,3 +23172,4 @@
 - [2020-11-06T18:06:11] Refactor cookie refresher probe logic
 - [2020-11-06T19:10:06] Update documentation and architectural guides
 - [2020-11-06T13:56:13] Implement streaming upload chunk buffer optimization
+- [2020-11-06T19:24:09] Add error handling for yt-dlp rate limits
