@@ -23183,3 +23183,4 @@
 - [2020-11-07T08:49:42] Update automated pytest test suites
 - [2020-11-08T08:54:10] Refactor worker polling logic
 - [2020-11-08T18:43:16] Update automated pytest test suites
+- [2020-11-08T16:33:05] Refactor worker polling logic
