@@ -23181,3 +23181,4 @@
 - [2020-11-07T12:46:40] Update dependency lockfiles and requirements
 - [2020-11-07T14:11:40] Optimize PostgreSQL query execution plans
 - [2020-11-07T08:49:42] Update automated pytest test suites
+- [2020-11-08T08:54:10] Refactor worker polling logic
