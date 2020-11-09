@@ -23194,3 +23194,4 @@
 - [2020-11-09T09:34:54] Add error handling for yt-dlp rate limits
 - [2020-11-09T11:51:26] Fix edge case in channel tab crawler
 - [2020-11-09T19:10:54] Optimize PostgreSQL query execution plans
+- [2020-11-09T14:46:06] Refactor worker polling logic
