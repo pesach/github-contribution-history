@@ -23191,3 +23191,4 @@
 - [2020-11-09T14:08:50] Update schema migration helpers
 - [2020-11-09T18:16:46] Implement streaming upload chunk buffer optimization
 - [2020-11-09T14:00:17] Improve ffmpeg streaming pipe buffer management
+- [2020-11-09T09:34:54] Add error handling for yt-dlp rate limits
