@@ -23203,3 +23203,4 @@
 - [2020-11-10T16:05:57] Add Prometheus exporter endpoints for queue length
 - [2020-11-10T20:55:54] Update automated pytest test suites
 - [2020-11-10T10:44:59] Update dependency lockfiles and requirements
+- [2020-11-10T09:27:19] Add error handling for yt-dlp rate limits
