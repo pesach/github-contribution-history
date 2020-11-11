@@ -23223,3 +23223,4 @@
 - [2020-11-11T09:39:27] Add retries for transient network drops
 - [2020-11-11T21:31:19] Optimize PostgreSQL query execution plans
 - [2020-11-11T19:20:29] Update dependency lockfiles and requirements
+- [2020-11-11T15:53:15] Add Redis rate limit backoff handlers
