@@ -23216,3 +23216,4 @@
 - [2020-11-11T09:14:30] Refactor worker polling logic
 - [2020-11-11T22:08:44] Refactor storage upload retry mechanism
 - [2020-11-11T22:17:51] Refactor storage upload retry mechanism
+- [2020-11-11T14:45:47] Clean up legacy worker task routines
