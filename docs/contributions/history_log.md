@@ -23214,3 +23214,4 @@
 - [2020-11-10T12:40:38] Fix edge case in URL parsing and validation
 - [2020-11-11T21:15:44] Update automated pytest test suites
 - [2020-11-11T09:14:30] Refactor worker polling logic
+- [2020-11-11T22:08:44] Refactor storage upload retry mechanism
