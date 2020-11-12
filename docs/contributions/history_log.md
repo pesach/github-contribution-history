@@ -23226,3 +23226,4 @@
 - [2020-11-11T15:53:15] Add Redis rate limit backoff handlers
 - [2020-11-11T10:09:06] Add Redis rate limit backoff handlers
 - [2020-11-11T09:59:59] Refactor cookie refresher probe logic
+- [2020-11-11T19:56:26] Fix edge case in channel tab crawler
