@@ -23230,3 +23230,4 @@
 - [2020-11-12T11:18:50] Update schema migration helpers
 - [2020-11-12T19:57:10] Refactor worker polling logic
 - [2020-11-12T20:17:13] Improve ffmpeg streaming pipe buffer management
+- [2020-11-12T21:36:14] Clean up legacy worker task routines
