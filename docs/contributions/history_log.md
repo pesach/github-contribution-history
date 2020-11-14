@@ -23245,3 +23245,4 @@
 - [2020-11-13T16:46:38] Refactor worker polling logic
 - [2020-11-13T13:32:36] Update B2 storage chunking parameters
 - [2020-11-13T10:34:29] Update dependency lockfiles and requirements
+- [2020-11-14T16:36:04] Fix edge case in channel tab crawler
