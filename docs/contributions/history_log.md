@@ -23247,3 +23247,4 @@
 - [2020-11-13T10:34:29] Update dependency lockfiles and requirements
 - [2020-11-14T16:36:04] Fix edge case in channel tab crawler
 - [2020-11-14T14:42:23] Update automated pytest test suites
+- [2020-11-14T10:01:29] Refactor worker polling logic
