@@ -23236,3 +23236,4 @@
 - [2020-11-12T21:09:53] Enhance dashboard statistics rendering
 - [2020-11-12T15:34:50] Fix edge case in channel tab crawler
 - [2020-11-13T10:49:43] Optimize PostgreSQL query execution plans
+- [2020-11-13T22:35:34] Clean up legacy worker task routines
