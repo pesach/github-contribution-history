@@ -23261,3 +23261,4 @@
 - [2020-11-16T09:28:59] Add Prometheus exporter endpoints for queue length
 - [2020-11-16T22:40:32] Refactor cookie refresher probe logic
 - [2020-11-16T22:45:04] Improve logging and health endpoint metrics
+- [2020-11-16T12:11:37] Refactor cookie refresher probe logic
