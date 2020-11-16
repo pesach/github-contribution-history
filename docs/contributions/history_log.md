@@ -23250,3 +23250,4 @@
 - [2020-11-14T10:01:29] Refactor worker polling logic
 - [2020-11-14T21:31:05] Fix edge case in channel tab crawler
 - [2020-11-14T11:29:55] Update B2 storage chunking parameters
+- [2020-11-15T20:06:01] Add error handling for yt-dlp rate limits
