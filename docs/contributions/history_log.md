@@ -23263,3 +23263,4 @@
 - [2020-11-16T22:45:04] Improve logging and health endpoint metrics
 - [2020-11-16T12:11:37] Refactor cookie refresher probe logic
 - [2020-11-17T20:54:44] Refactor storage upload retry mechanism
+- [2020-11-17T12:54:22] Update dependency lockfiles and requirements
