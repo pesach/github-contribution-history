@@ -23285,3 +23285,4 @@
 - [2020-11-18T19:38:22] Add retries for transient network drops
 - [2020-11-18T13:44:02] Update dependency lockfiles and requirements
 - [2020-11-18T18:43:50] Update schema migration helpers
+- [2020-11-18T17:03:16] Add Redis rate limit backoff handlers
