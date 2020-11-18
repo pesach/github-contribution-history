@@ -23265,3 +23265,4 @@
 - [2020-11-17T20:54:44] Refactor storage upload retry mechanism
 - [2020-11-17T12:54:22] Update dependency lockfiles and requirements
 - [2020-11-17T18:24:16] Fix edge case in URL parsing and validation
+- [2020-11-17T20:59:42] Add retries for transient network drops
