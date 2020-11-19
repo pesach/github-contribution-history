@@ -23287,3 +23287,4 @@
 - [2020-11-18T18:43:50] Update schema migration helpers
 - [2020-11-18T17:03:16] Add Redis rate limit backoff handlers
 - [2020-11-18T17:06:20] Update automated pytest test suites
+- [2020-11-19T12:36:20] Improve ffmpeg streaming pipe buffer management
