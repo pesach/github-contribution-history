@@ -23294,3 +23294,4 @@
 - [2020-11-19T18:35:46] Refactor worker polling logic
 - [2020-11-19T13:27:44] Update automated pytest test suites
 - [2020-11-19T10:28:30] Refactor worker polling logic
+- [2020-11-19T20:56:00] Add Redis rate limit backoff handlers
