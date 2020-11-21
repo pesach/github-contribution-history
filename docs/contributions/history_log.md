@@ -23319,3 +23319,4 @@
 - [2020-11-21T11:32:09] Update dependency lockfiles and requirements
 - [2020-11-21T22:34:53] Fix edge case in channel tab crawler
 - [2020-11-21T09:43:52] Add Redis rate limit backoff handlers
+- [2020-11-21T12:38:51] Update documentation and architectural guides
