@@ -23310,3 +23310,4 @@
 - [2020-11-20T14:25:46] Update documentation and architectural guides
 - [2020-11-20T20:22:54] Update dependency lockfiles and requirements
 - [2020-11-20T08:15:51] Update automated pytest test suites
+- [2020-11-20T20:35:24] Fix edge case in channel tab crawler
