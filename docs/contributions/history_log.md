@@ -23317,3 +23317,4 @@
 - [2020-11-20T10:42:31] Improve ffmpeg streaming pipe buffer management
 - [2020-11-21T11:37:50] Clean up legacy worker task routines
 - [2020-11-21T11:32:09] Update dependency lockfiles and requirements
+- [2020-11-21T22:34:53] Fix edge case in channel tab crawler
