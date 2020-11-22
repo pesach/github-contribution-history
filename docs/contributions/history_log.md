@@ -23322,3 +23322,4 @@
 - [2020-11-21T12:38:51] Update documentation and architectural guides
 - [2020-11-21T19:16:59] Add Redis rate limit backoff handlers
 - [2020-11-22T10:32:37] Add Prometheus exporter endpoints for queue length
+- [2020-11-22T15:15:59] Refactor storage upload retry mechanism
