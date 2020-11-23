@@ -23330,3 +23330,4 @@
 - [2020-11-23T16:54:14] Fix edge case in channel tab crawler
 - [2020-11-23T09:25:13] Refactor worker polling logic
 - [2020-11-23T22:44:51] Optimize PostgreSQL query execution plans
+- [2020-11-23T14:50:06] Update schema migration helpers
