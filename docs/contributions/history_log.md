@@ -23324,3 +23324,4 @@
 - [2020-11-22T10:32:37] Add Prometheus exporter endpoints for queue length
 - [2020-11-22T15:15:59] Refactor storage upload retry mechanism
 - [2020-11-22T21:01:41] Refactor storage upload retry mechanism
+- [2020-11-23T10:01:12] Clean up legacy worker task routines
