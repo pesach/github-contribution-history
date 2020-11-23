@@ -23333,3 +23333,4 @@
 - [2020-11-23T14:50:06] Update schema migration helpers
 - [2020-11-23T21:12:44] Fix edge case in URL parsing and validation
 - [2020-11-23T14:56:50] Add error handling for yt-dlp rate limits
+- [2020-11-23T11:10:21] Refactor storage upload retry mechanism
