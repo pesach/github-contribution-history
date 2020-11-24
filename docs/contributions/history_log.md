@@ -23336,3 +23336,4 @@
 - [2020-11-23T11:10:21] Refactor storage upload retry mechanism
 - [2020-11-23T09:52:26] Clean up legacy worker task routines
 - [2020-11-24T10:43:28] Update dependency lockfiles and requirements
+- [2020-11-24T15:50:02] Update B2 storage chunking parameters
