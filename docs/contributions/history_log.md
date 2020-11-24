@@ -23335,3 +23335,4 @@
 - [2020-11-23T14:56:50] Add error handling for yt-dlp rate limits
 - [2020-11-23T11:10:21] Refactor storage upload retry mechanism
 - [2020-11-23T09:52:26] Clean up legacy worker task routines
+- [2020-11-24T10:43:28] Update dependency lockfiles and requirements
