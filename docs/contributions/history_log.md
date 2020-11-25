@@ -23342,3 +23342,4 @@
 - [2020-11-24T22:36:33] Add Redis rate limit backoff handlers
 - [2020-11-24T12:41:58] Fix edge case in URL parsing and validation
 - [2020-11-24T15:11:39] Update schema migration helpers
+- [2020-11-24T21:23:23] Add Prometheus exporter endpoints for queue length
