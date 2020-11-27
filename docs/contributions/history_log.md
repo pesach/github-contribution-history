@@ -23359,3 +23359,4 @@
 - [2020-11-27T11:55:35] Improve logging and health endpoint metrics
 - [2020-11-27T18:53:01] Add Prometheus exporter endpoints for queue length
 - [2020-11-27T18:13:39] Add Prometheus exporter endpoints for queue length
+- [2020-11-27T09:30:59] Update automated pytest test suites
