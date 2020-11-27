@@ -23356,3 +23356,4 @@
 - [2020-11-27T16:34:56] Refactor worker polling logic
 - [2020-11-27T09:47:15] Update dependency lockfiles and requirements
 - [2020-11-27T19:24:30] Add retries for transient network drops
+- [2020-11-27T11:55:35] Improve logging and health endpoint metrics
