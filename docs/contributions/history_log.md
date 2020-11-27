@@ -23353,3 +23353,4 @@
 - [2020-11-25T13:46:19] Refactor cookie refresher probe logic
 - [2020-11-25T18:41:14] Update dependency lockfiles and requirements
 - [2020-11-25T12:54:09] Refactor cookie refresher probe logic
+- [2020-11-27T16:34:56] Refactor worker polling logic
