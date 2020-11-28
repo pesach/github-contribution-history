@@ -23364,3 +23364,4 @@
 - [2020-11-27T20:11:29] Update schema migration helpers
 - [2020-11-28T15:30:18] Clean up legacy worker task routines
 - [2020-11-28T17:27:37] Enhance dashboard statistics rendering
+- [2020-11-28T12:35:14] Fix edge case in URL parsing and validation
