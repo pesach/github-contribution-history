@@ -23362,3 +23362,4 @@
 - [2020-11-27T09:30:59] Update automated pytest test suites
 - [2020-11-27T08:18:13] Update schema migration helpers
 - [2020-11-27T20:11:29] Update schema migration helpers
+- [2020-11-28T15:30:18] Clean up legacy worker task routines
