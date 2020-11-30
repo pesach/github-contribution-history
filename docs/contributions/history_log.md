@@ -23374,3 +23374,4 @@
 - [2020-11-30T16:37:45] Enhance dashboard statistics rendering
 - [2020-11-30T21:39:41] Add retries for transient network drops
 - [2020-11-30T13:41:58] Improve logging and health endpoint metrics
+- [2020-11-30T14:16:05] Refactor worker polling logic
