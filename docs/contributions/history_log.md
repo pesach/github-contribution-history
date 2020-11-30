@@ -23370,3 +23370,4 @@
 - [2020-11-29T17:19:30] Improve logging and health endpoint metrics
 - [2020-11-29T20:24:31] Implement streaming upload chunk buffer optimization
 - [2020-11-29T11:41:07] Update B2 storage chunking parameters
+- [2020-11-30T08:25:21] Fix edge case in URL parsing and validation
