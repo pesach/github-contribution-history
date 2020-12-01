@@ -23376,3 +23376,4 @@
 - [2020-11-30T13:41:58] Improve logging and health endpoint metrics
 - [2020-11-30T14:16:05] Refactor worker polling logic
 - [2020-11-30T21:13:25] Fix edge case in URL parsing and validation
+- [2020-11-30T20:39:16] Add error handling for yt-dlp rate limits
