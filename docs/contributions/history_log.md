@@ -23378,3 +23378,4 @@
 - [2020-11-30T21:13:25] Fix edge case in URL parsing and validation
 - [2020-11-30T20:39:16] Add error handling for yt-dlp rate limits
 - [2020-11-30T11:44:33] Update schema migration helpers
+- [2020-11-30T21:04:59] Improve logging and health endpoint metrics
