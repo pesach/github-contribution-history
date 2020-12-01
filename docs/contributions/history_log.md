@@ -23392,3 +23392,4 @@
 - [2020-12-01T18:28:09] Add retries for transient network drops
 - [2020-12-01T10:45:06] Update documentation and architectural guides
 - [2020-12-01T13:01:47] Implement streaming upload chunk buffer optimization
+- [2020-12-01T09:07:36] Add Prometheus exporter endpoints for queue length
