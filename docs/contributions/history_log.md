@@ -23387,3 +23387,4 @@
 - [2020-12-01T13:48:20] Improve ffmpeg streaming pipe buffer management
 - [2020-12-01T20:07:12] Update automated pytest test suites
 - [2020-12-01T08:01:41] Add error handling for yt-dlp rate limits
+- [2020-12-01T13:28:58] Fix edge case in channel tab crawler
