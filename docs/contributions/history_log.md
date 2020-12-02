@@ -23400,3 +23400,4 @@
 - [2020-12-02T20:50:45] Add retries for transient network drops
 - [2020-12-02T14:04:44] Enhance dashboard statistics rendering
 - [2020-12-02T22:56:42] Fix edge case in channel tab crawler
+- [2020-12-02T10:04:41] Update schema migration helpers
