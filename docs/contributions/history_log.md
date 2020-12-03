@@ -23413,3 +23413,4 @@
 - [2020-12-03T11:26:42] Add retries for transient network drops
 - [2020-12-03T16:19:07] Implement streaming upload chunk buffer optimization
 - [2020-12-03T22:36:46] Fix edge case in URL parsing and validation
+- [2020-12-03T14:57:09] Update schema migration helpers
