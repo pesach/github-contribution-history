@@ -23408,3 +23408,4 @@
 - [2020-12-02T14:26:22] Add error handling for yt-dlp rate limits
 - [2020-12-03T14:36:23] Update schema migration helpers
 - [2020-12-03T11:50:58] Refactor cookie refresher probe logic
+- [2020-12-03T12:01:21] Refactor cookie refresher probe logic
