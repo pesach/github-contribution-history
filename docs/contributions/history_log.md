@@ -23449,3 +23449,4 @@
 - [2020-12-07T08:21:24] Improve ffmpeg streaming pipe buffer management
 - [2020-12-07T19:47:07] Update schema migration helpers
 - [2020-12-07T15:06:42] Clean up legacy worker task routines
+- [2020-12-07T11:21:40] Update B2 storage chunking parameters
