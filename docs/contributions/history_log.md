@@ -23438,3 +23438,4 @@
 - [2020-12-05T21:59:20] Clean up legacy worker task routines
 - [2020-12-05T17:01:50] Optimize PostgreSQL query execution plans
 - [2020-12-06T18:39:49] Add retries for transient network drops
+- [2020-12-06T19:59:08] Fix edge case in URL parsing and validation
