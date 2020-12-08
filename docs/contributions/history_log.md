@@ -23459,3 +23459,4 @@
 - [2020-12-08T19:17:39] Add retries for transient network drops
 - [2020-12-08T09:21:06] Optimize PostgreSQL query execution plans
 - [2020-12-08T20:51:15] Update automated pytest test suites
+- [2020-12-08T16:34:53] Add error handling for yt-dlp rate limits
