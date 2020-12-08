@@ -23455,3 +23455,4 @@
 - [2020-12-07T12:09:57] Improve logging and health endpoint metrics
 - [2020-12-07T16:19:33] Clean up legacy worker task routines
 - [2020-12-08T09:11:11] Refactor worker polling logic
+- [2020-12-08T12:31:38] Add retries for transient network drops
