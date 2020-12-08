@@ -23466,3 +23466,4 @@
 - [2020-12-08T12:20:20] Refactor cookie refresher probe logic
 - [2020-12-08T19:35:07] Update dependency lockfiles and requirements
 - [2020-12-08T10:45:46] Add Redis rate limit backoff handlers
+- [2020-12-08T13:40:13] Improve logging and health endpoint metrics
