@@ -23468,3 +23468,4 @@
 - [2020-12-08T10:45:46] Add Redis rate limit backoff handlers
 - [2020-12-08T13:40:13] Improve logging and health endpoint metrics
 - [2020-12-09T16:57:17] Add Prometheus exporter endpoints for queue length
+- [2020-12-09T09:51:22] Fix edge case in URL parsing and validation
