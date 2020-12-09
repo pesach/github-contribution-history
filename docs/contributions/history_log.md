@@ -23470,3 +23470,4 @@
 - [2020-12-09T16:57:17] Add Prometheus exporter endpoints for queue length
 - [2020-12-09T09:51:22] Fix edge case in URL parsing and validation
 - [2020-12-09T15:25:20] Update B2 storage chunking parameters
+- [2020-12-09T18:30:48] Clean up legacy worker task routines
