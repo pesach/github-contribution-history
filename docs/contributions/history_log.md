@@ -23471,3 +23471,4 @@
 - [2020-12-09T09:51:22] Fix edge case in URL parsing and validation
 - [2020-12-09T15:25:20] Update B2 storage chunking parameters
 - [2020-12-09T18:30:48] Clean up legacy worker task routines
+- [2020-12-09T08:21:16] Update B2 storage chunking parameters
