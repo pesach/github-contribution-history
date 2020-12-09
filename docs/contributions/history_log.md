@@ -23472,3 +23472,4 @@
 - [2020-12-09T15:25:20] Update B2 storage chunking parameters
 - [2020-12-09T18:30:48] Clean up legacy worker task routines
 - [2020-12-09T08:21:16] Update B2 storage chunking parameters
+- [2020-12-09T12:06:50] Update documentation and architectural guides
