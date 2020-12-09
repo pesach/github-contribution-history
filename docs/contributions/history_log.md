@@ -23467,3 +23467,4 @@
 - [2020-12-08T19:35:07] Update dependency lockfiles and requirements
 - [2020-12-08T10:45:46] Add Redis rate limit backoff handlers
 - [2020-12-08T13:40:13] Improve logging and health endpoint metrics
+- [2020-12-09T16:57:17] Add Prometheus exporter endpoints for queue length
