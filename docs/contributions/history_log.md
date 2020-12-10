@@ -23481,3 +23481,4 @@
 - [2020-12-09T12:40:01] Update schema migration helpers
 - [2020-12-10T10:45:24] Update dependency lockfiles and requirements
 - [2020-12-10T21:07:42] Add retries for transient network drops
+- [2020-12-10T11:08:40] Refactor worker polling logic
