@@ -23488,3 +23488,4 @@
 - [2020-12-10T13:22:15] Fix edge case in URL parsing and validation
 - [2020-12-10T20:14:28] Add Redis rate limit backoff handlers
 - [2020-12-10T18:23:05] Enhance dashboard statistics rendering
+- [2020-12-10T11:54:29] Add Redis rate limit backoff handlers
