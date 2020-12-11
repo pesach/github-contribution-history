@@ -23497,3 +23497,4 @@
 - [2020-12-11T14:20:30] Improve ffmpeg streaming pipe buffer management
 - [2020-12-11T12:35:24] Enhance dashboard statistics rendering
 - [2020-12-11T15:16:12] Update automated pytest test suites
+- [2020-12-11T10:30:16] Clean up legacy worker task routines
