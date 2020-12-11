@@ -23491,3 +23491,4 @@
 - [2020-12-10T11:54:29] Add Redis rate limit backoff handlers
 - [2020-12-10T18:01:45] Refactor cookie refresher probe logic
 - [2020-12-10T12:43:53] Add retries for transient network drops
+- [2020-12-10T22:15:35] Update documentation and architectural guides
