@@ -23480,3 +23480,4 @@
 - [2020-12-09T22:43:11] Update documentation and architectural guides
 - [2020-12-09T12:40:01] Update schema migration helpers
 - [2020-12-10T10:45:24] Update dependency lockfiles and requirements
+- [2020-12-10T21:07:42] Add retries for transient network drops
