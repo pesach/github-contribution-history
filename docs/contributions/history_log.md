@@ -23507,3 +23507,4 @@
 - [2020-12-11T12:31:44] Add Redis rate limit backoff handlers
 - [2020-12-11T17:03:23] Refactor cookie refresher probe logic
 - [2020-12-11T21:05:06] Update B2 storage chunking parameters
+- [2020-12-12T13:50:06] Refactor cookie refresher probe logic
