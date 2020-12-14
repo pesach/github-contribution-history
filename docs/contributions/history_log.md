@@ -23514,3 +23514,4 @@
 - [2020-12-14T20:26:16] Update documentation and architectural guides
 - [2020-12-14T20:18:45] Optimize PostgreSQL query execution plans
 - [2020-12-14T11:35:23] Fix edge case in channel tab crawler
+- [2020-12-14T16:13:04] Add Prometheus exporter endpoints for queue length
