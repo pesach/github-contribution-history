@@ -23530,3 +23530,4 @@
 - [2020-12-15T16:23:56] Add retries for transient network drops
 - [2020-12-15T16:21:19] Refactor cookie refresher probe logic
 - [2020-12-15T19:48:44] Implement streaming upload chunk buffer optimization
+- [2020-12-15T19:45:17] Clean up legacy worker task routines
