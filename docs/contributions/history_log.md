@@ -23523,3 +23523,4 @@
 - [2020-12-14T12:55:56] Optimize PostgreSQL query execution plans
 - [2020-12-14T19:39:30] Fix edge case in URL parsing and validation
 - [2020-12-14T17:29:55] Update schema migration helpers
+- [2020-12-15T19:45:09] Add error handling for yt-dlp rate limits
