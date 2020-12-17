@@ -23542,3 +23542,4 @@
 - [2020-12-16T16:10:42] Improve ffmpeg streaming pipe buffer management
 - [2020-12-17T13:28:30] Update B2 storage chunking parameters
 - [2020-12-17T21:28:54] Update automated pytest test suites
+- [2020-12-17T15:52:29] Update schema migration helpers
