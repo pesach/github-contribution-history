@@ -23540,3 +23540,4 @@
 - [2020-12-16T18:57:05] Fix edge case in URL parsing and validation
 - [2020-12-16T09:37:09] Refactor storage upload retry mechanism
 - [2020-12-16T16:10:42] Improve ffmpeg streaming pipe buffer management
+- [2020-12-17T13:28:30] Update B2 storage chunking parameters
