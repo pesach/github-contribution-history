@@ -23548,3 +23548,4 @@
 - [2020-12-17T12:52:20] Add retries for transient network drops
 - [2020-12-17T17:18:16] Add Prometheus exporter endpoints for queue length
 - [2020-12-17T12:05:22] Update documentation and architectural guides
+- [2020-12-17T09:00:25] Add Redis rate limit backoff handlers
