@@ -23569,3 +23569,4 @@
 - [2020-12-21T18:18:51] Update schema migration helpers
 - [2020-12-21T22:46:28] Update B2 storage chunking parameters
 - [2020-12-21T16:07:05] Refactor worker polling logic
+- [2020-12-21T11:46:01] Add Prometheus exporter endpoints for queue length
