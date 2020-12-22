@@ -23576,3 +23576,4 @@
 - [2020-12-22T18:24:36] Add Prometheus exporter endpoints for queue length
 - [2020-12-22T18:55:25] Fix edge case in channel tab crawler
 - [2020-12-22T11:43:08] Improve logging and health endpoint metrics
+- [2020-12-22T09:09:12] Update schema migration helpers
