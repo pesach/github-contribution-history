@@ -23580,3 +23580,4 @@
 - [2020-12-22T11:42:23] Clean up legacy worker task routines
 - [2020-12-23T12:10:28] Update documentation and architectural guides
 - [2020-12-23T12:52:51] Update automated pytest test suites
+- [2020-12-23T11:46:32] Update B2 storage chunking parameters
