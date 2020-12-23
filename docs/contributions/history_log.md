@@ -23587,3 +23587,4 @@
 - [2020-12-23T14:04:54] Update schema migration helpers
 - [2020-12-23T15:55:37] Update automated pytest test suites
 - [2020-12-23T14:09:26] Add Prometheus exporter endpoints for queue length
+- [2020-12-23T13:54:05] Update documentation and architectural guides
