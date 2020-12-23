@@ -23578,3 +23578,4 @@
 - [2020-12-22T11:43:08] Improve logging and health endpoint metrics
 - [2020-12-22T09:09:12] Update schema migration helpers
 - [2020-12-22T11:42:23] Clean up legacy worker task routines
+- [2020-12-23T12:10:28] Update documentation and architectural guides
