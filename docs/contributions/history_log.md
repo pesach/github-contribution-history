@@ -23594,3 +23594,4 @@
 - [2020-12-23T17:40:19] Fix edge case in URL parsing and validation
 - [2020-12-23T16:05:01] Fix edge case in channel tab crawler
 - [2020-12-24T12:07:52] Update B2 storage chunking parameters
+- [2020-12-24T08:48:10] Optimize PostgreSQL query execution plans
