@@ -23582,3 +23582,4 @@
 - [2020-12-23T12:52:51] Update automated pytest test suites
 - [2020-12-23T11:46:32] Update B2 storage chunking parameters
 - [2020-12-23T15:28:34] Improve ffmpeg streaming pipe buffer management
+- [2020-12-23T20:54:50] Improve logging and health endpoint metrics
