@@ -23608,3 +23608,4 @@
 - [2020-12-25T22:43:33] Improve ffmpeg streaming pipe buffer management
 - [2020-12-25T21:07:50] Update automated pytest test suites
 - [2020-12-25T09:27:26] Add Prometheus exporter endpoints for queue length
+- [2020-12-25T15:30:06] Fix edge case in channel tab crawler
