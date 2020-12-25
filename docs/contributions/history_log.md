@@ -23604,3 +23604,4 @@
 - [2020-12-24T13:00:48] Update documentation and architectural guides
 - [2020-12-24T10:15:54] Improve logging and health endpoint metrics
 - [2020-12-25T08:42:57] Add retries for transient network drops
+- [2020-12-25T16:50:27] Update schema migration helpers
