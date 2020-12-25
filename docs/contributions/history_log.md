@@ -23598,3 +23598,4 @@
 - [2020-12-24T09:18:49] Refactor storage upload retry mechanism
 - [2020-12-24T08:21:13] Update B2 storage chunking parameters
 - [2020-12-24T21:39:05] Refactor storage upload retry mechanism
+- [2020-12-24T22:25:38] Improve logging and health endpoint metrics
