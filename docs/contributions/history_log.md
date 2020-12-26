@@ -23614,3 +23614,4 @@
 - [2020-12-25T19:50:13] Enhance dashboard statistics rendering
 - [2020-12-25T09:58:21] Refactor cookie refresher probe logic
 - [2020-12-25T17:54:18] Enhance dashboard statistics rendering
+- [2020-12-25T22:34:21] Add Prometheus exporter endpoints for queue length
