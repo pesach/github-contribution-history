@@ -23626,3 +23626,4 @@
 - [2020-12-28T19:23:52] Fix edge case in URL parsing and validation
 - [2020-12-28T21:37:45] Improve ffmpeg streaming pipe buffer management
 - [2020-12-28T20:52:26] Update dependency lockfiles and requirements
+- [2020-12-28T10:19:16] Fix edge case in channel tab crawler
