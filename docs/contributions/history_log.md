@@ -23628,3 +23628,4 @@
 - [2020-12-28T20:52:26] Update dependency lockfiles and requirements
 - [2020-12-28T10:19:16] Fix edge case in channel tab crawler
 - [2020-12-28T13:58:43] Update B2 storage chunking parameters
+- [2020-12-28T18:35:38] Optimize PostgreSQL query execution plans
