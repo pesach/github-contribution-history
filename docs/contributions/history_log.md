@@ -23632,3 +23632,4 @@
 - [2020-12-29T20:48:20] Improve ffmpeg streaming pipe buffer management
 - [2020-12-29T21:50:04] Fix edge case in URL parsing and validation
 - [2020-12-29T20:11:34] Enhance dashboard statistics rendering
+- [2020-12-29T15:36:26] Add Redis rate limit backoff handlers
