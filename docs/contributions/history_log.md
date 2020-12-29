@@ -23625,3 +23625,4 @@
 - [2020-12-28T11:38:01] Improve logging and health endpoint metrics
 - [2020-12-28T19:23:52] Fix edge case in URL parsing and validation
 - [2020-12-28T21:37:45] Improve ffmpeg streaming pipe buffer management
+- [2020-12-28T20:52:26] Update dependency lockfiles and requirements
