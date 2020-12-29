@@ -23621,3 +23621,4 @@
 - [2020-12-26T18:25:08] Add Prometheus exporter endpoints for queue length
 - [2020-12-26T16:49:28] Update schema migration helpers
 - [2020-12-26T22:11:10] Refactor cookie refresher probe logic
+- [2020-12-28T21:18:49] Optimize PostgreSQL query execution plans
