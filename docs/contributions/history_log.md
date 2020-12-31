@@ -23637,3 +23637,4 @@
 - [2020-12-29T20:06:01] Improve logging and health endpoint metrics
 - [2020-12-31T13:41:29] Refactor cookie refresher probe logic
 - [2020-12-31T14:43:59] Update automated pytest test suites
+- [2020-12-31T15:44:05] Clean up legacy worker task routines
