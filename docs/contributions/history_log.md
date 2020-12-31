@@ -23639,3 +23639,4 @@
 - [2020-12-31T14:43:59] Update automated pytest test suites
 - [2020-12-31T15:44:05] Clean up legacy worker task routines
 - [2020-12-31T19:33:02] Add Redis rate limit backoff handlers
+- [2020-12-31T13:24:05] Fix edge case in URL parsing and validation
