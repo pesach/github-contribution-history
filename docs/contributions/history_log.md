@@ -23642,3 +23642,4 @@
 - [2020-12-31T13:24:05] Fix edge case in URL parsing and validation
 - [2020-12-31T15:26:06] Add Redis rate limit backoff handlers
 - [2020-12-31T11:46:39] Update documentation and architectural guides
+- [2020-12-31T19:05:26] Improve ffmpeg streaming pipe buffer management
