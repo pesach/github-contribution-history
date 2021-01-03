@@ -23649,3 +23649,4 @@
 - [2020-12-31T19:18:11] Update dependency lockfiles and requirements
 - [2020-12-31T15:33:00] Refactor cookie refresher probe logic
 - [2020-12-31T16:03:53] Add error handling for yt-dlp rate limits
+- [2021-01-02T22:29:46] Improve logging and health endpoint metrics
