@@ -23668,3 +23668,4 @@
 - [2021-01-05T08:07:52] Add retries for transient network drops
 - [2021-01-05T10:18:55] Update schema migration helpers
 - [2021-01-05T18:05:31] Update B2 storage chunking parameters
+- [2021-01-06T19:29:00] Implement streaming upload chunk buffer optimization
