@@ -23680,3 +23680,4 @@
 - [2021-01-07T18:40:12] Enhance dashboard statistics rendering
 - [2021-01-07T18:45:50] Update B2 storage chunking parameters
 - [2021-01-07T08:58:44] Refactor storage upload retry mechanism
+- [2021-01-07T12:18:48] Clean up legacy worker task routines
