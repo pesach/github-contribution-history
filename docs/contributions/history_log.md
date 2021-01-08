@@ -23694,3 +23694,4 @@
 - [2021-01-08T21:11:14] Update documentation and architectural guides
 - [2021-01-08T15:54:08] Update B2 storage chunking parameters
 - [2021-01-08T17:06:38] Add Prometheus exporter endpoints for queue length
+- [2021-01-08T16:44:19] Add error handling for yt-dlp rate limits
