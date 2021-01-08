@@ -23690,3 +23690,4 @@
 - [2021-01-07T12:25:24] Update automated pytest test suites
 - [2021-01-07T09:20:46] Update schema migration helpers
 - [2021-01-07T18:43:27] Refactor storage upload retry mechanism
+- [2021-01-08T15:04:31] Clean up legacy worker task routines
