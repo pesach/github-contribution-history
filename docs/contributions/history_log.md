@@ -23701,3 +23701,4 @@
 - [2021-01-08T10:16:57] Clean up legacy worker task routines
 - [2021-01-08T11:58:32] Update dependency lockfiles and requirements
 - [2021-01-08T20:46:45] Refactor worker polling logic
+- [2021-01-09T12:29:41] Improve logging and health endpoint metrics
