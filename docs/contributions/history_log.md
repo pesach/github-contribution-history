@@ -23706,3 +23706,4 @@
 - [2021-01-09T15:02:17] Update automated pytest test suites
 - [2021-01-09T20:42:28] Clean up legacy worker task routines
 - [2021-01-09T10:21:58] Update dependency lockfiles and requirements
+- [2021-01-11T10:29:17] Add Redis rate limit backoff handlers
