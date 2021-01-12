@@ -23712,3 +23712,4 @@
 - [2021-01-11T16:16:29] Update documentation and architectural guides
 - [2021-01-11T21:42:49] Implement streaming upload chunk buffer optimization
 - [2021-01-11T13:38:16] Fix edge case in channel tab crawler
+- [2021-01-12T13:19:11] Fix edge case in URL parsing and validation
