@@ -23718,3 +23718,4 @@
 - [2021-01-12T22:15:19] Refactor cookie refresher probe logic
 - [2021-01-12T22:14:25] Update dependency lockfiles and requirements
 - [2021-01-12T10:41:35] Improve ffmpeg streaming pipe buffer management
+- [2021-01-12T19:26:14] Update schema migration helpers
