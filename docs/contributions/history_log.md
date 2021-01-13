@@ -23721,3 +23721,4 @@
 - [2021-01-12T19:26:14] Update schema migration helpers
 - [2021-01-12T22:52:33] Refactor worker polling logic
 - [2021-01-12T11:18:37] Update documentation and architectural guides
+- [2021-01-12T22:55:08] Add Prometheus exporter endpoints for queue length
