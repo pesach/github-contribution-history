@@ -23746,3 +23746,4 @@
 - [2021-01-15T10:19:54] Update dependency lockfiles and requirements
 - [2021-01-15T19:14:27] Update B2 storage chunking parameters
 - [2021-01-15T22:41:02] Add error handling for yt-dlp rate limits
+- [2021-01-15T18:34:36] Fix edge case in URL parsing and validation
