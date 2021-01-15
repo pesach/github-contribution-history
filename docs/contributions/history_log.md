@@ -23737,3 +23737,4 @@
 - [2021-01-14T09:15:23] Refactor worker polling logic
 - [2021-01-14T10:44:38] Add Redis rate limit backoff handlers
 - [2021-01-15T15:54:41] Update dependency lockfiles and requirements
+- [2021-01-15T09:38:02] Fix edge case in URL parsing and validation
