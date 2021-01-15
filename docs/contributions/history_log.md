@@ -23727,3 +23727,4 @@
 - [2021-01-12T08:10:55] Enhance dashboard statistics rendering
 - [2021-01-14T22:09:58] Improve logging and health endpoint metrics
 - [2021-01-14T13:02:19] Refactor storage upload retry mechanism
+- [2021-01-14T19:44:26] Update B2 storage chunking parameters
