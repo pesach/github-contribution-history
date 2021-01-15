@@ -23739,3 +23739,4 @@
 - [2021-01-15T15:54:41] Update dependency lockfiles and requirements
 - [2021-01-15T09:38:02] Fix edge case in URL parsing and validation
 - [2021-01-15T10:34:52] Update dependency lockfiles and requirements
+- [2021-01-15T10:08:39] Update B2 storage chunking parameters
