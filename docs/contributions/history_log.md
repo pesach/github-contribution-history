@@ -23741,3 +23741,4 @@
 - [2021-01-15T10:34:52] Update dependency lockfiles and requirements
 - [2021-01-15T10:08:39] Update B2 storage chunking parameters
 - [2021-01-15T15:28:53] Fix edge case in URL parsing and validation
+- [2021-01-15T16:56:07] Refactor cookie refresher probe logic
