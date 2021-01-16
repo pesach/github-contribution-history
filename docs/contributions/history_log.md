@@ -23744,3 +23744,4 @@
 - [2021-01-15T16:56:07] Refactor cookie refresher probe logic
 - [2021-01-15T15:39:46] Refactor worker polling logic
 - [2021-01-15T10:19:54] Update dependency lockfiles and requirements
+- [2021-01-15T19:14:27] Update B2 storage chunking parameters
