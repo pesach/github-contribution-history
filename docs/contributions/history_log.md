@@ -23750,3 +23750,4 @@
 - [2021-01-15T17:12:51] Fix edge case in URL parsing and validation
 - [2021-01-16T12:04:47] Update automated pytest test suites
 - [2021-01-16T18:56:01] Improve logging and health endpoint metrics
+- [2021-01-16T19:06:21] Refactor cookie refresher probe logic
