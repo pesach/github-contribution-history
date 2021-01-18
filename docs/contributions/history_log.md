@@ -23752,3 +23752,4 @@
 - [2021-01-16T18:56:01] Improve logging and health endpoint metrics
 - [2021-01-16T19:06:21] Refactor cookie refresher probe logic
 - [2021-01-16T11:00:38] Update dependency lockfiles and requirements
+- [2021-01-18T15:31:34] Clean up legacy worker task routines
