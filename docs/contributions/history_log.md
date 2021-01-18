@@ -23755,3 +23755,4 @@
 - [2021-01-18T15:31:34] Clean up legacy worker task routines
 - [2021-01-18T11:44:12] Enhance dashboard statistics rendering
 - [2021-01-18T20:49:41] Improve logging and health endpoint metrics
+- [2021-01-18T13:37:32] Update schema migration helpers
