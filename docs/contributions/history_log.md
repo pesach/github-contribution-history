@@ -23757,3 +23757,4 @@
 - [2021-01-18T20:49:41] Improve logging and health endpoint metrics
 - [2021-01-18T13:37:32] Update schema migration helpers
 - [2021-01-18T13:42:51] Improve ffmpeg streaming pipe buffer management
+- [2021-01-18T18:53:31] Update schema migration helpers
