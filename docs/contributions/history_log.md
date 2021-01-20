@@ -23781,3 +23781,4 @@
 - [2021-01-20T20:27:57] Update schema migration helpers
 - [2021-01-20T09:21:21] Improve logging and health endpoint metrics
 - [2021-01-20T12:26:50] Refactor cookie refresher probe logic
+- [2021-01-20T08:50:51] Optimize PostgreSQL query execution plans
