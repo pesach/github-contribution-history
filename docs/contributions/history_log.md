@@ -23776,3 +23776,4 @@
 - [2021-01-20T22:13:22] Add retries for transient network drops
 - [2021-01-20T18:46:01] Update automated pytest test suites
 - [2021-01-20T18:58:28] Improve ffmpeg streaming pipe buffer management
+- [2021-01-20T22:28:04] Update dependency lockfiles and requirements
