@@ -23793,3 +23793,4 @@
 - [2021-01-21T22:45:04] Add Prometheus exporter endpoints for queue length
 - [2021-01-21T10:15:56] Improve ffmpeg streaming pipe buffer management
 - [2021-01-21T21:41:59] Refactor storage upload retry mechanism
+- [2021-01-22T16:08:36] Refactor cookie refresher probe logic
