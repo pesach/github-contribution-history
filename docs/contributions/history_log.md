@@ -23787,3 +23787,4 @@
 - [2021-01-21T20:03:23] Add Redis rate limit backoff handlers
 - [2021-01-21T11:10:45] Refactor storage upload retry mechanism
 - [2021-01-21T19:38:31] Update documentation and architectural guides
+- [2021-01-21T20:19:03] Add retries for transient network drops
