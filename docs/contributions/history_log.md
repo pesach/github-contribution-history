@@ -23805,3 +23805,4 @@
 - [2021-01-23T09:21:45] Improve logging and health endpoint metrics
 - [2021-01-24T16:52:29] Add error handling for yt-dlp rate limits
 - [2021-01-24T18:25:48] Optimize PostgreSQL query execution plans
+- [2021-01-24T11:01:52] Add Redis rate limit backoff handlers
