@@ -23806,3 +23806,4 @@
 - [2021-01-24T16:52:29] Add error handling for yt-dlp rate limits
 - [2021-01-24T18:25:48] Optimize PostgreSQL query execution plans
 - [2021-01-24T11:01:52] Add Redis rate limit backoff handlers
+- [2021-01-26T15:06:25] Fix edge case in channel tab crawler
