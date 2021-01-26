@@ -23811,3 +23811,4 @@
 - [2021-01-26T20:36:48] Add retries for transient network drops
 - [2021-01-26T10:58:49] Fix edge case in channel tab crawler
 - [2021-01-26T21:44:03] Add Prometheus exporter endpoints for queue length
+- [2021-01-26T13:23:52] Update schema migration helpers
