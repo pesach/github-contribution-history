@@ -23822,3 +23822,4 @@
 - [2021-01-27T13:10:29] Fix edge case in channel tab crawler
 - [2021-01-27T21:28:25] Update B2 storage chunking parameters
 - [2021-01-27T20:02:59] Add retries for transient network drops
+- [2021-01-27T16:37:46] Add error handling for yt-dlp rate limits
