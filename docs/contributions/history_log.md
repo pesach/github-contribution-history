@@ -23833,3 +23833,4 @@
 - [2021-01-28T11:40:57] Optimize PostgreSQL query execution plans
 - [2021-01-28T20:08:03] Improve ffmpeg streaming pipe buffer management
 - [2021-01-28T10:47:14] Refactor worker polling logic
+- [2021-01-28T13:31:00] Add error handling for yt-dlp rate limits
