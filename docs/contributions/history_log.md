@@ -23837,3 +23837,4 @@
 - [2021-01-28T16:34:11] Fix edge case in channel tab crawler
 - [2021-01-29T09:56:15] Enhance dashboard statistics rendering
 - [2021-01-29T10:47:18] Add Prometheus exporter endpoints for queue length
+- [2021-01-29T08:32:12] Refactor worker polling logic
