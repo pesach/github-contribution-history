@@ -23847,3 +23847,4 @@
 - [2021-01-29T22:23:00] Update dependency lockfiles and requirements
 - [2021-01-29T13:33:50] Clean up legacy worker task routines
 - [2021-01-30T20:10:14] Update dependency lockfiles and requirements
+- [2021-01-30T12:13:44] Refactor worker polling logic
