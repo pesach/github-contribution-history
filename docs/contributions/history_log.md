@@ -23881,3 +23881,4 @@
 - [2021-02-03T19:00:23] Fix edge case in channel tab crawler
 - [2021-02-03T10:35:38] Clean up legacy worker task routines
 - [2021-02-03T09:26:37] Clean up legacy worker task routines
+- [2021-02-03T13:53:35] Update schema migration helpers
