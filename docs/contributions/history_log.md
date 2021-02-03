@@ -23879,3 +23879,4 @@
 - [2021-02-03T17:48:50] Update automated pytest test suites
 - [2021-02-03T08:57:56] Fix edge case in channel tab crawler
 - [2021-02-03T19:00:23] Fix edge case in channel tab crawler
+- [2021-02-03T10:35:38] Clean up legacy worker task routines
