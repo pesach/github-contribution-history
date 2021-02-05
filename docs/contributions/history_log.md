@@ -23890,3 +23890,4 @@
 - [2021-02-05T18:19:17] Clean up legacy worker task routines
 - [2021-02-05T14:02:47] Refactor cookie refresher probe logic
 - [2021-02-05T17:35:38] Clean up legacy worker task routines
+- [2021-02-05T12:04:06] Add error handling for yt-dlp rate limits
