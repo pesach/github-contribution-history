@@ -23886,3 +23886,4 @@
 - [2021-02-03T13:00:17] Improve ffmpeg streaming pipe buffer management
 - [2021-02-03T20:50:32] Update automated pytest test suites
 - [2021-02-05T13:25:04] Clean up legacy worker task routines
+- [2021-02-05T20:04:40] Refactor cookie refresher probe logic
