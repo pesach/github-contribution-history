@@ -23900,3 +23900,4 @@
 - [2021-02-08T18:29:51] Improve logging and health endpoint metrics
 - [2021-02-08T12:29:45] Add error handling for yt-dlp rate limits
 - [2021-02-08T21:21:07] Fix edge case in URL parsing and validation
+- [2021-02-08T11:02:01] Update B2 storage chunking parameters
