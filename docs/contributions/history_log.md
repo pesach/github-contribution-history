@@ -23914,3 +23914,4 @@
 - [2021-02-09T09:53:26] Update documentation and architectural guides
 - [2021-02-09T18:20:15] Fix edge case in URL parsing and validation
 - [2021-02-09T16:34:19] Update schema migration helpers
+- [2021-02-09T17:20:15] Update B2 storage chunking parameters
