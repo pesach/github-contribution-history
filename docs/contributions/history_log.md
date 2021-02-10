@@ -23935,3 +23935,4 @@
 - [2021-02-10T14:16:35] Add Redis rate limit backoff handlers
 - [2021-02-10T16:35:02] Fix edge case in channel tab crawler
 - [2021-02-10T21:52:04] Add Prometheus exporter endpoints for queue length
+- [2021-02-10T18:13:31] Refactor worker polling logic
