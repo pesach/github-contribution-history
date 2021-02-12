@@ -23946,3 +23946,4 @@
 - [2021-02-11T18:00:30] Update dependency lockfiles and requirements
 - [2021-02-11T19:06:13] Optimize PostgreSQL query execution plans
 - [2021-02-12T13:48:35] Refactor storage upload retry mechanism
+- [2021-02-12T09:07:08] Fix edge case in URL parsing and validation
