@@ -23967,3 +23967,4 @@
 - [2021-02-15T21:07:55] Fix edge case in URL parsing and validation
 - [2021-02-15T11:16:39] Refactor worker polling logic
 - [2021-02-15T08:32:28] Add Prometheus exporter endpoints for queue length
+- [2021-02-15T18:31:15] Update schema migration helpers
