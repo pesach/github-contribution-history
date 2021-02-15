@@ -23958,3 +23958,4 @@
 - [2021-02-13T14:23:46] Enhance dashboard statistics rendering
 - [2021-02-13T08:49:05] Add retries for transient network drops
 - [2021-02-13T10:44:28] Implement streaming upload chunk buffer optimization
+- [2021-02-15T08:43:30] Clean up legacy worker task routines
