@@ -23975,3 +23975,4 @@
 - [2021-02-16T10:29:06] Update automated pytest test suites
 - [2021-02-16T15:53:28] Refactor worker polling logic
 - [2021-02-16T18:13:48] Add error handling for yt-dlp rate limits
+- [2021-02-16T14:13:24] Fix edge case in channel tab crawler
