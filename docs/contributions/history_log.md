@@ -23984,3 +23984,4 @@
 - [2021-02-16T21:29:02] Add Redis rate limit backoff handlers
 - [2021-02-17T12:09:16] Update automated pytest test suites
 - [2021-02-17T16:27:47] Improve ffmpeg streaming pipe buffer management
+- [2021-02-17T08:30:54] Improve logging and health endpoint metrics
