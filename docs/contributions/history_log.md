@@ -23986,3 +23986,4 @@
 - [2021-02-17T16:27:47] Improve ffmpeg streaming pipe buffer management
 - [2021-02-17T08:30:54] Improve logging and health endpoint metrics
 - [2021-02-17T19:14:46] Fix edge case in URL parsing and validation
+- [2021-02-17T11:19:14] Add error handling for yt-dlp rate limits
