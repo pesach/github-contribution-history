@@ -23992,3 +23992,4 @@
 - [2021-02-17T16:24:53] Add Prometheus exporter endpoints for queue length
 - [2021-02-17T22:55:26] Update schema migration helpers
 - [2021-02-18T09:15:13] Add retries for transient network drops
+- [2021-02-18T13:01:33] Add Redis rate limit backoff handlers
