@@ -24005,3 +24005,4 @@
 - [2021-02-19T19:31:01] Improve logging and health endpoint metrics
 - [2021-02-19T09:20:55] Refactor cookie refresher probe logic
 - [2021-02-19T12:24:43] Clean up legacy worker task routines
+- [2021-02-19T11:49:14] Add error handling for yt-dlp rate limits
