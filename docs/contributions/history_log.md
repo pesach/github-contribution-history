@@ -24003,3 +24003,4 @@
 - [2021-02-19T15:01:52] Update documentation and architectural guides
 - [2021-02-19T19:50:28] Update automated pytest test suites
 - [2021-02-19T19:31:01] Improve logging and health endpoint metrics
+- [2021-02-19T09:20:55] Refactor cookie refresher probe logic
