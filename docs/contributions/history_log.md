@@ -24012,3 +24012,4 @@
 - [2021-02-20T08:39:47] Implement streaming upload chunk buffer optimization
 - [2021-02-20T17:59:09] Refactor cookie refresher probe logic
 - [2021-02-20T22:29:13] Update automated pytest test suites
+- [2021-02-20T21:28:33] Add Prometheus exporter endpoints for queue length
