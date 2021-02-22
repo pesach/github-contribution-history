@@ -24019,3 +24019,4 @@
 - [2021-02-21T12:47:56] Update automated pytest test suites
 - [2021-02-21T20:05:40] Refactor storage upload retry mechanism
 - [2021-02-22T17:27:25] Refactor worker polling logic
+- [2021-02-22T08:52:05] Update documentation and architectural guides
