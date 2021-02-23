@@ -24029,3 +24029,4 @@
 - [2021-02-22T13:27:54] Update schema migration helpers
 - [2021-02-22T22:40:34] Add retries for transient network drops
 - [2021-02-22T18:58:00] Update schema migration helpers
+- [2021-02-22T21:02:48] Refactor worker polling logic
