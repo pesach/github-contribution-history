@@ -24060,3 +24060,4 @@
 - [2021-02-25T11:56:23] Update B2 storage chunking parameters
 - [2021-02-25T19:53:14] Update schema migration helpers
 - [2021-02-25T10:29:59] Improve logging and health endpoint metrics
+- [2021-02-25T13:48:26] Add error handling for yt-dlp rate limits
