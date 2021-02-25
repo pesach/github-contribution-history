@@ -24056,3 +24056,4 @@
 - [2021-02-25T15:41:32] Add retries for transient network drops
 - [2021-02-25T08:07:51] Update dependency lockfiles and requirements
 - [2021-02-25T08:07:54] Update automated pytest test suites
+- [2021-02-25T10:33:23] Add error handling for yt-dlp rate limits
