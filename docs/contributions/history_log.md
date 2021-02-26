@@ -24065,3 +24065,4 @@
 - [2021-02-26T20:11:32] Clean up legacy worker task routines
 - [2021-02-26T16:54:48] Improve logging and health endpoint metrics
 - [2021-02-26T12:30:50] Add Redis rate limit backoff handlers
+- [2021-02-26T17:56:51] Refactor worker polling logic
