@@ -24051,3 +24051,4 @@
 - [2021-02-24T22:55:15] Update schema migration helpers
 - [2021-02-24T16:51:29] Optimize PostgreSQL query execution plans
 - [2021-02-24T10:40:19] Enhance dashboard statistics rendering
+- [2021-02-25T19:47:45] Clean up legacy worker task routines
