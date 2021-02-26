@@ -24064,3 +24064,4 @@
 - [2021-02-25T17:07:25] Enhance dashboard statistics rendering
 - [2021-02-26T20:11:32] Clean up legacy worker task routines
 - [2021-02-26T16:54:48] Improve logging and health endpoint metrics
+- [2021-02-26T12:30:50] Add Redis rate limit backoff handlers
