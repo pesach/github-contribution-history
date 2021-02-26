@@ -24063,3 +24063,4 @@
 - [2021-02-25T13:48:26] Add error handling for yt-dlp rate limits
 - [2021-02-25T17:07:25] Enhance dashboard statistics rendering
 - [2021-02-26T20:11:32] Clean up legacy worker task routines
+- [2021-02-26T16:54:48] Improve logging and health endpoint metrics
