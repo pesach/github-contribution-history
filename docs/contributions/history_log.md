@@ -24074,3 +24074,4 @@
 - [2021-02-27T13:54:42] Fix edge case in URL parsing and validation
 - [2021-02-27T20:04:09] Add error handling for yt-dlp rate limits
 - [2021-02-27T09:33:34] Improve logging and health endpoint metrics
+- [2021-02-27T10:40:37] Refactor cookie refresher probe logic
