@@ -24089,3 +24089,4 @@
 - [2021-03-01T20:00:47] Update B2 storage chunking parameters
 - [2021-03-01T16:53:36] Refactor storage upload retry mechanism
 - [2021-03-01T11:20:02] Improve logging and health endpoint metrics
+- [2021-03-01T17:27:56] Add error handling for yt-dlp rate limits
