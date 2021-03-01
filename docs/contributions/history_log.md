@@ -24090,3 +24090,4 @@
 - [2021-03-01T16:53:36] Refactor storage upload retry mechanism
 - [2021-03-01T11:20:02] Improve logging and health endpoint metrics
 - [2021-03-01T17:27:56] Add error handling for yt-dlp rate limits
+- [2021-03-01T12:51:56] Clean up legacy worker task routines
