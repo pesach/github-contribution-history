@@ -24091,3 +24091,4 @@
 - [2021-03-01T11:20:02] Improve logging and health endpoint metrics
 - [2021-03-01T17:27:56] Add error handling for yt-dlp rate limits
 - [2021-03-01T12:51:56] Clean up legacy worker task routines
+- [2021-03-01T13:52:42] Update schema migration helpers
