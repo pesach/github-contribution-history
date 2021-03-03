@@ -24103,3 +24103,4 @@
 - [2021-03-03T12:52:00] Update dependency lockfiles and requirements
 - [2021-03-03T21:07:17] Add Prometheus exporter endpoints for queue length
 - [2021-03-03T18:35:26] Update schema migration helpers
+- [2021-03-03T09:00:38] Improve ffmpeg streaming pipe buffer management
