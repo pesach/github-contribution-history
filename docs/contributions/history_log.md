@@ -24105,3 +24105,4 @@
 - [2021-03-03T18:35:26] Update schema migration helpers
 - [2021-03-03T09:00:38] Improve ffmpeg streaming pipe buffer management
 - [2021-03-03T21:15:03] Fix edge case in channel tab crawler
+- [2021-03-03T20:35:33] Fix edge case in channel tab crawler
