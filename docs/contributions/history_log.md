@@ -24115,3 +24115,4 @@
 - [2021-03-04T15:27:31] Add Prometheus exporter endpoints for queue length
 - [2021-03-04T10:24:43] Refactor worker polling logic
 - [2021-03-04T11:22:10] Refactor worker polling logic
+- [2021-03-04T17:33:23] Fix edge case in URL parsing and validation
