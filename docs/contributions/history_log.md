@@ -24121,3 +24121,4 @@
 - [2021-03-05T15:35:25] Fix edge case in URL parsing and validation
 - [2021-03-05T13:32:22] Update B2 storage chunking parameters
 - [2021-03-05T17:00:48] Implement streaming upload chunk buffer optimization
+- [2021-03-05T09:19:33] Clean up legacy worker task routines
