@@ -24127,3 +24127,4 @@
 - [2021-03-05T16:38:08] Fix edge case in URL parsing and validation
 - [2021-03-05T12:16:24] Update documentation and architectural guides
 - [2021-03-05T11:13:46] Add error handling for yt-dlp rate limits
+- [2021-03-05T18:52:52] Refactor worker polling logic
