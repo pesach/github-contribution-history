@@ -24131,3 +24131,4 @@
 - [2021-03-05T21:08:07] Improve logging and health endpoint metrics
 - [2021-03-05T18:53:04] Add retries for transient network drops
 - [2021-03-06T15:27:37] Improve logging and health endpoint metrics
+- [2021-03-06T17:00:19] Clean up legacy worker task routines
