@@ -24134,3 +24134,4 @@
 - [2021-03-06T17:00:19] Clean up legacy worker task routines
 - [2021-03-06T22:24:12] Update automated pytest test suites
 - [2021-03-06T15:17:16] Refactor worker polling logic
+- [2021-03-07T09:24:52] Add retries for transient network drops
