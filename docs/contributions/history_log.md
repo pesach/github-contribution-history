@@ -24136,3 +24136,4 @@
 - [2021-03-06T15:17:16] Refactor worker polling logic
 - [2021-03-07T09:24:52] Add retries for transient network drops
 - [2021-03-07T10:25:57] Enhance dashboard statistics rendering
+- [2021-03-07T15:10:16] Clean up legacy worker task routines
