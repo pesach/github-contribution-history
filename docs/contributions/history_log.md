@@ -24142,3 +24142,4 @@
 - [2021-03-08T15:20:39] Add Redis rate limit backoff handlers
 - [2021-03-08T17:14:29] Update schema migration helpers
 - [2021-03-08T21:51:47] Improve ffmpeg streaming pipe buffer management
+- [2021-03-08T16:41:26] Refactor storage upload retry mechanism
