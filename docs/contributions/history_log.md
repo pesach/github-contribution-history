@@ -24139,3 +24139,4 @@
 - [2021-03-07T15:10:16] Clean up legacy worker task routines
 - [2021-03-08T21:21:04] Add Prometheus exporter endpoints for queue length
 - [2021-03-08T12:05:32] Update schema migration helpers
+- [2021-03-08T15:20:39] Add Redis rate limit backoff handlers
