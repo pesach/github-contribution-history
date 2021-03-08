@@ -24138,3 +24138,4 @@
 - [2021-03-07T10:25:57] Enhance dashboard statistics rendering
 - [2021-03-07T15:10:16] Clean up legacy worker task routines
 - [2021-03-08T21:21:04] Add Prometheus exporter endpoints for queue length
+- [2021-03-08T12:05:32] Update schema migration helpers
