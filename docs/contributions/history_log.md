@@ -24149,3 +24149,4 @@
 - [2021-03-08T10:51:51] Clean up legacy worker task routines
 - [2021-03-08T16:45:08] Fix edge case in channel tab crawler
 - [2021-03-08T16:58:46] Update automated pytest test suites
+- [2021-03-08T16:21:02] Refactor worker polling logic
