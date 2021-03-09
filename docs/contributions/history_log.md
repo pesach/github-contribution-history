@@ -24156,3 +24156,4 @@
 - [2021-03-09T09:23:48] Improve ffmpeg streaming pipe buffer management
 - [2021-03-09T16:50:24] Update dependency lockfiles and requirements
 - [2021-03-09T13:20:55] Update automated pytest test suites
+- [2021-03-09T10:17:33] Update schema migration helpers
