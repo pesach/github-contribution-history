@@ -24157,3 +24157,4 @@
 - [2021-03-09T16:50:24] Update dependency lockfiles and requirements
 - [2021-03-09T13:20:55] Update automated pytest test suites
 - [2021-03-09T10:17:33] Update schema migration helpers
+- [2021-03-09T11:40:01] Fix edge case in channel tab crawler
