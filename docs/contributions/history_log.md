@@ -24158,3 +24158,4 @@
 - [2021-03-09T13:20:55] Update automated pytest test suites
 - [2021-03-09T10:17:33] Update schema migration helpers
 - [2021-03-09T11:40:01] Fix edge case in channel tab crawler
+- [2021-03-10T14:36:32] Update documentation and architectural guides
