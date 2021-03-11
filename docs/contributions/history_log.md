@@ -24179,3 +24179,4 @@
 - [2021-03-11T08:08:26] Enhance dashboard statistics rendering
 - [2021-03-11T12:41:10] Update B2 storage chunking parameters
 - [2021-03-11T17:02:19] Update B2 storage chunking parameters
+- [2021-03-11T13:02:35] Add error handling for yt-dlp rate limits
