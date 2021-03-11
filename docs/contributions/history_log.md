@@ -24162,3 +24162,4 @@
 - [2021-03-10T12:28:44] Refactor storage upload retry mechanism
 - [2021-03-10T15:18:58] Fix edge case in URL parsing and validation
 - [2021-03-10T21:17:52] Add Prometheus exporter endpoints for queue length
+- [2021-03-10T21:20:54] Clean up legacy worker task routines
