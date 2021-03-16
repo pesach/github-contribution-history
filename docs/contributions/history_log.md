@@ -24210,3 +24210,4 @@
 - [2021-03-15T22:57:03] Improve ffmpeg streaming pipe buffer management
 - [2021-03-15T22:42:41] Fix edge case in URL parsing and validation
 - [2021-03-15T11:43:16] Refactor storage upload retry mechanism
+- [2021-03-15T21:44:09] Clean up legacy worker task routines
