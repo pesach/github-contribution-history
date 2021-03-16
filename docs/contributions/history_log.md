@@ -24213,3 +24213,4 @@
 - [2021-03-15T21:44:09] Clean up legacy worker task routines
 - [2021-03-16T22:01:05] Fix edge case in URL parsing and validation
 - [2021-03-16T21:14:42] Enhance dashboard statistics rendering
+- [2021-03-16T08:59:33] Update schema migration helpers
