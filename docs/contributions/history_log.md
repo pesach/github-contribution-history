@@ -24214,3 +24214,4 @@
 - [2021-03-16T22:01:05] Fix edge case in URL parsing and validation
 - [2021-03-16T21:14:42] Enhance dashboard statistics rendering
 - [2021-03-16T08:59:33] Update schema migration helpers
+- [2021-03-16T17:58:00] Update B2 storage chunking parameters
