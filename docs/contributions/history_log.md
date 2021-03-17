@@ -24223,3 +24223,4 @@
 - [2021-03-17T15:39:25] Improve ffmpeg streaming pipe buffer management
 - [2021-03-17T09:53:07] Refactor worker polling logic
 - [2021-03-17T16:53:21] Add retries for transient network drops
+- [2021-03-17T12:48:31] Add retries for transient network drops
