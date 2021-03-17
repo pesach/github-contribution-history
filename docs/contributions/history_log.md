@@ -24211,3 +24211,4 @@
 - [2021-03-15T22:42:41] Fix edge case in URL parsing and validation
 - [2021-03-15T11:43:16] Refactor storage upload retry mechanism
 - [2021-03-15T21:44:09] Clean up legacy worker task routines
+- [2021-03-16T22:01:05] Fix edge case in URL parsing and validation
