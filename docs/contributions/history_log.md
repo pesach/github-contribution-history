@@ -24220,3 +24220,4 @@
 - [2021-03-16T12:49:20] Add Prometheus exporter endpoints for queue length
 - [2021-03-16T14:00:29] Update automated pytest test suites
 - [2021-03-16T19:09:39] Refactor cookie refresher probe logic
+- [2021-03-17T15:39:25] Improve ffmpeg streaming pipe buffer management
