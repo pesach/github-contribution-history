@@ -24225,3 +24225,4 @@
 - [2021-03-17T16:53:21] Add retries for transient network drops
 - [2021-03-17T12:48:31] Add retries for transient network drops
 - [2021-03-17T22:38:15] Fix edge case in URL parsing and validation
+- [2021-03-17T10:49:00] Implement streaming upload chunk buffer optimization
