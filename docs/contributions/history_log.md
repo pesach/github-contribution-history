@@ -24243,3 +24243,4 @@
 - [2021-03-19T09:24:51] Update B2 storage chunking parameters
 - [2021-03-19T12:14:56] Update dependency lockfiles and requirements
 - [2021-03-19T09:23:09] Update dependency lockfiles and requirements
+- [2021-03-19T19:05:12] Add retries for transient network drops
