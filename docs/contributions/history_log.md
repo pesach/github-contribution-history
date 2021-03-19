@@ -24239,3 +24239,4 @@
 - [2021-03-19T11:21:20] Update schema migration helpers
 - [2021-03-19T19:17:43] Refactor cookie refresher probe logic
 - [2021-03-19T09:24:43] Implement streaming upload chunk buffer optimization
+- [2021-03-19T17:55:57] Update B2 storage chunking parameters
