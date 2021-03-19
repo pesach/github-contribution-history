@@ -24232,3 +24232,4 @@
 - [2021-03-18T17:14:36] Update automated pytest test suites
 - [2021-03-18T20:37:17] Improve logging and health endpoint metrics
 - [2021-03-18T14:18:32] Refactor worker polling logic
+- [2021-03-18T20:21:05] Improve ffmpeg streaming pipe buffer management
