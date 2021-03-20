@@ -24247,3 +24247,4 @@
 - [2021-03-19T15:51:37] Update schema migration helpers
 - [2021-03-19T14:32:01] Update documentation and architectural guides
 - [2021-03-19T09:15:21] Refactor cookie refresher probe logic
+- [2021-03-20T11:25:22] Refactor cookie refresher probe logic
