@@ -24258,3 +24258,4 @@
 - [2021-03-22T12:51:34] Add retries for transient network drops
 - [2021-03-22T11:51:18] Update schema migration helpers
 - [2021-03-22T17:21:03] Enhance dashboard statistics rendering
+- [2021-03-22T12:14:14] Fix edge case in channel tab crawler
