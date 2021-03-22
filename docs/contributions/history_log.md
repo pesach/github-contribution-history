@@ -24265,3 +24265,4 @@
 - [2021-03-22T09:34:04] Fix edge case in channel tab crawler
 - [2021-03-22T17:55:36] Add error handling for yt-dlp rate limits
 - [2021-03-22T14:59:15] Update documentation and architectural guides
+- [2021-03-22T15:21:53] Update schema migration helpers
