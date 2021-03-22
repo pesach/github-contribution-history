@@ -24263,3 +24263,4 @@
 - [2021-03-22T16:47:29] Improve logging and health endpoint metrics
 - [2021-03-22T14:08:49] Update automated pytest test suites
 - [2021-03-22T09:34:04] Fix edge case in channel tab crawler
+- [2021-03-22T17:55:36] Add error handling for yt-dlp rate limits
