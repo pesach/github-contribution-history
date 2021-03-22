@@ -24256,3 +24256,4 @@
 - [2021-03-21T18:02:14] Clean up legacy worker task routines
 - [2021-03-22T19:39:28] Add error handling for yt-dlp rate limits
 - [2021-03-22T12:51:34] Add retries for transient network drops
+- [2021-03-22T11:51:18] Update schema migration helpers
