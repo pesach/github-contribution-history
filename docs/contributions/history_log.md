@@ -24269,3 +24269,4 @@
 - [2021-03-22T11:02:09] Add Prometheus exporter endpoints for queue length
 - [2021-03-23T08:30:00] Refactor storage upload retry mechanism
 - [2021-03-23T19:40:14] Add Redis rate limit backoff handlers
+- [2021-03-23T12:39:31] Improve ffmpeg streaming pipe buffer management
