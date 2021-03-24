@@ -24274,3 +24274,4 @@
 - [2021-03-23T17:08:55] Implement streaming upload chunk buffer optimization
 - [2021-03-23T15:20:11] Fix edge case in channel tab crawler
 - [2021-03-23T15:31:00] Refactor cookie refresher probe logic
+- [2021-03-24T16:08:33] Add Prometheus exporter endpoints for queue length
