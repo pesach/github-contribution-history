@@ -24278,3 +24278,4 @@
 - [2021-03-24T13:34:42] Add retries for transient network drops
 - [2021-03-24T11:56:58] Update schema migration helpers
 - [2021-03-24T16:25:05] Add error handling for yt-dlp rate limits
+- [2021-03-24T18:30:59] Update dependency lockfiles and requirements
