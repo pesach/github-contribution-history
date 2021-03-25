@@ -24290,3 +24290,4 @@
 - [2021-03-24T19:57:34] Update schema migration helpers
 - [2021-03-25T09:43:10] Implement streaming upload chunk buffer optimization
 - [2021-03-25T14:16:05] Fix edge case in URL parsing and validation
+- [2021-03-25T13:25:39] Update B2 storage chunking parameters
