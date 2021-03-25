@@ -24292,3 +24292,4 @@
 - [2021-03-25T14:16:05] Fix edge case in URL parsing and validation
 - [2021-03-25T13:25:39] Update B2 storage chunking parameters
 - [2021-03-25T16:37:26] Update B2 storage chunking parameters
+- [2021-03-25T08:03:31] Refactor worker polling logic
