@@ -24297,3 +24297,4 @@
 - [2021-03-26T10:39:52] Refactor storage upload retry mechanism
 - [2021-03-26T15:03:25] Fix edge case in URL parsing and validation
 - [2021-03-26T08:15:45] Update B2 storage chunking parameters
+- [2021-03-26T10:20:58] Add retries for transient network drops
