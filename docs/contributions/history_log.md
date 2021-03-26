@@ -24295,3 +24295,4 @@
 - [2021-03-25T08:03:31] Refactor worker polling logic
 - [2021-03-25T14:07:37] Add Prometheus exporter endpoints for queue length
 - [2021-03-26T10:39:52] Refactor storage upload retry mechanism
+- [2021-03-26T15:03:25] Fix edge case in URL parsing and validation
