@@ -24299,3 +24299,4 @@
 - [2021-03-26T08:15:45] Update B2 storage chunking parameters
 - [2021-03-26T10:20:58] Add retries for transient network drops
 - [2021-03-26T09:11:24] Update automated pytest test suites
+- [2021-03-26T20:08:30] Improve logging and health endpoint metrics
