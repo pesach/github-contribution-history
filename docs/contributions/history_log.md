@@ -24303,3 +24303,4 @@
 - [2021-03-27T17:02:32] Add retries for transient network drops
 - [2021-03-27T12:38:24] Refactor cookie refresher probe logic
 - [2021-03-27T09:53:22] Enhance dashboard statistics rendering
+- [2021-03-27T20:13:59] Fix edge case in URL parsing and validation
