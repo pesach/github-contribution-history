@@ -24306,3 +24306,4 @@
 - [2021-03-27T20:13:59] Fix edge case in URL parsing and validation
 - [2021-03-27T16:18:04] Clean up legacy worker task routines
 - [2021-03-28T12:40:15] Improve ffmpeg streaming pipe buffer management
+- [2021-03-28T16:15:16] Refactor worker polling logic
