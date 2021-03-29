@@ -24311,3 +24311,4 @@
 - [2021-03-28T22:09:28] Update dependency lockfiles and requirements
 - [2021-03-29T21:08:16] Clean up legacy worker task routines
 - [2021-03-29T17:06:01] Enhance dashboard statistics rendering
+- [2021-03-29T08:22:32] Add error handling for yt-dlp rate limits
