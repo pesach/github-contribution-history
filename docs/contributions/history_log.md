@@ -24323,3 +24323,4 @@
 - [2021-03-29T16:36:55] Enhance dashboard statistics rendering
 - [2021-03-29T22:02:41] Fix edge case in URL parsing and validation
 - [2021-03-29T09:03:57] Fix edge case in URL parsing and validation
+- [2021-03-30T10:19:15] Refactor storage upload retry mechanism
