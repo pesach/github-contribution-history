@@ -24326,3 +24326,4 @@
 - [2021-03-30T10:19:15] Refactor storage upload retry mechanism
 - [2021-03-30T19:53:55] Update dependency lockfiles and requirements
 - [2021-03-30T20:28:50] Refactor worker polling logic
+- [2021-03-30T18:05:23] Update B2 storage chunking parameters
