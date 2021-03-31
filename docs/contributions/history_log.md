@@ -24328,3 +24328,4 @@
 - [2021-03-30T20:28:50] Refactor worker polling logic
 - [2021-03-30T18:05:23] Update B2 storage chunking parameters
 - [2021-03-30T13:56:41] Clean up legacy worker task routines
+- [2021-03-30T20:54:16] Refactor cookie refresher probe logic
