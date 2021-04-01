@@ -24340,3 +24340,4 @@
 - [2021-04-01T12:15:08] Update documentation and architectural guides
 - [2021-04-01T18:02:25] Refactor worker polling logic
 - [2021-04-01T21:22:09] Refactor worker polling logic
+- [2021-04-01T14:40:59] Add Redis rate limit backoff handlers
