@@ -24337,3 +24337,4 @@
 - [2021-03-31T16:35:30] Improve logging and health endpoint metrics
 - [2021-03-31T15:49:07] Improve logging and health endpoint metrics
 - [2021-03-31T17:33:41] Clean up legacy worker task routines
+- [2021-04-01T12:15:08] Update documentation and architectural guides
