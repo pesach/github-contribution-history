@@ -24352,3 +24352,4 @@
 - [2021-04-02T18:37:57] Improve ffmpeg streaming pipe buffer management
 - [2021-04-02T19:16:43] Update schema migration helpers
 - [2021-04-03T15:44:10] Improve logging and health endpoint metrics
+- [2021-04-03T10:45:18] Clean up legacy worker task routines
