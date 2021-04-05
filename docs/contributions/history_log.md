@@ -24361,3 +24361,4 @@
 - [2021-04-05T14:45:49] Improve logging and health endpoint metrics
 - [2021-04-05T11:14:32] Fix edge case in channel tab crawler
 - [2021-04-05T12:06:58] Update dependency lockfiles and requirements
+- [2021-04-05T16:01:37] Clean up legacy worker task routines
