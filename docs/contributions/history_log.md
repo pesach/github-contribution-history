@@ -24355,3 +24355,4 @@
 - [2021-04-03T10:45:18] Clean up legacy worker task routines
 - [2021-04-03T13:29:22] Update documentation and architectural guides
 - [2021-04-05T16:59:42] Refactor cookie refresher probe logic
+- [2021-04-05T15:19:17] Fix edge case in channel tab crawler
