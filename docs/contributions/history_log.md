@@ -24369,3 +24369,4 @@
 - [2021-04-05T13:41:47] Update dependency lockfiles and requirements
 - [2021-04-05T16:59:41] Add Prometheus exporter endpoints for queue length
 - [2021-04-06T18:17:06] Update automated pytest test suites
+- [2021-04-06T13:21:48] Clean up legacy worker task routines
