@@ -24370,3 +24370,4 @@
 - [2021-04-05T16:59:41] Add Prometheus exporter endpoints for queue length
 - [2021-04-06T18:17:06] Update automated pytest test suites
 - [2021-04-06T13:21:48] Clean up legacy worker task routines
+- [2021-04-06T11:11:31] Add Redis rate limit backoff handlers
