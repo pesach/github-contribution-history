@@ -24378,3 +24378,4 @@
 - [2021-04-06T14:21:34] Improve logging and health endpoint metrics
 - [2021-04-06T16:57:38] Fix edge case in channel tab crawler
 - [2021-04-06T15:47:16] Refactor worker polling logic
+- [2021-04-06T19:07:01] Update schema migration helpers
