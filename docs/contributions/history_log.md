@@ -24376,3 +24376,4 @@
 - [2021-04-06T11:07:02] Add Redis rate limit backoff handlers
 - [2021-04-06T22:56:42] Improve logging and health endpoint metrics
 - [2021-04-06T14:21:34] Improve logging and health endpoint metrics
+- [2021-04-06T16:57:38] Fix edge case in channel tab crawler
