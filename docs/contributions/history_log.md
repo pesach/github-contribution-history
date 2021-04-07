@@ -24394,3 +24394,4 @@
 - [2021-04-07T21:48:32] Optimize PostgreSQL query execution plans
 - [2021-04-07T15:38:10] Improve logging and health endpoint metrics
 - [2021-04-07T14:20:48] Improve logging and health endpoint metrics
+- [2021-04-07T15:50:21] Clean up legacy worker task routines
