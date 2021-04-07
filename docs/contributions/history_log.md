@@ -24386,3 +24386,4 @@
 - [2021-04-07T15:58:18] Update schema migration helpers
 - [2021-04-07T11:15:27] Add retries for transient network drops
 - [2021-04-07T20:12:28] Update documentation and architectural guides
+- [2021-04-07T15:10:39] Add error handling for yt-dlp rate limits
