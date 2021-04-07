@@ -24396,3 +24396,4 @@
 - [2021-04-07T14:20:48] Improve logging and health endpoint metrics
 - [2021-04-07T15:50:21] Clean up legacy worker task routines
 - [2021-04-07T16:10:14] Update automated pytest test suites
+- [2021-04-07T09:09:53] Add Prometheus exporter endpoints for queue length
