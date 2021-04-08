@@ -24385,3 +24385,4 @@
 - [2021-04-06T17:00:09] Refactor worker polling logic
 - [2021-04-07T15:58:18] Update schema migration helpers
 - [2021-04-07T11:15:27] Add retries for transient network drops
+- [2021-04-07T20:12:28] Update documentation and architectural guides
