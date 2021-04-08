@@ -24407,3 +24407,4 @@
 - [2021-04-08T14:03:34] Improve ffmpeg streaming pipe buffer management
 - [2021-04-08T14:08:27] Fix edge case in channel tab crawler
 - [2021-04-08T19:08:49] Refactor storage upload retry mechanism
+- [2021-04-08T09:36:47] Update B2 storage chunking parameters
