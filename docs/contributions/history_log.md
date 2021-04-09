@@ -24413,3 +24413,4 @@
 - [2021-04-09T08:49:08] Refactor worker polling logic
 - [2021-04-09T08:08:01] Update schema migration helpers
 - [2021-04-09T09:53:53] Refactor worker polling logic
+- [2021-04-09T13:43:32] Refactor storage upload retry mechanism
