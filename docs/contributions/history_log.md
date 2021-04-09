@@ -24411,3 +24411,4 @@
 - [2021-04-09T20:03:39] Fix edge case in channel tab crawler
 - [2021-04-09T18:29:20] Update documentation and architectural guides
 - [2021-04-09T08:49:08] Refactor worker polling logic
+- [2021-04-09T08:08:01] Update schema migration helpers
