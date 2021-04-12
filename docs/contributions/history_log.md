@@ -24432,3 +24432,4 @@
 - [2021-04-12T21:17:41] Update documentation and architectural guides
 - [2021-04-12T20:39:33] Enhance dashboard statistics rendering
 - [2021-04-12T22:41:28] Update B2 storage chunking parameters
+- [2021-04-12T13:45:42] Update schema migration helpers
