@@ -24438,3 +24438,4 @@
 - [2021-04-12T17:11:41] Refactor storage upload retry mechanism
 - [2021-04-13T19:30:10] Add Prometheus exporter endpoints for queue length
 - [2021-04-13T17:09:11] Add Redis rate limit backoff handlers
+- [2021-04-13T13:48:53] Improve logging and health endpoint metrics
