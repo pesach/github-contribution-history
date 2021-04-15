@@ -24458,3 +24458,4 @@
 - [2021-04-14T21:44:09] Update dependency lockfiles and requirements
 - [2021-04-14T09:05:16] Add retries for transient network drops
 - [2021-04-15T13:41:29] Optimize PostgreSQL query execution plans
+- [2021-04-15T15:48:31] Add error handling for yt-dlp rate limits
