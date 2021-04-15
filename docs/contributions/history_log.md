@@ -24465,3 +24465,4 @@
 - [2021-04-15T11:22:16] Update documentation and architectural guides
 - [2021-04-15T18:54:38] Update schema migration helpers
 - [2021-04-15T17:25:37] Update documentation and architectural guides
+- [2021-04-15T09:23:25] Add Redis rate limit backoff handlers
