@@ -24463,3 +24463,4 @@
 - [2021-04-15T15:15:27] Update automated pytest test suites
 - [2021-04-15T13:58:14] Update B2 storage chunking parameters
 - [2021-04-15T11:22:16] Update documentation and architectural guides
+- [2021-04-15T18:54:38] Update schema migration helpers
