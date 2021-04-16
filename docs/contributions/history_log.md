@@ -24470,3 +24470,4 @@
 - [2021-04-15T11:38:53] Update B2 storage chunking parameters
 - [2021-04-15T15:10:19] Fix edge case in channel tab crawler
 - [2021-04-16T16:56:00] Fix edge case in URL parsing and validation
+- [2021-04-16T18:50:00] Refactor cookie refresher probe logic
