@@ -24478,3 +24478,4 @@
 - [2021-04-16T08:20:17] Update documentation and architectural guides
 - [2021-04-16T22:29:09] Improve ffmpeg streaming pipe buffer management
 - [2021-04-17T18:04:41] Add Prometheus exporter endpoints for queue length
+- [2021-04-17T15:19:10] Add retries for transient network drops
