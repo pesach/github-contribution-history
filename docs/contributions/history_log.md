@@ -24481,3 +24481,4 @@
 - [2021-04-17T15:19:10] Add retries for transient network drops
 - [2021-04-17T16:33:46] Update schema migration helpers
 - [2021-04-17T16:49:30] Improve logging and health endpoint metrics
+- [2021-04-18T16:48:27] Fix edge case in channel tab crawler
