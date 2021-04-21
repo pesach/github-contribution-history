@@ -24503,3 +24503,4 @@
 - [2021-04-21T20:30:51] Add Redis rate limit backoff handlers
 - [2021-04-21T16:14:45] Update schema migration helpers
 - [2021-04-21T08:11:33] Fix edge case in URL parsing and validation
+- [2021-04-21T10:41:53] Fix edge case in channel tab crawler
