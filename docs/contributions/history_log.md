@@ -24500,3 +24500,4 @@
 - [2021-04-19T22:04:07] Update documentation and architectural guides
 - [2021-04-19T20:15:32] Implement streaming upload chunk buffer optimization
 - [2021-04-19T12:14:27] Add retries for transient network drops
+- [2021-04-21T20:30:51] Add Redis rate limit backoff handlers
