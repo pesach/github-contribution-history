@@ -24512,3 +24512,4 @@
 - [2021-04-23T18:23:42] Refactor storage upload retry mechanism
 - [2021-04-23T21:07:58] Add Prometheus exporter endpoints for queue length
 - [2021-04-23T19:43:47] Update dependency lockfiles and requirements
+- [2021-04-23T15:47:28] Refactor worker polling logic
