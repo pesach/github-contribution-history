@@ -24514,3 +24514,4 @@
 - [2021-04-23T19:43:47] Update dependency lockfiles and requirements
 - [2021-04-23T15:47:28] Refactor worker polling logic
 - [2021-04-23T10:41:03] Refactor worker polling logic
+- [2021-04-23T13:40:39] Update B2 storage chunking parameters
