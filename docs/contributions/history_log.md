@@ -24522,3 +24522,4 @@
 - [2021-04-24T14:59:51] Add retries for transient network drops
 - [2021-04-24T20:29:32] Update documentation and architectural guides
 - [2021-04-24T19:27:19] Improve logging and health endpoint metrics
+- [2021-04-25T08:17:15] Fix edge case in URL parsing and validation
