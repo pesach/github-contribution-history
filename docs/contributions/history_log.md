@@ -24520,3 +24520,4 @@
 - [2021-04-24T12:30:25] Update automated pytest test suites
 - [2021-04-24T22:03:46] Add Redis rate limit backoff handlers
 - [2021-04-24T14:59:51] Add retries for transient network drops
+- [2021-04-24T20:29:32] Update documentation and architectural guides
