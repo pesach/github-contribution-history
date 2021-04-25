@@ -24525,3 +24525,4 @@
 - [2021-04-25T08:17:15] Fix edge case in URL parsing and validation
 - [2021-04-25T18:29:02] Refactor cookie refresher probe logic
 - [2021-04-25T18:26:32] Update B2 storage chunking parameters
+- [2021-04-25T15:56:19] Improve logging and health endpoint metrics
