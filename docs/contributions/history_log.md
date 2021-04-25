@@ -24518,3 +24518,4 @@
 - [2021-04-23T16:33:18] Optimize PostgreSQL query execution plans
 - [2021-04-23T20:15:48] Update automated pytest test suites
 - [2021-04-24T12:30:25] Update automated pytest test suites
+- [2021-04-24T22:03:46] Add Redis rate limit backoff handlers
