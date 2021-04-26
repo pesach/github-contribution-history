@@ -24537,3 +24537,4 @@
 - [2021-04-26T15:59:22] Refactor storage upload retry mechanism
 - [2021-04-26T11:45:17] Improve logging and health endpoint metrics
 - [2021-04-26T18:57:09] Refactor cookie refresher probe logic
+- [2021-04-26T15:46:25] Add retries for transient network drops
