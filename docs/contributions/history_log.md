@@ -24533,3 +24533,4 @@
 - [2021-04-26T11:58:47] Refactor worker polling logic
 - [2021-04-26T22:22:22] Update documentation and architectural guides
 - [2021-04-26T12:45:00] Update schema migration helpers
+- [2021-04-26T16:46:43] Update schema migration helpers
