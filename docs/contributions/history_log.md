@@ -24546,3 +24546,4 @@
 - [2021-04-28T19:25:09] Fix edge case in URL parsing and validation
 - [2021-04-28T08:33:18] Clean up legacy worker task routines
 - [2021-04-28T11:07:17] Enhance dashboard statistics rendering
+- [2021-04-28T09:03:35] Add Redis rate limit backoff handlers
