@@ -24540,3 +24540,4 @@
 - [2021-04-26T15:46:25] Add retries for transient network drops
 - [2021-04-28T09:23:23] Add error handling for yt-dlp rate limits
 - [2021-04-28T12:19:57] Add Redis rate limit backoff handlers
+- [2021-04-28T08:58:12] Update documentation and architectural guides
