@@ -24542,3 +24542,4 @@
 - [2021-04-28T12:19:57] Add Redis rate limit backoff handlers
 - [2021-04-28T08:58:12] Update documentation and architectural guides
 - [2021-04-28T15:12:59] Clean up legacy worker task routines
+- [2021-04-28T14:41:38] Improve ffmpeg streaming pipe buffer management
