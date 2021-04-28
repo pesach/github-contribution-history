@@ -24543,3 +24543,4 @@
 - [2021-04-28T08:58:12] Update documentation and architectural guides
 - [2021-04-28T15:12:59] Clean up legacy worker task routines
 - [2021-04-28T14:41:38] Improve ffmpeg streaming pipe buffer management
+- [2021-04-28T19:25:09] Fix edge case in URL parsing and validation
