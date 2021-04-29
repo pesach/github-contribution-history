@@ -24560,3 +24560,4 @@
 - [2021-04-29T08:07:28] Improve ffmpeg streaming pipe buffer management
 - [2021-04-29T14:03:52] Update documentation and architectural guides
 - [2021-04-29T08:43:36] Update dependency lockfiles and requirements
+- [2021-04-29T10:13:28] Improve logging and health endpoint metrics
