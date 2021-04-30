@@ -24549,3 +24549,4 @@
 - [2021-04-28T09:03:35] Add Redis rate limit backoff handlers
 - [2021-04-28T19:21:42] Clean up legacy worker task routines
 - [2021-04-28T09:46:40] Fix edge case in URL parsing and validation
+- [2021-04-29T21:04:04] Update schema migration helpers
