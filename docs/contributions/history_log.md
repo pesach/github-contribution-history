@@ -24581,3 +24581,4 @@
 - [2021-05-01T19:52:04] Update B2 storage chunking parameters
 - [2021-05-02T21:49:19] Improve ffmpeg streaming pipe buffer management
 - [2021-05-02T18:06:12] Update automated pytest test suites
+- [2021-05-02T19:03:51] Implement streaming upload chunk buffer optimization
