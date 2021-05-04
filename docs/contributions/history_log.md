@@ -24592,3 +24592,4 @@
 - [2021-05-03T12:44:45] Add Prometheus exporter endpoints for queue length
 - [2021-05-04T18:03:32] Fix edge case in URL parsing and validation
 - [2021-05-04T08:20:49] Implement streaming upload chunk buffer optimization
+- [2021-05-04T12:15:53] Add Prometheus exporter endpoints for queue length
