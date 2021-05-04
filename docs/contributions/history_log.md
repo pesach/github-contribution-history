@@ -24595,3 +24595,4 @@
 - [2021-05-04T12:15:53] Add Prometheus exporter endpoints for queue length
 - [2021-05-04T18:10:32] Refactor worker polling logic
 - [2021-05-04T19:54:07] Clean up legacy worker task routines
+- [2021-05-04T08:05:09] Fix edge case in URL parsing and validation
