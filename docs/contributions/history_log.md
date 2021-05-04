@@ -24594,3 +24594,4 @@
 - [2021-05-04T08:20:49] Implement streaming upload chunk buffer optimization
 - [2021-05-04T12:15:53] Add Prometheus exporter endpoints for queue length
 - [2021-05-04T18:10:32] Refactor worker polling logic
+- [2021-05-04T19:54:07] Clean up legacy worker task routines
