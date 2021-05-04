@@ -24599,3 +24599,4 @@
 - [2021-05-04T13:17:12] Update dependency lockfiles and requirements
 - [2021-05-04T22:58:11] Implement streaming upload chunk buffer optimization
 - [2021-05-04T17:23:32] Optimize PostgreSQL query execution plans
+- [2021-05-04T14:54:45] Update B2 storage chunking parameters
