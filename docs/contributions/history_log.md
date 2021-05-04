@@ -24588,3 +24588,4 @@
 - [2021-05-03T21:07:09] Fix edge case in channel tab crawler
 - [2021-05-03T11:41:09] Refactor storage upload retry mechanism
 - [2021-05-03T09:56:12] Add retries for transient network drops
+- [2021-05-03T20:51:16] Clean up legacy worker task routines
