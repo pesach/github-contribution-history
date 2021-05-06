@@ -24607,3 +24607,4 @@
 - [2021-05-04T11:30:04] Update automated pytest test suites
 - [2021-05-05T21:16:57] Add Redis rate limit backoff handlers
 - [2021-05-05T13:55:18] Refactor worker polling logic
+- [2021-05-05T21:20:25] Update schema migration helpers
