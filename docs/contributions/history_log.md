@@ -24621,3 +24621,4 @@
 - [2021-05-06T08:11:19] Improve ffmpeg streaming pipe buffer management
 - [2021-05-06T17:41:40] Add Prometheus exporter endpoints for queue length
 - [2021-05-06T09:32:01] Add Redis rate limit backoff handlers
+- [2021-05-06T12:37:08] Fix edge case in URL parsing and validation
