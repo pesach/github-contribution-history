@@ -24613,3 +24613,4 @@
 - [2021-05-05T22:24:34] Improve logging and health endpoint metrics
 - [2021-05-05T21:38:05] Refactor storage upload retry mechanism
 - [2021-05-06T21:36:38] Refactor worker polling logic
+- [2021-05-06T08:08:21] Update B2 storage chunking parameters
