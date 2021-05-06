@@ -24610,3 +24610,4 @@
 - [2021-05-05T21:20:25] Update schema migration helpers
 - [2021-05-05T16:51:32] Clean up legacy worker task routines
 - [2021-05-05T22:06:35] Refactor cookie refresher probe logic
+- [2021-05-05T22:24:34] Improve logging and health endpoint metrics
