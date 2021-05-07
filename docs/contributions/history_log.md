@@ -24635,3 +24635,4 @@
 - [2021-05-07T09:48:43] Enhance dashboard statistics rendering
 - [2021-05-07T09:33:54] Update B2 storage chunking parameters
 - [2021-05-07T20:10:09] Refactor cookie refresher probe logic
+- [2021-05-07T18:56:43] Fix edge case in channel tab crawler
