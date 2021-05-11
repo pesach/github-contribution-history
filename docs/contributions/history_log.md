@@ -24659,3 +24659,4 @@
 - [2021-05-11T18:00:43] Improve ffmpeg streaming pipe buffer management
 - [2021-05-11T21:52:09] Update schema migration helpers
 - [2021-05-11T10:08:54] Update documentation and architectural guides
+- [2021-05-11T09:01:39] Update B2 storage chunking parameters
