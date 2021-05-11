@@ -24660,3 +24660,4 @@
 - [2021-05-11T21:52:09] Update schema migration helpers
 - [2021-05-11T10:08:54] Update documentation and architectural guides
 - [2021-05-11T09:01:39] Update B2 storage chunking parameters
+- [2021-05-11T08:34:49] Add error handling for yt-dlp rate limits
