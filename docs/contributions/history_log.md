@@ -24671,3 +24671,4 @@
 - [2021-05-11T18:33:15] Refactor storage upload retry mechanism
 - [2021-05-12T17:09:39] Update B2 storage chunking parameters
 - [2021-05-12T16:33:47] Add retries for transient network drops
+- [2021-05-12T20:50:04] Update schema migration helpers
