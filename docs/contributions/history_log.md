@@ -24701,3 +24701,4 @@
 - [2021-05-14T16:14:43] Update B2 storage chunking parameters
 - [2021-05-14T08:31:09] Refactor storage upload retry mechanism
 - [2021-05-14T11:47:43] Refactor worker polling logic
+- [2021-05-14T16:17:04] Clean up legacy worker task routines
