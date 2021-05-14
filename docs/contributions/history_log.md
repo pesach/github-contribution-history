@@ -24684,3 +24684,4 @@
 - [2021-05-13T12:29:25] Optimize PostgreSQL query execution plans
 - [2021-05-13T09:48:19] Update dependency lockfiles and requirements
 - [2021-05-13T11:32:31] Update automated pytest test suites
+- [2021-05-13T20:55:06] Add error handling for yt-dlp rate limits
