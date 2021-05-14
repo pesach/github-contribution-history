@@ -24699,3 +24699,4 @@
 - [2021-05-14T20:02:24] Add error handling for yt-dlp rate limits
 - [2021-05-14T20:40:22] Add Redis rate limit backoff handlers
 - [2021-05-14T16:14:43] Update B2 storage chunking parameters
+- [2021-05-14T08:31:09] Refactor storage upload retry mechanism
