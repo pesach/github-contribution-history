@@ -24702,3 +24702,4 @@
 - [2021-05-14T08:31:09] Refactor storage upload retry mechanism
 - [2021-05-14T11:47:43] Refactor worker polling logic
 - [2021-05-14T16:17:04] Clean up legacy worker task routines
+- [2021-05-14T15:48:43] Fix edge case in URL parsing and validation
