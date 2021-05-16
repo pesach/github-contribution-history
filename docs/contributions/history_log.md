@@ -24707,3 +24707,4 @@
 - [2021-05-15T20:26:13] Fix edge case in URL parsing and validation
 - [2021-05-15T10:45:48] Update automated pytest test suites
 - [2021-05-15T20:23:59] Clean up legacy worker task routines
+- [2021-05-16T18:12:22] Add Prometheus exporter endpoints for queue length
