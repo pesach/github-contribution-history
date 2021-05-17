@@ -24716,3 +24716,4 @@
 - [2021-05-17T12:58:14] Implement streaming upload chunk buffer optimization
 - [2021-05-17T21:39:33] Update dependency lockfiles and requirements
 - [2021-05-17T13:53:25] Update automated pytest test suites
+- [2021-05-17T16:54:34] Add retries for transient network drops
