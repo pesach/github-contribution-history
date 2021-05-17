@@ -24713,3 +24713,4 @@
 - [2021-05-16T17:25:10] Refactor storage upload retry mechanism
 - [2021-05-16T15:28:05] Update automated pytest test suites
 - [2021-05-16T15:03:19] Update B2 storage chunking parameters
+- [2021-05-17T12:58:14] Implement streaming upload chunk buffer optimization
