@@ -24719,3 +24719,4 @@
 - [2021-05-17T16:54:34] Add retries for transient network drops
 - [2021-05-17T21:30:06] Fix edge case in channel tab crawler
 - [2021-05-17T14:44:08] Add error handling for yt-dlp rate limits
+- [2021-05-17T18:09:21] Refactor storage upload retry mechanism
