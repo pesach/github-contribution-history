@@ -24721,3 +24721,4 @@
 - [2021-05-17T14:44:08] Add error handling for yt-dlp rate limits
 - [2021-05-17T18:09:21] Refactor storage upload retry mechanism
 - [2021-05-17T21:59:01] Add error handling for yt-dlp rate limits
+- [2021-05-17T18:12:13] Optimize PostgreSQL query execution plans
