@@ -24732,3 +24732,4 @@
 - [2021-05-18T15:06:48] Add retries for transient network drops
 - [2021-05-18T21:00:00] Update dependency lockfiles and requirements
 - [2021-05-18T21:32:35] Add Prometheus exporter endpoints for queue length
+- [2021-05-18T18:05:59] Implement streaming upload chunk buffer optimization
