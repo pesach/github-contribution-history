@@ -24728,3 +24728,4 @@
 - [2021-05-17T12:30:53] Fix edge case in channel tab crawler
 - [2021-05-17T21:42:36] Update dependency lockfiles and requirements
 - [2021-05-17T21:51:10] Refactor cookie refresher probe logic
+- [2021-05-18T16:05:06] Update B2 storage chunking parameters
