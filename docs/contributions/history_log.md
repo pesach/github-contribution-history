@@ -24745,3 +24745,4 @@
 - [2021-05-19T16:41:42] Fix edge case in URL parsing and validation
 - [2021-05-19T22:47:25] Add retries for transient network drops
 - [2021-05-19T18:53:34] Update dependency lockfiles and requirements
+- [2021-05-19T12:38:08] Update B2 storage chunking parameters
