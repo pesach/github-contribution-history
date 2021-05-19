@@ -24737,3 +24737,4 @@
 - [2021-05-19T20:07:19] Add error handling for yt-dlp rate limits
 - [2021-05-19T08:48:12] Update automated pytest test suites
 - [2021-05-19T22:35:25] Enhance dashboard statistics rendering
+- [2021-05-19T15:49:10] Refactor worker polling logic
