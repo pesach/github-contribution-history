@@ -24750,3 +24750,4 @@
 - [2021-05-19T16:04:07] Optimize PostgreSQL query execution plans
 - [2021-05-20T14:11:46] Enhance dashboard statistics rendering
 - [2021-05-20T11:01:18] Enhance dashboard statistics rendering
+- [2021-05-20T14:00:03] Add error handling for yt-dlp rate limits
