@@ -24753,3 +24753,4 @@
 - [2021-05-20T14:00:03] Add error handling for yt-dlp rate limits
 - [2021-05-20T15:15:13] Clean up legacy worker task routines
 - [2021-05-20T22:45:45] Update automated pytest test suites
+- [2021-05-20T12:35:31] Add Redis rate limit backoff handlers
