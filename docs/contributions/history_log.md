@@ -24734,3 +24734,4 @@
 - [2021-05-18T21:32:35] Add Prometheus exporter endpoints for queue length
 - [2021-05-18T18:05:59] Implement streaming upload chunk buffer optimization
 - [2021-05-18T10:43:44] Update automated pytest test suites
+- [2021-05-19T20:07:19] Add error handling for yt-dlp rate limits
