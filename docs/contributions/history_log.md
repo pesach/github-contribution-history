@@ -24751,3 +24751,4 @@
 - [2021-05-20T14:11:46] Enhance dashboard statistics rendering
 - [2021-05-20T11:01:18] Enhance dashboard statistics rendering
 - [2021-05-20T14:00:03] Add error handling for yt-dlp rate limits
+- [2021-05-20T15:15:13] Clean up legacy worker task routines
