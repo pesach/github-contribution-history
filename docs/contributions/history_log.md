@@ -24743,3 +24743,4 @@
 - [2021-05-19T21:28:01] Add retries for transient network drops
 - [2021-05-19T19:04:07] Refactor cookie refresher probe logic
 - [2021-05-19T16:41:42] Fix edge case in URL parsing and validation
+- [2021-05-19T22:47:25] Add retries for transient network drops
