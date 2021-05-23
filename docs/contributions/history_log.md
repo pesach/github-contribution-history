@@ -24770,3 +24770,4 @@
 - [2021-05-22T14:55:22] Add Redis rate limit backoff handlers
 - [2021-05-23T18:50:36] Update documentation and architectural guides
 - [2021-05-23T22:54:52] Refactor cookie refresher probe logic
+- [2021-05-23T18:47:08] Refactor storage upload retry mechanism
