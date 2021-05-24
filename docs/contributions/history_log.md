@@ -24784,3 +24784,4 @@
 - [2021-05-24T17:00:08] Fix edge case in URL parsing and validation
 - [2021-05-24T22:14:55] Update B2 storage chunking parameters
 - [2021-05-24T19:53:34] Add Prometheus exporter endpoints for queue length
+- [2021-05-24T15:52:51] Update dependency lockfiles and requirements
