@@ -24775,3 +24775,4 @@
 - [2021-05-23T15:45:18] Fix edge case in channel tab crawler
 - [2021-05-23T09:27:36] Implement streaming upload chunk buffer optimization
 - [2021-05-24T22:34:18] Add Prometheus exporter endpoints for queue length
+- [2021-05-24T09:00:40] Fix edge case in URL parsing and validation
