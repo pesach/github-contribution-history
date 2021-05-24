@@ -24781,3 +24781,4 @@
 - [2021-05-24T16:12:02] Fix edge case in URL parsing and validation
 - [2021-05-24T17:44:00] Improve logging and health endpoint metrics
 - [2021-05-24T21:42:48] Refactor storage upload retry mechanism
+- [2021-05-24T17:00:08] Fix edge case in URL parsing and validation
