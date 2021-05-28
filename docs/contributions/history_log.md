@@ -24814,3 +24814,4 @@
 - [2021-05-28T21:05:21] Improve ffmpeg streaming pipe buffer management
 - [2021-05-28T14:18:14] Fix edge case in URL parsing and validation
 - [2021-05-28T12:55:57] Add Redis rate limit backoff handlers
+- [2021-05-28T12:58:31] Refactor worker polling logic
