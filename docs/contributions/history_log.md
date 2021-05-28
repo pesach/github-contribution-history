@@ -24815,3 +24815,4 @@
 - [2021-05-28T14:18:14] Fix edge case in URL parsing and validation
 - [2021-05-28T12:55:57] Add Redis rate limit backoff handlers
 - [2021-05-28T12:58:31] Refactor worker polling logic
+- [2021-05-28T15:01:08] Update B2 storage chunking parameters
