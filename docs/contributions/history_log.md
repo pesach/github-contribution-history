@@ -24816,3 +24816,4 @@
 - [2021-05-28T12:55:57] Add Redis rate limit backoff handlers
 - [2021-05-28T12:58:31] Refactor worker polling logic
 - [2021-05-28T15:01:08] Update B2 storage chunking parameters
+- [2021-05-31T19:39:14] Improve ffmpeg streaming pipe buffer management
