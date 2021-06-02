@@ -24850,3 +24850,4 @@
 - [2021-06-02T14:11:37] Refactor storage upload retry mechanism
 - [2021-06-02T09:53:42] Improve logging and health endpoint metrics
 - [2021-06-02T22:52:32] Improve logging and health endpoint metrics
+- [2021-06-02T15:33:02] Add retries for transient network drops
