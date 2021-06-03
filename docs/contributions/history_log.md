@@ -24857,3 +24857,4 @@
 - [2021-06-03T14:41:13] Refactor storage upload retry mechanism
 - [2021-06-03T12:49:17] Add error handling for yt-dlp rate limits
 - [2021-06-03T13:48:49] Enhance dashboard statistics rendering
+- [2021-06-03T12:53:07] Refactor worker polling logic
