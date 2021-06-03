@@ -24840,3 +24840,4 @@
 - [2021-06-01T13:56:50] Update B2 storage chunking parameters
 - [2021-06-01T18:39:20] Refactor worker polling logic
 - [2021-06-01T10:38:01] Clean up legacy worker task routines
+- [2021-06-02T20:09:09] Update automated pytest test suites
