@@ -24868,3 +24868,4 @@
 - [2021-06-04T18:17:46] Add retries for transient network drops
 - [2021-06-04T22:15:14] Update dependency lockfiles and requirements
 - [2021-06-04T12:50:10] Fix edge case in channel tab crawler
+- [2021-06-04T18:05:47] Refactor cookie refresher probe logic
