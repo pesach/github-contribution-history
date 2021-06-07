@@ -24889,3 +24889,4 @@
 - [2021-06-07T13:25:37] Update automated pytest test suites
 - [2021-06-07T09:43:03] Update documentation and architectural guides
 - [2021-06-07T10:42:40] Add Redis rate limit backoff handlers
+- [2021-06-07T08:58:41] Add Prometheus exporter endpoints for queue length
