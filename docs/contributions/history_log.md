@@ -24912,3 +24912,4 @@
 - [2021-06-09T15:14:32] Fix edge case in channel tab crawler
 - [2021-06-09T19:07:32] Add retries for transient network drops
 - [2021-06-09T12:49:58] Update schema migration helpers
+- [2021-06-09T22:05:01] Update dependency lockfiles and requirements
