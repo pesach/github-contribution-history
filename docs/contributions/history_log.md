@@ -24925,3 +24925,4 @@
 - [2021-06-10T15:58:39] Refactor cookie refresher probe logic
 - [2021-06-10T11:42:29] Update automated pytest test suites
 - [2021-06-10T20:55:33] Update B2 storage chunking parameters
+- [2021-06-10T11:04:22] Refactor storage upload retry mechanism
