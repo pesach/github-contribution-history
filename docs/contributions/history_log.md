@@ -24922,3 +24922,4 @@
 - [2021-06-09T17:51:32] Fix edge case in URL parsing and validation
 - [2021-06-09T18:17:08] Enhance dashboard statistics rendering
 - [2021-06-10T15:08:44] Improve ffmpeg streaming pipe buffer management
+- [2021-06-10T15:58:39] Refactor cookie refresher probe logic
