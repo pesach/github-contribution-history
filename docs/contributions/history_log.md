@@ -24932,3 +24932,4 @@
 - [2021-06-11T17:07:43] Refactor worker polling logic
 - [2021-06-11T15:26:32] Fix edge case in channel tab crawler
 - [2021-06-11T20:41:30] Fix edge case in URL parsing and validation
+- [2021-06-11T11:20:18] Add error handling for yt-dlp rate limits
