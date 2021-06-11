@@ -24927,3 +24927,4 @@
 - [2021-06-10T20:55:33] Update B2 storage chunking parameters
 - [2021-06-10T11:04:22] Refactor storage upload retry mechanism
 - [2021-06-10T18:54:25] Update dependency lockfiles and requirements
+- [2021-06-11T17:52:50] Update schema migration helpers
