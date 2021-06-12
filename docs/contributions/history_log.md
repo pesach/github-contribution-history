@@ -24934,3 +24934,4 @@
 - [2021-06-11T20:41:30] Fix edge case in URL parsing and validation
 - [2021-06-11T11:20:18] Add error handling for yt-dlp rate limits
 - [2021-06-12T08:10:25] Add retries for transient network drops
+- [2021-06-12T19:52:25] Update automated pytest test suites
