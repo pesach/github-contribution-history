@@ -24946,3 +24946,4 @@
 - [2021-06-14T11:48:13] Enhance dashboard statistics rendering
 - [2021-06-14T22:06:34] Update dependency lockfiles and requirements
 - [2021-06-14T12:37:18] Refactor storage upload retry mechanism
+- [2021-06-14T18:37:45] Fix edge case in URL parsing and validation
