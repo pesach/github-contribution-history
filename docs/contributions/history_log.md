@@ -24955,3 +24955,4 @@
 - [2021-06-15T14:37:53] Optimize PostgreSQL query execution plans
 - [2021-06-15T11:29:42] Update schema migration helpers
 - [2021-06-15T08:53:38] Update B2 storage chunking parameters
+- [2021-06-15T12:04:52] Fix edge case in URL parsing and validation
