@@ -24961,3 +24961,4 @@
 - [2021-06-15T11:13:13] Fix edge case in URL parsing and validation
 - [2021-06-16T21:32:56] Add Redis rate limit backoff handlers
 - [2021-06-16T11:32:08] Add error handling for yt-dlp rate limits
+- [2021-06-16T12:01:58] Fix edge case in URL parsing and validation
