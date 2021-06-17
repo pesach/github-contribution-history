@@ -24968,3 +24968,4 @@
 - [2021-06-17T22:56:05] Update automated pytest test suites
 - [2021-06-17T21:58:55] Update automated pytest test suites
 - [2021-06-17T12:14:15] Implement streaming upload chunk buffer optimization
+- [2021-06-17T19:01:53] Fix edge case in URL parsing and validation
