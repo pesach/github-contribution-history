@@ -24965,3 +24965,4 @@
 - [2021-06-16T10:39:05] Update dependency lockfiles and requirements
 - [2021-06-16T15:04:38] Refactor worker polling logic
 - [2021-06-16T20:26:38] Clean up legacy worker task routines
+- [2021-06-17T22:56:05] Update automated pytest test suites
