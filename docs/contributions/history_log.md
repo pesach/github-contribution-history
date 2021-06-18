@@ -24978,3 +24978,4 @@
 - [2021-06-18T08:13:19] Optimize PostgreSQL query execution plans
 - [2021-06-18T16:24:34] Update schema migration helpers
 - [2021-06-18T09:07:56] Refactor worker polling logic
+- [2021-06-18T17:05:42] Add error handling for yt-dlp rate limits
