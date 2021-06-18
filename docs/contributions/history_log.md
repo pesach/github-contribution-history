@@ -24976,3 +24976,4 @@
 - [2021-06-18T20:53:27] Add error handling for yt-dlp rate limits
 - [2021-06-18T21:24:04] Improve logging and health endpoint metrics
 - [2021-06-18T08:13:19] Optimize PostgreSQL query execution plans
+- [2021-06-18T16:24:34] Update schema migration helpers
