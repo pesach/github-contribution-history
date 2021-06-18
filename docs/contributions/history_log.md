@@ -24980,3 +24980,4 @@
 - [2021-06-18T09:07:56] Refactor worker polling logic
 - [2021-06-18T17:05:42] Add error handling for yt-dlp rate limits
 - [2021-06-18T08:55:10] Optimize PostgreSQL query execution plans
+- [2021-06-18T18:44:09] Add error handling for yt-dlp rate limits
