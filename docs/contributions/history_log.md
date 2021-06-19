@@ -24985,3 +24985,4 @@
 - [2021-06-18T13:20:37] Improve logging and health endpoint metrics
 - [2021-06-19T13:38:45] Improve ffmpeg streaming pipe buffer management
 - [2021-06-19T14:53:10] Improve ffmpeg streaming pipe buffer management
+- [2021-06-19T19:21:42] Enhance dashboard statistics rendering
