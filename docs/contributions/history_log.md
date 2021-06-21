@@ -24994,3 +24994,4 @@
 - [2021-06-20T14:23:35] Add retries for transient network drops
 - [2021-06-21T17:21:42] Clean up legacy worker task routines
 - [2021-06-21T09:27:54] Update dependency lockfiles and requirements
+- [2021-06-21T14:32:47] Optimize PostgreSQL query execution plans
