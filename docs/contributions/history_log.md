@@ -24990,3 +24990,4 @@
 - [2021-06-20T16:47:14] Improve logging and health endpoint metrics
 - [2021-06-20T09:57:01] Update dependency lockfiles and requirements
 - [2021-06-20T17:17:19] Add Prometheus exporter endpoints for queue length
+- [2021-06-20T21:12:00] Fix edge case in URL parsing and validation
