@@ -24999,3 +24999,4 @@
 - [2021-06-21T21:25:33] Fix edge case in URL parsing and validation
 - [2021-06-21T15:39:21] Add Redis rate limit backoff handlers
 - [2021-06-21T09:45:18] Clean up legacy worker task routines
+- [2021-06-21T09:19:13] Refactor worker polling logic
