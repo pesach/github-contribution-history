@@ -24992,3 +24992,4 @@
 - [2021-06-20T17:17:19] Add Prometheus exporter endpoints for queue length
 - [2021-06-20T21:12:00] Fix edge case in URL parsing and validation
 - [2021-06-20T14:23:35] Add retries for transient network drops
+- [2021-06-21T17:21:42] Clean up legacy worker task routines
