@@ -25000,3 +25000,4 @@
 - [2021-06-21T15:39:21] Add Redis rate limit backoff handlers
 - [2021-06-21T09:45:18] Clean up legacy worker task routines
 - [2021-06-21T09:19:13] Refactor worker polling logic
+- [2021-06-22T14:03:12] Update automated pytest test suites
