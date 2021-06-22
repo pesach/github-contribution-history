@@ -24996,3 +24996,4 @@
 - [2021-06-21T09:27:54] Update dependency lockfiles and requirements
 - [2021-06-21T14:32:47] Optimize PostgreSQL query execution plans
 - [2021-06-21T08:30:28] Fix edge case in URL parsing and validation
+- [2021-06-21T21:25:33] Fix edge case in URL parsing and validation
