@@ -25020,3 +25020,4 @@
 - [2021-06-23T09:34:25] Improve logging and health endpoint metrics
 - [2021-06-23T18:19:03] Update dependency lockfiles and requirements
 - [2021-06-23T10:41:39] Add retries for transient network drops
+- [2021-06-23T09:21:46] Add Prometheus exporter endpoints for queue length
