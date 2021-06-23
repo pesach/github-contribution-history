@@ -25002,3 +25002,4 @@
 - [2021-06-21T09:19:13] Refactor worker polling logic
 - [2021-06-22T14:03:12] Update automated pytest test suites
 - [2021-06-22T21:11:03] Add error handling for yt-dlp rate limits
+- [2021-06-22T20:48:35] Clean up legacy worker task routines
