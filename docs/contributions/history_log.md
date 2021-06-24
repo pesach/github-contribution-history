@@ -25031,3 +25031,4 @@
 - [2021-06-24T10:54:00] Implement streaming upload chunk buffer optimization
 - [2021-06-24T11:26:38] Fix edge case in URL parsing and validation
 - [2021-06-24T13:02:21] Add Prometheus exporter endpoints for queue length
+- [2021-06-24T12:45:01] Fix edge case in channel tab crawler
