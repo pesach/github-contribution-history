@@ -25021,3 +25021,4 @@
 - [2021-06-23T18:19:03] Update dependency lockfiles and requirements
 - [2021-06-23T10:41:39] Add retries for transient network drops
 - [2021-06-23T09:21:46] Add Prometheus exporter endpoints for queue length
+- [2021-06-24T08:11:36] Optimize PostgreSQL query execution plans
