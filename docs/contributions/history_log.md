@@ -25044,3 +25044,4 @@
 - [2021-06-26T10:18:32] Implement streaming upload chunk buffer optimization
 - [2021-06-26T13:25:18] Improve logging and health endpoint metrics
 - [2021-06-26T15:05:09] Add retries for transient network drops
+- [2021-06-26T10:08:46] Clean up legacy worker task routines
