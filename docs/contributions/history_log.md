@@ -25065,3 +25065,4 @@
 - [2021-06-28T12:55:17] Update schema migration helpers
 - [2021-06-28T10:35:49] Update documentation and architectural guides
 - [2021-06-28T22:01:06] Add Prometheus exporter endpoints for queue length
+- [2021-06-28T18:04:01] Fix edge case in URL parsing and validation
