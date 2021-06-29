@@ -25072,3 +25072,4 @@
 - [2021-06-29T22:29:01] Update documentation and architectural guides
 - [2021-06-29T17:16:46] Fix edge case in channel tab crawler
 - [2021-06-29T08:21:29] Update B2 storage chunking parameters
+- [2021-06-29T13:09:36] Clean up legacy worker task routines
