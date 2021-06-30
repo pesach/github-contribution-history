@@ -25080,3 +25080,4 @@
 - [2021-06-30T20:13:29] Update automated pytest test suites
 - [2021-06-30T15:21:31] Update schema migration helpers
 - [2021-06-30T20:50:50] Fix edge case in channel tab crawler
+- [2021-06-30T13:36:46] Add Prometheus exporter endpoints for queue length
