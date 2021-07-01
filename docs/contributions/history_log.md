@@ -25104,3 +25104,4 @@
 - [2021-07-01T08:58:02] Enhance dashboard statistics rendering
 - [2021-07-01T15:27:46] Add Prometheus exporter endpoints for queue length
 - [2021-07-01T14:40:57] Fix edge case in channel tab crawler
+- [2021-07-01T15:36:43] Add Redis rate limit backoff handlers
