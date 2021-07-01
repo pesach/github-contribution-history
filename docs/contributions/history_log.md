@@ -25090,3 +25090,4 @@
 - [2021-06-30T11:43:17] Add Redis rate limit backoff handlers
 - [2021-06-30T15:14:51] Refactor storage upload retry mechanism
 - [2021-06-30T15:24:34] Optimize PostgreSQL query execution plans
+- [2021-06-30T22:23:05] Update schema migration helpers
