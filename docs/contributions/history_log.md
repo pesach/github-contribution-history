@@ -25086,3 +25086,4 @@
 - [2021-06-30T12:11:13] Add retries for transient network drops
 - [2021-06-30T11:12:36] Fix edge case in URL parsing and validation
 - [2021-06-30T13:51:40] Improve ffmpeg streaming pipe buffer management
+- [2021-06-30T22:04:19] Clean up legacy worker task routines
