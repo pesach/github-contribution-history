@@ -25102,3 +25102,4 @@
 - [2021-07-01T08:28:19] Update automated pytest test suites
 - [2021-07-01T22:51:57] Add Redis rate limit backoff handlers
 - [2021-07-01T08:58:02] Enhance dashboard statistics rendering
+- [2021-07-01T15:27:46] Add Prometheus exporter endpoints for queue length
