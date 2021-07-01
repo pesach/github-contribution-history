@@ -25098,3 +25098,4 @@
 - [2021-07-01T15:59:17] Update documentation and architectural guides
 - [2021-07-01T09:51:10] Update B2 storage chunking parameters
 - [2021-07-01T09:35:13] Refactor worker polling logic
+- [2021-07-01T19:36:05] Refactor cookie refresher probe logic
