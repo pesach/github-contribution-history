@@ -25115,3 +25115,4 @@
 - [2021-07-02T12:50:59] Update B2 storage chunking parameters
 - [2021-07-02T16:58:20] Update B2 storage chunking parameters
 - [2021-07-02T20:42:13] Add Prometheus exporter endpoints for queue length
+- [2021-07-03T11:53:02] Clean up legacy worker task routines
