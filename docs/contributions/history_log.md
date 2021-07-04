@@ -25118,3 +25118,4 @@
 - [2021-07-03T11:53:02] Clean up legacy worker task routines
 - [2021-07-03T13:46:11] Optimize PostgreSQL query execution plans
 - [2021-07-03T12:20:43] Optimize PostgreSQL query execution plans
+- [2021-07-04T10:28:57] Fix edge case in channel tab crawler
