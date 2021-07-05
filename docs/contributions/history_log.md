@@ -25124,3 +25124,4 @@
 - [2021-07-05T16:28:00] Add retries for transient network drops
 - [2021-07-05T15:54:34] Add Redis rate limit backoff handlers
 - [2021-07-05T19:15:00] Refactor worker polling logic
+- [2021-07-05T17:04:30] Add Redis rate limit backoff handlers
