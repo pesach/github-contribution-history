@@ -25140,3 +25140,4 @@
 - [2021-07-07T10:24:33] Improve logging and health endpoint metrics
 - [2021-07-07T17:07:41] Add Prometheus exporter endpoints for queue length
 - [2021-07-07T10:55:47] Fix edge case in URL parsing and validation
+- [2021-07-07T08:15:18] Improve logging and health endpoint metrics
