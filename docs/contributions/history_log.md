@@ -25138,3 +25138,4 @@
 - [2021-07-06T22:24:54] Improve ffmpeg streaming pipe buffer management
 - [2021-07-06T18:09:05] Add retries for transient network drops
 - [2021-07-07T10:24:33] Improve logging and health endpoint metrics
+- [2021-07-07T17:07:41] Add Prometheus exporter endpoints for queue length
