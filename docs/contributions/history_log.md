@@ -25162,3 +25162,4 @@
 - [2021-07-09T15:06:46] Clean up legacy worker task routines
 - [2021-07-09T17:27:33] Update documentation and architectural guides
 - [2021-07-09T17:26:32] Fix edge case in channel tab crawler
+- [2021-07-09T17:29:48] Fix edge case in URL parsing and validation
