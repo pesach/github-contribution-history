@@ -25163,3 +25163,4 @@
 - [2021-07-09T17:27:33] Update documentation and architectural guides
 - [2021-07-09T17:26:32] Fix edge case in channel tab crawler
 - [2021-07-09T17:29:48] Fix edge case in URL parsing and validation
+- [2021-07-09T12:47:05] Update B2 storage chunking parameters
