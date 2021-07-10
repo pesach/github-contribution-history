@@ -25170,3 +25170,4 @@
 - [2021-07-09T20:56:01] Refactor storage upload retry mechanism
 - [2021-07-09T17:46:21] Update documentation and architectural guides
 - [2021-07-09T21:47:17] Update B2 storage chunking parameters
+- [2021-07-10T15:32:22] Clean up legacy worker task routines
