@@ -25175,3 +25175,4 @@
 - [2021-07-10T15:42:34] Update schema migration helpers
 - [2021-07-10T09:54:47] Add error handling for yt-dlp rate limits
 - [2021-07-10T22:35:20] Enhance dashboard statistics rendering
+- [2021-07-10T15:22:59] Clean up legacy worker task routines
