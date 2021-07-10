@@ -25172,3 +25172,4 @@
 - [2021-07-09T21:47:17] Update B2 storage chunking parameters
 - [2021-07-10T15:32:22] Clean up legacy worker task routines
 - [2021-07-10T09:47:29] Update B2 storage chunking parameters
+- [2021-07-10T15:42:34] Update schema migration helpers
