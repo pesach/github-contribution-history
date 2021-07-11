@@ -25174,3 +25174,4 @@
 - [2021-07-10T09:47:29] Update B2 storage chunking parameters
 - [2021-07-10T15:42:34] Update schema migration helpers
 - [2021-07-10T09:54:47] Add error handling for yt-dlp rate limits
+- [2021-07-10T22:35:20] Enhance dashboard statistics rendering
