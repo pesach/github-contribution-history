@@ -25177,3 +25177,4 @@
 - [2021-07-10T22:35:20] Enhance dashboard statistics rendering
 - [2021-07-10T15:22:59] Clean up legacy worker task routines
 - [2021-07-11T19:32:41] Add Redis rate limit backoff handlers
+- [2021-07-11T20:31:12] Fix edge case in URL parsing and validation
