@@ -25203,3 +25203,4 @@
 - [2021-07-14T14:10:31] Improve logging and health endpoint metrics
 - [2021-07-14T11:45:04] Update dependency lockfiles and requirements
 - [2021-07-14T12:52:38] Update automated pytest test suites
+- [2021-07-15T10:06:40] Fix edge case in channel tab crawler
