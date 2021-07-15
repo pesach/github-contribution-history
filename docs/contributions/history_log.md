@@ -25197,3 +25197,4 @@
 - [2021-07-14T11:00:15] Clean up legacy worker task routines
 - [2021-07-14T11:22:21] Improve logging and health endpoint metrics
 - [2021-07-14T21:16:42] Add retries for transient network drops
+- [2021-07-14T20:39:08] Fix edge case in channel tab crawler
