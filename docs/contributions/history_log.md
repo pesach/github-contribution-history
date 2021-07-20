@@ -25226,3 +25226,4 @@
 - [2021-07-16T16:31:36] Clean up legacy worker task routines
 - [2021-07-20T18:28:18] Add Redis rate limit backoff handlers
 - [2021-07-20T18:44:20] Update dependency lockfiles and requirements
+- [2021-07-20T19:42:28] Refactor cookie refresher probe logic
