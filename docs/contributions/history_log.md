@@ -25234,3 +25234,4 @@
 - [2021-07-20T17:07:41] Add Redis rate limit backoff handlers
 - [2021-07-20T16:05:31] Update dependency lockfiles and requirements
 - [2021-07-21T20:35:38] Refactor cookie refresher probe logic
+- [2021-07-21T16:07:12] Refactor worker polling logic
