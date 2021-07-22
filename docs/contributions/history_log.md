@@ -25233,3 +25233,4 @@
 - [2021-07-20T19:18:42] Fix edge case in channel tab crawler
 - [2021-07-20T17:07:41] Add Redis rate limit backoff handlers
 - [2021-07-20T16:05:31] Update dependency lockfiles and requirements
+- [2021-07-21T20:35:38] Refactor cookie refresher probe logic
