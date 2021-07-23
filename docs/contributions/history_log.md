@@ -25255,3 +25255,4 @@
 - [2021-07-23T22:36:12] Update documentation and architectural guides
 - [2021-07-23T17:23:52] Optimize PostgreSQL query execution plans
 - [2021-07-23T21:03:26] Refactor cookie refresher probe logic
+- [2021-07-23T14:56:55] Add Redis rate limit backoff handlers
