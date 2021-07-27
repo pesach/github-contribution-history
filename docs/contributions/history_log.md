@@ -25280,3 +25280,4 @@
 - [2021-07-26T17:48:48] Implement streaming upload chunk buffer optimization
 - [2021-07-26T20:08:58] Fix edge case in URL parsing and validation
 - [2021-07-26T13:09:01] Refactor storage upload retry mechanism
+- [2021-07-27T16:31:36] Clean up legacy worker task routines
