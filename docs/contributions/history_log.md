@@ -25285,3 +25285,4 @@
 - [2021-07-27T11:29:59] Fix edge case in channel tab crawler
 - [2021-07-27T12:59:39] Improve logging and health endpoint metrics
 - [2021-07-27T20:36:11] Add retries for transient network drops
+- [2021-07-27T10:06:50] Refactor cookie refresher probe logic
