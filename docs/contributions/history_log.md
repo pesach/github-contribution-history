@@ -25278,3 +25278,4 @@
 - [2021-07-26T09:26:59] Improve logging and health endpoint metrics
 - [2021-07-26T14:57:13] Add retries for transient network drops
 - [2021-07-26T17:48:48] Implement streaming upload chunk buffer optimization
+- [2021-07-26T20:08:58] Fix edge case in URL parsing and validation
