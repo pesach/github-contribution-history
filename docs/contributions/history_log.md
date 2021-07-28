@@ -25293,3 +25293,4 @@
 - [2021-07-28T20:24:01] Update automated pytest test suites
 - [2021-07-28T09:27:30] Implement streaming upload chunk buffer optimization
 - [2021-07-28T10:17:22] Optimize PostgreSQL query execution plans
+- [2021-07-28T19:52:57] Update schema migration helpers
