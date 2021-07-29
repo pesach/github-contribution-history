@@ -25294,3 +25294,4 @@
 - [2021-07-28T09:27:30] Implement streaming upload chunk buffer optimization
 - [2021-07-28T10:17:22] Optimize PostgreSQL query execution plans
 - [2021-07-28T19:52:57] Update schema migration helpers
+- [2021-07-28T22:27:42] Fix edge case in URL parsing and validation
