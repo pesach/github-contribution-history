@@ -25314,3 +25314,4 @@
 - [2021-07-29T21:07:54] Add Redis rate limit backoff handlers
 - [2021-07-29T22:11:37] Update documentation and architectural guides
 - [2021-07-29T19:05:08] Fix edge case in channel tab crawler
+- [2021-07-29T12:46:29] Clean up legacy worker task routines
