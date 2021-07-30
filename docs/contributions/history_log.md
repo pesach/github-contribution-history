@@ -25323,3 +25323,4 @@
 - [2021-07-30T20:36:25] Add error handling for yt-dlp rate limits
 - [2021-07-30T16:08:48] Update B2 storage chunking parameters
 - [2021-07-30T09:05:27] Fix edge case in URL parsing and validation
+- [2021-07-30T10:20:48] Add error handling for yt-dlp rate limits
