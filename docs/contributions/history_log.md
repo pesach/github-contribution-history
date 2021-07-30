@@ -25312,3 +25312,4 @@
 - [2021-07-29T17:01:40] Add Redis rate limit backoff handlers
 - [2021-07-29T14:38:22] Refactor worker polling logic
 - [2021-07-29T21:07:54] Add Redis rate limit backoff handlers
+- [2021-07-29T22:11:37] Update documentation and architectural guides
