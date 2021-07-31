@@ -25320,3 +25320,4 @@
 - [2021-07-30T15:56:48] Enhance dashboard statistics rendering
 - [2021-07-30T19:22:01] Add retries for transient network drops
 - [2021-07-30T19:02:47] Optimize PostgreSQL query execution plans
+- [2021-07-30T20:36:25] Add error handling for yt-dlp rate limits
