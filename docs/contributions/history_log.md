@@ -25332,3 +25332,4 @@
 - [2021-07-31T12:24:15] Clean up legacy worker task routines
 - [2021-07-31T08:26:43] Fix edge case in URL parsing and validation
 - [2021-07-31T19:10:25] Implement streaming upload chunk buffer optimization
+- [2021-08-01T21:35:21] Refactor cookie refresher probe logic
