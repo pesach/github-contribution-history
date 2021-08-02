@@ -25338,3 +25338,4 @@
 - [2021-08-02T15:41:23] Update schema migration helpers
 - [2021-08-02T14:28:18] Update documentation and architectural guides
 - [2021-08-02T15:47:23] Update automated pytest test suites
+- [2021-08-02T18:08:03] Fix edge case in URL parsing and validation
