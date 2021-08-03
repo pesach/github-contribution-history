@@ -25356,3 +25356,4 @@
 - [2021-08-03T21:37:11] Fix edge case in channel tab crawler
 - [2021-08-03T19:11:02] Improve ffmpeg streaming pipe buffer management
 - [2021-08-03T21:15:52] Refactor worker polling logic
+- [2021-08-03T18:54:46] Update schema migration helpers
