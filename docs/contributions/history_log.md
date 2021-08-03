@@ -25352,3 +25352,4 @@
 - [2021-08-03T20:22:28] Update automated pytest test suites
 - [2021-08-03T10:48:06] Improve ffmpeg streaming pipe buffer management
 - [2021-08-03T16:21:21] Add error handling for yt-dlp rate limits
+- [2021-08-03T12:23:41] Add Redis rate limit backoff handlers
