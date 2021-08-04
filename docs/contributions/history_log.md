@@ -25359,3 +25359,4 @@
 - [2021-08-03T18:54:46] Update schema migration helpers
 - [2021-08-04T14:58:27] Optimize PostgreSQL query execution plans
 - [2021-08-04T21:51:24] Improve logging and health endpoint metrics
+- [2021-08-04T14:43:00] Add retries for transient network drops
