@@ -25375,3 +25375,4 @@
 - [2021-08-05T15:08:28] Add Redis rate limit backoff handlers
 - [2021-08-05T18:53:04] Fix edge case in channel tab crawler
 - [2021-08-05T19:11:47] Implement streaming upload chunk buffer optimization
+- [2021-08-05T08:27:07] Add error handling for yt-dlp rate limits
