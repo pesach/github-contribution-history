@@ -25368,3 +25368,4 @@
 - [2021-08-04T19:08:33] Enhance dashboard statistics rendering
 - [2021-08-04T22:22:24] Update B2 storage chunking parameters
 - [2021-08-05T18:30:07] Implement streaming upload chunk buffer optimization
+- [2021-08-05T17:22:39] Refactor cookie refresher probe logic
