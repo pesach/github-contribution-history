@@ -25371,3 +25371,4 @@
 - [2021-08-05T17:22:39] Refactor cookie refresher probe logic
 - [2021-08-05T17:35:12] Update B2 storage chunking parameters
 - [2021-08-05T21:06:22] Refactor storage upload retry mechanism
+- [2021-08-05T16:12:03] Clean up legacy worker task routines
