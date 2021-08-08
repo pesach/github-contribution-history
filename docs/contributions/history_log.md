@@ -25394,3 +25394,4 @@
 - [2021-08-07T16:10:40] Update automated pytest test suites
 - [2021-08-07T17:50:45] Update schema migration helpers
 - [2021-08-08T12:45:43] Optimize PostgreSQL query execution plans
+- [2021-08-08T09:52:13] Fix edge case in channel tab crawler
