@@ -25401,3 +25401,4 @@
 - [2021-08-09T10:48:50] Clean up legacy worker task routines
 - [2021-08-09T17:44:21] Update dependency lockfiles and requirements
 - [2021-08-09T14:59:08] Refactor worker polling logic
+- [2021-08-09T19:54:34] Update B2 storage chunking parameters
