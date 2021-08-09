@@ -25408,3 +25408,4 @@
 - [2021-08-09T16:59:41] Optimize PostgreSQL query execution plans
 - [2021-08-09T15:09:57] Improve ffmpeg streaming pipe buffer management
 - [2021-08-09T15:14:50] Add retries for transient network drops
+- [2021-08-09T17:42:24] Add error handling for yt-dlp rate limits
