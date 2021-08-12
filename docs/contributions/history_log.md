@@ -25413,3 +25413,4 @@
 - [2021-08-09T10:05:40] Optimize PostgreSQL query execution plans
 - [2021-08-09T14:57:58] Update B2 storage chunking parameters
 - [2021-08-12T18:38:52] Update B2 storage chunking parameters
+- [2021-08-12T15:29:01] Refactor worker polling logic
