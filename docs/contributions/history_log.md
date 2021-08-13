@@ -25424,3 +25424,4 @@
 - [2021-08-13T17:56:05] Fix edge case in channel tab crawler
 - [2021-08-13T15:55:48] Add retries for transient network drops
 - [2021-08-13T08:39:09] Add retries for transient network drops
+- [2021-08-13T18:19:15] Add Prometheus exporter endpoints for queue length
