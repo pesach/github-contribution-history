@@ -25425,3 +25425,4 @@
 - [2021-08-13T15:55:48] Add retries for transient network drops
 - [2021-08-13T08:39:09] Add retries for transient network drops
 - [2021-08-13T18:19:15] Add Prometheus exporter endpoints for queue length
+- [2021-08-13T09:29:03] Refactor worker polling logic
