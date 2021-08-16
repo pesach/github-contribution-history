@@ -25440,3 +25440,4 @@
 - [2021-08-15T22:34:35] Enhance dashboard statistics rendering
 - [2021-08-16T12:10:16] Improve ffmpeg streaming pipe buffer management
 - [2021-08-16T22:18:58] Clean up legacy worker task routines
+- [2021-08-16T08:47:10] Update schema migration helpers
