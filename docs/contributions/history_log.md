@@ -25450,3 +25450,4 @@
 - [2021-08-16T11:39:13] Add Redis rate limit backoff handlers
 - [2021-08-16T13:32:00] Add Redis rate limit backoff handlers
 - [2021-08-16T21:45:26] Add Redis rate limit backoff handlers
+- [2021-08-16T16:55:34] Improve logging and health endpoint metrics
