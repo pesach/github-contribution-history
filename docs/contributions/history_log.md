@@ -25447,3 +25447,4 @@
 - [2021-08-16T20:01:09] Enhance dashboard statistics rendering
 - [2021-08-16T18:04:24] Add error handling for yt-dlp rate limits
 - [2021-08-16T09:05:19] Update documentation and architectural guides
+- [2021-08-16T11:39:13] Add Redis rate limit backoff handlers
