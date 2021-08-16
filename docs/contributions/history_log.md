@@ -25442,3 +25442,4 @@
 - [2021-08-16T22:18:58] Clean up legacy worker task routines
 - [2021-08-16T08:47:10] Update schema migration helpers
 - [2021-08-16T17:42:15] Fix edge case in channel tab crawler
+- [2021-08-16T17:33:38] Refactor cookie refresher probe logic
