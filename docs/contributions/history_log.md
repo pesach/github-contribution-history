@@ -25445,3 +25445,4 @@
 - [2021-08-16T17:33:38] Refactor cookie refresher probe logic
 - [2021-08-16T22:15:33] Fix edge case in URL parsing and validation
 - [2021-08-16T20:01:09] Enhance dashboard statistics rendering
+- [2021-08-16T18:04:24] Add error handling for yt-dlp rate limits
