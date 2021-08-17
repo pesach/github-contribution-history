@@ -25463,3 +25463,4 @@
 - [2021-08-17T18:59:59] Refactor storage upload retry mechanism
 - [2021-08-17T16:02:32] Add Prometheus exporter endpoints for queue length
 - [2021-08-17T18:39:51] Update dependency lockfiles and requirements
+- [2021-08-17T11:08:46] Clean up legacy worker task routines
