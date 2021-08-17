@@ -25457,3 +25457,4 @@
 - [2021-08-17T13:15:39] Improve ffmpeg streaming pipe buffer management
 - [2021-08-17T12:02:40] Update dependency lockfiles and requirements
 - [2021-08-17T20:51:07] Update automated pytest test suites
+- [2021-08-17T18:31:37] Add Redis rate limit backoff handlers
