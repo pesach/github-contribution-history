@@ -25465,3 +25465,4 @@
 - [2021-08-17T18:39:51] Update dependency lockfiles and requirements
 - [2021-08-17T11:08:46] Clean up legacy worker task routines
 - [2021-08-18T18:31:23] Improve logging and health endpoint metrics
+- [2021-08-18T08:39:47] Refactor cookie refresher probe logic
