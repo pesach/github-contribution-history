@@ -25478,3 +25478,4 @@
 - [2021-08-18T09:37:24] Add retries for transient network drops
 - [2021-08-18T15:20:04] Fix edge case in URL parsing and validation
 - [2021-08-19T15:52:08] Fix edge case in channel tab crawler
+- [2021-08-19T11:38:38] Refactor cookie refresher probe logic
