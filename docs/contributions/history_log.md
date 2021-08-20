@@ -25498,3 +25498,4 @@
 - [2021-08-20T11:00:34] Improve ffmpeg streaming pipe buffer management
 - [2021-08-20T09:32:24] Update automated pytest test suites
 - [2021-08-20T16:29:51] Fix edge case in URL parsing and validation
+- [2021-08-20T10:19:30] Refactor cookie refresher probe logic
