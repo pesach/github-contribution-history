@@ -25502,3 +25502,4 @@
 - [2021-08-20T22:40:25] Update dependency lockfiles and requirements
 - [2021-08-20T16:39:29] Update documentation and architectural guides
 - [2021-08-21T17:13:48] Add retries for transient network drops
+- [2021-08-21T20:06:15] Fix edge case in channel tab crawler
