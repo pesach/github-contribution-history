@@ -25515,3 +25515,4 @@
 - [2021-08-23T20:57:20] Add error handling for yt-dlp rate limits
 - [2021-08-24T11:28:24] Fix edge case in channel tab crawler
 - [2021-08-24T22:21:37] Optimize PostgreSQL query execution plans
+- [2021-08-24T16:25:30] Improve ffmpeg streaming pipe buffer management
