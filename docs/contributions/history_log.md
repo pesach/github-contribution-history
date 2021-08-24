@@ -25523,3 +25523,4 @@
 - [2021-08-24T11:36:52] Update schema migration helpers
 - [2021-08-24T20:25:11] Improve ffmpeg streaming pipe buffer management
 - [2021-08-24T13:45:12] Refactor worker polling logic
+- [2021-08-24T09:22:09] Update documentation and architectural guides
