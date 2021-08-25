@@ -25516,3 +25516,4 @@
 - [2021-08-24T11:28:24] Fix edge case in channel tab crawler
 - [2021-08-24T22:21:37] Optimize PostgreSQL query execution plans
 - [2021-08-24T16:25:30] Improve ffmpeg streaming pipe buffer management
+- [2021-08-24T22:29:40] Refactor worker polling logic
