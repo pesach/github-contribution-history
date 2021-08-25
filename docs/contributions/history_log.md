@@ -25529,3 +25529,4 @@
 - [2021-08-25T08:15:36] Refactor cookie refresher probe logic
 - [2021-08-25T10:00:39] Update schema migration helpers
 - [2021-08-25T09:46:38] Add error handling for yt-dlp rate limits
+- [2021-08-25T12:58:03] Fix edge case in URL parsing and validation
