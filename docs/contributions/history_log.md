@@ -25526,3 +25526,4 @@
 - [2021-08-24T09:22:09] Update documentation and architectural guides
 - [2021-08-24T22:25:13] Fix edge case in channel tab crawler
 - [2021-08-25T18:00:29] Update automated pytest test suites
+- [2021-08-25T08:15:36] Refactor cookie refresher probe logic
