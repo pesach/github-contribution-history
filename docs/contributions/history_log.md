@@ -25540,3 +25540,4 @@
 - [2021-08-25T22:16:29] Update automated pytest test suites
 - [2021-08-25T10:16:56] Improve logging and health endpoint metrics
 - [2021-08-25T16:02:50] Add Prometheus exporter endpoints for queue length
+- [2021-08-26T19:08:33] Clean up legacy worker task routines
