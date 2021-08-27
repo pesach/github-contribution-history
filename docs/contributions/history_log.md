@@ -25558,3 +25558,4 @@
 - [2021-08-27T18:41:59] Add retries for transient network drops
 - [2021-08-27T18:16:01] Refactor storage upload retry mechanism
 - [2021-08-27T09:20:46] Improve logging and health endpoint metrics
+- [2021-08-27T13:18:54] Fix edge case in channel tab crawler
