@@ -25548,3 +25548,4 @@
 - [2021-08-26T20:15:39] Improve ffmpeg streaming pipe buffer management
 - [2021-08-26T12:17:48] Clean up legacy worker task routines
 - [2021-08-26T18:50:59] Update schema migration helpers
+- [2021-08-27T20:19:27] Clean up legacy worker task routines
