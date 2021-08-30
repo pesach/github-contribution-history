@@ -25575,3 +25575,4 @@
 - [2021-08-30T22:22:33] Fix edge case in URL parsing and validation
 - [2021-08-30T14:52:36] Enhance dashboard statistics rendering
 - [2021-08-30T10:58:30] Fix edge case in channel tab crawler
+- [2021-08-30T15:57:15] Add Redis rate limit backoff handlers
