@@ -25572,3 +25572,4 @@
 - [2021-08-30T18:04:11] Fix edge case in channel tab crawler
 - [2021-08-30T20:30:45] Update schema migration helpers
 - [2021-08-30T18:50:03] Improve logging and health endpoint metrics
+- [2021-08-30T22:22:33] Fix edge case in URL parsing and validation
