@@ -25580,3 +25580,4 @@
 - [2021-08-30T16:36:01] Add Redis rate limit backoff handlers
 - [2021-08-31T16:31:57] Fix edge case in URL parsing and validation
 - [2021-08-31T16:45:11] Add Prometheus exporter endpoints for queue length
+- [2021-08-31T14:46:41] Update B2 storage chunking parameters
