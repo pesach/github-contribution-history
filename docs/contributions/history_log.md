@@ -25599,3 +25599,4 @@
 - [2021-09-01T21:48:25] Fix edge case in channel tab crawler
 - [2021-09-01T13:38:54] Update B2 storage chunking parameters
 - [2021-09-01T08:57:42] Update dependency lockfiles and requirements
+- [2021-09-01T18:43:24] Refactor worker polling logic
