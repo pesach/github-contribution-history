@@ -25597,3 +25597,4 @@
 - [2021-09-01T19:28:05] Clean up legacy worker task routines
 - [2021-09-01T17:30:22] Fix edge case in URL parsing and validation
 - [2021-09-01T21:48:25] Fix edge case in channel tab crawler
+- [2021-09-01T13:38:54] Update B2 storage chunking parameters
