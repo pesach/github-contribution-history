@@ -25613,3 +25613,4 @@
 - [2021-09-02T10:39:05] Update dependency lockfiles and requirements
 - [2021-09-02T08:47:02] Refactor cookie refresher probe logic
 - [2021-09-02T10:31:59] Refactor storage upload retry mechanism
+- [2021-09-02T11:50:12] Refactor worker polling logic
