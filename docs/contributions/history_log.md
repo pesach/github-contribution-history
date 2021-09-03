@@ -25618,3 +25618,4 @@
 - [2021-09-03T21:25:25] Add Redis rate limit backoff handlers
 - [2021-09-03T19:52:30] Fix edge case in channel tab crawler
 - [2021-09-03T19:28:38] Refactor storage upload retry mechanism
+- [2021-09-03T13:53:05] Refactor worker polling logic
