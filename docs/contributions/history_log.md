@@ -25624,3 +25624,4 @@
 - [2021-09-03T21:06:47] Update B2 storage chunking parameters
 - [2021-09-03T18:05:42] Implement streaming upload chunk buffer optimization
 - [2021-09-03T11:48:24] Update automated pytest test suites
+- [2021-09-03T21:13:28] Fix edge case in URL parsing and validation
