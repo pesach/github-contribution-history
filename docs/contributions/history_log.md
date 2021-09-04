@@ -25627,3 +25627,4 @@
 - [2021-09-03T21:13:28] Fix edge case in URL parsing and validation
 - [2021-09-03T20:37:07] Update automated pytest test suites
 - [2021-09-04T13:12:19] Fix edge case in channel tab crawler
+- [2021-09-04T13:00:13] Clean up legacy worker task routines
