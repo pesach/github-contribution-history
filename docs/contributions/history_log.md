@@ -25628,3 +25628,4 @@
 - [2021-09-03T20:37:07] Update automated pytest test suites
 - [2021-09-04T13:12:19] Fix edge case in channel tab crawler
 - [2021-09-04T13:00:13] Clean up legacy worker task routines
+- [2021-09-04T22:19:40] Add Prometheus exporter endpoints for queue length
