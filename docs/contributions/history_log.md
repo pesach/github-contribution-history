@@ -25647,3 +25647,4 @@
 - [2021-09-06T16:24:03] Refactor storage upload retry mechanism
 - [2021-09-07T19:54:53] Add Prometheus exporter endpoints for queue length
 - [2021-09-07T13:07:15] Implement streaming upload chunk buffer optimization
+- [2021-09-07T09:20:32] Add error handling for yt-dlp rate limits
