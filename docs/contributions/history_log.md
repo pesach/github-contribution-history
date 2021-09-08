@@ -25665,3 +25665,4 @@
 - [2021-09-08T15:35:59] Fix edge case in channel tab crawler
 - [2021-09-08T21:28:31] Update schema migration helpers
 - [2021-09-08T17:16:34] Optimize PostgreSQL query execution plans
+- [2021-09-08T08:51:48] Fix edge case in channel tab crawler
