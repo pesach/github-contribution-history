@@ -25654,3 +25654,4 @@
 - [2021-09-07T11:13:08] Refactor worker polling logic
 - [2021-09-08T22:36:18] Add Redis rate limit backoff handlers
 - [2021-09-08T10:33:37] Add retries for transient network drops
+- [2021-09-08T14:28:37] Improve logging and health endpoint metrics
