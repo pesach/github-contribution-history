@@ -25661,3 +25661,4 @@
 - [2021-09-08T13:57:47] Update automated pytest test suites
 - [2021-09-08T17:44:41] Add Redis rate limit backoff handlers
 - [2021-09-08T08:47:17] Add retries for transient network drops
+- [2021-09-08T09:43:33] Improve ffmpeg streaming pipe buffer management
