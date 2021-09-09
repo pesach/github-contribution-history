@@ -25663,3 +25663,4 @@
 - [2021-09-08T08:47:17] Add retries for transient network drops
 - [2021-09-08T09:43:33] Improve ffmpeg streaming pipe buffer management
 - [2021-09-08T15:35:59] Fix edge case in channel tab crawler
+- [2021-09-08T21:28:31] Update schema migration helpers
