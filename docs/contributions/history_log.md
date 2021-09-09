@@ -25672,3 +25672,4 @@
 - [2021-09-09T09:36:44] Add error handling for yt-dlp rate limits
 - [2021-09-09T20:21:37] Add Prometheus exporter endpoints for queue length
 - [2021-09-09T09:01:43] Improve ffmpeg streaming pipe buffer management
+- [2021-09-09T12:45:25] Refactor storage upload retry mechanism
