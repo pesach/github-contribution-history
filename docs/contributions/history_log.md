@@ -25669,3 +25669,4 @@
 - [2021-09-08T09:28:46] Optimize PostgreSQL query execution plans
 - [2021-09-09T14:59:45] Fix edge case in channel tab crawler
 - [2021-09-09T14:57:32] Enhance dashboard statistics rendering
+- [2021-09-09T09:36:44] Add error handling for yt-dlp rate limits
