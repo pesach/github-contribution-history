@@ -25681,3 +25681,4 @@
 - [2021-09-09T14:31:39] Add Redis rate limit backoff handlers
 - [2021-09-09T08:17:38] Add Redis rate limit backoff handlers
 - [2021-09-11T14:13:11] Fix edge case in channel tab crawler
+- [2021-09-11T21:23:04] Add error handling for yt-dlp rate limits
