@@ -25706,3 +25706,4 @@
 - [2021-09-13T19:38:59] Add retries for transient network drops
 - [2021-09-13T16:01:05] Update automated pytest test suites
 - [2021-09-13T21:06:36] Refactor storage upload retry mechanism
+- [2021-09-13T16:15:06] Update B2 storage chunking parameters
