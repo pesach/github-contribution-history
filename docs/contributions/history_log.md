@@ -25711,3 +25711,4 @@
 - [2021-09-14T21:07:07] Add error handling for yt-dlp rate limits
 - [2021-09-14T20:48:10] Refactor cookie refresher probe logic
 - [2021-09-14T12:37:05] Implement streaming upload chunk buffer optimization
+- [2021-09-14T19:46:37] Add Prometheus exporter endpoints for queue length
