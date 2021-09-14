@@ -25707,3 +25707,4 @@
 - [2021-09-13T16:01:05] Update automated pytest test suites
 - [2021-09-13T21:06:36] Refactor storage upload retry mechanism
 - [2021-09-13T16:15:06] Update B2 storage chunking parameters
+- [2021-09-14T08:30:57] Improve ffmpeg streaming pipe buffer management
