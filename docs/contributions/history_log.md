@@ -25721,3 +25721,4 @@
 - [2021-09-15T19:25:39] Optimize PostgreSQL query execution plans
 - [2021-09-15T11:13:47] Fix edge case in channel tab crawler
 - [2021-09-15T22:08:27] Refactor cookie refresher probe logic
+- [2021-09-15T17:37:39] Update schema migration helpers
