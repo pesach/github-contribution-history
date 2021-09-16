@@ -25733,3 +25733,4 @@
 - [2021-09-16T08:08:11] Improve ffmpeg streaming pipe buffer management
 - [2021-09-16T13:20:00] Add Prometheus exporter endpoints for queue length
 - [2021-09-16T20:55:11] Add Redis rate limit backoff handlers
+- [2021-09-16T16:54:57] Improve ffmpeg streaming pipe buffer management
