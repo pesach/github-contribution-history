@@ -25727,3 +25727,4 @@
 - [2021-09-16T09:34:22] Refactor cookie refresher probe logic
 - [2021-09-16T20:52:43] Update documentation and architectural guides
 - [2021-09-16T09:39:25] Add retries for transient network drops
+- [2021-09-16T15:11:34] Refactor worker polling logic
