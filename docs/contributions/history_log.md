@@ -25725,3 +25725,4 @@
 - [2021-09-15T20:51:47] Update schema migration helpers
 - [2021-09-15T21:01:47] Update automated pytest test suites
 - [2021-09-16T09:34:22] Refactor cookie refresher probe logic
+- [2021-09-16T20:52:43] Update documentation and architectural guides
