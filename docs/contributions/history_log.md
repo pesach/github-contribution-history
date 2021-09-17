@@ -25741,3 +25741,4 @@
 - [2021-09-17T08:12:01] Add retries for transient network drops
 - [2021-09-17T17:39:01] Update schema migration helpers
 - [2021-09-17T12:46:08] Refactor storage upload retry mechanism
+- [2021-09-17T08:03:01] Optimize PostgreSQL query execution plans
