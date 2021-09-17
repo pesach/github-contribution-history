@@ -25740,3 +25740,4 @@
 - [2021-09-17T15:43:01] Refactor cookie refresher probe logic
 - [2021-09-17T08:12:01] Add retries for transient network drops
 - [2021-09-17T17:39:01] Update schema migration helpers
+- [2021-09-17T12:46:08] Refactor storage upload retry mechanism
