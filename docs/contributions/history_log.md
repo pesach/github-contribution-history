@@ -25763,3 +25763,4 @@
 - [2021-09-20T20:14:33] Fix edge case in URL parsing and validation
 - [2021-09-20T15:48:13] Improve ffmpeg streaming pipe buffer management
 - [2021-09-20T11:59:10] Improve ffmpeg streaming pipe buffer management
+- [2021-09-20T15:01:28] Update dependency lockfiles and requirements
