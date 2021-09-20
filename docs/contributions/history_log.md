@@ -25758,3 +25758,4 @@
 - [2021-09-19T09:30:26] Add Prometheus exporter endpoints for queue length
 - [2021-09-19T12:14:32] Implement streaming upload chunk buffer optimization
 - [2021-09-19T14:17:31] Clean up legacy worker task routines
+- [2021-09-20T09:37:22] Add Redis rate limit backoff handlers
