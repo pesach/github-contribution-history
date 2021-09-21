@@ -25760,3 +25760,4 @@
 - [2021-09-19T14:17:31] Clean up legacy worker task routines
 - [2021-09-20T09:37:22] Add Redis rate limit backoff handlers
 - [2021-09-20T10:06:57] Add Redis rate limit backoff handlers
+- [2021-09-20T20:14:33] Fix edge case in URL parsing and validation
