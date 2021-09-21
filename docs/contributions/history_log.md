@@ -25771,3 +25771,4 @@
 - [2021-09-21T21:16:33] Add Redis rate limit backoff handlers
 - [2021-09-21T17:39:24] Fix edge case in URL parsing and validation
 - [2021-09-21T22:16:25] Add Prometheus exporter endpoints for queue length
+- [2021-09-21T14:00:58] Refactor storage upload retry mechanism
