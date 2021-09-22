@@ -25779,3 +25779,4 @@
 - [2021-09-22T19:27:01] Update dependency lockfiles and requirements
 - [2021-09-22T22:20:25] Update B2 storage chunking parameters
 - [2021-09-22T11:18:08] Improve ffmpeg streaming pipe buffer management
+- [2021-09-22T10:11:57] Add Prometheus exporter endpoints for queue length
