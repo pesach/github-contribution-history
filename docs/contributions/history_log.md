@@ -25798,3 +25798,4 @@
 - [2021-09-24T19:27:33] Update B2 storage chunking parameters
 - [2021-09-24T13:52:52] Update documentation and architectural guides
 - [2021-09-24T09:36:42] Update automated pytest test suites
+- [2021-09-24T14:02:21] Refactor cookie refresher probe logic
