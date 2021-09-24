@@ -25794,3 +25794,4 @@
 - [2021-09-23T16:48:30] Update automated pytest test suites
 - [2021-09-24T17:30:27] Enhance dashboard statistics rendering
 - [2021-09-24T14:57:24] Add Redis rate limit backoff handlers
+- [2021-09-24T16:08:42] Refactor worker polling logic
