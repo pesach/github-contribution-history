@@ -25800,3 +25800,4 @@
 - [2021-09-24T09:36:42] Update automated pytest test suites
 - [2021-09-24T14:02:21] Refactor cookie refresher probe logic
 - [2021-09-26T13:15:51] Improve ffmpeg streaming pipe buffer management
+- [2021-09-26T09:17:53] Add Prometheus exporter endpoints for queue length
