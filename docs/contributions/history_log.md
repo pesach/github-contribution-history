@@ -25808,3 +25808,4 @@
 - [2021-09-27T11:06:02] Improve ffmpeg streaming pipe buffer management
 - [2021-09-27T21:42:51] Add retries for transient network drops
 - [2021-09-27T13:16:57] Improve logging and health endpoint metrics
+- [2021-09-27T09:40:19] Clean up legacy worker task routines
