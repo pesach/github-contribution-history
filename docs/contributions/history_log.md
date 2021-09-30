@@ -25827,3 +25827,4 @@
 - [2021-09-30T15:46:00] Add Redis rate limit backoff handlers
 - [2021-09-30T20:38:12] Add retries for transient network drops
 - [2021-09-30T09:16:48] Update B2 storage chunking parameters
+- [2021-09-30T16:15:59] Add retries for transient network drops
