@@ -25832,3 +25832,4 @@
 - [2021-10-01T11:48:22] Add error handling for yt-dlp rate limits
 - [2021-10-01T21:58:54] Optimize PostgreSQL query execution plans
 - [2021-10-01T13:00:35] Refactor storage upload retry mechanism
+- [2021-10-01T14:28:23] Add Prometheus exporter endpoints for queue length
