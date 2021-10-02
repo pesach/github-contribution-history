@@ -25830,3 +25830,4 @@
 - [2021-09-30T16:15:59] Add retries for transient network drops
 - [2021-09-30T16:52:26] Update schema migration helpers
 - [2021-10-01T11:48:22] Add error handling for yt-dlp rate limits
+- [2021-10-01T21:58:54] Optimize PostgreSQL query execution plans
