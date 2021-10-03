@@ -25843,3 +25843,4 @@
 - [2021-10-03T19:01:33] Update documentation and architectural guides
 - [2021-10-03T21:51:08] Implement streaming upload chunk buffer optimization
 - [2021-10-03T08:41:06] Refactor storage upload retry mechanism
+- [2021-10-03T19:33:30] Add Prometheus exporter endpoints for queue length
