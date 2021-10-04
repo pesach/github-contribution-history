@@ -25851,3 +25851,4 @@
 - [2021-10-04T11:19:25] Update automated pytest test suites
 - [2021-10-04T10:38:57] Fix edge case in URL parsing and validation
 - [2021-10-04T21:00:41] Add Redis rate limit backoff handlers
+- [2021-10-04T11:50:07] Add retries for transient network drops
