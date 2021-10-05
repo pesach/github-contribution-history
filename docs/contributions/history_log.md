@@ -25850,3 +25850,4 @@
 - [2021-10-04T15:59:31] Update B2 storage chunking parameters
 - [2021-10-04T11:19:25] Update automated pytest test suites
 - [2021-10-04T10:38:57] Fix edge case in URL parsing and validation
+- [2021-10-04T21:00:41] Add Redis rate limit backoff handlers
