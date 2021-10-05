@@ -25846,3 +25846,4 @@
 - [2021-10-03T19:33:30] Add Prometheus exporter endpoints for queue length
 - [2021-10-04T14:09:55] Add error handling for yt-dlp rate limits
 - [2021-10-04T19:05:18] Update automated pytest test suites
+- [2021-10-04T22:17:09] Refactor worker polling logic
