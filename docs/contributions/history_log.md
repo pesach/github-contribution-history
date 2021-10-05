@@ -25858,3 +25858,4 @@
 - [2021-10-05T20:24:29] Add retries for transient network drops
 - [2021-10-05T12:52:36] Add error handling for yt-dlp rate limits
 - [2021-10-05T17:34:36] Refactor storage upload retry mechanism
+- [2021-10-05T12:20:07] Refactor storage upload retry mechanism
