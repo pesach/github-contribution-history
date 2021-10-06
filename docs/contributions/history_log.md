@@ -25865,3 +25865,4 @@
 - [2021-10-06T22:50:59] Clean up legacy worker task routines
 - [2021-10-06T21:49:34] Fix edge case in URL parsing and validation
 - [2021-10-06T16:10:25] Refactor cookie refresher probe logic
+- [2021-10-06T15:32:16] Update B2 storage chunking parameters
