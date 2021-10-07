@@ -25886,3 +25886,4 @@
 - [2021-10-07T09:19:10] Improve ffmpeg streaming pipe buffer management
 - [2021-10-07T21:01:37] Optimize PostgreSQL query execution plans
 - [2021-10-07T22:09:25] Optimize PostgreSQL query execution plans
+- [2021-10-07T10:10:12] Fix edge case in URL parsing and validation
