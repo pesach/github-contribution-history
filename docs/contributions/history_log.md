@@ -25888,3 +25888,4 @@
 - [2021-10-07T22:09:25] Optimize PostgreSQL query execution plans
 - [2021-10-07T10:10:12] Fix edge case in URL parsing and validation
 - [2021-10-07T11:08:04] Optimize PostgreSQL query execution plans
+- [2021-10-07T14:00:24] Add Prometheus exporter endpoints for queue length
