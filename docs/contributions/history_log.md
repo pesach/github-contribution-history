@@ -25875,3 +25875,4 @@
 - [2021-10-06T08:37:48] Update automated pytest test suites
 - [2021-10-06T09:08:14] Add retries for transient network drops
 - [2021-10-07T08:48:16] Improve logging and health endpoint metrics
+- [2021-10-07T18:30:48] Add Prometheus exporter endpoints for queue length
