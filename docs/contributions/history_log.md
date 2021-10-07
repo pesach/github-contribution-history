@@ -25862,3 +25862,4 @@
 - [2021-10-05T18:22:52] Add Redis rate limit backoff handlers
 - [2021-10-05T18:05:52] Clean up legacy worker task routines
 - [2021-10-06T10:37:30] Refactor storage upload retry mechanism
+- [2021-10-06T22:50:59] Clean up legacy worker task routines
