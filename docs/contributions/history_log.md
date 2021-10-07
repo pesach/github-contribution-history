@@ -25863,3 +25863,4 @@
 - [2021-10-05T18:05:52] Clean up legacy worker task routines
 - [2021-10-06T10:37:30] Refactor storage upload retry mechanism
 - [2021-10-06T22:50:59] Clean up legacy worker task routines
+- [2021-10-06T21:49:34] Fix edge case in URL parsing and validation
