@@ -25881,3 +25881,4 @@
 - [2021-10-07T11:54:22] Fix edge case in URL parsing and validation
 - [2021-10-07T17:09:31] Improve logging and health endpoint metrics
 - [2021-10-07T12:06:20] Refactor worker polling logic
+- [2021-10-07T22:07:56] Improve ffmpeg streaming pipe buffer management
