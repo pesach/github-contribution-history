@@ -25893,3 +25893,4 @@
 - [2021-10-08T13:11:27] Update schema migration helpers
 - [2021-10-08T18:03:18] Add retries for transient network drops
 - [2021-10-08T10:29:49] Clean up legacy worker task routines
+- [2021-10-08T17:26:08] Optimize PostgreSQL query execution plans
