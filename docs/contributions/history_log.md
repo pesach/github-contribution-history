@@ -25891,3 +25891,4 @@
 - [2021-10-07T14:00:24] Add Prometheus exporter endpoints for queue length
 - [2021-10-08T14:49:41] Update dependency lockfiles and requirements
 - [2021-10-08T13:11:27] Update schema migration helpers
+- [2021-10-08T18:03:18] Add retries for transient network drops
