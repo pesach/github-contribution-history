@@ -25903,3 +25903,4 @@
 - [2021-10-09T19:48:44] Add retries for transient network drops
 - [2021-10-09T11:57:34] Optimize PostgreSQL query execution plans
 - [2021-10-10T16:28:32] Add Prometheus exporter endpoints for queue length
+- [2021-10-10T10:01:41] Update B2 storage chunking parameters
