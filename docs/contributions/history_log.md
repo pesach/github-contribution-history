@@ -25911,3 +25911,4 @@
 - [2021-10-11T14:17:00] Optimize PostgreSQL query execution plans
 - [2021-10-11T17:36:58] Refactor cookie refresher probe logic
 - [2021-10-11T12:57:04] Add error handling for yt-dlp rate limits
+- [2021-10-11T17:52:10] Update schema migration helpers
