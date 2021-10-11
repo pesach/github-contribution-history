@@ -25916,3 +25916,4 @@
 - [2021-10-11T08:00:59] Improve ffmpeg streaming pipe buffer management
 - [2021-10-11T19:34:44] Add Prometheus exporter endpoints for queue length
 - [2021-10-11T22:11:22] Clean up legacy worker task routines
+- [2021-10-11T14:53:07] Add retries for transient network drops
