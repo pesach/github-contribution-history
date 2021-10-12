@@ -25918,3 +25918,4 @@
 - [2021-10-11T22:11:22] Clean up legacy worker task routines
 - [2021-10-11T14:53:07] Add retries for transient network drops
 - [2021-10-11T19:31:47] Refactor cookie refresher probe logic
+- [2021-10-12T17:08:05] Update B2 storage chunking parameters
