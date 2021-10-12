@@ -25922,3 +25922,4 @@
 - [2021-10-12T22:43:29] Add Prometheus exporter endpoints for queue length
 - [2021-10-12T21:40:26] Refactor cookie refresher probe logic
 - [2021-10-12T11:58:22] Update B2 storage chunking parameters
+- [2021-10-12T15:05:43] Improve logging and health endpoint metrics
