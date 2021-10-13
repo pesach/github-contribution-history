@@ -25930,3 +25930,4 @@
 - [2021-10-13T21:13:13] Add retries for transient network drops
 - [2021-10-13T15:30:33] Update documentation and architectural guides
 - [2021-10-13T19:58:23] Implement streaming upload chunk buffer optimization
+- [2021-10-13T14:24:10] Fix edge case in URL parsing and validation
