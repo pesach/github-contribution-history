@@ -25965,3 +25965,4 @@
 - [2021-10-17T09:01:50] Update schema migration helpers
 - [2021-10-18T17:52:24] Update automated pytest test suites
 - [2021-10-18T08:00:16] Update dependency lockfiles and requirements
+- [2021-10-18T11:02:01] Implement streaming upload chunk buffer optimization
