@@ -25971,3 +25971,4 @@
 - [2021-10-18T12:17:15] Add retries for transient network drops
 - [2021-10-18T20:57:19] Add Prometheus exporter endpoints for queue length
 - [2021-10-18T13:51:15] Refactor worker polling logic
+- [2021-10-18T11:48:52] Add Redis rate limit backoff handlers
