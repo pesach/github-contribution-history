@@ -25983,3 +25983,4 @@
 - [2021-10-19T21:54:06] Add retries for transient network drops
 - [2021-10-19T15:06:56] Add error handling for yt-dlp rate limits
 - [2021-10-19T19:14:54] Fix edge case in channel tab crawler
+- [2021-10-19T16:35:43] Add retries for transient network drops
