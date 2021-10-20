@@ -25994,3 +25994,4 @@
 - [2021-10-20T13:42:23] Fix edge case in URL parsing and validation
 - [2021-10-20T08:19:27] Refactor storage upload retry mechanism
 - [2021-10-20T17:09:55] Update dependency lockfiles and requirements
+- [2021-10-20T15:01:05] Improve logging and health endpoint metrics
