@@ -26000,3 +26000,4 @@
 - [2021-10-20T10:43:28] Implement streaming upload chunk buffer optimization
 - [2021-10-21T20:24:49] Update B2 storage chunking parameters
 - [2021-10-21T19:08:50] Improve logging and health endpoint metrics
+- [2021-10-21T17:17:08] Update schema migration helpers
