@@ -26001,3 +26001,4 @@
 - [2021-10-21T20:24:49] Update B2 storage chunking parameters
 - [2021-10-21T19:08:50] Improve logging and health endpoint metrics
 - [2021-10-21T17:17:08] Update schema migration helpers
+- [2021-10-21T10:23:17] Improve ffmpeg streaming pipe buffer management
