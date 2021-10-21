@@ -26003,3 +26003,4 @@
 - [2021-10-21T17:17:08] Update schema migration helpers
 - [2021-10-21T10:23:17] Improve ffmpeg streaming pipe buffer management
 - [2021-10-21T15:26:17] Add Redis rate limit backoff handlers
+- [2021-10-21T18:46:56] Update schema migration helpers
