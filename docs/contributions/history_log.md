@@ -26010,3 +26010,4 @@
 - [2021-10-22T10:01:02] Refactor storage upload retry mechanism
 - [2021-10-22T21:29:07] Add retries for transient network drops
 - [2021-10-22T21:44:32] Add retries for transient network drops
+- [2021-10-22T08:53:40] Clean up legacy worker task routines
