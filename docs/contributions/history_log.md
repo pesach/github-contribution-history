@@ -26005,3 +26005,4 @@
 - [2021-10-21T15:26:17] Add Redis rate limit backoff handlers
 - [2021-10-21T18:46:56] Update schema migration helpers
 - [2021-10-21T12:16:00] Add Redis rate limit backoff handlers
+- [2021-10-22T18:47:44] Refactor storage upload retry mechanism
