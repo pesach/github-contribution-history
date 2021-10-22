@@ -26012,3 +26012,4 @@
 - [2021-10-22T21:44:32] Add retries for transient network drops
 - [2021-10-22T08:53:40] Clean up legacy worker task routines
 - [2021-10-22T12:31:36] Fix edge case in URL parsing and validation
+- [2021-10-22T17:02:50] Update B2 storage chunking parameters
