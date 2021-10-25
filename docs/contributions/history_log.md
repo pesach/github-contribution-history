@@ -26021,3 +26021,4 @@
 - [2021-10-23T08:05:02] Update dependency lockfiles and requirements
 - [2021-10-24T19:18:29] Add retries for transient network drops
 - [2021-10-24T22:45:41] Enhance dashboard statistics rendering
+- [2021-10-24T20:32:11] Add Prometheus exporter endpoints for queue length
