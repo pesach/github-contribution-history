@@ -26023,3 +26023,4 @@
 - [2021-10-24T22:45:41] Enhance dashboard statistics rendering
 - [2021-10-24T20:32:11] Add Prometheus exporter endpoints for queue length
 - [2021-10-24T21:57:08] Enhance dashboard statistics rendering
+- [2021-10-25T10:32:37] Fix edge case in URL parsing and validation
