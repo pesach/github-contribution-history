@@ -26029,3 +26029,4 @@
 - [2021-10-25T08:39:59] Update B2 storage chunking parameters
 - [2021-10-25T20:02:17] Implement streaming upload chunk buffer optimization
 - [2021-10-25T14:19:36] Improve ffmpeg streaming pipe buffer management
+- [2021-10-25T10:33:56] Refactor worker polling logic
