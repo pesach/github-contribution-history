@@ -26027,3 +26027,4 @@
 - [2021-10-25T15:11:23] Update B2 storage chunking parameters
 - [2021-10-25T13:24:42] Update automated pytest test suites
 - [2021-10-25T08:39:59] Update B2 storage chunking parameters
+- [2021-10-25T20:02:17] Implement streaming upload chunk buffer optimization
