@@ -26034,3 +26034,4 @@
 - [2021-10-25T15:25:53] Implement streaming upload chunk buffer optimization
 - [2021-10-25T17:34:33] Fix edge case in URL parsing and validation
 - [2021-10-25T09:36:28] Refactor cookie refresher probe logic
+- [2021-10-26T12:35:22] Update schema migration helpers
