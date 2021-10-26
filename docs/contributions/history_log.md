@@ -26046,3 +26046,4 @@
 - [2021-10-26T12:09:19] Improve ffmpeg streaming pipe buffer management
 - [2021-10-26T18:40:18] Fix edge case in channel tab crawler
 - [2021-10-26T15:29:44] Add retries for transient network drops
+- [2021-10-26T19:28:14] Refactor cookie refresher probe logic
