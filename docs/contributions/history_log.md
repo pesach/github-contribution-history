@@ -26042,3 +26042,4 @@
 - [2021-10-26T19:37:12] Add Prometheus exporter endpoints for queue length
 - [2021-10-26T14:58:35] Update schema migration helpers
 - [2021-10-26T22:59:41] Update B2 storage chunking parameters
+- [2021-10-26T11:48:11] Clean up legacy worker task routines
