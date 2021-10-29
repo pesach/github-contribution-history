@@ -26067,3 +26067,4 @@
 - [2021-10-29T18:47:26] Update automated pytest test suites
 - [2021-10-29T17:43:34] Update schema migration helpers
 - [2021-10-29T16:40:58] Fix edge case in channel tab crawler
+- [2021-10-29T17:05:24] Improve logging and health endpoint metrics
