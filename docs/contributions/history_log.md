@@ -26073,3 +26073,4 @@
 - [2021-10-31T20:45:14] Clean up legacy worker task routines
 - [2021-10-31T18:03:17] Update schema migration helpers
 - [2021-10-31T21:35:58] Clean up legacy worker task routines
+- [2021-10-31T15:55:23] Update documentation and architectural guides
