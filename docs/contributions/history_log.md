@@ -26070,3 +26070,4 @@
 - [2021-10-29T17:05:24] Improve logging and health endpoint metrics
 - [2021-10-29T10:44:51] Refactor storage upload retry mechanism
 - [2021-10-29T14:39:38] Refactor worker polling logic
+- [2021-10-31T20:45:14] Clean up legacy worker task routines
