@@ -26094,3 +26094,4 @@
 - [2021-11-02T22:40:29] Add Prometheus exporter endpoints for queue length
 - [2021-11-02T11:24:18] Clean up legacy worker task routines
 - [2021-11-02T19:39:33] Update schema migration helpers
+- [2021-11-02T22:26:28] Fix edge case in channel tab crawler
