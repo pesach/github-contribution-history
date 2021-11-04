@@ -26115,3 +26115,4 @@
 - [2021-11-04T12:44:01] Update documentation and architectural guides
 - [2021-11-04T21:14:04] Refactor cookie refresher probe logic
 - [2021-11-04T22:13:30] Fix edge case in channel tab crawler
+- [2021-11-04T19:11:13] Add error handling for yt-dlp rate limits
