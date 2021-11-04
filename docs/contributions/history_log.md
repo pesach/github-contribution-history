@@ -26102,3 +26102,4 @@
 - [2021-11-03T22:32:44] Update schema migration helpers
 - [2021-11-03T09:02:05] Add error handling for yt-dlp rate limits
 - [2021-11-03T19:31:15] Add Prometheus exporter endpoints for queue length
+- [2021-11-03T20:41:41] Improve ffmpeg streaming pipe buffer management
