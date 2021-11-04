@@ -26109,3 +26109,4 @@
 - [2021-11-04T12:28:55] Refactor storage upload retry mechanism
 - [2021-11-04T21:05:19] Fix edge case in URL parsing and validation
 - [2021-11-04T13:07:24] Update dependency lockfiles and requirements
+- [2021-11-04T10:10:55] Fix edge case in URL parsing and validation
