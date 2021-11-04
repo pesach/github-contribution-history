@@ -26104,3 +26104,4 @@
 - [2021-11-03T19:31:15] Add Prometheus exporter endpoints for queue length
 - [2021-11-03T20:41:41] Improve ffmpeg streaming pipe buffer management
 - [2021-11-03T18:34:13] Update documentation and architectural guides
+- [2021-11-03T22:38:19] Improve ffmpeg streaming pipe buffer management
