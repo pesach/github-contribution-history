@@ -26123,3 +26123,4 @@
 - [2021-11-05T14:06:27] Update automated pytest test suites
 - [2021-11-05T14:02:47] Add error handling for yt-dlp rate limits
 - [2021-11-05T17:21:10] Refactor storage upload retry mechanism
+- [2021-11-05T09:55:32] Add Prometheus exporter endpoints for queue length
