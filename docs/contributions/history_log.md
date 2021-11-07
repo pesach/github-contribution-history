@@ -26132,3 +26132,4 @@
 - [2021-11-07T18:02:48] Update documentation and architectural guides
 - [2021-11-07T21:57:00] Add retries for transient network drops
 - [2021-11-07T16:17:59] Refactor cookie refresher probe logic
+- [2021-11-07T16:44:16] Add error handling for yt-dlp rate limits
