@@ -26148,3 +26148,4 @@
 - [2021-11-08T17:33:54] Refactor storage upload retry mechanism
 - [2021-11-08T11:02:56] Fix edge case in channel tab crawler
 - [2021-11-08T15:13:50] Update dependency lockfiles and requirements
+- [2021-11-08T21:24:10] Update schema migration helpers
