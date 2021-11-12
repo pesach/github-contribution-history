@@ -26186,3 +26186,4 @@
 - [2021-11-11T18:11:57] Update documentation and architectural guides
 - [2021-11-12T13:46:14] Implement streaming upload chunk buffer optimization
 - [2021-11-12T10:07:42] Update documentation and architectural guides
+- [2021-11-12T18:57:17] Add Prometheus exporter endpoints for queue length
