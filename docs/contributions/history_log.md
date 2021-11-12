@@ -26175,3 +26175,4 @@
 - [2021-11-11T18:11:53] Fix edge case in URL parsing and validation
 - [2021-11-11T15:19:37] Refactor cookie refresher probe logic
 - [2021-11-11T18:54:43] Update B2 storage chunking parameters
+- [2021-11-11T19:05:13] Refactor worker polling logic
