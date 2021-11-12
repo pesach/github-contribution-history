@@ -26193,3 +26193,4 @@
 - [2021-11-12T17:08:14] Refactor worker polling logic
 - [2021-11-12T11:58:13] Add Prometheus exporter endpoints for queue length
 - [2021-11-12T16:35:38] Refactor storage upload retry mechanism
+- [2021-11-12T08:18:36] Update schema migration helpers
