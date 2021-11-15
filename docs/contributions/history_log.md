@@ -26205,3 +26205,4 @@
 - [2021-11-15T09:20:07] Improve logging and health endpoint metrics
 - [2021-11-15T10:50:05] Add retries for transient network drops
 - [2021-11-15T18:55:08] Update B2 storage chunking parameters
+- [2021-11-15T17:07:15] Fix edge case in channel tab crawler
