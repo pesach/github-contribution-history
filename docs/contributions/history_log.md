@@ -26225,3 +26225,4 @@
 - [2021-11-18T13:43:56] Improve logging and health endpoint metrics
 - [2021-11-18T18:02:22] Refactor cookie refresher probe logic
 - [2021-11-18T11:26:01] Fix edge case in channel tab crawler
+- [2021-11-18T10:17:52] Update B2 storage chunking parameters
