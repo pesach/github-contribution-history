@@ -26255,3 +26255,4 @@
 - [2021-11-24T21:04:19] Update B2 storage chunking parameters
 - [2021-11-24T09:19:31] Improve ffmpeg streaming pipe buffer management
 - [2021-11-24T10:42:39] Refactor storage upload retry mechanism
+- [2021-11-24T13:12:40] Refactor worker polling logic
