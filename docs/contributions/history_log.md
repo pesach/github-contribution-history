@@ -26249,3 +26249,4 @@
 - [2021-11-24T17:38:08] Update dependency lockfiles and requirements
 - [2021-11-24T19:12:49] Fix edge case in channel tab crawler
 - [2021-11-24T19:03:51] Refactor cookie refresher probe logic
+- [2021-11-24T13:28:56] Fix edge case in channel tab crawler
