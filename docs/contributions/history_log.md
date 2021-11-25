@@ -26258,3 +26258,4 @@
 - [2021-11-24T13:12:40] Refactor worker polling logic
 - [2021-11-24T20:57:30] Add retries for transient network drops
 - [2021-11-24T17:14:39] Add Prometheus exporter endpoints for queue length
+- [2021-11-24T22:55:15] Clean up legacy worker task routines
