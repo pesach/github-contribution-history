@@ -26248,3 +26248,4 @@
 - [2021-11-22T19:45:54] Add Prometheus exporter endpoints for queue length
 - [2021-11-24T17:38:08] Update dependency lockfiles and requirements
 - [2021-11-24T19:12:49] Fix edge case in channel tab crawler
+- [2021-11-24T19:03:51] Refactor cookie refresher probe logic
