@@ -26252,3 +26252,4 @@
 - [2021-11-24T13:28:56] Fix edge case in channel tab crawler
 - [2021-11-24T20:33:43] Fix edge case in channel tab crawler
 - [2021-11-24T19:27:41] Clean up legacy worker task routines
+- [2021-11-24T21:04:19] Update B2 storage chunking parameters
