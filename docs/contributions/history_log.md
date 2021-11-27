@@ -26287,3 +26287,4 @@
 - [2021-11-27T08:16:52] Improve ffmpeg streaming pipe buffer management
 - [2021-11-27T08:48:01] Update automated pytest test suites
 - [2021-11-27T10:48:35] Refactor cookie refresher probe logic
+- [2021-11-27T09:25:34] Improve logging and health endpoint metrics
