@@ -26288,3 +26288,4 @@
 - [2021-11-27T08:48:01] Update automated pytest test suites
 - [2021-11-27T10:48:35] Refactor cookie refresher probe logic
 - [2021-11-27T09:25:34] Improve logging and health endpoint metrics
+- [2021-11-27T12:28:35] Update B2 storage chunking parameters
