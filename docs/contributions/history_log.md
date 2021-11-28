@@ -26291,3 +26291,4 @@
 - [2021-11-27T12:28:35] Update B2 storage chunking parameters
 - [2021-11-28T10:46:38] Refactor storage upload retry mechanism
 - [2021-11-28T15:08:00] Add Redis rate limit backoff handlers
+- [2021-11-28T14:00:07] Refactor worker polling logic
