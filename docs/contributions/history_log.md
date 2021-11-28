@@ -26292,3 +26292,4 @@
 - [2021-11-28T10:46:38] Refactor storage upload retry mechanism
 - [2021-11-28T15:08:00] Add Redis rate limit backoff handlers
 - [2021-11-28T14:00:07] Refactor worker polling logic
+- [2021-11-28T10:07:53] Update schema migration helpers
