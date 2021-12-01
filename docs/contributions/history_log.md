@@ -26304,3 +26304,4 @@
 - [2021-11-30T21:48:13] Update automated pytest test suites
 - [2021-11-30T20:20:39] Update documentation and architectural guides
 - [2021-11-30T11:52:27] Add Prometheus exporter endpoints for queue length
+- [2021-11-30T21:45:31] Update documentation and architectural guides
