@@ -26315,3 +26315,4 @@
 - [2021-12-01T19:55:48] Add Redis rate limit backoff handlers
 - [2021-12-01T22:08:21] Enhance dashboard statistics rendering
 - [2021-12-01T13:36:34] Improve logging and health endpoint metrics
+- [2021-12-01T12:05:21] Update schema migration helpers
