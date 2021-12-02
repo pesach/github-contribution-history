@@ -26319,3 +26319,4 @@
 - [2021-12-01T15:58:13] Update dependency lockfiles and requirements
 - [2021-12-02T15:59:46] Implement streaming upload chunk buffer optimization
 - [2021-12-02T20:44:37] Add Prometheus exporter endpoints for queue length
+- [2021-12-02T17:52:46] Clean up legacy worker task routines
