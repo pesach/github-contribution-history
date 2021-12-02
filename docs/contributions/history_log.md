@@ -26317,3 +26317,4 @@
 - [2021-12-01T13:36:34] Improve logging and health endpoint metrics
 - [2021-12-01T12:05:21] Update schema migration helpers
 - [2021-12-01T15:58:13] Update dependency lockfiles and requirements
+- [2021-12-02T15:59:46] Implement streaming upload chunk buffer optimization
