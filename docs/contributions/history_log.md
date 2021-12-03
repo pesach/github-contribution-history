@@ -26327,3 +26327,4 @@
 - [2021-12-02T18:12:10] Optimize PostgreSQL query execution plans
 - [2021-12-02T10:48:57] Refactor worker polling logic
 - [2021-12-02T14:13:35] Improve logging and health endpoint metrics
+- [2021-12-03T15:45:23] Add error handling for yt-dlp rate limits
