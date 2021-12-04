@@ -26333,3 +26333,4 @@
 - [2021-12-03T16:01:18] Improve ffmpeg streaming pipe buffer management
 - [2021-12-03T13:02:24] Update schema migration helpers
 - [2021-12-03T16:33:31] Clean up legacy worker task routines
+- [2021-12-03T19:57:13] Refactor worker polling logic
