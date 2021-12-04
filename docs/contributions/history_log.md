@@ -26329,3 +26329,4 @@
 - [2021-12-02T14:13:35] Improve logging and health endpoint metrics
 - [2021-12-03T15:45:23] Add error handling for yt-dlp rate limits
 - [2021-12-03T12:47:06] Refactor cookie refresher probe logic
+- [2021-12-03T20:40:40] Update schema migration helpers
