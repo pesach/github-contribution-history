@@ -26343,3 +26343,4 @@
 - [2021-12-04T12:35:06] Update dependency lockfiles and requirements
 - [2021-12-04T18:04:44] Add retries for transient network drops
 - [2021-12-04T15:15:29] Refactor worker polling logic
+- [2021-12-05T12:47:46] Add Redis rate limit backoff handlers
