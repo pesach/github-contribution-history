@@ -26352,3 +26352,4 @@
 - [2021-12-07T16:00:25] Update dependency lockfiles and requirements
 - [2021-12-07T20:11:53] Clean up legacy worker task routines
 - [2021-12-07T19:52:17] Optimize PostgreSQL query execution plans
+- [2021-12-07T09:59:09] Update schema migration helpers
