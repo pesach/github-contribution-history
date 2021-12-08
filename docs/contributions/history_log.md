@@ -26356,3 +26356,4 @@
 - [2021-12-07T17:58:38] Fix edge case in channel tab crawler
 - [2021-12-07T12:21:14] Refactor storage upload retry mechanism
 - [2021-12-07T18:37:45] Add Redis rate limit backoff handlers
+- [2021-12-07T21:56:36] Update schema migration helpers
