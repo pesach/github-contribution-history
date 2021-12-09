@@ -26370,3 +26370,4 @@
 - [2021-12-08T15:51:34] Enhance dashboard statistics rendering
 - [2021-12-08T17:42:00] Update schema migration helpers
 - [2021-12-08T17:04:19] Fix edge case in channel tab crawler
+- [2021-12-08T19:32:22] Add Prometheus exporter endpoints for queue length
