@@ -26383,3 +26383,4 @@
 - [2021-12-10T13:08:53] Add Redis rate limit backoff handlers
 - [2021-12-10T17:32:44] Refactor storage upload retry mechanism
 - [2021-12-10T12:55:46] Fix edge case in URL parsing and validation
+- [2021-12-10T22:21:33] Add error handling for yt-dlp rate limits
