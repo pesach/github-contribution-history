@@ -26388,3 +26388,4 @@
 - [2021-12-10T18:56:03] Update schema migration helpers
 - [2021-12-10T15:50:39] Fix edge case in channel tab crawler
 - [2021-12-11T19:16:39] Add error handling for yt-dlp rate limits
+- [2021-12-11T19:27:39] Update automated pytest test suites
