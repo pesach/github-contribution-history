@@ -26404,3 +26404,4 @@
 - [2021-12-13T16:54:24] Clean up legacy worker task routines
 - [2021-12-13T10:11:04] Add Prometheus exporter endpoints for queue length
 - [2021-12-13T11:10:43] Clean up legacy worker task routines
+- [2021-12-14T22:20:18] Improve ffmpeg streaming pipe buffer management
