@@ -26431,3 +26431,4 @@
 - [2021-12-16T12:53:03] Add retries for transient network drops
 - [2021-12-16T20:06:13] Improve logging and health endpoint metrics
 - [2021-12-16T13:16:31] Improve ffmpeg streaming pipe buffer management
+- [2021-12-16T15:13:55] Add error handling for yt-dlp rate limits
