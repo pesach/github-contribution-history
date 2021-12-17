@@ -26440,3 +26440,4 @@
 - [2021-12-17T19:36:07] Improve ffmpeg streaming pipe buffer management
 - [2021-12-17T17:28:22] Update B2 storage chunking parameters
 - [2021-12-17T12:31:32] Fix edge case in channel tab crawler
+- [2021-12-17T16:33:34] Refactor cookie refresher probe logic
