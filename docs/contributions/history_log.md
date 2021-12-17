@@ -26436,3 +26436,4 @@
 - [2021-12-17T09:32:39] Implement streaming upload chunk buffer optimization
 - [2021-12-17T21:28:39] Clean up legacy worker task routines
 - [2021-12-17T12:28:01] Update dependency lockfiles and requirements
+- [2021-12-17T13:34:38] Improve ffmpeg streaming pipe buffer management
