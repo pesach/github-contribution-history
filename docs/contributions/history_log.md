@@ -26425,3 +26425,4 @@
 - [2021-12-16T13:06:47] Add retries for transient network drops
 - [2021-12-16T13:02:55] Fix edge case in URL parsing and validation
 - [2021-12-16T09:11:45] Optimize PostgreSQL query execution plans
+- [2021-12-16T22:00:12] Fix edge case in channel tab crawler
