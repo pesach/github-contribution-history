@@ -26449,3 +26449,4 @@
 - [2021-12-18T18:49:13] Update documentation and architectural guides
 - [2021-12-18T20:15:47] Refactor storage upload retry mechanism
 - [2021-12-18T19:46:21] Update schema migration helpers
+- [2021-12-18T18:23:29] Refactor cookie refresher probe logic
