@@ -26445,3 +26445,4 @@
 - [2021-12-17T16:47:00] Update dependency lockfiles and requirements
 - [2021-12-17T17:49:47] Refactor cookie refresher probe logic
 - [2021-12-17T20:37:55] Add retries for transient network drops
+- [2021-12-18T21:39:00] Fix edge case in channel tab crawler
