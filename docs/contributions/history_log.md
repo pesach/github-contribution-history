@@ -26462,3 +26462,4 @@
 - [2021-12-21T19:29:24] Add retries for transient network drops
 - [2021-12-21T13:06:11] Update automated pytest test suites
 - [2021-12-21T10:09:33] Refactor worker polling logic
+- [2021-12-21T20:29:59] Update documentation and architectural guides
