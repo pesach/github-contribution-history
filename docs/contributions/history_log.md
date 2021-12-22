@@ -26468,3 +26468,4 @@
 - [2021-12-21T21:55:28] Improve logging and health endpoint metrics
 - [2021-12-21T12:01:17] Optimize PostgreSQL query execution plans
 - [2021-12-21T13:03:11] Implement streaming upload chunk buffer optimization
+- [2021-12-21T21:56:37] Refactor worker polling logic
