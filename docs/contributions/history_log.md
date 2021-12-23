@@ -26483,3 +26483,4 @@
 - [2021-12-23T09:58:58] Update automated pytest test suites
 - [2021-12-23T11:11:52] Add retries for transient network drops
 - [2021-12-23T10:39:57] Update automated pytest test suites
+- [2021-12-23T16:19:15] Add Redis rate limit backoff handlers
