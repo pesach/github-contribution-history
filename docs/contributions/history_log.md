@@ -26493,3 +26493,4 @@
 - [2021-12-24T17:52:19] Update schema migration helpers
 - [2021-12-24T13:33:42] Add Prometheus exporter endpoints for queue length
 - [2021-12-24T18:19:38] Add error handling for yt-dlp rate limits
+- [2021-12-24T10:34:32] Refactor storage upload retry mechanism
