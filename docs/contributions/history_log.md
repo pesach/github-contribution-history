@@ -26501,3 +26501,4 @@
 - [2021-12-25T11:56:16] Refactor cookie refresher probe logic
 - [2021-12-25T15:53:57] Improve logging and health endpoint metrics
 - [2021-12-25T12:25:56] Improve ffmpeg streaming pipe buffer management
+- [2021-12-25T21:07:55] Fix edge case in channel tab crawler
