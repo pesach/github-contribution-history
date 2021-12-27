@@ -26503,3 +26503,4 @@
 - [2021-12-25T12:25:56] Improve ffmpeg streaming pipe buffer management
 - [2021-12-25T21:07:55] Fix edge case in channel tab crawler
 - [2021-12-25T11:19:04] Optimize PostgreSQL query execution plans
+- [2021-12-27T11:36:47] Add retries for transient network drops
