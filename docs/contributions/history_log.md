@@ -26522,3 +26522,4 @@
 - [2021-12-28T17:13:11] Clean up legacy worker task routines
 - [2021-12-28T22:54:33] Refactor worker polling logic
 - [2021-12-29T21:46:22] Add retries for transient network drops
+- [2021-12-29T16:17:09] Add retries for transient network drops
