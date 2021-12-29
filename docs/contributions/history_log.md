@@ -26524,3 +26524,4 @@
 - [2021-12-29T21:46:22] Add retries for transient network drops
 - [2021-12-29T16:17:09] Add retries for transient network drops
 - [2021-12-29T10:44:22] Add Redis rate limit backoff handlers
+- [2021-12-29T14:36:36] Implement streaming upload chunk buffer optimization
