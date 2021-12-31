@@ -26541,3 +26541,4 @@
 - [2021-12-31T21:54:50] Update schema migration helpers
 - [2021-12-31T15:26:14] Add error handling for yt-dlp rate limits
 - [2021-12-31T09:02:05] Refactor worker polling logic
+- [2021-12-31T14:02:46] Add Redis rate limit backoff handlers
