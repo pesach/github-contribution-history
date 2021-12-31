@@ -26537,3 +26537,4 @@
 - [2021-12-31T19:56:37] Add retries for transient network drops
 - [2021-12-31T20:24:21] Update dependency lockfiles and requirements
 - [2021-12-31T21:43:07] Add retries for transient network drops
+- [2021-12-31T13:13:19] Fix edge case in URL parsing and validation
