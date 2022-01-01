@@ -26533,3 +26533,4 @@
 - [2021-12-30T08:39:30] Clean up legacy worker task routines
 - [2021-12-30T16:12:13] Implement streaming upload chunk buffer optimization
 - [2021-12-30T22:25:53] Refactor worker polling logic
+- [2021-12-31T21:12:30] Add error handling for yt-dlp rate limits
