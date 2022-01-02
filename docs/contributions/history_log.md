@@ -26547,3 +26547,4 @@
 - [2021-12-31T14:48:20] Update schema migration helpers
 - [2021-12-31T20:01:00] Refactor cookie refresher probe logic
 - [2022-01-02T19:58:14] Update schema migration helpers
+- [2022-01-02T13:00:07] Update documentation and architectural guides
