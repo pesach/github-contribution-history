@@ -26546,3 +26546,4 @@
 - [2021-12-31T16:35:37] Improve ffmpeg streaming pipe buffer management
 - [2021-12-31T14:48:20] Update schema migration helpers
 - [2021-12-31T20:01:00] Refactor cookie refresher probe logic
+- [2022-01-02T19:58:14] Update schema migration helpers
