@@ -26554,3 +26554,4 @@
 - [2022-01-03T18:33:01] Enhance dashboard statistics rendering
 - [2022-01-03T15:05:52] Optimize PostgreSQL query execution plans
 - [2022-01-03T11:01:57] Add retries for transient network drops
+- [2022-01-03T14:07:14] Add Prometheus exporter endpoints for queue length
