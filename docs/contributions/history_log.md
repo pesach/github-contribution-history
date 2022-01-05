@@ -26563,3 +26563,4 @@
 - [2022-01-04T22:34:10] Fix edge case in URL parsing and validation
 - [2022-01-04T11:03:00] Refactor storage upload retry mechanism
 - [2022-01-04T17:11:47] Update dependency lockfiles and requirements
+- [2022-01-04T21:53:38] Add Prometheus exporter endpoints for queue length
