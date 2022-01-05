@@ -26576,3 +26576,4 @@
 - [2022-01-05T08:46:45] Clean up legacy worker task routines
 - [2022-01-05T12:17:29] Fix edge case in URL parsing and validation
 - [2022-01-05T17:32:57] Update schema migration helpers
+- [2022-01-05T13:11:45] Add Prometheus exporter endpoints for queue length
