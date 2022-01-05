@@ -26575,3 +26575,4 @@
 - [2022-01-05T10:58:35] Clean up legacy worker task routines
 - [2022-01-05T08:46:45] Clean up legacy worker task routines
 - [2022-01-05T12:17:29] Fix edge case in URL parsing and validation
+- [2022-01-05T17:32:57] Update schema migration helpers
