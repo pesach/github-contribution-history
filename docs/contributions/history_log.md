@@ -26583,3 +26583,4 @@
 - [2022-01-06T10:48:23] Improve logging and health endpoint metrics
 - [2022-01-06T14:21:42] Refactor storage upload retry mechanism
 - [2022-01-06T10:15:57] Add Redis rate limit backoff handlers
+- [2022-01-06T14:26:26] Add error handling for yt-dlp rate limits
