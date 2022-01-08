@@ -26584,3 +26584,4 @@
 - [2022-01-06T14:21:42] Refactor storage upload retry mechanism
 - [2022-01-06T10:15:57] Add Redis rate limit backoff handlers
 - [2022-01-06T14:26:26] Add error handling for yt-dlp rate limits
+- [2022-01-08T08:45:33] Update schema migration helpers
