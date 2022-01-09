@@ -26591,3 +26591,4 @@
 - [2022-01-08T20:44:59] Refactor storage upload retry mechanism
 - [2022-01-08T10:48:58] Update automated pytest test suites
 - [2022-01-09T09:05:55] Improve logging and health endpoint metrics
+- [2022-01-09T10:21:45] Add retries for transient network drops
