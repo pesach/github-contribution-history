@@ -26601,3 +26601,4 @@
 - [2022-01-10T13:50:32] Add Redis rate limit backoff handlers
 - [2022-01-10T21:57:06] Add error handling for yt-dlp rate limits
 - [2022-01-10T21:56:46] Clean up legacy worker task routines
+- [2022-01-10T21:07:45] Update B2 storage chunking parameters
