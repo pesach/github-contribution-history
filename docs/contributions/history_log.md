@@ -26609,3 +26609,4 @@
 - [2022-01-11T12:19:26] Fix edge case in URL parsing and validation
 - [2022-01-11T12:43:55] Improve ffmpeg streaming pipe buffer management
 - [2022-01-11T10:19:56] Add retries for transient network drops
+- [2022-01-11T22:50:48] Update schema migration helpers
