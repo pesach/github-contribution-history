@@ -26622,3 +26622,4 @@
 - [2022-01-13T22:37:18] Update dependency lockfiles and requirements
 - [2022-01-13T20:47:25] Implement streaming upload chunk buffer optimization
 - [2022-01-13T13:40:22] Add Prometheus exporter endpoints for queue length
+- [2022-01-13T11:57:11] Add error handling for yt-dlp rate limits
