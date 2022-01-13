@@ -26612,3 +26612,4 @@
 - [2022-01-11T22:50:48] Update schema migration helpers
 - [2022-01-11T19:40:38] Add retries for transient network drops
 - [2022-01-11T14:19:38] Implement streaming upload chunk buffer optimization
+- [2022-01-12T19:55:53] Add Prometheus exporter endpoints for queue length
