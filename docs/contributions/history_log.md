@@ -26628,3 +26628,4 @@
 - [2022-01-14T21:24:09] Update automated pytest test suites
 - [2022-01-14T20:43:20] Refactor cookie refresher probe logic
 - [2022-01-14T18:54:36] Implement streaming upload chunk buffer optimization
+- [2022-01-14T16:27:01] Clean up legacy worker task routines
