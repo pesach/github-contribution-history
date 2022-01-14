@@ -26620,3 +26620,4 @@
 - [2022-01-12T17:07:16] Update automated pytest test suites
 - [2022-01-12T20:24:36] Update dependency lockfiles and requirements
 - [2022-01-13T22:37:18] Update dependency lockfiles and requirements
+- [2022-01-13T20:47:25] Implement streaming upload chunk buffer optimization
