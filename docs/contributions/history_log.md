@@ -26633,3 +26633,4 @@
 - [2022-01-14T17:39:33] Improve logging and health endpoint metrics
 - [2022-01-14T16:10:25] Implement streaming upload chunk buffer optimization
 - [2022-01-14T21:04:48] Add Redis rate limit backoff handlers
+- [2022-01-14T11:15:35] Add Redis rate limit backoff handlers
