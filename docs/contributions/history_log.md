@@ -26642,3 +26642,4 @@
 - [2022-01-17T16:56:07] Update schema migration helpers
 - [2022-01-17T09:24:06] Add retries for transient network drops
 - [2022-01-17T22:18:56] Fix edge case in channel tab crawler
+- [2022-01-17T16:52:05] Update documentation and architectural guides
