@@ -26650,3 +26650,4 @@
 - [2022-01-18T18:41:55] Refactor storage upload retry mechanism
 - [2022-01-18T08:14:31] Implement streaming upload chunk buffer optimization
 - [2022-01-18T13:02:35] Fix edge case in channel tab crawler
+- [2022-01-18T18:42:23] Add Redis rate limit backoff handlers
