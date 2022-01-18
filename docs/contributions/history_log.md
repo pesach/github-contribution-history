@@ -26641,3 +26641,4 @@
 - [2022-01-15T14:43:44] Clean up legacy worker task routines
 - [2022-01-17T16:56:07] Update schema migration helpers
 - [2022-01-17T09:24:06] Add retries for transient network drops
+- [2022-01-17T22:18:56] Fix edge case in channel tab crawler
