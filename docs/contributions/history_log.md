@@ -26654,3 +26654,4 @@
 - [2022-01-18T17:28:49] Update B2 storage chunking parameters
 - [2022-01-18T21:09:11] Refactor worker polling logic
 - [2022-01-18T15:54:42] Update schema migration helpers
+- [2022-01-18T09:37:25] Update B2 storage chunking parameters
