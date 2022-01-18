@@ -26656,3 +26656,4 @@
 - [2022-01-18T15:54:42] Update schema migration helpers
 - [2022-01-18T09:37:25] Update B2 storage chunking parameters
 - [2022-01-18T09:11:15] Fix edge case in URL parsing and validation
+- [2022-01-18T13:32:22] Update documentation and architectural guides
