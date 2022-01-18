@@ -26659,3 +26659,4 @@
 - [2022-01-18T13:32:22] Update documentation and architectural guides
 - [2022-01-18T08:40:49] Update schema migration helpers
 - [2022-01-18T10:38:28] Update schema migration helpers
+- [2022-01-18T12:04:15] Refactor cookie refresher probe logic
