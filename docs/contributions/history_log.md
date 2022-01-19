@@ -26671,3 +26671,4 @@
 - [2022-01-19T08:59:26] Add Prometheus exporter endpoints for queue length
 - [2022-01-19T10:25:53] Update dependency lockfiles and requirements
 - [2022-01-19T14:28:48] Implement streaming upload chunk buffer optimization
+- [2022-01-19T15:42:53] Add retries for transient network drops
