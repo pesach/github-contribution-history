@@ -26652,3 +26652,4 @@
 - [2022-01-18T13:02:35] Fix edge case in channel tab crawler
 - [2022-01-18T18:42:23] Add Redis rate limit backoff handlers
 - [2022-01-18T17:28:49] Update B2 storage chunking parameters
+- [2022-01-18T21:09:11] Refactor worker polling logic
