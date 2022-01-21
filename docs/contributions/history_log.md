@@ -26680,3 +26680,4 @@
 - [2022-01-20T19:55:52] Improve ffmpeg streaming pipe buffer management
 - [2022-01-21T22:37:28] Fix edge case in URL parsing and validation
 - [2022-01-21T14:20:44] Update schema migration helpers
+- [2022-01-21T18:33:47] Add Redis rate limit backoff handlers
