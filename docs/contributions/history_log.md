@@ -26683,3 +26683,4 @@
 - [2022-01-21T18:33:47] Add Redis rate limit backoff handlers
 - [2022-01-21T18:59:46] Improve logging and health endpoint metrics
 - [2022-01-21T10:09:36] Update automated pytest test suites
+- [2022-01-21T14:15:09] Fix edge case in URL parsing and validation
