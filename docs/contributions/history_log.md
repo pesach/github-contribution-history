@@ -26685,3 +26685,4 @@
 - [2022-01-21T10:09:36] Update automated pytest test suites
 - [2022-01-21T14:15:09] Fix edge case in URL parsing and validation
 - [2022-01-21T15:53:39] Update schema migration helpers
+- [2022-01-21T11:59:27] Update schema migration helpers
