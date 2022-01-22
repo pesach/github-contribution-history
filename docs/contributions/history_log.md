@@ -26678,3 +26678,4 @@
 - [2022-01-20T09:45:20] Update documentation and architectural guides
 - [2022-01-20T09:27:57] Fix edge case in URL parsing and validation
 - [2022-01-20T19:55:52] Improve ffmpeg streaming pipe buffer management
+- [2022-01-21T22:37:28] Fix edge case in URL parsing and validation
