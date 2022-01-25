@@ -26697,3 +26697,4 @@
 - [2022-01-24T10:39:23] Improve logging and health endpoint metrics
 - [2022-01-24T13:04:58] Refactor worker polling logic
 - [2022-01-25T10:07:27] Optimize PostgreSQL query execution plans
+- [2022-01-25T18:53:32] Fix edge case in URL parsing and validation
