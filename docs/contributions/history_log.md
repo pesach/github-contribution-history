@@ -26707,3 +26707,4 @@
 - [2022-01-25T20:33:29] Add error handling for yt-dlp rate limits
 - [2022-01-25T16:39:42] Refactor cookie refresher probe logic
 - [2022-01-25T13:53:43] Update dependency lockfiles and requirements
+- [2022-01-26T10:02:07] Fix edge case in URL parsing and validation
