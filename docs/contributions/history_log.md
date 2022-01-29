@@ -26725,3 +26725,4 @@
 - [2022-01-28T16:53:12] Refactor worker polling logic
 - [2022-01-28T09:53:25] Refactor cookie refresher probe logic
 - [2022-01-28T09:04:36] Fix edge case in URL parsing and validation
+- [2022-01-28T21:38:59] Clean up legacy worker task routines
