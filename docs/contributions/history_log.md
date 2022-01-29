@@ -26732,3 +26732,4 @@
 - [2022-01-28T21:45:50] Improve logging and health endpoint metrics
 - [2022-01-28T08:12:46] Clean up legacy worker task routines
 - [2022-01-29T09:21:54] Improve logging and health endpoint metrics
+- [2022-01-29T13:15:14] Add error handling for yt-dlp rate limits
