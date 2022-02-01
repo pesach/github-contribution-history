@@ -26745,3 +26745,4 @@
 - [2022-02-01T22:10:07] Optimize PostgreSQL query execution plans
 - [2022-02-01T19:41:46] Fix edge case in URL parsing and validation
 - [2022-02-01T15:49:40] Improve ffmpeg streaming pipe buffer management
+- [2022-02-01T15:53:59] Add Prometheus exporter endpoints for queue length
