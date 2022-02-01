@@ -26738,3 +26738,4 @@
 - [2022-01-29T21:00:17] Update B2 storage chunking parameters
 - [2022-02-01T20:27:39] Clean up legacy worker task routines
 - [2022-02-01T14:55:13] Improve ffmpeg streaming pipe buffer management
+- [2022-02-01T08:57:26] Refactor storage upload retry mechanism
