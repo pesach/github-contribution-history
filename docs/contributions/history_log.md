@@ -26747,3 +26747,4 @@
 - [2022-02-01T15:49:40] Improve ffmpeg streaming pipe buffer management
 - [2022-02-01T15:53:59] Add Prometheus exporter endpoints for queue length
 - [2022-02-01T08:05:29] Update automated pytest test suites
+- [2022-02-01T20:16:54] Add Redis rate limit backoff handlers
