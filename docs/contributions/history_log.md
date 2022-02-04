@@ -26755,3 +26755,4 @@
 - [2022-02-02T12:02:28] Update documentation and architectural guides
 - [2022-02-02T13:44:29] Update dependency lockfiles and requirements
 - [2022-02-04T18:43:28] Clean up legacy worker task routines
+- [2022-02-04T16:53:48] Update B2 storage chunking parameters
