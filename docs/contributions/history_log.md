@@ -26769,3 +26769,4 @@
 - [2022-02-04T09:51:09] Add Redis rate limit backoff handlers
 - [2022-02-04T21:50:35] Add retries for transient network drops
 - [2022-02-04T22:28:47] Optimize PostgreSQL query execution plans
+- [2022-02-05T09:47:49] Refactor worker polling logic
