@@ -26783,3 +26783,4 @@
 - [2022-02-07T10:00:49] Add Redis rate limit backoff handlers
 - [2022-02-07T22:44:40] Update schema migration helpers
 - [2022-02-07T22:21:30] Enhance dashboard statistics rendering
+- [2022-02-07T17:22:52] Refactor worker polling logic
