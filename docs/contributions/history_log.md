@@ -26780,3 +26780,4 @@
 - [2022-02-07T10:57:03] Add Redis rate limit backoff handlers
 - [2022-02-07T12:06:35] Add Redis rate limit backoff handlers
 - [2022-02-07T12:20:41] Update B2 storage chunking parameters
+- [2022-02-07T10:00:49] Add Redis rate limit backoff handlers
