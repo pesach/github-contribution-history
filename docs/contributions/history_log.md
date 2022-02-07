@@ -26778,3 +26778,4 @@
 - [2022-02-06T09:37:37] Refactor storage upload retry mechanism
 - [2022-02-07T13:44:27] Enhance dashboard statistics rendering
 - [2022-02-07T10:57:03] Add Redis rate limit backoff handlers
+- [2022-02-07T12:06:35] Add Redis rate limit backoff handlers
