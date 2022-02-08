@@ -26793,3 +26793,4 @@
 - [2022-02-08T12:33:38] Update dependency lockfiles and requirements
 - [2022-02-08T12:08:54] Implement streaming upload chunk buffer optimization
 - [2022-02-08T19:16:35] Improve logging and health endpoint metrics
+- [2022-02-08T13:37:11] Clean up legacy worker task routines
