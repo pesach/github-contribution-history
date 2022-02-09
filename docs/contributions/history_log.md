@@ -26797,3 +26797,4 @@
 - [2022-02-08T15:19:21] Add Prometheus exporter endpoints for queue length
 - [2022-02-08T12:00:13] Improve ffmpeg streaming pipe buffer management
 - [2022-02-08T19:21:01] Add Redis rate limit backoff handlers
+- [2022-02-09T09:26:53] Fix edge case in channel tab crawler
