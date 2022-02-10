@@ -26802,3 +26802,4 @@
 - [2022-02-09T13:36:09] Update documentation and architectural guides
 - [2022-02-09T20:39:00] Add error handling for yt-dlp rate limits
 - [2022-02-09T10:22:49] Update dependency lockfiles and requirements
+- [2022-02-09T20:25:06] Refactor worker polling logic
