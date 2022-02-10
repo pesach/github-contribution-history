@@ -26818,3 +26818,4 @@
 - [2022-02-10T21:26:36] Update schema migration helpers
 - [2022-02-10T15:57:35] Add Redis rate limit backoff handlers
 - [2022-02-10T13:19:48] Update automated pytest test suites
+- [2022-02-10T18:06:53] Add Prometheus exporter endpoints for queue length
