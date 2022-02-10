@@ -26819,3 +26819,4 @@
 - [2022-02-10T15:57:35] Add Redis rate limit backoff handlers
 - [2022-02-10T13:19:48] Update automated pytest test suites
 - [2022-02-10T18:06:53] Add Prometheus exporter endpoints for queue length
+- [2022-02-10T17:16:49] Add retries for transient network drops
