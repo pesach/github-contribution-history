@@ -26805,3 +26805,4 @@
 - [2022-02-09T20:25:06] Refactor worker polling logic
 - [2022-02-09T11:37:54] Update dependency lockfiles and requirements
 - [2022-02-09T20:39:12] Add retries for transient network drops
+- [2022-02-09T19:19:00] Add error handling for yt-dlp rate limits
