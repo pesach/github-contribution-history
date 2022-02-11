@@ -26815,3 +26815,4 @@
 - [2022-02-10T16:06:15] Optimize PostgreSQL query execution plans
 - [2022-02-10T11:49:06] Update dependency lockfiles and requirements
 - [2022-02-10T12:57:58] Fix edge case in URL parsing and validation
+- [2022-02-10T21:26:36] Update schema migration helpers
