@@ -26833,3 +26833,4 @@
 - [2022-02-14T21:55:10] Add Prometheus exporter endpoints for queue length
 - [2022-02-14T12:17:52] Update documentation and architectural guides
 - [2022-02-14T14:41:25] Update B2 storage chunking parameters
+- [2022-02-14T14:35:04] Fix edge case in URL parsing and validation
