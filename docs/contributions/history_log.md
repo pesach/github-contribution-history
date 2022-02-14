@@ -26829,3 +26829,4 @@
 - [2022-02-14T12:45:37] Fix edge case in channel tab crawler
 - [2022-02-14T21:56:27] Refactor storage upload retry mechanism
 - [2022-02-14T19:48:26] Update documentation and architectural guides
+- [2022-02-14T13:00:02] Update schema migration helpers
