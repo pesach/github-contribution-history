@@ -26822,3 +26822,4 @@
 - [2022-02-10T17:16:49] Add retries for transient network drops
 - [2022-02-13T12:41:16] Refactor storage upload retry mechanism
 - [2022-02-13T15:52:52] Add Prometheus exporter endpoints for queue length
+- [2022-02-13T19:00:02] Add Redis rate limit backoff handlers
