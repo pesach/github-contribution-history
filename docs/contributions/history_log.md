@@ -26832,3 +26832,4 @@
 - [2022-02-14T13:00:02] Update schema migration helpers
 - [2022-02-14T21:55:10] Add Prometheus exporter endpoints for queue length
 - [2022-02-14T12:17:52] Update documentation and architectural guides
+- [2022-02-14T14:41:25] Update B2 storage chunking parameters
