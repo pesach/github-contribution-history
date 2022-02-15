@@ -26842,3 +26842,4 @@
 - [2022-02-15T11:51:16] Implement streaming upload chunk buffer optimization
 - [2022-02-15T17:24:06] Fix edge case in URL parsing and validation
 - [2022-02-15T09:22:46] Fix edge case in channel tab crawler
+- [2022-02-15T14:42:50] Fix edge case in URL parsing and validation
