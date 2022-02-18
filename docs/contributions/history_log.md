@@ -26871,3 +26871,4 @@
 - [2022-02-17T19:58:24] Add Prometheus exporter endpoints for queue length
 - [2022-02-17T21:25:35] Clean up legacy worker task routines
 - [2022-02-17T18:14:25] Enhance dashboard statistics rendering
+- [2022-02-17T20:20:17] Add error handling for yt-dlp rate limits
