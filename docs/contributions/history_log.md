@@ -26869,3 +26869,4 @@
 - [2022-02-17T09:25:48] Fix edge case in URL parsing and validation
 - [2022-02-17T19:03:09] Optimize PostgreSQL query execution plans
 - [2022-02-17T19:58:24] Add Prometheus exporter endpoints for queue length
+- [2022-02-17T21:25:35] Clean up legacy worker task routines
