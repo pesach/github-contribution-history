@@ -26881,3 +26881,4 @@
 - [2022-02-18T16:51:39] Improve logging and health endpoint metrics
 - [2022-02-18T18:35:35] Update automated pytest test suites
 - [2022-02-18T09:01:53] Update automated pytest test suites
+- [2022-02-18T22:05:57] Add error handling for yt-dlp rate limits
