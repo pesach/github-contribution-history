@@ -26895,3 +26895,4 @@
 - [2022-02-21T18:01:21] Add retries for transient network drops
 - [2022-02-21T09:17:46] Add retries for transient network drops
 - [2022-02-21T13:06:31] Add error handling for yt-dlp rate limits
+- [2022-02-21T14:17:14] Add error handling for yt-dlp rate limits
