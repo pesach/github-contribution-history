@@ -26906,3 +26906,4 @@
 - [2022-02-22T21:27:30] Improve logging and health endpoint metrics
 - [2022-02-22T08:09:16] Add retries for transient network drops
 - [2022-02-22T10:17:58] Fix edge case in channel tab crawler
+- [2022-02-22T16:11:11] Fix edge case in URL parsing and validation
