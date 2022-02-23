@@ -26915,3 +26915,4 @@
 - [2022-02-23T22:33:12] Refactor storage upload retry mechanism
 - [2022-02-23T17:36:08] Improve logging and health endpoint metrics
 - [2022-02-23T20:30:27] Update automated pytest test suites
+- [2022-02-23T18:33:10] Refactor cookie refresher probe logic
