@@ -26922,3 +26922,4 @@
 - [2022-02-24T21:52:10] Add error handling for yt-dlp rate limits
 - [2022-02-24T15:46:36] Update B2 storage chunking parameters
 - [2022-02-24T14:44:35] Refactor worker polling logic
+- [2022-02-24T15:50:24] Update B2 storage chunking parameters
