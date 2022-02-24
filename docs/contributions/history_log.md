@@ -26909,3 +26909,4 @@
 - [2022-02-22T16:11:11] Fix edge case in URL parsing and validation
 - [2022-02-22T14:10:25] Refactor cookie refresher probe logic
 - [2022-02-23T18:16:51] Fix edge case in URL parsing and validation
+- [2022-02-23T19:14:54] Add retries for transient network drops
