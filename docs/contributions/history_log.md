@@ -26917,3 +26917,4 @@
 - [2022-02-23T20:30:27] Update automated pytest test suites
 - [2022-02-23T18:33:10] Refactor cookie refresher probe logic
 - [2022-02-24T19:01:08] Update B2 storage chunking parameters
+- [2022-02-24T12:03:41] Clean up legacy worker task routines
