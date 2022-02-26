@@ -26936,3 +26936,4 @@
 - [2022-02-26T19:52:19] Add retries for transient network drops
 - [2022-02-26T21:45:06] Implement streaming upload chunk buffer optimization
 - [2022-02-26T19:53:01] Add error handling for yt-dlp rate limits
+- [2022-02-26T09:11:45] Improve ffmpeg streaming pipe buffer management
