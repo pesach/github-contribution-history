@@ -26925,3 +26925,4 @@
 - [2022-02-24T15:50:24] Update B2 storage chunking parameters
 - [2022-02-24T10:01:41] Update documentation and architectural guides
 - [2022-02-24T15:45:10] Improve logging and health endpoint metrics
+- [2022-02-25T19:42:16] Add error handling for yt-dlp rate limits
