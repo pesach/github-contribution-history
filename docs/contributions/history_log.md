@@ -26950,3 +26950,4 @@
 - [2022-02-28T08:49:09] Add Prometheus exporter endpoints for queue length
 - [2022-02-28T19:33:00] Refactor worker polling logic
 - [2022-02-28T22:45:34] Add error handling for yt-dlp rate limits
+- [2022-02-28T16:01:46] Clean up legacy worker task routines
