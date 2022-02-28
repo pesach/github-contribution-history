@@ -26951,3 +26951,4 @@
 - [2022-02-28T19:33:00] Refactor worker polling logic
 - [2022-02-28T22:45:34] Add error handling for yt-dlp rate limits
 - [2022-02-28T16:01:46] Clean up legacy worker task routines
+- [2022-02-28T18:45:30] Add retries for transient network drops
