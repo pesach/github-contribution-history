@@ -26948,3 +26948,4 @@
 - [2022-02-28T18:06:44] Add retries for transient network drops
 - [2022-02-28T09:30:56] Update B2 storage chunking parameters
 - [2022-02-28T08:49:09] Add Prometheus exporter endpoints for queue length
+- [2022-02-28T19:33:00] Refactor worker polling logic
