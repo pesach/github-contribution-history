@@ -26939,3 +26939,4 @@
 - [2022-02-26T09:11:45] Improve ffmpeg streaming pipe buffer management
 - [2022-02-28T14:43:39] Improve logging and health endpoint metrics
 - [2022-02-28T11:06:34] Fix edge case in channel tab crawler
+- [2022-02-28T20:18:01] Optimize PostgreSQL query execution plans
