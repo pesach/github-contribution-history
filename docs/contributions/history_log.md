@@ -26954,3 +26954,4 @@
 - [2022-02-28T18:45:30] Add retries for transient network drops
 - [2022-03-01T22:21:37] Add Redis rate limit backoff handlers
 - [2022-03-01T11:37:49] Add retries for transient network drops
+- [2022-03-01T13:40:36] Fix edge case in URL parsing and validation
