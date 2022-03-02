@@ -26979,3 +26979,4 @@
 - [2022-03-02T17:51:07] Fix edge case in URL parsing and validation
 - [2022-03-02T17:36:44] Update B2 storage chunking parameters
 - [2022-03-02T16:20:35] Implement streaming upload chunk buffer optimization
+- [2022-03-02T12:12:13] Fix edge case in URL parsing and validation
