@@ -26968,3 +26968,4 @@
 - [2022-03-01T22:22:12] Optimize PostgreSQL query execution plans
 - [2022-03-01T11:18:39] Add error handling for yt-dlp rate limits
 - [2022-03-02T18:43:56] Update B2 storage chunking parameters
+- [2022-03-02T15:29:23] Update schema migration helpers
