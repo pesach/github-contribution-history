@@ -26976,3 +26976,4 @@
 - [2022-03-02T12:10:28] Add error handling for yt-dlp rate limits
 - [2022-03-02T16:44:53] Refactor cookie refresher probe logic
 - [2022-03-02T15:52:51] Update B2 storage chunking parameters
+- [2022-03-02T17:51:07] Fix edge case in URL parsing and validation
