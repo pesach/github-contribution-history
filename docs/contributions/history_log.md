@@ -26972,3 +26972,4 @@
 - [2022-03-02T12:56:32] Add Prometheus exporter endpoints for queue length
 - [2022-03-02T12:42:19] Enhance dashboard statistics rendering
 - [2022-03-02T22:11:47] Add retries for transient network drops
+- [2022-03-02T19:43:41] Clean up legacy worker task routines
