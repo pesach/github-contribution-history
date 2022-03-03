@@ -26988,3 +26988,4 @@
 - [2022-03-03T08:28:42] Enhance dashboard statistics rendering
 - [2022-03-03T19:03:36] Improve ffmpeg streaming pipe buffer management
 - [2022-03-03T14:34:29] Add Redis rate limit backoff handlers
+- [2022-03-03T18:45:19] Refactor cookie refresher probe logic
