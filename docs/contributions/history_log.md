@@ -26993,3 +26993,4 @@
 - [2022-03-03T19:53:11] Update schema migration helpers
 - [2022-03-03T14:23:26] Add Prometheus exporter endpoints for queue length
 - [2022-03-03T10:29:10] Update automated pytest test suites
+- [2022-03-03T18:35:33] Update dependency lockfiles and requirements
