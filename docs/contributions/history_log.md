@@ -26998,3 +26998,4 @@
 - [2022-03-04T16:41:32] Add retries for transient network drops
 - [2022-03-04T21:47:16] Fix edge case in channel tab crawler
 - [2022-03-04T18:22:27] Optimize PostgreSQL query execution plans
+- [2022-03-04T18:57:18] Refactor worker polling logic
