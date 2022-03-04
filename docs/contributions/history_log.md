@@ -26990,3 +26990,4 @@
 - [2022-03-03T14:34:29] Add Redis rate limit backoff handlers
 - [2022-03-03T18:45:19] Refactor cookie refresher probe logic
 - [2022-03-03T19:02:59] Improve ffmpeg streaming pipe buffer management
+- [2022-03-03T19:53:11] Update schema migration helpers
