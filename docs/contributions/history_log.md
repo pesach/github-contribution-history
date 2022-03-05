@@ -27002,3 +27002,4 @@
 - [2022-03-04T20:59:37] Fix edge case in URL parsing and validation
 - [2022-03-04T20:25:12] Add Redis rate limit backoff handlers
 - [2022-03-05T08:20:24] Add Prometheus exporter endpoints for queue length
+- [2022-03-05T16:10:20] Add Redis rate limit backoff handlers
