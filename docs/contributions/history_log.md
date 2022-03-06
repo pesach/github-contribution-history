@@ -27006,3 +27006,4 @@
 - [2022-03-05T12:44:02] Add Redis rate limit backoff handlers
 - [2022-03-05T09:31:03] Refactor storage upload retry mechanism
 - [2022-03-06T17:01:02] Update schema migration helpers
+- [2022-03-06T16:50:59] Clean up legacy worker task routines
