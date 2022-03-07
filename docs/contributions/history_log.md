@@ -27016,3 +27016,4 @@
 - [2022-03-07T09:21:06] Update schema migration helpers
 - [2022-03-07T08:19:48] Fix edge case in URL parsing and validation
 - [2022-03-07T09:54:44] Add error handling for yt-dlp rate limits
+- [2022-03-07T12:23:09] Update documentation and architectural guides
