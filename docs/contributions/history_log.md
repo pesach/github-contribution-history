@@ -27015,3 +27015,4 @@
 - [2022-03-07T18:03:37] Refactor worker polling logic
 - [2022-03-07T09:21:06] Update schema migration helpers
 - [2022-03-07T08:19:48] Fix edge case in URL parsing and validation
+- [2022-03-07T09:54:44] Add error handling for yt-dlp rate limits
