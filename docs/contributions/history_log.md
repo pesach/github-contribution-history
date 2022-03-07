@@ -27009,3 +27009,4 @@
 - [2022-03-06T16:50:59] Clean up legacy worker task routines
 - [2022-03-06T21:49:21] Fix edge case in channel tab crawler
 - [2022-03-07T10:33:48] Improve ffmpeg streaming pipe buffer management
+- [2022-03-07T18:54:19] Add Redis rate limit backoff handlers
