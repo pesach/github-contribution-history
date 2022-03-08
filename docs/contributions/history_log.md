@@ -27024,3 +27024,4 @@
 - [2022-03-08T08:40:51] Update dependency lockfiles and requirements
 - [2022-03-08T15:39:38] Add retries for transient network drops
 - [2022-03-08T13:31:00] Update documentation and architectural guides
+- [2022-03-08T15:42:31] Refactor worker polling logic
