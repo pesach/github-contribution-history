@@ -27018,3 +27018,4 @@
 - [2022-03-07T09:54:44] Add error handling for yt-dlp rate limits
 - [2022-03-07T12:23:09] Update documentation and architectural guides
 - [2022-03-07T13:06:46] Update dependency lockfiles and requirements
+- [2022-03-08T19:54:35] Clean up legacy worker task routines
