@@ -27033,3 +27033,4 @@
 - [2022-03-09T20:37:38] Improve logging and health endpoint metrics
 - [2022-03-09T09:40:34] Add Prometheus exporter endpoints for queue length
 - [2022-03-09T16:01:28] Implement streaming upload chunk buffer optimization
+- [2022-03-09T18:54:08] Fix edge case in URL parsing and validation
