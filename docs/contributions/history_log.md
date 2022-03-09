@@ -27025,3 +27025,4 @@
 - [2022-03-08T15:39:38] Add retries for transient network drops
 - [2022-03-08T13:31:00] Update documentation and architectural guides
 - [2022-03-08T15:42:31] Refactor worker polling logic
+- [2022-03-08T21:46:18] Refactor storage upload retry mechanism
