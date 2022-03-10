@@ -27038,3 +27038,4 @@
 - [2022-03-10T20:11:10] Add retries for transient network drops
 - [2022-03-10T19:50:57] Implement streaming upload chunk buffer optimization
 - [2022-03-10T21:17:21] Add Prometheus exporter endpoints for queue length
+- [2022-03-10T13:38:18] Clean up legacy worker task routines
