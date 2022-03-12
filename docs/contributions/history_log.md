@@ -27058,3 +27058,4 @@
 - [2022-03-11T12:05:18] Update automated pytest test suites
 - [2022-03-11T22:59:35] Enhance dashboard statistics rendering
 - [2022-03-12T15:55:38] Improve ffmpeg streaming pipe buffer management
+- [2022-03-12T08:04:39] Improve logging and health endpoint metrics
