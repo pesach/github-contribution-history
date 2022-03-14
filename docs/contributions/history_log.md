@@ -27066,3 +27066,4 @@
 - [2022-03-14T19:53:49] Improve logging and health endpoint metrics
 - [2022-03-14T20:42:49] Improve ffmpeg streaming pipe buffer management
 - [2022-03-14T19:53:11] Optimize PostgreSQL query execution plans
+- [2022-03-14T10:49:14] Refactor worker polling logic
