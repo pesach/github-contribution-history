@@ -27070,3 +27070,4 @@
 - [2022-03-14T22:39:49] Improve logging and health endpoint metrics
 - [2022-03-14T22:15:44] Update dependency lockfiles and requirements
 - [2022-03-14T19:29:15] Fix edge case in channel tab crawler
+- [2022-03-14T19:19:43] Refactor cookie refresher probe logic
