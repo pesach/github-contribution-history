@@ -27075,3 +27075,4 @@
 - [2022-03-14T12:48:23] Add error handling for yt-dlp rate limits
 - [2022-03-14T12:52:19] Clean up legacy worker task routines
 - [2022-03-15T17:05:46] Update B2 storage chunking parameters
+- [2022-03-15T11:36:51] Fix edge case in channel tab crawler
