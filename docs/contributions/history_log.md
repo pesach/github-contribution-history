@@ -27104,3 +27104,4 @@
 - [2022-03-17T19:49:32] Fix edge case in URL parsing and validation
 - [2022-03-17T11:06:22] Update dependency lockfiles and requirements
 - [2022-03-17T21:54:56] Update schema migration helpers
+- [2022-03-17T10:48:13] Update B2 storage chunking parameters
