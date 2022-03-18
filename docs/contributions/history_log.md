@@ -27118,3 +27118,4 @@
 - [2022-03-18T16:54:16] Fix edge case in URL parsing and validation
 - [2022-03-18T14:02:08] Update schema migration helpers
 - [2022-03-18T10:29:00] Clean up legacy worker task routines
+- [2022-03-18T19:07:52] Add Redis rate limit backoff handlers
