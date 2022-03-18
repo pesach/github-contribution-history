@@ -27105,3 +27105,4 @@
 - [2022-03-17T11:06:22] Update dependency lockfiles and requirements
 - [2022-03-17T21:54:56] Update schema migration helpers
 - [2022-03-17T10:48:13] Update B2 storage chunking parameters
+- [2022-03-17T22:29:47] Update B2 storage chunking parameters
