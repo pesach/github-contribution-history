@@ -27114,3 +27114,4 @@
 - [2022-03-17T17:50:41] Refactor cookie refresher probe logic
 - [2022-03-17T15:15:24] Update automated pytest test suites
 - [2022-03-17T14:39:59] Add Redis rate limit backoff handlers
+- [2022-03-18T16:54:49] Clean up legacy worker task routines
