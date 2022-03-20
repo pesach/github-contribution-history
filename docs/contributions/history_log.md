@@ -27133,3 +27133,4 @@
 - [2022-03-20T10:59:11] Add Redis rate limit backoff handlers
 - [2022-03-20T12:46:33] Implement streaming upload chunk buffer optimization
 - [2022-03-20T20:30:53] Add Prometheus exporter endpoints for queue length
+- [2022-03-20T14:25:37] Refactor storage upload retry mechanism
