@@ -27129,3 +27129,4 @@
 - [2022-03-19T09:49:26] Refactor worker polling logic
 - [2022-03-19T15:54:52] Fix edge case in URL parsing and validation
 - [2022-03-19T08:29:42] Refactor worker polling logic
+- [2022-03-20T21:18:36] Add error handling for yt-dlp rate limits
