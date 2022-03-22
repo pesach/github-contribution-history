@@ -27155,3 +27155,4 @@
 - [2022-03-22T21:57:38] Update automated pytest test suites
 - [2022-03-22T19:46:49] Update B2 storage chunking parameters
 - [2022-03-22T20:14:47] Add Redis rate limit backoff handlers
+- [2022-03-22T12:55:31] Add error handling for yt-dlp rate limits
