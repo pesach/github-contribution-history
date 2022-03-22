@@ -27148,3 +27148,4 @@
 - [2022-03-22T21:25:18] Improve ffmpeg streaming pipe buffer management
 - [2022-03-22T21:23:33] Enhance dashboard statistics rendering
 - [2022-03-22T09:34:14] Update automated pytest test suites
+- [2022-03-22T16:25:12] Fix edge case in URL parsing and validation
