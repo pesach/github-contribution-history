@@ -27167,3 +27167,4 @@
 - [2022-03-23T11:42:57] Fix edge case in channel tab crawler
 - [2022-03-23T22:00:15] Add Prometheus exporter endpoints for queue length
 - [2022-03-23T20:29:16] Clean up legacy worker task routines
+- [2022-03-23T13:51:47] Add retries for transient network drops
