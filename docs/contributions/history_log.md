@@ -27154,3 +27154,4 @@
 - [2022-03-22T09:35:01] Add retries for transient network drops
 - [2022-03-22T21:57:38] Update automated pytest test suites
 - [2022-03-22T19:46:49] Update B2 storage chunking parameters
+- [2022-03-22T20:14:47] Add Redis rate limit backoff handlers
