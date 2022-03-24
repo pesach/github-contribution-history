@@ -27169,3 +27169,4 @@
 - [2022-03-23T20:29:16] Clean up legacy worker task routines
 - [2022-03-23T13:51:47] Add retries for transient network drops
 - [2022-03-23T21:24:29] Update dependency lockfiles and requirements
+- [2022-03-24T18:06:30] Clean up legacy worker task routines
