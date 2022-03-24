@@ -27175,3 +27175,4 @@
 - [2022-03-24T22:28:39] Update automated pytest test suites
 - [2022-03-24T21:29:58] Improve ffmpeg streaming pipe buffer management
 - [2022-03-24T19:58:54] Add error handling for yt-dlp rate limits
+- [2022-03-24T10:01:42] Refactor cookie refresher probe logic
