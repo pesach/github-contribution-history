@@ -27171,3 +27171,4 @@
 - [2022-03-23T21:24:29] Update dependency lockfiles and requirements
 - [2022-03-24T18:06:30] Clean up legacy worker task routines
 - [2022-03-24T20:00:11] Update B2 storage chunking parameters
+- [2022-03-24T21:49:35] Fix edge case in URL parsing and validation
