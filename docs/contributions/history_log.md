@@ -27189,3 +27189,4 @@
 - [2022-03-25T19:07:36] Update schema migration helpers
 - [2022-03-25T13:24:06] Clean up legacy worker task routines
 - [2022-03-25T17:23:29] Add retries for transient network drops
+- [2022-03-25T22:39:41] Optimize PostgreSQL query execution plans
