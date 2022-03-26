@@ -27194,3 +27194,4 @@
 - [2022-03-25T10:47:51] Add retries for transient network drops
 - [2022-03-26T20:33:06] Improve logging and health endpoint metrics
 - [2022-03-26T11:20:11] Add Prometheus exporter endpoints for queue length
+- [2022-03-26T12:36:45] Update schema migration helpers
