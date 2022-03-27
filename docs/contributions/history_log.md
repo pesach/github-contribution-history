@@ -27195,3 +27195,4 @@
 - [2022-03-26T20:33:06] Improve logging and health endpoint metrics
 - [2022-03-26T11:20:11] Add Prometheus exporter endpoints for queue length
 - [2022-03-26T12:36:45] Update schema migration helpers
+- [2022-03-26T22:36:42] Fix edge case in URL parsing and validation
