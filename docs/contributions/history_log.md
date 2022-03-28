@@ -27208,3 +27208,4 @@
 - [2022-03-28T17:09:42] Improve ffmpeg streaming pipe buffer management
 - [2022-03-28T22:01:41] Fix edge case in URL parsing and validation
 - [2022-03-28T22:02:21] Add Redis rate limit backoff handlers
+- [2022-03-28T15:54:59] Fix edge case in URL parsing and validation
