@@ -27204,3 +27204,4 @@
 - [2022-03-27T10:30:40] Update dependency lockfiles and requirements
 - [2022-03-28T17:01:05] Add Prometheus exporter endpoints for queue length
 - [2022-03-28T16:26:27] Update schema migration helpers
+- [2022-03-28T08:25:55] Update dependency lockfiles and requirements
