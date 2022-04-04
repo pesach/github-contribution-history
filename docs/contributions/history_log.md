@@ -27242,3 +27242,4 @@
 - [2022-04-04T13:09:53] Add retries for transient network drops
 - [2022-04-04T15:29:31] Clean up legacy worker task routines
 - [2022-04-04T09:28:03] Update documentation and architectural guides
+- [2022-04-04T08:01:53] Update B2 storage chunking parameters
