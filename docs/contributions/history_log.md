@@ -27247,3 +27247,4 @@
 - [2022-04-04T18:44:24] Clean up legacy worker task routines
 - [2022-04-04T19:26:06] Add retries for transient network drops
 - [2022-04-04T19:48:09] Update dependency lockfiles and requirements
+- [2022-04-04T13:47:16] Update B2 storage chunking parameters
