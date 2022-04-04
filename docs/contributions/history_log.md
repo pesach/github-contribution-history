@@ -27244,3 +27244,4 @@
 - [2022-04-04T09:28:03] Update documentation and architectural guides
 - [2022-04-04T08:01:53] Update B2 storage chunking parameters
 - [2022-04-04T19:08:45] Implement streaming upload chunk buffer optimization
+- [2022-04-04T18:44:24] Clean up legacy worker task routines
