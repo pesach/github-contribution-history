@@ -27251,3 +27251,4 @@
 - [2022-04-05T14:50:58] Fix edge case in channel tab crawler
 - [2022-04-05T10:04:31] Add Prometheus exporter endpoints for queue length
 - [2022-04-05T09:04:02] Update documentation and architectural guides
+- [2022-04-05T09:24:56] Update schema migration helpers
