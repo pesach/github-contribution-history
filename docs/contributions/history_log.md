@@ -27264,3 +27264,4 @@
 - [2022-04-07T11:52:32] Update schema migration helpers
 - [2022-04-07T12:37:52] Add retries for transient network drops
 - [2022-04-07T18:35:32] Clean up legacy worker task routines
+- [2022-04-07T16:37:34] Add error handling for yt-dlp rate limits
