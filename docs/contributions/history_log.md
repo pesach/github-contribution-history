@@ -27256,3 +27256,4 @@
 - [2022-04-05T20:51:07] Update schema migration helpers
 - [2022-04-07T12:28:53] Update documentation and architectural guides
 - [2022-04-07T12:29:50] Improve logging and health endpoint metrics
+- [2022-04-07T09:46:44] Add Redis rate limit backoff handlers
