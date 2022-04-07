@@ -27263,3 +27263,4 @@
 - [2022-04-07T12:44:20] Update schema migration helpers
 - [2022-04-07T11:52:32] Update schema migration helpers
 - [2022-04-07T12:37:52] Add retries for transient network drops
+- [2022-04-07T18:35:32] Clean up legacy worker task routines
