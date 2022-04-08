@@ -27267,3 +27267,4 @@
 - [2022-04-07T16:37:34] Add error handling for yt-dlp rate limits
 - [2022-04-07T11:22:20] Fix edge case in channel tab crawler
 - [2022-04-07T18:01:05] Fix edge case in channel tab crawler
+- [2022-04-08T17:22:32] Refactor worker polling logic
