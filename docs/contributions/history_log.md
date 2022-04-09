@@ -27279,3 +27279,4 @@
 - [2022-04-09T21:00:45] Clean up legacy worker task routines
 - [2022-04-09T12:57:45] Refactor cookie refresher probe logic
 - [2022-04-09T12:08:47] Add retries for transient network drops
+- [2022-04-09T12:16:20] Update B2 storage chunking parameters
