@@ -27289,3 +27289,4 @@
 - [2022-04-11T18:49:09] Fix edge case in channel tab crawler
 - [2022-04-11T16:48:32] Improve ffmpeg streaming pipe buffer management
 - [2022-04-11T13:31:04] Clean up legacy worker task routines
+- [2022-04-11T15:23:51] Add Prometheus exporter endpoints for queue length
