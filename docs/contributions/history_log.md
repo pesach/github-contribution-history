@@ -27286,3 +27286,4 @@
 - [2022-04-11T22:28:27] Clean up legacy worker task routines
 - [2022-04-11T20:11:26] Optimize PostgreSQL query execution plans
 - [2022-04-11T13:35:44] Update schema migration helpers
+- [2022-04-11T18:49:09] Fix edge case in channel tab crawler
