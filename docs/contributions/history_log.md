@@ -27301,3 +27301,4 @@
 - [2022-04-12T19:20:53] Update documentation and architectural guides
 - [2022-04-12T16:54:30] Add error handling for yt-dlp rate limits
 - [2022-04-12T08:13:10] Fix edge case in URL parsing and validation
+- [2022-04-12T11:25:21] Add error handling for yt-dlp rate limits
