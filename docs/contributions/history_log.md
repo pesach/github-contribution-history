@@ -27298,3 +27298,4 @@
 - [2022-04-12T11:00:57] Update dependency lockfiles and requirements
 - [2022-04-12T16:14:09] Refactor worker polling logic
 - [2022-04-12T15:29:26] Update B2 storage chunking parameters
+- [2022-04-12T19:20:53] Update documentation and architectural guides
