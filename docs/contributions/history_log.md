@@ -27305,3 +27305,4 @@
 - [2022-04-12T13:05:25] Add retries for transient network drops
 - [2022-04-13T09:14:08] Improve logging and health endpoint metrics
 - [2022-04-13T19:19:48] Improve ffmpeg streaming pipe buffer management
+- [2022-04-13T12:37:59] Enhance dashboard statistics rendering
