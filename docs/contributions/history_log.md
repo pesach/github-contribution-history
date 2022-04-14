@@ -27324,3 +27324,4 @@
 - [2022-04-14T12:39:57] Update automated pytest test suites
 - [2022-04-14T19:44:55] Add Prometheus exporter endpoints for queue length
 - [2022-04-14T16:25:49] Update dependency lockfiles and requirements
+- [2022-04-14T19:52:05] Update documentation and architectural guides
