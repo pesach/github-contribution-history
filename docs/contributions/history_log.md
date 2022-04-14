@@ -27309,3 +27309,4 @@
 - [2022-04-13T20:59:19] Update dependency lockfiles and requirements
 - [2022-04-13T08:29:28] Add Prometheus exporter endpoints for queue length
 - [2022-04-13T13:50:45] Fix edge case in URL parsing and validation
+- [2022-04-13T22:34:59] Improve ffmpeg streaming pipe buffer management
