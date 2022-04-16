@@ -27328,3 +27328,4 @@
 - [2022-04-15T08:51:34] Improve logging and health endpoint metrics
 - [2022-04-15T13:12:23] Clean up legacy worker task routines
 - [2022-04-15T22:29:47] Improve ffmpeg streaming pipe buffer management
+- [2022-04-15T21:17:23] Fix edge case in URL parsing and validation
