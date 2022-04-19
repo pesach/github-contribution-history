@@ -27346,3 +27346,4 @@
 - [2022-04-18T17:06:01] Fix edge case in channel tab crawler
 - [2022-04-18T21:44:29] Optimize PostgreSQL query execution plans
 - [2022-04-18T12:12:58] Add retries for transient network drops
+- [2022-04-18T21:06:51] Clean up legacy worker task routines
