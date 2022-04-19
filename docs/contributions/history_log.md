@@ -27344,3 +27344,4 @@
 - [2022-04-16T10:34:18] Fix edge case in URL parsing and validation
 - [2022-04-18T19:25:56] Update schema migration helpers
 - [2022-04-18T17:06:01] Fix edge case in channel tab crawler
+- [2022-04-18T21:44:29] Optimize PostgreSQL query execution plans
