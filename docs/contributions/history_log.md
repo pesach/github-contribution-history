@@ -27364,3 +27364,4 @@
 - [2022-04-19T16:19:01] Refactor storage upload retry mechanism
 - [2022-04-19T14:36:33] Implement streaming upload chunk buffer optimization
 - [2022-04-19T20:07:33] Implement streaming upload chunk buffer optimization
+- [2022-04-20T08:19:35] Add Redis rate limit backoff handlers
