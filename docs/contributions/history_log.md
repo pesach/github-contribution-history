@@ -27354,3 +27354,4 @@
 - [2022-04-18T22:02:03] Update B2 storage chunking parameters
 - [2022-04-18T12:18:21] Refactor cookie refresher probe logic
 - [2022-04-19T22:32:28] Refactor cookie refresher probe logic
+- [2022-04-19T20:37:29] Add error handling for yt-dlp rate limits
