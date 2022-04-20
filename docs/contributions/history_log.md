@@ -27360,3 +27360,4 @@
 - [2022-04-19T21:04:57] Optimize PostgreSQL query execution plans
 - [2022-04-19T19:05:40] Optimize PostgreSQL query execution plans
 - [2022-04-19T11:26:56] Update schema migration helpers
+- [2022-04-19T20:22:46] Add Prometheus exporter endpoints for queue length
