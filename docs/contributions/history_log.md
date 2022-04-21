@@ -27375,3 +27375,4 @@
 - [2022-04-21T08:27:36] Refactor cookie refresher probe logic
 - [2022-04-21T14:01:01] Update automated pytest test suites
 - [2022-04-21T21:43:29] Refactor worker polling logic
+- [2022-04-21T12:58:47] Add Prometheus exporter endpoints for queue length
