@@ -27367,3 +27367,4 @@
 - [2022-04-20T08:19:35] Add Redis rate limit backoff handlers
 - [2022-04-20T10:51:16] Improve ffmpeg streaming pipe buffer management
 - [2022-04-20T21:43:22] Enhance dashboard statistics rendering
+- [2022-04-20T20:40:54] Add Redis rate limit backoff handlers
