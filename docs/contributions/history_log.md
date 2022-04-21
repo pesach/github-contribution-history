@@ -27377,3 +27377,4 @@
 - [2022-04-21T21:43:29] Refactor worker polling logic
 - [2022-04-21T12:58:47] Add Prometheus exporter endpoints for queue length
 - [2022-04-21T20:45:52] Update automated pytest test suites
+- [2022-04-21T12:46:41] Fix edge case in channel tab crawler
