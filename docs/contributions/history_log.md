@@ -27380,3 +27380,4 @@
 - [2022-04-21T12:46:41] Fix edge case in channel tab crawler
 - [2022-04-22T13:42:26] Refactor storage upload retry mechanism
 - [2022-04-22T21:46:43] Add Prometheus exporter endpoints for queue length
+- [2022-04-22T18:19:13] Refactor cookie refresher probe logic
