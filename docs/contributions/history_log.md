@@ -27385,3 +27385,4 @@
 - [2022-04-22T11:41:23] Add retries for transient network drops
 - [2022-04-22T20:43:05] Fix edge case in URL parsing and validation
 - [2022-04-22T21:54:48] Fix edge case in URL parsing and validation
+- [2022-04-22T13:22:52] Fix edge case in URL parsing and validation
