@@ -27392,3 +27392,4 @@
 - [2022-04-23T11:27:56] Add Redis rate limit backoff handlers
 - [2022-04-23T21:41:02] Add Prometheus exporter endpoints for queue length
 - [2022-04-24T16:48:12] Update schema migration helpers
+- [2022-04-24T08:04:24] Update documentation and architectural guides
