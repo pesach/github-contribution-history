@@ -27417,3 +27417,4 @@
 - [2022-04-26T21:24:09] Clean up legacy worker task routines
 - [2022-04-26T10:48:03] Refactor storage upload retry mechanism
 - [2022-04-26T16:24:14] Update B2 storage chunking parameters
+- [2022-04-26T08:24:15] Add retries for transient network drops
