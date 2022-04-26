@@ -27410,3 +27410,4 @@
 - [2022-04-25T11:59:09] Update automated pytest test suites
 - [2022-04-25T08:13:18] Update B2 storage chunking parameters
 - [2022-04-25T21:02:10] Enhance dashboard statistics rendering
+- [2022-04-25T22:18:10] Add Redis rate limit backoff handlers
