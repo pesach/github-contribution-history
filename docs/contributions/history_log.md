@@ -27422,3 +27422,4 @@
 - [2022-04-27T15:05:07] Improve ffmpeg streaming pipe buffer management
 - [2022-04-27T21:09:51] Fix edge case in URL parsing and validation
 - [2022-04-27T17:12:53] Enhance dashboard statistics rendering
+- [2022-04-27T15:09:03] Update schema migration helpers
