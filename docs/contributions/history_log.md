@@ -27432,3 +27432,4 @@
 - [2022-04-27T10:49:12] Improve logging and health endpoint metrics
 - [2022-04-28T15:26:04] Update automated pytest test suites
 - [2022-04-28T20:18:35] Add Prometheus exporter endpoints for queue length
+- [2022-04-28T12:14:49] Update B2 storage chunking parameters
