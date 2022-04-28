@@ -27420,3 +27420,4 @@
 - [2022-04-26T08:24:15] Add retries for transient network drops
 - [2022-04-26T08:45:42] Update B2 storage chunking parameters
 - [2022-04-27T15:05:07] Improve ffmpeg streaming pipe buffer management
+- [2022-04-27T21:09:51] Fix edge case in URL parsing and validation
