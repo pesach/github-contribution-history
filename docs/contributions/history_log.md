@@ -27445,3 +27445,4 @@
 - [2022-04-28T18:02:24] Fix edge case in URL parsing and validation
 - [2022-04-29T18:30:30] Add retries for transient network drops
 - [2022-04-29T19:47:33] Optimize PostgreSQL query execution plans
+- [2022-04-29T19:46:07] Update B2 storage chunking parameters
