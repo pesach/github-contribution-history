@@ -27464,3 +27464,4 @@
 - [2022-05-01T10:22:11] Update B2 storage chunking parameters
 - [2022-05-02T12:38:42] Implement streaming upload chunk buffer optimization
 - [2022-05-02T17:37:21] Refactor storage upload retry mechanism
+- [2022-05-02T09:46:55] Add retries for transient network drops
