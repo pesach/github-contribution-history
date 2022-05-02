@@ -27472,3 +27472,4 @@
 - [2022-05-02T11:04:20] Add retries for transient network drops
 - [2022-05-02T22:23:54] Add Prometheus exporter endpoints for queue length
 - [2022-05-02T12:28:02] Refactor storage upload retry mechanism
+- [2022-05-02T08:07:54] Fix edge case in channel tab crawler
