@@ -27469,3 +27469,4 @@
 - [2022-05-02T16:13:30] Refactor worker polling logic
 - [2022-05-02T21:24:25] Implement streaming upload chunk buffer optimization
 - [2022-05-02T18:13:24] Update automated pytest test suites
+- [2022-05-02T11:04:20] Add retries for transient network drops
