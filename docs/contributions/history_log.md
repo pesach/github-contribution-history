@@ -27473,3 +27473,4 @@
 - [2022-05-02T22:23:54] Add Prometheus exporter endpoints for queue length
 - [2022-05-02T12:28:02] Refactor storage upload retry mechanism
 - [2022-05-02T08:07:54] Fix edge case in channel tab crawler
+- [2022-05-02T20:39:51] Update schema migration helpers
