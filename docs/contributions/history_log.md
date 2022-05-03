@@ -27467,3 +27467,4 @@
 - [2022-05-02T09:46:55] Add retries for transient network drops
 - [2022-05-02T13:10:06] Add retries for transient network drops
 - [2022-05-02T16:13:30] Refactor worker polling logic
+- [2022-05-02T21:24:25] Implement streaming upload chunk buffer optimization
