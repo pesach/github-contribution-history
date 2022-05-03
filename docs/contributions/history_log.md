@@ -27477,3 +27477,4 @@
 - [2022-05-02T09:37:49] Add error handling for yt-dlp rate limits
 - [2022-05-02T08:12:57] Fix edge case in channel tab crawler
 - [2022-05-02T10:17:05] Refactor storage upload retry mechanism
+- [2022-05-03T13:53:11] Add retries for transient network drops
