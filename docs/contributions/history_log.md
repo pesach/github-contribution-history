@@ -27480,3 +27480,4 @@
 - [2022-05-03T13:53:11] Add retries for transient network drops
 - [2022-05-03T10:37:17] Enhance dashboard statistics rendering
 - [2022-05-03T21:29:42] Add retries for transient network drops
+- [2022-05-03T11:42:03] Fix edge case in channel tab crawler
