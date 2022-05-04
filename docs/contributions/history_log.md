@@ -27491,3 +27491,4 @@
 - [2022-05-04T11:25:56] Fix edge case in URL parsing and validation
 - [2022-05-04T15:05:05] Fix edge case in channel tab crawler
 - [2022-05-04T16:20:06] Add error handling for yt-dlp rate limits
+- [2022-05-04T11:39:08] Improve logging and health endpoint metrics
