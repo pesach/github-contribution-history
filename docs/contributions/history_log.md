@@ -27488,3 +27488,4 @@
 - [2022-05-04T21:32:35] Improve logging and health endpoint metrics
 - [2022-05-04T18:22:49] Refactor worker polling logic
 - [2022-05-04T15:20:32] Refactor worker polling logic
+- [2022-05-04T11:25:56] Fix edge case in URL parsing and validation
