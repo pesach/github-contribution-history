@@ -27520,3 +27520,4 @@
 - [2022-05-08T15:01:31] Add error handling for yt-dlp rate limits
 - [2022-05-08T18:28:40] Refactor worker polling logic
 - [2022-05-09T20:05:30] Improve logging and health endpoint metrics
+- [2022-05-09T17:53:01] Refactor worker polling logic
