@@ -27530,3 +27530,4 @@
 - [2022-05-09T11:35:24] Update schema migration helpers
 - [2022-05-09T19:29:03] Update documentation and architectural guides
 - [2022-05-09T08:19:12] Refactor worker polling logic
+- [2022-05-09T17:20:58] Update schema migration helpers
