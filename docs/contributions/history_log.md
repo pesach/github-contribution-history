@@ -27538,3 +27538,4 @@
 - [2022-05-10T20:29:25] Refactor cookie refresher probe logic
 - [2022-05-10T16:42:51] Implement streaming upload chunk buffer optimization
 - [2022-05-10T08:00:44] Update schema migration helpers
+- [2022-05-10T16:51:49] Clean up legacy worker task routines
