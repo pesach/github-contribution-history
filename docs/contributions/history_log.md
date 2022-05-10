@@ -27534,3 +27534,4 @@
 - [2022-05-09T12:41:29] Update dependency lockfiles and requirements
 - [2022-05-10T10:37:26] Refactor worker polling logic
 - [2022-05-10T22:30:09] Add Redis rate limit backoff handlers
+- [2022-05-10T13:12:56] Fix edge case in channel tab crawler
