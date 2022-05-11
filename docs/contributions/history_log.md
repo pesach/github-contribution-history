@@ -27547,3 +27547,4 @@
 - [2022-05-10T20:00:23] Improve ffmpeg streaming pipe buffer management
 - [2022-05-11T15:36:59] Add retries for transient network drops
 - [2022-05-11T09:53:24] Update dependency lockfiles and requirements
+- [2022-05-11T13:24:16] Add error handling for yt-dlp rate limits
