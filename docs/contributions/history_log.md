@@ -27548,3 +27548,4 @@
 - [2022-05-11T15:36:59] Add retries for transient network drops
 - [2022-05-11T09:53:24] Update dependency lockfiles and requirements
 - [2022-05-11T13:24:16] Add error handling for yt-dlp rate limits
+- [2022-05-11T12:02:11] Update documentation and architectural guides
