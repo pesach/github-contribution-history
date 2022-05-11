@@ -27557,3 +27557,4 @@
 - [2022-05-11T21:13:12] Improve ffmpeg streaming pipe buffer management
 - [2022-05-11T13:40:47] Refactor worker polling logic
 - [2022-05-11T20:42:14] Refactor cookie refresher probe logic
+- [2022-05-11T18:24:19] Clean up legacy worker task routines
