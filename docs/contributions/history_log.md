@@ -27558,3 +27558,4 @@
 - [2022-05-11T13:40:47] Refactor worker polling logic
 - [2022-05-11T20:42:14] Refactor cookie refresher probe logic
 - [2022-05-11T18:24:19] Clean up legacy worker task routines
+- [2022-05-11T13:57:29] Add Prometheus exporter endpoints for queue length
