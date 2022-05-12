@@ -27560,3 +27560,4 @@
 - [2022-05-11T18:24:19] Clean up legacy worker task routines
 - [2022-05-11T13:57:29] Add Prometheus exporter endpoints for queue length
 - [2022-05-11T08:59:19] Refactor storage upload retry mechanism
+- [2022-05-12T08:14:48] Update B2 storage chunking parameters
