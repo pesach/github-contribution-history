@@ -27577,3 +27577,4 @@
 - [2022-05-13T08:30:05] Improve logging and health endpoint metrics
 - [2022-05-13T11:20:24] Update dependency lockfiles and requirements
 - [2022-05-13T11:29:43] Clean up legacy worker task routines
+- [2022-05-13T15:38:39] Fix edge case in channel tab crawler
