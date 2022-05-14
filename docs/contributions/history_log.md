@@ -27581,3 +27581,4 @@
 - [2022-05-13T22:09:17] Update dependency lockfiles and requirements
 - [2022-05-14T12:59:26] Add error handling for yt-dlp rate limits
 - [2022-05-14T22:25:00] Clean up legacy worker task routines
+- [2022-05-14T14:41:31] Refactor worker polling logic
