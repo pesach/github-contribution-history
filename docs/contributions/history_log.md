@@ -27583,3 +27583,4 @@
 - [2022-05-14T22:25:00] Clean up legacy worker task routines
 - [2022-05-14T14:41:31] Refactor worker polling logic
 - [2022-05-14T22:38:18] Improve ffmpeg streaming pipe buffer management
+- [2022-05-14T21:48:27] Add Redis rate limit backoff handlers
