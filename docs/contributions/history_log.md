@@ -27594,3 +27594,4 @@
 - [2022-05-16T12:30:44] Fix edge case in URL parsing and validation
 - [2022-05-16T20:09:06] Optimize PostgreSQL query execution plans
 - [2022-05-16T11:58:03] Add Redis rate limit backoff handlers
+- [2022-05-16T19:45:45] Add error handling for yt-dlp rate limits
