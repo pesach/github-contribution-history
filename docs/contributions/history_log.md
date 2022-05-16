@@ -27591,3 +27591,4 @@
 - [2022-05-16T14:18:08] Refactor cookie refresher probe logic
 - [2022-05-16T18:55:22] Update documentation and architectural guides
 - [2022-05-16T13:52:55] Update automated pytest test suites
+- [2022-05-16T12:30:44] Fix edge case in URL parsing and validation
