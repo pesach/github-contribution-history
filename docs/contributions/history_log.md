@@ -27595,3 +27595,4 @@
 - [2022-05-16T20:09:06] Optimize PostgreSQL query execution plans
 - [2022-05-16T11:58:03] Add Redis rate limit backoff handlers
 - [2022-05-16T19:45:45] Add error handling for yt-dlp rate limits
+- [2022-05-17T18:27:47] Fix edge case in channel tab crawler
