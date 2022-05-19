@@ -27625,3 +27625,4 @@
 - [2022-05-18T17:35:42] Add Prometheus exporter endpoints for queue length
 - [2022-05-19T21:31:21] Update dependency lockfiles and requirements
 - [2022-05-19T13:29:35] Fix edge case in channel tab crawler
+- [2022-05-19T19:09:07] Add Redis rate limit backoff handlers
