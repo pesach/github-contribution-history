@@ -27640,3 +27640,4 @@
 - [2022-05-20T19:07:42] Add retries for transient network drops
 - [2022-05-20T08:20:41] Improve ffmpeg streaming pipe buffer management
 - [2022-05-20T13:05:32] Fix edge case in URL parsing and validation
+- [2022-05-20T16:34:45] Add Redis rate limit backoff handlers
