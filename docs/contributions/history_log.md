@@ -27639,3 +27639,4 @@
 - [2022-05-20T10:06:49] Optimize PostgreSQL query execution plans
 - [2022-05-20T19:07:42] Add retries for transient network drops
 - [2022-05-20T08:20:41] Improve ffmpeg streaming pipe buffer management
+- [2022-05-20T13:05:32] Fix edge case in URL parsing and validation
