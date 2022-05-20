@@ -27642,3 +27642,4 @@
 - [2022-05-20T13:05:32] Fix edge case in URL parsing and validation
 - [2022-05-20T16:34:45] Add Redis rate limit backoff handlers
 - [2022-05-20T18:59:14] Fix edge case in URL parsing and validation
+- [2022-05-20T11:00:29] Update schema migration helpers
