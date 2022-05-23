@@ -27653,3 +27653,4 @@
 - [2022-05-23T10:16:52] Clean up legacy worker task routines
 - [2022-05-23T11:13:00] Refactor cookie refresher probe logic
 - [2022-05-23T20:49:17] Refactor worker polling logic
+- [2022-05-23T12:43:58] Add retries for transient network drops
