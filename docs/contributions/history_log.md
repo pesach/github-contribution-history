@@ -27650,3 +27650,4 @@
 - [2022-05-21T22:16:44] Improve logging and health endpoint metrics
 - [2022-05-21T20:04:12] Add Redis rate limit backoff handlers
 - [2022-05-21T13:41:02] Update documentation and architectural guides
+- [2022-05-23T10:16:52] Clean up legacy worker task routines
