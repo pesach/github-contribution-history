@@ -27655,3 +27655,4 @@
 - [2022-05-23T20:49:17] Refactor worker polling logic
 - [2022-05-23T12:43:58] Add retries for transient network drops
 - [2022-05-23T12:56:36] Update automated pytest test suites
+- [2022-05-23T13:11:14] Fix edge case in channel tab crawler
