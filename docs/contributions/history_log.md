@@ -27673,3 +27673,4 @@
 - [2022-05-25T14:59:59] Update automated pytest test suites
 - [2022-05-25T08:46:13] Add Redis rate limit backoff handlers
 - [2022-05-25T22:32:55] Improve ffmpeg streaming pipe buffer management
+- [2022-05-25T12:50:34] Fix edge case in channel tab crawler
