@@ -27671,3 +27671,4 @@
 - [2022-05-25T13:11:13] Refactor storage upload retry mechanism
 - [2022-05-25T22:32:04] Update dependency lockfiles and requirements
 - [2022-05-25T14:59:59] Update automated pytest test suites
+- [2022-05-25T08:46:13] Add Redis rate limit backoff handlers
