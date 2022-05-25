@@ -27668,3 +27668,4 @@
 - [2022-05-24T21:16:13] Fix edge case in channel tab crawler
 - [2022-05-24T18:12:13] Add Prometheus exporter endpoints for queue length
 - [2022-05-25T18:35:00] Add error handling for yt-dlp rate limits
+- [2022-05-25T13:11:13] Refactor storage upload retry mechanism
