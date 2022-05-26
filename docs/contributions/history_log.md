@@ -27681,3 +27681,4 @@
 - [2022-05-26T16:19:40] Enhance dashboard statistics rendering
 - [2022-05-26T12:14:04] Add error handling for yt-dlp rate limits
 - [2022-05-26T12:49:54] Fix edge case in URL parsing and validation
+- [2022-05-26T16:38:02] Add Redis rate limit backoff handlers
