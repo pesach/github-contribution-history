@@ -27679,3 +27679,4 @@
 - [2022-05-25T11:06:20] Update documentation and architectural guides
 - [2022-05-26T11:03:56] Refactor cookie refresher probe logic
 - [2022-05-26T16:19:40] Enhance dashboard statistics rendering
+- [2022-05-26T12:14:04] Add error handling for yt-dlp rate limits
