@@ -27675,3 +27675,4 @@
 - [2022-05-25T22:32:55] Improve ffmpeg streaming pipe buffer management
 - [2022-05-25T12:50:34] Fix edge case in channel tab crawler
 - [2022-05-25T17:46:49] Improve logging and health endpoint metrics
+- [2022-05-25T21:00:42] Update schema migration helpers
