@@ -27685,3 +27685,4 @@
 - [2022-05-26T22:08:38] Improve logging and health endpoint metrics
 - [2022-05-26T10:26:50] Update documentation and architectural guides
 - [2022-05-26T16:26:45] Fix edge case in URL parsing and validation
+- [2022-05-26T20:33:13] Refactor cookie refresher probe logic
