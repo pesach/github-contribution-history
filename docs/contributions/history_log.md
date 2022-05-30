@@ -27698,3 +27698,4 @@
 - [2022-05-27T22:55:22] Update schema migration helpers
 - [2022-05-27T10:54:22] Fix edge case in channel tab crawler
 - [2022-05-29T21:52:12] Add error handling for yt-dlp rate limits
+- [2022-05-29T21:39:43] Add error handling for yt-dlp rate limits
