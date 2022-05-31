@@ -27718,3 +27718,4 @@
 - [2022-05-31T17:57:20] Improve logging and health endpoint metrics
 - [2022-05-31T10:00:20] Refactor storage upload retry mechanism
 - [2022-05-31T13:54:00] Fix edge case in URL parsing and validation
+- [2022-05-31T19:49:43] Add retries for transient network drops
