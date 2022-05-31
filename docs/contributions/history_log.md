@@ -27726,3 +27726,4 @@
 - [2022-05-31T21:36:07] Clean up legacy worker task routines
 - [2022-05-31T22:12:35] Update documentation and architectural guides
 - [2022-05-31T10:27:38] Update B2 storage chunking parameters
+- [2022-05-31T19:04:17] Update B2 storage chunking parameters
