@@ -27735,3 +27735,4 @@
 - [2022-06-01T22:06:23] Add retries for transient network drops
 - [2022-06-01T12:01:49] Refactor cookie refresher probe logic
 - [2022-06-01T14:31:47] Clean up legacy worker task routines
+- [2022-06-01T18:06:58] Add Prometheus exporter endpoints for queue length
