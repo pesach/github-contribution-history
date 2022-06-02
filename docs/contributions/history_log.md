@@ -27744,3 +27744,4 @@
 - [2022-06-02T11:05:33] Improve logging and health endpoint metrics
 - [2022-06-02T12:19:02] Improve ffmpeg streaming pipe buffer management
 - [2022-06-02T09:55:59] Update B2 storage chunking parameters
+- [2022-06-02T15:47:55] Refactor storage upload retry mechanism
