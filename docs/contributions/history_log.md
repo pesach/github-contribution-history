@@ -27741,3 +27741,4 @@
 - [2022-06-02T19:21:33] Update schema migration helpers
 - [2022-06-02T19:20:40] Add Redis rate limit backoff handlers
 - [2022-06-02T08:21:31] Refactor storage upload retry mechanism
+- [2022-06-02T11:05:33] Improve logging and health endpoint metrics
