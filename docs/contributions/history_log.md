@@ -27737,3 +27737,4 @@
 - [2022-06-01T14:31:47] Clean up legacy worker task routines
 - [2022-06-01T18:06:58] Add Prometheus exporter endpoints for queue length
 - [2022-06-01T17:41:49] Fix edge case in channel tab crawler
+- [2022-06-02T09:39:20] Update B2 storage chunking parameters
