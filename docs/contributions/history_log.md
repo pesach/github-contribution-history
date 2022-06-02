@@ -27740,3 +27740,4 @@
 - [2022-06-02T09:39:20] Update B2 storage chunking parameters
 - [2022-06-02T19:21:33] Update schema migration helpers
 - [2022-06-02T19:20:40] Add Redis rate limit backoff handlers
+- [2022-06-02T08:21:31] Refactor storage upload retry mechanism
