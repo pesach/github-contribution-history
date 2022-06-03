@@ -27746,3 +27746,4 @@
 - [2022-06-02T09:55:59] Update B2 storage chunking parameters
 - [2022-06-02T15:47:55] Refactor storage upload retry mechanism
 - [2022-06-02T22:15:34] Update automated pytest test suites
+- [2022-06-02T20:04:06] Add Prometheus exporter endpoints for queue length
