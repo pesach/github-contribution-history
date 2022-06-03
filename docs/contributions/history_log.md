@@ -27753,3 +27753,4 @@
 - [2022-06-02T15:11:15] Add Redis rate limit backoff handlers
 - [2022-06-02T10:44:18] Refactor cookie refresher probe logic
 - [2022-06-03T21:20:21] Refactor worker polling logic
+- [2022-06-03T16:47:57] Update B2 storage chunking parameters
