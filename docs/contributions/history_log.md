@@ -27760,3 +27760,4 @@
 - [2022-06-03T21:07:46] Refactor cookie refresher probe logic
 - [2022-06-03T18:50:34] Add Redis rate limit backoff handlers
 - [2022-06-03T22:38:53] Refactor storage upload retry mechanism
+- [2022-06-03T13:25:47] Add Redis rate limit backoff handlers
