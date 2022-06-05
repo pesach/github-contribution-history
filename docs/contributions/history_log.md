@@ -27772,3 +27772,4 @@
 - [2022-06-04T08:14:23] Refactor storage upload retry mechanism
 - [2022-06-04T14:09:33] Implement streaming upload chunk buffer optimization
 - [2022-06-04T13:46:01] Update schema migration helpers
+- [2022-06-05T12:59:30] Add error handling for yt-dlp rate limits
