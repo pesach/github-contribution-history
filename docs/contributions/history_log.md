@@ -27782,3 +27782,4 @@
 - [2022-06-06T11:43:48] Clean up legacy worker task routines
 - [2022-06-06T08:22:45] Update documentation and architectural guides
 - [2022-06-06T22:58:42] Add Redis rate limit backoff handlers
+- [2022-06-06T19:54:06] Update documentation and architectural guides
