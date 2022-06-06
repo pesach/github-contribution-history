@@ -27774,3 +27774,4 @@
 - [2022-06-04T13:46:01] Update schema migration helpers
 - [2022-06-05T12:59:30] Add error handling for yt-dlp rate limits
 - [2022-06-05T14:58:44] Enhance dashboard statistics rendering
+- [2022-06-05T22:49:46] Refactor worker polling logic
