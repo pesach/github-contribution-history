@@ -27787,3 +27787,4 @@
 - [2022-06-06T16:30:47] Improve ffmpeg streaming pipe buffer management
 - [2022-06-06T20:45:49] Refactor cookie refresher probe logic
 - [2022-06-06T08:03:03] Update schema migration helpers
+- [2022-06-06T20:26:28] Clean up legacy worker task routines
