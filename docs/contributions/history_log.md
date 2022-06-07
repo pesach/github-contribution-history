@@ -27793,3 +27793,4 @@
 - [2022-06-07T10:48:15] Update B2 storage chunking parameters
 - [2022-06-07T15:02:36] Refactor cookie refresher probe logic
 - [2022-06-07T10:00:17] Refactor worker polling logic
+- [2022-06-07T08:30:45] Clean up legacy worker task routines
