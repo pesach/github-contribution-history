@@ -27800,3 +27800,4 @@
 - [2022-06-08T08:59:13] Refactor storage upload retry mechanism
 - [2022-06-08T15:49:09] Clean up legacy worker task routines
 - [2022-06-08T15:54:28] Implement streaming upload chunk buffer optimization
+- [2022-06-08T11:18:11] Add Redis rate limit backoff handlers
