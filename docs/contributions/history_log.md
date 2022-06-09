@@ -27804,3 +27804,4 @@
 - [2022-06-08T20:02:40] Update automated pytest test suites
 - [2022-06-08T12:23:29] Update schema migration helpers
 - [2022-06-09T10:00:06] Refactor cookie refresher probe logic
+- [2022-06-09T09:38:35] Add error handling for yt-dlp rate limits
