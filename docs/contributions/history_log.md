@@ -27821,3 +27821,4 @@
 - [2022-06-10T15:34:05] Refactor worker polling logic
 - [2022-06-10T16:21:05] Add retries for transient network drops
 - [2022-06-10T13:01:22] Update dependency lockfiles and requirements
+- [2022-06-10T10:30:00] Add error handling for yt-dlp rate limits
