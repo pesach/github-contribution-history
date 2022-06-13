@@ -27832,3 +27832,4 @@
 - [2022-06-13T20:25:06] Enhance dashboard statistics rendering
 - [2022-06-13T13:49:44] Update dependency lockfiles and requirements
 - [2022-06-13T14:23:31] Update automated pytest test suites
+- [2022-06-13T18:35:23] Update B2 storage chunking parameters
