@@ -27828,3 +27828,4 @@
 - [2022-06-11T19:33:43] Add Redis rate limit backoff handlers
 - [2022-06-11T18:36:38] Enhance dashboard statistics rendering
 - [2022-06-11T22:31:13] Add Prometheus exporter endpoints for queue length
+- [2022-06-13T12:16:59] Improve logging and health endpoint metrics
