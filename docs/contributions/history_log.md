@@ -27854,3 +27854,4 @@
 - [2022-06-17T08:17:09] Update dependency lockfiles and requirements
 - [2022-06-17T12:19:51] Add retries for transient network drops
 - [2022-06-17T11:59:09] Implement streaming upload chunk buffer optimization
+- [2022-06-17T14:45:24] Add Redis rate limit backoff handlers
