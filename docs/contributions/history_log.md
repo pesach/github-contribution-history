@@ -27860,3 +27860,4 @@
 - [2022-06-17T22:08:21] Enhance dashboard statistics rendering
 - [2022-06-18T08:37:42] Refactor storage upload retry mechanism
 - [2022-06-18T13:56:19] Enhance dashboard statistics rendering
+- [2022-06-18T18:38:48] Fix edge case in URL parsing and validation
