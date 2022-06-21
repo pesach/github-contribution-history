@@ -27877,3 +27877,4 @@
 - [2022-06-20T16:21:08] Improve logging and health endpoint metrics
 - [2022-06-20T19:06:40] Update dependency lockfiles and requirements
 - [2022-06-20T19:31:12] Update B2 storage chunking parameters
+- [2022-06-21T19:38:06] Implement streaming upload chunk buffer optimization
