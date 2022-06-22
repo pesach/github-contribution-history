@@ -27891,3 +27891,4 @@
 - [2022-06-22T22:18:16] Refactor worker polling logic
 - [2022-06-22T16:54:32] Update dependency lockfiles and requirements
 - [2022-06-22T09:16:55] Update automated pytest test suites
+- [2022-06-22T18:21:22] Improve ffmpeg streaming pipe buffer management
