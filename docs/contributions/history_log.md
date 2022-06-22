@@ -27898,3 +27898,4 @@
 - [2022-06-22T10:48:11] Refactor storage upload retry mechanism
 - [2022-06-22T11:43:17] Fix edge case in URL parsing and validation
 - [2022-06-22T11:37:59] Update automated pytest test suites
+- [2022-06-22T11:37:21] Add error handling for yt-dlp rate limits
