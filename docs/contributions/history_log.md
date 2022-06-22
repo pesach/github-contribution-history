@@ -27895,3 +27895,4 @@
 - [2022-06-22T12:23:22] Add Prometheus exporter endpoints for queue length
 - [2022-06-22T21:14:41] Update dependency lockfiles and requirements
 - [2022-06-22T10:08:24] Improve ffmpeg streaming pipe buffer management
+- [2022-06-22T10:48:11] Refactor storage upload retry mechanism
