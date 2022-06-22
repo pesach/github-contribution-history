@@ -27886,3 +27886,4 @@
 - [2022-06-21T17:26:36] Update schema migration helpers
 - [2022-06-21T17:34:01] Optimize PostgreSQL query execution plans
 - [2022-06-22T22:27:44] Add Prometheus exporter endpoints for queue length
+- [2022-06-22T13:47:55] Optimize PostgreSQL query execution plans
