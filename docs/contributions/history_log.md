@@ -27917,3 +27917,4 @@
 - [2022-06-24T17:51:25] Improve logging and health endpoint metrics
 - [2022-06-24T22:55:32] Clean up legacy worker task routines
 - [2022-06-24T22:43:21] Improve logging and health endpoint metrics
+- [2022-06-24T11:08:21] Refactor storage upload retry mechanism
