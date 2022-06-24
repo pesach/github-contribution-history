@@ -27919,3 +27919,4 @@
 - [2022-06-24T22:43:21] Improve logging and health endpoint metrics
 - [2022-06-24T11:08:21] Refactor storage upload retry mechanism
 - [2022-06-24T19:51:40] Implement streaming upload chunk buffer optimization
+- [2022-06-24T13:58:21] Update B2 storage chunking parameters
