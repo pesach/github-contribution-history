@@ -27927,3 +27927,4 @@
 - [2022-06-25T15:49:38] Add Redis rate limit backoff handlers
 - [2022-06-25T11:45:06] Update schema migration helpers
 - [2022-06-25T14:33:13] Add retries for transient network drops
+- [2022-06-25T16:35:04] Fix edge case in URL parsing and validation
