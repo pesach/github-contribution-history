@@ -27928,3 +27928,4 @@
 - [2022-06-25T11:45:06] Update schema migration helpers
 - [2022-06-25T14:33:13] Add retries for transient network drops
 - [2022-06-25T16:35:04] Fix edge case in URL parsing and validation
+- [2022-06-26T18:21:11] Update documentation and architectural guides
