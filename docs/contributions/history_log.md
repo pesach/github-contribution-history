@@ -27940,3 +27940,4 @@
 - [2022-06-27T22:53:13] Update B2 storage chunking parameters
 - [2022-06-27T14:59:49] Refactor worker polling logic
 - [2022-06-27T16:32:03] Update dependency lockfiles and requirements
+- [2022-06-27T16:35:00] Refactor worker polling logic
