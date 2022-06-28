@@ -27944,3 +27944,4 @@
 - [2022-06-27T15:07:08] Clean up legacy worker task routines
 - [2022-06-28T20:58:05] Refactor cookie refresher probe logic
 - [2022-06-28T12:47:04] Update documentation and architectural guides
+- [2022-06-28T15:03:58] Add error handling for yt-dlp rate limits
