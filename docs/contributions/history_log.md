@@ -27943,3 +27943,4 @@
 - [2022-06-27T16:35:00] Refactor worker polling logic
 - [2022-06-27T15:07:08] Clean up legacy worker task routines
 - [2022-06-28T20:58:05] Refactor cookie refresher probe logic
+- [2022-06-28T12:47:04] Update documentation and architectural guides
