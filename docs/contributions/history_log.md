@@ -27953,3 +27953,4 @@
 - [2022-06-28T21:10:59] Optimize PostgreSQL query execution plans
 - [2022-06-28T11:23:56] Refactor cookie refresher probe logic
 - [2022-06-28T08:35:04] Fix edge case in URL parsing and validation
+- [2022-06-28T19:01:08] Update schema migration helpers
