@@ -27965,3 +27965,4 @@
 - [2022-06-29T21:50:43] Fix edge case in URL parsing and validation
 - [2022-06-29T10:55:54] Improve logging and health endpoint metrics
 - [2022-06-29T08:21:02] Refactor storage upload retry mechanism
+- [2022-06-29T14:00:01] Refactor worker polling logic
