@@ -27956,3 +27956,4 @@
 - [2022-06-28T19:01:08] Update schema migration helpers
 - [2022-06-29T19:00:06] Refactor worker polling logic
 - [2022-06-29T12:05:15] Add retries for transient network drops
+- [2022-06-29T16:12:17] Add Redis rate limit backoff handlers
