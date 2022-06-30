@@ -27962,3 +27962,4 @@
 - [2022-06-29T16:52:14] Add Redis rate limit backoff handlers
 - [2022-06-29T15:33:26] Improve logging and health endpoint metrics
 - [2022-06-29T14:54:41] Refactor cookie refresher probe logic
+- [2022-06-29T21:50:43] Fix edge case in URL parsing and validation
