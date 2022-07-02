@@ -27991,3 +27991,4 @@
 - [2022-07-02T17:33:13] Add Prometheus exporter endpoints for queue length
 - [2022-07-02T18:07:14] Refactor cookie refresher probe logic
 - [2022-07-02T19:52:37] Update schema migration helpers
+- [2022-07-02T13:48:03] Improve logging and health endpoint metrics
