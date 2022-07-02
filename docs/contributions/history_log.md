@@ -27983,3 +27983,4 @@
 - [2022-07-01T13:49:55] Clean up legacy worker task routines
 - [2022-07-01T20:28:05] Add error handling for yt-dlp rate limits
 - [2022-07-01T19:59:05] Update dependency lockfiles and requirements
+- [2022-07-01T21:49:45] Update schema migration helpers
