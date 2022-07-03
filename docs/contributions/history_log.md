@@ -27992,3 +27992,4 @@
 - [2022-07-02T18:07:14] Refactor cookie refresher probe logic
 - [2022-07-02T19:52:37] Update schema migration helpers
 - [2022-07-02T13:48:03] Improve logging and health endpoint metrics
+- [2022-07-03T09:51:46] Fix edge case in URL parsing and validation
