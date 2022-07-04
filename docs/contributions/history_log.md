@@ -27999,3 +27999,4 @@
 - [2022-07-03T09:41:43] Add error handling for yt-dlp rate limits
 - [2022-07-04T15:22:43] Refactor storage upload retry mechanism
 - [2022-07-04T08:15:18] Improve logging and health endpoint metrics
+- [2022-07-04T14:49:32] Add error handling for yt-dlp rate limits
