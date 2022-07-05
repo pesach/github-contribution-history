@@ -28015,3 +28015,4 @@
 - [2022-07-05T13:10:44] Improve ffmpeg streaming pipe buffer management
 - [2022-07-05T12:04:20] Improve logging and health endpoint metrics
 - [2022-07-05T11:16:06] Fix edge case in channel tab crawler
+- [2022-07-05T13:28:41] Clean up legacy worker task routines
