@@ -28013,3 +28013,4 @@
 - [2022-07-05T20:21:08] Refactor cookie refresher probe logic
 - [2022-07-05T21:08:23] Update B2 storage chunking parameters
 - [2022-07-05T13:10:44] Improve ffmpeg streaming pipe buffer management
+- [2022-07-05T12:04:20] Improve logging and health endpoint metrics
