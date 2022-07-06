@@ -28011,3 +28011,4 @@
 - [2022-07-05T09:42:53] Implement streaming upload chunk buffer optimization
 - [2022-07-05T22:03:00] Fix edge case in URL parsing and validation
 - [2022-07-05T20:21:08] Refactor cookie refresher probe logic
+- [2022-07-05T21:08:23] Update B2 storage chunking parameters
