@@ -28026,3 +28026,4 @@
 - [2022-07-06T20:19:35] Enhance dashboard statistics rendering
 - [2022-07-06T17:11:04] Refactor cookie refresher probe logic
 - [2022-07-06T11:10:02] Fix edge case in URL parsing and validation
+- [2022-07-06T21:29:33] Add Redis rate limit backoff handlers
