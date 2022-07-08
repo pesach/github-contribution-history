@@ -28027,3 +28027,4 @@
 - [2022-07-06T17:11:04] Refactor cookie refresher probe logic
 - [2022-07-06T11:10:02] Fix edge case in URL parsing and validation
 - [2022-07-06T21:29:33] Add Redis rate limit backoff handlers
+- [2022-07-08T09:49:53] Clean up legacy worker task routines
