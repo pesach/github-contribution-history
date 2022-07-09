@@ -28037,3 +28037,4 @@
 - [2022-07-09T09:00:01] Refactor worker polling logic
 - [2022-07-09T18:41:12] Refactor storage upload retry mechanism
 - [2022-07-09T22:24:05] Update automated pytest test suites
+- [2022-07-09T12:54:02] Add Prometheus exporter endpoints for queue length
