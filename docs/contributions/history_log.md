@@ -28045,3 +28045,4 @@
 - [2022-07-11T22:49:45] Refactor cookie refresher probe logic
 - [2022-07-11T17:27:02] Improve ffmpeg streaming pipe buffer management
 - [2022-07-11T10:19:00] Refactor worker polling logic
+- [2022-07-11T10:33:34] Clean up legacy worker task routines
