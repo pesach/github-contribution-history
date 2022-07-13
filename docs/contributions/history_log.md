@@ -28065,3 +28065,4 @@
 - [2022-07-13T15:38:54] Update dependency lockfiles and requirements
 - [2022-07-13T08:06:04] Fix edge case in URL parsing and validation
 - [2022-07-13T12:01:05] Update automated pytest test suites
+- [2022-07-13T12:02:29] Add retries for transient network drops
