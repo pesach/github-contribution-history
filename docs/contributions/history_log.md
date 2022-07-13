@@ -28051,3 +28051,4 @@
 - [2022-07-12T21:05:47] Improve logging and health endpoint metrics
 - [2022-07-12T22:34:32] Fix edge case in URL parsing and validation
 - [2022-07-12T13:11:57] Refactor cookie refresher probe logic
+- [2022-07-12T22:48:07] Update B2 storage chunking parameters
