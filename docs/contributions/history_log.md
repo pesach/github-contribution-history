@@ -28048,3 +28048,4 @@
 - [2022-07-11T10:33:34] Clean up legacy worker task routines
 - [2022-07-11T12:03:51] Add Prometheus exporter endpoints for queue length
 - [2022-07-12T16:32:42] Fix edge case in channel tab crawler
+- [2022-07-12T21:05:47] Improve logging and health endpoint metrics
