@@ -28075,3 +28075,4 @@
 - [2022-07-14T10:05:00] Add retries for transient network drops
 - [2022-07-14T16:20:48] Update schema migration helpers
 - [2022-07-14T09:02:17] Refactor storage upload retry mechanism
+- [2022-07-14T14:05:24] Refactor worker polling logic
