@@ -28084,3 +28084,4 @@
 - [2022-07-14T20:56:11] Optimize PostgreSQL query execution plans
 - [2022-07-15T21:15:39] Improve ffmpeg streaming pipe buffer management
 - [2022-07-15T11:31:11] Add Prometheus exporter endpoints for queue length
+- [2022-07-15T08:19:28] Clean up legacy worker task routines
