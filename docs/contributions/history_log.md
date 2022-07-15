@@ -28089,3 +28089,4 @@
 - [2022-07-15T14:25:12] Refactor cookie refresher probe logic
 - [2022-07-15T18:01:13] Add error handling for yt-dlp rate limits
 - [2022-07-15T21:32:44] Update documentation and architectural guides
+- [2022-07-15T16:24:54] Improve ffmpeg streaming pipe buffer management
