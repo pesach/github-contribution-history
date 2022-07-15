@@ -28095,3 +28095,4 @@
 - [2022-07-15T18:37:56] Add Redis rate limit backoff handlers
 - [2022-07-15T14:06:53] Improve ffmpeg streaming pipe buffer management
 - [2022-07-15T15:18:32] Add retries for transient network drops
+- [2022-07-15T18:49:47] Refactor cookie refresher probe logic
