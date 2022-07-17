@@ -28105,3 +28105,4 @@
 - [2022-07-16T21:22:52] Enhance dashboard statistics rendering
 - [2022-07-17T15:03:31] Improve logging and health endpoint metrics
 - [2022-07-17T22:56:02] Fix edge case in channel tab crawler
+- [2022-07-17T13:25:39] Update B2 storage chunking parameters
