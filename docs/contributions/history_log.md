@@ -28117,3 +28117,4 @@
 - [2022-07-18T19:21:10] Refactor storage upload retry mechanism
 - [2022-07-18T13:01:35] Update schema migration helpers
 - [2022-07-18T22:32:13] Clean up legacy worker task routines
+- [2022-07-18T11:35:36] Refactor worker polling logic
