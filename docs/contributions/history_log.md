@@ -28110,3 +28110,4 @@
 - [2022-07-18T10:51:23] Add retries for transient network drops
 - [2022-07-18T18:40:44] Update automated pytest test suites
 - [2022-07-18T08:31:01] Refactor cookie refresher probe logic
+- [2022-07-18T14:56:22] Update B2 storage chunking parameters
