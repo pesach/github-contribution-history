@@ -28115,3 +28115,4 @@
 - [2022-07-18T13:56:07] Update documentation and architectural guides
 - [2022-07-18T15:04:10] Update automated pytest test suites
 - [2022-07-18T19:21:10] Refactor storage upload retry mechanism
+- [2022-07-18T13:01:35] Update schema migration helpers
