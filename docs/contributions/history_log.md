@@ -28137,3 +28137,4 @@
 - [2022-07-20T09:44:24] Add Redis rate limit backoff handlers
 - [2022-07-20T16:34:59] Fix edge case in channel tab crawler
 - [2022-07-20T22:46:45] Add Prometheus exporter endpoints for queue length
+- [2022-07-20T11:01:01] Refactor cookie refresher probe logic
