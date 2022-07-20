@@ -28133,3 +28133,4 @@
 - [2022-07-20T09:18:13] Add Prometheus exporter endpoints for queue length
 - [2022-07-20T13:09:07] Update schema migration helpers
 - [2022-07-20T15:11:36] Refactor storage upload retry mechanism
+- [2022-07-20T13:44:13] Refactor cookie refresher probe logic
