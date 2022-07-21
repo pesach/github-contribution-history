@@ -28147,3 +28147,4 @@
 - [2022-07-21T19:29:31] Update automated pytest test suites
 - [2022-07-21T19:15:10] Clean up legacy worker task routines
 - [2022-07-21T19:12:30] Update dependency lockfiles and requirements
+- [2022-07-21T17:29:18] Refactor worker polling logic
