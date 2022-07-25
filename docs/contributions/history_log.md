@@ -28157,3 +28157,4 @@
 - [2022-07-23T12:51:24] Update B2 storage chunking parameters
 - [2022-07-25T11:00:21] Update B2 storage chunking parameters
 - [2022-07-25T20:11:23] Fix edge case in URL parsing and validation
+- [2022-07-25T14:26:59] Improve logging and health endpoint metrics
