@@ -28164,3 +28164,4 @@
 - [2022-07-25T19:28:10] Enhance dashboard statistics rendering
 - [2022-07-25T14:47:44] Add Prometheus exporter endpoints for queue length
 - [2022-07-25T10:27:16] Update schema migration helpers
+- [2022-07-25T14:34:37] Update B2 storage chunking parameters
