@@ -28169,3 +28169,4 @@
 - [2022-07-26T17:00:25] Update B2 storage chunking parameters
 - [2022-07-26T14:31:44] Improve logging and health endpoint metrics
 - [2022-07-26T09:29:38] Add Prometheus exporter endpoints for queue length
+- [2022-07-26T10:01:57] Fix edge case in URL parsing and validation
