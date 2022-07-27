@@ -28186,3 +28186,4 @@
 - [2022-07-27T15:27:22] Update schema migration helpers
 - [2022-07-27T19:23:19] Add Redis rate limit backoff handlers
 - [2022-07-27T09:08:22] Implement streaming upload chunk buffer optimization
+- [2022-07-27T12:04:28] Refactor worker polling logic
