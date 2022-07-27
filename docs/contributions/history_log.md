@@ -28175,3 +28175,4 @@
 - [2022-07-26T20:47:21] Fix edge case in URL parsing and validation
 - [2022-07-26T15:13:32] Fix edge case in URL parsing and validation
 - [2022-07-26T18:03:49] Clean up legacy worker task routines
+- [2022-07-26T21:13:29] Fix edge case in channel tab crawler
