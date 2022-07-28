@@ -28179,3 +28179,4 @@
 - [2022-07-27T20:42:37] Update automated pytest test suites
 - [2022-07-27T11:07:31] Optimize PostgreSQL query execution plans
 - [2022-07-27T11:20:51] Optimize PostgreSQL query execution plans
+- [2022-07-27T20:05:04] Update schema migration helpers
