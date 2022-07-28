@@ -28191,3 +28191,4 @@
 - [2022-07-28T22:05:01] Refactor storage upload retry mechanism
 - [2022-07-28T09:35:25] Update automated pytest test suites
 - [2022-07-28T15:57:52] Add retries for transient network drops
+- [2022-07-28T08:41:30] Add Redis rate limit backoff handlers
