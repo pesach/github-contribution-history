@@ -28205,3 +28205,4 @@
 - [2022-07-29T11:48:00] Update automated pytest test suites
 - [2022-07-29T21:48:43] Clean up legacy worker task routines
 - [2022-07-29T12:15:21] Refactor worker polling logic
+- [2022-07-29T16:33:43] Add Prometheus exporter endpoints for queue length
