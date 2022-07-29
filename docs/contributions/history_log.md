@@ -28201,3 +28201,4 @@
 - [2022-07-28T21:19:40] Enhance dashboard statistics rendering
 - [2022-07-28T21:17:37] Refactor cookie refresher probe logic
 - [2022-07-29T10:55:16] Add error handling for yt-dlp rate limits
+- [2022-07-29T12:39:30] Update B2 storage chunking parameters
