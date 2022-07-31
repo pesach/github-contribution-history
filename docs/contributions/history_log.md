@@ -28212,3 +28212,4 @@
 - [2022-07-30T14:53:54] Update documentation and architectural guides
 - [2022-07-30T19:09:30] Fix edge case in URL parsing and validation
 - [2022-07-31T18:30:03] Improve logging and health endpoint metrics
+- [2022-07-31T15:34:56] Add error handling for yt-dlp rate limits
