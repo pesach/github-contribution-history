@@ -28218,3 +28218,4 @@
 - [2022-08-01T20:51:52] Update B2 storage chunking parameters
 - [2022-08-01T14:10:28] Refactor worker polling logic
 - [2022-08-01T16:35:19] Update documentation and architectural guides
+- [2022-08-01T13:55:56] Add Redis rate limit backoff handlers
