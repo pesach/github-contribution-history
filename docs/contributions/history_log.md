@@ -28219,3 +28219,4 @@
 - [2022-08-01T14:10:28] Refactor worker polling logic
 - [2022-08-01T16:35:19] Update documentation and architectural guides
 - [2022-08-01T13:55:56] Add Redis rate limit backoff handlers
+- [2022-08-01T14:54:12] Fix edge case in URL parsing and validation
