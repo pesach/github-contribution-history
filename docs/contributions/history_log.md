@@ -28230,3 +28230,4 @@
 - [2022-08-02T10:36:28] Update documentation and architectural guides
 - [2022-08-02T22:40:19] Add error handling for yt-dlp rate limits
 - [2022-08-02T08:30:23] Enhance dashboard statistics rendering
+- [2022-08-02T15:32:09] Refactor worker polling logic
