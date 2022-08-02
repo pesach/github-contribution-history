@@ -28232,3 +28232,4 @@
 - [2022-08-02T08:30:23] Enhance dashboard statistics rendering
 - [2022-08-02T15:32:09] Refactor worker polling logic
 - [2022-08-02T17:22:15] Improve logging and health endpoint metrics
+- [2022-08-02T08:09:51] Update schema migration helpers
