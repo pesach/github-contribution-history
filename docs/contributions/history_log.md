@@ -28228,3 +28228,4 @@
 - [2022-08-02T21:11:25] Add retries for transient network drops
 - [2022-08-02T12:01:34] Refactor storage upload retry mechanism
 - [2022-08-02T10:36:28] Update documentation and architectural guides
+- [2022-08-02T22:40:19] Add error handling for yt-dlp rate limits
