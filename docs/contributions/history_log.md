@@ -28240,3 +28240,4 @@
 - [2022-08-03T08:58:50] Improve ffmpeg streaming pipe buffer management
 - [2022-08-03T20:06:41] Fix edge case in URL parsing and validation
 - [2022-08-03T08:32:46] Implement streaming upload chunk buffer optimization
+- [2022-08-03T15:54:22] Add error handling for yt-dlp rate limits
