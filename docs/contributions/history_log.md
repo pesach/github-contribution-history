@@ -28244,3 +28244,4 @@
 - [2022-08-04T12:13:53] Update documentation and architectural guides
 - [2022-08-04T20:29:51] Improve ffmpeg streaming pipe buffer management
 - [2022-08-04T14:28:19] Enhance dashboard statistics rendering
+- [2022-08-04T13:35:35] Add Redis rate limit backoff handlers
