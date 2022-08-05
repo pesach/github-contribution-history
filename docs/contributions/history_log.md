@@ -28256,3 +28256,4 @@
 - [2022-08-05T09:54:23] Update dependency lockfiles and requirements
 - [2022-08-05T12:26:05] Refactor worker polling logic
 - [2022-08-05T12:14:25] Refactor worker polling logic
+- [2022-08-05T11:23:38] Clean up legacy worker task routines
