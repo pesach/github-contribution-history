@@ -28260,3 +28260,4 @@
 - [2022-08-05T14:21:17] Update B2 storage chunking parameters
 - [2022-08-06T11:49:04] Optimize PostgreSQL query execution plans
 - [2022-08-06T13:26:57] Add retries for transient network drops
+- [2022-08-06T18:38:27] Add error handling for yt-dlp rate limits
