@@ -28276,3 +28276,4 @@
 - [2022-08-08T13:46:23] Add error handling for yt-dlp rate limits
 - [2022-08-08T19:45:37] Update dependency lockfiles and requirements
 - [2022-08-08T13:40:41] Update schema migration helpers
+- [2022-08-08T09:48:14] Update schema migration helpers
