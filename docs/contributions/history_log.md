@@ -28274,3 +28274,4 @@
 - [2022-08-08T08:39:51] Refactor cookie refresher probe logic
 - [2022-08-08T15:46:43] Update schema migration helpers
 - [2022-08-08T13:46:23] Add error handling for yt-dlp rate limits
+- [2022-08-08T19:45:37] Update dependency lockfiles and requirements
