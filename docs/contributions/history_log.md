@@ -28271,3 +28271,4 @@
 - [2022-08-08T13:29:09] Add retries for transient network drops
 - [2022-08-08T13:31:31] Refactor worker polling logic
 - [2022-08-08T10:47:27] Update schema migration helpers
+- [2022-08-08T08:39:51] Refactor cookie refresher probe logic
