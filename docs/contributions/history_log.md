@@ -28307,3 +28307,4 @@
 - [2022-08-12T22:00:55] Improve ffmpeg streaming pipe buffer management
 - [2022-08-12T20:21:54] Update automated pytest test suites
 - [2022-08-12T18:57:03] Refactor worker polling logic
+- [2022-08-12T14:38:28] Add Redis rate limit backoff handlers
