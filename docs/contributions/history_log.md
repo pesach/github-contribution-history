@@ -28306,3 +28306,4 @@
 - [2022-08-12T14:43:41] Add Prometheus exporter endpoints for queue length
 - [2022-08-12T22:00:55] Improve ffmpeg streaming pipe buffer management
 - [2022-08-12T20:21:54] Update automated pytest test suites
+- [2022-08-12T18:57:03] Refactor worker polling logic
