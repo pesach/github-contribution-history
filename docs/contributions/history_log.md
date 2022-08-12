@@ -28301,3 +28301,4 @@
 - [2022-08-11T13:31:15] Clean up legacy worker task routines
 - [2022-08-11T12:15:13] Enhance dashboard statistics rendering
 - [2022-08-11T17:32:49] Update B2 storage chunking parameters
+- [2022-08-11T20:28:54] Add error handling for yt-dlp rate limits
