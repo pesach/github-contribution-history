@@ -28319,3 +28319,4 @@
 - [2022-08-15T14:24:30] Update dependency lockfiles and requirements
 - [2022-08-15T12:07:00] Update automated pytest test suites
 - [2022-08-15T09:38:14] Add Prometheus exporter endpoints for queue length
+- [2022-08-15T19:48:59] Add Redis rate limit backoff handlers
