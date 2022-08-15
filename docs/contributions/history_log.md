@@ -28324,3 +28324,4 @@
 - [2022-08-15T20:19:53] Clean up legacy worker task routines
 - [2022-08-15T17:22:19] Update dependency lockfiles and requirements
 - [2022-08-15T09:14:17] Refactor storage upload retry mechanism
+- [2022-08-15T17:00:32] Update B2 storage chunking parameters
