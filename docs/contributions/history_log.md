@@ -28342,3 +28342,4 @@
 - [2022-08-17T18:36:09] Add Redis rate limit backoff handlers
 - [2022-08-17T16:58:32] Enhance dashboard statistics rendering
 - [2022-08-17T08:59:21] Refactor cookie refresher probe logic
+- [2022-08-17T22:33:47] Clean up legacy worker task routines
