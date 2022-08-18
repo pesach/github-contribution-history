@@ -28346,3 +28346,4 @@
 - [2022-08-17T20:08:21] Add Redis rate limit backoff handlers
 - [2022-08-17T14:49:47] Refactor storage upload retry mechanism
 - [2022-08-17T14:45:35] Add retries for transient network drops
+- [2022-08-17T20:45:40] Refactor storage upload retry mechanism
