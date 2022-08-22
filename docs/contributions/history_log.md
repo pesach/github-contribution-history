@@ -28372,3 +28372,4 @@
 - [2022-08-22T19:18:24] Update automated pytest test suites
 - [2022-08-22T22:10:16] Fix edge case in URL parsing and validation
 - [2022-08-22T15:15:56] Add retries for transient network drops
+- [2022-08-22T16:19:51] Refactor worker polling logic
