@@ -28386,3 +28386,4 @@
 - [2022-08-23T21:32:26] Improve logging and health endpoint metrics
 - [2022-08-23T14:47:05] Refactor cookie refresher probe logic
 - [2022-08-23T14:26:47] Refactor storage upload retry mechanism
+- [2022-08-23T12:21:36] Refactor cookie refresher probe logic
