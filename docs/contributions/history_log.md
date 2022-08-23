@@ -28370,3 +28370,4 @@
 - [2022-08-21T21:52:10] Enhance dashboard statistics rendering
 - [2022-08-21T18:06:43] Add Prometheus exporter endpoints for queue length
 - [2022-08-22T19:18:24] Update automated pytest test suites
+- [2022-08-22T22:10:16] Fix edge case in URL parsing and validation
