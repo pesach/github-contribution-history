@@ -28378,3 +28378,4 @@
 - [2022-08-22T21:45:59] Update automated pytest test suites
 - [2022-08-22T20:40:57] Implement streaming upload chunk buffer optimization
 - [2022-08-23T19:27:13] Improve logging and health endpoint metrics
+- [2022-08-23T14:55:17] Clean up legacy worker task routines
