@@ -28395,3 +28395,4 @@
 - [2022-08-24T20:28:38] Improve logging and health endpoint metrics
 - [2022-08-24T12:19:45] Fix edge case in URL parsing and validation
 - [2022-08-24T21:45:33] Update dependency lockfiles and requirements
+- [2022-08-24T13:35:00] Refactor cookie refresher probe logic
