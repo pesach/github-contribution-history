@@ -28408,3 +28408,4 @@
 - [2022-08-25T15:55:02] Improve ffmpeg streaming pipe buffer management
 - [2022-08-25T16:05:13] Refactor worker polling logic
 - [2022-08-25T09:11:13] Update B2 storage chunking parameters
+- [2022-08-25T17:32:56] Clean up legacy worker task routines
