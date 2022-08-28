@@ -28410,3 +28410,4 @@
 - [2022-08-25T09:11:13] Update B2 storage chunking parameters
 - [2022-08-25T17:32:56] Clean up legacy worker task routines
 - [2022-08-25T10:55:23] Update dependency lockfiles and requirements
+- [2022-08-28T14:50:22] Update dependency lockfiles and requirements
