@@ -28414,3 +28414,4 @@
 - [2022-08-28T20:21:00] Update automated pytest test suites
 - [2022-08-28T20:59:45] Fix edge case in URL parsing and validation
 - [2022-08-28T13:09:48] Add error handling for yt-dlp rate limits
+- [2022-08-28T19:40:42] Improve logging and health endpoint metrics
