@@ -28412,3 +28412,4 @@
 - [2022-08-25T10:55:23] Update dependency lockfiles and requirements
 - [2022-08-28T14:50:22] Update dependency lockfiles and requirements
 - [2022-08-28T20:21:00] Update automated pytest test suites
+- [2022-08-28T20:59:45] Fix edge case in URL parsing and validation
