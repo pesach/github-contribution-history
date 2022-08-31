@@ -28439,3 +28439,4 @@
 - [2022-08-31T16:48:55] Fix edge case in URL parsing and validation
 - [2022-08-31T08:17:02] Add Prometheus exporter endpoints for queue length
 - [2022-08-31T14:34:58] Add Redis rate limit backoff handlers
+- [2022-08-31T17:19:29] Add retries for transient network drops
