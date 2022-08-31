@@ -28430,3 +28430,4 @@
 - [2022-08-30T12:36:13] Add retries for transient network drops
 - [2022-08-30T22:19:34] Add Prometheus exporter endpoints for queue length
 - [2022-08-30T09:41:34] Update B2 storage chunking parameters
+- [2022-08-30T21:57:30] Add Redis rate limit backoff handlers
