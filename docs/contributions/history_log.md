@@ -28438,3 +28438,4 @@
 - [2022-08-31T09:54:50] Update automated pytest test suites
 - [2022-08-31T16:48:55] Fix edge case in URL parsing and validation
 - [2022-08-31T08:17:02] Add Prometheus exporter endpoints for queue length
+- [2022-08-31T14:34:58] Add Redis rate limit backoff handlers
