@@ -28453,3 +28453,4 @@
 - [2022-09-01T20:29:33] Fix edge case in URL parsing and validation
 - [2022-09-01T11:31:49] Update documentation and architectural guides
 - [2022-09-01T21:57:47] Clean up legacy worker task routines
+- [2022-09-01T16:17:30] Update schema migration helpers
