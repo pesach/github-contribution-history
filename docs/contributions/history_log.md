@@ -28449,3 +28449,4 @@
 - [2022-09-01T22:02:30] Improve ffmpeg streaming pipe buffer management
 - [2022-09-01T22:25:26] Clean up legacy worker task routines
 - [2022-09-01T18:09:15] Add Prometheus exporter endpoints for queue length
+- [2022-09-01T21:13:16] Add retries for transient network drops
