@@ -28465,3 +28465,4 @@
 - [2022-09-02T15:38:40] Enhance dashboard statistics rendering
 - [2022-09-02T19:44:37] Update documentation and architectural guides
 - [2022-09-02T12:55:56] Improve ffmpeg streaming pipe buffer management
+- [2022-09-02T15:38:25] Clean up legacy worker task routines
