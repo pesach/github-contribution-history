@@ -28464,3 +28464,4 @@
 - [2022-09-02T20:24:16] Fix edge case in channel tab crawler
 - [2022-09-02T15:38:40] Enhance dashboard statistics rendering
 - [2022-09-02T19:44:37] Update documentation and architectural guides
+- [2022-09-02T12:55:56] Improve ffmpeg streaming pipe buffer management
