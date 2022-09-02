@@ -28456,3 +28456,4 @@
 - [2022-09-01T16:17:30] Update schema migration helpers
 - [2022-09-02T16:50:28] Optimize PostgreSQL query execution plans
 - [2022-09-02T08:30:08] Improve ffmpeg streaming pipe buffer management
+- [2022-09-02T16:42:01] Fix edge case in channel tab crawler
