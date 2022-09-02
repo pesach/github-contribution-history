@@ -28447,3 +28447,4 @@
 - [2022-08-31T21:33:46] Update documentation and architectural guides
 - [2022-08-31T14:15:42] Improve logging and health endpoint metrics
 - [2022-09-01T22:02:30] Improve ffmpeg streaming pipe buffer management
+- [2022-09-01T22:25:26] Clean up legacy worker task routines
