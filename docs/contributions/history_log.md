@@ -28483,3 +28483,4 @@
 - [2022-09-05T14:36:52] Fix edge case in URL parsing and validation
 - [2022-09-05T20:23:55] Clean up legacy worker task routines
 - [2022-09-05T20:13:55] Improve ffmpeg streaming pipe buffer management
+- [2022-09-06T13:04:13] Refactor worker polling logic
