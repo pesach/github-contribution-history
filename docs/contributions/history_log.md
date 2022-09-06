@@ -28486,3 +28486,4 @@
 - [2022-09-06T13:04:13] Refactor worker polling logic
 - [2022-09-06T10:16:10] Clean up legacy worker task routines
 - [2022-09-06T17:22:54] Fix edge case in channel tab crawler
+- [2022-09-06T14:56:43] Add error handling for yt-dlp rate limits
