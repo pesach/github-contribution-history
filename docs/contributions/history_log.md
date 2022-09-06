@@ -28484,3 +28484,4 @@
 - [2022-09-05T20:23:55] Clean up legacy worker task routines
 - [2022-09-05T20:13:55] Improve ffmpeg streaming pipe buffer management
 - [2022-09-06T13:04:13] Refactor worker polling logic
+- [2022-09-06T10:16:10] Clean up legacy worker task routines
