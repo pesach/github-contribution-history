@@ -28500,3 +28500,4 @@
 - [2022-09-07T09:11:33] Add error handling for yt-dlp rate limits
 - [2022-09-07T09:54:23] Update schema migration helpers
 - [2022-09-07T21:52:36] Implement streaming upload chunk buffer optimization
+- [2022-09-07T16:32:27] Improve ffmpeg streaming pipe buffer management
