@@ -28498,3 +28498,4 @@
 - [2022-09-07T08:00:26] Refactor worker polling logic
 - [2022-09-07T08:10:37] Add Prometheus exporter endpoints for queue length
 - [2022-09-07T09:11:33] Add error handling for yt-dlp rate limits
+- [2022-09-07T09:54:23] Update schema migration helpers
