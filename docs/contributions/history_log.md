@@ -28516,3 +28516,4 @@
 - [2022-09-08T14:23:47] Update automated pytest test suites
 - [2022-09-08T21:11:41] Improve ffmpeg streaming pipe buffer management
 - [2022-09-09T21:23:59] Update automated pytest test suites
+- [2022-09-09T09:19:56] Fix edge case in URL parsing and validation
