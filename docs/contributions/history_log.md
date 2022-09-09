@@ -28520,3 +28520,4 @@
 - [2022-09-09T14:48:52] Improve ffmpeg streaming pipe buffer management
 - [2022-09-09T18:32:06] Update dependency lockfiles and requirements
 - [2022-09-09T17:14:23] Optimize PostgreSQL query execution plans
+- [2022-09-09T11:45:10] Refactor worker polling logic
