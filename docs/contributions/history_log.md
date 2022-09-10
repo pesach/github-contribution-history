@@ -28522,3 +28522,4 @@
 - [2022-09-09T17:14:23] Optimize PostgreSQL query execution plans
 - [2022-09-09T11:45:10] Refactor worker polling logic
 - [2022-09-10T18:32:46] Improve ffmpeg streaming pipe buffer management
+- [2022-09-10T18:04:15] Add error handling for yt-dlp rate limits
