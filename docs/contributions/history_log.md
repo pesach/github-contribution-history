@@ -28546,3 +28546,4 @@
 - [2022-09-13T22:06:43] Update documentation and architectural guides
 - [2022-09-13T13:49:31] Refactor worker polling logic
 - [2022-09-13T17:29:34] Update schema migration helpers
+- [2022-09-13T18:02:16] Add Redis rate limit backoff handlers
