@@ -28537,3 +28537,4 @@
 - [2022-09-12T16:09:48] Update B2 storage chunking parameters
 - [2022-09-12T08:40:31] Optimize PostgreSQL query execution plans
 - [2022-09-12T16:15:10] Update documentation and architectural guides
+- [2022-09-13T19:58:35] Fix edge case in URL parsing and validation
