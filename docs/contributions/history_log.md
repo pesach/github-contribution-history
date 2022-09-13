@@ -28545,3 +28545,4 @@
 - [2022-09-13T13:15:31] Add retries for transient network drops
 - [2022-09-13T22:06:43] Update documentation and architectural guides
 - [2022-09-13T13:49:31] Refactor worker polling logic
+- [2022-09-13T17:29:34] Update schema migration helpers
