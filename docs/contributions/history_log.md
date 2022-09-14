@@ -28549,3 +28549,4 @@
 - [2022-09-13T18:02:16] Add Redis rate limit backoff handlers
 - [2022-09-13T08:07:39] Update automated pytest test suites
 - [2022-09-14T13:41:51] Refactor storage upload retry mechanism
+- [2022-09-14T19:44:15] Fix edge case in channel tab crawler
