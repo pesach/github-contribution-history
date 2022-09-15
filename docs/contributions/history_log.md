@@ -28568,3 +28568,4 @@
 - [2022-09-15T22:48:19] Update documentation and architectural guides
 - [2022-09-15T08:45:55] Refactor worker polling logic
 - [2022-09-15T20:49:53] Refactor cookie refresher probe logic
+- [2022-09-15T19:58:56] Fix edge case in URL parsing and validation
