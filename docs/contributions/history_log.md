@@ -28576,3 +28576,4 @@
 - [2022-09-15T12:15:14] Optimize PostgreSQL query execution plans
 - [2022-09-16T15:53:39] Add Redis rate limit backoff handlers
 - [2022-09-16T21:43:38] Improve ffmpeg streaming pipe buffer management
+- [2022-09-16T19:00:45] Update schema migration helpers
