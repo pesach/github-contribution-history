@@ -28579,3 +28579,4 @@
 - [2022-09-16T19:00:45] Update schema migration helpers
 - [2022-09-16T16:43:59] Refactor storage upload retry mechanism
 - [2022-09-16T14:34:58] Fix edge case in URL parsing and validation
+- [2022-09-16T11:53:46] Improve logging and health endpoint metrics
