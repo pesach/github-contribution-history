@@ -28567,3 +28567,4 @@
 - [2022-09-15T17:46:20] Add retries for transient network drops
 - [2022-09-15T22:48:19] Update documentation and architectural guides
 - [2022-09-15T08:45:55] Refactor worker polling logic
+- [2022-09-15T20:49:53] Refactor cookie refresher probe logic
