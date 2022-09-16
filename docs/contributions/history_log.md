@@ -28578,3 +28578,4 @@
 - [2022-09-16T21:43:38] Improve ffmpeg streaming pipe buffer management
 - [2022-09-16T19:00:45] Update schema migration helpers
 - [2022-09-16T16:43:59] Refactor storage upload retry mechanism
+- [2022-09-16T14:34:58] Fix edge case in URL parsing and validation
