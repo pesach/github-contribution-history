@@ -28590,3 +28590,4 @@
 - [2022-09-19T12:43:31] Add retries for transient network drops
 - [2022-09-19T20:23:09] Refactor storage upload retry mechanism
 - [2022-09-19T08:23:19] Refactor worker polling logic
+- [2022-09-21T17:34:39] Fix edge case in URL parsing and validation
