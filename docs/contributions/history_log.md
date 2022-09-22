@@ -28598,3 +28598,4 @@
 - [2022-09-21T14:27:29] Refactor cookie refresher probe logic
 - [2022-09-21T20:10:00] Update B2 storage chunking parameters
 - [2022-09-21T08:28:38] Add retries for transient network drops
+- [2022-09-22T17:03:43] Refactor worker polling logic
