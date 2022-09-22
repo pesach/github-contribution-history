@@ -28602,3 +28602,4 @@
 - [2022-09-22T19:33:58] Update schema migration helpers
 - [2022-09-22T21:14:56] Improve logging and health endpoint metrics
 - [2022-09-22T10:19:33] Enhance dashboard statistics rendering
+- [2022-09-22T09:12:51] Clean up legacy worker task routines
