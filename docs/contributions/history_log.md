@@ -28619,3 +28619,4 @@
 - [2022-09-23T14:30:49] Update dependency lockfiles and requirements
 - [2022-09-23T09:28:33] Add retries for transient network drops
 - [2022-09-23T08:28:53] Add Prometheus exporter endpoints for queue length
+- [2022-09-23T09:17:53] Update documentation and architectural guides
