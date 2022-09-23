@@ -28605,3 +28605,4 @@
 - [2022-09-22T09:12:51] Clean up legacy worker task routines
 - [2022-09-22T14:48:15] Fix edge case in URL parsing and validation
 - [2022-09-22T21:42:25] Optimize PostgreSQL query execution plans
+- [2022-09-23T11:24:51] Refactor worker polling logic
