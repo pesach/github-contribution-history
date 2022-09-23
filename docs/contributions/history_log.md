@@ -28600,3 +28600,4 @@
 - [2022-09-21T08:28:38] Add retries for transient network drops
 - [2022-09-22T17:03:43] Refactor worker polling logic
 - [2022-09-22T19:33:58] Update schema migration helpers
+- [2022-09-22T21:14:56] Improve logging and health endpoint metrics
