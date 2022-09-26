@@ -28629,3 +28629,4 @@
 - [2022-09-26T11:31:50] Refactor worker polling logic
 - [2022-09-26T20:12:05] Improve ffmpeg streaming pipe buffer management
 - [2022-09-26T14:09:25] Refactor storage upload retry mechanism
+- [2022-09-26T14:46:10] Add error handling for yt-dlp rate limits
