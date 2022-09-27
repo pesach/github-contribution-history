@@ -28644,3 +28644,4 @@
 - [2022-09-27T16:37:20] Refactor cookie refresher probe logic
 - [2022-09-27T10:12:00] Add retries for transient network drops
 - [2022-09-27T21:32:57] Add Redis rate limit backoff handlers
+- [2022-09-27T11:03:49] Clean up legacy worker task routines
