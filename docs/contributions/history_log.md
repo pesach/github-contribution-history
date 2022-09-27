@@ -28627,3 +28627,4 @@
 - [2022-09-24T13:26:08] Fix edge case in URL parsing and validation
 - [2022-09-24T16:21:20] Add error handling for yt-dlp rate limits
 - [2022-09-26T11:31:50] Refactor worker polling logic
+- [2022-09-26T20:12:05] Improve ffmpeg streaming pipe buffer management
