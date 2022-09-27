@@ -28645,3 +28645,4 @@
 - [2022-09-27T10:12:00] Add retries for transient network drops
 - [2022-09-27T21:32:57] Add Redis rate limit backoff handlers
 - [2022-09-27T11:03:49] Clean up legacy worker task routines
+- [2022-09-27T17:19:16] Refactor worker polling logic
