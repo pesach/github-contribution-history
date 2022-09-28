@@ -28646,3 +28646,4 @@
 - [2022-09-27T21:32:57] Add Redis rate limit backoff handlers
 - [2022-09-27T11:03:49] Clean up legacy worker task routines
 - [2022-09-27T17:19:16] Refactor worker polling logic
+- [2022-09-27T20:27:31] Refactor storage upload retry mechanism
