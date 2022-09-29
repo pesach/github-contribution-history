@@ -28656,3 +28656,4 @@
 - [2022-09-29T09:50:06] Enhance dashboard statistics rendering
 - [2022-09-29T16:27:20] Update dependency lockfiles and requirements
 - [2022-09-29T19:45:39] Fix edge case in channel tab crawler
+- [2022-09-29T11:02:54] Fix edge case in URL parsing and validation
