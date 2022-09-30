@@ -28664,3 +28664,4 @@
 - [2022-09-29T15:19:24] Add error handling for yt-dlp rate limits
 - [2022-09-29T15:50:17] Update dependency lockfiles and requirements
 - [2022-09-30T14:00:46] Add error handling for yt-dlp rate limits
+- [2022-09-30T14:45:53] Optimize PostgreSQL query execution plans
