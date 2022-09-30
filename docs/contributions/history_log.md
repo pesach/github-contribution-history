@@ -28668,3 +28668,4 @@
 - [2022-09-30T09:00:31] Fix edge case in channel tab crawler
 - [2022-09-30T17:12:40] Enhance dashboard statistics rendering
 - [2022-09-30T08:22:03] Refactor cookie refresher probe logic
+- [2022-09-30T09:28:09] Update schema migration helpers
