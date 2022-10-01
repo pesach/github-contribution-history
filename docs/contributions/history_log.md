@@ -28682,3 +28682,4 @@
 - [2022-10-01T14:35:57] Update automated pytest test suites
 - [2022-10-01T21:39:01] Refactor storage upload retry mechanism
 - [2022-10-01T11:29:46] Refactor worker polling logic
+- [2022-10-01T16:24:59] Clean up legacy worker task routines
