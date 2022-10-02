@@ -28686,3 +28686,4 @@
 - [2022-10-02T22:00:12] Fix edge case in URL parsing and validation
 - [2022-10-02T22:46:32] Optimize PostgreSQL query execution plans
 - [2022-10-02T10:33:57] Improve logging and health endpoint metrics
+- [2022-10-02T15:01:20] Add Redis rate limit backoff handlers
