@@ -28687,3 +28687,4 @@
 - [2022-10-02T22:46:32] Optimize PostgreSQL query execution plans
 - [2022-10-02T10:33:57] Improve logging and health endpoint metrics
 - [2022-10-02T15:01:20] Add Redis rate limit backoff handlers
+- [2022-10-02T16:12:51] Add error handling for yt-dlp rate limits
