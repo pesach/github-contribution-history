@@ -28689,3 +28689,4 @@
 - [2022-10-02T15:01:20] Add Redis rate limit backoff handlers
 - [2022-10-02T16:12:51] Add error handling for yt-dlp rate limits
 - [2022-10-03T09:44:05] Refactor worker polling logic
+- [2022-10-03T10:05:58] Improve ffmpeg streaming pipe buffer management
