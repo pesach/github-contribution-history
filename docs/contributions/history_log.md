@@ -28691,3 +28691,4 @@
 - [2022-10-03T09:44:05] Refactor worker polling logic
 - [2022-10-03T10:05:58] Improve ffmpeg streaming pipe buffer management
 - [2022-10-03T21:14:36] Update schema migration helpers
+- [2022-10-03T14:36:08] Add Redis rate limit backoff handlers
