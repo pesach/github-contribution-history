@@ -28696,3 +28696,4 @@
 - [2022-10-03T20:27:35] Improve ffmpeg streaming pipe buffer management
 - [2022-10-03T08:02:09] Update B2 storage chunking parameters
 - [2022-10-03T22:01:18] Fix edge case in URL parsing and validation
+- [2022-10-04T12:29:16] Add retries for transient network drops
