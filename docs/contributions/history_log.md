@@ -28699,3 +28699,4 @@
 - [2022-10-04T12:29:16] Add retries for transient network drops
 - [2022-10-04T15:19:16] Update schema migration helpers
 - [2022-10-04T21:18:52] Refactor cookie refresher probe logic
+- [2022-10-04T12:38:41] Fix edge case in channel tab crawler
