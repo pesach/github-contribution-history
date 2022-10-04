@@ -28693,3 +28693,4 @@
 - [2022-10-03T21:14:36] Update schema migration helpers
 - [2022-10-03T14:36:08] Add Redis rate limit backoff handlers
 - [2022-10-03T17:43:00] Add error handling for yt-dlp rate limits
+- [2022-10-03T20:27:35] Improve ffmpeg streaming pipe buffer management
