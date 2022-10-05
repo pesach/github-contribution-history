@@ -28722,3 +28722,4 @@
 - [2022-10-05T09:37:32] Improve logging and health endpoint metrics
 - [2022-10-05T21:56:33] Update dependency lockfiles and requirements
 - [2022-10-05T15:17:59] Clean up legacy worker task routines
+- [2022-10-05T14:23:29] Refactor storage upload retry mechanism
