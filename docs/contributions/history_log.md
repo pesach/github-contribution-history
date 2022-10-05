@@ -28715,3 +28715,4 @@
 - [2022-10-05T10:50:31] Implement streaming upload chunk buffer optimization
 - [2022-10-05T15:05:16] Add retries for transient network drops
 - [2022-10-05T17:52:39] Update schema migration helpers
+- [2022-10-05T11:03:25] Refactor cookie refresher probe logic
