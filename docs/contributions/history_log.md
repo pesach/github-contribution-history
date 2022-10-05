@@ -28700,3 +28700,4 @@
 - [2022-10-04T15:19:16] Update schema migration helpers
 - [2022-10-04T21:18:52] Refactor cookie refresher probe logic
 - [2022-10-04T12:38:41] Fix edge case in channel tab crawler
+- [2022-10-04T22:13:24] Add error handling for yt-dlp rate limits
