@@ -28731,3 +28731,4 @@
 - [2022-10-06T08:35:31] Fix edge case in URL parsing and validation
 - [2022-10-06T12:11:39] Refactor worker polling logic
 - [2022-10-06T09:02:41] Update schema migration helpers
+- [2022-10-06T12:17:18] Clean up legacy worker task routines
