@@ -28724,3 +28724,4 @@
 - [2022-10-05T15:17:59] Clean up legacy worker task routines
 - [2022-10-05T14:23:29] Refactor storage upload retry mechanism
 - [2022-10-05T14:08:12] Refactor storage upload retry mechanism
+- [2022-10-06T11:24:01] Add retries for transient network drops
