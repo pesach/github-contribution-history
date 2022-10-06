@@ -28735,3 +28735,4 @@
 - [2022-10-06T21:45:43] Update dependency lockfiles and requirements
 - [2022-10-06T17:01:33] Improve ffmpeg streaming pipe buffer management
 - [2022-10-06T20:29:18] Refactor worker polling logic
+- [2022-10-06T12:47:06] Improve ffmpeg streaming pipe buffer management
