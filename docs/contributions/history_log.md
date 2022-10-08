@@ -28742,3 +28742,4 @@
 - [2022-10-07T09:18:03] Update automated pytest test suites
 - [2022-10-07T11:56:14] Add Prometheus exporter endpoints for queue length
 - [2022-10-07T20:09:19] Clean up legacy worker task routines
+- [2022-10-07T21:23:09] Refactor storage upload retry mechanism
