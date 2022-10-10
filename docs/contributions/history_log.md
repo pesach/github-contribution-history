@@ -28750,3 +28750,4 @@
 - [2022-10-08T10:31:44] Enhance dashboard statistics rendering
 - [2022-10-08T16:23:46] Update documentation and architectural guides
 - [2022-10-10T22:34:15] Fix edge case in URL parsing and validation
+- [2022-10-10T14:03:53] Update schema migration helpers
