@@ -28770,3 +28770,4 @@
 - [2022-10-11T11:07:56] Update schema migration helpers
 - [2022-10-11T11:40:08] Optimize PostgreSQL query execution plans
 - [2022-10-12T10:43:58] Update automated pytest test suites
+- [2022-10-12T09:29:27] Fix edge case in URL parsing and validation
