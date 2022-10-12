@@ -28758,3 +28758,4 @@
 - [2022-10-10T15:43:27] Refactor worker polling logic
 - [2022-10-11T11:15:28] Implement streaming upload chunk buffer optimization
 - [2022-10-11T11:55:01] Update documentation and architectural guides
+- [2022-10-11T21:00:33] Update schema migration helpers
