@@ -28775,3 +28775,4 @@
 - [2022-10-12T18:45:28] Add retries for transient network drops
 - [2022-10-12T08:16:58] Add retries for transient network drops
 - [2022-10-12T19:51:05] Add retries for transient network drops
+- [2022-10-12T19:44:50] Fix edge case in URL parsing and validation
