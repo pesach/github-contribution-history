@@ -28785,3 +28785,4 @@
 - [2022-10-13T22:43:50] Add Prometheus exporter endpoints for queue length
 - [2022-10-13T15:11:20] Optimize PostgreSQL query execution plans
 - [2022-10-13T16:43:05] Update dependency lockfiles and requirements
+- [2022-10-13T09:57:30] Add error handling for yt-dlp rate limits
