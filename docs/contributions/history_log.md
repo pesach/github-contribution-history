@@ -28798,3 +28798,4 @@
 - [2022-10-14T12:18:47] Refactor worker polling logic
 - [2022-10-14T17:39:49] Clean up legacy worker task routines
 - [2022-10-14T13:17:37] Fix edge case in channel tab crawler
+- [2022-10-14T19:49:18] Add Prometheus exporter endpoints for queue length
