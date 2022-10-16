@@ -28808,3 +28808,4 @@
 - [2022-10-15T15:23:08] Implement streaming upload chunk buffer optimization
 - [2022-10-15T19:21:41] Improve ffmpeg streaming pipe buffer management
 - [2022-10-15T15:55:51] Enhance dashboard statistics rendering
+- [2022-10-16T08:19:54] Add Prometheus exporter endpoints for queue length
