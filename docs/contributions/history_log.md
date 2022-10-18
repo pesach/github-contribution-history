@@ -28818,3 +28818,4 @@
 - [2022-10-17T19:56:35] Improve logging and health endpoint metrics
 - [2022-10-17T15:45:39] Enhance dashboard statistics rendering
 - [2022-10-17T08:04:31] Implement streaming upload chunk buffer optimization
+- [2022-10-18T11:59:19] Add error handling for yt-dlp rate limits
