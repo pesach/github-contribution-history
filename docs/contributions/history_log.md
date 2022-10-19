@@ -28831,3 +28831,4 @@
 - [2022-10-19T10:22:55] Fix edge case in URL parsing and validation
 - [2022-10-19T13:53:30] Update documentation and architectural guides
 - [2022-10-19T17:00:16] Optimize PostgreSQL query execution plans
+- [2022-10-19T16:33:59] Add error handling for yt-dlp rate limits
