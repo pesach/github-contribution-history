@@ -28838,3 +28838,4 @@
 - [2022-10-20T21:51:22] Refactor cookie refresher probe logic
 - [2022-10-20T12:06:37] Add Redis rate limit backoff handlers
 - [2022-10-20T18:37:18] Refactor storage upload retry mechanism
+- [2022-10-20T20:54:49] Fix edge case in URL parsing and validation
