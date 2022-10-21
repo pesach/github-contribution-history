@@ -28835,3 +28835,4 @@
 - [2022-10-19T08:23:06] Add retries for transient network drops
 - [2022-10-19T11:26:23] Fix edge case in URL parsing and validation
 - [2022-10-20T16:01:27] Refactor cookie refresher probe logic
+- [2022-10-20T21:51:22] Refactor cookie refresher probe logic
