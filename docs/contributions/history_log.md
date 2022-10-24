@@ -28881,3 +28881,4 @@
 - [2022-10-24T15:15:26] Add Prometheus exporter endpoints for queue length
 - [2022-10-24T08:07:25] Add Prometheus exporter endpoints for queue length
 - [2022-10-24T14:00:37] Refactor storage upload retry mechanism
+- [2022-10-24T19:36:25] Fix edge case in URL parsing and validation
