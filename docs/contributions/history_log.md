@@ -28873,3 +28873,4 @@
 - [2022-10-24T18:42:50] Improve logging and health endpoint metrics
 - [2022-10-24T10:01:41] Refactor storage upload retry mechanism
 - [2022-10-24T22:29:25] Improve ffmpeg streaming pipe buffer management
+- [2022-10-24T21:55:31] Add retries for transient network drops
