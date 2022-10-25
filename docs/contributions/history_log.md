@@ -28872,3 +28872,4 @@
 - [2022-10-23T15:32:16] Update automated pytest test suites
 - [2022-10-24T18:42:50] Improve logging and health endpoint metrics
 - [2022-10-24T10:01:41] Refactor storage upload retry mechanism
+- [2022-10-24T22:29:25] Improve ffmpeg streaming pipe buffer management
