@@ -28911,3 +28911,4 @@
 - [2022-10-27T17:01:06] Fix edge case in URL parsing and validation
 - [2022-10-27T15:24:03] Update dependency lockfiles and requirements
 - [2022-10-27T12:56:42] Improve logging and health endpoint metrics
+- [2022-10-27T14:19:33] Add error handling for yt-dlp rate limits
