@@ -28908,3 +28908,4 @@
 - [2022-10-27T21:48:08] Update dependency lockfiles and requirements
 - [2022-10-27T16:48:00] Fix edge case in URL parsing and validation
 - [2022-10-27T13:38:09] Add Prometheus exporter endpoints for queue length
+- [2022-10-27T17:01:06] Fix edge case in URL parsing and validation
