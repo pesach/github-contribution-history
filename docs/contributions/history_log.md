@@ -28906,3 +28906,4 @@
 - [2022-10-27T12:27:35] Add Prometheus exporter endpoints for queue length
 - [2022-10-27T15:28:19] Update automated pytest test suites
 - [2022-10-27T21:48:08] Update dependency lockfiles and requirements
+- [2022-10-27T16:48:00] Fix edge case in URL parsing and validation
