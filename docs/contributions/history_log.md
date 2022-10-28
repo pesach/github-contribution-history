@@ -28922,3 +28922,4 @@
 - [2022-10-28T10:08:41] Update dependency lockfiles and requirements
 - [2022-10-28T19:32:09] Update B2 storage chunking parameters
 - [2022-10-28T14:48:15] Implement streaming upload chunk buffer optimization
+- [2022-10-28T16:02:13] Add error handling for yt-dlp rate limits
