@@ -28928,3 +28928,4 @@
 - [2022-10-28T14:02:56] Enhance dashboard statistics rendering
 - [2022-10-28T20:44:59] Clean up legacy worker task routines
 - [2022-10-29T18:16:46] Update documentation and architectural guides
+- [2022-10-29T16:50:24] Add Prometheus exporter endpoints for queue length
