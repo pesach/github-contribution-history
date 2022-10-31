@@ -28931,3 +28931,4 @@
 - [2022-10-29T16:50:24] Add Prometheus exporter endpoints for queue length
 - [2022-10-29T09:39:28] Update dependency lockfiles and requirements
 - [2022-10-29T21:24:13] Update automated pytest test suites
+- [2022-10-31T10:12:03] Update B2 storage chunking parameters
