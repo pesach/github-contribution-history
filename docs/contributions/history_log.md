@@ -28942,3 +28942,4 @@
 - [2022-11-01T15:01:14] Implement streaming upload chunk buffer optimization
 - [2022-11-01T17:46:29] Update B2 storage chunking parameters
 - [2022-11-01T17:53:00] Enhance dashboard statistics rendering
+- [2022-11-01T13:46:45] Add Redis rate limit backoff handlers
