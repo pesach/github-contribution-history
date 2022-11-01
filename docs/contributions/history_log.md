@@ -28944,3 +28944,4 @@
 - [2022-11-01T17:53:00] Enhance dashboard statistics rendering
 - [2022-11-01T13:46:45] Add Redis rate limit backoff handlers
 - [2022-11-01T12:23:15] Add Prometheus exporter endpoints for queue length
+- [2022-11-01T19:40:47] Fix edge case in URL parsing and validation
