@@ -28948,3 +28948,4 @@
 - [2022-11-01T22:09:31] Update B2 storage chunking parameters
 - [2022-11-01T13:24:40] Improve ffmpeg streaming pipe buffer management
 - [2022-11-01T18:23:52] Update automated pytest test suites
+- [2022-11-01T09:40:40] Clean up legacy worker task routines
