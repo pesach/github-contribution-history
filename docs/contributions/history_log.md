@@ -28938,3 +28938,4 @@
 - [2022-10-31T15:09:19] Add retries for transient network drops
 - [2022-10-31T21:12:35] Update documentation and architectural guides
 - [2022-10-31T21:50:14] Fix edge case in channel tab crawler
+- [2022-11-01T22:42:19] Fix edge case in URL parsing and validation
