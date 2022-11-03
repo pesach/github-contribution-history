@@ -28966,3 +28966,4 @@
 - [2022-11-03T15:34:51] Update documentation and architectural guides
 - [2022-11-03T16:52:37] Update schema migration helpers
 - [2022-11-03T16:26:09] Update automated pytest test suites
+- [2022-11-03T11:02:15] Clean up legacy worker task routines
