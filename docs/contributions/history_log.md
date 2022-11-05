@@ -28984,3 +28984,4 @@
 - [2022-11-05T09:40:24] Add retries for transient network drops
 - [2022-11-05T11:25:29] Improve ffmpeg streaming pipe buffer management
 - [2022-11-05T09:20:49] Update automated pytest test suites
+- [2022-11-05T14:25:42] Improve logging and health endpoint metrics
