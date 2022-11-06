@@ -28980,3 +28980,4 @@
 - [2022-11-04T10:51:22] Add Prometheus exporter endpoints for queue length
 - [2022-11-04T12:52:44] Clean up legacy worker task routines
 - [2022-11-04T09:15:19] Add Redis rate limit backoff handlers
+- [2022-11-05T21:37:05] Update documentation and architectural guides
