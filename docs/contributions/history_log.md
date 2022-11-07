@@ -28989,3 +28989,4 @@
 - [2022-11-06T20:21:51] Enhance dashboard statistics rendering
 - [2022-11-06T17:13:51] Enhance dashboard statistics rendering
 - [2022-11-06T11:10:16] Improve logging and health endpoint metrics
+- [2022-11-07T09:23:37] Add Prometheus exporter endpoints for queue length
