@@ -28997,3 +28997,4 @@
 - [2022-11-07T10:32:50] Add retries for transient network drops
 - [2022-11-07T14:10:54] Refactor storage upload retry mechanism
 - [2022-11-08T16:59:39] Optimize PostgreSQL query execution plans
+- [2022-11-08T11:37:47] Clean up legacy worker task routines
