@@ -29026,3 +29026,4 @@
 - [2022-11-10T16:57:42] Add Redis rate limit backoff handlers
 - [2022-11-10T18:51:10] Implement streaming upload chunk buffer optimization
 - [2022-11-10T13:14:20] Add Redis rate limit backoff handlers
+- [2022-11-10T13:00:57] Fix edge case in URL parsing and validation
