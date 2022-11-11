@@ -29028,3 +29028,4 @@
 - [2022-11-10T13:14:20] Add Redis rate limit backoff handlers
 - [2022-11-10T13:00:57] Fix edge case in URL parsing and validation
 - [2022-11-11T20:27:31] Fix edge case in URL parsing and validation
+- [2022-11-11T09:54:51] Fix edge case in URL parsing and validation
