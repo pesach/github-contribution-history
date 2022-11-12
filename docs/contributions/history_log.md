@@ -29043,3 +29043,4 @@
 - [2022-11-11T15:23:36] Add Prometheus exporter endpoints for queue length
 - [2022-11-12T09:36:22] Optimize PostgreSQL query execution plans
 - [2022-11-12T15:29:23] Update B2 storage chunking parameters
+- [2022-11-12T12:04:59] Update schema migration helpers
