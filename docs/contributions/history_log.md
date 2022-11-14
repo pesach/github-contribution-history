@@ -29049,3 +29049,4 @@
 - [2022-11-14T13:15:29] Improve ffmpeg streaming pipe buffer management
 - [2022-11-14T14:47:49] Fix edge case in URL parsing and validation
 - [2022-11-14T08:19:37] Improve ffmpeg streaming pipe buffer management
+- [2022-11-14T09:35:34] Add Redis rate limit backoff handlers
