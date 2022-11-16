@@ -29066,3 +29066,4 @@
 - [2022-11-15T10:44:13] Update schema migration helpers
 - [2022-11-15T16:06:28] Update schema migration helpers
 - [2022-11-15T11:00:35] Optimize PostgreSQL query execution plans
+- [2022-11-16T16:01:05] Add error handling for yt-dlp rate limits
