@@ -29076,3 +29076,4 @@
 - [2022-11-16T10:46:55] Add error handling for yt-dlp rate limits
 - [2022-11-16T21:13:59] Refactor storage upload retry mechanism
 - [2022-11-16T16:22:26] Improve ffmpeg streaming pipe buffer management
+- [2022-11-16T13:21:33] Add error handling for yt-dlp rate limits
