@@ -29068,3 +29068,4 @@
 - [2022-11-15T11:00:35] Optimize PostgreSQL query execution plans
 - [2022-11-16T16:01:05] Add error handling for yt-dlp rate limits
 - [2022-11-16T21:15:28] Add Prometheus exporter endpoints for queue length
+- [2022-11-16T20:32:57] Clean up legacy worker task routines
