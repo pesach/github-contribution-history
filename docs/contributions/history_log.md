@@ -29084,3 +29084,4 @@
 - [2022-11-17T14:07:07] Improve ffmpeg streaming pipe buffer management
 - [2022-11-17T17:32:14] Fix edge case in channel tab crawler
 - [2022-11-17T11:29:29] Enhance dashboard statistics rendering
+- [2022-11-17T21:38:37] Add error handling for yt-dlp rate limits
