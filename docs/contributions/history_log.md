@@ -29094,3 +29094,4 @@
 - [2022-11-20T18:13:00] Improve logging and health endpoint metrics
 - [2022-11-20T08:43:23] Improve logging and health endpoint metrics
 - [2022-11-20T22:41:48] Fix edge case in URL parsing and validation
+- [2022-11-20T20:02:09] Refactor storage upload retry mechanism
