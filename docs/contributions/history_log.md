@@ -29106,3 +29106,4 @@
 - [2022-11-21T22:38:01] Update dependency lockfiles and requirements
 - [2022-11-21T20:44:22] Fix edge case in URL parsing and validation
 - [2022-11-21T19:47:57] Refactor cookie refresher probe logic
+- [2022-11-21T12:21:53] Add retries for transient network drops
