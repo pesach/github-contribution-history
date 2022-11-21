@@ -29099,3 +29099,4 @@
 - [2022-11-21T15:50:36] Add retries for transient network drops
 - [2022-11-21T15:35:51] Refactor cookie refresher probe logic
 - [2022-11-21T17:36:46] Clean up legacy worker task routines
+- [2022-11-21T12:58:20] Improve logging and health endpoint metrics
