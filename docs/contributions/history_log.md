@@ -29104,3 +29104,4 @@
 - [2022-11-21T18:24:51] Refactor cookie refresher probe logic
 - [2022-11-21T22:51:16] Improve logging and health endpoint metrics
 - [2022-11-21T22:38:01] Update dependency lockfiles and requirements
+- [2022-11-21T20:44:22] Fix edge case in URL parsing and validation
