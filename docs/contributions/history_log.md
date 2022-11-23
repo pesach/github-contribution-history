@@ -29127,3 +29127,4 @@
 - [2022-11-23T21:46:31] Improve ffmpeg streaming pipe buffer management
 - [2022-11-23T15:44:26] Update documentation and architectural guides
 - [2022-11-23T22:21:00] Update documentation and architectural guides
+- [2022-11-23T18:47:12] Add error handling for yt-dlp rate limits
