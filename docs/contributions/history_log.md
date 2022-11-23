@@ -29119,3 +29119,4 @@
 - [2022-11-22T09:00:27] Clean up legacy worker task routines
 - [2022-11-22T18:47:50] Update automated pytest test suites
 - [2022-11-22T18:54:28] Add retries for transient network drops
+- [2022-11-23T15:02:20] Add error handling for yt-dlp rate limits
