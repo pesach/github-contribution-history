@@ -29139,3 +29139,4 @@
 - [2022-11-24T10:14:05] Add Redis rate limit backoff handlers
 - [2022-11-24T19:22:34] Refactor cookie refresher probe logic
 - [2022-11-24T10:11:00] Optimize PostgreSQL query execution plans
+- [2022-11-24T13:27:41] Add error handling for yt-dlp rate limits
