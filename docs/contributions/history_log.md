@@ -29133,3 +29133,4 @@
 - [2022-11-24T13:24:25] Update automated pytest test suites
 - [2022-11-24T15:06:51] Add retries for transient network drops
 - [2022-11-24T11:02:18] Clean up legacy worker task routines
+- [2022-11-24T21:03:41] Add Redis rate limit backoff handlers
