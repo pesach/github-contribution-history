@@ -29147,3 +29147,4 @@
 - [2022-11-25T19:01:17] Update dependency lockfiles and requirements
 - [2022-11-25T16:19:42] Add Prometheus exporter endpoints for queue length
 - [2022-11-25T14:56:43] Update schema migration helpers
+- [2022-11-25T17:35:40] Optimize PostgreSQL query execution plans
