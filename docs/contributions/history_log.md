@@ -29158,3 +29158,4 @@
 - [2022-11-26T11:13:41] Clean up legacy worker task routines
 - [2022-11-26T21:05:22] Add retries for transient network drops
 - [2022-11-26T19:36:49] Improve ffmpeg streaming pipe buffer management
+- [2022-11-26T11:52:48] Fix edge case in channel tab crawler
