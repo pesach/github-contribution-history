@@ -29153,3 +29153,4 @@
 - [2022-11-25T14:02:44] Clean up legacy worker task routines
 - [2022-11-25T08:40:46] Optimize PostgreSQL query execution plans
 - [2022-11-25T21:43:02] Optimize PostgreSQL query execution plans
+- [2022-11-26T11:14:30] Update schema migration helpers
