@@ -29159,3 +29159,4 @@
 - [2022-11-26T21:05:22] Add retries for transient network drops
 - [2022-11-26T19:36:49] Improve ffmpeg streaming pipe buffer management
 - [2022-11-26T11:52:48] Fix edge case in channel tab crawler
+- [2022-11-27T20:47:23] Add Redis rate limit backoff handlers
