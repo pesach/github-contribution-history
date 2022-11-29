@@ -29176,3 +29176,4 @@
 - [2022-11-29T19:55:59] Enhance dashboard statistics rendering
 - [2022-11-29T11:10:38] Add Redis rate limit backoff handlers
 - [2022-11-29T18:05:24] Add Prometheus exporter endpoints for queue length
+- [2022-11-29T09:33:56] Refactor cookie refresher probe logic
