@@ -29181,3 +29181,4 @@
 - [2022-11-29T21:29:31] Refactor cookie refresher probe logic
 - [2022-11-29T13:33:24] Implement streaming upload chunk buffer optimization
 - [2022-11-29T18:51:26] Update dependency lockfiles and requirements
+- [2022-11-29T21:02:41] Add error handling for yt-dlp rate limits
