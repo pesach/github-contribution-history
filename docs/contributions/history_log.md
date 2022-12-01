@@ -29194,3 +29194,4 @@
 - [2022-11-30T15:10:28] Refactor cookie refresher probe logic
 - [2022-11-30T08:42:41] Update documentation and architectural guides
 - [2022-12-01T17:40:24] Refactor cookie refresher probe logic
+- [2022-12-01T18:01:10] Add Redis rate limit backoff handlers
