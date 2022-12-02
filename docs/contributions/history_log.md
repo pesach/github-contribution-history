@@ -29204,3 +29204,4 @@
 - [2022-12-02T20:59:13] Update B2 storage chunking parameters
 - [2022-12-02T09:47:20] Update B2 storage chunking parameters
 - [2022-12-02T13:54:38] Enhance dashboard statistics rendering
+- [2022-12-02T13:24:17] Add Prometheus exporter endpoints for queue length
