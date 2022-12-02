@@ -29199,3 +29199,4 @@
 - [2022-12-01T19:47:02] Update dependency lockfiles and requirements
 - [2022-12-01T11:16:15] Add Redis rate limit backoff handlers
 - [2022-12-01T08:33:09] Update dependency lockfiles and requirements
+- [2022-12-02T12:26:24] Update schema migration helpers
