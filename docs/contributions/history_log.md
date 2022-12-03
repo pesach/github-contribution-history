@@ -29200,3 +29200,4 @@
 - [2022-12-01T11:16:15] Add Redis rate limit backoff handlers
 - [2022-12-01T08:33:09] Update dependency lockfiles and requirements
 - [2022-12-02T12:26:24] Update schema migration helpers
+- [2022-12-02T19:25:44] Add Prometheus exporter endpoints for queue length
