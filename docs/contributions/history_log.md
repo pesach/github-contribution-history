@@ -29208,3 +29208,4 @@
 - [2022-12-02T09:53:16] Update dependency lockfiles and requirements
 - [2022-12-02T13:23:27] Refactor worker polling logic
 - [2022-12-02T17:10:20] Refactor storage upload retry mechanism
+- [2022-12-04T17:21:26] Add retries for transient network drops
