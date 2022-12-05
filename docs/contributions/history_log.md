@@ -29217,3 +29217,4 @@
 - [2022-12-05T18:42:52] Enhance dashboard statistics rendering
 - [2022-12-05T15:08:57] Clean up legacy worker task routines
 - [2022-12-05T08:42:52] Add Prometheus exporter endpoints for queue length
+- [2022-12-05T08:00:28] Refactor worker polling logic
