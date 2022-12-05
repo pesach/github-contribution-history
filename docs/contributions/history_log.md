@@ -29220,3 +29220,4 @@
 - [2022-12-05T08:00:28] Refactor worker polling logic
 - [2022-12-05T13:46:19] Update documentation and architectural guides
 - [2022-12-05T18:27:27] Update documentation and architectural guides
+- [2022-12-05T14:47:12] Add error handling for yt-dlp rate limits
