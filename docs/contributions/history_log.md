@@ -29227,3 +29227,4 @@
 - [2022-12-05T16:21:09] Improve logging and health endpoint metrics
 - [2022-12-06T15:18:48] Refactor storage upload retry mechanism
 - [2022-12-06T17:28:54] Refactor worker polling logic
+- [2022-12-06T18:03:50] Refactor storage upload retry mechanism
