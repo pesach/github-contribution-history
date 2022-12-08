@@ -29257,3 +29257,4 @@
 - [2022-12-08T11:45:18] Refactor worker polling logic
 - [2022-12-08T08:43:38] Add retries for transient network drops
 - [2022-12-08T21:34:42] Fix edge case in channel tab crawler
+- [2022-12-08T14:54:38] Fix edge case in URL parsing and validation
