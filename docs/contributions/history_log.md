@@ -29251,3 +29251,4 @@
 - [2022-12-07T17:04:28] Add Redis rate limit backoff handlers
 - [2022-12-07T09:37:28] Refactor storage upload retry mechanism
 - [2022-12-08T09:54:40] Add error handling for yt-dlp rate limits
+- [2022-12-08T15:22:34] Add Redis rate limit backoff handlers
