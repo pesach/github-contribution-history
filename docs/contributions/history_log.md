@@ -29245,3 +29245,4 @@
 - [2022-12-07T22:57:32] Add retries for transient network drops
 - [2022-12-07T22:34:11] Optimize PostgreSQL query execution plans
 - [2022-12-07T21:15:17] Refactor cookie refresher probe logic
+- [2022-12-07T22:58:51] Refactor worker polling logic
