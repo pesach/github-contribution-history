@@ -29266,3 +29266,4 @@
 - [2022-12-09T15:58:25] Update automated pytest test suites
 - [2022-12-09T14:57:42] Update dependency lockfiles and requirements
 - [2022-12-09T13:54:54] Refactor worker polling logic
+- [2022-12-09T11:05:26] Add Prometheus exporter endpoints for queue length
