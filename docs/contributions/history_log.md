@@ -29270,3 +29270,4 @@
 - [2022-12-09T08:30:09] Fix edge case in channel tab crawler
 - [2022-12-09T10:26:40] Implement streaming upload chunk buffer optimization
 - [2022-12-09T11:36:30] Update automated pytest test suites
+- [2022-12-09T13:15:26] Add Redis rate limit backoff handlers
