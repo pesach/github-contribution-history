@@ -29280,3 +29280,4 @@
 - [2022-12-10T15:46:00] Enhance dashboard statistics rendering
 - [2022-12-10T13:07:57] Clean up legacy worker task routines
 - [2022-12-10T15:57:53] Update dependency lockfiles and requirements
+- [2022-12-10T18:01:47] Add Redis rate limit backoff handlers
