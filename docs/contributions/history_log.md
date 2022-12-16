@@ -29316,3 +29316,4 @@
 - [2022-12-16T17:57:01] Update automated pytest test suites
 - [2022-12-16T20:52:18] Improve logging and health endpoint metrics
 - [2022-12-16T13:49:45] Refactor storage upload retry mechanism
+- [2022-12-16T08:01:27] Add Redis rate limit backoff handlers
