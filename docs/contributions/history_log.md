@@ -29310,3 +29310,4 @@
 - [2022-12-15T08:22:55] Fix edge case in URL parsing and validation
 - [2022-12-16T09:29:33] Fix edge case in channel tab crawler
 - [2022-12-16T13:37:54] Refactor cookie refresher probe logic
+- [2022-12-16T09:27:29] Update schema migration helpers
