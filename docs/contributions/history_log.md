@@ -29323,3 +29323,4 @@
 - [2022-12-17T14:13:18] Add error handling for yt-dlp rate limits
 - [2022-12-18T16:09:13] Update dependency lockfiles and requirements
 - [2022-12-18T21:46:45] Enhance dashboard statistics rendering
+- [2022-12-18T08:33:07] Improve ffmpeg streaming pipe buffer management
