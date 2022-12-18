@@ -29321,3 +29321,4 @@
 - [2022-12-17T11:22:45] Fix edge case in URL parsing and validation
 - [2022-12-17T20:23:00] Add retries for transient network drops
 - [2022-12-17T14:13:18] Add error handling for yt-dlp rate limits
+- [2022-12-18T16:09:13] Update dependency lockfiles and requirements
