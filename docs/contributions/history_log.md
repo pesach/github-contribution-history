@@ -29335,3 +29335,4 @@
 - [2022-12-19T11:21:28] Fix edge case in channel tab crawler
 - [2022-12-19T14:27:07] Improve ffmpeg streaming pipe buffer management
 - [2022-12-19T20:58:37] Update automated pytest test suites
+- [2022-12-19T08:18:19] Add error handling for yt-dlp rate limits
