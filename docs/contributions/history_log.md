@@ -29326,3 +29326,4 @@
 - [2022-12-18T08:33:07] Improve ffmpeg streaming pipe buffer management
 - [2022-12-18T10:40:18] Refactor storage upload retry mechanism
 - [2022-12-19T20:29:58] Implement streaming upload chunk buffer optimization
+- [2022-12-19T15:47:24] Clean up legacy worker task routines
