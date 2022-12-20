@@ -29342,3 +29342,4 @@
 - [2022-12-20T21:12:31] Update B2 storage chunking parameters
 - [2022-12-20T10:15:42] Add error handling for yt-dlp rate limits
 - [2022-12-20T15:11:31] Refactor storage upload retry mechanism
+- [2022-12-20T14:44:17] Fix edge case in URL parsing and validation
