@@ -29353,3 +29353,4 @@
 - [2022-12-21T17:23:19] Update automated pytest test suites
 - [2022-12-21T21:36:01] Enhance dashboard statistics rendering
 - [2022-12-21T08:55:02] Update dependency lockfiles and requirements
+- [2022-12-21T08:38:36] Add error handling for yt-dlp rate limits
