@@ -29376,3 +29376,4 @@
 - [2022-12-22T11:52:51] Update automated pytest test suites
 - [2022-12-22T14:55:26] Fix edge case in URL parsing and validation
 - [2022-12-22T10:41:23] Refactor storage upload retry mechanism
+- [2022-12-23T11:22:51] Add Prometheus exporter endpoints for queue length
