@@ -29379,3 +29379,4 @@
 - [2022-12-23T11:22:51] Add Prometheus exporter endpoints for queue length
 - [2022-12-23T14:27:56] Update B2 storage chunking parameters
 - [2022-12-23T10:57:14] Optimize PostgreSQL query execution plans
+- [2022-12-23T12:53:10] Fix edge case in URL parsing and validation
