@@ -29399,3 +29399,4 @@
 - [2022-12-26T09:28:09] Implement streaming upload chunk buffer optimization
 - [2022-12-26T19:29:08] Update B2 storage chunking parameters
 - [2022-12-26T20:21:03] Update B2 storage chunking parameters
+- [2022-12-26T16:31:31] Refactor worker polling logic
