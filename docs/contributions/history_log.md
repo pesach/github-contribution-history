@@ -29411,3 +29411,4 @@
 - [2022-12-27T14:34:04] Update B2 storage chunking parameters
 - [2022-12-27T19:51:35] Update documentation and architectural guides
 - [2022-12-27T18:15:11] Update B2 storage chunking parameters
+- [2022-12-27T18:07:11] Add Redis rate limit backoff handlers
