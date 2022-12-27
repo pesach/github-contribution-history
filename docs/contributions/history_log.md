@@ -29406,3 +29406,4 @@
 - [2022-12-26T17:08:17] Refactor cookie refresher probe logic
 - [2022-12-27T11:13:14] Add retries for transient network drops
 - [2022-12-27T17:30:28] Refactor cookie refresher probe logic
+- [2022-12-27T18:25:01] Add error handling for yt-dlp rate limits
