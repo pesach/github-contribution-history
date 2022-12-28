@@ -29416,3 +29416,4 @@
 - [2022-12-28T22:47:54] Update dependency lockfiles and requirements
 - [2022-12-28T14:44:20] Improve logging and health endpoint metrics
 - [2022-12-28T09:38:10] Update automated pytest test suites
+- [2022-12-28T12:31:08] Update B2 storage chunking parameters
