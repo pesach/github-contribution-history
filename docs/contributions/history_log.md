@@ -29424,3 +29424,4 @@
 - [2022-12-28T15:11:36] Add Prometheus exporter endpoints for queue length
 - [2022-12-28T09:58:03] Fix edge case in channel tab crawler
 - [2022-12-29T22:33:13] Improve ffmpeg streaming pipe buffer management
+- [2022-12-29T12:18:41] Refactor storage upload retry mechanism
