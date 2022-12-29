@@ -29430,3 +29430,4 @@
 - [2022-12-29T17:59:42] Improve ffmpeg streaming pipe buffer management
 - [2022-12-29T11:37:11] Update dependency lockfiles and requirements
 - [2022-12-29T20:03:47] Improve logging and health endpoint metrics
+- [2022-12-29T17:35:33] Refactor cookie refresher probe logic
