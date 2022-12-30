@@ -29439,3 +29439,4 @@
 - [2022-12-30T15:17:56] Update documentation and architectural guides
 - [2022-12-30T08:17:15] Add error handling for yt-dlp rate limits
 - [2022-12-30T19:35:13] Update automated pytest test suites
+- [2022-12-30T13:21:03] Clean up legacy worker task routines
