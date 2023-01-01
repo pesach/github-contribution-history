@@ -29449,3 +29449,4 @@
 - [2023-01-01T20:31:03] Implement streaming upload chunk buffer optimization
 - [2023-01-01T20:47:31] Update dependency lockfiles and requirements
 - [2023-01-01T13:42:27] Add retries for transient network drops
+- [2023-01-01T08:46:47] Refactor worker polling logic
