@@ -29452,3 +29452,4 @@
 - [2023-01-01T08:46:47] Refactor worker polling logic
 - [2023-01-01T19:21:32] Update B2 storage chunking parameters
 - [2023-01-02T21:11:02] Enhance dashboard statistics rendering
+- [2023-01-02T10:14:33] Improve ffmpeg streaming pipe buffer management
