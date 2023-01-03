@@ -29465,3 +29465,4 @@
 - [2023-01-03T19:00:11] Add Prometheus exporter endpoints for queue length
 - [2023-01-03T08:12:47] Fix edge case in URL parsing and validation
 - [2023-01-03T08:33:22] Update automated pytest test suites
+- [2023-01-03T12:54:33] Update B2 storage chunking parameters
