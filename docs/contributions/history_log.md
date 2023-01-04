@@ -29482,3 +29482,4 @@
 - [2023-01-04T18:49:01] Improve logging and health endpoint metrics
 - [2023-01-04T08:57:29] Refactor worker polling logic
 - [2023-01-04T15:19:38] Add retries for transient network drops
+- [2023-01-04T17:03:11] Fix edge case in URL parsing and validation
