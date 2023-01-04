@@ -29475,3 +29475,4 @@
 - [2023-01-03T22:48:14] Update schema migration helpers
 - [2023-01-03T19:11:44] Update dependency lockfiles and requirements
 - [2023-01-03T20:48:39] Clean up legacy worker task routines
+- [2023-01-04T11:20:44] Refactor storage upload retry mechanism
