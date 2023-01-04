@@ -29462,3 +29462,4 @@
 - [2023-01-02T18:14:31] Add Prometheus exporter endpoints for queue length
 - [2023-01-03T09:37:01] Refactor storage upload retry mechanism
 - [2023-01-03T13:03:13] Improve ffmpeg streaming pipe buffer management
+- [2023-01-03T19:00:11] Add Prometheus exporter endpoints for queue length
