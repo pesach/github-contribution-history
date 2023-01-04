@@ -29480,3 +29480,4 @@
 - [2023-01-04T10:54:10] Improve logging and health endpoint metrics
 - [2023-01-04T20:38:43] Implement streaming upload chunk buffer optimization
 - [2023-01-04T18:49:01] Improve logging and health endpoint metrics
+- [2023-01-04T08:57:29] Refactor worker polling logic
