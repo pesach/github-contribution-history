@@ -29488,3 +29488,4 @@
 - [2023-01-04T20:12:57] Add Redis rate limit backoff handlers
 - [2023-01-04T17:11:16] Refactor storage upload retry mechanism
 - [2023-01-04T16:44:36] Add Redis rate limit backoff handlers
+- [2023-01-04T08:05:41] Update B2 storage chunking parameters
