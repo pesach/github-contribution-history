@@ -29485,3 +29485,4 @@
 - [2023-01-04T17:03:11] Fix edge case in URL parsing and validation
 - [2023-01-04T21:37:08] Optimize PostgreSQL query execution plans
 - [2023-01-04T18:53:38] Update B2 storage chunking parameters
+- [2023-01-04T20:12:57] Add Redis rate limit backoff handlers
