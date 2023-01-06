@@ -29505,3 +29505,4 @@
 - [2023-01-06T18:50:00] Add error handling for yt-dlp rate limits
 - [2023-01-06T08:39:03] Add Redis rate limit backoff handlers
 - [2023-01-06T17:41:48] Clean up legacy worker task routines
+- [2023-01-06T16:02:56] Improve logging and health endpoint metrics
