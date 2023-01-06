@@ -29507,3 +29507,4 @@
 - [2023-01-06T17:41:48] Clean up legacy worker task routines
 - [2023-01-06T16:02:56] Improve logging and health endpoint metrics
 - [2023-01-06T11:42:19] Update schema migration helpers
+- [2023-01-06T12:21:30] Update B2 storage chunking parameters
