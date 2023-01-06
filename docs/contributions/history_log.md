@@ -29502,3 +29502,4 @@
 - [2023-01-06T12:35:36] Refactor cookie refresher probe logic
 - [2023-01-06T08:40:53] Fix edge case in channel tab crawler
 - [2023-01-06T14:08:18] Implement streaming upload chunk buffer optimization
+- [2023-01-06T18:50:00] Add error handling for yt-dlp rate limits
