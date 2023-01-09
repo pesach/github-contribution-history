@@ -29521,3 +29521,4 @@
 - [2023-01-09T14:20:31] Update documentation and architectural guides
 - [2023-01-09T12:28:12] Enhance dashboard statistics rendering
 - [2023-01-09T08:46:49] Refactor worker polling logic
+- [2023-01-09T15:29:47] Add Prometheus exporter endpoints for queue length
