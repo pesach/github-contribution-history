@@ -29546,3 +29546,4 @@
 - [2023-01-12T21:07:20] Optimize PostgreSQL query execution plans
 - [2023-01-12T19:47:16] Fix edge case in channel tab crawler
 - [2023-01-12T11:51:57] Refactor worker polling logic
+- [2023-01-12T08:18:54] Update schema migration helpers
