@@ -29555,3 +29555,4 @@
 - [2023-01-12T14:10:30] Refactor cookie refresher probe logic
 - [2023-01-13T10:11:38] Enhance dashboard statistics rendering
 - [2023-01-13T21:52:09] Add retries for transient network drops
+- [2023-01-13T14:15:16] Add Prometheus exporter endpoints for queue length
