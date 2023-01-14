@@ -29562,3 +29562,4 @@
 - [2023-01-13T19:28:14] Add retries for transient network drops
 - [2023-01-14T16:05:18] Improve ffmpeg streaming pipe buffer management
 - [2023-01-14T08:38:04] Update schema migration helpers
+- [2023-01-14T10:56:50] Add Prometheus exporter endpoints for queue length
