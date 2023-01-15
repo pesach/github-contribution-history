@@ -29564,3 +29564,4 @@
 - [2023-01-14T08:38:04] Update schema migration helpers
 - [2023-01-14T10:56:50] Add Prometheus exporter endpoints for queue length
 - [2023-01-15T14:28:34] Fix edge case in URL parsing and validation
+- [2023-01-15T18:48:52] Refactor storage upload retry mechanism
