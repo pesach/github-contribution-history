@@ -29575,3 +29575,4 @@
 - [2023-01-16T19:42:09] Update dependency lockfiles and requirements
 - [2023-01-16T22:43:24] Update B2 storage chunking parameters
 - [2023-01-16T10:52:34] Fix edge case in URL parsing and validation
+- [2023-01-16T16:58:04] Refactor storage upload retry mechanism
