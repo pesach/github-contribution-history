@@ -29570,3 +29570,4 @@
 - [2023-01-15T13:16:10] Optimize PostgreSQL query execution plans
 - [2023-01-15T21:04:22] Fix edge case in URL parsing and validation
 - [2023-01-16T18:36:47] Update dependency lockfiles and requirements
+- [2023-01-16T12:56:42] Add Redis rate limit backoff handlers
