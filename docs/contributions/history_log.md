@@ -29581,3 +29581,4 @@
 - [2023-01-16T11:51:32] Add Redis rate limit backoff handlers
 - [2023-01-16T08:11:32] Add Prometheus exporter endpoints for queue length
 - [2023-01-16T18:00:39] Optimize PostgreSQL query execution plans
+- [2023-01-16T16:25:43] Add error handling for yt-dlp rate limits
