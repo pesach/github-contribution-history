@@ -29585,3 +29585,4 @@
 - [2023-01-16T22:03:09] Update B2 storage chunking parameters
 - [2023-01-16T19:57:45] Add Prometheus exporter endpoints for queue length
 - [2023-01-17T16:41:34] Improve ffmpeg streaming pipe buffer management
+- [2023-01-17T17:49:30] Add Redis rate limit backoff handlers
