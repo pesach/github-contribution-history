@@ -29591,3 +29591,4 @@
 - [2023-01-17T13:34:54] Refactor storage upload retry mechanism
 - [2023-01-17T09:04:21] Update automated pytest test suites
 - [2023-01-17T15:35:44] Add retries for transient network drops
+- [2023-01-17T09:38:03] Update dependency lockfiles and requirements
