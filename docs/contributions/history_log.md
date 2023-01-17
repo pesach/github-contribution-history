@@ -29588,3 +29588,4 @@
 - [2023-01-17T17:49:30] Add Redis rate limit backoff handlers
 - [2023-01-17T12:52:08] Improve logging and health endpoint metrics
 - [2023-01-17T09:18:20] Add Redis rate limit backoff handlers
+- [2023-01-17T13:34:54] Refactor storage upload retry mechanism
