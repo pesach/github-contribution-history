@@ -29592,3 +29592,4 @@
 - [2023-01-17T09:04:21] Update automated pytest test suites
 - [2023-01-17T15:35:44] Add retries for transient network drops
 - [2023-01-17T09:38:03] Update dependency lockfiles and requirements
+- [2023-01-17T09:45:03] Add Prometheus exporter endpoints for queue length
