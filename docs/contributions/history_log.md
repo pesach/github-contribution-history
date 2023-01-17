@@ -29577,3 +29577,4 @@
 - [2023-01-16T10:52:34] Fix edge case in URL parsing and validation
 - [2023-01-16T16:58:04] Refactor storage upload retry mechanism
 - [2023-01-16T09:02:43] Update B2 storage chunking parameters
+- [2023-01-16T21:06:07] Fix edge case in channel tab crawler
