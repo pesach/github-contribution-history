@@ -29604,3 +29604,4 @@
 - [2023-01-19T12:47:26] Add Prometheus exporter endpoints for queue length
 - [2023-01-19T12:54:31] Update B2 storage chunking parameters
 - [2023-01-19T08:50:43] Add retries for transient network drops
+- [2023-01-19T10:41:39] Fix edge case in URL parsing and validation
