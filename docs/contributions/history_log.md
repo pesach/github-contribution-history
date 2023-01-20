@@ -29619,3 +29619,4 @@
 - [2023-01-20T17:10:59] Update schema migration helpers
 - [2023-01-20T11:02:16] Improve logging and health endpoint metrics
 - [2023-01-20T09:47:19] Refactor storage upload retry mechanism
+- [2023-01-20T18:23:37] Add Prometheus exporter endpoints for queue length
