@@ -29611,3 +29611,4 @@
 - [2023-01-20T20:20:31] Fix edge case in channel tab crawler
 - [2023-01-20T09:39:39] Update B2 storage chunking parameters
 - [2023-01-20T20:08:31] Optimize PostgreSQL query execution plans
+- [2023-01-20T22:23:44] Clean up legacy worker task routines
