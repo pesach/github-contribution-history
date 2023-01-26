@@ -29666,3 +29666,4 @@
 - [2023-01-26T14:52:37] Add Redis rate limit backoff handlers
 - [2023-01-26T20:56:24] Fix edge case in URL parsing and validation
 - [2023-01-26T16:47:11] Update schema migration helpers
+- [2023-01-26T17:40:36] Add Redis rate limit backoff handlers
