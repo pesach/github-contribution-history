@@ -29674,3 +29674,4 @@
 - [2023-01-27T09:21:32] Fix edge case in URL parsing and validation
 - [2023-01-27T22:44:36] Add retries for transient network drops
 - [2023-01-27T10:23:17] Fix edge case in channel tab crawler
+- [2023-01-27T22:38:26] Add Redis rate limit backoff handlers
