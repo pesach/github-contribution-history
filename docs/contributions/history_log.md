@@ -29672,3 +29672,4 @@
 - [2023-01-26T19:03:03] Update schema migration helpers
 - [2023-01-26T17:14:09] Update dependency lockfiles and requirements
 - [2023-01-27T09:21:32] Fix edge case in URL parsing and validation
+- [2023-01-27T22:44:36] Add retries for transient network drops
