@@ -29675,3 +29675,4 @@
 - [2023-01-27T22:44:36] Add retries for transient network drops
 - [2023-01-27T10:23:17] Fix edge case in channel tab crawler
 - [2023-01-27T22:38:26] Add Redis rate limit backoff handlers
+- [2023-01-27T21:27:30] Update dependency lockfiles and requirements
