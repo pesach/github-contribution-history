@@ -29700,3 +29700,4 @@
 - [2023-01-30T18:12:06] Improve logging and health endpoint metrics
 - [2023-01-30T11:50:16] Improve ffmpeg streaming pipe buffer management
 - [2023-01-30T16:52:32] Fix edge case in channel tab crawler
+- [2023-01-30T17:22:10] Update schema migration helpers
