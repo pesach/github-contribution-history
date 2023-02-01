@@ -29714,3 +29714,4 @@
 - [2023-01-31T09:21:49] Enhance dashboard statistics rendering
 - [2023-02-01T10:53:44] Update dependency lockfiles and requirements
 - [2023-02-01T16:42:14] Refactor cookie refresher probe logic
+- [2023-02-01T09:22:58] Fix edge case in URL parsing and validation
