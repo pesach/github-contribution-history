@@ -29726,3 +29726,4 @@
 - [2023-02-01T13:46:39] Enhance dashboard statistics rendering
 - [2023-02-02T21:37:11] Fix edge case in channel tab crawler
 - [2023-02-02T17:27:53] Add retries for transient network drops
+- [2023-02-02T10:23:23] Add Redis rate limit backoff handlers
