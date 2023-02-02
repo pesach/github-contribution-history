@@ -29733,3 +29733,4 @@
 - [2023-02-02T20:32:43] Enhance dashboard statistics rendering
 - [2023-02-02T22:20:50] Update automated pytest test suites
 - [2023-02-02T21:30:07] Update dependency lockfiles and requirements
+- [2023-02-02T11:52:29] Add error handling for yt-dlp rate limits
