@@ -29748,3 +29748,4 @@
 - [2023-02-03T16:35:47] Update automated pytest test suites
 - [2023-02-03T21:59:39] Update documentation and architectural guides
 - [2023-02-03T18:18:40] Clean up legacy worker task routines
+- [2023-02-03T12:05:51] Improve ffmpeg streaming pipe buffer management
