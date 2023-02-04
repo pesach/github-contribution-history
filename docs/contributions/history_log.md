@@ -29740,3 +29740,4 @@
 - [2023-02-02T15:36:13] Update documentation and architectural guides
 - [2023-02-02T20:22:44] Refactor worker polling logic
 - [2023-02-03T17:04:44] Refactor worker polling logic
+- [2023-02-03T19:38:53] Add Prometheus exporter endpoints for queue length
