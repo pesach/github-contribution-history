@@ -29759,3 +29759,4 @@
 - [2023-02-05T12:35:18] Update documentation and architectural guides
 - [2023-02-05T20:13:59] Update dependency lockfiles and requirements
 - [2023-02-05T15:40:29] Add retries for transient network drops
+- [2023-02-06T08:44:32] Fix edge case in URL parsing and validation
