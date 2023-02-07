@@ -29767,3 +29767,4 @@
 - [2023-02-06T12:06:52] Fix edge case in channel tab crawler
 - [2023-02-06T12:50:32] Update documentation and architectural guides
 - [2023-02-06T11:02:09] Add Redis rate limit backoff handlers
+- [2023-02-06T22:34:29] Clean up legacy worker task routines
