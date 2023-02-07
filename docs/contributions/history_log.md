@@ -29781,3 +29781,4 @@
 - [2023-02-07T17:45:29] Update schema migration helpers
 - [2023-02-07T16:30:15] Improve ffmpeg streaming pipe buffer management
 - [2023-02-07T22:14:52] Update B2 storage chunking parameters
+- [2023-02-07T16:37:59] Fix edge case in channel tab crawler
