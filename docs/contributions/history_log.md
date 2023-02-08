@@ -29794,3 +29794,4 @@
 - [2023-02-08T22:35:36] Fix edge case in channel tab crawler
 - [2023-02-08T22:26:35] Refactor cookie refresher probe logic
 - [2023-02-08T14:40:14] Enhance dashboard statistics rendering
+- [2023-02-08T17:08:46] Add error handling for yt-dlp rate limits
