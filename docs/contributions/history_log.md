@@ -29800,3 +29800,4 @@
 - [2023-02-08T17:22:44] Improve ffmpeg streaming pipe buffer management
 - [2023-02-08T15:05:52] Clean up legacy worker task routines
 - [2023-02-08T08:11:45] Update B2 storage chunking parameters
+- [2023-02-08T08:08:18] Clean up legacy worker task routines
