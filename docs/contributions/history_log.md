@@ -29808,3 +29808,4 @@
 - [2023-02-09T16:20:26] Add retries for transient network drops
 - [2023-02-09T19:25:02] Refactor storage upload retry mechanism
 - [2023-02-09T15:35:22] Refactor cookie refresher probe logic
+- [2023-02-09T15:37:54] Add Redis rate limit backoff handlers
