@@ -29821,3 +29821,4 @@
 - [2023-02-10T19:53:53] Refactor cookie refresher probe logic
 - [2023-02-10T21:22:06] Add retries for transient network drops
 - [2023-02-10T17:28:05] Update schema migration helpers
+- [2023-02-10T10:08:37] Add Redis rate limit backoff handlers
