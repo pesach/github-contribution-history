@@ -29827,3 +29827,4 @@
 - [2023-02-10T08:42:59] Refactor worker polling logic
 - [2023-02-10T19:31:30] Update documentation and architectural guides
 - [2023-02-12T22:40:36] Improve logging and health endpoint metrics
+- [2023-02-12T14:34:10] Update schema migration helpers
