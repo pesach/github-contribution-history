@@ -29849,3 +29849,4 @@
 - [2023-02-14T15:26:59] Update documentation and architectural guides
 - [2023-02-14T13:50:46] Add retries for transient network drops
 - [2023-02-14T13:29:52] Add retries for transient network drops
+- [2023-02-14T18:05:59] Refactor worker polling logic
