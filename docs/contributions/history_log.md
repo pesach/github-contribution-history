@@ -29843,3 +29843,4 @@
 - [2023-02-13T20:43:44] Update dependency lockfiles and requirements
 - [2023-02-13T18:55:10] Update automated pytest test suites
 - [2023-02-14T08:35:27] Implement streaming upload chunk buffer optimization
+- [2023-02-14T15:00:51] Update schema migration helpers
