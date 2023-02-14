@@ -29830,3 +29830,4 @@
 - [2023-02-12T14:34:10] Update schema migration helpers
 - [2023-02-12T10:45:33] Enhance dashboard statistics rendering
 - [2023-02-13T22:50:13] Optimize PostgreSQL query execution plans
+- [2023-02-13T21:44:05] Refactor worker polling logic
