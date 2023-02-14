@@ -29851,3 +29851,4 @@
 - [2023-02-14T13:29:52] Add retries for transient network drops
 - [2023-02-14T18:05:59] Refactor worker polling logic
 - [2023-02-14T14:51:35] Update documentation and architectural guides
+- [2023-02-14T11:50:23] Update schema migration helpers
