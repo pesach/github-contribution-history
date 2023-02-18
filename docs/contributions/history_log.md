@@ -29867,3 +29867,4 @@
 - [2023-02-17T10:13:20] Update dependency lockfiles and requirements
 - [2023-02-17T13:30:30] Improve ffmpeg streaming pipe buffer management
 - [2023-02-17T22:02:25] Refactor worker polling logic
+- [2023-02-17T21:10:19] Add error handling for yt-dlp rate limits
