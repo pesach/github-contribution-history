@@ -29873,3 +29873,4 @@
 - [2023-02-19T17:58:43] Optimize PostgreSQL query execution plans
 - [2023-02-19T20:11:36] Improve ffmpeg streaming pipe buffer management
 - [2023-02-19T16:29:30] Improve logging and health endpoint metrics
+- [2023-02-19T14:29:37] Update schema migration helpers
