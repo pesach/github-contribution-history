@@ -29880,3 +29880,4 @@
 - [2023-02-20T10:05:55] Refactor worker polling logic
 - [2023-02-20T13:13:27] Clean up legacy worker task routines
 - [2023-02-20T19:23:23] Improve logging and health endpoint metrics
+- [2023-02-20T10:05:29] Refactor storage upload retry mechanism
