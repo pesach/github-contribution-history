@@ -29897,3 +29897,4 @@
 - [2023-02-21T20:11:08] Refactor cookie refresher probe logic
 - [2023-02-21T10:40:41] Fix edge case in channel tab crawler
 - [2023-02-21T08:57:25] Add Redis rate limit backoff handlers
+- [2023-02-21T12:22:25] Add error handling for yt-dlp rate limits
