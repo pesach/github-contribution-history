@@ -29879,3 +29879,4 @@
 - [2023-02-20T16:24:49] Update dependency lockfiles and requirements
 - [2023-02-20T10:05:55] Refactor worker polling logic
 - [2023-02-20T13:13:27] Clean up legacy worker task routines
+- [2023-02-20T19:23:23] Improve logging and health endpoint metrics
