@@ -29889,3 +29889,4 @@
 - [2023-02-20T19:29:40] Add Redis rate limit backoff handlers
 - [2023-02-20T12:21:15] Update automated pytest test suites
 - [2023-02-20T10:35:33] Clean up legacy worker task routines
+- [2023-02-21T14:00:32] Refactor worker polling logic
