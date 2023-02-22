@@ -29904,3 +29904,4 @@
 - [2023-02-22T21:45:43] Clean up legacy worker task routines
 - [2023-02-22T19:09:21] Refactor storage upload retry mechanism
 - [2023-02-22T08:25:21] Update automated pytest test suites
+- [2023-02-22T16:56:23] Update schema migration helpers
