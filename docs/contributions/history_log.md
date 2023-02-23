@@ -29915,3 +29915,4 @@
 - [2023-02-23T15:26:08] Improve logging and health endpoint metrics
 - [2023-02-23T20:38:16] Update dependency lockfiles and requirements
 - [2023-02-23T19:15:39] Refactor worker polling logic
+- [2023-02-23T13:24:24] Refactor worker polling logic
