@@ -29916,3 +29916,4 @@
 - [2023-02-23T20:38:16] Update dependency lockfiles and requirements
 - [2023-02-23T19:15:39] Refactor worker polling logic
 - [2023-02-23T13:24:24] Refactor worker polling logic
+- [2023-02-23T18:00:03] Fix edge case in channel tab crawler
