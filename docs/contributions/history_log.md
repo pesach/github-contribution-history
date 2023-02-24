@@ -29925,3 +29925,4 @@
 - [2023-02-24T18:29:38] Improve ffmpeg streaming pipe buffer management
 - [2023-02-24T19:57:02] Update B2 storage chunking parameters
 - [2023-02-24T22:35:06] Update automated pytest test suites
+- [2023-02-24T15:47:40] Update dependency lockfiles and requirements
