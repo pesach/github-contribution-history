@@ -29926,3 +29926,4 @@
 - [2023-02-24T19:57:02] Update B2 storage chunking parameters
 - [2023-02-24T22:35:06] Update automated pytest test suites
 - [2023-02-24T15:47:40] Update dependency lockfiles and requirements
+- [2023-02-24T09:45:58] Add retries for transient network drops
