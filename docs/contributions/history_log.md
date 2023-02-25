@@ -29930,3 +29930,4 @@
 - [2023-02-24T08:50:35] Refactor cookie refresher probe logic
 - [2023-02-24T16:50:04] Improve logging and health endpoint metrics
 - [2023-02-24T15:48:29] Improve logging and health endpoint metrics
+- [2023-02-24T20:08:36] Add Redis rate limit backoff handlers
