@@ -29947,3 +29947,4 @@
 - [2023-02-27T22:18:59] Add Redis rate limit backoff handlers
 - [2023-02-27T18:03:57] Add error handling for yt-dlp rate limits
 - [2023-02-27T08:27:56] Refactor cookie refresher probe logic
+- [2023-02-28T18:50:56] Refactor worker polling logic
