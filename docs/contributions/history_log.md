@@ -29960,3 +29960,4 @@
 - [2023-03-01T19:32:35] Update automated pytest test suites
 - [2023-03-01T16:45:55] Refactor storage upload retry mechanism
 - [2023-03-01T09:23:11] Refactor cookie refresher probe logic
+- [2023-03-01T08:48:25] Clean up legacy worker task routines
