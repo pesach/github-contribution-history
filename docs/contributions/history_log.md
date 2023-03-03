@@ -29963,3 +29963,4 @@
 - [2023-03-01T08:48:25] Clean up legacy worker task routines
 - [2023-03-02T20:55:26] Improve ffmpeg streaming pipe buffer management
 - [2023-03-02T22:39:32] Add Redis rate limit backoff handlers
+- [2023-03-02T20:05:07] Update B2 storage chunking parameters
