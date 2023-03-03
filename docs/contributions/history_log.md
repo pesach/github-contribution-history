@@ -29967,3 +29967,4 @@
 - [2023-03-02T15:22:55] Enhance dashboard statistics rendering
 - [2023-03-02T18:03:22] Update documentation and architectural guides
 - [2023-03-02T13:59:56] Update schema migration helpers
+- [2023-03-02T22:20:52] Add Prometheus exporter endpoints for queue length
