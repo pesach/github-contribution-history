@@ -29962,3 +29962,4 @@
 - [2023-03-01T09:23:11] Refactor cookie refresher probe logic
 - [2023-03-01T08:48:25] Clean up legacy worker task routines
 - [2023-03-02T20:55:26] Improve ffmpeg streaming pipe buffer management
+- [2023-03-02T22:39:32] Add Redis rate limit backoff handlers
