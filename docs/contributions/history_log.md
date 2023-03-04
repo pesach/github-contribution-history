@@ -29981,3 +29981,4 @@
 - [2023-03-03T08:46:29] Improve ffmpeg streaming pipe buffer management
 - [2023-03-03T18:41:32] Clean up legacy worker task routines
 - [2023-03-04T20:55:39] Add retries for transient network drops
+- [2023-03-04T14:06:57] Add Redis rate limit backoff handlers
