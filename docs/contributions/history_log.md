@@ -29983,3 +29983,4 @@
 - [2023-03-04T20:55:39] Add retries for transient network drops
 - [2023-03-04T14:06:57] Add Redis rate limit backoff handlers
 - [2023-03-04T10:21:11] Update dependency lockfiles and requirements
+- [2023-03-04T16:39:33] Refactor cookie refresher probe logic
