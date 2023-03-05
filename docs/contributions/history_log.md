@@ -29985,3 +29985,4 @@
 - [2023-03-04T10:21:11] Update dependency lockfiles and requirements
 - [2023-03-04T16:39:33] Refactor cookie refresher probe logic
 - [2023-03-04T17:43:04] Optimize PostgreSQL query execution plans
+- [2023-03-05T15:44:55] Update schema migration helpers
