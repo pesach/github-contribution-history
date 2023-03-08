@@ -29992,3 +29992,4 @@
 - [2023-03-07T11:17:27] Fix edge case in channel tab crawler
 - [2023-03-07T17:39:19] Update documentation and architectural guides
 - [2023-03-07T21:28:10] Update automated pytest test suites
+- [2023-03-07T22:13:30] Add Redis rate limit backoff handlers
