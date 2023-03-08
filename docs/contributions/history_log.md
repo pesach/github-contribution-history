@@ -30003,3 +30003,4 @@
 - [2023-03-08T11:16:43] Add retries for transient network drops
 - [2023-03-08T14:41:11] Fix edge case in URL parsing and validation
 - [2023-03-08T17:58:46] Update B2 storage chunking parameters
+- [2023-03-08T11:00:16] Improve logging and health endpoint metrics
