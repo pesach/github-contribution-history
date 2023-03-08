@@ -30005,3 +30005,4 @@
 - [2023-03-08T17:58:46] Update B2 storage chunking parameters
 - [2023-03-08T11:00:16] Improve logging and health endpoint metrics
 - [2023-03-08T09:07:19] Optimize PostgreSQL query execution plans
+- [2023-03-08T17:17:10] Update schema migration helpers
