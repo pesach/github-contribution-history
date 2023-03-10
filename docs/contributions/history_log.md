@@ -30023,3 +30023,4 @@
 - [2023-03-09T12:46:55] Improve logging and health endpoint metrics
 - [2023-03-09T21:44:18] Update dependency lockfiles and requirements
 - [2023-03-09T08:51:36] Fix edge case in channel tab crawler
+- [2023-03-10T16:06:09] Refactor worker polling logic
