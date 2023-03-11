@@ -30035,3 +30035,4 @@
 - [2023-03-10T09:03:22] Update dependency lockfiles and requirements
 - [2023-03-11T22:24:24] Add error handling for yt-dlp rate limits
 - [2023-03-11T15:49:04] Update documentation and architectural guides
+- [2023-03-11T10:32:12] Fix edge case in URL parsing and validation
