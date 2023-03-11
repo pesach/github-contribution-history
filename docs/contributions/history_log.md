@@ -30024,3 +30024,4 @@
 - [2023-03-09T21:44:18] Update dependency lockfiles and requirements
 - [2023-03-09T08:51:36] Fix edge case in channel tab crawler
 - [2023-03-10T16:06:09] Refactor worker polling logic
+- [2023-03-10T19:24:57] Fix edge case in URL parsing and validation
