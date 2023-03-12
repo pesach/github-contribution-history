@@ -30037,3 +30037,4 @@
 - [2023-03-11T15:49:04] Update documentation and architectural guides
 - [2023-03-11T10:32:12] Fix edge case in URL parsing and validation
 - [2023-03-12T19:56:07] Fix edge case in channel tab crawler
+- [2023-03-12T19:05:04] Refactor cookie refresher probe logic
