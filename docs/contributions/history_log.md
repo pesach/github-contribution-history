@@ -30041,3 +30041,4 @@
 - [2023-03-12T18:06:47] Improve ffmpeg streaming pipe buffer management
 - [2023-03-12T11:35:47] Update B2 storage chunking parameters
 - [2023-03-13T13:03:01] Add error handling for yt-dlp rate limits
+- [2023-03-13T12:27:32] Add Redis rate limit backoff handlers
