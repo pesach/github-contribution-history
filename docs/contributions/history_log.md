@@ -30078,3 +30078,4 @@
 - [2023-03-17T14:31:25] Enhance dashboard statistics rendering
 - [2023-03-17T13:16:20] Fix edge case in URL parsing and validation
 - [2023-03-17T09:12:52] Improve ffmpeg streaming pipe buffer management
+- [2023-03-17T11:18:59] Refactor cookie refresher probe logic
