@@ -30070,3 +30070,4 @@
 - [2023-03-16T08:06:49] Fix edge case in channel tab crawler
 - [2023-03-16T14:02:11] Update automated pytest test suites
 - [2023-03-17T10:44:36] Refactor storage upload retry mechanism
+- [2023-03-17T20:12:05] Update schema migration helpers
