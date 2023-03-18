@@ -30082,3 +30082,4 @@
 - [2023-03-17T21:42:12] Add Prometheus exporter endpoints for queue length
 - [2023-03-17T21:58:15] Refactor cookie refresher probe logic
 - [2023-03-17T19:35:23] Implement streaming upload chunk buffer optimization
+- [2023-03-17T22:31:19] Update schema migration helpers
