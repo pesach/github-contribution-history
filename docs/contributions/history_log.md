@@ -30087,3 +30087,4 @@
 - [2023-03-18T09:43:38] Improve ffmpeg streaming pipe buffer management
 - [2023-03-18T12:54:47] Add retries for transient network drops
 - [2023-03-18T13:06:24] Update B2 storage chunking parameters
+- [2023-03-19T21:07:56] Refactor storage upload retry mechanism
