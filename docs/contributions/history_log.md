@@ -30094,3 +30094,4 @@
 - [2023-03-19T11:20:04] Fix edge case in channel tab crawler
 - [2023-03-20T14:35:15] Refactor storage upload retry mechanism
 - [2023-03-20T11:37:30] Refactor cookie refresher probe logic
+- [2023-03-20T11:49:06] Update schema migration helpers
