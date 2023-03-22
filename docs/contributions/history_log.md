@@ -30105,3 +30105,4 @@
 - [2023-03-22T17:09:01] Refactor worker polling logic
 - [2023-03-22T14:01:12] Update schema migration helpers
 - [2023-03-22T08:10:32] Add error handling for yt-dlp rate limits
+- [2023-03-22T13:17:30] Enhance dashboard statistics rendering
