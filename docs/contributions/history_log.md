@@ -30110,3 +30110,4 @@
 - [2023-03-22T13:22:13] Update schema migration helpers
 - [2023-03-22T20:41:13] Add error handling for yt-dlp rate limits
 - [2023-03-22T15:42:17] Implement streaming upload chunk buffer optimization
+- [2023-03-22T19:43:10] Refactor worker polling logic
