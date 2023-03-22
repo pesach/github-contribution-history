@@ -30100,3 +30100,4 @@
 - [2023-03-20T16:22:54] Add retries for transient network drops
 - [2023-03-20T18:10:18] Update dependency lockfiles and requirements
 - [2023-03-20T11:24:45] Update schema migration helpers
+- [2023-03-22T16:24:56] Add Redis rate limit backoff handlers
