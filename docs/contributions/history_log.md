@@ -30108,3 +30108,4 @@
 - [2023-03-22T13:17:30] Enhance dashboard statistics rendering
 - [2023-03-22T09:30:51] Improve logging and health endpoint metrics
 - [2023-03-22T13:22:13] Update schema migration helpers
+- [2023-03-22T20:41:13] Add error handling for yt-dlp rate limits
