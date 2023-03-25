@@ -30137,3 +30137,4 @@
 - [2023-03-24T11:35:50] Improve ffmpeg streaming pipe buffer management
 - [2023-03-25T14:49:34] Refactor worker polling logic
 - [2023-03-25T10:05:57] Update B2 storage chunking parameters
+- [2023-03-25T09:58:34] Clean up legacy worker task routines
