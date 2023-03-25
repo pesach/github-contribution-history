@@ -30136,3 +30136,4 @@
 - [2023-03-24T09:06:13] Update automated pytest test suites
 - [2023-03-24T11:35:50] Improve ffmpeg streaming pipe buffer management
 - [2023-03-25T14:49:34] Refactor worker polling logic
+- [2023-03-25T10:05:57] Update B2 storage chunking parameters
