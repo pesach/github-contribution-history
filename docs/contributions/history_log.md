@@ -30135,3 +30135,4 @@
 - [2023-03-24T10:46:08] Update dependency lockfiles and requirements
 - [2023-03-24T09:06:13] Update automated pytest test suites
 - [2023-03-24T11:35:50] Improve ffmpeg streaming pipe buffer management
+- [2023-03-25T14:49:34] Refactor worker polling logic
