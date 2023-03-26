@@ -30141,3 +30141,4 @@
 - [2023-03-25T22:58:09] Implement streaming upload chunk buffer optimization
 - [2023-03-25T10:32:44] Fix edge case in channel tab crawler
 - [2023-03-25T14:06:08] Add Prometheus exporter endpoints for queue length
+- [2023-03-26T16:11:05] Clean up legacy worker task routines
