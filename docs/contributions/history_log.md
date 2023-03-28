@@ -30165,3 +30165,4 @@
 - [2023-03-28T19:32:55] Add retries for transient network drops
 - [2023-03-28T17:22:29] Fix edge case in channel tab crawler
 - [2023-03-28T18:41:40] Add Redis rate limit backoff handlers
+- [2023-03-28T11:42:15] Update schema migration helpers
