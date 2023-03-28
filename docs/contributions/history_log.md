@@ -30162,3 +30162,4 @@
 - [2023-03-28T16:21:17] Add Redis rate limit backoff handlers
 - [2023-03-28T18:52:12] Update automated pytest test suites
 - [2023-03-28T12:46:08] Improve ffmpeg streaming pipe buffer management
+- [2023-03-28T19:32:55] Add retries for transient network drops
