@@ -30163,3 +30163,4 @@
 - [2023-03-28T18:52:12] Update automated pytest test suites
 - [2023-03-28T12:46:08] Improve ffmpeg streaming pipe buffer management
 - [2023-03-28T19:32:55] Add retries for transient network drops
+- [2023-03-28T17:22:29] Fix edge case in channel tab crawler
