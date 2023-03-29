@@ -30174,3 +30174,4 @@
 - [2023-03-29T10:27:08] Refactor cookie refresher probe logic
 - [2023-03-29T22:18:14] Fix edge case in URL parsing and validation
 - [2023-03-29T10:37:07] Add retries for transient network drops
+- [2023-03-29T17:27:33] Add Prometheus exporter endpoints for queue length
