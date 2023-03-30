@@ -30177,3 +30177,4 @@
 - [2023-03-29T17:27:33] Add Prometheus exporter endpoints for queue length
 - [2023-03-29T14:01:02] Fix edge case in URL parsing and validation
 - [2023-03-29T08:07:23] Add Prometheus exporter endpoints for queue length
+- [2023-03-30T08:19:10] Add retries for transient network drops
