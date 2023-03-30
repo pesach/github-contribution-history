@@ -30184,3 +30184,4 @@
 - [2023-03-30T19:21:33] Update schema migration helpers
 - [2023-03-30T19:14:18] Enhance dashboard statistics rendering
 - [2023-03-30T08:16:55] Refactor worker polling logic
+- [2023-03-30T13:09:33] Improve ffmpeg streaming pipe buffer management
