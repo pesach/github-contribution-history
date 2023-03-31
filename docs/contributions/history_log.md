@@ -30189,3 +30189,4 @@
 - [2023-03-31T08:40:48] Update documentation and architectural guides
 - [2023-03-31T09:17:58] Enhance dashboard statistics rendering
 - [2023-03-31T21:22:54] Add error handling for yt-dlp rate limits
+- [2023-03-31T08:14:34] Refactor worker polling logic
