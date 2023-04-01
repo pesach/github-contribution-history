@@ -30195,3 +30195,4 @@
 - [2023-03-31T20:59:30] Clean up legacy worker task routines
 - [2023-03-31T15:32:45] Add Prometheus exporter endpoints for queue length
 - [2023-04-01T21:05:19] Implement streaming upload chunk buffer optimization
+- [2023-04-01T14:50:06] Add error handling for yt-dlp rate limits
