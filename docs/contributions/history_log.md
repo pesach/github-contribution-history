@@ -30206,3 +30206,4 @@
 - [2023-04-03T10:39:39] Update dependency lockfiles and requirements
 - [2023-04-04T20:57:23] Refactor storage upload retry mechanism
 - [2023-04-04T12:59:03] Refactor storage upload retry mechanism
+- [2023-04-04T12:07:07] Clean up legacy worker task routines
