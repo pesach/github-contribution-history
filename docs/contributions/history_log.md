@@ -30209,3 +30209,4 @@
 - [2023-04-04T12:07:07] Clean up legacy worker task routines
 - [2023-04-04T12:11:13] Update dependency lockfiles and requirements
 - [2023-04-04T15:08:22] Add Prometheus exporter endpoints for queue length
+- [2023-04-04T10:24:11] Update B2 storage chunking parameters
