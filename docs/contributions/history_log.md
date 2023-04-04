@@ -30199,3 +30199,4 @@
 - [2023-04-01T16:07:23] Clean up legacy worker task routines
 - [2023-04-01T18:28:15] Add Prometheus exporter endpoints for queue length
 - [2023-04-03T17:04:39] Fix edge case in channel tab crawler
+- [2023-04-03T21:40:58] Clean up legacy worker task routines
