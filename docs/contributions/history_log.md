@@ -30211,3 +30211,4 @@
 - [2023-04-04T15:08:22] Add Prometheus exporter endpoints for queue length
 - [2023-04-04T10:24:11] Update B2 storage chunking parameters
 - [2023-04-04T19:23:11] Update automated pytest test suites
+- [2023-04-04T10:42:26] Update B2 storage chunking parameters
