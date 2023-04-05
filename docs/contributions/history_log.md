@@ -30219,3 +30219,4 @@
 - [2023-04-05T22:02:10] Update dependency lockfiles and requirements
 - [2023-04-05T17:54:16] Update B2 storage chunking parameters
 - [2023-04-05T19:37:08] Update B2 storage chunking parameters
+- [2023-04-05T09:01:13] Optimize PostgreSQL query execution plans
