@@ -30230,3 +30230,4 @@
 - [2023-04-05T17:57:47] Refactor worker polling logic
 - [2023-04-05T22:25:25] Add error handling for yt-dlp rate limits
 - [2023-04-06T13:18:40] Update schema migration helpers
+- [2023-04-06T16:24:16] Improve logging and health endpoint metrics
