@@ -30228,3 +30228,4 @@
 - [2023-04-05T14:36:11] Clean up legacy worker task routines
 - [2023-04-05T09:41:30] Update documentation and architectural guides
 - [2023-04-05T17:57:47] Refactor worker polling logic
+- [2023-04-05T22:25:25] Add error handling for yt-dlp rate limits
