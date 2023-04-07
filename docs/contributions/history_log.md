@@ -30232,3 +30232,4 @@
 - [2023-04-06T13:18:40] Update schema migration helpers
 - [2023-04-06T16:24:16] Improve logging and health endpoint metrics
 - [2023-04-06T14:37:00] Improve ffmpeg streaming pipe buffer management
+- [2023-04-06T20:01:13] Optimize PostgreSQL query execution plans
