@@ -30241,3 +30241,4 @@
 - [2023-04-07T21:24:07] Fix edge case in URL parsing and validation
 - [2023-04-07T18:13:39] Optimize PostgreSQL query execution plans
 - [2023-04-07T18:24:15] Improve logging and health endpoint metrics
+- [2023-04-07T09:06:28] Refactor worker polling logic
