@@ -30243,3 +30243,4 @@
 - [2023-04-07T18:24:15] Improve logging and health endpoint metrics
 - [2023-04-07T09:06:28] Refactor worker polling logic
 - [2023-04-07T08:39:22] Add retries for transient network drops
+- [2023-04-07T15:26:08] Update schema migration helpers
