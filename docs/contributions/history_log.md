@@ -30255,3 +30255,4 @@
 - [2023-04-10T21:45:19] Add Redis rate limit backoff handlers
 - [2023-04-10T17:54:04] Add Redis rate limit backoff handlers
 - [2023-04-10T11:45:42] Add error handling for yt-dlp rate limits
+- [2023-04-10T15:57:46] Fix edge case in URL parsing and validation
