@@ -30254,3 +30254,4 @@
 - [2023-04-10T21:09:44] Enhance dashboard statistics rendering
 - [2023-04-10T21:45:19] Add Redis rate limit backoff handlers
 - [2023-04-10T17:54:04] Add Redis rate limit backoff handlers
+- [2023-04-10T11:45:42] Add error handling for yt-dlp rate limits
