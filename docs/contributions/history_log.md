@@ -30260,3 +30260,4 @@
 - [2023-04-11T17:27:14] Update documentation and architectural guides
 - [2023-04-11T14:53:34] Enhance dashboard statistics rendering
 - [2023-04-11T12:25:00] Refactor cookie refresher probe logic
+- [2023-04-11T19:53:33] Add Redis rate limit backoff handlers
