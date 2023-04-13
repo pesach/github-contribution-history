@@ -30264,3 +30264,4 @@
 - [2023-04-11T10:45:47] Improve ffmpeg streaming pipe buffer management
 - [2023-04-11T19:13:41] Fix edge case in channel tab crawler
 - [2023-04-11T19:17:11] Update schema migration helpers
+- [2023-04-12T20:13:12] Add Redis rate limit backoff handlers
