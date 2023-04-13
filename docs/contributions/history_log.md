@@ -30269,3 +30269,4 @@
 - [2023-04-12T10:39:25] Fix edge case in URL parsing and validation
 - [2023-04-12T08:49:41] Add Prometheus exporter endpoints for queue length
 - [2023-04-12T18:03:36] Fix edge case in channel tab crawler
+- [2023-04-12T20:39:55] Add Redis rate limit backoff handlers
