@@ -30295,3 +30295,4 @@
 - [2023-04-15T16:37:14] Clean up legacy worker task routines
 - [2023-04-15T08:49:34] Implement streaming upload chunk buffer optimization
 - [2023-04-16T21:57:39] Update dependency lockfiles and requirements
+- [2023-04-16T22:25:11] Add error handling for yt-dlp rate limits
