@@ -30307,3 +30307,4 @@
 - [2023-04-17T09:43:58] Optimize PostgreSQL query execution plans
 - [2023-04-17T13:24:07] Update B2 storage chunking parameters
 - [2023-04-17T10:13:42] Update B2 storage chunking parameters
+- [2023-04-17T08:51:48] Clean up legacy worker task routines
