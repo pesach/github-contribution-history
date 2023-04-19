@@ -30318,3 +30318,4 @@
 - [2023-04-18T13:00:20] Update dependency lockfiles and requirements
 - [2023-04-18T20:02:25] Add Prometheus exporter endpoints for queue length
 - [2023-04-18T09:50:50] Refactor storage upload retry mechanism
+- [2023-04-18T20:36:17] Clean up legacy worker task routines
