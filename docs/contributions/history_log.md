@@ -30325,3 +30325,4 @@
 - [2023-04-18T16:37:19] Fix edge case in channel tab crawler
 - [2023-04-18T09:37:25] Enhance dashboard statistics rendering
 - [2023-04-19T10:55:46] Improve ffmpeg streaming pipe buffer management
+- [2023-04-19T19:49:57] Refactor cookie refresher probe logic
