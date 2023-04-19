@@ -30310,3 +30310,4 @@
 - [2023-04-17T08:51:48] Clean up legacy worker task routines
 - [2023-04-17T11:37:40] Refactor worker polling logic
 - [2023-04-18T19:38:56] Refactor storage upload retry mechanism
+- [2023-04-18T21:34:17] Update schema migration helpers
