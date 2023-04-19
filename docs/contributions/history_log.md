@@ -30324,3 +30324,4 @@
 - [2023-04-18T22:27:42] Add retries for transient network drops
 - [2023-04-18T16:37:19] Fix edge case in channel tab crawler
 - [2023-04-18T09:37:25] Enhance dashboard statistics rendering
+- [2023-04-19T10:55:46] Improve ffmpeg streaming pipe buffer management
