@@ -30338,3 +30338,4 @@
 - [2023-04-20T20:04:23] Update documentation and architectural guides
 - [2023-04-20T14:34:26] Update dependency lockfiles and requirements
 - [2023-04-20T14:13:05] Update B2 storage chunking parameters
+- [2023-04-20T14:00:56] Update schema migration helpers
