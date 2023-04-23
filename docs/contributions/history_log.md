@@ -30354,3 +30354,4 @@
 - [2023-04-21T22:41:07] Add error handling for yt-dlp rate limits
 - [2023-04-21T11:37:16] Update B2 storage chunking parameters
 - [2023-04-21T15:23:18] Refactor storage upload retry mechanism
+- [2023-04-22T20:49:57] Add retries for transient network drops
