@@ -30361,3 +30361,4 @@
 - [2023-04-22T08:05:04] Add error handling for yt-dlp rate limits
 - [2023-04-23T13:47:35] Add Prometheus exporter endpoints for queue length
 - [2023-04-23T12:56:25] Clean up legacy worker task routines
+- [2023-04-23T20:53:02] Update documentation and architectural guides
