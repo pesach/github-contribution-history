@@ -30382,3 +30382,4 @@
 - [2023-04-25T14:00:47] Update dependency lockfiles and requirements
 - [2023-04-25T15:59:37] Improve ffmpeg streaming pipe buffer management
 - [2023-04-25T14:01:51] Add retries for transient network drops
+- [2023-04-25T19:15:11] Add error handling for yt-dlp rate limits
