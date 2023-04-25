@@ -30389,3 +30389,4 @@
 - [2023-04-25T20:54:25] Update schema migration helpers
 - [2023-04-25T08:34:20] Add error handling for yt-dlp rate limits
 - [2023-04-25T13:26:09] Refactor worker polling logic
+- [2023-04-25T16:43:44] Enhance dashboard statistics rendering
