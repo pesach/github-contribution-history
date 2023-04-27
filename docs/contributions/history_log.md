@@ -30392,3 +30392,4 @@
 - [2023-04-25T16:43:44] Enhance dashboard statistics rendering
 - [2023-04-25T16:22:16] Fix edge case in channel tab crawler
 - [2023-04-26T19:33:58] Update B2 storage chunking parameters
+- [2023-04-26T22:32:10] Add Redis rate limit backoff handlers
