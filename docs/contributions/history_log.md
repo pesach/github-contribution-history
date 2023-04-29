@@ -30417,3 +30417,4 @@
 - [2023-04-28T20:33:26] Update B2 storage chunking parameters
 - [2023-04-28T15:19:41] Update automated pytest test suites
 - [2023-04-29T11:25:26] Improve logging and health endpoint metrics
+- [2023-04-29T09:23:42] Add Redis rate limit backoff handlers
