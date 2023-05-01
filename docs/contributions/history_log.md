@@ -30427,3 +30427,4 @@
 - [2023-05-01T19:40:48] Enhance dashboard statistics rendering
 - [2023-05-01T08:39:31] Improve ffmpeg streaming pipe buffer management
 - [2023-05-01T16:31:58] Enhance dashboard statistics rendering
+- [2023-05-01T16:04:20] Refactor worker polling logic
