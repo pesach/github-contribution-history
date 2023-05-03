@@ -30447,3 +30447,4 @@
 - [2023-05-02T13:32:51] Improve logging and health endpoint metrics
 - [2023-05-03T12:14:59] Refactor cookie refresher probe logic
 - [2023-05-03T09:22:14] Update B2 storage chunking parameters
+- [2023-05-03T14:46:31] Add Redis rate limit backoff handlers
