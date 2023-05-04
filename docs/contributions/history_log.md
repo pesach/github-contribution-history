@@ -30462,3 +30462,4 @@
 - [2023-05-04T13:27:54] Clean up legacy worker task routines
 - [2023-05-04T10:53:47] Refactor cookie refresher probe logic
 - [2023-05-04T16:21:10] Update automated pytest test suites
+- [2023-05-04T19:50:02] Fix edge case in URL parsing and validation
