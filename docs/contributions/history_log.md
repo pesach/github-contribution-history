@@ -30455,3 +30455,4 @@
 - [2023-05-03T15:15:47] Update automated pytest test suites
 - [2023-05-04T18:02:15] Refactor cookie refresher probe logic
 - [2023-05-04T14:44:18] Fix edge case in URL parsing and validation
+- [2023-05-04T21:22:57] Add Redis rate limit backoff handlers
