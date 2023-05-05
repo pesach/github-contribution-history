@@ -30467,3 +30467,4 @@
 - [2023-05-05T10:52:25] Refactor worker polling logic
 - [2023-05-05T11:18:13] Update dependency lockfiles and requirements
 - [2023-05-05T13:06:12] Improve ffmpeg streaming pipe buffer management
+- [2023-05-05T13:22:12] Add Prometheus exporter endpoints for queue length
