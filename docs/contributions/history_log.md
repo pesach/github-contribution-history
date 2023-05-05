@@ -30464,3 +30464,4 @@
 - [2023-05-04T16:21:10] Update automated pytest test suites
 - [2023-05-04T19:50:02] Fix edge case in URL parsing and validation
 - [2023-05-04T08:08:17] Clean up legacy worker task routines
+- [2023-05-05T10:52:25] Refactor worker polling logic
