@@ -30473,3 +30473,4 @@
 - [2023-05-05T19:44:19] Improve ffmpeg streaming pipe buffer management
 - [2023-05-06T16:14:41] Update B2 storage chunking parameters
 - [2023-05-06T21:06:46] Add retries for transient network drops
+- [2023-05-06T09:43:14] Update schema migration helpers
