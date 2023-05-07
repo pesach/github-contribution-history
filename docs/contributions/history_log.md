@@ -30476,3 +30476,4 @@
 - [2023-05-06T09:43:14] Update schema migration helpers
 - [2023-05-06T19:52:39] Fix edge case in channel tab crawler
 - [2023-05-06T17:12:40] Improve ffmpeg streaming pipe buffer management
+- [2023-05-07T19:10:06] Enhance dashboard statistics rendering
