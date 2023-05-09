@@ -30495,3 +30495,4 @@
 - [2023-05-09T11:06:16] Update schema migration helpers
 - [2023-05-09T09:39:29] Optimize PostgreSQL query execution plans
 - [2023-05-09T18:11:36] Refactor worker polling logic
+- [2023-05-09T11:42:47] Add Redis rate limit backoff handlers
