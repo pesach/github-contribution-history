@@ -30487,3 +30487,4 @@
 - [2023-05-08T15:14:32] Add error handling for yt-dlp rate limits
 - [2023-05-08T19:16:47] Update schema migration helpers
 - [2023-05-08T12:34:47] Update automated pytest test suites
+- [2023-05-08T21:12:34] Refactor worker polling logic
