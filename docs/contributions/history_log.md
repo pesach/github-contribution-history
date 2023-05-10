@@ -30512,3 +30512,4 @@
 - [2023-05-10T21:23:13] Add Prometheus exporter endpoints for queue length
 - [2023-05-10T19:38:03] Fix edge case in channel tab crawler
 - [2023-05-10T10:57:48] Clean up legacy worker task routines
+- [2023-05-10T09:15:55] Refactor storage upload retry mechanism
