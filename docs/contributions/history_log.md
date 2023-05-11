@@ -30517,3 +30517,4 @@
 - [2023-05-11T12:41:38] Add error handling for yt-dlp rate limits
 - [2023-05-11T20:04:23] Improve ffmpeg streaming pipe buffer management
 - [2023-05-11T20:30:49] Update schema migration helpers
+- [2023-05-11T16:10:53] Add retries for transient network drops
