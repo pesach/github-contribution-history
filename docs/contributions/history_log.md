@@ -30530,3 +30530,4 @@
 - [2023-05-12T08:22:15] Enhance dashboard statistics rendering
 - [2023-05-12T13:15:31] Fix edge case in channel tab crawler
 - [2023-05-12T18:53:33] Clean up legacy worker task routines
+- [2023-05-12T13:05:24] Add error handling for yt-dlp rate limits
