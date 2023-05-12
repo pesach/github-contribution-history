@@ -30524,3 +30524,4 @@
 - [2023-05-11T19:11:12] Update documentation and architectural guides
 - [2023-05-12T19:50:51] Improve ffmpeg streaming pipe buffer management
 - [2023-05-12T08:37:31] Fix edge case in channel tab crawler
+- [2023-05-12T18:21:14] Update schema migration helpers
