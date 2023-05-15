@@ -30535,3 +30535,4 @@
 - [2023-05-14T21:02:53] Add Redis rate limit backoff handlers
 - [2023-05-14T17:03:56] Refactor cookie refresher probe logic
 - [2023-05-14T21:50:43] Clean up legacy worker task routines
+- [2023-05-15T18:44:34] Fix edge case in URL parsing and validation
