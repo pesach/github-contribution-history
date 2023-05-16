@@ -30550,3 +30550,4 @@
 - [2023-05-16T19:12:24] Refactor storage upload retry mechanism
 - [2023-05-16T18:03:30] Implement streaming upload chunk buffer optimization
 - [2023-05-16T08:35:28] Fix edge case in URL parsing and validation
+- [2023-05-16T08:35:38] Add error handling for yt-dlp rate limits
