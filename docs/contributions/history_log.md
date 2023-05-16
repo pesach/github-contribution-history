@@ -30543,3 +30543,4 @@
 - [2023-05-15T14:30:33] Optimize PostgreSQL query execution plans
 - [2023-05-15T16:42:21] Refactor worker polling logic
 - [2023-05-16T12:20:08] Improve ffmpeg streaming pipe buffer management
+- [2023-05-16T14:34:04] Clean up legacy worker task routines
