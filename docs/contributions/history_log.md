@@ -30556,3 +30556,4 @@
 - [2023-05-17T20:28:52] Update documentation and architectural guides
 - [2023-05-17T09:29:04] Fix edge case in URL parsing and validation
 - [2023-05-17T21:21:28] Refactor worker polling logic
+- [2023-05-17T12:45:38] Clean up legacy worker task routines
