@@ -30577,3 +30577,4 @@
 - [2023-05-18T18:55:39] Fix edge case in URL parsing and validation
 - [2023-05-18T20:34:11] Improve logging and health endpoint metrics
 - [2023-05-18T22:23:33] Add Redis rate limit backoff handlers
+- [2023-05-18T10:07:12] Clean up legacy worker task routines
