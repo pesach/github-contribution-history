@@ -30578,3 +30578,4 @@
 - [2023-05-18T20:34:11] Improve logging and health endpoint metrics
 - [2023-05-18T22:23:33] Add Redis rate limit backoff handlers
 - [2023-05-18T10:07:12] Clean up legacy worker task routines
+- [2023-05-19T15:14:30] Refactor worker polling logic
