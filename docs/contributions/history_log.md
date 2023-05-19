@@ -30589,3 +30589,4 @@
 - [2023-05-19T12:19:13] Implement streaming upload chunk buffer optimization
 - [2023-05-19T10:47:48] Add retries for transient network drops
 - [2023-05-19T22:42:52] Update dependency lockfiles and requirements
+- [2023-05-19T17:18:31] Improve ffmpeg streaming pipe buffer management
