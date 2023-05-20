@@ -30592,3 +30592,4 @@
 - [2023-05-19T17:18:31] Improve ffmpeg streaming pipe buffer management
 - [2023-05-19T11:45:12] Update schema migration helpers
 - [2023-05-19T13:42:13] Refactor cookie refresher probe logic
+- [2023-05-20T17:42:31] Enhance dashboard statistics rendering
