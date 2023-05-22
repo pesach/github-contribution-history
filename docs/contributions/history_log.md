@@ -30603,3 +30603,4 @@
 - [2023-05-22T21:22:45] Refactor worker polling logic
 - [2023-05-22T22:23:03] Refactor cookie refresher probe logic
 - [2023-05-22T08:13:31] Refactor worker polling logic
+- [2023-05-22T12:40:08] Add error handling for yt-dlp rate limits
