@@ -30618,3 +30618,4 @@
 - [2023-05-23T20:52:31] Add retries for transient network drops
 - [2023-05-23T22:34:19] Update B2 storage chunking parameters
 - [2023-05-23T10:45:28] Implement streaming upload chunk buffer optimization
+- [2023-05-23T11:25:01] Refactor cookie refresher probe logic
