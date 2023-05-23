@@ -30614,3 +30614,4 @@
 - [2023-05-23T17:31:59] Improve ffmpeg streaming pipe buffer management
 - [2023-05-23T18:20:41] Update schema migration helpers
 - [2023-05-23T21:05:54] Fix edge case in URL parsing and validation
+- [2023-05-23T15:50:51] Refactor worker polling logic
