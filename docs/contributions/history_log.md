@@ -30616,3 +30616,4 @@
 - [2023-05-23T21:05:54] Fix edge case in URL parsing and validation
 - [2023-05-23T15:50:51] Refactor worker polling logic
 - [2023-05-23T20:52:31] Add retries for transient network drops
+- [2023-05-23T22:34:19] Update B2 storage chunking parameters
