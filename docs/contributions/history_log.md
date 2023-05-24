@@ -30629,3 +30629,4 @@
 - [2023-05-24T19:32:18] Add retries for transient network drops
 - [2023-05-24T19:06:39] Add Redis rate limit backoff handlers
 - [2023-05-24T20:22:22] Enhance dashboard statistics rendering
+- [2023-05-24T10:41:38] Update B2 storage chunking parameters
