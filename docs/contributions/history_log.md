@@ -30635,3 +30635,4 @@
 - [2023-05-24T09:37:32] Update B2 storage chunking parameters
 - [2023-05-24T22:48:18] Update schema migration helpers
 - [2023-05-24T12:54:38] Add Redis rate limit backoff handlers
+- [2023-05-25T14:47:09] Fix edge case in channel tab crawler
