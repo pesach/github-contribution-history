@@ -30631,3 +30631,4 @@
 - [2023-05-24T20:22:22] Enhance dashboard statistics rendering
 - [2023-05-24T10:41:38] Update B2 storage chunking parameters
 - [2023-05-24T09:07:29] Refactor storage upload retry mechanism
+- [2023-05-24T22:37:39] Add error handling for yt-dlp rate limits
