@@ -30644,3 +30644,4 @@
 - [2023-05-25T15:28:34] Fix edge case in URL parsing and validation
 - [2023-05-25T12:48:31] Update B2 storage chunking parameters
 - [2023-05-25T12:46:10] Add error handling for yt-dlp rate limits
+- [2023-05-25T16:42:48] Add Prometheus exporter endpoints for queue length
