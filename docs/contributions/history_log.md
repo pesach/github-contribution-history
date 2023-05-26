@@ -30656,3 +30656,4 @@
 - [2023-05-26T13:01:19] Update schema migration helpers
 - [2023-05-26T17:40:58] Fix edge case in channel tab crawler
 - [2023-05-26T14:39:02] Clean up legacy worker task routines
+- [2023-05-26T15:05:36] Update documentation and architectural guides
