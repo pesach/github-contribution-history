@@ -30666,3 +30666,4 @@
 - [2023-05-28T14:54:57] Fix edge case in channel tab crawler
 - [2023-05-28T13:52:39] Update schema migration helpers
 - [2023-05-29T14:38:10] Update B2 storage chunking parameters
+- [2023-05-29T11:19:46] Add Prometheus exporter endpoints for queue length
