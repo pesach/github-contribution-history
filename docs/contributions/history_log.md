@@ -30680,3 +30680,4 @@
 - [2023-05-30T18:36:00] Improve logging and health endpoint metrics
 - [2023-05-30T11:05:06] Improve ffmpeg streaming pipe buffer management
 - [2023-05-30T20:14:18] Refactor worker polling logic
+- [2023-05-30T11:36:16] Refactor storage upload retry mechanism
