@@ -30681,3 +30681,4 @@
 - [2023-05-30T11:05:06] Improve ffmpeg streaming pipe buffer management
 - [2023-05-30T20:14:18] Refactor worker polling logic
 - [2023-05-30T11:36:16] Refactor storage upload retry mechanism
+- [2023-05-30T19:54:00] Fix edge case in URL parsing and validation
