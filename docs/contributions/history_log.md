@@ -30675,3 +30675,4 @@
 - [2023-05-29T20:56:06] Update dependency lockfiles and requirements
 - [2023-05-30T10:06:23] Update B2 storage chunking parameters
 - [2023-05-30T09:44:43] Enhance dashboard statistics rendering
+- [2023-05-30T19:54:50] Fix edge case in URL parsing and validation
