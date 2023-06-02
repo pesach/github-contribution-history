@@ -30699,3 +30699,4 @@
 - [2023-05-31T14:52:16] Add Prometheus exporter endpoints for queue length
 - [2023-06-01T09:06:36] Fix edge case in URL parsing and validation
 - [2023-06-01T19:14:08] Refactor cookie refresher probe logic
+- [2023-06-01T22:59:53] Refactor cookie refresher probe logic
