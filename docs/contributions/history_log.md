@@ -30711,3 +30711,4 @@
 - [2023-06-02T19:14:36] Update automated pytest test suites
 - [2023-06-02T08:57:53] Update B2 storage chunking parameters
 - [2023-06-02T11:12:18] Fix edge case in channel tab crawler
+- [2023-06-02T09:50:19] Fix edge case in channel tab crawler
