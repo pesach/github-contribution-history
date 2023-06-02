@@ -30714,3 +30714,4 @@
 - [2023-06-02T09:50:19] Fix edge case in channel tab crawler
 - [2023-06-02T21:53:59] Enhance dashboard statistics rendering
 - [2023-06-02T17:46:16] Add Redis rate limit backoff handlers
+- [2023-06-02T14:49:05] Refactor worker polling logic
