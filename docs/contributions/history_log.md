@@ -30717,3 +30717,4 @@
 - [2023-06-02T14:49:05] Refactor worker polling logic
 - [2023-06-02T10:04:04] Add Prometheus exporter endpoints for queue length
 - [2023-06-02T20:44:13] Update dependency lockfiles and requirements
+- [2023-06-03T16:14:07] Update schema migration helpers
