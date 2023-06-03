@@ -30720,3 +30720,4 @@
 - [2023-06-03T16:14:07] Update schema migration helpers
 - [2023-06-03T16:08:05] Refactor worker polling logic
 - [2023-06-03T13:58:09] Add Redis rate limit backoff handlers
+- [2023-06-03T11:02:25] Refactor worker polling logic
