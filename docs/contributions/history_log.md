@@ -30721,3 +30721,4 @@
 - [2023-06-03T16:08:05] Refactor worker polling logic
 - [2023-06-03T13:58:09] Add Redis rate limit backoff handlers
 - [2023-06-03T11:02:25] Refactor worker polling logic
+- [2023-06-03T08:05:37] Improve logging and health endpoint metrics
