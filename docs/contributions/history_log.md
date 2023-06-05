@@ -30726,3 +30726,4 @@
 - [2023-06-05T13:18:55] Optimize PostgreSQL query execution plans
 - [2023-06-05T14:30:57] Improve logging and health endpoint metrics
 - [2023-06-05T11:58:20] Add retries for transient network drops
+- [2023-06-05T18:29:40] Refactor worker polling logic
