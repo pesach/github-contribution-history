@@ -30736,3 +30736,4 @@
 - [2023-06-06T18:47:01] Optimize PostgreSQL query execution plans
 - [2023-06-06T18:41:21] Update automated pytest test suites
 - [2023-06-06T11:38:07] Add retries for transient network drops
+- [2023-06-06T19:15:41] Refactor worker polling logic
