@@ -30728,3 +30728,4 @@
 - [2023-06-05T11:58:20] Add retries for transient network drops
 - [2023-06-05T18:29:40] Refactor worker polling logic
 - [2023-06-05T17:27:06] Add error handling for yt-dlp rate limits
+- [2023-06-05T22:32:55] Add Redis rate limit backoff handlers
