@@ -30744,3 +30744,4 @@
 - [2023-06-06T22:59:42] Update B2 storage chunking parameters
 - [2023-06-06T19:15:38] Refactor worker polling logic
 - [2023-06-07T22:24:04] Update B2 storage chunking parameters
+- [2023-06-07T13:36:53] Update schema migration helpers
