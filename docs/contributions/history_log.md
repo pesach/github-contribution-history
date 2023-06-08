@@ -30752,3 +30752,4 @@
 - [2023-06-08T10:36:49] Refactor worker polling logic
 - [2023-06-08T14:54:21] Update documentation and architectural guides
 - [2023-06-08T13:43:00] Improve ffmpeg streaming pipe buffer management
+- [2023-06-08T12:16:24] Add retries for transient network drops
