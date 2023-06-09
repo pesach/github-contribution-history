@@ -30761,3 +30761,4 @@
 - [2023-06-09T13:27:23] Fix edge case in channel tab crawler
 - [2023-06-09T08:15:12] Refactor worker polling logic
 - [2023-06-09T17:32:32] Update schema migration helpers
+- [2023-06-09T14:30:26] Fix edge case in channel tab crawler
