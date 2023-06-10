@@ -30755,3 +30755,4 @@
 - [2023-06-08T12:16:24] Add retries for transient network drops
 - [2023-06-08T10:34:12] Update schema migration helpers
 - [2023-06-08T22:31:33] Refactor cookie refresher probe logic
+- [2023-06-09T21:56:34] Clean up legacy worker task routines
