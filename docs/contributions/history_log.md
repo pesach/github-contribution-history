@@ -30786,3 +30786,4 @@
 - [2023-06-12T16:46:18] Refactor cookie refresher probe logic
 - [2023-06-12T11:54:27] Improve logging and health endpoint metrics
 - [2023-06-13T08:03:22] Update dependency lockfiles and requirements
+- [2023-06-13T19:19:06] Update schema migration helpers
