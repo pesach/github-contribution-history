@@ -30791,3 +30791,4 @@
 - [2023-06-13T17:33:04] Update schema migration helpers
 - [2023-06-13T19:14:22] Improve logging and health endpoint metrics
 - [2023-06-13T11:15:21] Refactor cookie refresher probe logic
+- [2023-06-13T14:58:24] Fix edge case in URL parsing and validation
