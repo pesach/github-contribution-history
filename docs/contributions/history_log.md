@@ -30799,3 +30799,4 @@
 - [2023-06-14T17:22:50] Refactor cookie refresher probe logic
 - [2023-06-14T13:57:01] Add Prometheus exporter endpoints for queue length
 - [2023-06-14T14:54:42] Enhance dashboard statistics rendering
+- [2023-06-14T12:02:23] Clean up legacy worker task routines
