@@ -30803,3 +30803,4 @@
 - [2023-06-14T22:45:14] Refactor worker polling logic
 - [2023-06-14T18:26:42] Update dependency lockfiles and requirements
 - [2023-06-15T10:10:29] Add Redis rate limit backoff handlers
+- [2023-06-15T14:25:59] Add Prometheus exporter endpoints for queue length
