@@ -30819,3 +30819,4 @@
 - [2023-06-16T20:36:07] Update dependency lockfiles and requirements
 - [2023-06-16T14:08:35] Enhance dashboard statistics rendering
 - [2023-06-16T09:07:21] Fix edge case in channel tab crawler
+- [2023-06-16T16:32:40] Add error handling for yt-dlp rate limits
