@@ -30810,3 +30810,4 @@
 - [2023-06-15T11:12:56] Update automated pytest test suites
 - [2023-06-15T10:37:36] Update dependency lockfiles and requirements
 - [2023-06-16T20:27:35] Improve logging and health endpoint metrics
+- [2023-06-16T16:57:04] Update B2 storage chunking parameters
