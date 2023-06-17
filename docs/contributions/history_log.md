@@ -30823,3 +30823,4 @@
 - [2023-06-16T11:11:57] Fix edge case in URL parsing and validation
 - [2023-06-16T20:24:45] Add error handling for yt-dlp rate limits
 - [2023-06-17T19:48:44] Refactor worker polling logic
+- [2023-06-17T14:53:30] Clean up legacy worker task routines
