@@ -30824,3 +30824,4 @@
 - [2023-06-16T20:24:45] Add error handling for yt-dlp rate limits
 - [2023-06-17T19:48:44] Refactor worker polling logic
 - [2023-06-17T14:53:30] Clean up legacy worker task routines
+- [2023-06-17T11:28:27] Update B2 storage chunking parameters
