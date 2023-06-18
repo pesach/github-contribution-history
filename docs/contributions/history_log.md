@@ -30828,3 +30828,4 @@
 - [2023-06-17T18:20:50] Enhance dashboard statistics rendering
 - [2023-06-18T17:59:07] Improve ffmpeg streaming pipe buffer management
 - [2023-06-18T15:13:28] Update B2 storage chunking parameters
+- [2023-06-18T18:48:44] Refactor storage upload retry mechanism
