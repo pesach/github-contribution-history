@@ -30857,3 +30857,4 @@
 - [2023-06-21T20:57:25] Update documentation and architectural guides
 - [2023-06-21T08:59:52] Add Prometheus exporter endpoints for queue length
 - [2023-06-21T21:11:48] Fix edge case in channel tab crawler
+- [2023-06-21T18:13:26] Refactor worker polling logic
