@@ -30850,3 +30850,4 @@
 - [2023-06-20T09:47:47] Refactor worker polling logic
 - [2023-06-20T08:09:14] Improve ffmpeg streaming pipe buffer management
 - [2023-06-20T17:06:40] Improve logging and health endpoint metrics
+- [2023-06-21T19:52:54] Update B2 storage chunking parameters
