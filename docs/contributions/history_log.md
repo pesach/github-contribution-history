@@ -30871,3 +30871,4 @@
 - [2023-06-22T09:52:24] Add Redis rate limit backoff handlers
 - [2023-06-22T18:09:25] Update documentation and architectural guides
 - [2023-06-23T10:08:16] Clean up legacy worker task routines
+- [2023-06-23T13:56:09] Update B2 storage chunking parameters
