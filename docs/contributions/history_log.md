@@ -30867,3 +30867,4 @@
 - [2023-06-22T15:19:38] Add Redis rate limit backoff handlers
 - [2023-06-22T18:27:04] Update B2 storage chunking parameters
 - [2023-06-22T11:04:41] Update automated pytest test suites
+- [2023-06-22T22:57:11] Refactor cookie refresher probe logic
