@@ -30878,3 +30878,4 @@
 - [2023-06-23T11:41:38] Add retries for transient network drops
 - [2023-06-23T20:13:10] Improve ffmpeg streaming pipe buffer management
 - [2023-06-23T11:15:16] Clean up legacy worker task routines
+- [2023-06-23T14:29:36] Refactor cookie refresher probe logic
