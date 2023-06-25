@@ -30890,3 +30890,4 @@
 - [2023-06-24T09:00:28] Refactor cookie refresher probe logic
 - [2023-06-25T12:18:05] Clean up legacy worker task routines
 - [2023-06-25T16:46:21] Refactor storage upload retry mechanism
+- [2023-06-25T10:06:16] Update schema migration helpers
