@@ -30895,3 +30895,4 @@
 - [2023-06-25T19:38:03] Enhance dashboard statistics rendering
 - [2023-06-27T19:39:04] Clean up legacy worker task routines
 - [2023-06-27T18:32:22] Improve ffmpeg streaming pipe buffer management
+- [2023-06-27T18:30:45] Fix edge case in URL parsing and validation
