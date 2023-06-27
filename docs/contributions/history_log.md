@@ -30898,3 +30898,4 @@
 - [2023-06-27T18:30:45] Fix edge case in URL parsing and validation
 - [2023-06-27T18:41:20] Improve ffmpeg streaming pipe buffer management
 - [2023-06-27T22:34:58] Improve logging and health endpoint metrics
+- [2023-06-27T14:15:17] Update B2 storage chunking parameters
