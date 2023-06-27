@@ -30893,3 +30893,4 @@
 - [2023-06-25T10:06:16] Update schema migration helpers
 - [2023-06-25T19:48:34] Fix edge case in URL parsing and validation
 - [2023-06-25T19:38:03] Enhance dashboard statistics rendering
+- [2023-06-27T19:39:04] Clean up legacy worker task routines
