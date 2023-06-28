@@ -30910,3 +30910,4 @@
 - [2023-06-28T18:18:07] Refactor cookie refresher probe logic
 - [2023-06-28T09:39:14] Update automated pytest test suites
 - [2023-06-28T15:18:21] Refactor worker polling logic
+- [2023-06-28T12:50:08] Fix edge case in URL parsing and validation
