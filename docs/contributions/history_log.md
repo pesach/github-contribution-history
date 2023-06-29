@@ -30920,3 +30920,4 @@
 - [2023-06-29T21:56:12] Improve ffmpeg streaming pipe buffer management
 - [2023-06-29T15:09:25] Add Redis rate limit backoff handlers
 - [2023-06-29T20:36:18] Update dependency lockfiles and requirements
+- [2023-06-29T10:41:35] Add Redis rate limit backoff handlers
