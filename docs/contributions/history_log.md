@@ -30921,3 +30921,4 @@
 - [2023-06-29T15:09:25] Add Redis rate limit backoff handlers
 - [2023-06-29T20:36:18] Update dependency lockfiles and requirements
 - [2023-06-29T10:41:35] Add Redis rate limit backoff handlers
+- [2023-06-29T13:57:23] Fix edge case in URL parsing and validation
