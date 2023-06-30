@@ -30926,3 +30926,4 @@
 - [2023-06-29T16:49:19] Update documentation and architectural guides
 - [2023-06-30T10:03:33] Improve ffmpeg streaming pipe buffer management
 - [2023-06-30T18:12:55] Update B2 storage chunking parameters
+- [2023-06-30T11:08:37] Improve logging and health endpoint metrics
