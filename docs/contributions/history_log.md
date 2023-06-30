@@ -30924,3 +30924,4 @@
 - [2023-06-29T13:57:23] Fix edge case in URL parsing and validation
 - [2023-06-29T11:35:02] Fix edge case in channel tab crawler
 - [2023-06-29T16:49:19] Update documentation and architectural guides
+- [2023-06-30T10:03:33] Improve ffmpeg streaming pipe buffer management
