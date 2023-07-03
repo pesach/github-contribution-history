@@ -30941,3 +30941,4 @@
 - [2023-07-02T14:05:02] Fix edge case in channel tab crawler
 - [2023-07-03T10:19:05] Fix edge case in URL parsing and validation
 - [2023-07-03T20:34:47] Update schema migration helpers
+- [2023-07-03T14:00:54] Update dependency lockfiles and requirements
