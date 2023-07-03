@@ -30939,3 +30939,4 @@
 - [2023-07-02T17:21:11] Clean up legacy worker task routines
 - [2023-07-02T15:12:16] Implement streaming upload chunk buffer optimization
 - [2023-07-02T14:05:02] Fix edge case in channel tab crawler
+- [2023-07-03T10:19:05] Fix edge case in URL parsing and validation
