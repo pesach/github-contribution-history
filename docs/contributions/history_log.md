@@ -30942,3 +30942,4 @@
 - [2023-07-03T10:19:05] Fix edge case in URL parsing and validation
 - [2023-07-03T20:34:47] Update schema migration helpers
 - [2023-07-03T14:00:54] Update dependency lockfiles and requirements
+- [2023-07-03T21:29:11] Add error handling for yt-dlp rate limits
