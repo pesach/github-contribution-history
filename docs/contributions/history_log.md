@@ -30945,3 +30945,4 @@
 - [2023-07-03T21:29:11] Add error handling for yt-dlp rate limits
 - [2023-07-03T21:38:31] Clean up legacy worker task routines
 - [2023-07-03T19:58:24] Refactor cookie refresher probe logic
+- [2023-07-03T22:48:31] Add retries for transient network drops
