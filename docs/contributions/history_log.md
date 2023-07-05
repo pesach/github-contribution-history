@@ -30950,3 +30950,4 @@
 - [2023-07-04T17:36:48] Refactor cookie refresher probe logic
 - [2023-07-04T10:09:57] Fix edge case in URL parsing and validation
 - [2023-07-04T12:38:52] Fix edge case in URL parsing and validation
+- [2023-07-04T20:46:56] Add error handling for yt-dlp rate limits
