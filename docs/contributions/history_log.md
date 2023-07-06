@@ -30971,3 +30971,4 @@
 - [2023-07-06T22:51:18] Fix edge case in channel tab crawler
 - [2023-07-06T20:13:47] Update schema migration helpers
 - [2023-07-06T17:36:24] Add Redis rate limit backoff handlers
+- [2023-07-06T19:13:27] Add retries for transient network drops
