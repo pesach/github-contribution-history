@@ -30975,3 +30975,4 @@
 - [2023-07-06T19:58:56] Fix edge case in channel tab crawler
 - [2023-07-06T21:00:07] Add error handling for yt-dlp rate limits
 - [2023-07-06T13:52:05] Improve ffmpeg streaming pipe buffer management
+- [2023-07-06T12:31:31] Refactor cookie refresher probe logic
