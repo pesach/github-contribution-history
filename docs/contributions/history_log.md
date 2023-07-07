@@ -30980,3 +30980,4 @@
 - [2023-07-06T11:57:15] Fix edge case in URL parsing and validation
 - [2023-07-06T11:16:17] Update schema migration helpers
 - [2023-07-06T11:39:32] Improve logging and health endpoint metrics
+- [2023-07-07T09:34:46] Update B2 storage chunking parameters
