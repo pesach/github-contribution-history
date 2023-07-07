@@ -30989,3 +30989,4 @@
 - [2023-07-07T11:44:19] Improve logging and health endpoint metrics
 - [2023-07-07T10:13:01] Add Redis rate limit backoff handlers
 - [2023-07-07T12:29:42] Refactor storage upload retry mechanism
+- [2023-07-07T12:34:33] Refactor worker polling logic
