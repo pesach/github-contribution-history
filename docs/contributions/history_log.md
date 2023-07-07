@@ -30968,3 +30968,4 @@
 - [2023-07-06T22:00:16] Improve ffmpeg streaming pipe buffer management
 - [2023-07-06T17:20:33] Improve ffmpeg streaming pipe buffer management
 - [2023-07-06T17:50:29] Improve ffmpeg streaming pipe buffer management
+- [2023-07-06T22:51:18] Fix edge case in channel tab crawler
