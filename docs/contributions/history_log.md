@@ -30991,3 +30991,4 @@
 - [2023-07-07T12:29:42] Refactor storage upload retry mechanism
 - [2023-07-07T12:34:33] Refactor worker polling logic
 - [2023-07-08T19:19:37] Fix edge case in URL parsing and validation
+- [2023-07-08T08:38:06] Clean up legacy worker task routines
