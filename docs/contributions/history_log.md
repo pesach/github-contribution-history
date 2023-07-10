@@ -30997,3 +30997,4 @@
 - [2023-07-09T09:53:56] Clean up legacy worker task routines
 - [2023-07-09T17:48:31] Update B2 storage chunking parameters
 - [2023-07-09T22:49:37] Update B2 storage chunking parameters
+- [2023-07-10T12:48:55] Update dependency lockfiles and requirements
