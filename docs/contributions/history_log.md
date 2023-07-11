@@ -31006,3 +31006,4 @@
 - [2023-07-10T22:58:38] Update dependency lockfiles and requirements
 - [2023-07-11T19:20:18] Implement streaming upload chunk buffer optimization
 - [2023-07-11T08:32:11] Update automated pytest test suites
+- [2023-07-11T19:46:16] Refactor worker polling logic
