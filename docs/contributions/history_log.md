@@ -31008,3 +31008,4 @@
 - [2023-07-11T08:32:11] Update automated pytest test suites
 - [2023-07-11T19:46:16] Refactor worker polling logic
 - [2023-07-11T15:38:06] Fix edge case in URL parsing and validation
+- [2023-07-11T15:25:20] Clean up legacy worker task routines
