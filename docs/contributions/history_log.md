@@ -31011,3 +31011,4 @@
 - [2023-07-11T15:25:20] Clean up legacy worker task routines
 - [2023-07-11T10:20:47] Refactor storage upload retry mechanism
 - [2023-07-11T08:45:57] Refactor cookie refresher probe logic
+- [2023-07-11T20:12:00] Add Prometheus exporter endpoints for queue length
