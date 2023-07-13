@@ -31027,3 +31027,4 @@
 - [2023-07-13T13:54:24] Add error handling for yt-dlp rate limits
 - [2023-07-13T18:04:32] Improve logging and health endpoint metrics
 - [2023-07-13T17:06:45] Update schema migration helpers
+- [2023-07-13T09:03:11] Refactor cookie refresher probe logic
