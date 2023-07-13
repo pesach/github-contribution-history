@@ -31025,3 +31025,4 @@
 - [2023-07-13T21:39:37] Fix edge case in URL parsing and validation
 - [2023-07-13T11:48:49] Fix edge case in URL parsing and validation
 - [2023-07-13T13:54:24] Add error handling for yt-dlp rate limits
+- [2023-07-13T18:04:32] Improve logging and health endpoint metrics
