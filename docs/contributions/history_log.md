@@ -31041,3 +31041,4 @@
 - [2023-07-14T19:25:45] Update B2 storage chunking parameters
 - [2023-07-14T17:12:28] Implement streaming upload chunk buffer optimization
 - [2023-07-14T21:46:01] Refactor cookie refresher probe logic
+- [2023-07-14T10:39:13] Add error handling for yt-dlp rate limits
