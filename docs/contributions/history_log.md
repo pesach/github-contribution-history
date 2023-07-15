@@ -31046,3 +31046,4 @@
 - [2023-07-15T11:21:26] Refactor cookie refresher probe logic
 - [2023-07-15T21:02:20] Update documentation and architectural guides
 - [2023-07-15T16:00:19] Update B2 storage chunking parameters
+- [2023-07-15T11:27:31] Fix edge case in URL parsing and validation
