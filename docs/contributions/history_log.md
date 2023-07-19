@@ -31061,3 +31061,4 @@
 - [2023-07-18T17:30:15] Add retries for transient network drops
 - [2023-07-18T12:11:39] Add Redis rate limit backoff handlers
 - [2023-07-18T21:01:24] Add Redis rate limit backoff handlers
+- [2023-07-18T20:10:18] Clean up legacy worker task routines
