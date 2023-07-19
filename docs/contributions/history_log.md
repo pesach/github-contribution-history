@@ -31070,3 +31070,4 @@
 - [2023-07-18T21:40:18] Clean up legacy worker task routines
 - [2023-07-18T14:23:25] Add Redis rate limit backoff handlers
 - [2023-07-19T15:30:21] Add error handling for yt-dlp rate limits
+- [2023-07-19T13:20:21] Update schema migration helpers
