@@ -31064,3 +31064,4 @@
 - [2023-07-18T20:10:18] Clean up legacy worker task routines
 - [2023-07-18T20:31:10] Add Redis rate limit backoff handlers
 - [2023-07-18T11:29:54] Refactor cookie refresher probe logic
+- [2023-07-18T22:33:08] Update schema migration helpers
