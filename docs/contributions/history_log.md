@@ -31067,3 +31067,4 @@
 - [2023-07-18T22:33:08] Update schema migration helpers
 - [2023-07-18T18:20:01] Enhance dashboard statistics rendering
 - [2023-07-18T18:21:57] Refactor cookie refresher probe logic
+- [2023-07-18T21:40:18] Clean up legacy worker task routines
