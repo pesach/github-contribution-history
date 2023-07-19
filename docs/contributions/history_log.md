@@ -31073,3 +31073,4 @@
 - [2023-07-19T13:20:21] Update schema migration helpers
 - [2023-07-19T20:28:47] Clean up legacy worker task routines
 - [2023-07-19T20:04:48] Implement streaming upload chunk buffer optimization
+- [2023-07-19T08:07:19] Fix edge case in URL parsing and validation
