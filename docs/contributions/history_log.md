@@ -31062,3 +31062,4 @@
 - [2023-07-18T12:11:39] Add Redis rate limit backoff handlers
 - [2023-07-18T21:01:24] Add Redis rate limit backoff handlers
 - [2023-07-18T20:10:18] Clean up legacy worker task routines
+- [2023-07-18T20:31:10] Add Redis rate limit backoff handlers
