@@ -31116,3 +31116,4 @@
 - [2023-07-24T11:43:59] Enhance dashboard statistics rendering
 - [2023-07-24T08:06:54] Improve ffmpeg streaming pipe buffer management
 - [2023-07-24T18:19:29] Refactor cookie refresher probe logic
+- [2023-07-24T13:02:17] Improve logging and health endpoint metrics
