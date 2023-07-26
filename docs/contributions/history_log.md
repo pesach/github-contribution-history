@@ -31119,3 +31119,4 @@
 - [2023-07-24T13:02:17] Improve logging and health endpoint metrics
 - [2023-07-25T10:12:55] Fix edge case in URL parsing and validation
 - [2023-07-25T14:15:51] Update dependency lockfiles and requirements
+- [2023-07-25T20:48:05] Fix edge case in channel tab crawler
