@@ -31134,3 +31134,4 @@
 - [2023-07-27T18:40:30] Implement streaming upload chunk buffer optimization
 - [2023-07-27T19:54:55] Update dependency lockfiles and requirements
 - [2023-07-27T12:54:31] Update schema migration helpers
+- [2023-07-27T11:30:22] Add Prometheus exporter endpoints for queue length
