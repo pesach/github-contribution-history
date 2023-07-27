@@ -31126,3 +31126,4 @@
 - [2023-07-26T09:26:58] Update documentation and architectural guides
 - [2023-07-26T15:08:31] Implement streaming upload chunk buffer optimization
 - [2023-07-26T13:45:20] Clean up legacy worker task routines
+- [2023-07-26T21:44:43] Update schema migration helpers
