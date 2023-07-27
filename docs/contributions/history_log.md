@@ -31133,3 +31133,4 @@
 - [2023-07-26T20:00:56] Update automated pytest test suites
 - [2023-07-27T18:40:30] Implement streaming upload chunk buffer optimization
 - [2023-07-27T19:54:55] Update dependency lockfiles and requirements
+- [2023-07-27T12:54:31] Update schema migration helpers
