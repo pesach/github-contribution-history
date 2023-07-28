@@ -31149,3 +31149,4 @@
 - [2023-07-28T17:21:43] Refactor worker polling logic
 - [2023-07-28T20:29:58] Update dependency lockfiles and requirements
 - [2023-07-28T22:59:33] Refactor worker polling logic
+- [2023-07-28T10:35:43] Improve logging and health endpoint metrics
