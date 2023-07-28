@@ -31136,3 +31136,4 @@
 - [2023-07-27T12:54:31] Update schema migration helpers
 - [2023-07-27T11:30:22] Add Prometheus exporter endpoints for queue length
 - [2023-07-27T13:19:34] Update dependency lockfiles and requirements
+- [2023-07-27T22:43:46] Improve logging and health endpoint metrics
