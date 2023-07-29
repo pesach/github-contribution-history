@@ -31148,3 +31148,4 @@
 - [2023-07-28T11:17:42] Add retries for transient network drops
 - [2023-07-28T17:21:43] Refactor worker polling logic
 - [2023-07-28T20:29:58] Update dependency lockfiles and requirements
+- [2023-07-28T22:59:33] Refactor worker polling logic
