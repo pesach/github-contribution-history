@@ -31152,3 +31152,4 @@
 - [2023-07-28T10:35:43] Improve logging and health endpoint metrics
 - [2023-07-28T12:35:27] Fix edge case in channel tab crawler
 - [2023-07-28T22:34:26] Update schema migration helpers
+- [2023-07-30T11:10:17] Refactor worker polling logic
