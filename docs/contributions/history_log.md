@@ -31172,3 +31172,4 @@
 - [2023-08-01T16:57:39] Optimize PostgreSQL query execution plans
 - [2023-08-02T15:02:44] Add retries for transient network drops
 - [2023-08-02T12:11:22] Clean up legacy worker task routines
+- [2023-08-02T15:46:00] Add Redis rate limit backoff handlers
