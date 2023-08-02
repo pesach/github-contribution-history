@@ -31171,3 +31171,4 @@
 - [2023-08-01T19:17:06] Update automated pytest test suites
 - [2023-08-01T16:57:39] Optimize PostgreSQL query execution plans
 - [2023-08-02T15:02:44] Add retries for transient network drops
+- [2023-08-02T12:11:22] Clean up legacy worker task routines
