@@ -31184,3 +31184,4 @@
 - [2023-08-03T08:07:18] Refactor storage upload retry mechanism
 - [2023-08-03T19:44:21] Update automated pytest test suites
 - [2023-08-03T22:16:23] Enhance dashboard statistics rendering
+- [2023-08-03T18:53:24] Update schema migration helpers
