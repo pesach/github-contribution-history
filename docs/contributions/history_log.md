@@ -31178,3 +31178,4 @@
 - [2023-08-02T15:37:33] Add Redis rate limit backoff handlers
 - [2023-08-03T09:15:51] Optimize PostgreSQL query execution plans
 - [2023-08-03T11:49:03] Fix edge case in URL parsing and validation
+- [2023-08-03T13:23:28] Clean up legacy worker task routines
