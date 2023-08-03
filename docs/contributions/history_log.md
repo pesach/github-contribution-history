@@ -31187,3 +31187,4 @@
 - [2023-08-03T18:53:24] Update schema migration helpers
 - [2023-08-03T08:45:02] Add retries for transient network drops
 - [2023-08-03T16:38:47] Update B2 storage chunking parameters
+- [2023-08-03T19:53:52] Add Redis rate limit backoff handlers
