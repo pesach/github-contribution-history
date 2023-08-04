@@ -31190,3 +31190,4 @@
 - [2023-08-03T19:53:52] Add Redis rate limit backoff handlers
 - [2023-08-03T11:37:15] Improve logging and health endpoint metrics
 - [2023-08-03T17:08:03] Update documentation and architectural guides
+- [2023-08-03T22:04:16] Improve ffmpeg streaming pipe buffer management
