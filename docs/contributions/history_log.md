@@ -31197,3 +31197,4 @@
 - [2023-08-04T22:48:15] Clean up legacy worker task routines
 - [2023-08-04T19:17:00] Improve logging and health endpoint metrics
 - [2023-08-04T08:14:14] Fix edge case in channel tab crawler
+- [2023-08-04T21:09:21] Add error handling for yt-dlp rate limits
