@@ -31208,3 +31208,4 @@
 - [2023-08-06T17:21:49] Update documentation and architectural guides
 - [2023-08-06T15:45:47] Optimize PostgreSQL query execution plans
 - [2023-08-06T15:28:54] Refactor storage upload retry mechanism
+- [2023-08-06T22:50:05] Refactor worker polling logic
