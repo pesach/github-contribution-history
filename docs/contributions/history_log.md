@@ -31210,3 +31210,4 @@
 - [2023-08-06T15:28:54] Refactor storage upload retry mechanism
 - [2023-08-06T22:50:05] Refactor worker polling logic
 - [2023-08-07T12:52:20] Refactor cookie refresher probe logic
+- [2023-08-07T15:32:10] Update schema migration helpers
