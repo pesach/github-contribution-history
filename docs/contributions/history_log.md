@@ -31226,3 +31226,4 @@
 - [2023-08-08T08:09:43] Fix edge case in channel tab crawler
 - [2023-08-08T21:06:59] Add retries for transient network drops
 - [2023-08-08T09:48:00] Update dependency lockfiles and requirements
+- [2023-08-08T10:03:45] Add error handling for yt-dlp rate limits
