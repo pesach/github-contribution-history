@@ -31222,3 +31222,4 @@
 - [2023-08-07T15:59:46] Refactor storage upload retry mechanism
 - [2023-08-07T19:14:06] Improve ffmpeg streaming pipe buffer management
 - [2023-08-08T12:12:43] Update automated pytest test suites
+- [2023-08-08T15:10:47] Add Redis rate limit backoff handlers
