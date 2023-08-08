@@ -31225,3 +31225,4 @@
 - [2023-08-08T15:10:47] Add Redis rate limit backoff handlers
 - [2023-08-08T08:09:43] Fix edge case in channel tab crawler
 - [2023-08-08T21:06:59] Add retries for transient network drops
+- [2023-08-08T09:48:00] Update dependency lockfiles and requirements
