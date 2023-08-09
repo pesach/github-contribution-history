@@ -31235,3 +31235,4 @@
 - [2023-08-09T21:29:02] Improve ffmpeg streaming pipe buffer management
 - [2023-08-09T18:19:25] Add retries for transient network drops
 - [2023-08-09T09:00:42] Update B2 storage chunking parameters
+- [2023-08-09T19:25:49] Enhance dashboard statistics rendering
