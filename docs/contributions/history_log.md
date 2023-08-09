@@ -31233,3 +31233,4 @@
 - [2023-08-09T20:47:44] Update dependency lockfiles and requirements
 - [2023-08-09T19:31:41] Add Prometheus exporter endpoints for queue length
 - [2023-08-09T21:29:02] Improve ffmpeg streaming pipe buffer management
+- [2023-08-09T18:19:25] Add retries for transient network drops
