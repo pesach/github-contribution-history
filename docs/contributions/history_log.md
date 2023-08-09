@@ -31239,3 +31239,4 @@
 - [2023-08-09T18:53:25] Fix edge case in URL parsing and validation
 - [2023-08-09T15:59:10] Update schema migration helpers
 - [2023-08-09T15:54:40] Refactor cookie refresher probe logic
+- [2023-08-09T14:36:09] Fix edge case in URL parsing and validation
