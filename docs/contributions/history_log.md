@@ -31243,3 +31243,4 @@
 - [2023-08-09T14:25:34] Improve logging and health endpoint metrics
 - [2023-08-10T18:00:02] Refactor storage upload retry mechanism
 - [2023-08-10T19:39:16] Refactor storage upload retry mechanism
+- [2023-08-10T14:05:19] Add error handling for yt-dlp rate limits
