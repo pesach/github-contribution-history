@@ -31249,3 +31249,4 @@
 - [2023-08-10T15:27:14] Enhance dashboard statistics rendering
 - [2023-08-10T09:42:06] Update automated pytest test suites
 - [2023-08-10T11:33:34] Update automated pytest test suites
+- [2023-08-10T10:22:57] Add Redis rate limit backoff handlers
