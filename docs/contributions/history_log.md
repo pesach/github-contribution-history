@@ -31259,3 +31259,4 @@
 - [2023-08-11T11:41:10] Add Prometheus exporter endpoints for queue length
 - [2023-08-11T18:11:32] Fix edge case in channel tab crawler
 - [2023-08-11T08:09:18] Fix edge case in URL parsing and validation
+- [2023-08-12T15:43:44] Enhance dashboard statistics rendering
