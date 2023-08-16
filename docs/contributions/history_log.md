@@ -31287,3 +31287,4 @@
 - [2023-08-15T12:54:56] Add error handling for yt-dlp rate limits
 - [2023-08-15T09:49:44] Improve ffmpeg streaming pipe buffer management
 - [2023-08-15T10:27:36] Update B2 storage chunking parameters
+- [2023-08-16T09:43:46] Refactor storage upload retry mechanism
