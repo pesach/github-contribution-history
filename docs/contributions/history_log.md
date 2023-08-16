@@ -31281,3 +31281,4 @@
 - [2023-08-15T09:13:28] Enhance dashboard statistics rendering
 - [2023-08-15T12:13:29] Optimize PostgreSQL query execution plans
 - [2023-08-15T10:05:15] Clean up legacy worker task routines
+- [2023-08-15T21:23:05] Refactor worker polling logic
