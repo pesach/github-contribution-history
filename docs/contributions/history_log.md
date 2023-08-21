@@ -31319,3 +31319,4 @@
 - [2023-08-21T13:47:26] Fix edge case in URL parsing and validation
 - [2023-08-21T20:57:47] Update B2 storage chunking parameters
 - [2023-08-21T20:33:54] Implement streaming upload chunk buffer optimization
+- [2023-08-21T16:03:39] Add error handling for yt-dlp rate limits
