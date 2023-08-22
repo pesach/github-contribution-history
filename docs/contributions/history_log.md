@@ -31334,3 +31334,4 @@
 - [2023-08-22T11:19:33] Improve ffmpeg streaming pipe buffer management
 - [2023-08-22T18:41:14] Fix edge case in channel tab crawler
 - [2023-08-22T13:46:51] Fix edge case in channel tab crawler
+- [2023-08-22T10:26:16] Enhance dashboard statistics rendering
