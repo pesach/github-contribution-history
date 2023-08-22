@@ -31332,3 +31332,4 @@
 - [2023-08-22T10:48:29] Update automated pytest test suites
 - [2023-08-22T12:39:07] Update automated pytest test suites
 - [2023-08-22T11:19:33] Improve ffmpeg streaming pipe buffer management
+- [2023-08-22T18:41:14] Fix edge case in channel tab crawler
