@@ -31355,3 +31355,4 @@
 - [2023-08-24T16:28:59] Implement streaming upload chunk buffer optimization
 - [2023-08-24T13:24:03] Add Prometheus exporter endpoints for queue length
 - [2023-08-24T14:56:23] Add error handling for yt-dlp rate limits
+- [2023-08-24T09:15:17] Fix edge case in URL parsing and validation
