@@ -31360,3 +31360,4 @@
 - [2023-08-24T22:52:55] Implement streaming upload chunk buffer optimization
 - [2023-08-24T14:52:36] Add Redis rate limit backoff handlers
 - [2023-08-24T20:51:33] Refactor storage upload retry mechanism
+- [2023-08-24T17:56:14] Add error handling for yt-dlp rate limits
