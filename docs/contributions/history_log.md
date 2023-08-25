@@ -31365,3 +31365,4 @@
 - [2023-08-25T19:29:49] Fix edge case in channel tab crawler
 - [2023-08-25T14:15:14] Update schema migration helpers
 - [2023-08-25T12:21:59] Update dependency lockfiles and requirements
+- [2023-08-25T14:45:39] Clean up legacy worker task routines
