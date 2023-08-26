@@ -31370,3 +31370,4 @@
 - [2023-08-25T17:42:52] Add error handling for yt-dlp rate limits
 - [2023-08-25T15:10:20] Implement streaming upload chunk buffer optimization
 - [2023-08-25T20:18:42] Add Redis rate limit backoff handlers
+- [2023-08-25T20:53:21] Refactor worker polling logic
