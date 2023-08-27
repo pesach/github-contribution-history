@@ -31374,3 +31374,4 @@
 - [2023-08-25T20:24:02] Add retries for transient network drops
 - [2023-08-26T09:07:39] Enhance dashboard statistics rendering
 - [2023-08-26T14:32:47] Update schema migration helpers
+- [2023-08-26T22:32:36] Update B2 storage chunking parameters
