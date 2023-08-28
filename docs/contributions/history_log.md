@@ -31393,3 +31393,4 @@
 - [2023-08-28T13:53:22] Improve ffmpeg streaming pipe buffer management
 - [2023-08-28T22:34:00] Fix edge case in channel tab crawler
 - [2023-08-28T16:15:05] Fix edge case in URL parsing and validation
+- [2023-08-28T16:53:08] Refactor cookie refresher probe logic
