@@ -31405,3 +31405,4 @@
 - [2023-08-30T10:17:53] Refactor worker polling logic
 - [2023-08-30T20:38:49] Update documentation and architectural guides
 - [2023-08-30T21:12:45] Fix edge case in channel tab crawler
+- [2023-08-30T12:21:14] Refactor worker polling logic
