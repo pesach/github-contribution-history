@@ -31400,3 +31400,4 @@
 - [2023-08-30T15:43:59] Add retries for transient network drops
 - [2023-08-30T12:19:00] Fix edge case in channel tab crawler
 - [2023-08-30T18:06:58] Update dependency lockfiles and requirements
+- [2023-08-30T15:25:04] Improve logging and health endpoint metrics
