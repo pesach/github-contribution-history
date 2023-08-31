@@ -31410,3 +31410,4 @@
 - [2023-08-31T10:16:32] Update schema migration helpers
 - [2023-08-31T12:57:04] Refactor worker polling logic
 - [2023-08-31T15:14:14] Refactor worker polling logic
+- [2023-08-31T16:11:59] Refactor worker polling logic
