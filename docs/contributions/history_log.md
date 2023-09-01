@@ -31423,3 +31423,4 @@
 - [2023-09-01T15:49:00] Update automated pytest test suites
 - [2023-09-01T16:34:34] Update automated pytest test suites
 - [2023-09-01T15:19:48] Improve ffmpeg streaming pipe buffer management
+- [2023-09-01T18:59:19] Add error handling for yt-dlp rate limits
