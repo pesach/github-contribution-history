@@ -31437,3 +31437,4 @@
 - [2023-09-02T16:28:07] Update documentation and architectural guides
 - [2023-09-02T22:32:33] Add retries for transient network drops
 - [2023-09-02T09:27:26] Add Prometheus exporter endpoints for queue length
+- [2023-09-02T10:02:36] Update schema migration helpers
