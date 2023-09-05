@@ -31452,3 +31452,4 @@
 - [2023-09-04T10:29:02] Update dependency lockfiles and requirements
 - [2023-09-04T18:50:28] Fix edge case in URL parsing and validation
 - [2023-09-04T13:15:30] Add Redis rate limit backoff handlers
+- [2023-09-04T20:18:11] Clean up legacy worker task routines
