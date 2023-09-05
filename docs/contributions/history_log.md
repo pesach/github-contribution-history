@@ -31464,3 +31464,4 @@
 - [2023-09-05T22:34:06] Add error handling for yt-dlp rate limits
 - [2023-09-05T11:27:19] Update documentation and architectural guides
 - [2023-09-05T08:35:51] Update automated pytest test suites
+- [2023-09-05T09:51:09] Update schema migration helpers
