@@ -31475,3 +31475,4 @@
 - [2023-09-06T08:59:34] Update documentation and architectural guides
 - [2023-09-06T09:24:06] Improve logging and health endpoint metrics
 - [2023-09-06T17:47:41] Enhance dashboard statistics rendering
+- [2023-09-06T15:31:13] Update schema migration helpers
