@@ -31480,3 +31480,4 @@
 - [2023-09-06T18:06:22] Add Prometheus exporter endpoints for queue length
 - [2023-09-06T21:25:09] Update documentation and architectural guides
 - [2023-09-07T11:35:58] Update schema migration helpers
+- [2023-09-07T09:20:54] Add error handling for yt-dlp rate limits
