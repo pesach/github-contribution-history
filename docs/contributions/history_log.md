@@ -31489,3 +31489,4 @@
 - [2023-09-08T13:33:14] Clean up legacy worker task routines
 - [2023-09-08T22:01:05] Enhance dashboard statistics rendering
 - [2023-09-08T10:56:01] Refactor cookie refresher probe logic
+- [2023-09-08T12:45:15] Refactor worker polling logic
