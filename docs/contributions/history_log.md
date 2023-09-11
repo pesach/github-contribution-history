@@ -31511,3 +31511,4 @@
 - [2023-09-11T10:24:00] Add retries for transient network drops
 - [2023-09-11T20:39:18] Improve logging and health endpoint metrics
 - [2023-09-11T19:34:24] Add Redis rate limit backoff handlers
+- [2023-09-11T13:17:22] Clean up legacy worker task routines
