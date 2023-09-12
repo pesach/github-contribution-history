@@ -31514,3 +31514,4 @@
 - [2023-09-11T13:17:22] Clean up legacy worker task routines
 - [2023-09-12T08:08:18] Fix edge case in channel tab crawler
 - [2023-09-12T16:07:09] Refactor storage upload retry mechanism
+- [2023-09-12T16:09:39] Fix edge case in URL parsing and validation
