@@ -31525,3 +31525,4 @@
 - [2023-09-13T13:10:11] Update dependency lockfiles and requirements
 - [2023-09-13T21:37:01] Update automated pytest test suites
 - [2023-09-13T09:21:49] Update dependency lockfiles and requirements
+- [2023-09-13T11:37:18] Refactor worker polling logic
