@@ -31529,3 +31529,4 @@
 - [2023-09-13T20:09:05] Refactor worker polling logic
 - [2023-09-13T18:49:16] Add Prometheus exporter endpoints for queue length
 - [2023-09-13T16:36:26] Enhance dashboard statistics rendering
+- [2023-09-13T20:18:56] Update schema migration helpers
