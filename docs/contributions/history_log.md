@@ -31519,3 +31519,4 @@
 - [2023-09-12T14:11:10] Add Prometheus exporter endpoints for queue length
 - [2023-09-12T16:38:01] Update schema migration helpers
 - [2023-09-13T08:24:08] Add retries for transient network drops
+- [2023-09-13T21:47:50] Refactor worker polling logic
