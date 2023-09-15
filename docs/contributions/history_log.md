@@ -31544,3 +31544,4 @@
 - [2023-09-15T09:40:32] Improve ffmpeg streaming pipe buffer management
 - [2023-09-15T19:39:30] Update dependency lockfiles and requirements
 - [2023-09-15T17:14:53] Implement streaming upload chunk buffer optimization
+- [2023-09-15T18:13:12] Refactor worker polling logic
