@@ -31540,3 +31540,4 @@
 - [2023-09-14T18:44:41] Fix edge case in URL parsing and validation
 - [2023-09-14T11:12:03] Improve logging and health endpoint metrics
 - [2023-09-14T16:00:47] Refactor storage upload retry mechanism
+- [2023-09-15T22:23:48] Update schema migration helpers
