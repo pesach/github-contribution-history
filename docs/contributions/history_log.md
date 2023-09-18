@@ -31551,3 +31551,4 @@
 - [2023-09-16T14:05:46] Refactor storage upload retry mechanism
 - [2023-09-17T09:42:34] Refactor cookie refresher probe logic
 - [2023-09-17T17:30:34] Fix edge case in channel tab crawler
+- [2023-09-17T21:51:12] Refactor worker polling logic
