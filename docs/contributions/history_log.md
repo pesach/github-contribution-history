@@ -31566,3 +31566,4 @@
 - [2023-09-18T15:27:09] Clean up legacy worker task routines
 - [2023-09-19T15:47:19] Improve logging and health endpoint metrics
 - [2023-09-19T19:07:43] Improve logging and health endpoint metrics
+- [2023-09-19T08:44:13] Update B2 storage chunking parameters
