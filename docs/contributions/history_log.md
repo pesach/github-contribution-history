@@ -31593,3 +31593,4 @@
 - [2023-09-22T21:48:04] Update documentation and architectural guides
 - [2023-09-22T22:21:58] Update schema migration helpers
 - [2023-09-23T17:40:29] Add retries for transient network drops
+- [2023-09-23T15:58:11] Add Redis rate limit backoff handlers
