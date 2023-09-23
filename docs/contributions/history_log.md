@@ -31591,3 +31591,4 @@
 - [2023-09-22T14:56:13] Update dependency lockfiles and requirements
 - [2023-09-22T19:33:26] Clean up legacy worker task routines
 - [2023-09-22T21:48:04] Update documentation and architectural guides
+- [2023-09-22T22:21:58] Update schema migration helpers
