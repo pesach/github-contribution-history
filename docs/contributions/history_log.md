@@ -31606,3 +31606,4 @@
 - [2023-09-25T14:59:31] Update documentation and architectural guides
 - [2023-09-25T12:14:41] Refactor cookie refresher probe logic
 - [2023-09-25T13:54:35] Update dependency lockfiles and requirements
+- [2023-09-25T20:27:52] Refactor worker polling logic
