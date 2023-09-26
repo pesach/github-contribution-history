@@ -31615,3 +31615,4 @@
 - [2023-09-26T20:08:07] Optimize PostgreSQL query execution plans
 - [2023-09-26T10:01:37] Fix edge case in channel tab crawler
 - [2023-09-26T21:09:12] Implement streaming upload chunk buffer optimization
+- [2023-09-26T08:56:11] Refactor worker polling logic
