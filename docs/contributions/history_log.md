@@ -31620,3 +31620,4 @@
 - [2023-09-27T10:45:24] Add Prometheus exporter endpoints for queue length
 - [2023-09-27T17:18:05] Fix edge case in URL parsing and validation
 - [2023-09-27T17:40:51] Update documentation and architectural guides
+- [2023-09-27T12:31:55] Improve ffmpeg streaming pipe buffer management
