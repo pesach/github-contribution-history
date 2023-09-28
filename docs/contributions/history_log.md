@@ -31625,3 +31625,4 @@
 - [2023-09-27T09:23:00] Add retries for transient network drops
 - [2023-09-27T15:12:15] Add retries for transient network drops
 - [2023-09-28T15:23:56] Fix edge case in URL parsing and validation
+- [2023-09-28T08:07:00] Refactor worker polling logic
