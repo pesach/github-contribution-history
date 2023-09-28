@@ -31628,3 +31628,4 @@
 - [2023-09-28T08:07:00] Refactor worker polling logic
 - [2023-09-28T18:26:06] Update schema migration helpers
 - [2023-09-28T18:29:38] Update dependency lockfiles and requirements
+- [2023-09-28T14:30:05] Improve logging and health endpoint metrics
