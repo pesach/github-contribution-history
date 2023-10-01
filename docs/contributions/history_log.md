@@ -31650,3 +31650,4 @@
 - [2023-09-30T21:15:18] Update B2 storage chunking parameters
 - [2023-10-01T20:03:02] Clean up legacy worker task routines
 - [2023-10-01T17:41:14] Add Prometheus exporter endpoints for queue length
+- [2023-10-01T12:14:09] Clean up legacy worker task routines
