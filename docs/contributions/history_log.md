@@ -31648,3 +31648,4 @@
 - [2023-09-30T20:32:00] Add Redis rate limit backoff handlers
 - [2023-09-30T16:48:49] Optimize PostgreSQL query execution plans
 - [2023-09-30T21:15:18] Update B2 storage chunking parameters
+- [2023-10-01T20:03:02] Clean up legacy worker task routines
