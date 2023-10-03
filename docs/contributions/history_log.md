@@ -31653,3 +31653,4 @@
 - [2023-10-01T12:14:09] Clean up legacy worker task routines
 - [2023-10-02T13:12:29] Clean up legacy worker task routines
 - [2023-10-02T12:57:46] Add retries for transient network drops
+- [2023-10-02T22:06:54] Improve logging and health endpoint metrics
