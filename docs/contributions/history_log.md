@@ -31674,3 +31674,4 @@
 - [2023-10-04T11:02:46] Add Redis rate limit backoff handlers
 - [2023-10-04T11:49:37] Fix edge case in channel tab crawler
 - [2023-10-04T09:49:44] Update schema migration helpers
+- [2023-10-04T19:51:05] Add error handling for yt-dlp rate limits
