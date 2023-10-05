@@ -31688,3 +31688,4 @@
 - [2023-10-05T16:00:29] Refactor storage upload retry mechanism
 - [2023-10-05T13:09:50] Optimize PostgreSQL query execution plans
 - [2023-10-05T17:37:29] Update B2 storage chunking parameters
+- [2023-10-05T16:28:15] Clean up legacy worker task routines
