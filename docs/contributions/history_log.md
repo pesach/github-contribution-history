@@ -31692,3 +31692,4 @@
 - [2023-10-05T17:37:49] Update dependency lockfiles and requirements
 - [2023-10-05T14:14:24] Refactor worker polling logic
 - [2023-10-05T08:26:45] Update B2 storage chunking parameters
+- [2023-10-06T17:05:34] Add error handling for yt-dlp rate limits
