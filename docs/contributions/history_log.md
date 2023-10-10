@@ -31708,3 +31708,4 @@
 - [2023-10-08T11:51:12] Refactor cookie refresher probe logic
 - [2023-10-08T13:28:44] Update dependency lockfiles and requirements
 - [2023-10-08T15:05:49] Update automated pytest test suites
+- [2023-10-09T21:56:05] Update schema migration helpers
