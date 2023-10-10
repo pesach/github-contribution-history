@@ -31710,3 +31710,4 @@
 - [2023-10-08T15:05:49] Update automated pytest test suites
 - [2023-10-09T21:56:05] Update schema migration helpers
 - [2023-10-09T18:50:51] Add Redis rate limit backoff handlers
+- [2023-10-09T20:50:19] Add retries for transient network drops
