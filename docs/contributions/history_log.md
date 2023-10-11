@@ -31736,3 +31736,4 @@
 - [2023-10-11T17:26:37] Update documentation and architectural guides
 - [2023-10-11T08:41:36] Add Redis rate limit backoff handlers
 - [2023-10-11T19:53:13] Add retries for transient network drops
+- [2023-10-11T14:17:31] Refactor worker polling logic
