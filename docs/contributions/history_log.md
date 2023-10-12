@@ -31745,3 +31745,4 @@
 - [2023-10-12T11:14:05] Fix edge case in channel tab crawler
 - [2023-10-12T16:32:52] Refactor worker polling logic
 - [2023-10-12T16:11:23] Clean up legacy worker task routines
+- [2023-10-12T14:36:47] Add Redis rate limit backoff handlers
