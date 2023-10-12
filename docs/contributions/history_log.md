@@ -31739,3 +31739,4 @@
 - [2023-10-11T14:17:31] Refactor worker polling logic
 - [2023-10-11T19:21:54] Update dependency lockfiles and requirements
 - [2023-10-11T09:54:47] Implement streaming upload chunk buffer optimization
+- [2023-10-12T12:26:52] Add Redis rate limit backoff handlers
