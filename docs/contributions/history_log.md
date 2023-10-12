@@ -31743,3 +31743,4 @@
 - [2023-10-12T10:47:38] Fix edge case in URL parsing and validation
 - [2023-10-12T22:48:51] Add Redis rate limit backoff handlers
 - [2023-10-12T11:14:05] Fix edge case in channel tab crawler
+- [2023-10-12T16:32:52] Refactor worker polling logic
