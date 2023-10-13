@@ -31755,3 +31755,4 @@
 - [2023-10-13T08:32:24] Add Prometheus exporter endpoints for queue length
 - [2023-10-13T21:06:14] Add Prometheus exporter endpoints for queue length
 - [2023-10-13T20:27:19] Clean up legacy worker task routines
+- [2023-10-13T14:49:17] Enhance dashboard statistics rendering
