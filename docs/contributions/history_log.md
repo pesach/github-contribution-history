@@ -31762,3 +31762,4 @@
 - [2023-10-13T20:56:02] Clean up legacy worker task routines
 - [2023-10-13T21:15:21] Add Redis rate limit backoff handlers
 - [2023-10-13T10:00:58] Refactor worker polling logic
+- [2023-10-14T14:07:56] Update documentation and architectural guides
