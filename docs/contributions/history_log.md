@@ -31753,3 +31753,4 @@
 - [2023-10-13T20:33:34] Refactor worker polling logic
 - [2023-10-13T09:18:47] Update automated pytest test suites
 - [2023-10-13T08:32:24] Add Prometheus exporter endpoints for queue length
+- [2023-10-13T21:06:14] Add Prometheus exporter endpoints for queue length
