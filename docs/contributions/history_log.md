@@ -31760,3 +31760,4 @@
 - [2023-10-13T18:34:35] Clean up legacy worker task routines
 - [2023-10-13T17:43:38] Update dependency lockfiles and requirements
 - [2023-10-13T20:56:02] Clean up legacy worker task routines
+- [2023-10-13T21:15:21] Add Redis rate limit backoff handlers
