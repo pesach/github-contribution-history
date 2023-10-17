@@ -31775,3 +31775,4 @@
 - [2023-10-16T20:11:55] Update automated pytest test suites
 - [2023-10-17T20:15:23] Refactor storage upload retry mechanism
 - [2023-10-17T19:14:01] Fix edge case in channel tab crawler
+- [2023-10-17T13:09:18] Add error handling for yt-dlp rate limits
