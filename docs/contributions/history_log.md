@@ -31795,3 +31795,4 @@
 - [2023-10-18T15:44:04] Fix edge case in URL parsing and validation
 - [2023-10-18T22:32:35] Implement streaming upload chunk buffer optimization
 - [2023-10-18T13:37:45] Update B2 storage chunking parameters
+- [2023-10-19T13:48:25] Refactor cookie refresher probe logic
