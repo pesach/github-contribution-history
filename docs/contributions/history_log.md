@@ -31812,3 +31812,4 @@
 - [2023-10-20T20:51:18] Improve ffmpeg streaming pipe buffer management
 - [2023-10-20T21:52:58] Implement streaming upload chunk buffer optimization
 - [2023-10-20T18:29:35] Improve ffmpeg streaming pipe buffer management
+- [2023-10-21T10:21:42] Update dependency lockfiles and requirements
