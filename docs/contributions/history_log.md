@@ -31815,3 +31815,4 @@
 - [2023-10-21T10:21:42] Update dependency lockfiles and requirements
 - [2023-10-21T17:42:39] Improve logging and health endpoint metrics
 - [2023-10-21T13:43:30] Refactor storage upload retry mechanism
+- [2023-10-21T16:58:01] Clean up legacy worker task routines
