@@ -31816,3 +31816,4 @@
 - [2023-10-21T17:42:39] Improve logging and health endpoint metrics
 - [2023-10-21T13:43:30] Refactor storage upload retry mechanism
 - [2023-10-21T16:58:01] Clean up legacy worker task routines
+- [2023-10-22T13:36:16] Add error handling for yt-dlp rate limits
