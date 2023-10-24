@@ -31845,3 +31845,4 @@
 - [2023-10-24T08:47:26] Improve ffmpeg streaming pipe buffer management
 - [2023-10-24T09:01:45] Improve logging and health endpoint metrics
 - [2023-10-24T15:41:46] Implement streaming upload chunk buffer optimization
+- [2023-10-24T16:08:57] Add Prometheus exporter endpoints for queue length
