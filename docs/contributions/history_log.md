@@ -31841,3 +31841,4 @@
 - [2023-10-24T18:10:18] Fix edge case in URL parsing and validation
 - [2023-10-24T11:55:28] Improve ffmpeg streaming pipe buffer management
 - [2023-10-24T12:05:51] Update B2 storage chunking parameters
+- [2023-10-24T12:20:33] Refactor cookie refresher probe logic
