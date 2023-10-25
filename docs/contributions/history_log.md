@@ -31850,3 +31850,4 @@
 - [2023-10-25T19:10:47] Improve logging and health endpoint metrics
 - [2023-10-25T16:47:22] Update schema migration helpers
 - [2023-10-25T16:10:04] Refactor storage upload retry mechanism
+- [2023-10-25T08:12:20] Update B2 storage chunking parameters
