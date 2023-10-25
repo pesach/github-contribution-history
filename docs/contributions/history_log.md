@@ -31847,3 +31847,4 @@
 - [2023-10-24T15:41:46] Implement streaming upload chunk buffer optimization
 - [2023-10-24T16:08:57] Add Prometheus exporter endpoints for queue length
 - [2023-10-25T09:51:48] Add Prometheus exporter endpoints for queue length
+- [2023-10-25T19:10:47] Improve logging and health endpoint metrics
