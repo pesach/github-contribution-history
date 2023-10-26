@@ -31865,3 +31865,4 @@
 - [2023-10-26T10:01:36] Refactor storage upload retry mechanism
 - [2023-10-26T22:24:39] Add retries for transient network drops
 - [2023-10-26T21:36:33] Update automated pytest test suites
+- [2023-10-26T08:04:04] Clean up legacy worker task routines
