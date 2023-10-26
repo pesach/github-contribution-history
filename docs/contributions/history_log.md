@@ -31855,3 +31855,4 @@
 - [2023-10-25T18:16:25] Update automated pytest test suites
 - [2023-10-25T08:48:45] Add Prometheus exporter endpoints for queue length
 - [2023-10-25T13:17:54] Update B2 storage chunking parameters
+- [2023-10-25T22:33:30] Add Redis rate limit backoff handlers
