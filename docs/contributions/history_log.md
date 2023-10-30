@@ -31881,3 +31881,4 @@
 - [2023-10-30T20:03:46] Improve ffmpeg streaming pipe buffer management
 - [2023-10-30T11:55:14] Add Prometheus exporter endpoints for queue length
 - [2023-10-30T18:06:23] Optimize PostgreSQL query execution plans
+- [2023-10-30T11:16:59] Fix edge case in URL parsing and validation
