@@ -31879,3 +31879,4 @@
 - [2023-10-30T11:35:35] Update schema migration helpers
 - [2023-10-30T16:44:20] Refactor worker polling logic
 - [2023-10-30T20:03:46] Improve ffmpeg streaming pipe buffer management
+- [2023-10-30T11:55:14] Add Prometheus exporter endpoints for queue length
