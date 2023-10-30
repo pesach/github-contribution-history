@@ -31885,3 +31885,4 @@
 - [2023-10-30T08:11:59] Update dependency lockfiles and requirements
 - [2023-10-30T18:40:50] Update documentation and architectural guides
 - [2023-10-30T12:19:27] Improve ffmpeg streaming pipe buffer management
+- [2023-10-30T13:12:28] Improve logging and health endpoint metrics
