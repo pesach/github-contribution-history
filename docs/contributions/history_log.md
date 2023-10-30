@@ -31876,3 +31876,4 @@
 - [2023-10-28T14:16:55] Update automated pytest test suites
 - [2023-10-30T13:09:59] Refactor storage upload retry mechanism
 - [2023-10-30T08:43:53] Implement streaming upload chunk buffer optimization
+- [2023-10-30T11:35:35] Update schema migration helpers
