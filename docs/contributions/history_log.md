@@ -31893,3 +31893,4 @@
 - [2023-10-31T10:45:59] Add Redis rate limit backoff handlers
 - [2023-10-31T22:04:27] Add Prometheus exporter endpoints for queue length
 - [2023-10-31T10:35:51] Update dependency lockfiles and requirements
+- [2023-10-31T13:18:44] Add Prometheus exporter endpoints for queue length
