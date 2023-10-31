@@ -31878,3 +31878,4 @@
 - [2023-10-30T08:43:53] Implement streaming upload chunk buffer optimization
 - [2023-10-30T11:35:35] Update schema migration helpers
 - [2023-10-30T16:44:20] Refactor worker polling logic
+- [2023-10-30T20:03:46] Improve ffmpeg streaming pipe buffer management
