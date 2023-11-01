@@ -31895,3 +31895,4 @@
 - [2023-10-31T10:35:51] Update dependency lockfiles and requirements
 - [2023-10-31T13:18:44] Add Prometheus exporter endpoints for queue length
 - [2023-11-01T12:04:54] Update schema migration helpers
+- [2023-11-01T10:25:12] Refactor storage upload retry mechanism
