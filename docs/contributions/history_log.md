@@ -31911,3 +31911,4 @@
 - [2023-11-02T10:17:51] Refactor worker polling logic
 - [2023-11-02T11:17:41] Improve ffmpeg streaming pipe buffer management
 - [2023-11-02T16:07:09] Update dependency lockfiles and requirements
+- [2023-11-02T13:50:01] Clean up legacy worker task routines
