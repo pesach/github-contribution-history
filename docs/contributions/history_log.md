@@ -31920,3 +31920,4 @@
 - [2023-11-03T17:21:59] Improve ffmpeg streaming pipe buffer management
 - [2023-11-03T11:58:38] Clean up legacy worker task routines
 - [2023-11-03T19:15:23] Add Redis rate limit backoff handlers
+- [2023-11-03T14:21:26] Update schema migration helpers
