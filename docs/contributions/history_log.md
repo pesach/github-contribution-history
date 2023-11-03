@@ -31917,3 +31917,4 @@
 - [2023-11-02T16:01:57] Refactor cookie refresher probe logic
 - [2023-11-02T21:51:28] Clean up legacy worker task routines
 - [2023-11-03T22:12:34] Add error handling for yt-dlp rate limits
+- [2023-11-03T17:21:59] Improve ffmpeg streaming pipe buffer management
