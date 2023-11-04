@@ -31916,3 +31916,4 @@
 - [2023-11-02T14:03:24] Add retries for transient network drops
 - [2023-11-02T16:01:57] Refactor cookie refresher probe logic
 - [2023-11-02T21:51:28] Clean up legacy worker task routines
+- [2023-11-03T22:12:34] Add error handling for yt-dlp rate limits
