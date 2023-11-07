@@ -31937,3 +31937,4 @@
 - [2023-11-07T18:33:17] Improve logging and health endpoint metrics
 - [2023-11-07T08:06:21] Add error handling for yt-dlp rate limits
 - [2023-11-07T19:45:06] Update automated pytest test suites
+- [2023-11-07T16:20:01] Add Prometheus exporter endpoints for queue length
