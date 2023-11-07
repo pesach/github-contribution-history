@@ -31933,3 +31933,4 @@
 - [2023-11-07T09:37:22] Fix edge case in URL parsing and validation
 - [2023-11-07T20:22:39] Add retries for transient network drops
 - [2023-11-07T10:28:36] Improve ffmpeg streaming pipe buffer management
+- [2023-11-07T09:54:26] Improve logging and health endpoint metrics
