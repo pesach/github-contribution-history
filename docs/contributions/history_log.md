@@ -31927,3 +31927,4 @@
 - [2023-11-03T17:27:08] Update automated pytest test suites
 - [2023-11-03T17:59:39] Update schema migration helpers
 - [2023-11-07T11:52:34] Improve logging and health endpoint metrics
+- [2023-11-07T15:04:13] Refactor worker polling logic
