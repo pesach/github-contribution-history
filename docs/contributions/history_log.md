@@ -31948,3 +31948,4 @@
 - [2023-11-08T15:46:06] Update B2 storage chunking parameters
 - [2023-11-08T22:58:24] Update automated pytest test suites
 - [2023-11-08T19:19:01] Clean up legacy worker task routines
+- [2023-11-08T11:45:40] Refactor worker polling logic
