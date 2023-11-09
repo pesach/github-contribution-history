@@ -31955,3 +31955,4 @@
 - [2023-11-08T09:16:58] Update B2 storage chunking parameters
 - [2023-11-09T15:35:46] Update schema migration helpers
 - [2023-11-09T21:10:32] Refactor worker polling logic
+- [2023-11-09T08:33:46] Add error handling for yt-dlp rate limits
