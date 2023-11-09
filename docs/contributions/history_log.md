@@ -31953,3 +31953,4 @@
 - [2023-11-08T20:45:26] Update B2 storage chunking parameters
 - [2023-11-08T16:39:30] Update automated pytest test suites
 - [2023-11-08T09:16:58] Update B2 storage chunking parameters
+- [2023-11-09T15:35:46] Update schema migration helpers
