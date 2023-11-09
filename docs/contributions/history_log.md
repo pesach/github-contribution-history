@@ -31947,3 +31947,4 @@
 - [2023-11-08T21:59:20] Update schema migration helpers
 - [2023-11-08T15:46:06] Update B2 storage chunking parameters
 - [2023-11-08T22:58:24] Update automated pytest test suites
+- [2023-11-08T19:19:01] Clean up legacy worker task routines
