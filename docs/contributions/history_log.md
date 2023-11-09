@@ -31956,3 +31956,4 @@
 - [2023-11-09T15:35:46] Update schema migration helpers
 - [2023-11-09T21:10:32] Refactor worker polling logic
 - [2023-11-09T08:33:46] Add error handling for yt-dlp rate limits
+- [2023-11-09T10:29:42] Clean up legacy worker task routines
