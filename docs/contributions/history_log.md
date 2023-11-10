@@ -31963,3 +31963,4 @@
 - [2023-11-09T12:53:31] Improve ffmpeg streaming pipe buffer management
 - [2023-11-10T22:44:51] Add Prometheus exporter endpoints for queue length
 - [2023-11-10T20:54:40] Refactor worker polling logic
+- [2023-11-10T13:30:28] Add error handling for yt-dlp rate limits
