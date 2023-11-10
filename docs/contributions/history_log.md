@@ -31969,3 +31969,4 @@
 - [2023-11-10T08:43:20] Fix edge case in URL parsing and validation
 - [2023-11-10T18:21:57] Improve logging and health endpoint metrics
 - [2023-11-10T17:18:33] Update dependency lockfiles and requirements
+- [2023-11-10T18:48:42] Add Prometheus exporter endpoints for queue length
