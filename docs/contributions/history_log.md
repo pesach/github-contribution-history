@@ -31966,3 +31966,4 @@
 - [2023-11-10T13:30:28] Add error handling for yt-dlp rate limits
 - [2023-11-10T22:33:40] Add retries for transient network drops
 - [2023-11-10T16:36:47] Fix edge case in channel tab crawler
+- [2023-11-10T08:43:20] Fix edge case in URL parsing and validation
