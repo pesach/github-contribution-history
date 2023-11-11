@@ -31973,3 +31973,4 @@
 - [2023-11-11T15:53:35] Add retries for transient network drops
 - [2023-11-11T17:46:44] Add error handling for yt-dlp rate limits
 - [2023-11-11T22:54:46] Update automated pytest test suites
+- [2023-11-11T10:15:50] Add Redis rate limit backoff handlers
