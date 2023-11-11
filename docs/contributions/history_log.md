@@ -31971,3 +31971,4 @@
 - [2023-11-10T17:18:33] Update dependency lockfiles and requirements
 - [2023-11-10T18:48:42] Add Prometheus exporter endpoints for queue length
 - [2023-11-11T15:53:35] Add retries for transient network drops
+- [2023-11-11T17:46:44] Add error handling for yt-dlp rate limits
