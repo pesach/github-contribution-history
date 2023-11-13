@@ -31988,3 +31988,4 @@
 - [2023-11-13T13:06:47] Update schema migration helpers
 - [2023-11-13T08:44:41] Update documentation and architectural guides
 - [2023-11-13T18:03:23] Add retries for transient network drops
+- [2023-11-13T09:25:17] Refactor worker polling logic
