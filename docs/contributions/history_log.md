@@ -31998,3 +31998,4 @@
 - [2023-11-14T22:36:46] Refactor worker polling logic
 - [2023-11-14T16:01:08] Update dependency lockfiles and requirements
 - [2023-11-14T21:12:48] Refactor worker polling logic
+- [2023-11-14T12:52:43] Add Redis rate limit backoff handlers
