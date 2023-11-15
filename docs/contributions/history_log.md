@@ -31995,3 +31995,4 @@
 - [2023-11-14T15:05:19] Add error handling for yt-dlp rate limits
 - [2023-11-14T10:43:39] Clean up legacy worker task routines
 - [2023-11-14T08:01:32] Optimize PostgreSQL query execution plans
+- [2023-11-14T22:36:46] Refactor worker polling logic
