@@ -32014,3 +32014,4 @@
 - [2023-11-15T14:44:17] Update B2 storage chunking parameters
 - [2023-11-15T22:32:20] Fix edge case in channel tab crawler
 - [2023-11-15T18:40:21] Optimize PostgreSQL query execution plans
+- [2023-11-15T12:52:24] Add error handling for yt-dlp rate limits
