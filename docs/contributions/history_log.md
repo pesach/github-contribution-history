@@ -32005,3 +32005,4 @@
 - [2023-11-14T08:24:47] Update dependency lockfiles and requirements
 - [2023-11-14T17:40:22] Update automated pytest test suites
 - [2023-11-15T09:49:25] Update B2 storage chunking parameters
+- [2023-11-15T20:31:09] Fix edge case in URL parsing and validation
