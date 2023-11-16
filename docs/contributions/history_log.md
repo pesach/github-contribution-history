@@ -32023,3 +32023,4 @@
 - [2023-11-16T10:41:02] Update B2 storage chunking parameters
 - [2023-11-16T14:37:13] Refactor storage upload retry mechanism
 - [2023-11-16T22:53:37] Update documentation and architectural guides
+- [2023-11-16T12:42:19] Update schema migration helpers
