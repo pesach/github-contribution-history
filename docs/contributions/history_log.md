@@ -32034,3 +32034,4 @@
 - [2023-11-17T08:44:44] Update automated pytest test suites
 - [2023-11-17T13:17:22] Add error handling for yt-dlp rate limits
 - [2023-11-17T21:17:01] Refactor storage upload retry mechanism
+- [2023-11-17T16:02:06] Improve ffmpeg streaming pipe buffer management
