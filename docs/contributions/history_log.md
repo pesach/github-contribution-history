@@ -32028,3 +32028,4 @@
 - [2023-11-16T20:52:58] Add Redis rate limit backoff handlers
 - [2023-11-17T18:37:24] Add Redis rate limit backoff handlers
 - [2023-11-17T21:09:04] Update automated pytest test suites
+- [2023-11-17T19:00:07] Update B2 storage chunking parameters
