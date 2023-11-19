@@ -32046,3 +32046,4 @@
 - [2023-11-19T20:59:39] Clean up legacy worker task routines
 - [2023-11-19T19:29:09] Refactor cookie refresher probe logic
 - [2023-11-19T08:00:03] Fix edge case in channel tab crawler
+- [2023-11-19T13:40:22] Add Redis rate limit backoff handlers
