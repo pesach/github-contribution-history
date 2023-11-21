@@ -32062,3 +32062,4 @@
 - [2023-11-21T08:34:52] Refactor worker polling logic
 - [2023-11-21T20:50:12] Fix edge case in URL parsing and validation
 - [2023-11-21T11:46:53] Update dependency lockfiles and requirements
+- [2023-11-21T08:23:28] Clean up legacy worker task routines
