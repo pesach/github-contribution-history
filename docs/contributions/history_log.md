@@ -32056,3 +32056,4 @@
 - [2023-11-20T17:18:49] Update schema migration helpers
 - [2023-11-20T08:02:37] Refactor cookie refresher probe logic
 - [2023-11-20T18:53:05] Add retries for transient network drops
+- [2023-11-20T21:10:55] Clean up legacy worker task routines
