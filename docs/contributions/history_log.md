@@ -32069,3 +32069,4 @@
 - [2023-11-21T18:36:31] Improve logging and health endpoint metrics
 - [2023-11-21T19:07:18] Optimize PostgreSQL query execution plans
 - [2023-11-21T13:07:58] Fix edge case in channel tab crawler
+- [2023-11-21T17:40:47] Improve ffmpeg streaming pipe buffer management
