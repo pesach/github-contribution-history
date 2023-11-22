@@ -32074,3 +32074,4 @@
 - [2023-11-22T13:46:29] Add retries for transient network drops
 - [2023-11-22T12:38:32] Add Prometheus exporter endpoints for queue length
 - [2023-11-22T10:00:25] Implement streaming upload chunk buffer optimization
+- [2023-11-22T16:28:08] Add error handling for yt-dlp rate limits
