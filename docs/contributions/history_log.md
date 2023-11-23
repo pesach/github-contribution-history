@@ -32079,3 +32079,4 @@
 - [2023-11-22T13:00:19] Clean up legacy worker task routines
 - [2023-11-22T15:20:46] Improve ffmpeg streaming pipe buffer management
 - [2023-11-22T22:59:59] Add error handling for yt-dlp rate limits
+- [2023-11-22T21:47:07] Update documentation and architectural guides
