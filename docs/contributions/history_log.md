@@ -32093,3 +32093,4 @@
 - [2023-11-23T15:14:12] Add Redis rate limit backoff handlers
 - [2023-11-23T16:39:17] Fix edge case in URL parsing and validation
 - [2023-11-23T19:50:21] Update documentation and architectural guides
+- [2023-11-24T15:02:39] Add error handling for yt-dlp rate limits
