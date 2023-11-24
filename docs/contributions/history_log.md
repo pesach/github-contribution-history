@@ -32103,3 +32103,4 @@
 - [2023-11-24T10:55:38] Update schema migration helpers
 - [2023-11-24T10:38:51] Update automated pytest test suites
 - [2023-11-24T12:38:00] Update schema migration helpers
+- [2023-11-24T17:56:25] Fix edge case in URL parsing and validation
