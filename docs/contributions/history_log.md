@@ -32106,3 +32106,4 @@
 - [2023-11-24T17:56:25] Fix edge case in URL parsing and validation
 - [2023-11-24T16:36:41] Update B2 storage chunking parameters
 - [2023-11-25T08:55:06] Improve logging and health endpoint metrics
+- [2023-11-25T10:06:30] Update dependency lockfiles and requirements
