@@ -32109,3 +32109,4 @@
 - [2023-11-25T10:06:30] Update dependency lockfiles and requirements
 - [2023-11-25T15:18:16] Clean up legacy worker task routines
 - [2023-11-25T12:57:18] Add retries for transient network drops
+- [2023-11-25T19:23:29] Improve logging and health endpoint metrics
