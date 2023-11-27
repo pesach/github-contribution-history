@@ -32120,3 +32120,4 @@
 - [2023-11-27T09:52:59] Update B2 storage chunking parameters
 - [2023-11-27T16:04:43] Clean up legacy worker task routines
 - [2023-11-27T10:32:17] Fix edge case in URL parsing and validation
+- [2023-11-27T08:57:25] Add Redis rate limit backoff handlers
