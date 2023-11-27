@@ -32118,3 +32118,4 @@
 - [2023-11-27T09:03:40] Fix edge case in URL parsing and validation
 - [2023-11-27T12:00:50] Optimize PostgreSQL query execution plans
 - [2023-11-27T09:52:59] Update B2 storage chunking parameters
+- [2023-11-27T16:04:43] Clean up legacy worker task routines
