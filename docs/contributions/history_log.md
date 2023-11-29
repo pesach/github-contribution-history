@@ -32123,3 +32123,4 @@
 - [2023-11-27T08:57:25] Add Redis rate limit backoff handlers
 - [2023-11-28T15:27:12] Update automated pytest test suites
 - [2023-11-28T09:35:42] Improve logging and health endpoint metrics
+- [2023-11-28T21:28:27] Refactor cookie refresher probe logic
