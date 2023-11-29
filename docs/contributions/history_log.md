@@ -32139,3 +32139,4 @@
 - [2023-11-29T22:15:32] Refactor cookie refresher probe logic
 - [2023-11-29T11:33:56] Refactor cookie refresher probe logic
 - [2023-11-29T14:40:28] Fix edge case in URL parsing and validation
+- [2023-11-29T08:58:13] Update schema migration helpers
