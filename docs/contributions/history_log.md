@@ -32125,3 +32125,4 @@
 - [2023-11-28T09:35:42] Improve logging and health endpoint metrics
 - [2023-11-28T21:28:27] Refactor cookie refresher probe logic
 - [2023-11-28T20:15:43] Refactor storage upload retry mechanism
+- [2023-11-28T19:15:33] Add error handling for yt-dlp rate limits
