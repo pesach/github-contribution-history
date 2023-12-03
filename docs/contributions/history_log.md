@@ -32156,3 +32156,4 @@
 - [2023-12-01T14:02:23] Implement streaming upload chunk buffer optimization
 - [2023-12-01T15:22:23] Add Redis rate limit backoff handlers
 - [2023-12-03T20:31:19] Add retries for transient network drops
+- [2023-12-03T15:15:26] Refactor worker polling logic
