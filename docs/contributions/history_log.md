@@ -32161,3 +32161,4 @@
 - [2023-12-03T14:53:04] Implement streaming upload chunk buffer optimization
 - [2023-12-03T14:46:43] Enhance dashboard statistics rendering
 - [2023-12-04T16:51:40] Add retries for transient network drops
+- [2023-12-04T12:49:51] Refactor worker polling logic
