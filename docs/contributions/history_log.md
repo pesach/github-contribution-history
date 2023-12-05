@@ -32171,3 +32171,4 @@
 - [2023-12-04T18:57:35] Fix edge case in URL parsing and validation
 - [2023-12-05T18:32:38] Add retries for transient network drops
 - [2023-12-05T17:45:45] Refactor cookie refresher probe logic
+- [2023-12-05T10:45:46] Refactor worker polling logic
