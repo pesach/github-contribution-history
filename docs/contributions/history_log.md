@@ -32180,3 +32180,4 @@
 - [2023-12-05T08:48:21] Implement streaming upload chunk buffer optimization
 - [2023-12-05T13:56:25] Enhance dashboard statistics rendering
 - [2023-12-05T15:16:45] Clean up legacy worker task routines
+- [2023-12-05T18:26:03] Update schema migration helpers
