@@ -32198,3 +32198,4 @@
 - [2023-12-08T19:22:45] Fix edge case in channel tab crawler
 - [2023-12-08T10:58:17] Implement streaming upload chunk buffer optimization
 - [2023-12-08T18:54:37] Refactor worker polling logic
+- [2023-12-08T12:54:09] Add Prometheus exporter endpoints for queue length
