@@ -32194,3 +32194,4 @@
 - [2023-12-06T17:49:03] Add error handling for yt-dlp rate limits
 - [2023-12-08T12:46:52] Refactor storage upload retry mechanism
 - [2023-12-08T18:07:29] Add Redis rate limit backoff handlers
+- [2023-12-08T09:56:27] Refactor storage upload retry mechanism
