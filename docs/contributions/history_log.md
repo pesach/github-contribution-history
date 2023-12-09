@@ -32202,3 +32202,4 @@
 - [2023-12-08T15:50:35] Add Prometheus exporter endpoints for queue length
 - [2023-12-08T11:34:19] Fix edge case in URL parsing and validation
 - [2023-12-08T20:45:08] Implement streaming upload chunk buffer optimization
+- [2023-12-09T17:13:43] Add error handling for yt-dlp rate limits
