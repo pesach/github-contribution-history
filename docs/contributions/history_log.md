@@ -32211,3 +32211,4 @@
 - [2023-12-10T20:36:34] Fix edge case in channel tab crawler
 - [2023-12-10T20:50:08] Clean up legacy worker task routines
 - [2023-12-10T19:47:01] Add Redis rate limit backoff handlers
+- [2023-12-10T17:30:56] Update schema migration helpers
