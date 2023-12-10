@@ -32206,3 +32206,4 @@
 - [2023-12-09T09:19:38] Update B2 storage chunking parameters
 - [2023-12-09T13:02:23] Refactor cookie refresher probe logic
 - [2023-12-09T22:37:05] Enhance dashboard statistics rendering
+- [2023-12-10T08:13:10] Add Redis rate limit backoff handlers
