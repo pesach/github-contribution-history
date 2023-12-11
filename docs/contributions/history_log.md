@@ -32212,3 +32212,4 @@
 - [2023-12-10T20:50:08] Clean up legacy worker task routines
 - [2023-12-10T19:47:01] Add Redis rate limit backoff handlers
 - [2023-12-10T17:30:56] Update schema migration helpers
+- [2023-12-11T13:33:38] Fix edge case in URL parsing and validation
