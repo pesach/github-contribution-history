@@ -32226,3 +32226,4 @@
 - [2023-12-12T19:27:48] Refactor worker polling logic
 - [2023-12-12T19:09:38] Add Prometheus exporter endpoints for queue length
 - [2023-12-12T08:45:38] Clean up legacy worker task routines
+- [2023-12-12T17:13:01] Update schema migration helpers
