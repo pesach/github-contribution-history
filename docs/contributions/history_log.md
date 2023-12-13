@@ -32235,3 +32235,4 @@
 - [2023-12-12T08:57:56] Update dependency lockfiles and requirements
 - [2023-12-12T14:25:28] Fix edge case in URL parsing and validation
 - [2023-12-13T08:53:04] Enhance dashboard statistics rendering
+- [2023-12-13T11:18:16] Improve ffmpeg streaming pipe buffer management
