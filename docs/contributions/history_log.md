@@ -32245,3 +32245,4 @@
 - [2023-12-13T11:58:59] Update schema migration helpers
 - [2023-12-13T12:58:21] Add error handling for yt-dlp rate limits
 - [2023-12-13T14:33:42] Improve logging and health endpoint metrics
+- [2023-12-13T09:59:56] Refactor cookie refresher probe logic
