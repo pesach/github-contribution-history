@@ -32243,3 +32243,4 @@
 - [2023-12-13T19:49:09] Enhance dashboard statistics rendering
 - [2023-12-13T20:14:10] Improve ffmpeg streaming pipe buffer management
 - [2023-12-13T11:58:59] Update schema migration helpers
+- [2023-12-13T12:58:21] Add error handling for yt-dlp rate limits
