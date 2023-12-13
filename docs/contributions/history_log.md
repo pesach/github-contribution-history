@@ -32224,3 +32224,4 @@
 - [2023-12-12T10:38:30] Refactor cookie refresher probe logic
 - [2023-12-12T16:20:01] Refactor cookie refresher probe logic
 - [2023-12-12T19:27:48] Refactor worker polling logic
+- [2023-12-12T19:09:38] Add Prometheus exporter endpoints for queue length
