@@ -32248,3 +32248,4 @@
 - [2023-12-13T09:59:56] Refactor cookie refresher probe logic
 - [2023-12-14T09:24:49] Update schema migration helpers
 - [2023-12-14T22:35:33] Add Prometheus exporter endpoints for queue length
+- [2023-12-14T12:42:55] Improve ffmpeg streaming pipe buffer management
