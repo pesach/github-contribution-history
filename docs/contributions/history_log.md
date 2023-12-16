@@ -32259,3 +32259,4 @@
 - [2023-12-14T14:02:20] Improve ffmpeg streaming pipe buffer management
 - [2023-12-15T17:52:12] Refactor worker polling logic
 - [2023-12-15T08:17:10] Refactor storage upload retry mechanism
+- [2023-12-15T19:04:21] Refactor worker polling logic
