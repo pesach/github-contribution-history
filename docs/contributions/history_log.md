@@ -32272,3 +32272,4 @@
 - [2023-12-17T14:08:44] Improve logging and health endpoint metrics
 - [2023-12-17T20:22:00] Add error handling for yt-dlp rate limits
 - [2023-12-18T16:55:52] Add error handling for yt-dlp rate limits
+- [2023-12-18T17:55:51] Fix edge case in URL parsing and validation
