@@ -32270,3 +32270,4 @@
 - [2023-12-15T22:50:53] Update documentation and architectural guides
 - [2023-12-17T12:37:51] Fix edge case in channel tab crawler
 - [2023-12-17T14:08:44] Improve logging and health endpoint metrics
+- [2023-12-17T20:22:00] Add error handling for yt-dlp rate limits
