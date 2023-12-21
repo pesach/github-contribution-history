@@ -32295,3 +32295,4 @@
 - [2023-12-21T09:39:12] Clean up legacy worker task routines
 - [2023-12-21T13:56:34] Add error handling for yt-dlp rate limits
 - [2023-12-21T09:34:26] Add error handling for yt-dlp rate limits
+- [2023-12-21T12:46:23] Update B2 storage chunking parameters
