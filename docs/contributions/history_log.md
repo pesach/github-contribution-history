@@ -32323,3 +32323,4 @@
 - [2023-12-25T10:44:24] Update automated pytest test suites
 - [2023-12-25T21:48:45] Refactor cookie refresher probe logic
 - [2023-12-25T21:38:00] Add Redis rate limit backoff handlers
+- [2023-12-25T17:18:08] Refactor worker polling logic
