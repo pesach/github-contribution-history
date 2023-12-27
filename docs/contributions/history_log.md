@@ -32346,3 +32346,4 @@
 - [2023-12-27T12:16:06] Clean up legacy worker task routines
 - [2023-12-27T08:37:17] Update documentation and architectural guides
 - [2023-12-27T11:37:24] Improve logging and health endpoint metrics
+- [2023-12-27T10:30:18] Add Prometheus exporter endpoints for queue length
