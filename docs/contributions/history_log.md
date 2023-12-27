@@ -32348,3 +32348,4 @@
 - [2023-12-27T11:37:24] Improve logging and health endpoint metrics
 - [2023-12-27T10:30:18] Add Prometheus exporter endpoints for queue length
 - [2023-12-27T22:59:00] Update schema migration helpers
+- [2023-12-27T16:28:08] Improve ffmpeg streaming pipe buffer management
