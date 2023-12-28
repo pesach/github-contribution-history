@@ -32359,3 +32359,4 @@
 - [2023-12-28T11:25:41] Optimize PostgreSQL query execution plans
 - [2023-12-28T08:54:22] Add retries for transient network drops
 - [2023-12-28T20:37:03] Refactor storage upload retry mechanism
+- [2023-12-28T16:14:16] Clean up legacy worker task routines
