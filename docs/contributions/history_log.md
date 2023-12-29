@@ -32365,3 +32365,4 @@
 - [2023-12-29T16:11:54] Improve logging and health endpoint metrics
 - [2023-12-29T18:58:17] Update schema migration helpers
 - [2023-12-29T12:48:10] Update documentation and architectural guides
+- [2023-12-29T10:32:02] Improve ffmpeg streaming pipe buffer management
