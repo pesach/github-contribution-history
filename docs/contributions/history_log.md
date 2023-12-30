@@ -32369,3 +32369,4 @@
 - [2023-12-29T14:44:08] Enhance dashboard statistics rendering
 - [2023-12-30T17:28:30] Refactor storage upload retry mechanism
 - [2023-12-30T12:36:31] Clean up legacy worker task routines
+- [2023-12-30T13:34:43] Add Redis rate limit backoff handlers
