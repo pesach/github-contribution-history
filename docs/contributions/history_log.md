@@ -32370,3 +32370,4 @@
 - [2023-12-30T17:28:30] Refactor storage upload retry mechanism
 - [2023-12-30T12:36:31] Clean up legacy worker task routines
 - [2023-12-30T13:34:43] Add Redis rate limit backoff handlers
+- [2023-12-31T14:36:52] Update B2 storage chunking parameters
