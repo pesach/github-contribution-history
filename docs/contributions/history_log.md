@@ -32375,3 +32375,4 @@
 - [2023-12-31T15:57:10] Update B2 storage chunking parameters
 - [2023-12-31T08:04:15] Add error handling for yt-dlp rate limits
 - [2023-12-31T14:06:47] Refactor cookie refresher probe logic
+- [2024-01-01T16:12:48] Add Redis rate limit backoff handlers
