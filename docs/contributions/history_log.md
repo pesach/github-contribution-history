@@ -32384,3 +32384,4 @@
 - [2024-01-01T08:25:41] Clean up legacy worker task routines
 - [2024-01-01T22:11:57] Update B2 storage chunking parameters
 - [2024-01-02T11:55:09] Add error handling for yt-dlp rate limits
+- [2024-01-02T18:59:58] Fix edge case in URL parsing and validation
