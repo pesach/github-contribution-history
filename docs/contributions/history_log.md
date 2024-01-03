@@ -32392,3 +32392,4 @@
 - [2024-01-02T12:48:07] Update dependency lockfiles and requirements
 - [2024-01-02T21:34:35] Add error handling for yt-dlp rate limits
 - [2024-01-03T10:35:36] Add retries for transient network drops
+- [2024-01-03T12:48:10] Refactor storage upload retry mechanism
