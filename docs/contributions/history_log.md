@@ -32394,3 +32394,4 @@
 - [2024-01-03T10:35:36] Add retries for transient network drops
 - [2024-01-03T12:48:10] Refactor storage upload retry mechanism
 - [2024-01-03T17:20:58] Enhance dashboard statistics rendering
+- [2024-01-03T20:33:59] Improve ffmpeg streaming pipe buffer management
