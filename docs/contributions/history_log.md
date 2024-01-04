@@ -32402,3 +32402,4 @@
 - [2024-01-04T13:52:02] Update schema migration helpers
 - [2024-01-04T20:57:05] Update B2 storage chunking parameters
 - [2024-01-04T15:58:23] Implement streaming upload chunk buffer optimization
+- [2024-01-04T12:02:12] Add error handling for yt-dlp rate limits
