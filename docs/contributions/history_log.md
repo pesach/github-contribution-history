@@ -32422,3 +32422,4 @@
 - [2024-01-06T17:03:20] Clean up legacy worker task routines
 - [2024-01-07T12:34:07] Fix edge case in channel tab crawler
 - [2024-01-07T17:12:36] Add error handling for yt-dlp rate limits
+- [2024-01-07T10:40:46] Refactor storage upload retry mechanism
