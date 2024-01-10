@@ -32441,3 +32441,4 @@
 - [2024-01-10T22:05:22] Update schema migration helpers
 - [2024-01-10T22:21:36] Refactor storage upload retry mechanism
 - [2024-01-10T14:20:29] Improve ffmpeg streaming pipe buffer management
+- [2024-01-10T16:44:44] Improve logging and health endpoint metrics
