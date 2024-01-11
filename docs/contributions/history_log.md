@@ -32444,3 +32444,4 @@
 - [2024-01-10T16:44:44] Improve logging and health endpoint metrics
 - [2024-01-11T10:34:30] Update B2 storage chunking parameters
 - [2024-01-11T13:26:46] Improve ffmpeg streaming pipe buffer management
+- [2024-01-11T11:50:37] Fix edge case in URL parsing and validation
