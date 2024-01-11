@@ -32438,3 +32438,4 @@
 - [2024-01-10T20:22:06] Add Prometheus exporter endpoints for queue length
 - [2024-01-10T17:16:56] Implement streaming upload chunk buffer optimization
 - [2024-01-10T16:55:42] Add retries for transient network drops
+- [2024-01-10T22:05:22] Update schema migration helpers
