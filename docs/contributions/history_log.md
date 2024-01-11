@@ -32450,3 +32450,4 @@
 - [2024-01-11T21:10:27] Add retries for transient network drops
 - [2024-01-11T13:19:32] Update B2 storage chunking parameters
 - [2024-01-11T19:10:10] Refactor worker polling logic
+- [2024-01-11T10:57:53] Add Redis rate limit backoff handlers
