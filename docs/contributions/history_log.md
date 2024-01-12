@@ -32464,3 +32464,4 @@
 - [2024-01-12T08:13:29] Update dependency lockfiles and requirements
 - [2024-01-12T16:41:19] Clean up legacy worker task routines
 - [2024-01-12T13:39:13] Add retries for transient network drops
+- [2024-01-12T13:36:50] Refactor storage upload retry mechanism
