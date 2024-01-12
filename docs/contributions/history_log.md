@@ -32449,3 +32449,4 @@
 - [2024-01-11T20:43:04] Fix edge case in channel tab crawler
 - [2024-01-11T21:10:27] Add retries for transient network drops
 - [2024-01-11T13:19:32] Update B2 storage chunking parameters
+- [2024-01-11T19:10:10] Refactor worker polling logic
