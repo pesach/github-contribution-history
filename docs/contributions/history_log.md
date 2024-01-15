@@ -32479,3 +32479,4 @@
 - [2024-01-14T17:13:03] Add Prometheus exporter endpoints for queue length
 - [2024-01-15T15:22:22] Refactor cookie refresher probe logic
 - [2024-01-15T15:03:32] Update dependency lockfiles and requirements
+- [2024-01-15T15:02:50] Enhance dashboard statistics rendering
