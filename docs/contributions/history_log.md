@@ -32488,3 +32488,4 @@
 - [2024-01-16T14:53:08] Improve logging and health endpoint metrics
 - [2024-01-16T16:20:07] Improve logging and health endpoint metrics
 - [2024-01-16T20:20:26] Update automated pytest test suites
+- [2024-01-16T13:22:08] Add Redis rate limit backoff handlers
