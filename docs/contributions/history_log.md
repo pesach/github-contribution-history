@@ -32490,3 +32490,4 @@
 - [2024-01-16T20:20:26] Update automated pytest test suites
 - [2024-01-16T13:22:08] Add Redis rate limit backoff handlers
 - [2024-01-16T09:24:44] Improve ffmpeg streaming pipe buffer management
+- [2024-01-16T21:55:54] Update schema migration helpers
