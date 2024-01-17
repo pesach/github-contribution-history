@@ -32496,3 +32496,4 @@
 - [2024-01-17T12:49:37] Update dependency lockfiles and requirements
 - [2024-01-17T11:43:28] Add retries for transient network drops
 - [2024-01-17T10:50:51] Update documentation and architectural guides
+- [2024-01-17T09:11:50] Refactor worker polling logic
