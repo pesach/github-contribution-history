@@ -32506,3 +32506,4 @@
 - [2024-01-17T10:59:22] Add retries for transient network drops
 - [2024-01-17T20:06:22] Enhance dashboard statistics rendering
 - [2024-01-18T22:18:36] Update automated pytest test suites
+- [2024-01-18T20:07:33] Clean up legacy worker task routines
