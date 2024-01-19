@@ -32511,3 +32511,4 @@
 - [2024-01-18T14:14:15] Improve logging and health endpoint metrics
 - [2024-01-18T10:01:45] Fix edge case in channel tab crawler
 - [2024-01-18T09:07:48] Add retries for transient network drops
+- [2024-01-18T19:13:01] Add error handling for yt-dlp rate limits
