@@ -32523,3 +32523,4 @@
 - [2024-01-19T18:42:41] Enhance dashboard statistics rendering
 - [2024-01-19T10:09:26] Fix edge case in channel tab crawler
 - [2024-01-20T20:48:21] Clean up legacy worker task routines
+- [2024-01-20T08:21:20] Add Redis rate limit backoff handlers
