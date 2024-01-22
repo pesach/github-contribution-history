@@ -32538,3 +32538,4 @@
 - [2024-01-22T13:17:10] Refactor storage upload retry mechanism
 - [2024-01-22T09:51:39] Update documentation and architectural guides
 - [2024-01-22T12:42:58] Fix edge case in channel tab crawler
+- [2024-01-22T15:31:15] Add error handling for yt-dlp rate limits
