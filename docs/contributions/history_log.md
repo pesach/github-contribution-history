@@ -32531,3 +32531,4 @@
 - [2024-01-21T21:01:07] Add retries for transient network drops
 - [2024-01-21T18:59:54] Clean up legacy worker task routines
 - [2024-01-21T16:10:54] Optimize PostgreSQL query execution plans
+- [2024-01-22T21:33:59] Add error handling for yt-dlp rate limits
