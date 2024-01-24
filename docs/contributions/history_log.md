@@ -32563,3 +32563,4 @@
 - [2024-01-24T19:23:21] Fix edge case in URL parsing and validation
 - [2024-01-24T22:51:48] Optimize PostgreSQL query execution plans
 - [2024-01-24T15:29:48] Fix edge case in URL parsing and validation
+- [2024-01-24T16:51:16] Refactor worker polling logic
