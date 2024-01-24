@@ -32571,3 +32571,4 @@
 - [2024-01-24T21:57:00] Optimize PostgreSQL query execution plans
 - [2024-01-24T19:00:56] Update dependency lockfiles and requirements
 - [2024-01-24T21:05:08] Refactor storage upload retry mechanism
+- [2024-01-24T15:33:39] Add Prometheus exporter endpoints for queue length
