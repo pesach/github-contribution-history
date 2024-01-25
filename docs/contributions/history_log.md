@@ -32572,3 +32572,4 @@
 - [2024-01-24T19:00:56] Update dependency lockfiles and requirements
 - [2024-01-24T21:05:08] Refactor storage upload retry mechanism
 - [2024-01-24T15:33:39] Add Prometheus exporter endpoints for queue length
+- [2024-01-25T18:44:58] Update B2 storage chunking parameters
