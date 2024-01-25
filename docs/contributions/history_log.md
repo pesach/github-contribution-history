@@ -32561,3 +32561,4 @@
 - [2024-01-23T17:55:53] Fix edge case in URL parsing and validation
 - [2024-01-24T18:47:42] Update B2 storage chunking parameters
 - [2024-01-24T19:23:21] Fix edge case in URL parsing and validation
+- [2024-01-24T22:51:48] Optimize PostgreSQL query execution plans
