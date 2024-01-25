@@ -32586,3 +32586,4 @@
 - [2024-01-25T13:13:08] Update schema migration helpers
 - [2024-01-25T11:20:56] Improve ffmpeg streaming pipe buffer management
 - [2024-01-25T12:02:58] Add retries for transient network drops
+- [2024-01-25T10:48:24] Enhance dashboard statistics rendering
