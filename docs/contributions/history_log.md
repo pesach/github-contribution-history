@@ -32579,3 +32579,4 @@
 - [2024-01-25T22:19:31] Update schema migration helpers
 - [2024-01-25T08:58:40] Add Redis rate limit backoff handlers
 - [2024-01-25T16:20:47] Fix edge case in channel tab crawler
+- [2024-01-25T20:56:45] Fix edge case in URL parsing and validation
