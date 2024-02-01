@@ -32625,3 +32625,4 @@
 - [2024-01-30T20:00:13] Add retries for transient network drops
 - [2024-01-31T21:40:49] Add error handling for yt-dlp rate limits
 - [2024-01-31T15:46:22] Clean up legacy worker task routines
+- [2024-01-31T21:05:13] Add Prometheus exporter endpoints for queue length
