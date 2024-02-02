@@ -32646,3 +32646,4 @@
 - [2024-02-02T12:41:18] Update automated pytest test suites
 - [2024-02-02T10:14:41] Add Redis rate limit backoff handlers
 - [2024-02-02T15:49:16] Refactor cookie refresher probe logic
+- [2024-02-02T10:25:42] Refactor worker polling logic
