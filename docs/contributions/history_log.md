@@ -32658,3 +32658,4 @@
 - [2024-02-03T18:37:51] Update automated pytest test suites
 - [2024-02-03T10:41:05] Improve logging and health endpoint metrics
 - [2024-02-03T22:41:34] Update schema migration helpers
+- [2024-02-03T13:01:49] Add Redis rate limit backoff handlers
