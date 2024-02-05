@@ -32674,3 +32674,4 @@
 - [2024-02-05T12:55:31] Refactor cookie refresher probe logic
 - [2024-02-05T19:20:07] Clean up legacy worker task routines
 - [2024-02-05T16:53:39] Refactor cookie refresher probe logic
+- [2024-02-05T11:40:18] Add Redis rate limit backoff handlers
