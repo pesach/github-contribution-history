@@ -32672,3 +32672,4 @@
 - [2024-02-05T21:37:34] Update schema migration helpers
 - [2024-02-05T09:37:18] Update automated pytest test suites
 - [2024-02-05T12:55:31] Refactor cookie refresher probe logic
+- [2024-02-05T19:20:07] Clean up legacy worker task routines
