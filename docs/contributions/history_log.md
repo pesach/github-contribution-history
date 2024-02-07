@@ -32682,3 +32682,4 @@
 - [2024-02-06T13:32:50] Enhance dashboard statistics rendering
 - [2024-02-06T10:17:22] Enhance dashboard statistics rendering
 - [2024-02-06T13:22:14] Enhance dashboard statistics rendering
+- [2024-02-07T18:49:29] Update schema migration helpers
