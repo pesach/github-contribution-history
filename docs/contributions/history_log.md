@@ -32685,3 +32685,4 @@
 - [2024-02-07T18:49:29] Update schema migration helpers
 - [2024-02-07T22:06:24] Fix edge case in URL parsing and validation
 - [2024-02-07T15:13:48] Clean up legacy worker task routines
+- [2024-02-07T11:25:39] Add Prometheus exporter endpoints for queue length
