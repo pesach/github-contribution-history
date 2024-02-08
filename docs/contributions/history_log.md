@@ -32700,3 +32700,4 @@
 - [2024-02-08T19:11:40] Optimize PostgreSQL query execution plans
 - [2024-02-08T19:46:19] Improve logging and health endpoint metrics
 - [2024-02-08T18:19:16] Refactor cookie refresher probe logic
+- [2024-02-08T17:47:39] Add error handling for yt-dlp rate limits
