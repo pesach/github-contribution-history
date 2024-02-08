@@ -32683,3 +32683,4 @@
 - [2024-02-06T10:17:22] Enhance dashboard statistics rendering
 - [2024-02-06T13:22:14] Enhance dashboard statistics rendering
 - [2024-02-07T18:49:29] Update schema migration helpers
+- [2024-02-07T22:06:24] Fix edge case in URL parsing and validation
