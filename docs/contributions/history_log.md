@@ -32726,3 +32726,4 @@
 - [2024-02-12T19:44:29] Update schema migration helpers
 - [2024-02-12T16:02:01] Improve ffmpeg streaming pipe buffer management
 - [2024-02-12T18:38:05] Update schema migration helpers
+- [2024-02-12T09:10:29] Improve logging and health endpoint metrics
