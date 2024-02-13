@@ -32731,3 +32731,4 @@
 - [2024-02-13T17:24:08] Update dependency lockfiles and requirements
 - [2024-02-13T20:07:11] Update B2 storage chunking parameters
 - [2024-02-13T13:31:42] Refactor worker polling logic
+- [2024-02-13T12:11:25] Add Redis rate limit backoff handlers
