@@ -32762,3 +32762,4 @@
 - [2024-02-15T13:12:28] Fix edge case in URL parsing and validation
 - [2024-02-16T20:14:57] Improve ffmpeg streaming pipe buffer management
 - [2024-02-16T12:47:57] Clean up legacy worker task routines
+- [2024-02-16T13:05:51] Fix edge case in URL parsing and validation
