@@ -32781,3 +32781,4 @@
 - [2024-02-19T16:15:38] Update schema migration helpers
 - [2024-02-19T09:47:54] Fix edge case in URL parsing and validation
 - [2024-02-19T22:16:12] Add Redis rate limit backoff handlers
+- [2024-02-19T08:39:11] Refactor cookie refresher probe logic
