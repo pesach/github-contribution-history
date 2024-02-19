@@ -32778,3 +32778,4 @@
 - [2024-02-19T13:58:03] Fix edge case in URL parsing and validation
 - [2024-02-19T17:26:36] Add error handling for yt-dlp rate limits
 - [2024-02-19T18:33:24] Implement streaming upload chunk buffer optimization
+- [2024-02-19T16:15:38] Update schema migration helpers
