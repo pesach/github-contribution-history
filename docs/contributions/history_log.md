@@ -32786,3 +32786,4 @@
 - [2024-02-20T21:11:02] Enhance dashboard statistics rendering
 - [2024-02-20T12:15:15] Update B2 storage chunking parameters
 - [2024-02-20T15:58:50] Add error handling for yt-dlp rate limits
+- [2024-02-20T18:56:07] Refactor worker polling logic
