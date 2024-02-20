@@ -32785,3 +32785,4 @@
 - [2024-02-19T15:44:15] Fix edge case in channel tab crawler
 - [2024-02-20T21:11:02] Enhance dashboard statistics rendering
 - [2024-02-20T12:15:15] Update B2 storage chunking parameters
+- [2024-02-20T15:58:50] Add error handling for yt-dlp rate limits
