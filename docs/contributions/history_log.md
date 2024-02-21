@@ -32793,3 +32793,4 @@
 - [2024-02-20T17:16:02] Update dependency lockfiles and requirements
 - [2024-02-20T09:34:36] Refactor cookie refresher probe logic
 - [2024-02-20T12:59:29] Update documentation and architectural guides
+- [2024-02-20T21:03:47] Update schema migration helpers
