@@ -32803,3 +32803,4 @@
 - [2024-02-21T21:14:34] Add error handling for yt-dlp rate limits
 - [2024-02-21T16:00:17] Add retries for transient network drops
 - [2024-02-21T19:08:53] Clean up legacy worker task routines
+- [2024-02-21T21:54:33] Improve logging and health endpoint metrics
