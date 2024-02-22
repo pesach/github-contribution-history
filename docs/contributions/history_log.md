@@ -32805,3 +32805,4 @@
 - [2024-02-21T19:08:53] Clean up legacy worker task routines
 - [2024-02-21T21:54:33] Improve logging and health endpoint metrics
 - [2024-02-21T13:09:30] Update schema migration helpers
+- [2024-02-21T22:10:57] Add Redis rate limit backoff handlers
