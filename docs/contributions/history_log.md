@@ -32795,3 +32795,4 @@
 - [2024-02-20T12:59:29] Update documentation and architectural guides
 - [2024-02-20T21:03:47] Update schema migration helpers
 - [2024-02-20T22:37:42] Add Prometheus exporter endpoints for queue length
+- [2024-02-21T20:57:46] Add Prometheus exporter endpoints for queue length
