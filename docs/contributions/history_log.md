@@ -32820,3 +32820,4 @@
 - [2024-02-22T20:03:46] Enhance dashboard statistics rendering
 - [2024-02-23T22:27:23] Improve ffmpeg streaming pipe buffer management
 - [2024-02-23T10:47:53] Refactor cookie refresher probe logic
+- [2024-02-23T19:43:52] Refactor worker polling logic
