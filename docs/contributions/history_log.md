@@ -32824,3 +32824,4 @@
 - [2024-02-23T17:41:51] Improve logging and health endpoint metrics
 - [2024-02-23T12:39:29] Improve ffmpeg streaming pipe buffer management
 - [2024-02-23T14:41:05] Update automated pytest test suites
+- [2024-02-26T19:27:47] Fix edge case in URL parsing and validation
