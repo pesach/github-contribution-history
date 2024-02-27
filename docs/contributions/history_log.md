@@ -32840,3 +32840,4 @@
 - [2024-02-27T21:23:05] Fix edge case in URL parsing and validation
 - [2024-02-27T11:05:02] Update documentation and architectural guides
 - [2024-02-27T16:38:54] Improve ffmpeg streaming pipe buffer management
+- [2024-02-27T11:09:36] Clean up legacy worker task routines
