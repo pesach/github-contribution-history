@@ -32834,3 +32834,4 @@
 - [2024-02-26T21:16:39] Fix edge case in URL parsing and validation
 - [2024-02-26T08:10:01] Fix edge case in channel tab crawler
 - [2024-02-26T11:49:21] Add retries for transient network drops
+- [2024-02-27T14:57:08] Add error handling for yt-dlp rate limits
