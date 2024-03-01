@@ -32867,3 +32867,4 @@
 - [2024-02-29T10:09:51] Update dependency lockfiles and requirements
 - [2024-02-29T18:56:37] Clean up legacy worker task routines
 - [2024-02-29T08:30:56] Implement streaming upload chunk buffer optimization
+- [2024-03-01T09:53:27] Add error handling for yt-dlp rate limits
