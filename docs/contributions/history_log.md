@@ -32881,3 +32881,4 @@
 - [2024-03-02T10:12:22] Update schema migration helpers
 - [2024-03-02T13:39:07] Fix edge case in channel tab crawler
 - [2024-03-03T22:45:10] Improve ffmpeg streaming pipe buffer management
+- [2024-03-03T11:00:37] Update schema migration helpers
