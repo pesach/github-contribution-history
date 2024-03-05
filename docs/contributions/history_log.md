@@ -32891,3 +32891,4 @@
 - [2024-03-04T12:01:45] Update documentation and architectural guides
 - [2024-03-04T08:55:02] Clean up legacy worker task routines
 - [2024-03-04T13:18:55] Add retries for transient network drops
+- [2024-03-04T21:23:51] Add Redis rate limit backoff handlers
