@@ -32898,3 +32898,4 @@
 - [2024-03-04T14:33:23] Add Redis rate limit backoff handlers
 - [2024-03-05T15:18:40] Update automated pytest test suites
 - [2024-03-05T17:28:12] Improve logging and health endpoint metrics
+- [2024-03-05T20:08:45] Add error handling for yt-dlp rate limits
