@@ -32908,3 +32908,4 @@
 - [2024-03-05T10:52:31] Enhance dashboard statistics rendering
 - [2024-03-05T13:59:00] Update B2 storage chunking parameters
 - [2024-03-05T22:26:51] Clean up legacy worker task routines
+- [2024-03-06T15:10:14] Fix edge case in URL parsing and validation
