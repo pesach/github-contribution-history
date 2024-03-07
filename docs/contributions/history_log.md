@@ -32918,3 +32918,4 @@
 - [2024-03-07T10:51:47] Clean up legacy worker task routines
 - [2024-03-07T12:41:21] Refactor cookie refresher probe logic
 - [2024-03-07T10:21:31] Improve logging and health endpoint metrics
+- [2024-03-07T18:06:06] Add error handling for yt-dlp rate limits
