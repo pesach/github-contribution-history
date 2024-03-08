@@ -32931,3 +32931,4 @@
 - [2024-03-08T19:53:50] Add Redis rate limit backoff handlers
 - [2024-03-08T14:37:07] Update schema migration helpers
 - [2024-03-08T08:38:46] Add retries for transient network drops
+- [2024-03-08T13:00:52] Clean up legacy worker task routines
