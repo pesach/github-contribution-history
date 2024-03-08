@@ -32934,3 +32934,4 @@
 - [2024-03-08T13:00:52] Clean up legacy worker task routines
 - [2024-03-08T14:06:17] Enhance dashboard statistics rendering
 - [2024-03-08T22:15:16] Enhance dashboard statistics rendering
+- [2024-03-08T16:44:55] Update schema migration helpers
