@@ -32949,3 +32949,4 @@
 - [2024-03-10T21:24:33] Add Prometheus exporter endpoints for queue length
 - [2024-03-10T19:04:57] Improve ffmpeg streaming pipe buffer management
 - [2024-03-10T15:43:13] Update B2 storage chunking parameters
+- [2024-03-10T16:21:28] Enhance dashboard statistics rendering
