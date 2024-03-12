@@ -32969,3 +32969,4 @@
 - [2024-03-12T08:14:57] Update schema migration helpers
 - [2024-03-12T13:42:26] Refactor cookie refresher probe logic
 - [2024-03-12T20:38:08] Add error handling for yt-dlp rate limits
+- [2024-03-12T19:04:27] Add retries for transient network drops
