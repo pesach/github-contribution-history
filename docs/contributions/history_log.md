@@ -32972,3 +32972,4 @@
 - [2024-03-12T19:04:27] Add retries for transient network drops
 - [2024-03-13T10:59:40] Refactor cookie refresher probe logic
 - [2024-03-13T10:54:35] Improve ffmpeg streaming pipe buffer management
+- [2024-03-13T18:17:15] Add Redis rate limit backoff handlers
