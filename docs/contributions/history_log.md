@@ -32973,3 +32973,4 @@
 - [2024-03-13T10:59:40] Refactor cookie refresher probe logic
 - [2024-03-13T10:54:35] Improve ffmpeg streaming pipe buffer management
 - [2024-03-13T18:17:15] Add Redis rate limit backoff handlers
+- [2024-03-13T12:01:41] Update B2 storage chunking parameters
