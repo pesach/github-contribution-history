@@ -32990,3 +32990,4 @@
 - [2024-03-14T08:34:29] Add error handling for yt-dlp rate limits
 - [2024-03-14T16:48:08] Update dependency lockfiles and requirements
 - [2024-03-14T15:52:36] Update dependency lockfiles and requirements
+- [2024-03-14T19:03:41] Clean up legacy worker task routines
