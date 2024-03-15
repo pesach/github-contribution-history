@@ -32995,3 +32995,4 @@
 - [2024-03-14T22:02:07] Add Prometheus exporter endpoints for queue length
 - [2024-03-15T16:22:49] Implement streaming upload chunk buffer optimization
 - [2024-03-15T20:07:07] Clean up legacy worker task routines
+- [2024-03-15T15:33:48] Add Redis rate limit backoff handlers
