@@ -32985,3 +32985,4 @@
 - [2024-03-13T21:22:52] Improve ffmpeg streaming pipe buffer management
 - [2024-03-13T13:09:14] Fix edge case in channel tab crawler
 - [2024-03-14T14:23:28] Add retries for transient network drops
+- [2024-03-14T21:16:22] Update B2 storage chunking parameters
