@@ -33008,3 +33008,4 @@
 - [2024-03-18T18:20:12] Improve logging and health endpoint metrics
 - [2024-03-18T20:22:38] Add error handling for yt-dlp rate limits
 - [2024-03-18T20:22:17] Refactor worker polling logic
+- [2024-03-18T10:34:43] Update documentation and architectural guides
