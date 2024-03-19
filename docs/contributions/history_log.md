@@ -33012,3 +33012,4 @@
 - [2024-03-18T12:44:50] Fix edge case in URL parsing and validation
 - [2024-03-18T10:39:48] Clean up legacy worker task routines
 - [2024-03-18T09:51:07] Add error handling for yt-dlp rate limits
+- [2024-03-19T14:31:16] Refactor storage upload retry mechanism
