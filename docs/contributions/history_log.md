@@ -33030,3 +33030,4 @@
 - [2024-03-20T09:08:58] Update dependency lockfiles and requirements
 - [2024-03-20T15:06:31] Improve logging and health endpoint metrics
 - [2024-03-20T21:07:30] Update dependency lockfiles and requirements
+- [2024-03-20T12:43:59] Add error handling for yt-dlp rate limits
