@@ -33032,3 +33032,4 @@
 - [2024-03-20T21:07:30] Update dependency lockfiles and requirements
 - [2024-03-20T12:43:59] Add error handling for yt-dlp rate limits
 - [2024-03-20T10:13:51] Fix edge case in URL parsing and validation
+- [2024-03-21T12:52:17] Clean up legacy worker task routines
