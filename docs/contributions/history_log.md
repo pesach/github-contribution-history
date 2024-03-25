@@ -33069,3 +33069,4 @@
 - [2024-03-25T08:25:15] Refactor worker polling logic
 - [2024-03-25T09:00:44] Add Prometheus exporter endpoints for queue length
 - [2024-03-25T21:19:55] Improve logging and health endpoint metrics
+- [2024-03-25T10:31:14] Clean up legacy worker task routines
