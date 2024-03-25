@@ -33061,3 +33061,4 @@
 - [2024-03-24T15:38:20] Clean up legacy worker task routines
 - [2024-03-24T11:12:57] Add Prometheus exporter endpoints for queue length
 - [2024-03-24T19:12:30] Enhance dashboard statistics rendering
+- [2024-03-25T14:39:12] Fix edge case in URL parsing and validation
