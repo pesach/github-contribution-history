@@ -33078,3 +33078,4 @@
 - [2024-03-26T20:03:32] Add Redis rate limit backoff handlers
 - [2024-03-26T21:47:40] Update dependency lockfiles and requirements
 - [2024-03-26T16:30:50] Update dependency lockfiles and requirements
+- [2024-03-26T15:35:39] Update B2 storage chunking parameters
