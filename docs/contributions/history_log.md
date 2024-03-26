@@ -33062,3 +33062,4 @@
 - [2024-03-24T11:12:57] Add Prometheus exporter endpoints for queue length
 - [2024-03-24T19:12:30] Enhance dashboard statistics rendering
 - [2024-03-25T14:39:12] Fix edge case in URL parsing and validation
+- [2024-03-25T22:38:09] Update schema migration helpers
