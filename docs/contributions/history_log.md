@@ -33109,3 +33109,4 @@
 - [2024-03-29T15:50:57] Improve ffmpeg streaming pipe buffer management
 - [2024-03-29T18:57:37] Improve logging and health endpoint metrics
 - [2024-03-29T14:30:59] Add Prometheus exporter endpoints for queue length
+- [2024-03-29T14:52:31] Improve logging and health endpoint metrics
