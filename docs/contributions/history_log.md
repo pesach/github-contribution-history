@@ -33111,3 +33111,4 @@
 - [2024-03-29T14:30:59] Add Prometheus exporter endpoints for queue length
 - [2024-03-29T14:52:31] Improve logging and health endpoint metrics
 - [2024-03-29T22:15:11] Refactor cookie refresher probe logic
+- [2024-03-29T12:39:30] Update schema migration helpers
