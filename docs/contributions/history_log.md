@@ -33114,3 +33114,4 @@
 - [2024-03-29T12:39:30] Update schema migration helpers
 - [2024-03-29T12:14:34] Update automated pytest test suites
 - [2024-03-29T18:16:21] Update schema migration helpers
+- [2024-03-29T11:59:15] Improve logging and health endpoint metrics
