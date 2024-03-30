@@ -33105,3 +33105,4 @@
 - [2024-03-28T21:06:21] Update documentation and architectural guides
 - [2024-03-29T20:28:37] Fix edge case in URL parsing and validation
 - [2024-03-29T15:05:48] Enhance dashboard statistics rendering
+- [2024-03-29T20:05:48] Add error handling for yt-dlp rate limits
