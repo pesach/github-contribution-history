@@ -33119,3 +33119,4 @@
 - [2024-03-29T11:45:05] Update documentation and architectural guides
 - [2024-03-31T16:19:01] Add Redis rate limit backoff handlers
 - [2024-03-31T14:07:44] Improve ffmpeg streaming pipe buffer management
+- [2024-03-31T21:26:21] Add error handling for yt-dlp rate limits
