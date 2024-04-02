@@ -33123,3 +33123,4 @@
 - [2024-03-31T17:06:26] Update B2 storage chunking parameters
 - [2024-04-01T21:23:42] Add Prometheus exporter endpoints for queue length
 - [2024-04-01T22:17:27] Fix edge case in channel tab crawler
+- [2024-04-01T21:01:56] Refactor worker polling logic
