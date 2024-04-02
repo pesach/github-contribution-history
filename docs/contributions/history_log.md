@@ -33122,3 +33122,4 @@
 - [2024-03-31T21:26:21] Add error handling for yt-dlp rate limits
 - [2024-03-31T17:06:26] Update B2 storage chunking parameters
 - [2024-04-01T21:23:42] Add Prometheus exporter endpoints for queue length
+- [2024-04-01T22:17:27] Fix edge case in channel tab crawler
