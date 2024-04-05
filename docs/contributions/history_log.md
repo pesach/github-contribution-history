@@ -33157,3 +33157,4 @@
 - [2024-04-04T20:50:47] Clean up legacy worker task routines
 - [2024-04-04T22:46:58] Refactor storage upload retry mechanism
 - [2024-04-05T15:06:37] Update automated pytest test suites
+- [2024-04-05T09:29:32] Add Prometheus exporter endpoints for queue length
