@@ -33166,3 +33166,4 @@
 - [2024-04-05T15:48:49] Fix edge case in URL parsing and validation
 - [2024-04-05T15:17:12] Update dependency lockfiles and requirements
 - [2024-04-05T15:33:27] Add retries for transient network drops
+- [2024-04-05T11:57:08] Add Redis rate limit backoff handlers
