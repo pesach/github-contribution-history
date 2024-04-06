@@ -33158,3 +33158,4 @@
 - [2024-04-04T22:46:58] Refactor storage upload retry mechanism
 - [2024-04-05T15:06:37] Update automated pytest test suites
 - [2024-04-05T09:29:32] Add Prometheus exporter endpoints for queue length
+- [2024-04-05T22:19:02] Refactor storage upload retry mechanism
