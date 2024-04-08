@@ -33176,3 +33176,4 @@
 - [2024-04-08T09:31:27] Improve logging and health endpoint metrics
 - [2024-04-08T10:47:20] Improve logging and health endpoint metrics
 - [2024-04-08T20:19:52] Fix edge case in URL parsing and validation
+- [2024-04-08T08:14:26] Improve ffmpeg streaming pipe buffer management
