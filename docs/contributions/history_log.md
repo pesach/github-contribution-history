@@ -33178,3 +33178,4 @@
 - [2024-04-08T20:19:52] Fix edge case in URL parsing and validation
 - [2024-04-08T08:14:26] Improve ffmpeg streaming pipe buffer management
 - [2024-04-08T13:43:18] Update automated pytest test suites
+- [2024-04-08T10:09:28] Add retries for transient network drops
