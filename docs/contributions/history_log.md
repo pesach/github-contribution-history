@@ -33187,3 +33187,4 @@
 - [2024-04-09T21:23:20] Add error handling for yt-dlp rate limits
 - [2024-04-09T13:56:00] Clean up legacy worker task routines
 - [2024-04-09T13:27:14] Update dependency lockfiles and requirements
+- [2024-04-09T12:00:11] Update schema migration helpers
