@@ -33180,3 +33180,4 @@
 - [2024-04-08T13:43:18] Update automated pytest test suites
 - [2024-04-08T10:09:28] Add retries for transient network drops
 - [2024-04-08T11:32:57] Optimize PostgreSQL query execution plans
+- [2024-04-08T21:11:46] Clean up legacy worker task routines
