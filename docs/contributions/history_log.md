@@ -33188,3 +33188,4 @@
 - [2024-04-09T13:56:00] Clean up legacy worker task routines
 - [2024-04-09T13:27:14] Update dependency lockfiles and requirements
 - [2024-04-09T12:00:11] Update schema migration helpers
+- [2024-04-09T08:40:02] Refactor cookie refresher probe logic
