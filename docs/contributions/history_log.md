@@ -33184,3 +33184,4 @@
 - [2024-04-08T09:56:45] Add retries for transient network drops
 - [2024-04-08T09:41:18] Add Prometheus exporter endpoints for queue length
 - [2024-04-09T11:32:33] Improve ffmpeg streaming pipe buffer management
+- [2024-04-09T21:23:20] Add error handling for yt-dlp rate limits
