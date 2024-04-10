@@ -33199,3 +33199,4 @@
 - [2024-04-09T13:15:15] Refactor worker polling logic
 - [2024-04-10T13:08:42] Refactor cookie refresher probe logic
 - [2024-04-10T08:56:04] Refactor worker polling logic
+- [2024-04-10T10:39:10] Update schema migration helpers
