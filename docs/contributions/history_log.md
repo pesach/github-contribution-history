@@ -33201,3 +33201,4 @@
 - [2024-04-10T08:56:04] Refactor worker polling logic
 - [2024-04-10T10:39:10] Update schema migration helpers
 - [2024-04-10T11:57:01] Fix edge case in channel tab crawler
+- [2024-04-10T20:19:13] Update schema migration helpers
