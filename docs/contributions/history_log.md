@@ -33215,3 +33215,4 @@
 - [2024-04-11T21:00:21] Fix edge case in URL parsing and validation
 - [2024-04-11T13:45:46] Refactor cookie refresher probe logic
 - [2024-04-11T11:58:58] Fix edge case in URL parsing and validation
+- [2024-04-11T08:36:12] Update schema migration helpers
