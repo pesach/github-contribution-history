@@ -33243,3 +33243,4 @@
 - [2024-04-15T08:07:52] Update dependency lockfiles and requirements
 - [2024-04-15T08:26:51] Fix edge case in channel tab crawler
 - [2024-04-15T20:19:04] Improve ffmpeg streaming pipe buffer management
+- [2024-04-15T08:36:35] Add retries for transient network drops
