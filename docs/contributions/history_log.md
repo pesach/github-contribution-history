@@ -33254,3 +33254,4 @@
 - [2024-04-16T17:39:53] Add retries for transient network drops
 - [2024-04-16T16:33:45] Update dependency lockfiles and requirements
 - [2024-04-16T13:33:47] Refactor storage upload retry mechanism
+- [2024-04-16T09:18:58] Fix edge case in URL parsing and validation
