@@ -33267,3 +33267,4 @@
 - [2024-04-18T08:17:49] Enhance dashboard statistics rendering
 - [2024-04-18T13:47:39] Update dependency lockfiles and requirements
 - [2024-04-18T11:37:39] Update documentation and architectural guides
+- [2024-04-18T09:37:52] Update schema migration helpers
