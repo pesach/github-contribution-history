@@ -33275,3 +33275,4 @@
 - [2024-04-19T19:51:30] Update dependency lockfiles and requirements
 - [2024-04-19T13:13:05] Refactor worker polling logic
 - [2024-04-19T21:55:14] Update dependency lockfiles and requirements
+- [2024-04-19T12:01:16] Add Prometheus exporter endpoints for queue length
