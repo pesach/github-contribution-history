@@ -33270,3 +33270,4 @@
 - [2024-04-18T09:37:52] Update schema migration helpers
 - [2024-04-18T11:15:53] Enhance dashboard statistics rendering
 - [2024-04-19T11:15:00] Add retries for transient network drops
+- [2024-04-19T15:09:33] Add error handling for yt-dlp rate limits
