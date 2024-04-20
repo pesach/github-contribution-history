@@ -33285,3 +33285,4 @@
 - [2024-04-20T08:17:56] Optimize PostgreSQL query execution plans
 - [2024-04-20T18:08:23] Update schema migration helpers
 - [2024-04-20T13:06:59] Improve logging and health endpoint metrics
+- [2024-04-20T18:10:10] Refactor worker polling logic
