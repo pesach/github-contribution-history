@@ -33295,3 +33295,4 @@
 - [2024-04-22T11:11:52] Fix edge case in channel tab crawler
 - [2024-04-22T22:22:25] Improve ffmpeg streaming pipe buffer management
 - [2024-04-22T15:45:25] Add retries for transient network drops
+- [2024-04-22T22:16:00] Fix edge case in URL parsing and validation
