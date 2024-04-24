@@ -33306,3 +33306,4 @@
 - [2024-04-24T15:49:46] Update automated pytest test suites
 - [2024-04-24T08:56:38] Update schema migration helpers
 - [2024-04-24T12:36:39] Refactor cookie refresher probe logic
+- [2024-04-24T19:44:11] Add Prometheus exporter endpoints for queue length
