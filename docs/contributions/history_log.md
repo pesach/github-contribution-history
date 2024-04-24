@@ -33297,3 +33297,4 @@
 - [2024-04-22T15:45:25] Add retries for transient network drops
 - [2024-04-22T22:16:00] Fix edge case in URL parsing and validation
 - [2024-04-23T20:30:16] Improve ffmpeg streaming pipe buffer management
+- [2024-04-23T21:16:23] Update dependency lockfiles and requirements
