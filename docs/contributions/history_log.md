@@ -33304,3 +33304,4 @@
 - [2024-04-23T13:45:45] Fix edge case in channel tab crawler
 - [2024-04-24T08:09:06] Update schema migration helpers
 - [2024-04-24T15:49:46] Update automated pytest test suites
+- [2024-04-24T08:56:38] Update schema migration helpers
