@@ -33336,3 +33336,4 @@
 - [2024-04-26T08:50:00] Add error handling for yt-dlp rate limits
 - [2024-04-26T21:47:06] Fix edge case in channel tab crawler
 - [2024-04-26T14:40:06] Enhance dashboard statistics rendering
+- [2024-04-26T08:39:47] Add error handling for yt-dlp rate limits
