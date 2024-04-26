@@ -33332,3 +33332,4 @@
 - [2024-04-26T17:12:31] Update B2 storage chunking parameters
 - [2024-04-26T14:54:48] Add Redis rate limit backoff handlers
 - [2024-04-26T20:32:50] Fix edge case in channel tab crawler
+- [2024-04-26T16:38:42] Fix edge case in URL parsing and validation
