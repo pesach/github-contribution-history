@@ -33327,3 +33327,4 @@
 - [2024-04-25T21:54:23] Clean up legacy worker task routines
 - [2024-04-25T19:19:30] Refactor storage upload retry mechanism
 - [2024-04-25T21:43:48] Refactor storage upload retry mechanism
+- [2024-04-26T10:39:06] Update B2 storage chunking parameters
