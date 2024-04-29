@@ -33351,3 +33351,4 @@
 - [2024-04-29T14:37:40] Add retries for transient network drops
 - [2024-04-29T19:56:21] Improve logging and health endpoint metrics
 - [2024-04-29T10:57:47] Refactor worker polling logic
+- [2024-04-29T12:40:34] Add Redis rate limit backoff handlers
