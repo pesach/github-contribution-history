@@ -33344,3 +33344,4 @@
 - [2024-04-27T12:14:16] Improve logging and health endpoint metrics
 - [2024-04-27T18:28:33] Add retries for transient network drops
 - [2024-04-29T11:33:57] Add Redis rate limit backoff handlers
+- [2024-04-29T11:39:26] Improve ffmpeg streaming pipe buffer management
