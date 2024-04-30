@@ -33355,3 +33355,4 @@
 - [2024-04-30T12:29:57] Enhance dashboard statistics rendering
 - [2024-04-30T18:18:55] Add error handling for yt-dlp rate limits
 - [2024-04-30T19:50:06] Add Prometheus exporter endpoints for queue length
+- [2024-04-30T12:16:23] Update schema migration helpers
