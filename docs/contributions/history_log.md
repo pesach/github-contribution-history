@@ -33374,3 +33374,4 @@
 - [2024-05-01T10:47:56] Clean up legacy worker task routines
 - [2024-05-01T19:12:11] Add error handling for yt-dlp rate limits
 - [2024-05-01T12:27:16] Improve ffmpeg streaming pipe buffer management
+- [2024-05-01T08:21:02] Add Redis rate limit backoff handlers
