@@ -33376,3 +33376,4 @@
 - [2024-05-01T12:27:16] Improve ffmpeg streaming pipe buffer management
 - [2024-05-01T08:21:02] Add Redis rate limit backoff handlers
 - [2024-05-02T14:15:40] Improve logging and health endpoint metrics
+- [2024-05-02T12:40:15] Clean up legacy worker task routines
