@@ -33386,3 +33386,4 @@
 - [2024-05-02T13:19:34] Improve ffmpeg streaming pipe buffer management
 - [2024-05-02T18:10:01] Update documentation and architectural guides
 - [2024-05-02T15:34:32] Update schema migration helpers
+- [2024-05-03T18:03:15] Add retries for transient network drops
