@@ -33380,3 +33380,4 @@
 - [2024-05-02T11:59:15] Update schema migration helpers
 - [2024-05-02T22:54:29] Enhance dashboard statistics rendering
 - [2024-05-02T22:30:09] Fix edge case in channel tab crawler
+- [2024-05-02T21:53:01] Fix edge case in URL parsing and validation
