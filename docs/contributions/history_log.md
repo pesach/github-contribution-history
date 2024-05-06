@@ -33406,3 +33406,4 @@
 - [2024-05-06T22:42:01] Update B2 storage chunking parameters
 - [2024-05-06T18:00:36] Clean up legacy worker task routines
 - [2024-05-06T20:36:51] Improve ffmpeg streaming pipe buffer management
+- [2024-05-06T11:46:51] Add error handling for yt-dlp rate limits
