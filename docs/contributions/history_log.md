@@ -33400,3 +33400,4 @@
 - [2024-05-06T14:51:39] Update schema migration helpers
 - [2024-05-06T19:07:39] Optimize PostgreSQL query execution plans
 - [2024-05-06T16:31:50] Add Redis rate limit backoff handlers
+- [2024-05-06T08:23:17] Refactor worker polling logic
