@@ -33412,3 +33412,4 @@
 - [2024-05-07T08:17:07] Refactor worker polling logic
 - [2024-05-07T18:44:18] Update B2 storage chunking parameters
 - [2024-05-07T08:32:05] Update schema migration helpers
+- [2024-05-07T14:47:35] Update dependency lockfiles and requirements
