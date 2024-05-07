@@ -33405,3 +33405,4 @@
 - [2024-05-06T21:30:25] Improve logging and health endpoint metrics
 - [2024-05-06T22:42:01] Update B2 storage chunking parameters
 - [2024-05-06T18:00:36] Clean up legacy worker task routines
+- [2024-05-06T20:36:51] Improve ffmpeg streaming pipe buffer management
