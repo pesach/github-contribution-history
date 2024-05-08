@@ -33421,3 +33421,4 @@
 - [2024-05-08T20:10:24] Fix edge case in URL parsing and validation
 - [2024-05-08T10:12:08] Update automated pytest test suites
 - [2024-05-08T20:35:13] Update B2 storage chunking parameters
+- [2024-05-08T19:03:28] Refactor cookie refresher probe logic
