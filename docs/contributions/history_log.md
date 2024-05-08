@@ -33428,3 +33428,4 @@
 - [2024-05-08T17:35:04] Add Prometheus exporter endpoints for queue length
 - [2024-05-08T19:05:38] Update schema migration helpers
 - [2024-05-08T09:43:25] Update documentation and architectural guides
+- [2024-05-08T18:53:54] Add Prometheus exporter endpoints for queue length
