@@ -33440,3 +33440,4 @@
 - [2024-05-09T19:55:44] Enhance dashboard statistics rendering
 - [2024-05-09T19:21:00] Update dependency lockfiles and requirements
 - [2024-05-09T22:18:54] Refactor worker polling logic
+- [2024-05-09T09:46:08] Add Prometheus exporter endpoints for queue length
