@@ -33422,3 +33422,4 @@
 - [2024-05-08T10:12:08] Update automated pytest test suites
 - [2024-05-08T20:35:13] Update B2 storage chunking parameters
 - [2024-05-08T19:03:28] Refactor cookie refresher probe logic
+- [2024-05-08T22:29:16] Add Prometheus exporter endpoints for queue length
