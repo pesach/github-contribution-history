@@ -33446,3 +33446,4 @@
 - [2024-05-10T15:53:58] Update documentation and architectural guides
 - [2024-05-10T10:23:18] Optimize PostgreSQL query execution plans
 - [2024-05-10T20:30:23] Refactor cookie refresher probe logic
+- [2024-05-10T13:36:52] Update schema migration helpers
