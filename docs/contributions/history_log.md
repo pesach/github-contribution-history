@@ -33451,3 +33451,4 @@
 - [2024-05-10T20:45:06] Improve ffmpeg streaming pipe buffer management
 - [2024-05-10T08:01:04] Refactor storage upload retry mechanism
 - [2024-05-10T17:16:05] Update schema migration helpers
+- [2024-05-10T12:23:37] Update B2 storage chunking parameters
