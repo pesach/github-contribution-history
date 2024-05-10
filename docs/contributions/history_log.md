@@ -33442,3 +33442,4 @@
 - [2024-05-09T22:18:54] Refactor worker polling logic
 - [2024-05-09T09:46:08] Add Prometheus exporter endpoints for queue length
 - [2024-05-09T15:27:14] Refactor storage upload retry mechanism
+- [2024-05-10T14:13:33] Add error handling for yt-dlp rate limits
