@@ -33449,3 +33449,4 @@
 - [2024-05-10T13:36:52] Update schema migration helpers
 - [2024-05-10T16:36:36] Add error handling for yt-dlp rate limits
 - [2024-05-10T20:45:06] Improve ffmpeg streaming pipe buffer management
+- [2024-05-10T08:01:04] Refactor storage upload retry mechanism
