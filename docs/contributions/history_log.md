@@ -33474,3 +33474,4 @@
 - [2024-05-14T15:38:33] Add Redis rate limit backoff handlers
 - [2024-05-14T14:48:39] Improve ffmpeg streaming pipe buffer management
 - [2024-05-14T16:15:18] Clean up legacy worker task routines
+- [2024-05-14T19:00:14] Update B2 storage chunking parameters
