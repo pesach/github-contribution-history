@@ -33467,3 +33467,4 @@
 - [2024-05-13T18:12:24] Clean up legacy worker task routines
 - [2024-05-13T20:39:21] Improve logging and health endpoint metrics
 - [2024-05-14T08:54:51] Add Prometheus exporter endpoints for queue length
+- [2024-05-14T13:28:15] Enhance dashboard statistics rendering
