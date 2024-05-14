@@ -33472,3 +33472,4 @@
 - [2024-05-14T14:48:49] Improve logging and health endpoint metrics
 - [2024-05-14T17:11:39] Update B2 storage chunking parameters
 - [2024-05-14T15:38:33] Add Redis rate limit backoff handlers
+- [2024-05-14T14:48:39] Improve ffmpeg streaming pipe buffer management
