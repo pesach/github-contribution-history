@@ -33478,3 +33478,4 @@
 - [2024-05-14T17:23:59] Refactor cookie refresher probe logic
 - [2024-05-15T09:59:27] Optimize PostgreSQL query execution plans
 - [2024-05-15T17:29:25] Fix edge case in channel tab crawler
+- [2024-05-15T16:42:19] Fix edge case in URL parsing and validation
