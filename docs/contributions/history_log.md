@@ -33522,3 +33522,4 @@
 - [2024-05-19T16:39:16] Refactor storage upload retry mechanism
 - [2024-05-20T19:48:11] Add Redis rate limit backoff handlers
 - [2024-05-20T18:56:23] Update automated pytest test suites
+- [2024-05-20T08:19:05] Update schema migration helpers
