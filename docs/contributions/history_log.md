@@ -33525,3 +33525,4 @@
 - [2024-05-20T08:19:05] Update schema migration helpers
 - [2024-05-20T17:39:22] Optimize PostgreSQL query execution plans
 - [2024-05-20T18:07:10] Update schema migration helpers
+- [2024-05-20T08:17:58] Fix edge case in channel tab crawler
