@@ -33531,3 +33531,4 @@
 - [2024-05-20T11:10:18] Optimize PostgreSQL query execution plans
 - [2024-05-20T20:04:40] Add error handling for yt-dlp rate limits
 - [2024-05-20T16:55:15] Add error handling for yt-dlp rate limits
+- [2024-05-20T16:21:10] Add Redis rate limit backoff handlers
