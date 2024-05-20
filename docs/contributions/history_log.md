@@ -33520,3 +33520,4 @@
 - [2024-05-19T18:07:57] Implement streaming upload chunk buffer optimization
 - [2024-05-19T11:30:10] Clean up legacy worker task routines
 - [2024-05-19T16:39:16] Refactor storage upload retry mechanism
+- [2024-05-20T19:48:11] Add Redis rate limit backoff handlers
