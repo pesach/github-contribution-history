@@ -33529,3 +33529,4 @@
 - [2024-05-20T14:05:07] Update dependency lockfiles and requirements
 - [2024-05-20T22:05:40] Add Prometheus exporter endpoints for queue length
 - [2024-05-20T11:10:18] Optimize PostgreSQL query execution plans
+- [2024-05-20T20:04:40] Add error handling for yt-dlp rate limits
