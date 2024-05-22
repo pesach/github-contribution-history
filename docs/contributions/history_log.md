@@ -33548,3 +33548,4 @@
 - [2024-05-22T13:53:49] Fix edge case in channel tab crawler
 - [2024-05-22T12:14:18] Update dependency lockfiles and requirements
 - [2024-05-22T13:35:09] Improve ffmpeg streaming pipe buffer management
+- [2024-05-22T18:06:36] Refactor cookie refresher probe logic
