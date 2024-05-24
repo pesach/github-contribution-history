@@ -33554,3 +33554,4 @@
 - [2024-05-24T13:00:47] Update automated pytest test suites
 - [2024-05-24T17:41:42] Update schema migration helpers
 - [2024-05-24T14:30:41] Update schema migration helpers
+- [2024-05-24T12:05:17] Add Redis rate limit backoff handlers
