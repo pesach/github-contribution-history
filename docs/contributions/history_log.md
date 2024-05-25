@@ -33555,3 +33555,4 @@
 - [2024-05-24T17:41:42] Update schema migration helpers
 - [2024-05-24T14:30:41] Update schema migration helpers
 - [2024-05-24T12:05:17] Add Redis rate limit backoff handlers
+- [2024-05-24T20:00:31] Add Prometheus exporter endpoints for queue length
