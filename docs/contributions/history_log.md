@@ -33584,3 +33584,4 @@
 - [2024-05-28T09:48:48] Add retries for transient network drops
 - [2024-05-28T20:15:52] Add retries for transient network drops
 - [2024-05-28T12:40:56] Fix edge case in URL parsing and validation
+- [2024-05-28T22:22:02] Add error handling for yt-dlp rate limits
