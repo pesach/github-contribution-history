@@ -33590,3 +33590,4 @@
 - [2024-05-29T14:25:08] Fix edge case in URL parsing and validation
 - [2024-05-29T22:28:24] Refactor worker polling logic
 - [2024-05-29T17:03:59] Improve ffmpeg streaming pipe buffer management
+- [2024-05-29T14:44:38] Add Prometheus exporter endpoints for queue length
