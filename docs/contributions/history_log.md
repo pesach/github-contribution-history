@@ -33613,3 +33613,4 @@
 - [2024-05-31T09:50:10] Enhance dashboard statistics rendering
 - [2024-05-31T20:22:06] Add retries for transient network drops
 - [2024-05-31T20:51:27] Improve ffmpeg streaming pipe buffer management
+- [2024-05-31T08:58:55] Refactor cookie refresher probe logic
