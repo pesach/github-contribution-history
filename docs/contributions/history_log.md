@@ -33636,3 +33636,4 @@
 - [2024-06-04T20:04:39] Fix edge case in URL parsing and validation
 - [2024-06-04T13:07:11] Update dependency lockfiles and requirements
 - [2024-06-04T14:32:29] Fix edge case in URL parsing and validation
+- [2024-06-04T13:58:41] Clean up legacy worker task routines
