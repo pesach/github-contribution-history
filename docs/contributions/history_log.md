@@ -33627,3 +33627,4 @@
 - [2024-06-03T12:32:20] Implement streaming upload chunk buffer optimization
 - [2024-06-03T20:49:22] Add retries for transient network drops
 - [2024-06-03T16:54:35] Improve ffmpeg streaming pipe buffer management
+- [2024-06-03T21:41:59] Fix edge case in URL parsing and validation
