@@ -33646,3 +33646,4 @@
 - [2024-06-04T18:40:11] Refactor storage upload retry mechanism
 - [2024-06-05T12:50:59] Implement streaming upload chunk buffer optimization
 - [2024-06-05T10:36:55] Add retries for transient network drops
+- [2024-06-05T13:33:13] Clean up legacy worker task routines
