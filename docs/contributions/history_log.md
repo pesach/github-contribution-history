@@ -33653,3 +33653,4 @@
 - [2024-06-05T09:55:51] Refactor storage upload retry mechanism
 - [2024-06-05T21:07:55] Fix edge case in channel tab crawler
 - [2024-06-06T22:52:18] Update dependency lockfiles and requirements
+- [2024-06-06T11:13:35] Update B2 storage chunking parameters
