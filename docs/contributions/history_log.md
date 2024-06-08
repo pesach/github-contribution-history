@@ -33667,3 +33667,4 @@
 - [2024-06-06T18:18:28] Refactor cookie refresher probe logic
 - [2024-06-06T18:29:38] Refactor worker polling logic
 - [2024-06-06T20:35:46] Refactor storage upload retry mechanism
+- [2024-06-08T08:59:21] Fix edge case in URL parsing and validation
