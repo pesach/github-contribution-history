@@ -33699,3 +33699,4 @@
 - [2024-06-12T17:07:29] Clean up legacy worker task routines
 - [2024-06-12T08:58:53] Refactor cookie refresher probe logic
 - [2024-06-12T13:17:52] Enhance dashboard statistics rendering
+- [2024-06-13T14:36:07] Add Redis rate limit backoff handlers
