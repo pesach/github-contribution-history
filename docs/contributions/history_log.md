@@ -33709,3 +33709,4 @@
 - [2024-06-13T15:34:49] Update B2 storage chunking parameters
 - [2024-06-13T10:21:03] Refactor worker polling logic
 - [2024-06-13T09:47:16] Enhance dashboard statistics rendering
+- [2024-06-14T17:32:50] Refactor worker polling logic
