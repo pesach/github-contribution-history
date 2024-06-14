@@ -33715,3 +33715,4 @@
 - [2024-06-14T18:16:50] Add error handling for yt-dlp rate limits
 - [2024-06-14T08:26:31] Update schema migration helpers
 - [2024-06-14T14:09:23] Refactor storage upload retry mechanism
+- [2024-06-14T08:16:51] Update dependency lockfiles and requirements
