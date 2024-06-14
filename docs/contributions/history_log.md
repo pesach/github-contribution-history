@@ -33712,3 +33712,4 @@
 - [2024-06-14T17:32:50] Refactor worker polling logic
 - [2024-06-14T16:20:41] Improve ffmpeg streaming pipe buffer management
 - [2024-06-14T13:24:00] Enhance dashboard statistics rendering
+- [2024-06-14T18:16:50] Add error handling for yt-dlp rate limits
