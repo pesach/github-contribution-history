@@ -33717,3 +33717,4 @@
 - [2024-06-14T14:09:23] Refactor storage upload retry mechanism
 - [2024-06-14T08:16:51] Update dependency lockfiles and requirements
 - [2024-06-17T19:51:46] Implement streaming upload chunk buffer optimization
+- [2024-06-17T09:43:19] Clean up legacy worker task routines
