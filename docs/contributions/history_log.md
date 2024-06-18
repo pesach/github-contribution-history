@@ -33720,3 +33720,4 @@
 - [2024-06-17T09:43:19] Clean up legacy worker task routines
 - [2024-06-17T14:08:21] Improve logging and health endpoint metrics
 - [2024-06-17T22:23:10] Optimize PostgreSQL query execution plans
+- [2024-06-17T22:08:20] Update schema migration helpers
