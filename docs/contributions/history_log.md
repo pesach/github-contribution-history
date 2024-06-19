@@ -33733,3 +33733,4 @@
 - [2024-06-18T11:42:09] Add error handling for yt-dlp rate limits
 - [2024-06-18T22:22:19] Update dependency lockfiles and requirements
 - [2024-06-18T11:09:54] Fix edge case in channel tab crawler
+- [2024-06-19T14:16:42] Add error handling for yt-dlp rate limits
