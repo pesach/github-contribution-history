@@ -33731,3 +33731,4 @@
 - [2024-06-18T08:05:20] Refactor cookie refresher probe logic
 - [2024-06-18T20:32:26] Improve ffmpeg streaming pipe buffer management
 - [2024-06-18T11:42:09] Add error handling for yt-dlp rate limits
+- [2024-06-18T22:22:19] Update dependency lockfiles and requirements
