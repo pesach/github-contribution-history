@@ -33726,3 +33726,4 @@
 - [2024-06-17T08:17:27] Update documentation and architectural guides
 - [2024-06-18T14:46:58] Refactor worker polling logic
 - [2024-06-18T21:20:28] Enhance dashboard statistics rendering
+- [2024-06-18T22:45:15] Improve ffmpeg streaming pipe buffer management
