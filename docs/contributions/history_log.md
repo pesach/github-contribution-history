@@ -33749,3 +33749,4 @@
 - [2024-06-20T21:07:03] Add error handling for yt-dlp rate limits
 - [2024-06-20T21:23:11] Improve logging and health endpoint metrics
 - [2024-06-20T13:45:57] Optimize PostgreSQL query execution plans
+- [2024-06-20T21:01:05] Refactor worker polling logic
