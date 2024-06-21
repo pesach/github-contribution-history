@@ -33747,3 +33747,4 @@
 - [2024-06-19T22:36:34] Add error handling for yt-dlp rate limits
 - [2024-06-19T16:35:06] Clean up legacy worker task routines
 - [2024-06-20T21:07:03] Add error handling for yt-dlp rate limits
+- [2024-06-20T21:23:11] Improve logging and health endpoint metrics
