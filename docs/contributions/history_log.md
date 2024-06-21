@@ -33770,3 +33770,4 @@
 - [2024-06-21T17:33:07] Update B2 storage chunking parameters
 - [2024-06-21T22:02:57] Clean up legacy worker task routines
 - [2024-06-21T10:03:06] Add retries for transient network drops
+- [2024-06-21T14:46:53] Refactor storage upload retry mechanism
