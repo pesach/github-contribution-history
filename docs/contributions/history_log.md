@@ -33761,3 +33761,4 @@
 - [2024-06-20T20:20:53] Improve ffmpeg streaming pipe buffer management
 - [2024-06-20T12:42:09] Update schema migration helpers
 - [2024-06-20T21:21:01] Fix edge case in URL parsing and validation
+- [2024-06-21T12:36:56] Improve ffmpeg streaming pipe buffer management
