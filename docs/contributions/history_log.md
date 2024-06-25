@@ -33778,3 +33778,4 @@
 - [2024-06-24T21:21:44] Improve logging and health endpoint metrics
 - [2024-06-24T17:03:10] Improve ffmpeg streaming pipe buffer management
 - [2024-06-24T20:20:23] Improve logging and health endpoint metrics
+- [2024-06-25T14:09:08] Refactor worker polling logic
