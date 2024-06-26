@@ -33795,3 +33795,4 @@
 - [2024-06-25T15:47:10] Improve logging and health endpoint metrics
 - [2024-06-26T12:36:03] Update B2 storage chunking parameters
 - [2024-06-26T14:56:05] Add retries for transient network drops
+- [2024-06-26T12:27:38] Add error handling for yt-dlp rate limits
