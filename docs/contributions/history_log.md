@@ -33800,3 +33800,4 @@
 - [2024-06-26T18:01:54] Fix edge case in channel tab crawler
 - [2024-06-26T08:46:39] Improve ffmpeg streaming pipe buffer management
 - [2024-06-26T10:32:58] Clean up legacy worker task routines
+- [2024-06-26T13:53:12] Add retries for transient network drops
