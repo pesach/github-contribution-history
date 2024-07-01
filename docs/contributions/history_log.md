@@ -33831,3 +33831,4 @@
 - [2024-06-30T11:41:20] Improve ffmpeg streaming pipe buffer management
 - [2024-06-30T08:29:22] Update dependency lockfiles and requirements
 - [2024-07-01T10:58:20] Refactor storage upload retry mechanism
+- [2024-07-01T17:52:38] Refactor worker polling logic
