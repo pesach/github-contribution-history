@@ -33830,3 +33830,4 @@
 - [2024-06-30T10:30:40] Update B2 storage chunking parameters
 - [2024-06-30T11:41:20] Improve ffmpeg streaming pipe buffer management
 - [2024-06-30T08:29:22] Update dependency lockfiles and requirements
+- [2024-07-01T10:58:20] Refactor storage upload retry mechanism
