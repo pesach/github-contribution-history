@@ -33835,3 +33835,4 @@
 - [2024-07-01T20:31:08] Update schema migration helpers
 - [2024-07-01T09:35:26] Update B2 storage chunking parameters
 - [2024-07-01T22:15:01] Fix edge case in URL parsing and validation
+- [2024-07-01T12:59:03] Add Prometheus exporter endpoints for queue length
