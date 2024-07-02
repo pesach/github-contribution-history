@@ -33839,3 +33839,4 @@
 - [2024-07-01T17:55:28] Update documentation and architectural guides
 - [2024-07-02T21:15:55] Update dependency lockfiles and requirements
 - [2024-07-02T13:32:29] Update B2 storage chunking parameters
+- [2024-07-02T14:56:09] Fix edge case in URL parsing and validation
