@@ -33849,3 +33849,4 @@
 - [2024-07-03T16:30:30] Fix edge case in channel tab crawler
 - [2024-07-03T20:18:33] Improve logging and health endpoint metrics
 - [2024-07-03T22:51:10] Update documentation and architectural guides
+- [2024-07-03T18:08:05] Clean up legacy worker task routines
