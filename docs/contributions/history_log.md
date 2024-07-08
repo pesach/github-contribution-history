@@ -33871,3 +33871,4 @@
 - [2024-07-08T13:07:01] Improve logging and health endpoint metrics
 - [2024-07-08T08:13:05] Update documentation and architectural guides
 - [2024-07-08T16:08:01] Add Prometheus exporter endpoints for queue length
+- [2024-07-08T19:09:51] Add Redis rate limit backoff handlers
