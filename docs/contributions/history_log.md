@@ -33888,3 +33888,4 @@
 - [2024-07-09T11:10:54] Add Redis rate limit backoff handlers
 - [2024-07-09T18:01:12] Add Redis rate limit backoff handlers
 - [2024-07-09T15:55:09] Fix edge case in URL parsing and validation
+- [2024-07-09T11:55:23] Refactor cookie refresher probe logic
