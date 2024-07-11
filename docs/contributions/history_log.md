@@ -33908,3 +33908,4 @@
 - [2024-07-11T12:27:32] Improve ffmpeg streaming pipe buffer management
 - [2024-07-11T18:58:56] Implement streaming upload chunk buffer optimization
 - [2024-07-11T16:15:28] Add Redis rate limit backoff handlers
+- [2024-07-11T12:55:14] Add error handling for yt-dlp rate limits
