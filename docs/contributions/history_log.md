@@ -33925,3 +33925,4 @@
 - [2024-07-12T15:33:57] Fix edge case in URL parsing and validation
 - [2024-07-12T08:37:28] Refactor cookie refresher probe logic
 - [2024-07-12T16:00:27] Add Redis rate limit backoff handlers
+- [2024-07-12T10:38:49] Improve ffmpeg streaming pipe buffer management
