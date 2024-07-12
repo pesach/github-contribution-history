@@ -33910,3 +33910,4 @@
 - [2024-07-11T16:15:28] Add Redis rate limit backoff handlers
 - [2024-07-11T12:55:14] Add error handling for yt-dlp rate limits
 - [2024-07-11T09:27:30] Update B2 storage chunking parameters
+- [2024-07-11T22:00:34] Update schema migration helpers
