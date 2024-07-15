@@ -33942,3 +33942,4 @@
 - [2024-07-15T09:20:19] Add Redis rate limit backoff handlers
 - [2024-07-15T08:25:18] Update documentation and architectural guides
 - [2024-07-15T19:21:06] Refactor storage upload retry mechanism
+- [2024-07-15T13:18:34] Add error handling for yt-dlp rate limits
