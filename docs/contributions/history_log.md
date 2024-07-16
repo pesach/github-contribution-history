@@ -33936,3 +33936,4 @@
 - [2024-07-14T16:36:18] Refactor cookie refresher probe logic
 - [2024-07-14T19:59:46] Update schema migration helpers
 - [2024-07-15T22:38:45] Enhance dashboard statistics rendering
+- [2024-07-15T21:28:04] Improve ffmpeg streaming pipe buffer management
