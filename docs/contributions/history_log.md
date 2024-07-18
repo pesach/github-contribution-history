@@ -33948,3 +33948,4 @@
 - [2024-07-17T13:44:06] Fix edge case in channel tab crawler
 - [2024-07-17T13:04:31] Fix edge case in channel tab crawler
 - [2024-07-17T19:43:30] Add retries for transient network drops
+- [2024-07-17T21:44:30] Fix edge case in URL parsing and validation
