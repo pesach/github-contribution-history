@@ -33963,3 +33963,4 @@
 - [2024-07-18T20:48:10] Refactor storage upload retry mechanism
 - [2024-07-18T21:29:04] Update dependency lockfiles and requirements
 - [2024-07-18T09:09:09] Update dependency lockfiles and requirements
+- [2024-07-18T13:08:53] Update schema migration helpers
