@@ -33965,3 +33965,4 @@
 - [2024-07-18T09:09:09] Update dependency lockfiles and requirements
 - [2024-07-18T13:08:53] Update schema migration helpers
 - [2024-07-18T11:49:11] Implement streaming upload chunk buffer optimization
+- [2024-07-18T13:52:00] Update schema migration helpers
