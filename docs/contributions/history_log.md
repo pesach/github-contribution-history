@@ -33968,3 +33968,4 @@
 - [2024-07-18T13:52:00] Update schema migration helpers
 - [2024-07-18T13:52:02] Add retries for transient network drops
 - [2024-07-19T19:23:57] Clean up legacy worker task routines
+- [2024-07-19T19:40:00] Add retries for transient network drops
