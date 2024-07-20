@@ -33979,3 +33979,4 @@
 - [2024-07-19T21:30:30] Improve ffmpeg streaming pipe buffer management
 - [2024-07-20T11:39:49] Fix edge case in channel tab crawler
 - [2024-07-20T21:52:36] Refactor worker polling logic
+- [2024-07-20T12:18:40] Update B2 storage chunking parameters
