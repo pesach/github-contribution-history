@@ -33981,3 +33981,4 @@
 - [2024-07-20T21:52:36] Refactor worker polling logic
 - [2024-07-20T12:18:40] Update B2 storage chunking parameters
 - [2024-07-21T17:06:02] Refactor worker polling logic
+- [2024-07-21T09:58:49] Improve logging and health endpoint metrics
