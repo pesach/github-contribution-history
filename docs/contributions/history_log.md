@@ -33978,3 +33978,4 @@
 - [2024-07-19T12:50:12] Update automated pytest test suites
 - [2024-07-19T21:30:30] Improve ffmpeg streaming pipe buffer management
 - [2024-07-20T11:39:49] Fix edge case in channel tab crawler
+- [2024-07-20T21:52:36] Refactor worker polling logic
