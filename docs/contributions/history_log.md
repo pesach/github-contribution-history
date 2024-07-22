@@ -33988,3 +33988,4 @@
 - [2024-07-22T21:51:57] Update B2 storage chunking parameters
 - [2024-07-22T13:24:28] Implement streaming upload chunk buffer optimization
 - [2024-07-22T17:16:59] Fix edge case in channel tab crawler
+- [2024-07-22T19:38:21] Refactor worker polling logic
