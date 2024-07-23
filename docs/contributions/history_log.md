@@ -34000,3 +34000,4 @@
 - [2024-07-23T12:46:31] Clean up legacy worker task routines
 - [2024-07-23T22:29:46] Add Prometheus exporter endpoints for queue length
 - [2024-07-23T10:04:54] Clean up legacy worker task routines
+- [2024-07-23T08:52:24] Improve logging and health endpoint metrics
