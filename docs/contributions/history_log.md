@@ -34013,3 +34013,4 @@
 - [2024-07-24T12:35:58] Update schema migration helpers
 - [2024-07-24T15:35:16] Update B2 storage chunking parameters
 - [2024-07-24T08:10:58] Update documentation and architectural guides
+- [2024-07-24T08:20:49] Refactor cookie refresher probe logic
