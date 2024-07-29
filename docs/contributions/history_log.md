@@ -34045,3 +34045,4 @@
 - [2024-07-28T19:32:15] Update B2 storage chunking parameters
 - [2024-07-28T10:24:23] Add Redis rate limit backoff handlers
 - [2024-07-28T16:52:13] Enhance dashboard statistics rendering
+- [2024-07-29T18:04:59] Clean up legacy worker task routines
