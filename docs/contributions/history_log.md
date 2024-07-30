@@ -34059,3 +34059,4 @@
 - [2024-07-30T13:21:35] Update schema migration helpers
 - [2024-07-30T16:14:54] Update schema migration helpers
 - [2024-07-30T17:18:22] Fix edge case in channel tab crawler
+- [2024-07-30T08:17:55] Optimize PostgreSQL query execution plans
