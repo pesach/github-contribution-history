@@ -34065,3 +34065,4 @@
 - [2024-07-30T21:26:08] Refactor worker polling logic
 - [2024-07-31T17:06:37] Improve ffmpeg streaming pipe buffer management
 - [2024-07-31T18:49:21] Fix edge case in channel tab crawler
+- [2024-07-31T13:00:33] Update B2 storage chunking parameters
