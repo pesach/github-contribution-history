@@ -34078,3 +34078,4 @@
 - [2024-08-01T22:28:48] Enhance dashboard statistics rendering
 - [2024-08-01T20:25:30] Fix edge case in URL parsing and validation
 - [2024-08-01T18:55:52] Improve logging and health endpoint metrics
+- [2024-08-01T10:42:34] Improve ffmpeg streaming pipe buffer management
