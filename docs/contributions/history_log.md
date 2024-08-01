@@ -34069,3 +34069,4 @@
 - [2024-07-31T21:52:58] Refactor worker polling logic
 - [2024-07-31T15:55:40] Improve ffmpeg streaming pipe buffer management
 - [2024-07-31T13:32:15] Update schema migration helpers
+- [2024-08-01T11:31:25] Fix edge case in channel tab crawler
