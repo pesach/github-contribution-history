@@ -34098,3 +34098,4 @@
 - [2024-08-04T13:01:22] Add Redis rate limit backoff handlers
 - [2024-08-04T17:35:15] Improve ffmpeg streaming pipe buffer management
 - [2024-08-04T21:36:57] Add error handling for yt-dlp rate limits
+- [2024-08-04T18:48:13] Update B2 storage chunking parameters
