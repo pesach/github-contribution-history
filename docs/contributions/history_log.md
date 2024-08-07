@@ -34123,3 +34123,4 @@
 - [2024-08-07T16:20:00] Improve ffmpeg streaming pipe buffer management
 - [2024-08-07T13:29:53] Clean up legacy worker task routines
 - [2024-08-07T22:48:24] Refactor worker polling logic
+- [2024-08-07T16:37:32] Fix edge case in URL parsing and validation
