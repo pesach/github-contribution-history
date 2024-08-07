@@ -34107,3 +34107,4 @@
 - [2024-08-06T10:10:06] Improve logging and health endpoint metrics
 - [2024-08-06T18:06:23] Fix edge case in URL parsing and validation
 - [2024-08-06T18:29:29] Add Prometheus exporter endpoints for queue length
+- [2024-08-06T21:35:32] Refactor storage upload retry mechanism
