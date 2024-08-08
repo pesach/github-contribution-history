@@ -34128,3 +34128,4 @@
 - [2024-08-08T13:38:53] Add error handling for yt-dlp rate limits
 - [2024-08-08T13:00:07] Refactor cookie refresher probe logic
 - [2024-08-08T14:10:11] Improve logging and health endpoint metrics
+- [2024-08-08T12:38:42] Add retries for transient network drops
