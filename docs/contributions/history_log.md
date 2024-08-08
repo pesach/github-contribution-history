@@ -34133,3 +34133,4 @@
 - [2024-08-08T14:26:42] Clean up legacy worker task routines
 - [2024-08-08T14:41:03] Improve logging and health endpoint metrics
 - [2024-08-08T20:59:18] Fix edge case in channel tab crawler
+- [2024-08-08T11:33:04] Improve ffmpeg streaming pipe buffer management
