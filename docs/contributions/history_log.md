@@ -34130,3 +34130,4 @@
 - [2024-08-08T14:10:11] Improve logging and health endpoint metrics
 - [2024-08-08T12:38:42] Add retries for transient network drops
 - [2024-08-08T22:58:44] Update automated pytest test suites
+- [2024-08-08T14:26:42] Clean up legacy worker task routines
