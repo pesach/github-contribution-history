@@ -34122,3 +34122,4 @@
 - [2024-08-07T11:38:36] Update documentation and architectural guides
 - [2024-08-07T16:20:00] Improve ffmpeg streaming pipe buffer management
 - [2024-08-07T13:29:53] Clean up legacy worker task routines
+- [2024-08-07T22:48:24] Refactor worker polling logic
