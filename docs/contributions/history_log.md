@@ -34141,3 +34141,4 @@
 - [2024-08-09T08:25:34] Clean up legacy worker task routines
 - [2024-08-09T12:12:40] Add Redis rate limit backoff handlers
 - [2024-08-09T18:42:20] Add Prometheus exporter endpoints for queue length
+- [2024-08-09T19:46:17] Update documentation and architectural guides
