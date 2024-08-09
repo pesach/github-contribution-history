@@ -34139,3 +34139,4 @@
 - [2024-08-09T11:46:48] Update documentation and architectural guides
 - [2024-08-09T17:45:35] Add Redis rate limit backoff handlers
 - [2024-08-09T08:25:34] Clean up legacy worker task routines
+- [2024-08-09T12:12:40] Add Redis rate limit backoff handlers
