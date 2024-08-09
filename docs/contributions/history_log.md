@@ -34137,3 +34137,4 @@
 - [2024-08-08T12:57:30] Clean up legacy worker task routines
 - [2024-08-08T16:36:11] Fix edge case in URL parsing and validation
 - [2024-08-09T11:46:48] Update documentation and architectural guides
+- [2024-08-09T17:45:35] Add Redis rate limit backoff handlers
