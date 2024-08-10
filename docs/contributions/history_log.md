@@ -34147,3 +34147,4 @@
 - [2024-08-09T08:10:48] Fix edge case in channel tab crawler
 - [2024-08-09T21:49:03] Add retries for transient network drops
 - [2024-08-10T16:01:42] Improve ffmpeg streaming pipe buffer management
+- [2024-08-10T12:23:51] Refactor worker polling logic
