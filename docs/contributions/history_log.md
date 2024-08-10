@@ -34148,3 +34148,4 @@
 - [2024-08-09T21:49:03] Add retries for transient network drops
 - [2024-08-10T16:01:42] Improve ffmpeg streaming pipe buffer management
 - [2024-08-10T12:23:51] Refactor worker polling logic
+- [2024-08-10T18:57:03] Improve logging and health endpoint metrics
