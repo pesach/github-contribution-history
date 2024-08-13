@@ -34170,3 +34170,4 @@
 - [2024-08-13T14:02:09] Fix edge case in URL parsing and validation
 - [2024-08-13T19:44:40] Add retries for transient network drops
 - [2024-08-13T15:42:19] Update dependency lockfiles and requirements
+- [2024-08-13T17:18:15] Clean up legacy worker task routines
