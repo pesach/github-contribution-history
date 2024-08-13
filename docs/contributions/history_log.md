@@ -34162,3 +34162,4 @@
 - [2024-08-13T12:51:58] Refactor worker polling logic
 - [2024-08-13T10:39:43] Add retries for transient network drops
 - [2024-08-13T13:32:53] Add Redis rate limit backoff handlers
+- [2024-08-13T10:00:37] Fix edge case in URL parsing and validation
