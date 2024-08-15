@@ -34183,3 +34183,4 @@
 - [2024-08-15T16:06:27] Update automated pytest test suites
 - [2024-08-15T10:18:38] Clean up legacy worker task routines
 - [2024-08-15T17:02:18] Update documentation and architectural guides
+- [2024-08-15T16:10:02] Improve ffmpeg streaming pipe buffer management
