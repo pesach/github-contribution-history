@@ -34181,3 +34181,4 @@
 - [2024-08-15T12:40:08] Update B2 storage chunking parameters
 - [2024-08-15T12:28:31] Update B2 storage chunking parameters
 - [2024-08-15T16:06:27] Update automated pytest test suites
+- [2024-08-15T10:18:38] Clean up legacy worker task routines
