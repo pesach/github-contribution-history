@@ -34191,3 +34191,4 @@
 - [2024-08-16T14:40:49] Refactor worker polling logic
 - [2024-08-16T17:45:15] Add Redis rate limit backoff handlers
 - [2024-08-16T22:35:14] Refactor storage upload retry mechanism
+- [2024-08-16T18:18:12] Add error handling for yt-dlp rate limits
