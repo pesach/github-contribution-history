@@ -34189,3 +34189,4 @@
 - [2024-08-16T09:15:53] Update B2 storage chunking parameters
 - [2024-08-16T13:47:54] Improve ffmpeg streaming pipe buffer management
 - [2024-08-16T14:40:49] Refactor worker polling logic
+- [2024-08-16T17:45:15] Add Redis rate limit backoff handlers
