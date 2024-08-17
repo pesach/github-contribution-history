@@ -34190,3 +34190,4 @@
 - [2024-08-16T13:47:54] Improve ffmpeg streaming pipe buffer management
 - [2024-08-16T14:40:49] Refactor worker polling logic
 - [2024-08-16T17:45:15] Add Redis rate limit backoff handlers
+- [2024-08-16T22:35:14] Refactor storage upload retry mechanism
