@@ -34197,3 +34197,4 @@
 - [2024-08-17T13:44:24] Update automated pytest test suites
 - [2024-08-17T18:11:30] Add retries for transient network drops
 - [2024-08-18T22:04:16] Add error handling for yt-dlp rate limits
+- [2024-08-18T15:33:57] Refactor storage upload retry mechanism
