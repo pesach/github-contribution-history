@@ -34225,3 +34225,4 @@
 - [2024-08-20T15:20:53] Fix edge case in URL parsing and validation
 - [2024-08-20T09:43:10] Enhance dashboard statistics rendering
 - [2024-08-20T09:23:26] Enhance dashboard statistics rendering
+- [2024-08-20T19:44:51] Add Prometheus exporter endpoints for queue length
