@@ -34221,3 +34221,4 @@
 - [2024-08-20T21:04:20] Update documentation and architectural guides
 - [2024-08-20T10:31:15] Update documentation and architectural guides
 - [2024-08-20T13:19:37] Update automated pytest test suites
+- [2024-08-20T08:21:56] Update schema migration helpers
