@@ -34205,3 +34205,4 @@
 - [2024-08-19T22:11:34] Improve logging and health endpoint metrics
 - [2024-08-19T14:56:55] Implement streaming upload chunk buffer optimization
 - [2024-08-19T19:43:19] Fix edge case in channel tab crawler
+- [2024-08-19T20:28:37] Add error handling for yt-dlp rate limits
