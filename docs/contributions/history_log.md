@@ -34236,3 +34236,4 @@
 - [2024-08-21T21:16:10] Add retries for transient network drops
 - [2024-08-21T20:12:51] Add error handling for yt-dlp rate limits
 - [2024-08-21T21:18:57] Improve ffmpeg streaming pipe buffer management
+- [2024-08-21T16:43:49] Update automated pytest test suites
