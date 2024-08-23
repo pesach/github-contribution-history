@@ -34249,3 +34249,4 @@
 - [2024-08-22T15:28:19] Enhance dashboard statistics rendering
 - [2024-08-22T17:24:00] Update B2 storage chunking parameters
 - [2024-08-22T21:49:42] Update schema migration helpers
+- [2024-08-23T12:14:26] Add Redis rate limit backoff handlers
