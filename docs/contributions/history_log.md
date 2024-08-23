@@ -34248,3 +34248,4 @@
 - [2024-08-22T09:55:18] Improve logging and health endpoint metrics
 - [2024-08-22T15:28:19] Enhance dashboard statistics rendering
 - [2024-08-22T17:24:00] Update B2 storage chunking parameters
+- [2024-08-22T21:49:42] Update schema migration helpers
