@@ -34269,3 +34269,4 @@
 - [2024-08-25T14:01:23] Enhance dashboard statistics rendering
 - [2024-08-25T18:54:08] Refactor storage upload retry mechanism
 - [2024-08-26T15:12:18] Add retries for transient network drops
+- [2024-08-26T10:37:33] Clean up legacy worker task routines
