@@ -34283,3 +34283,4 @@
 - [2024-08-26T09:14:19] Add Redis rate limit backoff handlers
 - [2024-08-26T09:18:06] Update documentation and architectural guides
 - [2024-08-27T17:39:34] Update schema migration helpers
+- [2024-08-27T12:39:04] Update schema migration helpers
