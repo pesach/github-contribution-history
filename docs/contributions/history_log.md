@@ -34297,3 +34297,4 @@
 - [2024-08-28T14:19:51] Improve logging and health endpoint metrics
 - [2024-08-28T21:27:15] Optimize PostgreSQL query execution plans
 - [2024-08-28T10:36:05] Refactor cookie refresher probe logic
+- [2024-08-28T08:48:01] Clean up legacy worker task routines
