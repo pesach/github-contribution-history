@@ -34296,3 +34296,4 @@
 - [2024-08-28T15:27:14] Fix edge case in channel tab crawler
 - [2024-08-28T14:19:51] Improve logging and health endpoint metrics
 - [2024-08-28T21:27:15] Optimize PostgreSQL query execution plans
+- [2024-08-28T10:36:05] Refactor cookie refresher probe logic
