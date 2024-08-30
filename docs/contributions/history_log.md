@@ -34309,3 +34309,4 @@
 - [2024-08-29T20:00:46] Add retries for transient network drops
 - [2024-08-30T16:23:45] Refactor worker polling logic
 - [2024-08-30T17:23:15] Refactor cookie refresher probe logic
+- [2024-08-30T15:15:46] Fix edge case in URL parsing and validation
