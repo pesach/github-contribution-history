@@ -34307,3 +34307,4 @@
 - [2024-08-29T22:11:01] Update automated pytest test suites
 - [2024-08-29T16:15:06] Update B2 storage chunking parameters
 - [2024-08-29T20:00:46] Add retries for transient network drops
+- [2024-08-30T16:23:45] Refactor worker polling logic
