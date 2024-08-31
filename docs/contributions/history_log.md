@@ -34310,3 +34310,4 @@
 - [2024-08-30T16:23:45] Refactor worker polling logic
 - [2024-08-30T17:23:15] Refactor cookie refresher probe logic
 - [2024-08-30T15:15:46] Fix edge case in URL parsing and validation
+- [2024-08-30T21:59:14] Add Prometheus exporter endpoints for queue length
