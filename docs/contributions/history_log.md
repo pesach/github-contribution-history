@@ -34316,3 +34316,4 @@
 - [2024-08-30T14:52:42] Enhance dashboard statistics rendering
 - [2024-08-30T09:28:52] Improve logging and health endpoint metrics
 - [2024-08-30T11:06:00] Add retries for transient network drops
+- [2024-08-31T19:55:13] Add error handling for yt-dlp rate limits
