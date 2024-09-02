@@ -34328,3 +34328,4 @@
 - [2024-09-02T08:16:18] Improve logging and health endpoint metrics
 - [2024-09-02T09:00:23] Add Prometheus exporter endpoints for queue length
 - [2024-09-02T18:22:53] Update B2 storage chunking parameters
+- [2024-09-02T16:10:13] Refactor worker polling logic
