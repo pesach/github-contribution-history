@@ -34326,3 +34326,4 @@
 - [2024-09-01T12:34:35] Optimize PostgreSQL query execution plans
 - [2024-09-01T09:35:45] Refactor worker polling logic
 - [2024-09-02T08:16:18] Improve logging and health endpoint metrics
+- [2024-09-02T09:00:23] Add Prometheus exporter endpoints for queue length
