@@ -34346,3 +34346,4 @@
 - [2024-09-03T12:29:21] Fix edge case in URL parsing and validation
 - [2024-09-03T16:46:20] Refactor worker polling logic
 - [2024-09-03T09:52:31] Update dependency lockfiles and requirements
+- [2024-09-03T15:52:10] Improve ffmpeg streaming pipe buffer management
