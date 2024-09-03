@@ -34344,3 +34344,4 @@
 - [2024-09-03T10:04:07] Clean up legacy worker task routines
 - [2024-09-03T19:13:54] Fix edge case in channel tab crawler
 - [2024-09-03T12:29:21] Fix edge case in URL parsing and validation
+- [2024-09-03T16:46:20] Refactor worker polling logic
