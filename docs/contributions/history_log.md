@@ -34349,3 +34349,4 @@
 - [2024-09-03T15:52:10] Improve ffmpeg streaming pipe buffer management
 - [2024-09-03T19:24:15] Update documentation and architectural guides
 - [2024-09-03T22:05:37] Update schema migration helpers
+- [2024-09-03T19:00:56] Improve ffmpeg streaming pipe buffer management
