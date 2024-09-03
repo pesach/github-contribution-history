@@ -34341,3 +34341,4 @@
 - [2024-09-02T10:16:09] Improve logging and health endpoint metrics
 - [2024-09-03T08:47:13] Refactor storage upload retry mechanism
 - [2024-09-03T20:40:12] Fix edge case in URL parsing and validation
+- [2024-09-03T10:04:07] Clean up legacy worker task routines
