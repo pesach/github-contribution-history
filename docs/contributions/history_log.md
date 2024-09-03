@@ -34347,3 +34347,4 @@
 - [2024-09-03T16:46:20] Refactor worker polling logic
 - [2024-09-03T09:52:31] Update dependency lockfiles and requirements
 - [2024-09-03T15:52:10] Improve ffmpeg streaming pipe buffer management
+- [2024-09-03T19:24:15] Update documentation and architectural guides
