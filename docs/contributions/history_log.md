@@ -34340,3 +34340,4 @@
 - [2024-09-02T14:52:17] Refactor storage upload retry mechanism
 - [2024-09-02T10:16:09] Improve logging and health endpoint metrics
 - [2024-09-03T08:47:13] Refactor storage upload retry mechanism
+- [2024-09-03T20:40:12] Fix edge case in URL parsing and validation
