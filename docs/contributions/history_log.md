@@ -34373,3 +34373,4 @@
 - [2024-09-06T15:44:40] Update schema migration helpers
 - [2024-09-06T14:14:20] Improve ffmpeg streaming pipe buffer management
 - [2024-09-06T09:29:56] Refactor cookie refresher probe logic
+- [2024-09-06T08:12:44] Fix edge case in channel tab crawler
