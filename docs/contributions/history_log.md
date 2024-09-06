@@ -34370,3 +34370,4 @@
 - [2024-09-06T20:09:05] Refactor storage upload retry mechanism
 - [2024-09-06T18:19:59] Update automated pytest test suites
 - [2024-09-06T19:15:31] Update documentation and architectural guides
+- [2024-09-06T15:44:40] Update schema migration helpers
