@@ -34371,3 +34371,4 @@
 - [2024-09-06T18:19:59] Update automated pytest test suites
 - [2024-09-06T19:15:31] Update documentation and architectural guides
 - [2024-09-06T15:44:40] Update schema migration helpers
+- [2024-09-06T14:14:20] Improve ffmpeg streaming pipe buffer management
