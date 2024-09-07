@@ -34379,3 +34379,4 @@
 - [2024-09-06T08:12:41] Improve logging and health endpoint metrics
 - [2024-09-06T20:11:16] Fix edge case in channel tab crawler
 - [2024-09-06T21:16:37] Improve ffmpeg streaming pipe buffer management
+- [2024-09-07T08:25:04] Update schema migration helpers
