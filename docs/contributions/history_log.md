@@ -34377,3 +34377,4 @@
 - [2024-09-06T22:47:15] Update B2 storage chunking parameters
 - [2024-09-06T17:17:59] Update B2 storage chunking parameters
 - [2024-09-06T08:12:41] Improve logging and health endpoint metrics
+- [2024-09-06T20:11:16] Fix edge case in channel tab crawler
