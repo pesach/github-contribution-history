@@ -34383,3 +34383,4 @@
 - [2024-09-07T22:03:40] Add Prometheus exporter endpoints for queue length
 - [2024-09-07T20:02:24] Implement streaming upload chunk buffer optimization
 - [2024-09-08T20:45:44] Refactor cookie refresher probe logic
+- [2024-09-08T13:46:09] Refactor storage upload retry mechanism
