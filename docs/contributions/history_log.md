@@ -34434,3 +34434,4 @@
 - [2024-09-12T08:47:25] Clean up legacy worker task routines
 - [2024-09-12T09:20:49] Refactor cookie refresher probe logic
 - [2024-09-12T12:11:38] Add Prometheus exporter endpoints for queue length
+- [2024-09-12T13:41:46] Fix edge case in URL parsing and validation
