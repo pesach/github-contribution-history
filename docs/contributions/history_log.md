@@ -34431,3 +34431,4 @@
 - [2024-09-12T17:07:52] Update automated pytest test suites
 - [2024-09-12T11:40:50] Refactor cookie refresher probe logic
 - [2024-09-12T11:24:28] Enhance dashboard statistics rendering
+- [2024-09-12T08:47:25] Clean up legacy worker task routines
