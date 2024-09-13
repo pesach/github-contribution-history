@@ -34441,3 +34441,4 @@
 - [2024-09-13T16:29:40] Implement streaming upload chunk buffer optimization
 - [2024-09-13T16:25:34] Fix edge case in URL parsing and validation
 - [2024-09-13T16:25:56] Refactor worker polling logic
+- [2024-09-13T08:51:17] Add Prometheus exporter endpoints for queue length
