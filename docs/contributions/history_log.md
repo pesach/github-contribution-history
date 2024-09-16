@@ -34463,3 +34463,4 @@
 - [2024-09-16T15:36:16] Update dependency lockfiles and requirements
 - [2024-09-16T19:00:03] Update schema migration helpers
 - [2024-09-16T15:08:23] Add Prometheus exporter endpoints for queue length
+- [2024-09-16T16:29:21] Update B2 storage chunking parameters
