@@ -34472,3 +34472,4 @@
 - [2024-09-17T16:27:49] Update dependency lockfiles and requirements
 - [2024-09-17T12:53:36] Clean up legacy worker task routines
 - [2024-09-17T15:19:03] Improve ffmpeg streaming pipe buffer management
+- [2024-09-17T13:50:53] Add retries for transient network drops
