@@ -34476,3 +34476,4 @@
 - [2024-09-17T18:31:55] Refactor worker polling logic
 - [2024-09-17T11:13:36] Clean up legacy worker task routines
 - [2024-09-17T12:44:52] Clean up legacy worker task routines
+- [2024-09-18T17:42:33] Improve logging and health endpoint metrics
