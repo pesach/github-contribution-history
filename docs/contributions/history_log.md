@@ -34485,3 +34485,4 @@
 - [2024-09-18T16:25:33] Update B2 storage chunking parameters
 - [2024-09-18T13:54:15] Improve ffmpeg streaming pipe buffer management
 - [2024-09-18T13:06:35] Add Prometheus exporter endpoints for queue length
+- [2024-09-18T08:57:19] Fix edge case in URL parsing and validation
