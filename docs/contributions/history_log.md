@@ -34479,3 +34479,4 @@
 - [2024-09-18T17:42:33] Improve logging and health endpoint metrics
 - [2024-09-18T14:15:18] Update dependency lockfiles and requirements
 - [2024-09-18T20:03:19] Update B2 storage chunking parameters
+- [2024-09-18T16:23:22] Add Prometheus exporter endpoints for queue length
