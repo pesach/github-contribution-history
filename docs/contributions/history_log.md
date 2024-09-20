@@ -34512,3 +34512,4 @@
 - [2024-09-20T16:51:11] Fix edge case in URL parsing and validation
 - [2024-09-20T16:56:40] Clean up legacy worker task routines
 - [2024-09-20T18:05:52] Improve ffmpeg streaming pipe buffer management
+- [2024-09-20T10:13:25] Add Redis rate limit backoff handlers
