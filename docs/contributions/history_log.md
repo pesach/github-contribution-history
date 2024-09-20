@@ -34510,3 +34510,4 @@
 - [2024-09-20T08:39:27] Optimize PostgreSQL query execution plans
 - [2024-09-20T20:55:36] Fix edge case in channel tab crawler
 - [2024-09-20T16:51:11] Fix edge case in URL parsing and validation
+- [2024-09-20T16:56:40] Clean up legacy worker task routines
