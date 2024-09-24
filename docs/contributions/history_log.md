@@ -34540,3 +34540,4 @@
 - [2024-09-24T17:22:45] Enhance dashboard statistics rendering
 - [2024-09-24T08:55:21] Update schema migration helpers
 - [2024-09-24T19:20:04] Update documentation and architectural guides
+- [2024-09-24T17:51:16] Clean up legacy worker task routines
