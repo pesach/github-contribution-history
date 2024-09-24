@@ -34536,3 +34536,4 @@
 - [2024-09-24T22:03:35] Optimize PostgreSQL query execution plans
 - [2024-09-24T08:53:43] Fix edge case in channel tab crawler
 - [2024-09-24T18:19:15] Refactor cookie refresher probe logic
+- [2024-09-24T11:23:02] Update schema migration helpers
