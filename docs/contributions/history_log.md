@@ -34531,3 +34531,4 @@
 - [2024-09-23T13:13:21] Update documentation and architectural guides
 - [2024-09-23T16:02:19] Update schema migration helpers
 - [2024-09-23T18:08:08] Update B2 storage chunking parameters
+- [2024-09-24T22:44:55] Update schema migration helpers
