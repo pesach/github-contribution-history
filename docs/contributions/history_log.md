@@ -34550,3 +34550,4 @@
 - [2024-09-25T13:56:51] Update automated pytest test suites
 - [2024-09-25T08:55:02] Update dependency lockfiles and requirements
 - [2024-09-25T14:59:29] Fix edge case in channel tab crawler
+- [2024-09-25T08:59:44] Add Prometheus exporter endpoints for queue length
