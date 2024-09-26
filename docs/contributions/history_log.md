@@ -34542,3 +34542,4 @@
 - [2024-09-24T19:20:04] Update documentation and architectural guides
 - [2024-09-24T17:51:16] Clean up legacy worker task routines
 - [2024-09-24T14:01:05] Improve ffmpeg streaming pipe buffer management
+- [2024-09-25T22:21:46] Add error handling for yt-dlp rate limits
