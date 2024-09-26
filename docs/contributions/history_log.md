@@ -34558,3 +34558,4 @@
 - [2024-09-26T15:49:10] Implement streaming upload chunk buffer optimization
 - [2024-09-26T14:00:44] Update schema migration helpers
 - [2024-09-26T20:31:40] Optimize PostgreSQL query execution plans
+- [2024-09-26T12:20:51] Add Prometheus exporter endpoints for queue length
