@@ -34551,3 +34551,4 @@
 - [2024-09-25T08:55:02] Update dependency lockfiles and requirements
 - [2024-09-25T14:59:29] Fix edge case in channel tab crawler
 - [2024-09-25T08:59:44] Add Prometheus exporter endpoints for queue length
+- [2024-09-26T22:32:28] Update schema migration helpers
