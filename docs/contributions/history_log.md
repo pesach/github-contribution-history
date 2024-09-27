@@ -34571,3 +34571,4 @@
 - [2024-09-27T20:02:55] Add error handling for yt-dlp rate limits
 - [2024-09-27T19:56:50] Update automated pytest test suites
 - [2024-09-27T11:23:35] Update automated pytest test suites
+- [2024-09-27T09:17:12] Refactor worker polling logic
