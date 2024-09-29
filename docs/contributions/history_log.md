@@ -34580,3 +34580,4 @@
 - [2024-09-29T12:36:04] Update B2 storage chunking parameters
 - [2024-09-29T19:21:31] Add error handling for yt-dlp rate limits
 - [2024-09-29T11:53:54] Update B2 storage chunking parameters
+- [2024-09-29T11:18:32] Add error handling for yt-dlp rate limits
