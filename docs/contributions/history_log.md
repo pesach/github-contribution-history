@@ -34592,3 +34592,4 @@
 - [2024-09-30T22:01:41] Improve ffmpeg streaming pipe buffer management
 - [2024-09-30T11:39:07] Refactor cookie refresher probe logic
 - [2024-09-30T09:18:22] Add error handling for yt-dlp rate limits
+- [2024-09-30T11:12:41] Add Redis rate limit backoff handlers
