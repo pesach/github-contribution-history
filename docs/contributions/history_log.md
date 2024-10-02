@@ -34596,3 +34596,4 @@
 - [2024-09-30T21:40:42] Update automated pytest test suites
 - [2024-09-30T22:31:11] Update dependency lockfiles and requirements
 - [2024-10-02T17:37:16] Add retries for transient network drops
+- [2024-10-02T17:57:23] Add retries for transient network drops
