@@ -34608,3 +34608,4 @@
 - [2024-10-03T17:44:59] Update dependency lockfiles and requirements
 - [2024-10-03T10:55:16] Improve ffmpeg streaming pipe buffer management
 - [2024-10-03T20:33:13] Add Prometheus exporter endpoints for queue length
+- [2024-10-03T20:35:04] Update documentation and architectural guides
