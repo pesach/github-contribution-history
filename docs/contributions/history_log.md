@@ -34626,3 +34626,4 @@
 - [2024-10-05T20:13:33] Refactor storage upload retry mechanism
 - [2024-10-05T11:16:39] Add error handling for yt-dlp rate limits
 - [2024-10-05T22:32:16] Add error handling for yt-dlp rate limits
+- [2024-10-05T15:29:00] Add Prometheus exporter endpoints for queue length
