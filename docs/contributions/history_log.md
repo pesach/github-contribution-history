@@ -34647,3 +34647,4 @@
 - [2024-10-08T21:43:38] Add Prometheus exporter endpoints for queue length
 - [2024-10-08T14:14:43] Add error handling for yt-dlp rate limits
 - [2024-10-08T17:09:50] Refactor cookie refresher probe logic
+- [2024-10-08T12:29:16] Clean up legacy worker task routines
