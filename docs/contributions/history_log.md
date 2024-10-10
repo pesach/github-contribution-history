@@ -34668,3 +34668,4 @@
 - [2024-10-09T20:21:42] Improve ffmpeg streaming pipe buffer management
 - [2024-10-09T17:24:20] Improve ffmpeg streaming pipe buffer management
 - [2024-10-10T18:47:17] Add retries for transient network drops
+- [2024-10-10T17:24:32] Update B2 storage chunking parameters
