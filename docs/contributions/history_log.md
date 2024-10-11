@@ -34674,3 +34674,4 @@
 - [2024-10-10T10:38:54] Add error handling for yt-dlp rate limits
 - [2024-10-10T22:30:10] Clean up legacy worker task routines
 - [2024-10-10T18:43:59] Add Redis rate limit backoff handlers
+- [2024-10-10T20:16:38] Fix edge case in URL parsing and validation
