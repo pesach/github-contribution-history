@@ -34692,3 +34692,4 @@
 - [2024-10-12T11:33:30] Clean up legacy worker task routines
 - [2024-10-12T13:45:41] Update B2 storage chunking parameters
 - [2024-10-12T21:46:10] Add error handling for yt-dlp rate limits
+- [2024-10-12T08:48:27] Add retries for transient network drops
