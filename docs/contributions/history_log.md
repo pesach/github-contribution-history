@@ -34697,3 +34697,4 @@
 - [2024-10-13T13:21:19] Add retries for transient network drops
 - [2024-10-13T12:40:22] Refactor cookie refresher probe logic
 - [2024-10-13T08:07:44] Refactor cookie refresher probe logic
+- [2024-10-13T13:26:55] Add Prometheus exporter endpoints for queue length
