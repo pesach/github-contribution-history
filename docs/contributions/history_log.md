@@ -34719,3 +34719,4 @@
 - [2024-10-15T20:01:26] Enhance dashboard statistics rendering
 - [2024-10-15T08:14:21] Add error handling for yt-dlp rate limits
 - [2024-10-15T22:50:18] Update B2 storage chunking parameters
+- [2024-10-15T17:49:53] Improve logging and health endpoint metrics
