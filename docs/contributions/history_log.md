@@ -34717,3 +34717,4 @@
 - [2024-10-15T09:15:15] Update documentation and architectural guides
 - [2024-10-15T12:34:41] Fix edge case in channel tab crawler
 - [2024-10-15T20:01:26] Enhance dashboard statistics rendering
+- [2024-10-15T08:14:21] Add error handling for yt-dlp rate limits
