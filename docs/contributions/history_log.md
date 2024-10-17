@@ -34739,3 +34739,4 @@
 - [2024-10-17T19:34:34] Improve logging and health endpoint metrics
 - [2024-10-17T09:14:28] Refactor cookie refresher probe logic
 - [2024-10-17T10:38:00] Add retries for transient network drops
+- [2024-10-17T12:20:49] Refactor worker polling logic
