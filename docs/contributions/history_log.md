@@ -34749,3 +34749,4 @@
 - [2024-10-18T13:36:30] Optimize PostgreSQL query execution plans
 - [2024-10-18T17:41:58] Update B2 storage chunking parameters
 - [2024-10-18T21:01:40] Add Redis rate limit backoff handlers
+- [2024-10-18T11:50:36] Refactor worker polling logic
