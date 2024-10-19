@@ -34741,3 +34741,4 @@
 - [2024-10-17T10:38:00] Add retries for transient network drops
 - [2024-10-17T12:20:49] Refactor worker polling logic
 - [2024-10-18T11:14:43] Improve logging and health endpoint metrics
+- [2024-10-18T21:09:59] Add error handling for yt-dlp rate limits
