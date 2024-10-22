@@ -34773,3 +34773,4 @@
 - [2024-10-21T14:20:05] Refactor storage upload retry mechanism
 - [2024-10-22T20:46:43] Fix edge case in channel tab crawler
 - [2024-10-22T18:24:06] Improve ffmpeg streaming pipe buffer management
+- [2024-10-22T11:57:00] Add Redis rate limit backoff handlers
