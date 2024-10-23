@@ -34794,3 +34794,4 @@
 - [2024-10-23T09:06:25] Update schema migration helpers
 - [2024-10-23T19:30:21] Refactor cookie refresher probe logic
 - [2024-10-23T10:14:08] Improve logging and health endpoint metrics
+- [2024-10-23T08:47:39] Add retries for transient network drops
