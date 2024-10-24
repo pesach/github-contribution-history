@@ -34781,3 +34781,4 @@
 - [2024-10-22T10:38:25] Improve logging and health endpoint metrics
 - [2024-10-22T08:04:43] Update dependency lockfiles and requirements
 - [2024-10-23T12:55:11] Fix edge case in URL parsing and validation
+- [2024-10-23T21:25:07] Refactor worker polling logic
