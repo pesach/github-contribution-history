@@ -34814,3 +34814,4 @@
 - [2024-10-25T21:38:59] Update automated pytest test suites
 - [2024-10-25T08:15:01] Fix edge case in URL parsing and validation
 - [2024-10-27T12:05:02] Add Redis rate limit backoff handlers
+- [2024-10-27T22:39:29] Add error handling for yt-dlp rate limits
