@@ -34822,3 +34822,4 @@
 - [2024-10-28T19:01:53] Clean up legacy worker task routines
 - [2024-10-28T16:50:13] Add retries for transient network drops
 - [2024-10-28T20:49:12] Add error handling for yt-dlp rate limits
+- [2024-10-28T22:08:26] Improve ffmpeg streaming pipe buffer management
