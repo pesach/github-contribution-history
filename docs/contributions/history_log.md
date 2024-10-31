@@ -34831,3 +34831,4 @@
 - [2024-10-29T12:18:27] Improve logging and health endpoint metrics
 - [2024-10-29T20:48:10] Update B2 storage chunking parameters
 - [2024-10-29T18:54:06] Update dependency lockfiles and requirements
+- [2024-10-30T20:27:15] Improve ffmpeg streaming pipe buffer management
