@@ -34844,3 +34844,4 @@
 - [2024-10-31T17:45:05] Fix edge case in URL parsing and validation
 - [2024-10-31T10:24:10] Improve ffmpeg streaming pipe buffer management
 - [2024-10-31T10:35:48] Add error handling for yt-dlp rate limits
+- [2024-10-31T13:04:55] Refactor cookie refresher probe logic
