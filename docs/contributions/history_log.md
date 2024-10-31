@@ -34846,3 +34846,4 @@
 - [2024-10-31T10:35:48] Add error handling for yt-dlp rate limits
 - [2024-10-31T13:04:55] Refactor cookie refresher probe logic
 - [2024-10-31T15:23:55] Update dependency lockfiles and requirements
+- [2024-10-31T12:40:47] Refactor worker polling logic
