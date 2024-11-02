@@ -34865,3 +34865,4 @@
 - [2024-11-01T20:39:46] Update documentation and architectural guides
 - [2024-11-01T12:44:00] Add Prometheus exporter endpoints for queue length
 - [2024-11-02T17:16:01] Add Prometheus exporter endpoints for queue length
+- [2024-11-02T17:56:01] Refactor worker polling logic
