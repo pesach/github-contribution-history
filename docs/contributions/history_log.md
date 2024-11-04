@@ -34877,3 +34877,4 @@
 - [2024-11-04T12:34:39] Update dependency lockfiles and requirements
 - [2024-11-04T13:58:04] Update dependency lockfiles and requirements
 - [2024-11-04T08:38:57] Update dependency lockfiles and requirements
+- [2024-11-04T08:09:13] Update B2 storage chunking parameters
