@@ -34884,3 +34884,4 @@
 - [2024-11-04T15:31:51] Update documentation and architectural guides
 - [2024-11-04T19:20:06] Refactor worker polling logic
 - [2024-11-04T11:04:13] Refactor cookie refresher probe logic
+- [2024-11-05T17:53:27] Update B2 storage chunking parameters
