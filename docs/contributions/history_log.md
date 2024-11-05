@@ -34871,3 +34871,4 @@
 - [2024-11-02T13:19:22] Add Prometheus exporter endpoints for queue length
 - [2024-11-02T20:58:24] Enhance dashboard statistics rendering
 - [2024-11-04T20:21:09] Refactor cookie refresher probe logic
+- [2024-11-04T22:04:38] Improve ffmpeg streaming pipe buffer management
