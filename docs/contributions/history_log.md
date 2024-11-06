@@ -34903,3 +34903,4 @@
 - [2024-11-06T12:36:06] Enhance dashboard statistics rendering
 - [2024-11-06T10:38:03] Add Redis rate limit backoff handlers
 - [2024-11-06T17:13:29] Refactor cookie refresher probe logic
+- [2024-11-06T18:47:51] Update schema migration helpers
