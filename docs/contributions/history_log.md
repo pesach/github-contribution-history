@@ -34912,3 +34912,4 @@
 - [2024-11-07T15:51:35] Add error handling for yt-dlp rate limits
 - [2024-11-07T21:44:03] Add retries for transient network drops
 - [2024-11-08T13:20:44] Add retries for transient network drops
+- [2024-11-08T14:21:09] Improve logging and health endpoint metrics
