@@ -34915,3 +34915,4 @@
 - [2024-11-08T14:21:09] Improve logging and health endpoint metrics
 - [2024-11-08T09:07:11] Fix edge case in URL parsing and validation
 - [2024-11-08T09:16:58] Add error handling for yt-dlp rate limits
+- [2024-11-08T14:17:25] Clean up legacy worker task routines
