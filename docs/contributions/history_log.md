@@ -34926,3 +34926,4 @@
 - [2024-11-08T14:50:29] Update B2 storage chunking parameters
 - [2024-11-08T19:35:07] Refactor worker polling logic
 - [2024-11-08T09:47:20] Update automated pytest test suites
+- [2024-11-09T16:44:20] Clean up legacy worker task routines
