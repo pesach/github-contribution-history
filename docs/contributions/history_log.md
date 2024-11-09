@@ -34920,3 +34920,4 @@
 - [2024-11-08T14:22:21] Add Redis rate limit backoff handlers
 - [2024-11-08T19:18:18] Update schema migration helpers
 - [2024-11-08T08:28:29] Update B2 storage chunking parameters
+- [2024-11-08T21:00:57] Refactor cookie refresher probe logic
