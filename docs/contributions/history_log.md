@@ -34924,3 +34924,4 @@
 - [2024-11-08T19:06:14] Fix edge case in URL parsing and validation
 - [2024-11-08T10:18:50] Optimize PostgreSQL query execution plans
 - [2024-11-08T14:50:29] Update B2 storage chunking parameters
+- [2024-11-08T19:35:07] Refactor worker polling logic
