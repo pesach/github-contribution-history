@@ -34935,3 +34935,4 @@
 - [2024-11-10T20:55:50] Add error handling for yt-dlp rate limits
 - [2024-11-10T20:48:11] Refactor cookie refresher probe logic
 - [2024-11-10T22:00:43] Fix edge case in channel tab crawler
+- [2024-11-10T15:31:57] Add Prometheus exporter endpoints for queue length
