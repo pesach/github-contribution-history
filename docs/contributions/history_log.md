@@ -34943,3 +34943,4 @@
 - [2024-11-11T08:23:06] Update automated pytest test suites
 - [2024-11-11T20:42:00] Add error handling for yt-dlp rate limits
 - [2024-11-11T17:57:18] Refactor cookie refresher probe logic
+- [2024-11-11T17:07:21] Improve logging and health endpoint metrics
