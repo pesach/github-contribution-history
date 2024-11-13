@@ -34950,3 +34950,4 @@
 - [2024-11-12T18:34:38] Update dependency lockfiles and requirements
 - [2024-11-12T08:21:11] Fix edge case in channel tab crawler
 - [2024-11-12T17:02:23] Improve logging and health endpoint metrics
+- [2024-11-12T21:00:09] Refactor cookie refresher probe logic
