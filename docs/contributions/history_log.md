@@ -34968,3 +34968,4 @@
 - [2024-11-13T10:33:32] Update schema migration helpers
 - [2024-11-13T21:35:37] Fix edge case in channel tab crawler
 - [2024-11-13T11:57:49] Fix edge case in channel tab crawler
+- [2024-11-13T09:29:44] Implement streaming upload chunk buffer optimization
