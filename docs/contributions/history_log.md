@@ -34955,3 +34955,4 @@
 - [2024-11-12T21:32:17] Enhance dashboard statistics rendering
 - [2024-11-12T15:11:43] Enhance dashboard statistics rendering
 - [2024-11-12T16:06:06] Refactor storage upload retry mechanism
+- [2024-11-12T20:53:17] Improve ffmpeg streaming pipe buffer management
