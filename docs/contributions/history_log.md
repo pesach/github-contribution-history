@@ -34976,3 +34976,4 @@
 - [2024-11-14T18:22:15] Add retries for transient network drops
 - [2024-11-14T20:30:10] Add retries for transient network drops
 - [2024-11-14T19:42:25] Add retries for transient network drops
+- [2024-11-14T21:54:19] Clean up legacy worker task routines
