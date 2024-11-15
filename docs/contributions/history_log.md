@@ -34987,3 +34987,4 @@
 - [2024-11-14T22:58:45] Fix edge case in URL parsing and validation
 - [2024-11-14T13:09:21] Refactor cookie refresher probe logic
 - [2024-11-14T22:49:04] Add error handling for yt-dlp rate limits
+- [2024-11-14T19:52:53] Add Prometheus exporter endpoints for queue length
