@@ -34990,3 +34990,4 @@
 - [2024-11-14T19:52:53] Add Prometheus exporter endpoints for queue length
 - [2024-11-15T11:14:23] Fix edge case in URL parsing and validation
 - [2024-11-15T15:14:01] Add retries for transient network drops
+- [2024-11-15T12:02:48] Add Redis rate limit backoff handlers
