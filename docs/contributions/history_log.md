@@ -35019,3 +35019,4 @@
 - [2024-11-18T09:53:18] Add Prometheus exporter endpoints for queue length
 - [2024-11-18T10:59:05] Update dependency lockfiles and requirements
 - [2024-11-19T11:14:10] Fix edge case in URL parsing and validation
+- [2024-11-19T13:52:51] Update schema migration helpers
