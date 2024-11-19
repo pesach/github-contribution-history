@@ -35022,3 +35022,4 @@
 - [2024-11-19T13:52:51] Update schema migration helpers
 - [2024-11-19T18:10:58] Fix edge case in channel tab crawler
 - [2024-11-19T14:10:46] Clean up legacy worker task routines
+- [2024-11-19T18:51:46] Add error handling for yt-dlp rate limits
