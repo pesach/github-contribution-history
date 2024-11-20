@@ -35033,3 +35033,4 @@
 - [2024-11-20T11:40:20] Optimize PostgreSQL query execution plans
 - [2024-11-20T10:02:58] Implement streaming upload chunk buffer optimization
 - [2024-11-20T13:18:04] Refactor worker polling logic
+- [2024-11-20T11:29:54] Add Prometheus exporter endpoints for queue length
