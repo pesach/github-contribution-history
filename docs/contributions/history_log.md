@@ -35054,3 +35054,4 @@
 - [2024-11-22T10:20:56] Update schema migration helpers
 - [2024-11-22T15:54:12] Clean up legacy worker task routines
 - [2024-11-22T14:04:14] Improve ffmpeg streaming pipe buffer management
+- [2024-11-22T12:57:58] Clean up legacy worker task routines
