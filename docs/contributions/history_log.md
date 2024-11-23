@@ -35049,3 +35049,4 @@
 - [2024-11-22T18:07:49] Add retries for transient network drops
 - [2024-11-22T17:28:33] Update automated pytest test suites
 - [2024-11-22T14:57:51] Fix edge case in channel tab crawler
+- [2024-11-22T20:42:08] Add Redis rate limit backoff handlers
