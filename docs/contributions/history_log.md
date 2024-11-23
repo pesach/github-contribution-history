@@ -35058,3 +35058,4 @@
 - [2024-11-23T11:42:59] Add retries for transient network drops
 - [2024-11-23T19:10:02] Refactor worker polling logic
 - [2024-11-23T21:19:05] Implement streaming upload chunk buffer optimization
+- [2024-11-23T17:11:19] Improve ffmpeg streaming pipe buffer management
