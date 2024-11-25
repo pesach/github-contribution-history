@@ -35070,3 +35070,4 @@
 - [2024-11-25T14:24:11] Refactor storage upload retry mechanism
 - [2024-11-25T08:13:48] Refactor worker polling logic
 - [2024-11-25T11:56:16] Update automated pytest test suites
+- [2024-11-25T18:46:39] Clean up legacy worker task routines
