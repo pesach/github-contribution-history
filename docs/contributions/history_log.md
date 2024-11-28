@@ -35080,3 +35080,4 @@
 - [2024-11-26T11:14:58] Update documentation and architectural guides
 - [2024-11-26T21:11:39] Fix edge case in URL parsing and validation
 - [2024-11-27T16:37:21] Improve logging and health endpoint metrics
+- [2024-11-27T19:19:20] Improve ffmpeg streaming pipe buffer management
