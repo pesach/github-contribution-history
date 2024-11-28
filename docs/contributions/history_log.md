@@ -35081,3 +35081,4 @@
 - [2024-11-26T21:11:39] Fix edge case in URL parsing and validation
 - [2024-11-27T16:37:21] Improve logging and health endpoint metrics
 - [2024-11-27T19:19:20] Improve ffmpeg streaming pipe buffer management
+- [2024-11-27T19:26:20] Add Prometheus exporter endpoints for queue length
