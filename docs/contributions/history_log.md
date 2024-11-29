@@ -35101,3 +35101,4 @@
 - [2024-11-28T22:03:37] Update dependency lockfiles and requirements
 - [2024-11-29T09:27:45] Update dependency lockfiles and requirements
 - [2024-11-29T21:07:11] Clean up legacy worker task routines
+- [2024-11-29T10:16:40] Update B2 storage chunking parameters
