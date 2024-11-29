@@ -35092,3 +35092,4 @@
 - [2024-11-27T09:02:36] Update B2 storage chunking parameters
 - [2024-11-27T22:52:35] Add retries for transient network drops
 - [2024-11-28T13:00:20] Update B2 storage chunking parameters
+- [2024-11-28T21:15:32] Improve logging and health endpoint metrics
