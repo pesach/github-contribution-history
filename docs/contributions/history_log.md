@@ -35096,3 +35096,4 @@
 - [2024-11-28T14:33:39] Update dependency lockfiles and requirements
 - [2024-11-28T11:15:07] Add error handling for yt-dlp rate limits
 - [2024-11-28T21:08:53] Add retries for transient network drops
+- [2024-11-28T19:12:29] Improve logging and health endpoint metrics
