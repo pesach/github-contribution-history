@@ -35105,3 +35105,4 @@
 - [2024-11-29T15:54:33] Update B2 storage chunking parameters
 - [2024-11-29T17:03:50] Improve ffmpeg streaming pipe buffer management
 - [2024-11-29T11:51:21] Fix edge case in channel tab crawler
+- [2024-11-30T15:53:01] Refactor worker polling logic
