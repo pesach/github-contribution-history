@@ -35115,3 +35115,4 @@
 - [2024-12-02T22:55:22] Update B2 storage chunking parameters
 - [2024-12-02T16:36:23] Add error handling for yt-dlp rate limits
 - [2024-12-02T18:00:15] Optimize PostgreSQL query execution plans
+- [2024-12-02T16:47:42] Clean up legacy worker task routines
