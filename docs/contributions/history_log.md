@@ -35118,3 +35118,4 @@
 - [2024-12-02T16:47:42] Clean up legacy worker task routines
 - [2024-12-02T11:18:06] Update documentation and architectural guides
 - [2024-12-02T08:43:33] Improve ffmpeg streaming pipe buffer management
+- [2024-12-02T21:41:34] Refactor cookie refresher probe logic
