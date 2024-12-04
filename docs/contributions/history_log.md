@@ -35135,3 +35135,4 @@
 - [2024-12-03T15:50:07] Update automated pytest test suites
 - [2024-12-03T09:12:21] Improve ffmpeg streaming pipe buffer management
 - [2024-12-03T19:59:34] Update dependency lockfiles and requirements
+- [2024-12-04T17:25:59] Update documentation and architectural guides
