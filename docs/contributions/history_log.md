@@ -35139,3 +35139,4 @@
 - [2024-12-04T11:19:03] Fix edge case in channel tab crawler
 - [2024-12-04T16:44:31] Update dependency lockfiles and requirements
 - [2024-12-04T21:35:39] Implement streaming upload chunk buffer optimization
+- [2024-12-04T20:45:23] Update schema migration helpers
