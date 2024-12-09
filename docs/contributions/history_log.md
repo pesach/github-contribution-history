@@ -35177,3 +35177,4 @@
 - [2024-12-09T15:10:55] Improve ffmpeg streaming pipe buffer management
 - [2024-12-09T20:23:32] Improve logging and health endpoint metrics
 - [2024-12-09T13:45:14] Add Redis rate limit backoff handlers
+- [2024-12-09T10:48:36] Update schema migration helpers
