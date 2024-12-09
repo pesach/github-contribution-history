@@ -35176,3 +35176,4 @@
 - [2024-12-09T16:44:39] Refactor cookie refresher probe logic
 - [2024-12-09T15:10:55] Improve ffmpeg streaming pipe buffer management
 - [2024-12-09T20:23:32] Improve logging and health endpoint metrics
+- [2024-12-09T13:45:14] Add Redis rate limit backoff handlers
