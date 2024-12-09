@@ -35178,3 +35178,4 @@
 - [2024-12-09T20:23:32] Improve logging and health endpoint metrics
 - [2024-12-09T13:45:14] Add Redis rate limit backoff handlers
 - [2024-12-09T10:48:36] Update schema migration helpers
+- [2024-12-09T14:52:18] Refactor worker polling logic
