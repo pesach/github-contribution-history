@@ -35186,3 +35186,4 @@
 - [2024-12-10T08:18:06] Add retries for transient network drops
 - [2024-12-10T14:24:45] Update automated pytest test suites
 - [2024-12-10T13:01:11] Update dependency lockfiles and requirements
+- [2024-12-10T08:35:24] Update schema migration helpers
