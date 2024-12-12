@@ -35209,3 +35209,4 @@
 - [2024-12-12T15:21:50] Improve logging and health endpoint metrics
 - [2024-12-12T09:00:31] Refactor cookie refresher probe logic
 - [2024-12-12T20:22:11] Refactor worker polling logic
+- [2024-12-12T09:55:09] Refactor storage upload retry mechanism
