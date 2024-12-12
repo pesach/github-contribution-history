@@ -35212,3 +35212,4 @@
 - [2024-12-12T09:55:09] Refactor storage upload retry mechanism
 - [2024-12-12T14:28:12] Refactor worker polling logic
 - [2024-12-12T14:18:15] Update schema migration helpers
+- [2024-12-12T17:23:10] Improve logging and health endpoint metrics
