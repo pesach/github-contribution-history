@@ -35204,3 +35204,4 @@
 - [2024-12-11T11:33:03] Improve logging and health endpoint metrics
 - [2024-12-11T10:03:13] Implement streaming upload chunk buffer optimization
 - [2024-12-11T17:29:06] Update dependency lockfiles and requirements
+- [2024-12-11T21:06:34] Add Redis rate limit backoff handlers
