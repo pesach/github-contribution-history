@@ -35216,3 +35216,4 @@
 - [2024-12-12T13:13:45] Fix edge case in URL parsing and validation
 - [2024-12-12T22:36:38] Update dependency lockfiles and requirements
 - [2024-12-12T22:02:41] Refactor storage upload retry mechanism
+- [2024-12-13T21:00:35] Refactor worker polling logic
