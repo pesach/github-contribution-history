@@ -35229,3 +35229,4 @@
 - [2024-12-14T12:23:40] Add Redis rate limit backoff handlers
 - [2024-12-14T20:10:11] Add retries for transient network drops
 - [2024-12-15T10:07:32] Update dependency lockfiles and requirements
+- [2024-12-15T17:03:07] Refactor storage upload retry mechanism
