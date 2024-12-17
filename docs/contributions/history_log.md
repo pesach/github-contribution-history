@@ -35235,3 +35235,4 @@
 - [2024-12-16T09:16:40] Refactor cookie refresher probe logic
 - [2024-12-16T10:18:45] Refactor worker polling logic
 - [2024-12-16T19:30:05] Update dependency lockfiles and requirements
+- [2024-12-16T21:21:17] Update schema migration helpers
