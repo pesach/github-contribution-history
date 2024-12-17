@@ -35243,3 +35243,4 @@
 - [2024-12-17T19:39:52] Fix edge case in channel tab crawler
 - [2024-12-17T11:33:30] Improve ffmpeg streaming pipe buffer management
 - [2024-12-17T22:53:07] Update automated pytest test suites
+- [2024-12-17T16:27:25] Update B2 storage chunking parameters
