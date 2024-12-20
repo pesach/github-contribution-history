@@ -35268,3 +35268,4 @@
 - [2024-12-19T21:06:52] Clean up legacy worker task routines
 - [2024-12-19T10:36:09] Add Redis rate limit backoff handlers
 - [2024-12-19T13:42:23] Add Prometheus exporter endpoints for queue length
+- [2024-12-19T19:00:48] Improve logging and health endpoint metrics
