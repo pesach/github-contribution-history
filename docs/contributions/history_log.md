@@ -35265,3 +35265,4 @@
 - [2024-12-19T15:55:56] Update documentation and architectural guides
 - [2024-12-19T18:58:14] Refactor storage upload retry mechanism
 - [2024-12-19T16:30:56] Refactor worker polling logic
+- [2024-12-19T21:06:52] Clean up legacy worker task routines
