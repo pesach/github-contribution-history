@@ -35291,3 +35291,4 @@
 - [2024-12-22T16:32:46] Refactor storage upload retry mechanism
 - [2024-12-22T09:50:15] Update schema migration helpers
 - [2024-12-22T13:44:23] Refactor worker polling logic
+- [2024-12-23T17:23:35] Improve ffmpeg streaming pipe buffer management
