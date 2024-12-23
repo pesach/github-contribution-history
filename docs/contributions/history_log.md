@@ -35293,3 +35293,4 @@
 - [2024-12-22T13:44:23] Refactor worker polling logic
 - [2024-12-23T17:23:35] Improve ffmpeg streaming pipe buffer management
 - [2024-12-23T20:37:07] Add retries for transient network drops
+- [2024-12-23T13:27:39] Update B2 storage chunking parameters
