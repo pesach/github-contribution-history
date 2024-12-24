@@ -35298,3 +35298,4 @@
 - [2024-12-23T17:58:12] Refactor cookie refresher probe logic
 - [2024-12-23T20:33:57] Add Redis rate limit backoff handlers
 - [2024-12-23T20:14:34] Add Prometheus exporter endpoints for queue length
+- [2024-12-23T21:53:14] Fix edge case in URL parsing and validation
