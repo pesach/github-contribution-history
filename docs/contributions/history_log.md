@@ -35314,3 +35314,4 @@
 - [2024-12-24T08:36:19] Add retries for transient network drops
 - [2024-12-24T20:00:12] Implement streaming upload chunk buffer optimization
 - [2024-12-25T12:18:50] Improve ffmpeg streaming pipe buffer management
+- [2024-12-25T18:49:15] Add Redis rate limit backoff handlers
