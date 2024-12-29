@@ -35343,3 +35343,4 @@
 - [2024-12-28T08:18:05] Optimize PostgreSQL query execution plans
 - [2024-12-29T10:03:39] Fix edge case in channel tab crawler
 - [2024-12-29T12:28:41] Fix edge case in URL parsing and validation
+- [2024-12-29T16:48:01] Refactor worker polling logic
