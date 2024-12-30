@@ -35350,3 +35350,4 @@
 - [2024-12-30T12:17:54] Update documentation and architectural guides
 - [2024-12-30T22:15:55] Refactor storage upload retry mechanism
 - [2024-12-30T11:36:38] Fix edge case in channel tab crawler
+- [2024-12-30T11:23:46] Add error handling for yt-dlp rate limits
