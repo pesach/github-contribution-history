@@ -35372,3 +35372,4 @@
 - [2024-12-31T18:36:41] Update B2 storage chunking parameters
 - [2024-12-31T10:04:48] Add retries for transient network drops
 - [2024-12-31T21:11:19] Add Prometheus exporter endpoints for queue length
+- [2024-12-31T09:12:04] Add retries for transient network drops
