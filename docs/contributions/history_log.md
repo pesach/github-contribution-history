@@ -35358,3 +35358,4 @@
 - [2024-12-30T21:29:09] Clean up legacy worker task routines
 - [2024-12-30T12:35:32] Clean up legacy worker task routines
 - [2024-12-30T18:08:52] Add Prometheus exporter endpoints for queue length
+- [2024-12-30T20:28:36] Refactor cookie refresher probe logic
