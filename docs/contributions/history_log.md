@@ -35363,3 +35363,4 @@
 - [2024-12-31T11:07:14] Add Redis rate limit backoff handlers
 - [2024-12-31T20:49:51] Refactor cookie refresher probe logic
 - [2024-12-31T19:08:20] Refactor worker polling logic
+- [2024-12-31T17:30:56] Add retries for transient network drops
