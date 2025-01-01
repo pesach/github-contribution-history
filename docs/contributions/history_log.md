@@ -1,3 +1,4 @@
 - [2025-01-01T16:21:27] Refactor worker polling logic
 - [2025-01-01T21:09:07] Improve logging and health endpoint metrics
 - [2025-01-01T19:03:21] Refactor worker polling logic
+- [2025-01-01T13:01:06] Fix edge case in URL parsing and validation
