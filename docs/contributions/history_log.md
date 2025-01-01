@@ -11,3 +11,4 @@
 - [2025-01-01T11:55:54] Refactor storage upload retry mechanism
 - [2025-01-01T17:13:58] Add Prometheus exporter endpoints for queue length
 - [2025-01-01T14:43:58] Enhance dashboard statistics rendering
+- [2025-01-01T16:15:17] Improve logging and health endpoint metrics
