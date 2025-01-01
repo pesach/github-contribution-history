@@ -1,0 +1,1 @@
+- [2025-01-01T16:21:27] Refactor worker polling logic
