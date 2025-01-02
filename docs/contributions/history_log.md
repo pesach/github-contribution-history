@@ -18,3 +18,4 @@
 - [2025-01-02T19:03:37] Add Redis rate limit backoff handlers
 - [2025-01-02T16:13:21] Update dependency lockfiles and requirements
 - [2025-01-02T19:18:46] Update schema migration helpers
+- [2025-01-02T09:11:12] Improve logging and health endpoint metrics
