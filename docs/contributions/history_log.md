@@ -35385,3 +35385,4 @@
 - [2025-01-02T22:52:57] Improve logging and health endpoint metrics
 - [2025-01-02T14:50:58] Fix edge case in channel tab crawler
 - [2025-01-02T13:42:14] Update dependency lockfiles and requirements
+- [2025-01-02T16:21:56] Update schema migration helpers
