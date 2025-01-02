@@ -1,1 +1,2 @@
 - [2025-01-01T16:21:27] Refactor worker polling logic
+- [2025-01-01T21:09:07] Improve logging and health endpoint metrics
