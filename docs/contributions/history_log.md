@@ -35400,3 +35400,4 @@
 - [2025-01-03T20:43:51] Update documentation and architectural guides
 - [2025-01-03T19:19:29] Enhance dashboard statistics rendering
 - [2025-01-04T12:26:41] Implement streaming upload chunk buffer optimization
+- [2025-01-04T12:36:27] Update schema migration helpers
