@@ -35403,3 +35403,4 @@
 - [2025-01-04T12:36:27] Update schema migration helpers
 - [2025-01-04T18:01:17] Implement streaming upload chunk buffer optimization
 - [2025-01-04T20:15:13] Fix edge case in channel tab crawler
+- [2025-01-04T17:27:33] Refactor cookie refresher probe logic
