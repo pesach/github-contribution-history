@@ -35393,3 +35393,4 @@
 - [2025-01-03T19:58:34] Enhance dashboard statistics rendering
 - [2025-01-03T12:50:23] Refactor cookie refresher probe logic
 - [2025-01-03T15:48:08] Refactor storage upload retry mechanism
+- [2025-01-03T20:37:04] Add error handling for yt-dlp rate limits
