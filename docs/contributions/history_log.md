@@ -27,3 +27,4 @@
 - [2025-01-03T13:39:04] Update automated pytest test suites
 - [2025-01-03T21:30:44] Add error handling for yt-dlp rate limits
 - [2025-01-03T17:39:21] Add Prometheus exporter endpoints for queue length
+- [2025-01-03T19:04:00] Refactor cookie refresher probe logic
