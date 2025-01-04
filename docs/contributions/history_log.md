@@ -25,3 +25,4 @@
 - [2025-01-03T08:56:28] Update documentation and architectural guides
 - [2025-01-03T13:56:02] Improve ffmpeg streaming pipe buffer management
 - [2025-01-03T13:39:04] Update automated pytest test suites
+- [2025-01-03T21:30:44] Add error handling for yt-dlp rate limits
