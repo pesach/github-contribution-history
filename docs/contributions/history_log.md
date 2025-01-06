@@ -35420,3 +35420,4 @@
 - [2025-01-06T21:56:03] Improve logging and health endpoint metrics
 - [2025-01-06T09:55:46] Fix edge case in channel tab crawler
 - [2025-01-06T15:37:00] Improve ffmpeg streaming pipe buffer management
+- [2025-01-06T13:49:59] Refactor storage upload retry mechanism
