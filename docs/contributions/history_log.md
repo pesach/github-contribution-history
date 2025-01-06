@@ -35412,3 +35412,4 @@
 - [2025-01-05T12:00:35] Fix edge case in channel tab crawler
 - [2025-01-06T10:05:53] Refactor worker polling logic
 - [2025-01-06T09:15:54] Update automated pytest test suites
+- [2025-01-06T18:47:30] Refactor worker polling logic
