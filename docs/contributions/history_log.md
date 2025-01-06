@@ -35410,3 +35410,4 @@
 - [2025-01-05T12:36:21] Improve logging and health endpoint metrics
 - [2025-01-05T18:55:54] Update B2 storage chunking parameters
 - [2025-01-05T12:00:35] Fix edge case in channel tab crawler
+- [2025-01-06T10:05:53] Refactor worker polling logic
