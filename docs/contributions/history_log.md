@@ -37,3 +37,4 @@
 - [2025-01-06T16:54:23] Fix edge case in URL parsing and validation
 - [2025-01-06T17:37:52] Fix edge case in channel tab crawler
 - [2025-01-06T08:54:28] Optimize PostgreSQL query execution plans
+- [2025-01-06T10:31:44] Refactor storage upload retry mechanism
