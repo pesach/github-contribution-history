@@ -43,3 +43,4 @@
 - [2025-01-07T08:33:05] Update B2 storage chunking parameters
 - [2025-01-07T22:36:26] Fix edge case in channel tab crawler
 - [2025-01-07T08:37:05] Add Redis rate limit backoff handlers
+- [2025-01-07T17:23:24] Add retries for transient network drops
