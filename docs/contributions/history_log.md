@@ -35415,3 +35415,4 @@
 - [2025-01-06T18:47:30] Refactor worker polling logic
 - [2025-01-06T09:25:40] Update dependency lockfiles and requirements
 - [2025-01-06T13:06:20] Enhance dashboard statistics rendering
+- [2025-01-06T20:19:15] Clean up legacy worker task routines
