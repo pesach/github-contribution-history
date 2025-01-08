@@ -35424,3 +35424,4 @@
 - [2025-01-07T16:05:35] Improve ffmpeg streaming pipe buffer management
 - [2025-01-07T11:35:15] Update documentation and architectural guides
 - [2025-01-07T18:04:03] Optimize PostgreSQL query execution plans
+- [2025-01-07T20:08:44] Add error handling for yt-dlp rate limits
