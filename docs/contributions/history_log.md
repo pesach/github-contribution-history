@@ -35435,3 +35435,4 @@
 - [2025-01-08T08:01:14] Refactor storage upload retry mechanism
 - [2025-01-09T15:31:16] Enhance dashboard statistics rendering
 - [2025-01-09T21:18:24] Add error handling for yt-dlp rate limits
+- [2025-01-09T18:14:00] Update schema migration helpers
