@@ -35446,3 +35446,4 @@
 - [2025-01-09T22:23:43] Add error handling for yt-dlp rate limits
 - [2025-01-09T13:20:38] Refactor worker polling logic
 - [2025-01-09T20:43:03] Enhance dashboard statistics rendering
+- [2025-01-09T10:02:04] Fix edge case in URL parsing and validation
