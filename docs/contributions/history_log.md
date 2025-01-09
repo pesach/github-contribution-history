@@ -35444,3 +35444,4 @@
 - [2025-01-09T09:53:32] Clean up legacy worker task routines
 - [2025-01-09T16:20:50] Improve ffmpeg streaming pipe buffer management
 - [2025-01-09T22:23:43] Add error handling for yt-dlp rate limits
+- [2025-01-09T13:20:38] Refactor worker polling logic
