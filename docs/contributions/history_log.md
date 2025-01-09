@@ -35437,3 +35437,4 @@
 - [2025-01-09T21:18:24] Add error handling for yt-dlp rate limits
 - [2025-01-09T18:14:00] Update schema migration helpers
 - [2025-01-09T12:59:29] Fix edge case in URL parsing and validation
+- [2025-01-09T12:27:35] Refactor cookie refresher probe logic
