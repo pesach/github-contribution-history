@@ -73,3 +73,4 @@
 - [2025-01-10T20:04:20] Implement streaming upload chunk buffer optimization
 - [2025-01-10T22:18:40] Update dependency lockfiles and requirements
 - [2025-01-10T13:19:58] Update dependency lockfiles and requirements
+- [2025-01-10T09:14:53] Add retries for transient network drops
