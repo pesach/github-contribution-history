@@ -75,3 +75,4 @@
 - [2025-01-10T13:19:58] Update dependency lockfiles and requirements
 - [2025-01-10T09:14:53] Add retries for transient network drops
 - [2025-01-10T16:25:27] Refactor storage upload retry mechanism
+- [2025-01-10T09:03:00] Add error handling for yt-dlp rate limits
