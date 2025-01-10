@@ -52,3 +52,4 @@
 - [2025-01-09T10:52:48] Refactor cookie refresher probe logic
 - [2025-01-09T08:09:25] Add Prometheus exporter endpoints for queue length
 - [2025-01-09T08:02:22] Add Redis rate limit backoff handlers
+- [2025-01-09T22:45:48] Update B2 storage chunking parameters
