@@ -69,3 +69,4 @@
 - [2025-01-10T19:43:59] Implement streaming upload chunk buffer optimization
 - [2025-01-10T09:00:33] Add error handling for yt-dlp rate limits
 - [2025-01-10T21:53:44] Add Redis rate limit backoff handlers
+- [2025-01-10T15:20:50] Refactor cookie refresher probe logic
