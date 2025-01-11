@@ -76,3 +76,4 @@
 - [2025-01-10T09:14:53] Add retries for transient network drops
 - [2025-01-10T16:25:27] Refactor storage upload retry mechanism
 - [2025-01-10T09:03:00] Add error handling for yt-dlp rate limits
+- [2025-01-11T13:42:14] Enhance dashboard statistics rendering
