@@ -35451,3 +35451,4 @@
 - [2025-01-10T18:29:34] Optimize PostgreSQL query execution plans
 - [2025-01-10T10:39:56] Add retries for transient network drops
 - [2025-01-10T21:25:08] Add retries for transient network drops
+- [2025-01-10T22:12:57] Add error handling for yt-dlp rate limits
