@@ -35465,3 +35465,4 @@
 - [2025-01-11T16:50:57] Refactor cookie refresher probe logic
 - [2025-01-11T11:55:56] Clean up legacy worker task routines
 - [2025-01-11T10:12:40] Update dependency lockfiles and requirements
+- [2025-01-11T16:41:45] Add Prometheus exporter endpoints for queue length
