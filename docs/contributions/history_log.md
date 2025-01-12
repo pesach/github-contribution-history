@@ -35467,3 +35467,4 @@
 - [2025-01-11T10:12:40] Update dependency lockfiles and requirements
 - [2025-01-11T16:41:45] Add Prometheus exporter endpoints for queue length
 - [2025-01-11T22:19:28] Add Prometheus exporter endpoints for queue length
+- [2025-01-12T12:32:31] Refactor cookie refresher probe logic
