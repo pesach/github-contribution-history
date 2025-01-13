@@ -35472,3 +35472,4 @@
 - [2025-01-12T16:02:16] Clean up legacy worker task routines
 - [2025-01-12T10:03:27] Refactor worker polling logic
 - [2025-01-13T17:21:38] Update dependency lockfiles and requirements
+- [2025-01-13T15:16:28] Refactor worker polling logic
