@@ -35479,3 +35479,4 @@
 - [2025-01-13T17:06:27] Fix edge case in URL parsing and validation
 - [2025-01-13T10:51:20] Add retries for transient network drops
 - [2025-01-14T14:53:37] Add retries for transient network drops
+- [2025-01-14T13:41:55] Improve logging and health endpoint metrics
