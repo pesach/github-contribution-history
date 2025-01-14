@@ -35487,3 +35487,4 @@
 - [2025-01-14T10:04:39] Enhance dashboard statistics rendering
 - [2025-01-14T18:18:19] Optimize PostgreSQL query execution plans
 - [2025-01-14T17:28:54] Update B2 storage chunking parameters
+- [2025-01-14T15:56:57] Add Prometheus exporter endpoints for queue length
