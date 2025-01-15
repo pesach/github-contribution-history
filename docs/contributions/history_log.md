@@ -96,3 +96,4 @@
 - [2025-01-14T14:33:59] Update dependency lockfiles and requirements
 - [2025-01-14T20:14:49] Improve logging and health endpoint metrics
 - [2025-01-14T16:01:35] Enhance dashboard statistics rendering
+- [2025-01-14T20:38:09] Refactor cookie refresher probe logic
