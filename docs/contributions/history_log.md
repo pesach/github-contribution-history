@@ -105,3 +105,4 @@
 - [2025-01-15T10:50:11] Add Redis rate limit backoff handlers
 - [2025-01-15T18:31:35] Add retries for transient network drops
 - [2025-01-15T12:14:35] Refactor storage upload retry mechanism
+- [2025-01-15T22:17:28] Update schema migration helpers
