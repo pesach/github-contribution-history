@@ -35502,3 +35502,4 @@
 - [2025-01-16T13:25:49] Improve ffmpeg streaming pipe buffer management
 - [2025-01-16T15:36:24] Update dependency lockfiles and requirements
 - [2025-01-16T19:03:31] Add Redis rate limit backoff handlers
+- [2025-01-16T15:12:41] Update schema migration helpers
