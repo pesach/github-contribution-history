@@ -114,3 +114,4 @@
 - [2025-01-17T10:28:24] Clean up legacy worker task routines
 - [2025-01-17T21:23:57] Update automated pytest test suites
 - [2025-01-17T18:20:34] Add Prometheus exporter endpoints for queue length
+- [2025-01-17T18:11:55] Update schema migration helpers
