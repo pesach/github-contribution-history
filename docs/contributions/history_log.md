@@ -116,3 +116,4 @@
 - [2025-01-17T18:20:34] Add Prometheus exporter endpoints for queue length
 - [2025-01-17T18:11:55] Update schema migration helpers
 - [2025-01-17T21:09:30] Refactor storage upload retry mechanism
+- [2025-01-17T18:23:58] Fix edge case in URL parsing and validation
