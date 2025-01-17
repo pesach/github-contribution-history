@@ -111,3 +111,4 @@
 - [2025-01-17T21:20:56] Add Redis rate limit backoff handlers
 - [2025-01-17T17:08:32] Update B2 storage chunking parameters
 - [2025-01-17T08:23:27] Enhance dashboard statistics rendering
+- [2025-01-17T10:28:24] Clean up legacy worker task routines
