@@ -35512,3 +35512,4 @@
 - [2025-01-17T21:33:34] Fix edge case in channel tab crawler
 - [2025-01-17T14:43:59] Refactor storage upload retry mechanism
 - [2025-01-17T09:00:49] Implement streaming upload chunk buffer optimization
+- [2025-01-17T20:31:23] Clean up legacy worker task routines
