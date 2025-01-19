@@ -127,3 +127,4 @@
 - [2025-01-19T10:28:48] Add error handling for yt-dlp rate limits
 - [2025-01-19T13:10:28] Refactor storage upload retry mechanism
 - [2025-01-19T22:24:05] Refactor worker polling logic
+- [2025-01-19T12:07:56] Add retries for transient network drops
