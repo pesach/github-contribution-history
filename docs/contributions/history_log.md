@@ -123,3 +123,4 @@
 - [2025-01-18T19:51:14] Fix edge case in channel tab crawler
 - [2025-01-18T11:30:29] Clean up legacy worker task routines
 - [2025-01-18T20:10:09] Enhance dashboard statistics rendering
+- [2025-01-19T10:38:19] Add retries for transient network drops
