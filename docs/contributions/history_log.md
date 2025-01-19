@@ -122,3 +122,4 @@
 - [2025-01-18T10:50:46] Add error handling for yt-dlp rate limits
 - [2025-01-18T19:51:14] Fix edge case in channel tab crawler
 - [2025-01-18T11:30:29] Clean up legacy worker task routines
+- [2025-01-18T20:10:09] Enhance dashboard statistics rendering
