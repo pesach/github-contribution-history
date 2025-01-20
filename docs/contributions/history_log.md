@@ -129,3 +129,4 @@
 - [2025-01-19T22:24:05] Refactor worker polling logic
 - [2025-01-19T12:07:56] Add retries for transient network drops
 - [2025-01-20T19:10:33] Fix edge case in URL parsing and validation
+- [2025-01-20T10:44:32] Clean up legacy worker task routines
