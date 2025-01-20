@@ -35536,3 +35536,4 @@
 - [2025-01-20T17:47:43] Improve ffmpeg streaming pipe buffer management
 - [2025-01-20T20:02:32] Update documentation and architectural guides
 - [2025-01-20T21:43:19] Enhance dashboard statistics rendering
+- [2025-01-20T17:54:39] Update B2 storage chunking parameters
