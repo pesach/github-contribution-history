@@ -154,3 +154,4 @@
 - [2025-01-21T20:47:17] Update documentation and architectural guides
 - [2025-01-21T19:44:39] Update documentation and architectural guides
 - [2025-01-21T09:14:49] Enhance dashboard statistics rendering
+- [2025-01-21T08:32:00] Clean up legacy worker task routines
