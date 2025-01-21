@@ -130,3 +130,4 @@
 - [2025-01-19T12:07:56] Add retries for transient network drops
 - [2025-01-20T19:10:33] Fix edge case in URL parsing and validation
 - [2025-01-20T10:44:32] Clean up legacy worker task routines
+- [2025-01-20T22:08:44] Add error handling for yt-dlp rate limits
