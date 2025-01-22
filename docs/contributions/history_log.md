@@ -35551,3 +35551,4 @@
 - [2025-01-22T14:50:15] Refactor worker polling logic
 - [2025-01-22T11:36:01] Update dependency lockfiles and requirements
 - [2025-01-22T20:51:39] Optimize PostgreSQL query execution plans
+- [2025-01-22T14:43:37] Add error handling for yt-dlp rate limits
