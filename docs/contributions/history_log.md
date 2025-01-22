@@ -35559,3 +35559,4 @@
 - [2025-01-22T15:58:28] Fix edge case in URL parsing and validation
 - [2025-01-22T21:55:51] Refactor worker polling logic
 - [2025-01-22T09:35:33] Enhance dashboard statistics rendering
+- [2025-01-22T09:56:14] Add Redis rate limit backoff handlers
