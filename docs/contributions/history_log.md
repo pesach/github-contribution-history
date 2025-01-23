@@ -35562,3 +35562,4 @@
 - [2025-01-22T09:56:14] Add Redis rate limit backoff handlers
 - [2025-01-22T09:38:59] Implement streaming upload chunk buffer optimization
 - [2025-01-22T17:05:04] Update documentation and architectural guides
+- [2025-01-23T10:22:18] Add error handling for yt-dlp rate limits
