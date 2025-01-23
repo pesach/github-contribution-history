@@ -35554,3 +35554,4 @@
 - [2025-01-22T14:43:37] Add error handling for yt-dlp rate limits
 - [2025-01-22T20:58:16] Improve logging and health endpoint metrics
 - [2025-01-22T17:21:32] Fix edge case in URL parsing and validation
+- [2025-01-22T19:37:46] Add retries for transient network drops
