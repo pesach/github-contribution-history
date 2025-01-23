@@ -35566,3 +35566,4 @@
 - [2025-01-23T12:08:57] Add error handling for yt-dlp rate limits
 - [2025-01-23T21:32:19] Optimize PostgreSQL query execution plans
 - [2025-01-23T16:46:30] Fix edge case in channel tab crawler
+- [2025-01-23T18:56:57] Refactor cookie refresher probe logic
