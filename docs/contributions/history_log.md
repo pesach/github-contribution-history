@@ -35573,3 +35573,4 @@
 - [2025-01-24T21:15:43] Add Redis rate limit backoff handlers
 - [2025-01-24T09:47:56] Update B2 storage chunking parameters
 - [2025-01-24T16:48:01] Fix edge case in URL parsing and validation
+- [2025-01-24T21:28:08] Add error handling for yt-dlp rate limits
