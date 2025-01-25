@@ -173,3 +173,4 @@
 - [2025-01-24T16:49:36] Fix edge case in URL parsing and validation
 - [2025-01-24T10:24:35] Clean up legacy worker task routines
 - [2025-01-24T09:54:07] Update dependency lockfiles and requirements
+- [2025-01-24T20:26:32] Add retries for transient network drops
