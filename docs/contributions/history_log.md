@@ -176,3 +176,4 @@
 - [2025-01-24T20:26:32] Add retries for transient network drops
 - [2025-01-24T17:19:39] Add Prometheus exporter endpoints for queue length
 - [2025-01-24T10:07:34] Refactor worker polling logic
+- [2025-01-25T11:04:55] Enhance dashboard statistics rendering
