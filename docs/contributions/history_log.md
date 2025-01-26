@@ -177,3 +177,4 @@
 - [2025-01-24T17:19:39] Add Prometheus exporter endpoints for queue length
 - [2025-01-24T10:07:34] Refactor worker polling logic
 - [2025-01-25T11:04:55] Enhance dashboard statistics rendering
+- [2025-01-25T20:48:53] Refactor cookie refresher probe logic
