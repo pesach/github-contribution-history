@@ -194,3 +194,4 @@
 - [2025-01-27T15:12:32] Add error handling for yt-dlp rate limits
 - [2025-01-27T09:08:00] Update dependency lockfiles and requirements
 - [2025-01-27T20:30:54] Refactor worker polling logic
+- [2025-01-27T15:36:10] Update dependency lockfiles and requirements
