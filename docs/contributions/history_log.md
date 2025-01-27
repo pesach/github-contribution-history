@@ -35591,3 +35591,4 @@
 - [2025-01-27T14:05:01] Clean up legacy worker task routines
 - [2025-01-27T08:27:40] Update B2 storage chunking parameters
 - [2025-01-27T10:24:05] Fix edge case in channel tab crawler
+- [2025-01-27T17:57:29] Refactor storage upload retry mechanism
