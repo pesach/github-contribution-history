@@ -197,3 +197,4 @@
 - [2025-01-27T15:36:10] Update dependency lockfiles and requirements
 - [2025-01-27T17:20:23] Clean up legacy worker task routines
 - [2025-01-28T18:16:11] Refactor storage upload retry mechanism
+- [2025-01-28T09:31:08] Add Redis rate limit backoff handlers
