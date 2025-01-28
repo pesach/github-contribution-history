@@ -203,3 +203,4 @@
 - [2025-01-28T15:45:54] Implement streaming upload chunk buffer optimization
 - [2025-01-28T11:36:53] Refactor cookie refresher probe logic
 - [2025-01-28T09:32:08] Improve logging and health endpoint metrics
+- [2025-01-28T08:20:06] Add Redis rate limit backoff handlers
