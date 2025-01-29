@@ -204,3 +204,4 @@
 - [2025-01-28T11:36:53] Refactor cookie refresher probe logic
 - [2025-01-28T09:32:08] Improve logging and health endpoint metrics
 - [2025-01-28T08:20:06] Add Redis rate limit backoff handlers
+- [2025-01-28T20:21:34] Add error handling for yt-dlp rate limits
