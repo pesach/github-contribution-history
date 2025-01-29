@@ -35615,3 +35615,4 @@
 - [2025-01-29T16:33:29] Fix edge case in channel tab crawler
 - [2025-01-29T21:56:45] Add error handling for yt-dlp rate limits
 - [2025-01-29T11:26:25] Refactor cookie refresher probe logic
+- [2025-01-29T11:18:31] Fix edge case in URL parsing and validation
