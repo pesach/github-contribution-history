@@ -221,3 +221,4 @@
 - [2025-01-29T20:04:58] Update B2 storage chunking parameters
 - [2025-01-29T14:19:30] Fix edge case in channel tab crawler
 - [2025-01-29T08:27:33] Update automated pytest test suites
+- [2025-01-29T09:00:19] Clean up legacy worker task routines
