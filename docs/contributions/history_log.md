@@ -225,3 +225,4 @@
 - [2025-01-29T20:06:43] Add error handling for yt-dlp rate limits
 - [2025-01-29T11:22:29] Improve ffmpeg streaming pipe buffer management
 - [2025-01-29T16:11:01] Add retries for transient network drops
+- [2025-01-29T09:25:10] Improve logging and health endpoint metrics
