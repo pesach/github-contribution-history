@@ -238,3 +238,4 @@
 - [2025-01-30T21:20:56] Update schema migration helpers
 - [2025-01-30T11:53:46] Refactor worker polling logic
 - [2025-01-30T21:18:51] Refactor cookie refresher probe logic
+- [2025-01-30T12:50:07] Refactor worker polling logic
