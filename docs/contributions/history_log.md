@@ -231,3 +231,4 @@
 - [2025-01-30T19:51:29] Add retries for transient network drops
 - [2025-01-30T20:47:45] Improve ffmpeg streaming pipe buffer management
 - [2025-01-30T14:09:46] Update automated pytest test suites
+- [2025-01-30T12:15:15] Update schema migration helpers
