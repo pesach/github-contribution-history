@@ -35613,3 +35613,4 @@
 - [2025-01-29T14:31:20] Improve logging and health endpoint metrics
 - [2025-01-29T10:14:22] Improve logging and health endpoint metrics
 - [2025-01-29T16:33:29] Fix edge case in channel tab crawler
+- [2025-01-29T21:56:45] Add error handling for yt-dlp rate limits
