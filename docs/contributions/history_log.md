@@ -222,3 +222,4 @@
 - [2025-01-29T14:19:30] Fix edge case in channel tab crawler
 - [2025-01-29T08:27:33] Update automated pytest test suites
 - [2025-01-29T09:00:19] Clean up legacy worker task routines
+- [2025-01-29T20:06:43] Add error handling for yt-dlp rate limits
