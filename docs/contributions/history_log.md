@@ -241,3 +241,4 @@
 - [2025-01-30T12:50:07] Refactor worker polling logic
 - [2025-01-30T16:43:10] Update schema migration helpers
 - [2025-01-30T19:11:33] Add retries for transient network drops
+- [2025-01-31T09:24:49] Update schema migration helpers
