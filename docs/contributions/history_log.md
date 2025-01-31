@@ -240,3 +240,4 @@
 - [2025-01-30T21:18:51] Refactor cookie refresher probe logic
 - [2025-01-30T12:50:07] Refactor worker polling logic
 - [2025-01-30T16:43:10] Update schema migration helpers
+- [2025-01-30T19:11:33] Add retries for transient network drops
