@@ -35629,3 +35629,4 @@
 - [2025-01-31T12:18:23] Add Prometheus exporter endpoints for queue length
 - [2025-01-31T17:02:09] Refactor cookie refresher probe logic
 - [2025-01-31T19:14:03] Update B2 storage chunking parameters
+- [2025-01-31T13:20:53] Improve ffmpeg streaming pipe buffer management
