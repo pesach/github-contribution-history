@@ -35636,3 +35636,4 @@
 - [2025-01-31T09:25:07] Fix edge case in URL parsing and validation
 - [2025-01-31T22:53:57] Improve logging and health endpoint metrics
 - [2025-02-03T14:34:50] Refactor cookie refresher probe logic
+- [2025-02-03T16:31:00] Refactor cookie refresher probe logic
