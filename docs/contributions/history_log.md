@@ -254,3 +254,4 @@
 - [2025-02-03T11:09:59] Update automated pytest test suites
 - [2025-02-03T09:25:50] Refactor worker polling logic
 - [2025-02-03T22:05:09] Fix edge case in channel tab crawler
+- [2025-02-03T16:03:03] Improve logging and health endpoint metrics
