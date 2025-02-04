@@ -264,3 +264,4 @@
 - [2025-02-04T18:15:57] Improve logging and health endpoint metrics
 - [2025-02-04T10:51:47] Refactor storage upload retry mechanism
 - [2025-02-04T22:51:09] Add Prometheus exporter endpoints for queue length
+- [2025-02-04T08:30:57] Update B2 storage chunking parameters
