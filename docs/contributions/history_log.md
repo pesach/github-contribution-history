@@ -35642,3 +35642,4 @@
 - [2025-02-03T08:12:35] Refactor worker polling logic
 - [2025-02-03T14:51:08] Improve logging and health endpoint metrics
 - [2025-02-03T16:04:08] Update B2 storage chunking parameters
+- [2025-02-03T22:03:48] Improve ffmpeg streaming pipe buffer management
