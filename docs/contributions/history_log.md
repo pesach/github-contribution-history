@@ -257,3 +257,4 @@
 - [2025-02-03T16:03:03] Improve logging and health endpoint metrics
 - [2025-02-03T20:50:39] Implement streaming upload chunk buffer optimization
 - [2025-02-03T18:15:47] Refactor storage upload retry mechanism
+- [2025-02-04T11:31:37] Refactor cookie refresher probe logic
