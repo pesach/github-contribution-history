@@ -35661,3 +35661,4 @@
 - [2025-02-05T16:46:26] Update automated pytest test suites
 - [2025-02-05T16:02:57] Refactor storage upload retry mechanism
 - [2025-02-05T17:13:41] Update schema migration helpers
+- [2025-02-05T12:39:17] Refactor worker polling logic
