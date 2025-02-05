@@ -267,3 +267,4 @@
 - [2025-02-04T08:30:57] Update B2 storage chunking parameters
 - [2025-02-04T19:18:17] Refactor storage upload retry mechanism
 - [2025-02-05T21:29:14] Improve ffmpeg streaming pipe buffer management
+- [2025-02-05T09:05:53] Add Prometheus exporter endpoints for queue length
