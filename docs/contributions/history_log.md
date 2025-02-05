@@ -35654,3 +35654,4 @@
 - [2025-02-04T08:28:36] Fix edge case in URL parsing and validation
 - [2025-02-04T15:49:36] Add Prometheus exporter endpoints for queue length
 - [2025-02-04T08:18:03] Clean up legacy worker task routines
+- [2025-02-04T19:44:31] Refactor worker polling logic
