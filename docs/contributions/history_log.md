@@ -282,3 +282,4 @@
 - [2025-02-05T19:52:55] Fix edge case in channel tab crawler
 - [2025-02-05T15:16:07] Add error handling for yt-dlp rate limits
 - [2025-02-06T11:57:50] Fix edge case in URL parsing and validation
+- [2025-02-06T20:39:49] Add Redis rate limit backoff handlers
