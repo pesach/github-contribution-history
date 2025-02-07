@@ -35663,3 +35663,4 @@
 - [2025-02-05T17:13:41] Update schema migration helpers
 - [2025-02-05T12:39:17] Refactor worker polling logic
 - [2025-02-06T12:27:29] Implement streaming upload chunk buffer optimization
+- [2025-02-06T22:11:09] Update documentation and architectural guides
