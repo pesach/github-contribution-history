@@ -35682,3 +35682,4 @@
 - [2025-02-08T14:22:02] Refactor worker polling logic
 - [2025-02-08T13:19:18] Refactor storage upload retry mechanism
 - [2025-02-08T19:07:41] Improve logging and health endpoint metrics
+- [2025-02-08T22:05:31] Fix edge case in URL parsing and validation
