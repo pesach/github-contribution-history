@@ -35688,3 +35688,4 @@
 - [2025-02-09T14:28:18] Update B2 storage chunking parameters
 - [2025-02-09T15:12:10] Refactor worker polling logic
 - [2025-02-09T19:14:15] Update automated pytest test suites
+- [2025-02-10T08:53:21] Refactor storage upload retry mechanism
