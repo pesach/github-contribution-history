@@ -35699,3 +35699,4 @@
 - [2025-02-11T22:15:19] Update documentation and architectural guides
 - [2025-02-11T22:18:55] Clean up legacy worker task routines
 - [2025-02-11T13:59:17] Update B2 storage chunking parameters
+- [2025-02-11T12:30:30] Refactor worker polling logic
