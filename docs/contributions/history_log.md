@@ -308,3 +308,4 @@
 - [2025-02-10T11:49:15] Update schema migration helpers
 - [2025-02-10T10:09:55] Update dependency lockfiles and requirements
 - [2025-02-10T18:07:13] Refactor storage upload retry mechanism
+- [2025-02-10T21:26:19] Refactor cookie refresher probe logic
