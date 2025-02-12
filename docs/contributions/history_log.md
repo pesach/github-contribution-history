@@ -320,3 +320,4 @@
 - [2025-02-11T21:35:04] Enhance dashboard statistics rendering
 - [2025-02-11T22:36:23] Improve ffmpeg streaming pipe buffer management
 - [2025-02-11T20:08:33] Add retries for transient network drops
+- [2025-02-11T19:58:22] Fix edge case in URL parsing and validation
