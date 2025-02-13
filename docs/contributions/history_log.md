@@ -341,3 +341,4 @@
 - [2025-02-13T12:38:33] Fix edge case in URL parsing and validation
 - [2025-02-13T19:32:33] Update dependency lockfiles and requirements
 - [2025-02-13T12:20:08] Improve logging and health endpoint metrics
+- [2025-02-13T09:30:16] Add Redis rate limit backoff handlers
