@@ -352,3 +352,4 @@
 - [2025-02-13T09:07:23] Update schema migration helpers
 - [2025-02-13T13:40:35] Add error handling for yt-dlp rate limits
 - [2025-02-13T15:02:47] Fix edge case in channel tab crawler
+- [2025-02-13T08:22:35] Add Prometheus exporter endpoints for queue length
