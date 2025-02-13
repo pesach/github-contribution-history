@@ -351,3 +351,4 @@
 - [2025-02-13T12:46:04] Refactor worker polling logic
 - [2025-02-13T09:07:23] Update schema migration helpers
 - [2025-02-13T13:40:35] Add error handling for yt-dlp rate limits
+- [2025-02-13T15:02:47] Fix edge case in channel tab crawler
