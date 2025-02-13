@@ -338,3 +338,4 @@
 - [2025-02-12T17:40:22] Update dependency lockfiles and requirements
 - [2025-02-12T13:55:05] Clean up legacy worker task routines
 - [2025-02-12T15:23:59] Refactor cookie refresher probe logic
+- [2025-02-13T12:38:33] Fix edge case in URL parsing and validation
