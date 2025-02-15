@@ -357,3 +357,4 @@
 - [2025-02-14T13:55:05] Update dependency lockfiles and requirements
 - [2025-02-14T18:29:06] Fix edge case in channel tab crawler
 - [2025-02-14T19:37:56] Add retries for transient network drops
+- [2025-02-14T22:24:51] Refactor cookie refresher probe logic
