@@ -35723,3 +35723,4 @@
 - [2025-02-15T08:33:33] Add retries for transient network drops
 - [2025-02-15T15:37:58] Enhance dashboard statistics rendering
 - [2025-02-16T14:13:27] Refactor cookie refresher probe logic
+- [2025-02-16T17:02:26] Clean up legacy worker task routines
