@@ -35725,3 +35725,4 @@
 - [2025-02-16T14:13:27] Refactor cookie refresher probe logic
 - [2025-02-16T17:02:26] Clean up legacy worker task routines
 - [2025-02-16T15:43:24] Update B2 storage chunking parameters
+- [2025-02-17T09:28:09] Improve logging and health endpoint metrics
