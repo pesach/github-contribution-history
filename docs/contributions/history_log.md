@@ -375,3 +375,4 @@
 - [2025-02-17T09:20:06] Improve logging and health endpoint metrics
 - [2025-02-17T14:49:48] Update B2 storage chunking parameters
 - [2025-02-17T13:43:21] Fix edge case in URL parsing and validation
+- [2025-02-17T08:20:54] Update documentation and architectural guides
