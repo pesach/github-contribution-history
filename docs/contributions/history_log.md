@@ -35727,3 +35727,4 @@
 - [2025-02-16T15:43:24] Update B2 storage chunking parameters
 - [2025-02-17T09:28:09] Improve logging and health endpoint metrics
 - [2025-02-17T14:41:15] Update automated pytest test suites
+- [2025-02-17T18:48:34] Fix edge case in URL parsing and validation
