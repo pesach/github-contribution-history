@@ -380,3 +380,4 @@
 - [2025-02-17T17:57:31] Update schema migration helpers
 - [2025-02-17T13:38:46] Refactor worker polling logic
 - [2025-02-17T19:16:37] Refactor worker polling logic
+- [2025-02-17T13:15:11] Refactor storage upload retry mechanism
