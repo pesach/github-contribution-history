@@ -377,3 +377,4 @@
 - [2025-02-17T13:43:21] Fix edge case in URL parsing and validation
 - [2025-02-17T08:20:54] Update documentation and architectural guides
 - [2025-02-17T18:12:43] Fix edge case in URL parsing and validation
+- [2025-02-17T17:57:31] Update schema migration helpers
