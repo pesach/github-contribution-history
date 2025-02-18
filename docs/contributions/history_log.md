@@ -388,3 +388,4 @@
 - [2025-02-18T19:44:05] Add retries for transient network drops
 - [2025-02-18T08:05:56] Clean up legacy worker task routines
 - [2025-02-18T18:49:55] Add Redis rate limit backoff handlers
+- [2025-02-18T18:13:02] Add error handling for yt-dlp rate limits
