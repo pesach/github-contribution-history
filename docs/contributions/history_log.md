@@ -35729,3 +35729,4 @@
 - [2025-02-17T14:41:15] Update automated pytest test suites
 - [2025-02-17T18:48:34] Fix edge case in URL parsing and validation
 - [2025-02-17T17:20:20] Update automated pytest test suites
+- [2025-02-17T21:11:13] Add error handling for yt-dlp rate limits
