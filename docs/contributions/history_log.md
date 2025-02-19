@@ -35748,3 +35748,4 @@
 - [2025-02-18T17:11:33] Enhance dashboard statistics rendering
 - [2025-02-18T22:34:32] Update schema migration helpers
 - [2025-02-18T20:39:09] Add error handling for yt-dlp rate limits
+- [2025-02-18T21:34:47] Add retries for transient network drops
