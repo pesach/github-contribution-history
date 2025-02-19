@@ -35746,3 +35746,4 @@
 - [2025-02-18T22:20:47] Refactor storage upload retry mechanism
 - [2025-02-18T10:54:27] Improve logging and health endpoint metrics
 - [2025-02-18T17:11:33] Enhance dashboard statistics rendering
+- [2025-02-18T22:34:32] Update schema migration helpers
