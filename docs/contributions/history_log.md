@@ -391,3 +391,4 @@
 - [2025-02-18T18:13:02] Add error handling for yt-dlp rate limits
 - [2025-02-18T17:30:33] Update dependency lockfiles and requirements
 - [2025-02-18T14:40:42] Clean up legacy worker task routines
+- [2025-02-18T21:06:54] Fix edge case in URL parsing and validation
