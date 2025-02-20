@@ -394,3 +394,4 @@
 - [2025-02-18T21:06:54] Fix edge case in URL parsing and validation
 - [2025-02-18T15:33:00] Improve logging and health endpoint metrics
 - [2025-02-18T15:53:46] Improve logging and health endpoint metrics
+- [2025-02-19T20:34:09] Clean up legacy worker task routines
