@@ -35754,3 +35754,4 @@
 - [2025-02-20T12:21:41] Refactor worker polling logic
 - [2025-02-20T13:00:32] Add retries for transient network drops
 - [2025-02-20T21:30:15] Update B2 storage chunking parameters
+- [2025-02-20T21:35:24] Fix edge case in URL parsing and validation
