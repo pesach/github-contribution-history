@@ -35767,3 +35767,4 @@
 - [2025-02-21T21:17:33] Add retries for transient network drops
 - [2025-02-21T19:53:54] Update schema migration helpers
 - [2025-02-21T13:59:35] Update B2 storage chunking parameters
+- [2025-02-21T15:29:01] Update B2 storage chunking parameters
