@@ -35769,3 +35769,4 @@
 - [2025-02-21T13:59:35] Update B2 storage chunking parameters
 - [2025-02-21T15:29:01] Update B2 storage chunking parameters
 - [2025-02-21T11:20:18] Add error handling for yt-dlp rate limits
+- [2025-02-21T08:30:30] Refactor storage upload retry mechanism
