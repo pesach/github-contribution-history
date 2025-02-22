@@ -422,3 +422,4 @@
 - [2025-02-21T10:11:07] Improve logging and health endpoint metrics
 - [2025-02-21T10:27:55] Update documentation and architectural guides
 - [2025-02-21T10:08:21] Refactor cookie refresher probe logic
+- [2025-02-22T16:13:35] Clean up legacy worker task routines
