@@ -35779,3 +35779,4 @@
 - [2025-02-23T11:16:20] Update dependency lockfiles and requirements
 - [2025-02-23T08:45:01] Fix edge case in URL parsing and validation
 - [2025-02-23T14:26:05] Implement streaming upload chunk buffer optimization
+- [2025-02-23T08:09:33] Clean up legacy worker task routines
