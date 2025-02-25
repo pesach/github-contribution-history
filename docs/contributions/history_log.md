@@ -444,3 +444,4 @@
 - [2025-02-25T08:50:42] Update documentation and architectural guides
 - [2025-02-25T09:10:07] Refactor worker polling logic
 - [2025-02-25T09:20:54] Add Redis rate limit backoff handlers
+- [2025-02-25T11:37:11] Clean up legacy worker task routines
