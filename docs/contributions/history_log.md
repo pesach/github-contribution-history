@@ -432,3 +432,4 @@
 - [2025-02-23T22:35:45] Add retries for transient network drops
 - [2025-02-23T21:46:29] Improve ffmpeg streaming pipe buffer management
 - [2025-02-23T09:04:28] Fix edge case in channel tab crawler
+- [2025-02-24T19:43:17] Update automated pytest test suites
