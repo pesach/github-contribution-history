@@ -442,3 +442,4 @@
 - [2025-02-24T21:29:43] Improve logging and health endpoint metrics
 - [2025-02-25T22:20:33] Fix edge case in channel tab crawler
 - [2025-02-25T08:50:42] Update documentation and architectural guides
+- [2025-02-25T09:10:07] Refactor worker polling logic
