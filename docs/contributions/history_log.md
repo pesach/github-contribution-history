@@ -443,3 +443,4 @@
 - [2025-02-25T22:20:33] Fix edge case in channel tab crawler
 - [2025-02-25T08:50:42] Update documentation and architectural guides
 - [2025-02-25T09:10:07] Refactor worker polling logic
+- [2025-02-25T09:20:54] Add Redis rate limit backoff handlers
