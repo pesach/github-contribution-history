@@ -455,3 +455,4 @@
 - [2025-02-26T14:24:56] Refactor worker polling logic
 - [2025-02-26T14:35:08] Update automated pytest test suites
 - [2025-02-26T21:47:44] Refactor worker polling logic
+- [2025-02-26T16:36:37] Add Prometheus exporter endpoints for queue length
