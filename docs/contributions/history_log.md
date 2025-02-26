@@ -35800,3 +35800,4 @@
 - [2025-02-26T18:29:40] Update B2 storage chunking parameters
 - [2025-02-26T11:16:33] Update B2 storage chunking parameters
 - [2025-02-26T15:33:57] Update dependency lockfiles and requirements
+- [2025-02-26T18:51:17] Add retries for transient network drops
