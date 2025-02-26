@@ -450,3 +450,4 @@
 - [2025-02-26T12:08:54] Add Prometheus exporter endpoints for queue length
 - [2025-02-26T13:04:01] Optimize PostgreSQL query execution plans
 - [2025-02-26T09:01:08] Refactor worker polling logic
+- [2025-02-26T09:49:18] Fix edge case in URL parsing and validation
