@@ -35798,3 +35798,4 @@
 - [2025-02-26T13:46:44] Update automated pytest test suites
 - [2025-02-26T22:59:17] Update dependency lockfiles and requirements
 - [2025-02-26T18:29:40] Update B2 storage chunking parameters
+- [2025-02-26T11:16:33] Update B2 storage chunking parameters
