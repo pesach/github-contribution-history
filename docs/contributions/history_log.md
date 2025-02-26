@@ -447,3 +447,4 @@
 - [2025-02-25T11:37:11] Clean up legacy worker task routines
 - [2025-02-25T14:23:43] Add retries for transient network drops
 - [2025-02-26T09:15:52] Add retries for transient network drops
+- [2025-02-26T12:08:54] Add Prometheus exporter endpoints for queue length
