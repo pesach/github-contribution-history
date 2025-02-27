@@ -472,3 +472,4 @@
 - [2025-02-27T12:19:04] Implement streaming upload chunk buffer optimization
 - [2025-02-27T20:15:45] Add error handling for yt-dlp rate limits
 - [2025-02-27T18:07:30] Improve ffmpeg streaming pipe buffer management
+- [2025-02-27T09:52:01] Add Redis rate limit backoff handlers
