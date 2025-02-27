@@ -35803,3 +35803,4 @@
 - [2025-02-26T18:51:17] Add retries for transient network drops
 - [2025-02-26T16:00:30] Refactor cookie refresher probe logic
 - [2025-02-27T18:34:13] Add Redis rate limit backoff handlers
+- [2025-02-27T09:11:24] Improve logging and health endpoint metrics
