@@ -35823,3 +35823,4 @@
 - [2025-02-28T09:00:01] Add retries for transient network drops
 - [2025-02-28T12:34:06] Clean up legacy worker task routines
 - [2025-02-28T16:45:28] Enhance dashboard statistics rendering
+- [2025-02-28T18:05:54] Update schema migration helpers
