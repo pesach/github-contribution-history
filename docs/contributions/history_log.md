@@ -35816,3 +35816,4 @@
 - [2025-02-27T16:05:39] Update schema migration helpers
 - [2025-02-27T10:59:08] Optimize PostgreSQL query execution plans
 - [2025-02-27T14:14:52] Update B2 storage chunking parameters
+- [2025-02-27T19:13:57] Clean up legacy worker task routines
