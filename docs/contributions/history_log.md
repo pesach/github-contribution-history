@@ -35827,3 +35827,4 @@
 - [2025-02-28T19:53:58] Fix edge case in channel tab crawler
 - [2025-02-28T08:28:39] Update dependency lockfiles and requirements
 - [2025-02-28T17:25:02] Clean up legacy worker task routines
+- [2025-02-28T08:24:18] Refactor worker polling logic
