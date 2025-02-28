@@ -35821,3 +35821,4 @@
 - [2025-02-28T13:39:16] Refactor worker polling logic
 - [2025-02-28T10:37:28] Update automated pytest test suites
 - [2025-02-28T09:00:01] Add retries for transient network drops
+- [2025-02-28T12:34:06] Clean up legacy worker task routines
