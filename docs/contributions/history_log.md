@@ -476,3 +476,4 @@
 - [2025-03-01T14:40:03] Refactor cookie refresher probe logic
 - [2025-03-01T14:58:53] Update B2 storage chunking parameters
 - [2025-03-01T17:52:05] Update automated pytest test suites
+- [2025-03-01T18:17:32] Add Redis rate limit backoff handlers
