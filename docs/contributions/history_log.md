@@ -35830,3 +35830,4 @@
 - [2025-02-28T08:24:18] Refactor worker polling logic
 - [2025-03-02T09:56:17] Refactor worker polling logic
 - [2025-03-02T09:49:57] Improve ffmpeg streaming pipe buffer management
+- [2025-03-02T15:35:38] Fix edge case in URL parsing and validation
