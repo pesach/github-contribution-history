@@ -487,3 +487,4 @@
 - [2025-03-03T18:30:57] Refactor storage upload retry mechanism
 - [2025-03-03T14:38:48] Refactor storage upload retry mechanism
 - [2025-03-03T15:03:47] Refactor worker polling logic
+- [2025-03-03T11:42:51] Update schema migration helpers
