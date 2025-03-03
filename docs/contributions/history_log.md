@@ -479,3 +479,4 @@
 - [2025-03-01T18:17:32] Add Redis rate limit backoff handlers
 - [2025-03-01T22:07:28] Refactor storage upload retry mechanism
 - [2025-03-03T11:16:42] Fix edge case in URL parsing and validation
+- [2025-03-03T17:08:49] Improve logging and health endpoint metrics
