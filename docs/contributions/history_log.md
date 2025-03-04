@@ -506,3 +506,4 @@
 - [2025-03-04T17:21:32] Refactor cookie refresher probe logic
 - [2025-03-04T10:40:58] Implement streaming upload chunk buffer optimization
 - [2025-03-04T15:28:51] Refactor worker polling logic
+- [2025-03-04T18:18:25] Update schema migration helpers
