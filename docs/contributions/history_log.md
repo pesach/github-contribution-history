@@ -503,3 +503,4 @@
 - [2025-03-04T16:24:03] Add Redis rate limit backoff handlers
 - [2025-03-04T21:01:55] Improve ffmpeg streaming pipe buffer management
 - [2025-03-04T20:33:56] Clean up legacy worker task routines
+- [2025-03-04T17:21:32] Refactor cookie refresher probe logic
