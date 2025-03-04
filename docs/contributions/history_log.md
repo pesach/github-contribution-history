@@ -505,3 +505,4 @@
 - [2025-03-04T20:33:56] Clean up legacy worker task routines
 - [2025-03-04T17:21:32] Refactor cookie refresher probe logic
 - [2025-03-04T10:40:58] Implement streaming upload chunk buffer optimization
+- [2025-03-04T15:28:51] Refactor worker polling logic
