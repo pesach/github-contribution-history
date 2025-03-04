@@ -35845,3 +35845,4 @@
 - [2025-03-03T14:14:06] Add retries for transient network drops
 - [2025-03-04T22:18:09] Update automated pytest test suites
 - [2025-03-04T09:23:03] Update automated pytest test suites
+- [2025-03-04T08:46:01] Update schema migration helpers
