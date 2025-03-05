@@ -35847,3 +35847,4 @@
 - [2025-03-04T09:23:03] Update automated pytest test suites
 - [2025-03-04T08:46:01] Update schema migration helpers
 - [2025-03-04T14:03:40] Add error handling for yt-dlp rate limits
+- [2025-03-04T19:55:37] Add error handling for yt-dlp rate limits
