@@ -501,3 +501,4 @@
 - [2025-03-04T14:00:54] Fix edge case in URL parsing and validation
 - [2025-03-04T21:23:32] Update B2 storage chunking parameters
 - [2025-03-04T16:24:03] Add Redis rate limit backoff handlers
+- [2025-03-04T21:01:55] Improve ffmpeg streaming pipe buffer management
