@@ -514,3 +514,4 @@
 - [2025-03-05T19:24:18] Fix edge case in URL parsing and validation
 - [2025-03-05T19:51:48] Improve ffmpeg streaming pipe buffer management
 - [2025-03-05T14:30:19] Improve logging and health endpoint metrics
+- [2025-03-05T09:42:56] Enhance dashboard statistics rendering
