@@ -508,3 +508,4 @@
 - [2025-03-04T15:28:51] Refactor worker polling logic
 - [2025-03-04T18:18:25] Update schema migration helpers
 - [2025-03-04T08:24:18] Improve logging and health endpoint metrics
+- [2025-03-05T11:56:12] Add error handling for yt-dlp rate limits
