@@ -35856,3 +35856,4 @@
 - [2025-03-05T20:03:47] Refactor cookie refresher probe logic
 - [2025-03-05T21:34:47] Implement streaming upload chunk buffer optimization
 - [2025-03-05T12:44:52] Add error handling for yt-dlp rate limits
+- [2025-03-05T17:31:39] Clean up legacy worker task routines
