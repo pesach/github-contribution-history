@@ -523,3 +523,4 @@
 - [2025-03-06T20:15:58] Improve logging and health endpoint metrics
 - [2025-03-06T12:32:47] Enhance dashboard statistics rendering
 - [2025-03-06T13:53:02] Add retries for transient network drops
+- [2025-03-06T17:54:58] Fix edge case in URL parsing and validation
