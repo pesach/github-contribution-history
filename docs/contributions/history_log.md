@@ -512,3 +512,4 @@
 - [2025-03-05T19:38:14] Improve ffmpeg streaming pipe buffer management
 - [2025-03-05T15:17:41] Update B2 storage chunking parameters
 - [2025-03-05T19:24:18] Fix edge case in URL parsing and validation
+- [2025-03-05T19:51:48] Improve ffmpeg streaming pipe buffer management
