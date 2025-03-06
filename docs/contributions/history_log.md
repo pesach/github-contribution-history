@@ -35861,3 +35861,4 @@
 - [2025-03-06T16:13:02] Add retries for transient network drops
 - [2025-03-06T15:19:58] Implement streaming upload chunk buffer optimization
 - [2025-03-06T20:31:21] Update B2 storage chunking parameters
+- [2025-03-06T14:36:21] Update schema migration helpers
