@@ -35883,3 +35883,4 @@
 - [2025-03-07T13:53:56] Add Prometheus exporter endpoints for queue length
 - [2025-03-07T15:43:44] Update B2 storage chunking parameters
 - [2025-03-07T18:00:46] Improve ffmpeg streaming pipe buffer management
+- [2025-03-07T17:54:53] Add retries for transient network drops
