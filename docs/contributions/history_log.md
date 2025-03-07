@@ -520,3 +520,4 @@
 - [2025-03-05T19:16:51] Add retries for transient network drops
 - [2025-03-06T20:31:15] Implement streaming upload chunk buffer optimization
 - [2025-03-06T15:02:49] Add error handling for yt-dlp rate limits
+- [2025-03-06T20:15:58] Improve logging and health endpoint metrics
