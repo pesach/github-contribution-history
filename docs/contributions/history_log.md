@@ -35880,3 +35880,4 @@
 - [2025-03-07T08:20:22] Optimize PostgreSQL query execution plans
 - [2025-03-07T15:21:40] Update schema migration helpers
 - [2025-03-07T20:46:03] Add error handling for yt-dlp rate limits
+- [2025-03-07T13:53:56] Add Prometheus exporter endpoints for queue length
