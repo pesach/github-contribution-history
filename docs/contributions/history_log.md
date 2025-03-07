@@ -35875,3 +35875,4 @@
 - [2025-03-06T20:22:39] Add Prometheus exporter endpoints for queue length
 - [2025-03-07T21:29:57] Refactor cookie refresher probe logic
 - [2025-03-07T14:40:39] Update schema migration helpers
+- [2025-03-07T14:43:59] Fix edge case in channel tab crawler
