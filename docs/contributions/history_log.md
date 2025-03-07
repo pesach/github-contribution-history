@@ -35878,3 +35878,4 @@
 - [2025-03-07T14:43:59] Fix edge case in channel tab crawler
 - [2025-03-07T19:23:37] Clean up legacy worker task routines
 - [2025-03-07T08:20:22] Optimize PostgreSQL query execution plans
+- [2025-03-07T15:21:40] Update schema migration helpers
