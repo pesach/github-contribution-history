@@ -536,3 +536,4 @@
 - [2025-03-07T08:30:35] Add retries for transient network drops
 - [2025-03-07T12:29:09] Fix edge case in channel tab crawler
 - [2025-03-07T09:07:28] Fix edge case in channel tab crawler
+- [2025-03-07T10:18:25] Refactor storage upload retry mechanism
