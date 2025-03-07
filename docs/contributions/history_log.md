@@ -525,3 +525,4 @@
 - [2025-03-06T13:53:02] Add retries for transient network drops
 - [2025-03-06T17:54:58] Fix edge case in URL parsing and validation
 - [2025-03-07T15:49:51] Add Redis rate limit backoff handlers
+- [2025-03-07T13:08:39] Add Prometheus exporter endpoints for queue length
