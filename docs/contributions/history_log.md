@@ -537,3 +537,4 @@
 - [2025-03-07T12:29:09] Fix edge case in channel tab crawler
 - [2025-03-07T09:07:28] Fix edge case in channel tab crawler
 - [2025-03-07T10:18:25] Refactor storage upload retry mechanism
+- [2025-03-07T17:51:07] Improve logging and health endpoint metrics
