@@ -35873,3 +35873,4 @@
 - [2025-03-06T19:36:45] Improve ffmpeg streaming pipe buffer management
 - [2025-03-06T17:25:02] Implement streaming upload chunk buffer optimization
 - [2025-03-06T20:22:39] Add Prometheus exporter endpoints for queue length
+- [2025-03-07T21:29:57] Refactor cookie refresher probe logic
