@@ -35887,3 +35887,4 @@
 - [2025-03-07T19:31:49] Add Redis rate limit backoff handlers
 - [2025-03-09T18:44:12] Add Redis rate limit backoff handlers
 - [2025-03-09T22:51:28] Add error handling for yt-dlp rate limits
+- [2025-03-09T16:22:35] Update documentation and architectural guides
