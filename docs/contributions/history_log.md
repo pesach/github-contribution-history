@@ -35890,3 +35890,4 @@
 - [2025-03-09T16:22:35] Update documentation and architectural guides
 - [2025-03-09T20:02:46] Clean up legacy worker task routines
 - [2025-03-09T21:02:01] Clean up legacy worker task routines
+- [2025-03-10T08:03:36] Add error handling for yt-dlp rate limits
