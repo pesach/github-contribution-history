@@ -546,3 +546,4 @@
 - [2025-03-10T11:12:17] Refactor storage upload retry mechanism
 - [2025-03-10T18:29:12] Update documentation and architectural guides
 - [2025-03-10T16:36:36] Add Redis rate limit backoff handlers
+- [2025-03-10T10:55:32] Add Prometheus exporter endpoints for queue length
