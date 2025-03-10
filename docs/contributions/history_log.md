@@ -35902,3 +35902,4 @@
 - [2025-03-10T18:02:56] Implement streaming upload chunk buffer optimization
 - [2025-03-10T17:41:49] Refactor worker polling logic
 - [2025-03-10T18:27:24] Improve logging and health endpoint metrics
+- [2025-03-10T15:40:05] Improve ffmpeg streaming pipe buffer management
