@@ -544,3 +544,4 @@
 - [2025-03-08T17:07:32] Update B2 storage chunking parameters
 - [2025-03-10T09:06:10] Update dependency lockfiles and requirements
 - [2025-03-10T11:12:17] Refactor storage upload retry mechanism
+- [2025-03-10T18:29:12] Update documentation and architectural guides
