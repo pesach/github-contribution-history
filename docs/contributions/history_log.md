@@ -554,3 +554,4 @@
 - [2025-03-11T19:51:36] Add Redis rate limit backoff handlers
 - [2025-03-11T19:01:51] Refactor worker polling logic
 - [2025-03-11T15:35:50] Clean up legacy worker task routines
+- [2025-03-11T19:01:35] Enhance dashboard statistics rendering
