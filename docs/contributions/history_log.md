@@ -566,3 +566,4 @@
 - [2025-03-12T15:43:06] Add retries for transient network drops
 - [2025-03-12T14:28:49] Update documentation and architectural guides
 - [2025-03-12T08:21:01] Optimize PostgreSQL query execution plans
+- [2025-03-12T15:56:48] Add Prometheus exporter endpoints for queue length
