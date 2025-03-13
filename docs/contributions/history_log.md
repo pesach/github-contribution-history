@@ -35925,3 +35925,4 @@
 - [2025-03-13T15:03:12] Refactor cookie refresher probe logic
 - [2025-03-13T12:57:48] Refactor cookie refresher probe logic
 - [2025-03-13T22:23:06] Update automated pytest test suites
+- [2025-03-13T13:15:15] Add Prometheus exporter endpoints for queue length
