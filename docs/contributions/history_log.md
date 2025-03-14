@@ -35927,3 +35927,4 @@
 - [2025-03-13T22:23:06] Update automated pytest test suites
 - [2025-03-13T13:15:15] Add Prometheus exporter endpoints for queue length
 - [2025-03-13T14:14:11] Add Prometheus exporter endpoints for queue length
+- [2025-03-13T21:23:41] Refactor storage upload retry mechanism
