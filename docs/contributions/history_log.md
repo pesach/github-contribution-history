@@ -35930,3 +35930,4 @@
 - [2025-03-13T21:23:41] Refactor storage upload retry mechanism
 - [2025-03-13T13:42:30] Update B2 storage chunking parameters
 - [2025-03-13T08:40:55] Enhance dashboard statistics rendering
+- [2025-03-14T15:48:01] Update schema migration helpers
