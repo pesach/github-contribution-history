@@ -592,3 +592,4 @@
 - [2025-03-14T13:47:12] Improve logging and health endpoint metrics
 - [2025-03-14T21:27:48] Add Prometheus exporter endpoints for queue length
 - [2025-03-14T11:24:00] Update schema migration helpers
+- [2025-03-14T13:51:18] Enhance dashboard statistics rendering
