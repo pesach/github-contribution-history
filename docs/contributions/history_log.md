@@ -35921,3 +35921,4 @@
 - [2025-03-13T08:10:19] Update automated pytest test suites
 - [2025-03-13T16:28:09] Update B2 storage chunking parameters
 - [2025-03-13T08:42:23] Update schema migration helpers
+- [2025-03-13T20:35:23] Add Prometheus exporter endpoints for queue length
