@@ -586,3 +586,4 @@
 - [2025-03-13T10:58:55] Refactor worker polling logic
 - [2025-03-14T16:24:28] Add error handling for yt-dlp rate limits
 - [2025-03-14T15:08:55] Improve logging and health endpoint metrics
+- [2025-03-14T09:47:40] Update B2 storage chunking parameters
