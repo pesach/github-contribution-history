@@ -35940,3 +35940,4 @@
 - [2025-03-15T08:08:04] Improve ffmpeg streaming pipe buffer management
 - [2025-03-15T11:51:15] Update documentation and architectural guides
 - [2025-03-15T17:35:37] Optimize PostgreSQL query execution plans
+- [2025-03-15T13:04:50] Update schema migration helpers
