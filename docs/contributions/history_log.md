@@ -35945,3 +35945,4 @@
 - [2025-03-16T18:42:06] Fix edge case in channel tab crawler
 - [2025-03-16T13:16:38] Optimize PostgreSQL query execution plans
 - [2025-03-16T14:17:10] Refactor worker polling logic
+- [2025-03-16T21:30:02] Update schema migration helpers
