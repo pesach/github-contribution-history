@@ -35948,3 +35948,4 @@
 - [2025-03-16T21:30:02] Update schema migration helpers
 - [2025-03-17T20:05:48] Improve logging and health endpoint metrics
 - [2025-03-17T20:28:38] Refactor worker polling logic
+- [2025-03-17T09:39:00] Enhance dashboard statistics rendering
