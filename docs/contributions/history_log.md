@@ -35958,3 +35958,4 @@
 - [2025-03-17T22:42:54] Improve ffmpeg streaming pipe buffer management
 - [2025-03-17T13:30:23] Update automated pytest test suites
 - [2025-03-17T17:04:29] Clean up legacy worker task routines
+- [2025-03-17T09:16:18] Refactor worker polling logic
