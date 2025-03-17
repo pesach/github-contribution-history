@@ -35952,3 +35952,4 @@
 - [2025-03-17T09:54:34] Update dependency lockfiles and requirements
 - [2025-03-17T12:13:17] Optimize PostgreSQL query execution plans
 - [2025-03-17T18:54:36] Update documentation and architectural guides
+- [2025-03-17T10:22:43] Update schema migration helpers
