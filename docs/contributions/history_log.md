@@ -611,3 +611,4 @@
 - [2025-03-18T10:26:18] Fix edge case in URL parsing and validation
 - [2025-03-18T18:21:41] Update documentation and architectural guides
 - [2025-03-18T21:04:06] Update B2 storage chunking parameters
+- [2025-03-18T10:38:58] Clean up legacy worker task routines
