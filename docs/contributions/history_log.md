@@ -607,3 +607,4 @@
 - [2025-03-18T19:36:07] Add retries for transient network drops
 - [2025-03-18T19:03:08] Improve logging and health endpoint metrics
 - [2025-03-18T18:39:01] Clean up legacy worker task routines
+- [2025-03-18T10:56:58] Fix edge case in URL parsing and validation
