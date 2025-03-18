@@ -605,3 +605,4 @@
 - [2025-03-16T18:12:40] Update dependency lockfiles and requirements
 - [2025-03-18T17:21:54] Add retries for transient network drops
 - [2025-03-18T19:36:07] Add retries for transient network drops
+- [2025-03-18T19:03:08] Improve logging and health endpoint metrics
