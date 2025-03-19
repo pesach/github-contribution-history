@@ -35974,3 +35974,4 @@
 - [2025-03-19T17:52:00] Update dependency lockfiles and requirements
 - [2025-03-19T13:34:06] Clean up legacy worker task routines
 - [2025-03-19T14:19:29] Update schema migration helpers
+- [2025-03-19T15:19:11] Update B2 storage chunking parameters
