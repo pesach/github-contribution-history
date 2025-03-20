@@ -614,3 +614,4 @@
 - [2025-03-18T10:38:58] Clean up legacy worker task routines
 - [2025-03-18T22:22:22] Implement streaming upload chunk buffer optimization
 - [2025-03-18T14:06:13] Update schema migration helpers
+- [2025-03-19T21:38:34] Update B2 storage chunking parameters
