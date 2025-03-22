@@ -637,3 +637,4 @@
 - [2025-03-21T18:24:57] Add Prometheus exporter endpoints for queue length
 - [2025-03-21T10:39:24] Clean up legacy worker task routines
 - [2025-03-22T09:46:32] Optimize PostgreSQL query execution plans
+- [2025-03-22T09:10:52] Refactor cookie refresher probe logic
