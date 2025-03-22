@@ -36000,3 +36000,4 @@
 - [2025-03-22T21:16:11] Update B2 storage chunking parameters
 - [2025-03-22T21:21:49] Refactor cookie refresher probe logic
 - [2025-03-22T19:23:26] Fix edge case in channel tab crawler
+- [2025-03-22T15:00:50] Clean up legacy worker task routines
