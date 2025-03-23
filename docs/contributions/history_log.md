@@ -36002,3 +36002,4 @@
 - [2025-03-22T19:23:26] Fix edge case in channel tab crawler
 - [2025-03-22T15:00:50] Clean up legacy worker task routines
 - [2025-03-22T09:20:53] Add retries for transient network drops
+- [2025-03-23T18:32:29] Improve logging and health endpoint metrics
