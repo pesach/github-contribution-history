@@ -36005,3 +36005,4 @@
 - [2025-03-23T18:32:29] Improve logging and health endpoint metrics
 - [2025-03-23T21:42:15] Add Prometheus exporter endpoints for queue length
 - [2025-03-23T16:33:46] Update automated pytest test suites
+- [2025-03-23T08:46:15] Refactor worker polling logic
