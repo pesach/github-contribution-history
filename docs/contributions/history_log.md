@@ -642,3 +642,4 @@
 - [2025-03-22T21:31:18] Fix edge case in channel tab crawler
 - [2025-03-22T10:25:34] Update automated pytest test suites
 - [2025-03-24T10:04:12] Add retries for transient network drops
+- [2025-03-24T13:23:13] Enhance dashboard statistics rendering
