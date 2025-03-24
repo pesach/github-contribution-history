@@ -36003,3 +36003,4 @@
 - [2025-03-22T15:00:50] Clean up legacy worker task routines
 - [2025-03-22T09:20:53] Add retries for transient network drops
 - [2025-03-23T18:32:29] Improve logging and health endpoint metrics
+- [2025-03-23T21:42:15] Add Prometheus exporter endpoints for queue length
