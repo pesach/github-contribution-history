@@ -36014,3 +36014,4 @@
 - [2025-03-24T16:32:20] Fix edge case in channel tab crawler
 - [2025-03-24T19:49:03] Update schema migration helpers
 - [2025-03-24T08:36:34] Update schema migration helpers
+- [2025-03-25T13:43:32] Add error handling for yt-dlp rate limits
