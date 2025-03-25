@@ -36015,3 +36015,4 @@
 - [2025-03-24T19:49:03] Update schema migration helpers
 - [2025-03-24T08:36:34] Update schema migration helpers
 - [2025-03-25T13:43:32] Add error handling for yt-dlp rate limits
+- [2025-03-25T12:45:44] Update dependency lockfiles and requirements
