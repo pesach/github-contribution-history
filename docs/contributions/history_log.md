@@ -657,3 +657,4 @@
 - [2025-03-25T11:51:08] Add error handling for yt-dlp rate limits
 - [2025-03-25T18:58:31] Update dependency lockfiles and requirements
 - [2025-03-25T11:56:59] Fix edge case in URL parsing and validation
+- [2025-03-25T08:45:34] Add Prometheus exporter endpoints for queue length
