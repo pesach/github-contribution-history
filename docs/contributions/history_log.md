@@ -36019,3 +36019,4 @@
 - [2025-03-25T13:26:34] Implement streaming upload chunk buffer optimization
 - [2025-03-25T16:10:49] Update documentation and architectural guides
 - [2025-03-25T11:30:25] Refactor worker polling logic
+- [2025-03-25T15:56:45] Improve ffmpeg streaming pipe buffer management
