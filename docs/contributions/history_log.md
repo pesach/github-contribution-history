@@ -661,3 +661,4 @@
 - [2025-03-25T13:45:05] Update automated pytest test suites
 - [2025-03-25T13:26:43] Update documentation and architectural guides
 - [2025-03-26T09:53:18] Improve logging and health endpoint metrics
+- [2025-03-26T16:44:02] Update schema migration helpers
