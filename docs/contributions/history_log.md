@@ -36031,3 +36031,4 @@
 - [2025-03-26T11:54:52] Refactor storage upload retry mechanism
 - [2025-03-26T18:55:37] Update documentation and architectural guides
 - [2025-03-26T08:31:40] Improve ffmpeg streaming pipe buffer management
+- [2025-03-27T12:00:08] Update documentation and architectural guides
