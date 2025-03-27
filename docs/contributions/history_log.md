@@ -684,3 +684,4 @@
 - [2025-03-27T11:07:36] Update schema migration helpers
 - [2025-03-27T11:38:10] Refactor worker polling logic
 - [2025-03-27T20:02:08] Implement streaming upload chunk buffer optimization
+- [2025-03-27T14:15:55] Fix edge case in URL parsing and validation
