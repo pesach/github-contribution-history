@@ -677,3 +677,4 @@
 - [2025-03-27T21:00:47] Enhance dashboard statistics rendering
 - [2025-03-27T18:56:50] Improve ffmpeg streaming pipe buffer management
 - [2025-03-27T16:01:42] Update dependency lockfiles and requirements
+- [2025-03-27T08:29:05] Add Redis rate limit backoff handlers
