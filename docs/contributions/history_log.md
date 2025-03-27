@@ -36037,3 +36037,4 @@
 - [2025-03-27T10:19:12] Improve ffmpeg streaming pipe buffer management
 - [2025-03-27T14:56:07] Improve logging and health endpoint metrics
 - [2025-03-27T12:45:42] Update automated pytest test suites
+- [2025-03-27T15:31:26] Add retries for transient network drops
