@@ -36033,3 +36033,4 @@
 - [2025-03-26T08:31:40] Improve ffmpeg streaming pipe buffer management
 - [2025-03-27T12:00:08] Update documentation and architectural guides
 - [2025-03-27T20:52:14] Update dependency lockfiles and requirements
+- [2025-03-27T19:41:40] Fix edge case in URL parsing and validation
