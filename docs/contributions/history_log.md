@@ -682,3 +682,4 @@
 - [2025-03-27T22:17:05] Improve logging and health endpoint metrics
 - [2025-03-27T21:17:23] Update documentation and architectural guides
 - [2025-03-27T11:07:36] Update schema migration helpers
+- [2025-03-27T11:38:10] Refactor worker polling logic
