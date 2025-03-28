@@ -36040,3 +36040,4 @@
 - [2025-03-27T15:31:26] Add retries for transient network drops
 - [2025-03-27T22:31:23] Improve ffmpeg streaming pipe buffer management
 - [2025-03-27T09:03:37] Fix edge case in channel tab crawler
+- [2025-03-27T22:18:09] Optimize PostgreSQL query execution plans
