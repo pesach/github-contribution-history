@@ -36048,3 +36048,4 @@
 - [2025-03-29T09:17:56] Add error handling for yt-dlp rate limits
 - [2025-03-29T13:14:28] Update B2 storage chunking parameters
 - [2025-03-29T19:24:10] Improve ffmpeg streaming pipe buffer management
+- [2025-03-29T19:27:52] Fix edge case in URL parsing and validation
