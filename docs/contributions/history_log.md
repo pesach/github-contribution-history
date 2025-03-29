@@ -36045,3 +36045,4 @@
 - [2025-03-27T11:48:44] Improve ffmpeg streaming pipe buffer management
 - [2025-03-27T21:28:40] Update automated pytest test suites
 - [2025-03-27T19:07:39] Add Prometheus exporter endpoints for queue length
+- [2025-03-29T09:17:56] Add error handling for yt-dlp rate limits
