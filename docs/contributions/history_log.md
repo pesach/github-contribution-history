@@ -700,3 +700,4 @@
 - [2025-03-28T21:03:56] Fix edge case in channel tab crawler
 - [2025-03-30T11:19:53] Update schema migration helpers
 - [2025-03-30T09:41:45] Improve logging and health endpoint metrics
+- [2025-03-30T10:23:06] Update documentation and architectural guides
