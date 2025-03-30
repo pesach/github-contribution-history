@@ -698,3 +698,4 @@
 - [2025-03-28T11:50:22] Add Prometheus exporter endpoints for queue length
 - [2025-03-28T09:18:52] Refactor worker polling logic
 - [2025-03-28T21:03:56] Fix edge case in channel tab crawler
+- [2025-03-30T11:19:53] Update schema migration helpers
