@@ -702,3 +702,4 @@
 - [2025-03-30T09:41:45] Improve logging and health endpoint metrics
 - [2025-03-30T10:23:06] Update documentation and architectural guides
 - [2025-03-30T13:11:52] Update schema migration helpers
+- [2025-03-30T10:08:10] Fix edge case in URL parsing and validation
