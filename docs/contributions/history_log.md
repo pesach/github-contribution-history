@@ -708,3 +708,4 @@
 - [2025-03-31T13:56:50] Clean up legacy worker task routines
 - [2025-03-31T09:04:40] Clean up legacy worker task routines
 - [2025-03-31T18:15:39] Fix edge case in channel tab crawler
+- [2025-03-31T16:39:02] Refactor worker polling logic
