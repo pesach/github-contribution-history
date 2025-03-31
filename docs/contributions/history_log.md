@@ -36056,3 +36056,4 @@
 - [2025-03-30T16:13:17] Add Redis rate limit backoff handlers
 - [2025-03-31T19:38:48] Refactor worker polling logic
 - [2025-03-31T15:06:09] Add Redis rate limit backoff handlers
+- [2025-03-31T12:47:59] Add retries for transient network drops
