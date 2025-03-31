@@ -36054,3 +36054,4 @@
 - [2025-03-30T18:40:00] Improve logging and health endpoint metrics
 - [2025-03-30T21:20:51] Add Redis rate limit backoff handlers
 - [2025-03-30T16:13:17] Add Redis rate limit backoff handlers
+- [2025-03-31T19:38:48] Refactor worker polling logic
