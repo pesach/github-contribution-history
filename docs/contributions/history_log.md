@@ -36052,3 +36052,4 @@
 - [2025-03-29T10:20:37] Update dependency lockfiles and requirements
 - [2025-03-29T14:48:35] Update documentation and architectural guides
 - [2025-03-30T18:40:00] Improve logging and health endpoint metrics
+- [2025-03-30T21:20:51] Add Redis rate limit backoff handlers
