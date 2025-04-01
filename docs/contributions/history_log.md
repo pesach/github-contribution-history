@@ -36069,3 +36069,4 @@
 - [2025-03-31T16:34:00] Enhance dashboard statistics rendering
 - [2025-04-01T10:02:50] Enhance dashboard statistics rendering
 - [2025-04-01T08:20:55] Add Prometheus exporter endpoints for queue length
+- [2025-04-01T15:13:58] Add error handling for yt-dlp rate limits
