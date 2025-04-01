@@ -721,3 +721,4 @@
 - [2025-04-01T13:07:26] Enhance dashboard statistics rendering
 - [2025-04-01T18:12:41] Update schema migration helpers
 - [2025-04-01T18:52:07] Clean up legacy worker task routines
+- [2025-04-01T09:19:18] Clean up legacy worker task routines
