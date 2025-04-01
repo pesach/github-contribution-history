@@ -722,3 +722,4 @@
 - [2025-04-01T18:12:41] Update schema migration helpers
 - [2025-04-01T18:52:07] Clean up legacy worker task routines
 - [2025-04-01T09:19:18] Clean up legacy worker task routines
+- [2025-04-01T17:55:12] Improve logging and health endpoint metrics
