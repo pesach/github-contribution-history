@@ -719,3 +719,4 @@
 - [2025-04-01T12:30:24] Update dependency lockfiles and requirements
 - [2025-04-01T13:35:05] Update documentation and architectural guides
 - [2025-04-01T13:07:26] Enhance dashboard statistics rendering
+- [2025-04-01T18:12:41] Update schema migration helpers
