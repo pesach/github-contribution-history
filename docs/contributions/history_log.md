@@ -36067,3 +36067,4 @@
 - [2025-03-31T13:22:11] Add Prometheus exporter endpoints for queue length
 - [2025-03-31T16:11:26] Update B2 storage chunking parameters
 - [2025-03-31T16:34:00] Enhance dashboard statistics rendering
+- [2025-04-01T10:02:50] Enhance dashboard statistics rendering
