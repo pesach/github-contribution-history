@@ -724,3 +724,4 @@
 - [2025-04-01T09:19:18] Clean up legacy worker task routines
 - [2025-04-01T17:55:12] Improve logging and health endpoint metrics
 - [2025-04-01T09:10:45] Enhance dashboard statistics rendering
+- [2025-04-01T22:45:08] Refactor storage upload retry mechanism
