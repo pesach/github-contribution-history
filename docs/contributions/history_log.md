@@ -730,3 +730,4 @@
 - [2025-04-01T22:29:48] Update dependency lockfiles and requirements
 - [2025-04-01T17:30:53] Update automated pytest test suites
 - [2025-04-01T17:38:06] Update dependency lockfiles and requirements
+- [2025-04-02T19:29:45] Improve ffmpeg streaming pipe buffer management
