@@ -36085,3 +36085,4 @@
 - [2025-04-02T11:52:23] Clean up legacy worker task routines
 - [2025-04-02T20:08:42] Improve logging and health endpoint metrics
 - [2025-04-02T09:49:00] Fix edge case in URL parsing and validation
+- [2025-04-02T09:55:55] Refactor cookie refresher probe logic
