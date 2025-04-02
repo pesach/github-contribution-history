@@ -741,3 +741,4 @@
 - [2025-04-02T08:37:59] Update schema migration helpers
 - [2025-04-02T18:24:46] Add error handling for yt-dlp rate limits
 - [2025-04-02T12:08:45] Fix edge case in URL parsing and validation
+- [2025-04-02T15:25:57] Refactor worker polling logic
