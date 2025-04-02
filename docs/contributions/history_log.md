@@ -731,3 +731,4 @@
 - [2025-04-01T17:30:53] Update automated pytest test suites
 - [2025-04-01T17:38:06] Update dependency lockfiles and requirements
 - [2025-04-02T19:29:45] Improve ffmpeg streaming pipe buffer management
+- [2025-04-02T19:26:25] Clean up legacy worker task routines
