@@ -743,3 +743,4 @@
 - [2025-04-02T12:08:45] Fix edge case in URL parsing and validation
 - [2025-04-02T15:25:57] Refactor worker polling logic
 - [2025-04-02T20:49:17] Update automated pytest test suites
+- [2025-04-02T19:25:19] Add Redis rate limit backoff handlers
