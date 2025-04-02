@@ -737,3 +737,4 @@
 - [2025-04-02T19:26:12] Add retries for transient network drops
 - [2025-04-02T18:08:47] Update documentation and architectural guides
 - [2025-04-02T14:39:56] Fix edge case in URL parsing and validation
+- [2025-04-02T15:25:50] Refactor worker polling logic
