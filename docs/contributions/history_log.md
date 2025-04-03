@@ -748,3 +748,4 @@
 - [2025-04-03T17:00:28] Add retries for transient network drops
 - [2025-04-03T17:28:17] Optimize PostgreSQL query execution plans
 - [2025-04-03T11:38:56] Fix edge case in URL parsing and validation
+- [2025-04-03T18:44:50] Improve ffmpeg streaming pipe buffer management
