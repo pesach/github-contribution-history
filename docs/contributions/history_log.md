@@ -36083,3 +36083,4 @@
 - [2025-04-02T17:58:08] Update B2 storage chunking parameters
 - [2025-04-02T17:36:23] Implement streaming upload chunk buffer optimization
 - [2025-04-02T11:52:23] Clean up legacy worker task routines
+- [2025-04-02T20:08:42] Improve logging and health endpoint metrics
