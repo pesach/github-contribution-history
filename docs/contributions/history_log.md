@@ -36075,3 +36075,4 @@
 - [2025-04-01T13:05:24] Add retries for transient network drops
 - [2025-04-01T21:59:01] Refactor cookie refresher probe logic
 - [2025-04-01T08:42:21] Update dependency lockfiles and requirements
+- [2025-04-02T21:02:35] Improve logging and health endpoint metrics
