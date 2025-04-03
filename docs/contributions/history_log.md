@@ -750,3 +750,4 @@
 - [2025-04-03T11:38:56] Fix edge case in URL parsing and validation
 - [2025-04-03T18:44:50] Improve ffmpeg streaming pipe buffer management
 - [2025-04-03T16:13:26] Clean up legacy worker task routines
+- [2025-04-03T09:45:23] Update schema migration helpers
