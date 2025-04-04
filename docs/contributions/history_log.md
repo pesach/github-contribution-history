@@ -753,3 +753,4 @@
 - [2025-04-03T09:45:23] Update schema migration helpers
 - [2025-04-03T19:28:50] Add Redis rate limit backoff handlers
 - [2025-04-04T09:40:49] Fix edge case in channel tab crawler
+- [2025-04-04T19:31:25] Improve ffmpeg streaming pipe buffer management
