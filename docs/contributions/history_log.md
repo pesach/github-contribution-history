@@ -36096,3 +36096,4 @@
 - [2025-04-03T22:54:15] Refactor storage upload retry mechanism
 - [2025-04-03T19:06:56] Update documentation and architectural guides
 - [2025-04-03T16:15:33] Refactor cookie refresher probe logic
+- [2025-04-04T08:39:35] Add error handling for yt-dlp rate limits
