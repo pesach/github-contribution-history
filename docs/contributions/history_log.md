@@ -752,3 +752,4 @@
 - [2025-04-03T16:13:26] Clean up legacy worker task routines
 - [2025-04-03T09:45:23] Update schema migration helpers
 - [2025-04-03T19:28:50] Add Redis rate limit backoff handlers
+- [2025-04-04T09:40:49] Fix edge case in channel tab crawler
