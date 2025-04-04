@@ -36099,3 +36099,4 @@
 - [2025-04-04T08:39:35] Add error handling for yt-dlp rate limits
 - [2025-04-04T10:41:43] Add Redis rate limit backoff handlers
 - [2025-04-04T21:52:14] Update automated pytest test suites
+- [2025-04-04T08:22:37] Update B2 storage chunking parameters
