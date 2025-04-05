@@ -36104,3 +36104,4 @@
 - [2025-04-04T09:53:51] Optimize PostgreSQL query execution plans
 - [2025-04-04T09:35:56] Improve ffmpeg streaming pipe buffer management
 - [2025-04-04T08:15:48] Optimize PostgreSQL query execution plans
+- [2025-04-04T21:20:10] Clean up legacy worker task routines
