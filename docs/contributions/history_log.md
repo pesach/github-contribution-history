@@ -758,3 +758,4 @@
 - [2025-04-04T18:39:25] Refactor worker polling logic
 - [2025-04-04T16:40:51] Clean up legacy worker task routines
 - [2025-04-04T12:23:50] Update B2 storage chunking parameters
+- [2025-04-05T08:08:41] Add error handling for yt-dlp rate limits
