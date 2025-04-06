@@ -766,3 +766,4 @@
 - [2025-04-06T19:23:03] Refactor cookie refresher probe logic
 - [2025-04-06T16:13:03] Fix edge case in channel tab crawler
 - [2025-04-06T22:07:16] Add retries for transient network drops
+- [2025-04-06T11:01:55] Add error handling for yt-dlp rate limits
