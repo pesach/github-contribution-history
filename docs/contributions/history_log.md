@@ -761,3 +761,4 @@
 - [2025-04-05T08:08:41] Add error handling for yt-dlp rate limits
 - [2025-04-05T14:45:09] Add Redis rate limit backoff handlers
 - [2025-04-05T21:28:31] Refactor worker polling logic
+- [2025-04-06T10:50:10] Add Prometheus exporter endpoints for queue length
