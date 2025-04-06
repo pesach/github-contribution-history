@@ -36109,3 +36109,4 @@
 - [2025-04-05T19:54:02] Implement streaming upload chunk buffer optimization
 - [2025-04-05T18:41:55] Add Prometheus exporter endpoints for queue length
 - [2025-04-05T12:33:47] Update B2 storage chunking parameters
+- [2025-04-06T14:25:51] Fix edge case in channel tab crawler
