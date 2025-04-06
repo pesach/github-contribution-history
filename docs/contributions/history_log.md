@@ -763,3 +763,4 @@
 - [2025-04-05T21:28:31] Refactor worker polling logic
 - [2025-04-06T10:50:10] Add Prometheus exporter endpoints for queue length
 - [2025-04-06T13:07:30] Refactor storage upload retry mechanism
+- [2025-04-06T19:23:03] Refactor cookie refresher probe logic
