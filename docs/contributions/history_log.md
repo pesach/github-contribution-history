@@ -36111,3 +36111,4 @@
 - [2025-04-05T12:33:47] Update B2 storage chunking parameters
 - [2025-04-06T14:25:51] Fix edge case in channel tab crawler
 - [2025-04-06T11:44:45] Add Redis rate limit backoff handlers
+- [2025-04-06T15:09:59] Refactor cookie refresher probe logic
