@@ -36117,3 +36117,4 @@
 - [2025-04-06T19:52:49] Add error handling for yt-dlp rate limits
 - [2025-04-07T17:58:17] Improve logging and health endpoint metrics
 - [2025-04-07T19:09:25] Refactor cookie refresher probe logic
+- [2025-04-07T19:28:31] Add Prometheus exporter endpoints for queue length
