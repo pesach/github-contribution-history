@@ -36121,3 +36121,4 @@
 - [2025-04-07T11:18:29] Update B2 storage chunking parameters
 - [2025-04-07T14:13:00] Update schema migration helpers
 - [2025-04-07T16:05:03] Optimize PostgreSQL query execution plans
+- [2025-04-07T11:44:21] Improve ffmpeg streaming pipe buffer management
