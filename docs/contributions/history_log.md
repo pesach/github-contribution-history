@@ -36135,3 +36135,4 @@
 - [2025-04-08T15:11:58] Add Prometheus exporter endpoints for queue length
 - [2025-04-08T22:45:24] Fix edge case in URL parsing and validation
 - [2025-04-08T17:01:22] Fix edge case in URL parsing and validation
+- [2025-04-08T09:10:16] Refactor worker polling logic
