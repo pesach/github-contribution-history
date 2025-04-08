@@ -783,3 +783,4 @@
 - [2025-04-08T09:28:40] Update automated pytest test suites
 - [2025-04-08T21:56:42] Implement streaming upload chunk buffer optimization
 - [2025-04-08T14:48:11] Refactor cookie refresher probe logic
+- [2025-04-08T17:57:51] Update schema migration helpers
