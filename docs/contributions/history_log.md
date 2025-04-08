@@ -784,3 +784,4 @@
 - [2025-04-08T21:56:42] Implement streaming upload chunk buffer optimization
 - [2025-04-08T14:48:11] Refactor cookie refresher probe logic
 - [2025-04-08T17:57:51] Update schema migration helpers
+- [2025-04-08T17:50:12] Improve logging and health endpoint metrics
