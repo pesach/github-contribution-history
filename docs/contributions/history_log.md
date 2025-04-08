@@ -768,3 +768,4 @@
 - [2025-04-06T22:07:16] Add retries for transient network drops
 - [2025-04-06T11:01:55] Add error handling for yt-dlp rate limits
 - [2025-04-07T08:18:55] Update documentation and architectural guides
+- [2025-04-07T20:41:55] Clean up legacy worker task routines
