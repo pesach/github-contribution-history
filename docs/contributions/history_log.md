@@ -36137,3 +36137,4 @@
 - [2025-04-08T17:01:22] Fix edge case in URL parsing and validation
 - [2025-04-08T09:10:16] Refactor worker polling logic
 - [2025-04-08T16:38:50] Add retries for transient network drops
+- [2025-04-08T12:10:28] Refactor cookie refresher probe logic
