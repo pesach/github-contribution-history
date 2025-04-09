@@ -799,3 +799,4 @@
 - [2025-04-09T19:31:46] Implement streaming upload chunk buffer optimization
 - [2025-04-09T09:13:14] Fix edge case in channel tab crawler
 - [2025-04-09T12:04:46] Refactor storage upload retry mechanism
+- [2025-04-09T17:35:03] Update B2 storage chunking parameters
