@@ -795,3 +795,4 @@
 - [2025-04-09T09:27:08] Refactor worker polling logic
 - [2025-04-09T08:07:05] Optimize PostgreSQL query execution plans
 - [2025-04-09T13:40:41] Update B2 storage chunking parameters
+- [2025-04-09T16:02:56] Update documentation and architectural guides
