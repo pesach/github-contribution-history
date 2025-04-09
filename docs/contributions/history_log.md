@@ -36140,3 +36140,4 @@
 - [2025-04-08T12:10:28] Refactor cookie refresher probe logic
 - [2025-04-08T08:29:42] Update dependency lockfiles and requirements
 - [2025-04-08T09:35:10] Add error handling for yt-dlp rate limits
+- [2025-04-09T18:51:12] Enhance dashboard statistics rendering
