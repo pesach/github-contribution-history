@@ -802,3 +802,4 @@
 - [2025-04-09T17:35:03] Update B2 storage chunking parameters
 - [2025-04-09T14:09:43] Update B2 storage chunking parameters
 - [2025-04-10T22:28:48] Update automated pytest test suites
+- [2025-04-10T13:23:58] Clean up legacy worker task routines
