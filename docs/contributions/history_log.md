@@ -805,3 +805,4 @@
 - [2025-04-10T13:23:58] Clean up legacy worker task routines
 - [2025-04-10T22:44:06] Refactor storage upload retry mechanism
 - [2025-04-10T19:25:36] Fix edge case in channel tab crawler
+- [2025-04-10T12:25:30] Refactor cookie refresher probe logic
