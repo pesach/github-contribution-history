@@ -36161,3 +36161,4 @@
 - [2025-04-11T09:25:58] Improve ffmpeg streaming pipe buffer management
 - [2025-04-11T22:29:04] Improve logging and health endpoint metrics
 - [2025-04-11T22:32:50] Refactor worker polling logic
+- [2025-04-11T18:37:55] Add retries for transient network drops
