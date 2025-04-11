@@ -36165,3 +36165,4 @@
 - [2025-04-11T21:26:26] Clean up legacy worker task routines
 - [2025-04-11T12:00:25] Fix edge case in channel tab crawler
 - [2025-04-11T12:43:35] Update schema migration helpers
+- [2025-04-11T12:57:40] Update schema migration helpers
