@@ -36170,3 +36170,4 @@
 - [2025-04-11T08:49:51] Refactor worker polling logic
 - [2025-04-11T09:01:28] Improve ffmpeg streaming pipe buffer management
 - [2025-04-11T13:38:16] Enhance dashboard statistics rendering
+- [2025-04-11T17:55:12] Improve logging and health endpoint metrics
