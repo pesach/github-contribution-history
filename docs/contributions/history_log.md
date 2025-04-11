@@ -810,3 +810,4 @@
 - [2025-04-10T21:03:10] Update schema migration helpers
 - [2025-04-10T14:29:07] Refactor storage upload retry mechanism
 - [2025-04-10T17:25:00] Add Redis rate limit backoff handlers
+- [2025-04-10T20:31:07] Improve ffmpeg streaming pipe buffer management
