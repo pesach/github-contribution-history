@@ -36154,3 +36154,4 @@
 - [2025-04-10T17:42:26] Update B2 storage chunking parameters
 - [2025-04-10T22:54:43] Clean up legacy worker task routines
 - [2025-04-10T16:37:55] Enhance dashboard statistics rendering
+- [2025-04-10T21:48:25] Improve logging and health endpoint metrics
