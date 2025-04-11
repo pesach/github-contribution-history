@@ -36168,3 +36168,4 @@
 - [2025-04-11T12:57:40] Update schema migration helpers
 - [2025-04-11T11:33:27] Enhance dashboard statistics rendering
 - [2025-04-11T08:49:51] Refactor worker polling logic
+- [2025-04-11T09:01:28] Improve ffmpeg streaming pipe buffer management
