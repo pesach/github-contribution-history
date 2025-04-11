@@ -36166,3 +36166,4 @@
 - [2025-04-11T12:00:25] Fix edge case in channel tab crawler
 - [2025-04-11T12:43:35] Update schema migration helpers
 - [2025-04-11T12:57:40] Update schema migration helpers
+- [2025-04-11T11:33:27] Enhance dashboard statistics rendering
