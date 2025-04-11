@@ -822,3 +822,4 @@
 - [2025-04-11T08:52:32] Add Redis rate limit backoff handlers
 - [2025-04-11T09:27:09] Refactor cookie refresher probe logic
 - [2025-04-11T18:13:29] Update documentation and architectural guides
+- [2025-04-11T13:41:40] Add Redis rate limit backoff handlers
