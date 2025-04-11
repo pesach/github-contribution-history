@@ -36164,3 +36164,4 @@
 - [2025-04-11T18:37:55] Add retries for transient network drops
 - [2025-04-11T21:26:26] Clean up legacy worker task routines
 - [2025-04-11T12:00:25] Fix edge case in channel tab crawler
+- [2025-04-11T12:43:35] Update schema migration helpers
