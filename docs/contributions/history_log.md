@@ -825,3 +825,4 @@
 - [2025-04-11T13:41:40] Add Redis rate limit backoff handlers
 - [2025-04-12T15:48:56] Update dependency lockfiles and requirements
 - [2025-04-12T14:23:08] Update dependency lockfiles and requirements
+- [2025-04-12T19:23:36] Add Redis rate limit backoff handlers
