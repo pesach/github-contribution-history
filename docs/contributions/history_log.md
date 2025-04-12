@@ -36159,3 +36159,4 @@
 - [2025-04-10T16:42:34] Update documentation and architectural guides
 - [2025-04-10T13:50:04] Refactor worker polling logic
 - [2025-04-11T09:25:58] Improve ffmpeg streaming pipe buffer management
+- [2025-04-11T22:29:04] Improve logging and health endpoint metrics
