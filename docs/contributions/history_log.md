@@ -832,3 +832,4 @@
 - [2025-04-13T09:36:48] Add Redis rate limit backoff handlers
 - [2025-04-13T08:28:34] Add Redis rate limit backoff handlers
 - [2025-04-13T20:04:31] Refactor worker polling logic
+- [2025-04-13T10:52:20] Clean up legacy worker task routines
