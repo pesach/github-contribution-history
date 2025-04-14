@@ -840,3 +840,4 @@
 - [2025-04-14T21:49:53] Update automated pytest test suites
 - [2025-04-14T12:25:57] Clean up legacy worker task routines
 - [2025-04-14T12:51:51] Improve ffmpeg streaming pipe buffer management
+- [2025-04-14T11:19:19] Refactor storage upload retry mechanism
