@@ -847,3 +847,4 @@
 - [2025-04-14T14:29:53] Add retries for transient network drops
 - [2025-04-15T11:34:42] Improve logging and health endpoint metrics
 - [2025-04-15T20:20:28] Improve ffmpeg streaming pipe buffer management
+- [2025-04-15T09:34:39] Refactor cookie refresher probe logic
