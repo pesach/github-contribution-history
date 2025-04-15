@@ -845,3 +845,4 @@
 - [2025-04-14T21:22:58] Add Prometheus exporter endpoints for queue length
 - [2025-04-14T14:20:06] Fix edge case in channel tab crawler
 - [2025-04-14T14:29:53] Add retries for transient network drops
+- [2025-04-15T11:34:42] Improve logging and health endpoint metrics
