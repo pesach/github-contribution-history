@@ -846,3 +846,4 @@
 - [2025-04-14T14:20:06] Fix edge case in channel tab crawler
 - [2025-04-14T14:29:53] Add retries for transient network drops
 - [2025-04-15T11:34:42] Improve logging and health endpoint metrics
+- [2025-04-15T20:20:28] Improve ffmpeg streaming pipe buffer management
