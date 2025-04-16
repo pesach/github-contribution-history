@@ -858,3 +858,4 @@
 - [2025-04-15T19:26:57] Update dependency lockfiles and requirements
 - [2025-04-15T16:25:49] Enhance dashboard statistics rendering
 - [2025-04-16T20:45:20] Add Redis rate limit backoff handlers
+- [2025-04-16T16:40:51] Update B2 storage chunking parameters
