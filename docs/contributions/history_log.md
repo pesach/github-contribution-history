@@ -871,3 +871,4 @@
 - [2025-04-16T16:02:17] Improve logging and health endpoint metrics
 - [2025-04-16T19:01:35] Update automated pytest test suites
 - [2025-04-16T09:36:58] Update schema migration helpers
+- [2025-04-17T17:11:07] Add Redis rate limit backoff handlers
