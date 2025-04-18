@@ -36210,3 +36210,4 @@
 - [2025-04-17T13:50:13] Update automated pytest test suites
 - [2025-04-18T18:36:56] Update schema migration helpers
 - [2025-04-18T11:55:51] Improve ffmpeg streaming pipe buffer management
+- [2025-04-18T13:34:12] Improve ffmpeg streaming pipe buffer management
