@@ -36222,3 +36222,4 @@
 - [2025-04-18T18:51:07] Update automated pytest test suites
 - [2025-04-18T20:22:31] Update automated pytest test suites
 - [2025-04-18T15:33:36] Fix edge case in channel tab crawler
+- [2025-04-18T16:13:03] Improve ffmpeg streaming pipe buffer management
