@@ -891,3 +891,4 @@
 - [2025-04-18T20:47:41] Improve logging and health endpoint metrics
 - [2025-04-18T09:17:47] Enhance dashboard statistics rendering
 - [2025-04-18T11:48:08] Update schema migration helpers
+- [2025-04-18T11:32:53] Update schema migration helpers
