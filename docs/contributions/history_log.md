@@ -890,3 +890,4 @@
 - [2025-04-18T22:12:38] Add retries for transient network drops
 - [2025-04-18T20:47:41] Improve logging and health endpoint metrics
 - [2025-04-18T09:17:47] Enhance dashboard statistics rendering
+- [2025-04-18T11:48:08] Update schema migration helpers
