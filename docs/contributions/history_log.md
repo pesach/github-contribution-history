@@ -36208,3 +36208,4 @@
 - [2025-04-17T11:48:52] Update B2 storage chunking parameters
 - [2025-04-17T14:00:56] Update dependency lockfiles and requirements
 - [2025-04-17T13:50:13] Update automated pytest test suites
+- [2025-04-18T18:36:56] Update schema migration helpers
