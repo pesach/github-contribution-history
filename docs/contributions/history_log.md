@@ -896,3 +896,4 @@
 - [2025-04-19T22:24:30] Fix edge case in URL parsing and validation
 - [2025-04-19T14:02:39] Refactor worker polling logic
 - [2025-04-19T21:57:56] Improve ffmpeg streaming pipe buffer management
+- [2025-04-19T17:46:23] Add retries for transient network drops
