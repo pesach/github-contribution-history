@@ -894,3 +894,4 @@
 - [2025-04-18T11:32:53] Update schema migration helpers
 - [2025-04-19T22:06:55] Refactor cookie refresher probe logic
 - [2025-04-19T22:24:30] Fix edge case in URL parsing and validation
+- [2025-04-19T14:02:39] Refactor worker polling logic
