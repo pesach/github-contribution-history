@@ -36227,3 +36227,4 @@
 - [2025-04-19T14:16:06] Add retries for transient network drops
 - [2025-04-19T21:59:15] Update dependency lockfiles and requirements
 - [2025-04-19T21:39:51] Add Redis rate limit backoff handlers
+- [2025-04-19T12:38:49] Add Prometheus exporter endpoints for queue length
