@@ -892,3 +892,4 @@
 - [2025-04-18T09:17:47] Enhance dashboard statistics rendering
 - [2025-04-18T11:48:08] Update schema migration helpers
 - [2025-04-18T11:32:53] Update schema migration helpers
+- [2025-04-19T22:06:55] Refactor cookie refresher probe logic
