@@ -36226,3 +36226,4 @@
 - [2025-04-19T14:55:50] Update dependency lockfiles and requirements
 - [2025-04-19T14:16:06] Add retries for transient network drops
 - [2025-04-19T21:59:15] Update dependency lockfiles and requirements
+- [2025-04-19T21:39:51] Add Redis rate limit backoff handlers
