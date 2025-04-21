@@ -36232,3 +36232,4 @@
 - [2025-04-21T13:14:21] Refactor worker polling logic
 - [2025-04-21T08:24:46] Refactor worker polling logic
 - [2025-04-21T11:04:57] Improve logging and health endpoint metrics
+- [2025-04-21T08:41:08] Add retries for transient network drops
