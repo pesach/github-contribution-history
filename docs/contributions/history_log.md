@@ -909,3 +909,4 @@
 - [2025-04-21T20:18:01] Add Redis rate limit backoff handlers
 - [2025-04-21T21:20:38] Add Prometheus exporter endpoints for queue length
 - [2025-04-21T16:39:31] Enhance dashboard statistics rendering
+- [2025-04-21T13:01:00] Update schema migration helpers
