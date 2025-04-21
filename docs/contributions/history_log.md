@@ -900,3 +900,4 @@
 - [2025-04-19T17:02:00] Add Prometheus exporter endpoints for queue length
 - [2025-04-20T20:44:14] Update dependency lockfiles and requirements
 - [2025-04-20T13:40:50] Improve logging and health endpoint metrics
+- [2025-04-20T20:45:25] Add retries for transient network drops
