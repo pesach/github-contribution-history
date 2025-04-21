@@ -911,3 +911,4 @@
 - [2025-04-21T16:39:31] Enhance dashboard statistics rendering
 - [2025-04-21T13:01:00] Update schema migration helpers
 - [2025-04-21T14:27:27] Improve ffmpeg streaming pipe buffer management
+- [2025-04-21T16:19:58] Refactor cookie refresher probe logic
