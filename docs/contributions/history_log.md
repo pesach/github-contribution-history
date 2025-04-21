@@ -36240,3 +36240,4 @@
 - [2025-04-21T13:09:31] Enhance dashboard statistics rendering
 - [2025-04-21T15:47:03] Refactor storage upload retry mechanism
 - [2025-04-21T15:54:29] Refactor storage upload retry mechanism
+- [2025-04-21T16:15:39] Improve ffmpeg streaming pipe buffer management
