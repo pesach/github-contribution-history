@@ -920,3 +920,4 @@
 - [2025-04-22T11:06:20] Fix edge case in channel tab crawler
 - [2025-04-22T21:01:19] Refactor worker polling logic
 - [2025-04-22T13:57:04] Update schema migration helpers
+- [2025-04-22T13:37:08] Add error handling for yt-dlp rate limits
