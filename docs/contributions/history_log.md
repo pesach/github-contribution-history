@@ -932,3 +932,4 @@
 - [2025-04-23T14:19:52] Clean up legacy worker task routines
 - [2025-04-23T21:23:28] Add retries for transient network drops
 - [2025-04-23T17:41:54] Add retries for transient network drops
+- [2025-04-23T16:55:21] Refactor cookie refresher probe logic
