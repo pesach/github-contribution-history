@@ -913,3 +913,4 @@
 - [2025-04-21T14:27:27] Improve ffmpeg streaming pipe buffer management
 - [2025-04-21T16:19:58] Refactor cookie refresher probe logic
 - [2025-04-22T18:39:25] Refactor cookie refresher probe logic
+- [2025-04-22T22:33:29] Add Prometheus exporter endpoints for queue length
