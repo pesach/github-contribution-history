@@ -944,3 +944,4 @@
 - [2025-04-24T08:09:55] Update dependency lockfiles and requirements
 - [2025-04-24T08:31:38] Enhance dashboard statistics rendering
 - [2025-04-24T08:56:23] Update schema migration helpers
+- [2025-04-24T08:11:25] Refactor cookie refresher probe logic
