@@ -941,3 +941,4 @@
 - [2025-04-24T17:40:06] Fix edge case in channel tab crawler
 - [2025-04-24T21:53:04] Add error handling for yt-dlp rate limits
 - [2025-04-24T08:58:47] Fix edge case in channel tab crawler
+- [2025-04-24T08:09:55] Update dependency lockfiles and requirements
