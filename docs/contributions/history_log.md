@@ -943,3 +943,4 @@
 - [2025-04-24T08:58:47] Fix edge case in channel tab crawler
 - [2025-04-24T08:09:55] Update dependency lockfiles and requirements
 - [2025-04-24T08:31:38] Enhance dashboard statistics rendering
+- [2025-04-24T08:56:23] Update schema migration helpers
