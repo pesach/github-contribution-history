@@ -952,3 +952,4 @@
 - [2025-04-25T10:48:11] Update automated pytest test suites
 - [2025-04-25T15:04:50] Improve ffmpeg streaming pipe buffer management
 - [2025-04-25T18:13:56] Refactor worker polling logic
+- [2025-04-25T14:20:14] Add error handling for yt-dlp rate limits
