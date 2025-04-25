@@ -36254,3 +36254,4 @@
 - [2025-04-23T17:20:05] Update dependency lockfiles and requirements
 - [2025-04-23T22:48:59] Enhance dashboard statistics rendering
 - [2025-04-24T19:11:47] Update schema migration helpers
+- [2025-04-24T22:14:08] Refactor worker polling logic
