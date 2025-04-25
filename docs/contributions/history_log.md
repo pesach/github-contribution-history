@@ -946,3 +946,4 @@
 - [2025-04-24T08:56:23] Update schema migration helpers
 - [2025-04-24T08:11:25] Refactor cookie refresher probe logic
 - [2025-04-25T17:35:04] Fix edge case in channel tab crawler
+- [2025-04-25T13:50:58] Refactor worker polling logic
