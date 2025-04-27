@@ -36269,3 +36269,4 @@
 - [2025-04-25T19:34:32] Update schema migration helpers
 - [2025-04-25T17:44:02] Fix edge case in channel tab crawler
 - [2025-04-25T08:46:28] Implement streaming upload chunk buffer optimization
+- [2025-04-26T20:58:52] Add error handling for yt-dlp rate limits
