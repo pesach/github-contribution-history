@@ -972,3 +972,4 @@
 - [2025-04-28T18:46:40] Refactor cookie refresher probe logic
 - [2025-04-28T22:26:12] Update dependency lockfiles and requirements
 - [2025-04-28T08:21:20] Clean up legacy worker task routines
+- [2025-04-28T15:47:05] Refactor worker polling logic
