@@ -963,3 +963,4 @@
 - [2025-04-27T20:54:12] Refactor cookie refresher probe logic
 - [2025-04-27T16:41:58] Add Prometheus exporter endpoints for queue length
 - [2025-04-28T13:35:32] Update automated pytest test suites
+- [2025-04-28T19:37:35] Fix edge case in URL parsing and validation
