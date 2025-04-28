@@ -971,3 +971,4 @@
 - [2025-04-28T21:08:52] Improve ffmpeg streaming pipe buffer management
 - [2025-04-28T18:46:40] Refactor cookie refresher probe logic
 - [2025-04-28T22:26:12] Update dependency lockfiles and requirements
+- [2025-04-28T08:21:20] Clean up legacy worker task routines
