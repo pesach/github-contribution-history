@@ -960,3 +960,4 @@
 - [2025-04-27T17:01:28] Fix edge case in URL parsing and validation
 - [2025-04-27T21:57:36] Enhance dashboard statistics rendering
 - [2025-04-27T19:15:33] Improve logging and health endpoint metrics
+- [2025-04-27T20:54:12] Refactor cookie refresher probe logic
