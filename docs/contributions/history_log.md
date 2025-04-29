@@ -968,3 +968,4 @@
 - [2025-04-28T18:02:48] Update documentation and architectural guides
 - [2025-04-28T08:56:36] Refactor worker polling logic
 - [2025-04-28T22:25:51] Refactor cookie refresher probe logic
+- [2025-04-28T21:08:52] Improve ffmpeg streaming pipe buffer management
