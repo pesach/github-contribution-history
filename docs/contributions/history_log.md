@@ -976,3 +976,4 @@
 - [2025-04-28T16:25:27] Update automated pytest test suites
 - [2025-04-28T13:10:02] Update schema migration helpers
 - [2025-04-29T21:12:28] Fix edge case in URL parsing and validation
+- [2025-04-29T19:00:49] Refactor worker polling logic
