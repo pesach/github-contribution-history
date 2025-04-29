@@ -36288,3 +36288,4 @@
 - [2025-04-29T22:46:39] Update B2 storage chunking parameters
 - [2025-04-29T11:52:08] Optimize PostgreSQL query execution plans
 - [2025-04-29T15:27:44] Fix edge case in URL parsing and validation
+- [2025-04-29T18:40:53] Update schema migration helpers
