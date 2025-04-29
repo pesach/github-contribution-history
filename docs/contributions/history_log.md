@@ -982,3 +982,4 @@
 - [2025-04-29T09:34:34] Add retries for transient network drops
 - [2025-04-29T18:46:45] Clean up legacy worker task routines
 - [2025-04-29T17:59:04] Enhance dashboard statistics rendering
+- [2025-04-29T17:37:03] Clean up legacy worker task routines
