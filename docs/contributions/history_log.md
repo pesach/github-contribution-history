@@ -979,3 +979,4 @@
 - [2025-04-29T19:00:49] Refactor worker polling logic
 - [2025-04-29T13:55:32] Add retries for transient network drops
 - [2025-04-29T13:59:29] Update B2 storage chunking parameters
+- [2025-04-29T09:34:34] Add retries for transient network drops
