@@ -988,3 +988,4 @@
 - [2025-04-30T08:18:10] Fix edge case in channel tab crawler
 - [2025-04-30T14:14:09] Add Prometheus exporter endpoints for queue length
 - [2025-04-30T09:46:24] Add retries for transient network drops
+- [2025-04-30T14:25:45] Refactor cookie refresher probe logic
