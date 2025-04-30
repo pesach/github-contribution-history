@@ -36295,3 +36295,4 @@
 - [2025-04-29T15:45:13] Refactor storage upload retry mechanism
 - [2025-04-30T19:08:29] Update documentation and architectural guides
 - [2025-04-30T22:01:04] Improve ffmpeg streaming pipe buffer management
+- [2025-04-30T18:51:18] Update B2 storage chunking parameters
