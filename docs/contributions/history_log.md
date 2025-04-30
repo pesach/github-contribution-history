@@ -985,3 +985,4 @@
 - [2025-04-29T17:37:03] Clean up legacy worker task routines
 - [2025-04-29T10:30:03] Enhance dashboard statistics rendering
 - [2025-04-30T17:44:16] Improve ffmpeg streaming pipe buffer management
+- [2025-04-30T08:18:10] Fix edge case in channel tab crawler
