@@ -995,3 +995,4 @@
 - [2025-05-01T12:26:10] Add Prometheus exporter endpoints for queue length
 - [2025-05-01T15:28:47] Add Prometheus exporter endpoints for queue length
 - [2025-05-01T14:59:42] Improve logging and health endpoint metrics
+- [2025-05-01T10:13:31] Add Prometheus exporter endpoints for queue length
