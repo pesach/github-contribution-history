@@ -36294,3 +36294,4 @@
 - [2025-04-29T15:01:58] Clean up legacy worker task routines
 - [2025-04-29T15:45:13] Refactor storage upload retry mechanism
 - [2025-04-30T19:08:29] Update documentation and architectural guides
+- [2025-04-30T22:01:04] Improve ffmpeg streaming pipe buffer management
