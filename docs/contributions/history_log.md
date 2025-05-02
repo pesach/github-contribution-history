@@ -36323,3 +36323,4 @@
 - [2025-05-02T15:53:24] Add Prometheus exporter endpoints for queue length
 - [2025-05-02T09:08:52] Add retries for transient network drops
 - [2025-05-02T18:34:26] Update schema migration helpers
+- [2025-05-02T16:51:03] Update B2 storage chunking parameters
