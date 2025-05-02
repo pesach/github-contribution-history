@@ -36304,3 +36304,4 @@
 - [2025-04-30T17:13:12] Enhance dashboard statistics rendering
 - [2025-04-30T19:05:43] Add Redis rate limit backoff handlers
 - [2025-05-01T11:47:10] Improve ffmpeg streaming pipe buffer management
+- [2025-05-01T21:57:17] Add Prometheus exporter endpoints for queue length
