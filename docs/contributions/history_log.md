@@ -36318,3 +36318,4 @@
 - [2025-05-02T08:17:27] Add Prometheus exporter endpoints for queue length
 - [2025-05-02T16:50:19] Implement streaming upload chunk buffer optimization
 - [2025-05-02T21:36:31] Update B2 storage chunking parameters
+- [2025-05-02T13:39:59] Improve logging and health endpoint metrics
