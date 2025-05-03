@@ -36328,3 +36328,4 @@
 - [2025-05-02T20:06:58] Refactor storage upload retry mechanism
 - [2025-05-02T11:51:59] Improve ffmpeg streaming pipe buffer management
 - [2025-05-02T09:17:24] Refactor storage upload retry mechanism
+- [2025-05-03T15:33:27] Add retries for transient network drops
