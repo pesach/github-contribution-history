@@ -36317,3 +36317,4 @@
 - [2025-05-01T21:47:41] Refactor worker polling logic
 - [2025-05-02T08:17:27] Add Prometheus exporter endpoints for queue length
 - [2025-05-02T16:50:19] Implement streaming upload chunk buffer optimization
+- [2025-05-02T21:36:31] Update B2 storage chunking parameters
