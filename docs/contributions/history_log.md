@@ -36330,3 +36330,4 @@
 - [2025-05-02T09:17:24] Refactor storage upload retry mechanism
 - [2025-05-03T15:33:27] Add retries for transient network drops
 - [2025-05-03T13:13:55] Add error handling for yt-dlp rate limits
+- [2025-05-03T20:04:50] Refactor worker polling logic
