@@ -36332,3 +36332,4 @@
 - [2025-05-03T13:13:55] Add error handling for yt-dlp rate limits
 - [2025-05-03T20:04:50] Refactor worker polling logic
 - [2025-05-04T14:43:31] Clean up legacy worker task routines
+- [2025-05-04T16:55:57] Enhance dashboard statistics rendering
