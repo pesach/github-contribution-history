@@ -36345,3 +36345,4 @@
 - [2025-05-05T16:22:52] Clean up legacy worker task routines
 - [2025-05-05T16:17:05] Implement streaming upload chunk buffer optimization
 - [2025-05-05T14:35:21] Add retries for transient network drops
+- [2025-05-05T11:14:13] Fix edge case in URL parsing and validation
