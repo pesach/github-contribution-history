@@ -36334,3 +36334,4 @@
 - [2025-05-04T14:43:31] Clean up legacy worker task routines
 - [2025-05-04T16:55:57] Enhance dashboard statistics rendering
 - [2025-05-04T16:26:40] Update automated pytest test suites
+- [2025-05-05T13:46:01] Add Redis rate limit backoff handlers
