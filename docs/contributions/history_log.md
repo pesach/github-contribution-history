@@ -1013,3 +1013,4 @@
 - [2025-05-05T08:35:23] Update schema migration helpers
 - [2025-05-05T09:30:57] Update dependency lockfiles and requirements
 - [2025-05-05T13:03:15] Add retries for transient network drops
+- [2025-05-05T11:57:11] Enhance dashboard statistics rendering
