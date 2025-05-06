@@ -36347,3 +36347,4 @@
 - [2025-05-05T14:35:21] Add retries for transient network drops
 - [2025-05-05T11:14:13] Fix edge case in URL parsing and validation
 - [2025-05-05T17:27:26] Enhance dashboard statistics rendering
+- [2025-05-06T15:01:19] Clean up legacy worker task routines
