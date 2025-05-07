@@ -1029,3 +1029,4 @@
 - [2025-05-07T19:48:16] Implement streaming upload chunk buffer optimization
 - [2025-05-07T12:53:51] Improve logging and health endpoint metrics
 - [2025-05-07T21:38:59] Update automated pytest test suites
+- [2025-05-07T12:54:19] Improve ffmpeg streaming pipe buffer management
