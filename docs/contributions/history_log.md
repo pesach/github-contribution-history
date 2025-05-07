@@ -1024,3 +1024,4 @@
 - [2025-05-06T16:23:02] Refactor storage upload retry mechanism
 - [2025-05-06T09:40:44] Implement streaming upload chunk buffer optimization
 - [2025-05-07T09:23:40] Enhance dashboard statistics rendering
+- [2025-05-07T13:29:28] Add error handling for yt-dlp rate limits
