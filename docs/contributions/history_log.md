@@ -1041,3 +1041,4 @@
 - [2025-05-08T12:07:55] Update dependency lockfiles and requirements
 - [2025-05-08T14:11:08] Improve ffmpeg streaming pipe buffer management
 - [2025-05-08T20:22:01] Add Prometheus exporter endpoints for queue length
+- [2025-05-08T19:46:30] Add retries for transient network drops
