@@ -1031,3 +1031,4 @@
 - [2025-05-07T21:38:59] Update automated pytest test suites
 - [2025-05-07T12:54:19] Improve ffmpeg streaming pipe buffer management
 - [2025-05-07T20:36:44] Fix edge case in URL parsing and validation
+- [2025-05-08T16:56:36] Update schema migration helpers
