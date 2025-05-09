@@ -1045,3 +1045,4 @@
 - [2025-05-09T08:25:10] Add Prometheus exporter endpoints for queue length
 - [2025-05-09T16:10:39] Update schema migration helpers
 - [2025-05-09T09:28:05] Refactor storage upload retry mechanism
+- [2025-05-09T12:34:09] Improve ffmpeg streaming pipe buffer management
