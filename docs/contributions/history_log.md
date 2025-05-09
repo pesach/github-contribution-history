@@ -1033,3 +1033,4 @@
 - [2025-05-07T20:36:44] Fix edge case in URL parsing and validation
 - [2025-05-08T16:56:36] Update schema migration helpers
 - [2025-05-08T09:56:38] Refactor storage upload retry mechanism
+- [2025-05-08T22:29:41] Update B2 storage chunking parameters
