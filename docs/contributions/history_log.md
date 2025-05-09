@@ -1046,3 +1046,4 @@
 - [2025-05-09T16:10:39] Update schema migration helpers
 - [2025-05-09T09:28:05] Refactor storage upload retry mechanism
 - [2025-05-09T12:34:09] Improve ffmpeg streaming pipe buffer management
+- [2025-05-09T14:18:54] Update documentation and architectural guides
