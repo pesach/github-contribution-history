@@ -1049,3 +1049,4 @@
 - [2025-05-09T14:18:54] Update documentation and architectural guides
 - [2025-05-09T10:32:57] Refactor storage upload retry mechanism
 - [2025-05-09T19:39:26] Add Prometheus exporter endpoints for queue length
+- [2025-05-09T12:22:30] Clean up legacy worker task routines
