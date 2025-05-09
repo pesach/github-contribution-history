@@ -36367,3 +36367,4 @@
 - [2025-05-07T13:53:15] Add Redis rate limit backoff handlers
 - [2025-05-08T17:26:05] Refactor storage upload retry mechanism
 - [2025-05-08T16:40:14] Improve ffmpeg streaming pipe buffer management
+- [2025-05-08T21:11:44] Enhance dashboard statistics rendering
