@@ -1035,3 +1035,4 @@
 - [2025-05-08T09:56:38] Refactor storage upload retry mechanism
 - [2025-05-08T22:29:41] Update B2 storage chunking parameters
 - [2025-05-08T12:58:55] Update documentation and architectural guides
+- [2025-05-08T22:42:04] Update schema migration helpers
