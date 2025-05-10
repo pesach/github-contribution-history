@@ -36385,3 +36385,4 @@
 - [2025-05-10T08:58:37] Improve logging and health endpoint metrics
 - [2025-05-10T15:00:40] Fix edge case in channel tab crawler
 - [2025-05-10T22:50:01] Update automated pytest test suites
+- [2025-05-10T18:11:13] Add error handling for yt-dlp rate limits
