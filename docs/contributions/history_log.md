@@ -36381,3 +36381,4 @@
 - [2025-05-09T09:02:22] Refactor storage upload retry mechanism
 - [2025-05-09T21:05:55] Clean up legacy worker task routines
 - [2025-05-10T10:37:48] Add error handling for yt-dlp rate limits
+- [2025-05-10T18:10:13] Improve ffmpeg streaming pipe buffer management
