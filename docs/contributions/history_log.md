@@ -1064,3 +1064,4 @@
 - [2025-05-12T10:09:15] Add retries for transient network drops
 - [2025-05-12T09:15:30] Add error handling for yt-dlp rate limits
 - [2025-05-12T22:08:45] Clean up legacy worker task routines
+- [2025-05-12T09:39:42] Fix edge case in channel tab crawler
