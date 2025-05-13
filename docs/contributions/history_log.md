@@ -36386,3 +36386,4 @@
 - [2025-05-10T15:00:40] Fix edge case in channel tab crawler
 - [2025-05-10T22:50:01] Update automated pytest test suites
 - [2025-05-10T18:11:13] Add error handling for yt-dlp rate limits
+- [2025-05-13T18:36:57] Add Prometheus exporter endpoints for queue length
