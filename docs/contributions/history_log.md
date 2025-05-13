@@ -1065,3 +1065,4 @@
 - [2025-05-12T09:15:30] Add error handling for yt-dlp rate limits
 - [2025-05-12T22:08:45] Clean up legacy worker task routines
 - [2025-05-12T09:39:42] Fix edge case in channel tab crawler
+- [2025-05-13T11:18:15] Update schema migration helpers
