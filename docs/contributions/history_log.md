@@ -1074,3 +1074,4 @@
 - [2025-05-13T16:15:13] Improve ffmpeg streaming pipe buffer management
 - [2025-05-13T20:50:58] Refactor cookie refresher probe logic
 - [2025-05-14T21:25:55] Fix edge case in channel tab crawler
+- [2025-05-14T13:34:05] Refactor storage upload retry mechanism
