@@ -36397,3 +36397,4 @@
 - [2025-05-14T14:56:48] Clean up legacy worker task routines
 - [2025-05-14T21:55:38] Add retries for transient network drops
 - [2025-05-14T22:45:51] Optimize PostgreSQL query execution plans
+- [2025-05-14T22:55:32] Add Redis rate limit backoff handlers
