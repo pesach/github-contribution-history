@@ -36395,3 +36395,4 @@
 - [2025-05-14T21:59:23] Add Redis rate limit backoff handlers
 - [2025-05-14T19:07:48] Fix edge case in URL parsing and validation
 - [2025-05-14T14:56:48] Clean up legacy worker task routines
+- [2025-05-14T21:55:38] Add retries for transient network drops
