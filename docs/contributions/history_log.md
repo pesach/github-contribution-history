@@ -1082,3 +1082,4 @@
 - [2025-05-14T21:51:05] Improve logging and health endpoint metrics
 - [2025-05-14T10:31:55] Update schema migration helpers
 - [2025-05-14T13:02:36] Improve ffmpeg streaming pipe buffer management
+- [2025-05-15T13:15:06] Add retries for transient network drops
