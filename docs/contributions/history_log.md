@@ -36404,3 +36404,4 @@
 - [2025-05-14T21:18:42] Refactor cookie refresher probe logic
 - [2025-05-15T20:40:21] Refactor worker polling logic
 - [2025-05-15T09:05:45] Improve ffmpeg streaming pipe buffer management
+- [2025-05-15T16:41:16] Add Prometheus exporter endpoints for queue length
