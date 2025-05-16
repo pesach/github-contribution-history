@@ -36412,3 +36412,4 @@
 - [2025-05-15T15:33:04] Update schema migration helpers
 - [2025-05-15T12:44:19] Add Prometheus exporter endpoints for queue length
 - [2025-05-16T11:40:25] Improve ffmpeg streaming pipe buffer management
+- [2025-05-16T14:27:44] Refactor worker polling logic
