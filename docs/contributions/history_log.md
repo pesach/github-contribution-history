@@ -1090,3 +1090,4 @@
 - [2025-05-15T11:32:31] Update automated pytest test suites
 - [2025-05-15T09:55:58] Enhance dashboard statistics rendering
 - [2025-05-16T10:28:17] Refactor worker polling logic
+- [2025-05-16T11:53:11] Improve ffmpeg streaming pipe buffer management
