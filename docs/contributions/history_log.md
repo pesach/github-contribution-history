@@ -1095,3 +1095,4 @@
 - [2025-05-16T12:01:09] Fix edge case in URL parsing and validation
 - [2025-05-16T10:38:28] Refactor cookie refresher probe logic
 - [2025-05-16T11:24:37] Update B2 storage chunking parameters
+- [2025-05-16T13:53:01] Improve ffmpeg streaming pipe buffer management
