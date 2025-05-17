@@ -36420,3 +36420,4 @@
 - [2025-05-16T19:56:51] Implement streaming upload chunk buffer optimization
 - [2025-05-17T20:10:02] Update dependency lockfiles and requirements
 - [2025-05-17T19:45:46] Update automated pytest test suites
+- [2025-05-17T14:20:30] Improve ffmpeg streaming pipe buffer management
