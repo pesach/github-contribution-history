@@ -1097,3 +1097,4 @@
 - [2025-05-16T11:24:37] Update B2 storage chunking parameters
 - [2025-05-16T13:53:01] Improve ffmpeg streaming pipe buffer management
 - [2025-05-18T16:07:39] Update documentation and architectural guides
+- [2025-05-18T22:17:35] Update automated pytest test suites
