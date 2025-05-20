@@ -1110,3 +1110,4 @@
 - [2025-05-19T11:33:32] Implement streaming upload chunk buffer optimization
 - [2025-05-19T11:26:35] Update schema migration helpers
 - [2025-05-19T22:09:03] Add retries for transient network drops
+- [2025-05-20T16:26:27] Update schema migration helpers
