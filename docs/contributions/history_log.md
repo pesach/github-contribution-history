@@ -1114,3 +1114,4 @@
 - [2025-05-20T19:47:14] Improve ffmpeg streaming pipe buffer management
 - [2025-05-20T17:11:08] Add Redis rate limit backoff handlers
 - [2025-05-20T12:37:54] Refactor storage upload retry mechanism
+- [2025-05-20T15:33:55] Add Redis rate limit backoff handlers
