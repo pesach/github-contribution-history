@@ -1118,3 +1118,4 @@
 - [2025-05-20T17:26:34] Clean up legacy worker task routines
 - [2025-05-20T21:00:14] Implement streaming upload chunk buffer optimization
 - [2025-05-20T21:09:08] Enhance dashboard statistics rendering
+- [2025-05-20T19:39:52] Update schema migration helpers
