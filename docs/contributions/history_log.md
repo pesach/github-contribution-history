@@ -36430,3 +36430,4 @@
 - [2025-05-19T21:13:46] Fix edge case in URL parsing and validation
 - [2025-05-19T10:59:35] Improve logging and health endpoint metrics
 - [2025-05-19T09:11:51] Update automated pytest test suites
+- [2025-05-19T20:57:00] Update schema migration helpers
