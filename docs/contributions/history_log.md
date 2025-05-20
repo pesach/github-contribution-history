@@ -1112,3 +1112,4 @@
 - [2025-05-19T22:09:03] Add retries for transient network drops
 - [2025-05-20T16:26:27] Update schema migration helpers
 - [2025-05-20T19:47:14] Improve ffmpeg streaming pipe buffer management
+- [2025-05-20T17:11:08] Add Redis rate limit backoff handlers
