@@ -1121,3 +1121,4 @@
 - [2025-05-20T19:39:52] Update schema migration helpers
 - [2025-05-20T12:09:01] Refactor storage upload retry mechanism
 - [2025-05-20T12:05:31] Refactor cookie refresher probe logic
+- [2025-05-20T21:53:08] Fix edge case in channel tab crawler
