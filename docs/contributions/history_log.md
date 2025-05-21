@@ -36457,3 +36457,4 @@
 - [2025-05-21T16:53:51] Update dependency lockfiles and requirements
 - [2025-05-21T22:44:21] Add Prometheus exporter endpoints for queue length
 - [2025-05-21T16:52:48] Refactor worker polling logic
+- [2025-05-21T17:14:12] Add Prometheus exporter endpoints for queue length
