@@ -36451,3 +36451,4 @@
 - [2025-05-21T16:49:25] Update documentation and architectural guides
 - [2025-05-21T20:02:15] Add error handling for yt-dlp rate limits
 - [2025-05-21T09:42:35] Fix edge case in channel tab crawler
+- [2025-05-21T10:28:57] Add retries for transient network drops
