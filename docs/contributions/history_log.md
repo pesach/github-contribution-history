@@ -1126,3 +1126,4 @@
 - [2025-05-21T16:50:32] Fix edge case in channel tab crawler
 - [2025-05-21T18:46:36] Update dependency lockfiles and requirements
 - [2025-05-21T13:07:36] Enhance dashboard statistics rendering
+- [2025-05-21T20:43:06] Improve ffmpeg streaming pipe buffer management
