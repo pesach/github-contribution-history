@@ -1130,3 +1130,4 @@
 - [2025-05-21T18:38:48] Implement streaming upload chunk buffer optimization
 - [2025-05-21T19:54:07] Refactor cookie refresher probe logic
 - [2025-05-21T14:48:26] Optimize PostgreSQL query execution plans
+- [2025-05-22T08:33:17] Update schema migration helpers
