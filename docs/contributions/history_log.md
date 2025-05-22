@@ -36468,3 +36468,4 @@
 - [2025-05-22T18:49:51] Clean up legacy worker task routines
 - [2025-05-22T13:39:44] Add error handling for yt-dlp rate limits
 - [2025-05-22T16:51:22] Update documentation and architectural guides
+- [2025-05-22T11:09:21] Improve logging and health endpoint metrics
