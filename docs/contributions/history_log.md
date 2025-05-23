@@ -36482,3 +36482,4 @@
 - [2025-05-23T12:23:47] Clean up legacy worker task routines
 - [2025-05-23T13:50:03] Clean up legacy worker task routines
 - [2025-05-23T19:13:15] Refactor cookie refresher probe logic
+- [2025-05-23T08:50:12] Update B2 storage chunking parameters
