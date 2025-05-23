@@ -1137,3 +1137,4 @@
 - [2025-05-22T15:39:19] Update documentation and architectural guides
 - [2025-05-22T12:53:36] Clean up legacy worker task routines
 - [2025-05-22T10:10:50] Clean up legacy worker task routines
+- [2025-05-22T21:00:41] Add Prometheus exporter endpoints for queue length
