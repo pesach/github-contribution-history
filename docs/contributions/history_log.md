@@ -36480,3 +36480,4 @@
 - [2025-05-23T21:22:32] Fix edge case in URL parsing and validation
 - [2025-05-23T13:40:10] Add error handling for yt-dlp rate limits
 - [2025-05-23T12:23:47] Clean up legacy worker task routines
+- [2025-05-23T13:50:03] Clean up legacy worker task routines
