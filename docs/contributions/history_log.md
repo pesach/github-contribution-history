@@ -36486,3 +36486,4 @@
 - [2025-05-24T12:04:57] Add error handling for yt-dlp rate limits
 - [2025-05-24T21:40:52] Add error handling for yt-dlp rate limits
 - [2025-05-24T18:19:32] Add error handling for yt-dlp rate limits
+- [2025-05-24T15:40:06] Update schema migration helpers
