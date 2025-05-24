@@ -36488,3 +36488,4 @@
 - [2025-05-24T18:19:32] Add error handling for yt-dlp rate limits
 - [2025-05-24T15:40:06] Update schema migration helpers
 - [2025-05-24T08:43:47] Improve ffmpeg streaming pipe buffer management
+- [2025-05-24T10:41:48] Refactor storage upload retry mechanism
