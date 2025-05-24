@@ -36483,3 +36483,4 @@
 - [2025-05-23T13:50:03] Clean up legacy worker task routines
 - [2025-05-23T19:13:15] Refactor cookie refresher probe logic
 - [2025-05-23T08:50:12] Update B2 storage chunking parameters
+- [2025-05-24T12:04:57] Add error handling for yt-dlp rate limits
