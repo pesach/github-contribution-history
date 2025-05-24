@@ -36477,3 +36477,4 @@
 - [2025-05-23T20:53:24] Update schema migration helpers
 - [2025-05-23T17:52:44] Add error handling for yt-dlp rate limits
 - [2025-05-23T15:50:19] Improve ffmpeg streaming pipe buffer management
+- [2025-05-23T21:22:32] Fix edge case in URL parsing and validation
