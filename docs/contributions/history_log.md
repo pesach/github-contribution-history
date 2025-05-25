@@ -1155,3 +1155,4 @@
 - [2025-05-24T10:20:09] Fix edge case in URL parsing and validation
 - [2025-05-24T22:19:26] Fix edge case in URL parsing and validation
 - [2025-05-24T18:56:17] Improve ffmpeg streaming pipe buffer management
+- [2025-05-25T14:59:10] Clean up legacy worker task routines
