@@ -1158,3 +1158,4 @@
 - [2025-05-25T14:59:10] Clean up legacy worker task routines
 - [2025-05-25T21:13:34] Clean up legacy worker task routines
 - [2025-05-25T10:49:38] Fix edge case in URL parsing and validation
+- [2025-05-25T10:00:28] Refactor worker polling logic
