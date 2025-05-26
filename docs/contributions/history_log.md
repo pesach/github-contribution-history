@@ -1168,3 +1168,4 @@
 - [2025-05-26T13:10:52] Add error handling for yt-dlp rate limits
 - [2025-05-26T15:46:19] Optimize PostgreSQL query execution plans
 - [2025-05-26T15:52:13] Update automated pytest test suites
+- [2025-05-26T18:40:25] Improve ffmpeg streaming pipe buffer management
