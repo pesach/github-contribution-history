@@ -36497,3 +36497,4 @@
 - [2025-05-26T11:33:20] Refactor cookie refresher probe logic
 - [2025-05-26T18:32:29] Enhance dashboard statistics rendering
 - [2025-05-26T21:53:39] Add retries for transient network drops
+- [2025-05-26T08:42:20] Fix edge case in URL parsing and validation
