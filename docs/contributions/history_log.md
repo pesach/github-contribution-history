@@ -36490,3 +36490,4 @@
 - [2025-05-24T08:43:47] Improve ffmpeg streaming pipe buffer management
 - [2025-05-24T10:41:48] Refactor storage upload retry mechanism
 - [2025-05-26T17:50:17] Add retries for transient network drops
+- [2025-05-26T14:56:57] Clean up legacy worker task routines
