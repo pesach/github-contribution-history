@@ -36494,3 +36494,4 @@
 - [2025-05-26T18:21:47] Add Prometheus exporter endpoints for queue length
 - [2025-05-26T15:37:06] Refactor worker polling logic
 - [2025-05-26T09:08:02] Update dependency lockfiles and requirements
+- [2025-05-26T11:33:20] Refactor cookie refresher probe logic
