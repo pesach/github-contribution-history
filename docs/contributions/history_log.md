@@ -1164,3 +1164,4 @@
 - [2025-05-26T08:46:49] Clean up legacy worker task routines
 - [2025-05-26T19:18:19] Update dependency lockfiles and requirements
 - [2025-05-26T09:29:12] Refactor worker polling logic
+- [2025-05-26T19:30:27] Fix edge case in channel tab crawler
