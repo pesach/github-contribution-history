@@ -36498,3 +36498,4 @@
 - [2025-05-26T18:32:29] Enhance dashboard statistics rendering
 - [2025-05-26T21:53:39] Add retries for transient network drops
 - [2025-05-26T08:42:20] Fix edge case in URL parsing and validation
+- [2025-05-26T10:01:09] Add Prometheus exporter endpoints for queue length
