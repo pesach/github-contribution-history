@@ -1179,3 +1179,4 @@
 - [2025-05-27T12:48:33] Add retries for transient network drops
 - [2025-05-27T13:43:37] Fix edge case in channel tab crawler
 - [2025-05-27T12:01:42] Implement streaming upload chunk buffer optimization
+- [2025-05-27T11:14:31] Add Prometheus exporter endpoints for queue length
