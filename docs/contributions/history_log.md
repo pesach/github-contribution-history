@@ -36510,3 +36510,4 @@
 - [2025-05-27T16:37:14] Update dependency lockfiles and requirements
 - [2025-05-27T19:42:07] Clean up legacy worker task routines
 - [2025-05-27T22:20:24] Refactor storage upload retry mechanism
+- [2025-05-27T19:30:17] Fix edge case in URL parsing and validation
