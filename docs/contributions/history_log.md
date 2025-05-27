@@ -36513,3 +36513,4 @@
 - [2025-05-27T19:30:17] Fix edge case in URL parsing and validation
 - [2025-05-27T12:30:37] Clean up legacy worker task routines
 - [2025-05-27T17:39:38] Update schema migration helpers
+- [2025-05-27T10:45:48] Update documentation and architectural guides
