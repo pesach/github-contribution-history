@@ -36503,3 +36503,4 @@
 - [2025-05-27T21:26:59] Add error handling for yt-dlp rate limits
 - [2025-05-27T14:29:23] Improve ffmpeg streaming pipe buffer management
 - [2025-05-27T09:49:47] Refactor worker polling logic
+- [2025-05-27T13:04:08] Update schema migration helpers
