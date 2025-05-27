@@ -36506,3 +36506,4 @@
 - [2025-05-27T13:04:08] Update schema migration helpers
 - [2025-05-27T12:20:40] Improve logging and health endpoint metrics
 - [2025-05-27T11:04:43] Add Prometheus exporter endpoints for queue length
+- [2025-05-27T17:12:37] Improve ffmpeg streaming pipe buffer management
