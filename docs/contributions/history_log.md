@@ -36501,3 +36501,4 @@
 - [2025-05-26T10:01:09] Add Prometheus exporter endpoints for queue length
 - [2025-05-27T09:45:45] Refactor cookie refresher probe logic
 - [2025-05-27T21:26:59] Add error handling for yt-dlp rate limits
+- [2025-05-27T14:29:23] Improve ffmpeg streaming pipe buffer management
