@@ -1189,3 +1189,4 @@
 - [2025-05-28T22:50:13] Update automated pytest test suites
 - [2025-05-28T12:34:44] Clean up legacy worker task routines
 - [2025-05-28T15:28:41] Improve ffmpeg streaming pipe buffer management
+- [2025-05-28T11:18:38] Improve ffmpeg streaming pipe buffer management
