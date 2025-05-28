@@ -1193,3 +1193,4 @@
 - [2025-05-28T13:34:11] Implement streaming upload chunk buffer optimization
 - [2025-05-28T16:43:01] Add retries for transient network drops
 - [2025-05-28T19:30:54] Enhance dashboard statistics rendering
+- [2025-05-28T11:27:01] Add error handling for yt-dlp rate limits
