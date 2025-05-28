@@ -1196,3 +1196,4 @@
 - [2025-05-28T11:27:01] Add error handling for yt-dlp rate limits
 - [2025-05-28T14:30:23] Update dependency lockfiles and requirements
 - [2025-05-28T19:21:15] Improve ffmpeg streaming pipe buffer management
+- [2025-05-28T16:22:53] Add retries for transient network drops
