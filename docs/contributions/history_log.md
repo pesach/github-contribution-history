@@ -1209,3 +1209,4 @@
 - [2025-05-29T17:11:25] Refactor worker polling logic
 - [2025-05-29T12:04:53] Refactor storage upload retry mechanism
 - [2025-05-29T21:28:38] Clean up legacy worker task routines
+- [2025-05-29T19:49:37] Update dependency lockfiles and requirements
