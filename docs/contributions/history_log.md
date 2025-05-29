@@ -36516,3 +36516,4 @@
 - [2025-05-27T10:45:48] Update documentation and architectural guides
 - [2025-05-29T20:07:18] Update schema migration helpers
 - [2025-05-29T11:47:48] Update documentation and architectural guides
+- [2025-05-29T17:31:30] Add Prometheus exporter endpoints for queue length
