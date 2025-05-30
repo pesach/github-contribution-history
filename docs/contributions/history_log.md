@@ -1214,3 +1214,4 @@
 - [2025-05-30T14:45:17] Update dependency lockfiles and requirements
 - [2025-05-30T17:44:28] Refactor worker polling logic
 - [2025-05-30T15:58:13] Implement streaming upload chunk buffer optimization
+- [2025-05-30T18:18:32] Clean up legacy worker task routines
