@@ -1218,3 +1218,4 @@
 - [2025-05-30T11:45:25] Update automated pytest test suites
 - [2025-05-30T14:29:01] Improve ffmpeg streaming pipe buffer management
 - [2025-05-30T11:53:32] Refactor cookie refresher probe logic
+- [2025-05-30T19:19:15] Update documentation and architectural guides
