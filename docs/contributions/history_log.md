@@ -1216,3 +1216,4 @@
 - [2025-05-30T15:58:13] Implement streaming upload chunk buffer optimization
 - [2025-05-30T18:18:32] Clean up legacy worker task routines
 - [2025-05-30T11:45:25] Update automated pytest test suites
+- [2025-05-30T14:29:01] Improve ffmpeg streaming pipe buffer management
