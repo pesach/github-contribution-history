@@ -1220,3 +1220,4 @@
 - [2025-05-30T11:53:32] Refactor cookie refresher probe logic
 - [2025-05-30T19:19:15] Update documentation and architectural guides
 - [2025-05-30T20:37:02] Implement streaming upload chunk buffer optimization
+- [2025-05-30T08:37:32] Improve logging and health endpoint metrics
