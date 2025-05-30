@@ -1217,3 +1217,4 @@
 - [2025-05-30T18:18:32] Clean up legacy worker task routines
 - [2025-05-30T11:45:25] Update automated pytest test suites
 - [2025-05-30T14:29:01] Improve ffmpeg streaming pipe buffer management
+- [2025-05-30T11:53:32] Refactor cookie refresher probe logic
