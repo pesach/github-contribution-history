@@ -1227,3 +1227,4 @@
 - [2025-05-30T19:08:44] Add Redis rate limit backoff handlers
 - [2025-05-31T09:21:53] Add retries for transient network drops
 - [2025-05-31T21:00:29] Add Redis rate limit backoff handlers
+- [2025-05-31T11:44:30] Add Prometheus exporter endpoints for queue length
