@@ -36525,3 +36525,4 @@
 - [2025-05-30T14:41:53] Refactor worker polling logic
 - [2025-05-30T14:29:28] Fix edge case in URL parsing and validation
 - [2025-05-30T12:13:53] Add Redis rate limit backoff handlers
+- [2025-05-30T20:13:10] Add error handling for yt-dlp rate limits
