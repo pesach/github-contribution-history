@@ -1236,3 +1236,4 @@
 - [2025-06-01T12:52:48] Clean up legacy worker task routines
 - [2025-06-01T18:31:06] Optimize PostgreSQL query execution plans
 - [2025-06-01T12:17:07] Update dependency lockfiles and requirements
+- [2025-06-01T08:03:15] Improve ffmpeg streaming pipe buffer management
