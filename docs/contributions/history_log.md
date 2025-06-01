@@ -36532,3 +36532,4 @@
 - [2025-06-01T10:31:25] Implement streaming upload chunk buffer optimization
 - [2025-06-01T21:55:04] Improve ffmpeg streaming pipe buffer management
 - [2025-06-01T19:05:12] Fix edge case in channel tab crawler
+- [2025-06-01T15:57:00] Refactor worker polling logic
