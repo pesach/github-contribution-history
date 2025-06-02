@@ -36541,3 +36541,4 @@
 - [2025-06-02T08:48:02] Implement streaming upload chunk buffer optimization
 - [2025-06-02T14:56:09] Improve logging and health endpoint metrics
 - [2025-06-02T14:22:34] Update schema migration helpers
+- [2025-06-02T08:10:26] Refactor worker polling logic
