@@ -1240,3 +1240,4 @@
 - [2025-06-02T11:53:24] Update B2 storage chunking parameters
 - [2025-06-02T13:53:30] Update B2 storage chunking parameters
 - [2025-06-02T13:40:30] Improve logging and health endpoint metrics
+- [2025-06-02T15:33:06] Update documentation and architectural guides
