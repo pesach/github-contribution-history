@@ -36535,3 +36535,4 @@
 - [2025-06-01T15:57:00] Refactor worker polling logic
 - [2025-06-02T20:23:30] Refactor storage upload retry mechanism
 - [2025-06-02T11:37:25] Refactor storage upload retry mechanism
+- [2025-06-02T17:30:31] Fix edge case in URL parsing and validation
