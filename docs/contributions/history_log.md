@@ -36548,3 +36548,4 @@
 - [2025-06-03T20:29:51] Update dependency lockfiles and requirements
 - [2025-06-03T15:45:49] Refactor worker polling logic
 - [2025-06-03T18:03:39] Refactor storage upload retry mechanism
+- [2025-06-03T13:19:22] Add Redis rate limit backoff handlers
