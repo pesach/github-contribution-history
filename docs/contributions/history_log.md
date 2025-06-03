@@ -36543,3 +36543,4 @@
 - [2025-06-02T14:22:34] Update schema migration helpers
 - [2025-06-02T08:10:26] Refactor worker polling logic
 - [2025-06-02T20:51:18] Add retries for transient network drops
+- [2025-06-02T22:14:11] Fix edge case in channel tab crawler
