@@ -36533,3 +36533,4 @@
 - [2025-06-01T21:55:04] Improve ffmpeg streaming pipe buffer management
 - [2025-06-01T19:05:12] Fix edge case in channel tab crawler
 - [2025-06-01T15:57:00] Refactor worker polling logic
+- [2025-06-02T20:23:30] Refactor storage upload retry mechanism
