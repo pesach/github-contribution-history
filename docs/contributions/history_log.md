@@ -1253,3 +1253,4 @@
 - [2025-06-03T16:42:36] Refactor storage upload retry mechanism
 - [2025-06-03T13:11:19] Update documentation and architectural guides
 - [2025-06-03T21:21:44] Refactor storage upload retry mechanism
+- [2025-06-03T21:19:03] Improve logging and health endpoint metrics
