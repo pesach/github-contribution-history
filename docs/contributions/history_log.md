@@ -36557,3 +36557,4 @@
 - [2025-06-04T17:56:47] Add error handling for yt-dlp rate limits
 - [2025-06-04T20:57:04] Fix edge case in URL parsing and validation
 - [2025-06-04T20:31:11] Improve ffmpeg streaming pipe buffer management
+- [2025-06-04T08:01:35] Update dependency lockfiles and requirements
