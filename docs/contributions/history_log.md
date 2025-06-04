@@ -36561,3 +36561,4 @@
 - [2025-06-04T22:21:50] Add error handling for yt-dlp rate limits
 - [2025-06-04T19:29:34] Clean up legacy worker task routines
 - [2025-06-04T11:29:41] Implement streaming upload chunk buffer optimization
+- [2025-06-04T12:42:23] Refactor storage upload retry mechanism
