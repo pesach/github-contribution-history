@@ -1276,3 +1276,4 @@
 - [2025-06-05T15:07:08] Refactor cookie refresher probe logic
 - [2025-06-05T15:19:01] Improve ffmpeg streaming pipe buffer management
 - [2025-06-05T21:31:40] Add retries for transient network drops
+- [2025-06-05T09:31:23] Refactor cookie refresher probe logic
