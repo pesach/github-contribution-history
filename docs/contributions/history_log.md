@@ -36578,3 +36578,4 @@
 - [2025-06-05T10:16:07] Update schema migration helpers
 - [2025-06-05T18:22:25] Improve ffmpeg streaming pipe buffer management
 - [2025-06-05T12:08:42] Refactor storage upload retry mechanism
+- [2025-06-05T16:24:06] Refactor worker polling logic
