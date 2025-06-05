@@ -1267,3 +1267,4 @@
 - [2025-06-04T15:22:35] Update documentation and architectural guides
 - [2025-06-05T19:41:00] Refactor worker polling logic
 - [2025-06-05T16:32:18] Optimize PostgreSQL query execution plans
+- [2025-06-05T16:13:15] Clean up legacy worker task routines
