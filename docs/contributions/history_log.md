@@ -1268,3 +1268,4 @@
 - [2025-06-05T19:41:00] Refactor worker polling logic
 - [2025-06-05T16:32:18] Optimize PostgreSQL query execution plans
 - [2025-06-05T16:13:15] Clean up legacy worker task routines
+- [2025-06-05T21:48:42] Refactor cookie refresher probe logic
