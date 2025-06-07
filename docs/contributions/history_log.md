@@ -1280,3 +1280,4 @@
 - [2025-06-05T15:40:19] Fix edge case in channel tab crawler
 - [2025-06-05T13:15:17] Optimize PostgreSQL query execution plans
 - [2025-06-05T21:23:34] Fix edge case in channel tab crawler
+- [2025-06-07T17:02:10] Improve logging and health endpoint metrics
