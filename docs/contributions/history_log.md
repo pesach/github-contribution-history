@@ -1285,3 +1285,4 @@
 - [2025-06-07T15:43:38] Improve ffmpeg streaming pipe buffer management
 - [2025-06-07T14:59:34] Refactor worker polling logic
 - [2025-06-07T08:54:50] Fix edge case in URL parsing and validation
+- [2025-06-08T15:55:20] Add retries for transient network drops
