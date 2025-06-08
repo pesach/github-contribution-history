@@ -1289,3 +1289,4 @@
 - [2025-06-08T21:57:55] Fix edge case in channel tab crawler
 - [2025-06-08T13:08:28] Refactor storage upload retry mechanism
 - [2025-06-08T10:58:29] Improve logging and health endpoint metrics
+- [2025-06-08T08:18:38] Clean up legacy worker task routines
