@@ -1287,3 +1287,4 @@
 - [2025-06-07T08:54:50] Fix edge case in URL parsing and validation
 - [2025-06-08T15:55:20] Add retries for transient network drops
 - [2025-06-08T21:57:55] Fix edge case in channel tab crawler
+- [2025-06-08T13:08:28] Refactor storage upload retry mechanism
