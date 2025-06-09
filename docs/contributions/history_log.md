@@ -36597,3 +36597,4 @@
 - [2025-06-09T11:58:42] Implement streaming upload chunk buffer optimization
 - [2025-06-09T14:34:08] Add Redis rate limit backoff handlers
 - [2025-06-09T18:57:03] Fix edge case in URL parsing and validation
+- [2025-06-09T18:23:10] Refactor worker polling logic
