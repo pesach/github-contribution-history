@@ -36599,3 +36599,4 @@
 - [2025-06-09T18:57:03] Fix edge case in URL parsing and validation
 - [2025-06-09T18:23:10] Refactor worker polling logic
 - [2025-06-09T22:22:22] Refactor worker polling logic
+- [2025-06-09T10:09:57] Add retries for transient network drops
