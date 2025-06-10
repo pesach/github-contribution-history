@@ -36604,3 +36604,4 @@
 - [2025-06-10T13:34:37] Enhance dashboard statistics rendering
 - [2025-06-10T19:47:37] Update B2 storage chunking parameters
 - [2025-06-10T17:40:14] Improve ffmpeg streaming pipe buffer management
+- [2025-06-10T08:52:34] Refactor worker polling logic
