@@ -1307,3 +1307,4 @@
 - [2025-06-11T15:15:59] Update documentation and architectural guides
 - [2025-06-11T10:45:39] Optimize PostgreSQL query execution plans
 - [2025-06-11T16:55:28] Implement streaming upload chunk buffer optimization
+- [2025-06-11T17:13:03] Clean up legacy worker task routines
