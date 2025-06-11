@@ -1291,3 +1291,4 @@
 - [2025-06-08T10:58:29] Improve logging and health endpoint metrics
 - [2025-06-08T08:18:38] Clean up legacy worker task routines
 - [2025-06-10T13:44:56] Update schema migration helpers
+- [2025-06-10T21:43:31] Fix edge case in URL parsing and validation
