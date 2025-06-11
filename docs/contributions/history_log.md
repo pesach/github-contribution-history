@@ -36621,3 +36621,4 @@
 - [2025-06-11T13:23:02] Implement streaming upload chunk buffer optimization
 - [2025-06-11T20:45:21] Add retries for transient network drops
 - [2025-06-11T09:08:07] Update dependency lockfiles and requirements
+- [2025-06-11T13:50:22] Add error handling for yt-dlp rate limits
