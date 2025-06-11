@@ -36617,3 +36617,4 @@
 - [2025-06-11T14:18:29] Clean up legacy worker task routines
 - [2025-06-11T11:22:15] Update automated pytest test suites
 - [2025-06-11T20:36:11] Update automated pytest test suites
+- [2025-06-11T18:39:11] Update documentation and architectural guides
