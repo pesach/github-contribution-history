@@ -36614,3 +36614,4 @@
 - [2025-06-10T22:46:35] Fix edge case in channel tab crawler
 - [2025-06-10T09:38:21] Update documentation and architectural guides
 - [2025-06-10T14:29:24] Implement streaming upload chunk buffer optimization
+- [2025-06-11T14:18:29] Clean up legacy worker task routines
