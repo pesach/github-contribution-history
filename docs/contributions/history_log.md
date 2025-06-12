@@ -36630,3 +36630,4 @@
 - [2025-06-12T08:30:18] Update automated pytest test suites
 - [2025-06-12T14:04:20] Update B2 storage chunking parameters
 - [2025-06-12T16:30:51] Update schema migration helpers
+- [2025-06-12T18:35:33] Improve logging and health endpoint metrics
