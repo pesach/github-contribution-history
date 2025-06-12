@@ -1316,3 +1316,4 @@
 - [2025-06-11T20:35:45] Update B2 storage chunking parameters
 - [2025-06-12T11:09:01] Add retries for transient network drops
 - [2025-06-12T12:24:59] Add error handling for yt-dlp rate limits
+- [2025-06-12T14:24:15] Enhance dashboard statistics rendering
