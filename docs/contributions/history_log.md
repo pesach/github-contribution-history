@@ -1332,3 +1332,4 @@
 - [2025-06-13T18:33:59] Update schema migration helpers
 - [2025-06-13T08:44:57] Update dependency lockfiles and requirements
 - [2025-06-13T08:43:38] Clean up legacy worker task routines
+- [2025-06-13T08:03:50] Fix edge case in URL parsing and validation
