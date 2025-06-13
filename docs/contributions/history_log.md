@@ -36632,3 +36632,4 @@
 - [2025-06-12T16:30:51] Update schema migration helpers
 - [2025-06-12T18:35:33] Improve logging and health endpoint metrics
 - [2025-06-12T18:24:09] Enhance dashboard statistics rendering
+- [2025-06-13T15:05:47] Clean up legacy worker task routines
