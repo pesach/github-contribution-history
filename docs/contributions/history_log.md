@@ -1331,3 +1331,4 @@
 - [2025-06-13T08:37:05] Implement streaming upload chunk buffer optimization
 - [2025-06-13T18:33:59] Update schema migration helpers
 - [2025-06-13T08:44:57] Update dependency lockfiles and requirements
+- [2025-06-13T08:43:38] Clean up legacy worker task routines
