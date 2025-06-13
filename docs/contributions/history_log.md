@@ -1324,3 +1324,4 @@
 - [2025-06-13T09:12:44] Update automated pytest test suites
 - [2025-06-13T14:40:25] Improve ffmpeg streaming pipe buffer management
 - [2025-06-13T15:38:50] Update dependency lockfiles and requirements
+- [2025-06-13T14:11:23] Fix edge case in URL parsing and validation
