@@ -36638,3 +36638,4 @@
 - [2025-06-13T16:55:16] Update dependency lockfiles and requirements
 - [2025-06-13T22:06:03] Add retries for transient network drops
 - [2025-06-13T14:46:06] Update documentation and architectural guides
+- [2025-06-13T12:01:11] Update schema migration helpers
