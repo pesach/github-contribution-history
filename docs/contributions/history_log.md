@@ -1336,3 +1336,4 @@
 - [2025-06-13T19:43:27] Update B2 storage chunking parameters
 - [2025-06-14T15:42:56] Enhance dashboard statistics rendering
 - [2025-06-14T13:20:44] Update B2 storage chunking parameters
+- [2025-06-14T16:20:06] Add error handling for yt-dlp rate limits
