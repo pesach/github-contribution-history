@@ -36641,3 +36641,4 @@
 - [2025-06-13T12:01:11] Update schema migration helpers
 - [2025-06-13T17:22:08] Add error handling for yt-dlp rate limits
 - [2025-06-13T16:38:01] Add Redis rate limit backoff handlers
+- [2025-06-15T12:28:41] Update schema migration helpers
