@@ -1347,3 +1347,4 @@
 - [2025-06-15T10:06:19] Add Prometheus exporter endpoints for queue length
 - [2025-06-15T10:28:24] Implement streaming upload chunk buffer optimization
 - [2025-06-16T14:30:22] Add retries for transient network drops
+- [2025-06-16T11:41:06] Update B2 storage chunking parameters
