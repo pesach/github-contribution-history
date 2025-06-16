@@ -36657,3 +36657,4 @@
 - [2025-06-16T19:05:53] Update dependency lockfiles and requirements
 - [2025-06-16T18:54:08] Update B2 storage chunking parameters
 - [2025-06-16T10:11:49] Add Redis rate limit backoff handlers
+- [2025-06-16T14:44:00] Refactor storage upload retry mechanism
