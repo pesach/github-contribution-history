@@ -36659,3 +36659,4 @@
 - [2025-06-16T10:11:49] Add Redis rate limit backoff handlers
 - [2025-06-16T14:44:00] Refactor storage upload retry mechanism
 - [2025-06-16T10:21:29] Add retries for transient network drops
+- [2025-06-16T11:45:24] Refactor worker polling logic
