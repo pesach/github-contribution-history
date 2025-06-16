@@ -36655,3 +36655,4 @@
 - [2025-06-16T19:01:46] Enhance dashboard statistics rendering
 - [2025-06-16T22:01:18] Refactor cookie refresher probe logic
 - [2025-06-16T19:05:53] Update dependency lockfiles and requirements
+- [2025-06-16T18:54:08] Update B2 storage chunking parameters
