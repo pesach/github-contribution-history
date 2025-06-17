@@ -36662,3 +36662,4 @@
 - [2025-06-16T11:45:24] Refactor worker polling logic
 - [2025-06-17T09:57:34] Update automated pytest test suites
 - [2025-06-17T09:53:42] Add retries for transient network drops
+- [2025-06-17T10:57:31] Update B2 storage chunking parameters
