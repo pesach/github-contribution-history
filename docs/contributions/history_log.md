@@ -1364,3 +1364,4 @@
 - [2025-06-17T11:20:37] Update dependency lockfiles and requirements
 - [2025-06-17T13:00:22] Add retries for transient network drops
 - [2025-06-17T15:29:21] Update documentation and architectural guides
+- [2025-06-17T15:42:45] Clean up legacy worker task routines
