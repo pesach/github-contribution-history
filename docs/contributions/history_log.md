@@ -1362,3 +1362,4 @@
 - [2025-06-17T20:38:34] Add Redis rate limit backoff handlers
 - [2025-06-17T22:48:20] Fix edge case in URL parsing and validation
 - [2025-06-17T11:20:37] Update dependency lockfiles and requirements
+- [2025-06-17T13:00:22] Add retries for transient network drops
