@@ -36669,3 +36669,4 @@
 - [2025-06-17T19:18:28] Implement streaming upload chunk buffer optimization
 - [2025-06-17T15:10:56] Enhance dashboard statistics rendering
 - [2025-06-18T10:19:10] Implement streaming upload chunk buffer optimization
+- [2025-06-18T14:48:57] Refactor worker polling logic
