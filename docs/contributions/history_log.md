@@ -1371,3 +1371,4 @@
 - [2025-06-17T14:56:47] Fix edge case in URL parsing and validation
 - [2025-06-18T10:05:52] Refactor cookie refresher probe logic
 - [2025-06-18T08:35:57] Add retries for transient network drops
+- [2025-06-18T19:29:59] Add error handling for yt-dlp rate limits
