@@ -36685,3 +36685,4 @@
 - [2025-06-19T21:59:15] Improve ffmpeg streaming pipe buffer management
 - [2025-06-19T22:36:23] Implement streaming upload chunk buffer optimization
 - [2025-06-19T12:06:08] Clean up legacy worker task routines
+- [2025-06-19T17:39:49] Add retries for transient network drops
