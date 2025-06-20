@@ -36691,3 +36691,4 @@
 - [2025-06-20T22:15:52] Fix edge case in URL parsing and validation
 - [2025-06-20T22:46:05] Update schema migration helpers
 - [2025-06-20T08:44:08] Enhance dashboard statistics rendering
+- [2025-06-20T15:46:00] Improve ffmpeg streaming pipe buffer management
