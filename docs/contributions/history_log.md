@@ -36699,3 +36699,4 @@
 - [2025-06-20T16:48:10] Update schema migration helpers
 - [2025-06-20T17:22:46] Refactor cookie refresher probe logic
 - [2025-06-20T08:28:46] Update schema migration helpers
+- [2025-06-20T19:59:50] Update schema migration helpers
