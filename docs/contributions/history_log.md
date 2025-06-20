@@ -1386,3 +1386,4 @@
 - [2025-06-20T17:39:47] Update B2 storage chunking parameters
 - [2025-06-20T19:25:05] Implement streaming upload chunk buffer optimization
 - [2025-06-20T18:22:01] Enhance dashboard statistics rendering
+- [2025-06-20T10:08:07] Refactor cookie refresher probe logic
