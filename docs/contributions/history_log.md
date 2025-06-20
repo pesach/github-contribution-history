@@ -36687,3 +36687,4 @@
 - [2025-06-19T12:06:08] Clean up legacy worker task routines
 - [2025-06-19T17:39:49] Add retries for transient network drops
 - [2025-06-19T08:44:05] Add retries for transient network drops
+- [2025-06-20T12:16:15] Update schema migration helpers
