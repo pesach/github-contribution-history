@@ -36688,3 +36688,4 @@
 - [2025-06-19T17:39:49] Add retries for transient network drops
 - [2025-06-19T08:44:05] Add retries for transient network drops
 - [2025-06-20T12:16:15] Update schema migration helpers
+- [2025-06-20T22:15:52] Fix edge case in URL parsing and validation
