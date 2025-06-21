@@ -36701,3 +36701,4 @@
 - [2025-06-20T08:28:46] Update schema migration helpers
 - [2025-06-20T19:59:50] Update schema migration helpers
 - [2025-06-20T16:08:17] Add Redis rate limit backoff handlers
+- [2025-06-21T08:05:48] Update schema migration helpers
