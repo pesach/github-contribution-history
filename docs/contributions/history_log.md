@@ -1391,3 +1391,4 @@
 - [2025-06-20T16:48:43] Improve logging and health endpoint metrics
 - [2025-06-20T13:35:01] Update automated pytest test suites
 - [2025-06-21T08:54:02] Enhance dashboard statistics rendering
+- [2025-06-21T16:10:08] Update schema migration helpers
