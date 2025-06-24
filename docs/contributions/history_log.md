@@ -36714,3 +36714,4 @@
 - [2025-06-23T15:34:38] Fix edge case in URL parsing and validation
 - [2025-06-23T08:16:20] Add error handling for yt-dlp rate limits
 - [2025-06-24T08:22:48] Add error handling for yt-dlp rate limits
+- [2025-06-24T09:43:38] Improve logging and health endpoint metrics
