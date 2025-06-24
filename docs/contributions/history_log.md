@@ -36720,3 +36720,4 @@
 - [2025-06-24T22:11:51] Add Redis rate limit backoff handlers
 - [2025-06-24T16:16:40] Add Prometheus exporter endpoints for queue length
 - [2025-06-24T13:31:25] Update dependency lockfiles and requirements
+- [2025-06-24T08:21:03] Improve ffmpeg streaming pipe buffer management
