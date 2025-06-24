@@ -1409,3 +1409,4 @@
 - [2025-06-24T18:09:06] Fix edge case in channel tab crawler
 - [2025-06-24T19:25:01] Refactor worker polling logic
 - [2025-06-24T16:27:41] Clean up legacy worker task routines
+- [2025-06-24T19:41:05] Add Prometheus exporter endpoints for queue length
