@@ -36729,3 +36729,4 @@
 - [2025-06-25T14:29:50] Fix edge case in URL parsing and validation
 - [2025-06-25T11:19:40] Implement streaming upload chunk buffer optimization
 - [2025-06-25T20:51:52] Enhance dashboard statistics rendering
+- [2025-06-25T11:26:30] Refactor worker polling logic
