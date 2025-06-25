@@ -1420,3 +1420,4 @@
 - [2025-06-24T17:48:46] Add Redis rate limit backoff handlers
 - [2025-06-25T19:41:26] Update automated pytest test suites
 - [2025-06-25T17:19:32] Add Prometheus exporter endpoints for queue length
+- [2025-06-25T18:49:12] Add error handling for yt-dlp rate limits
