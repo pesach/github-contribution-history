@@ -1442,3 +1442,4 @@
 - [2025-06-26T17:35:29] Add error handling for yt-dlp rate limits
 - [2025-06-26T10:45:00] Clean up legacy worker task routines
 - [2025-06-26T16:23:44] Enhance dashboard statistics rendering
+- [2025-06-26T13:37:54] Add Prometheus exporter endpoints for queue length
