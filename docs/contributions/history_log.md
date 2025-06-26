@@ -1434,3 +1434,4 @@
 - [2025-06-25T20:32:35] Add error handling for yt-dlp rate limits
 - [2025-06-25T13:29:31] Add error handling for yt-dlp rate limits
 - [2025-06-26T09:24:11] Update documentation and architectural guides
+- [2025-06-26T13:03:07] Refactor storage upload retry mechanism
