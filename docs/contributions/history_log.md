@@ -1455,3 +1455,4 @@
 - [2025-06-27T09:59:06] Update automated pytest test suites
 - [2025-06-27T19:54:26] Fix edge case in URL parsing and validation
 - [2025-06-27T13:02:54] Refactor worker polling logic
+- [2025-06-27T09:43:04] Refactor worker polling logic
