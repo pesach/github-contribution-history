@@ -36751,3 +36751,4 @@
 - [2025-06-27T19:42:27] Improve ffmpeg streaming pipe buffer management
 - [2025-06-27T12:34:49] Fix edge case in channel tab crawler
 - [2025-06-27T12:34:54] Refactor cookie refresher probe logic
+- [2025-06-27T09:37:47] Clean up legacy worker task routines
