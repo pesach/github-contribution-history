@@ -1443,3 +1443,4 @@
 - [2025-06-26T10:45:00] Clean up legacy worker task routines
 - [2025-06-26T16:23:44] Enhance dashboard statistics rendering
 - [2025-06-26T13:37:54] Add Prometheus exporter endpoints for queue length
+- [2025-06-27T14:16:14] Update documentation and architectural guides
