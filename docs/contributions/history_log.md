@@ -36734,3 +36734,4 @@
 - [2025-06-25T19:55:10] Update B2 storage chunking parameters
 - [2025-06-25T17:22:18] Improve logging and health endpoint metrics
 - [2025-06-26T16:12:46] Improve logging and health endpoint metrics
+- [2025-06-26T20:24:25] Refactor cookie refresher probe logic
