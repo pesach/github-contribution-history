@@ -36772,3 +36772,4 @@
 - [2025-06-30T09:09:41] Fix edge case in URL parsing and validation
 - [2025-06-30T17:13:50] Add retries for transient network drops
 - [2025-06-30T08:01:39] Add error handling for yt-dlp rate limits
+- [2025-06-30T13:37:11] Update dependency lockfiles and requirements
