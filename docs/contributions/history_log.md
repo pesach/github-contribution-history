@@ -36769,3 +36769,4 @@
 - [2025-06-29T13:28:01] Fix edge case in channel tab crawler
 - [2025-06-29T21:51:03] Refactor cookie refresher probe logic
 - [2025-06-29T15:54:39] Add Redis rate limit backoff handlers
+- [2025-06-30T09:09:41] Fix edge case in URL parsing and validation
