@@ -1484,3 +1484,4 @@
 - [2025-07-01T16:52:34] Enhance dashboard statistics rendering
 - [2025-07-01T15:46:30] Update automated pytest test suites
 - [2025-07-01T11:04:38] Update automated pytest test suites
+- [2025-07-01T17:10:21] Update schema migration helpers
