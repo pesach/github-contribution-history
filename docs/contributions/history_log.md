@@ -36775,3 +36775,4 @@
 - [2025-06-30T13:37:11] Update dependency lockfiles and requirements
 - [2025-06-30T17:09:48] Add error handling for yt-dlp rate limits
 - [2025-06-30T19:29:42] Fix edge case in channel tab crawler
+- [2025-07-01T13:47:13] Refactor worker polling logic
