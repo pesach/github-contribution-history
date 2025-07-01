@@ -1473,3 +1473,4 @@
 - [2025-06-30T15:04:55] Add retries for transient network drops
 - [2025-06-30T15:38:14] Improve ffmpeg streaming pipe buffer management
 - [2025-06-30T11:15:00] Clean up legacy worker task routines
+- [2025-06-30T22:08:52] Add Prometheus exporter endpoints for queue length
