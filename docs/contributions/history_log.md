@@ -1477,3 +1477,4 @@
 - [2025-07-01T11:56:16] Fix edge case in channel tab crawler
 - [2025-07-01T10:12:19] Clean up legacy worker task routines
 - [2025-07-01T14:13:15] Clean up legacy worker task routines
+- [2025-07-01T11:33:25] Add error handling for yt-dlp rate limits
