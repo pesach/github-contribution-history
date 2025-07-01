@@ -1475,3 +1475,4 @@
 - [2025-06-30T11:15:00] Clean up legacy worker task routines
 - [2025-06-30T22:08:52] Add Prometheus exporter endpoints for queue length
 - [2025-07-01T11:56:16] Fix edge case in channel tab crawler
+- [2025-07-01T10:12:19] Clean up legacy worker task routines
