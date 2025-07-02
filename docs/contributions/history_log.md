@@ -1487,3 +1487,4 @@
 - [2025-07-01T17:10:21] Update schema migration helpers
 - [2025-07-02T11:49:40] Update automated pytest test suites
 - [2025-07-02T17:26:54] Update dependency lockfiles and requirements
+- [2025-07-02T11:59:41] Add error handling for yt-dlp rate limits
