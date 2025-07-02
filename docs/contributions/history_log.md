@@ -1488,3 +1488,4 @@
 - [2025-07-02T11:49:40] Update automated pytest test suites
 - [2025-07-02T17:26:54] Update dependency lockfiles and requirements
 - [2025-07-02T11:59:41] Add error handling for yt-dlp rate limits
+- [2025-07-02T10:16:48] Fix edge case in URL parsing and validation
