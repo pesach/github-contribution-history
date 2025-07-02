@@ -36786,3 +36786,4 @@
 - [2025-07-01T11:31:02] Update schema migration helpers
 - [2025-07-01T19:24:28] Add retries for transient network drops
 - [2025-07-02T18:23:54] Fix edge case in channel tab crawler
+- [2025-07-02T17:04:46] Improve logging and health endpoint metrics
