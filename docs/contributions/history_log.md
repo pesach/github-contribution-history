@@ -36797,3 +36797,4 @@
 - [2025-07-02T22:40:34] Implement streaming upload chunk buffer optimization
 - [2025-07-02T18:37:03] Improve logging and health endpoint metrics
 - [2025-07-02T11:01:01] Add error handling for yt-dlp rate limits
+- [2025-07-02T08:01:39] Fix edge case in URL parsing and validation
