@@ -36793,3 +36793,4 @@
 - [2025-07-02T13:26:21] Add Prometheus exporter endpoints for queue length
 - [2025-07-02T21:05:17] Update dependency lockfiles and requirements
 - [2025-07-02T16:07:46] Add error handling for yt-dlp rate limits
+- [2025-07-02T12:37:13] Improve logging and health endpoint metrics
