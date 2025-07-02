@@ -1490,3 +1490,4 @@
 - [2025-07-02T11:59:41] Add error handling for yt-dlp rate limits
 - [2025-07-02T10:16:48] Fix edge case in URL parsing and validation
 - [2025-07-02T12:52:20] Improve logging and health endpoint metrics
+- [2025-07-02T19:16:34] Fix edge case in URL parsing and validation
