@@ -1495,3 +1495,4 @@
 - [2025-07-02T16:03:15] Add Prometheus exporter endpoints for queue length
 - [2025-07-02T17:00:13] Add Prometheus exporter endpoints for queue length
 - [2025-07-02T09:58:02] Add Prometheus exporter endpoints for queue length
+- [2025-07-02T22:30:47] Add error handling for yt-dlp rate limits
