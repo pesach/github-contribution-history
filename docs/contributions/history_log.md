@@ -36806,3 +36806,4 @@
 - [2025-07-04T19:31:17] Fix edge case in channel tab crawler
 - [2025-07-04T12:14:27] Refactor worker polling logic
 - [2025-07-04T13:05:04] Refactor cookie refresher probe logic
+- [2025-07-04T15:04:19] Improve logging and health endpoint metrics
