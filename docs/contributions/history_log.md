@@ -36800,3 +36800,4 @@
 - [2025-07-02T08:01:39] Fix edge case in URL parsing and validation
 - [2025-07-02T08:40:29] Add Prometheus exporter endpoints for queue length
 - [2025-07-04T18:37:30] Add error handling for yt-dlp rate limits
+- [2025-07-04T18:14:42] Improve ffmpeg streaming pipe buffer management
