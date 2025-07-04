@@ -1507,3 +1507,4 @@
 - [2025-07-04T10:05:35] Update B2 storage chunking parameters
 - [2025-07-04T18:44:10] Clean up legacy worker task routines
 - [2025-07-04T21:52:57] Implement streaming upload chunk buffer optimization
+- [2025-07-04T13:04:31] Clean up legacy worker task routines
