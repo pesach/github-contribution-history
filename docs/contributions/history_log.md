@@ -1503,3 +1503,4 @@
 - [2025-07-04T20:41:21] Add Prometheus exporter endpoints for queue length
 - [2025-07-04T19:49:24] Improve logging and health endpoint metrics
 - [2025-07-04T11:13:02] Add Prometheus exporter endpoints for queue length
+- [2025-07-04T08:54:24] Clean up legacy worker task routines
