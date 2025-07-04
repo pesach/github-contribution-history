@@ -1504,3 +1504,4 @@
 - [2025-07-04T19:49:24] Improve logging and health endpoint metrics
 - [2025-07-04T11:13:02] Add Prometheus exporter endpoints for queue length
 - [2025-07-04T08:54:24] Clean up legacy worker task routines
+- [2025-07-04T10:05:35] Update B2 storage chunking parameters
