@@ -1510,3 +1510,4 @@
 - [2025-07-04T13:04:31] Clean up legacy worker task routines
 - [2025-07-05T15:04:18] Refactor storage upload retry mechanism
 - [2025-07-05T22:33:48] Add retries for transient network drops
+- [2025-07-05T11:41:45] Add Redis rate limit backoff handlers
