@@ -1515,3 +1515,4 @@
 - [2025-07-05T19:20:07] Add retries for transient network drops
 - [2025-07-06T14:11:46] Update documentation and architectural guides
 - [2025-07-06T12:59:30] Update B2 storage chunking parameters
+- [2025-07-06T13:36:49] Improve ffmpeg streaming pipe buffer management
