@@ -36808,3 +36808,4 @@
 - [2025-07-04T13:05:04] Refactor cookie refresher probe logic
 - [2025-07-04T15:04:19] Improve logging and health endpoint metrics
 - [2025-07-06T20:53:38] Clean up legacy worker task routines
+- [2025-07-06T13:23:34] Add Redis rate limit backoff handlers
