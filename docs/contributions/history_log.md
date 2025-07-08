@@ -36816,3 +36816,4 @@
 - [2025-07-07T15:23:01] Fix edge case in URL parsing and validation
 - [2025-07-07T22:05:45] Improve logging and health endpoint metrics
 - [2025-07-07T18:42:25] Optimize PostgreSQL query execution plans
+- [2025-07-07T22:50:50] Clean up legacy worker task routines
