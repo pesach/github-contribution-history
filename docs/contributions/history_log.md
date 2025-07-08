@@ -36820,3 +36820,4 @@
 - [2025-07-07T08:23:47] Refactor cookie refresher probe logic
 - [2025-07-07T15:45:53] Update documentation and architectural guides
 - [2025-07-08T19:28:32] Refactor cookie refresher probe logic
+- [2025-07-08T09:45:41] Refactor worker polling logic
