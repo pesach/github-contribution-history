@@ -36828,3 +36828,4 @@
 - [2025-07-08T12:12:46] Update B2 storage chunking parameters
 - [2025-07-08T09:40:27] Improve ffmpeg streaming pipe buffer management
 - [2025-07-09T22:10:11] Refactor cookie refresher probe logic
+- [2025-07-09T09:54:21] Enhance dashboard statistics rendering
