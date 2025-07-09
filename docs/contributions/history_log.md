@@ -36829,3 +36829,4 @@
 - [2025-07-08T09:40:27] Improve ffmpeg streaming pipe buffer management
 - [2025-07-09T22:10:11] Refactor cookie refresher probe logic
 - [2025-07-09T09:54:21] Enhance dashboard statistics rendering
+- [2025-07-09T18:34:06] Fix edge case in URL parsing and validation
