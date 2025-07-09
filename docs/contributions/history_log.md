@@ -36833,3 +36833,4 @@
 - [2025-07-09T18:27:33] Update B2 storage chunking parameters
 - [2025-07-09T18:43:03] Enhance dashboard statistics rendering
 - [2025-07-09T10:25:24] Update automated pytest test suites
+- [2025-07-09T16:48:21] Improve ffmpeg streaming pipe buffer management
