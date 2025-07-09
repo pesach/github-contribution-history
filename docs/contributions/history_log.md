@@ -1532,3 +1532,4 @@
 - [2025-07-08T08:22:53] Update automated pytest test suites
 - [2025-07-08T12:32:22] Fix edge case in channel tab crawler
 - [2025-07-09T22:41:50] Add retries for transient network drops
+- [2025-07-09T18:28:00] Refactor cookie refresher probe logic
