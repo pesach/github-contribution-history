@@ -1553,3 +1553,4 @@
 - [2025-07-10T17:04:23] Improve logging and health endpoint metrics
 - [2025-07-10T11:20:56] Update automated pytest test suites
 - [2025-07-10T20:07:37] Improve ffmpeg streaming pipe buffer management
+- [2025-07-10T13:17:39] Improve ffmpeg streaming pipe buffer management
