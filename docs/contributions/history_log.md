@@ -1549,3 +1549,4 @@
 - [2025-07-10T15:16:55] Refactor cookie refresher probe logic
 - [2025-07-10T19:44:24] Improve logging and health endpoint metrics
 - [2025-07-10T19:35:19] Improve ffmpeg streaming pipe buffer management
+- [2025-07-10T13:44:40] Fix edge case in URL parsing and validation
