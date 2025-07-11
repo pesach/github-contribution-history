@@ -36852,3 +36852,4 @@
 - [2025-07-11T22:33:20] Update automated pytest test suites
 - [2025-07-11T14:36:43] Update automated pytest test suites
 - [2025-07-11T17:53:07] Refactor worker polling logic
+- [2025-07-11T08:23:46] Improve ffmpeg streaming pipe buffer management
