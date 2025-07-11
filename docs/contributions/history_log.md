@@ -1544,3 +1544,4 @@
 - [2025-07-09T20:40:22] Refactor cookie refresher probe logic
 - [2025-07-09T17:33:36] Fix edge case in channel tab crawler
 - [2025-07-10T18:33:17] Refactor cookie refresher probe logic
+- [2025-07-10T21:30:50] Add error handling for yt-dlp rate limits
