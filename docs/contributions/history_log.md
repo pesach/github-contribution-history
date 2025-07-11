@@ -36848,3 +36848,4 @@
 - [2025-07-10T20:13:41] Update schema migration helpers
 - [2025-07-10T20:08:01] Improve ffmpeg streaming pipe buffer management
 - [2025-07-10T08:24:36] Implement streaming upload chunk buffer optimization
+- [2025-07-11T17:35:40] Update B2 storage chunking parameters
