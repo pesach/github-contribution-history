@@ -1570,3 +1570,4 @@
 - [2025-07-11T10:49:08] Add Prometheus exporter endpoints for queue length
 - [2025-07-11T18:21:27] Update dependency lockfiles and requirements
 - [2025-07-12T08:34:46] Clean up legacy worker task routines
+- [2025-07-12T16:41:31] Update schema migration helpers
