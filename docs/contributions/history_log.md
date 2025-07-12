@@ -1571,3 +1571,4 @@
 - [2025-07-11T18:21:27] Update dependency lockfiles and requirements
 - [2025-07-12T08:34:46] Clean up legacy worker task routines
 - [2025-07-12T16:41:31] Update schema migration helpers
+- [2025-07-12T14:42:37] Fix edge case in channel tab crawler
