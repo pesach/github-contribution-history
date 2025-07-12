@@ -1572,3 +1572,4 @@
 - [2025-07-12T08:34:46] Clean up legacy worker task routines
 - [2025-07-12T16:41:31] Update schema migration helpers
 - [2025-07-12T14:42:37] Fix edge case in channel tab crawler
+- [2025-07-12T16:47:46] Update schema migration helpers
