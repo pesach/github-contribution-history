@@ -1575,3 +1575,4 @@
 - [2025-07-12T16:47:46] Update schema migration helpers
 - [2025-07-14T15:08:27] Update dependency lockfiles and requirements
 - [2025-07-14T17:19:50] Add Prometheus exporter endpoints for queue length
+- [2025-07-14T14:19:40] Enhance dashboard statistics rendering
