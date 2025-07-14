@@ -36871,3 +36871,4 @@
 - [2025-07-14T22:38:36] Clean up legacy worker task routines
 - [2025-07-14T22:08:41] Improve ffmpeg streaming pipe buffer management
 - [2025-07-14T17:26:25] Fix edge case in channel tab crawler
+- [2025-07-14T15:01:11] Update documentation and architectural guides
