@@ -36873,3 +36873,4 @@
 - [2025-07-14T17:26:25] Fix edge case in channel tab crawler
 - [2025-07-14T15:01:11] Update documentation and architectural guides
 - [2025-07-14T13:39:44] Update dependency lockfiles and requirements
+- [2025-07-14T10:36:00] Improve ffmpeg streaming pipe buffer management
