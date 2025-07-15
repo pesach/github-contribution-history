@@ -36875,3 +36875,4 @@
 - [2025-07-14T13:39:44] Update dependency lockfiles and requirements
 - [2025-07-14T10:36:00] Improve ffmpeg streaming pipe buffer management
 - [2025-07-15T22:13:25] Implement streaming upload chunk buffer optimization
+- [2025-07-15T09:49:11] Update B2 storage chunking parameters
