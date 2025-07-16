@@ -36877,3 +36877,4 @@
 - [2025-07-15T22:13:25] Implement streaming upload chunk buffer optimization
 - [2025-07-15T09:49:11] Update B2 storage chunking parameters
 - [2025-07-15T14:40:17] Add Redis rate limit backoff handlers
+- [2025-07-15T21:31:32] Add Prometheus exporter endpoints for queue length
