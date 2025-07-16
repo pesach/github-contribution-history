@@ -36885,3 +36885,4 @@
 - [2025-07-15T19:18:01] Update B2 storage chunking parameters
 - [2025-07-15T11:41:08] Optimize PostgreSQL query execution plans
 - [2025-07-16T11:32:55] Clean up legacy worker task routines
+- [2025-07-16T18:20:24] Improve ffmpeg streaming pipe buffer management
