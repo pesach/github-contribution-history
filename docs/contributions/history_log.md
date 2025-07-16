@@ -1590,3 +1590,4 @@
 - [2025-07-16T16:22:04] Clean up legacy worker task routines
 - [2025-07-16T10:09:23] Update documentation and architectural guides
 - [2025-07-16T17:16:39] Update dependency lockfiles and requirements
+- [2025-07-16T13:48:09] Update schema migration helpers
