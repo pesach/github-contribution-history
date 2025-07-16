@@ -1599,3 +1599,4 @@
 - [2025-07-16T17:13:50] Refactor worker polling logic
 - [2025-07-16T22:30:36] Refactor storage upload retry mechanism
 - [2025-07-16T08:49:53] Improve ffmpeg streaming pipe buffer management
+- [2025-07-16T18:54:54] Update documentation and architectural guides
