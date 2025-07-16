@@ -1592,3 +1592,4 @@
 - [2025-07-16T17:16:39] Update dependency lockfiles and requirements
 - [2025-07-16T13:48:09] Update schema migration helpers
 - [2025-07-16T08:44:32] Add error handling for yt-dlp rate limits
+- [2025-07-16T11:46:10] Improve ffmpeg streaming pipe buffer management
