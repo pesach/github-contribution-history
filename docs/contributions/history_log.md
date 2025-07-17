@@ -1606,3 +1606,4 @@
 - [2025-07-17T20:16:30] Add Redis rate limit backoff handlers
 - [2025-07-17T13:54:14] Add retries for transient network drops
 - [2025-07-17T12:05:56] Optimize PostgreSQL query execution plans
+- [2025-07-17T18:17:02] Update schema migration helpers
