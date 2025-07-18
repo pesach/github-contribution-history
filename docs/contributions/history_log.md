@@ -1603,3 +1603,4 @@
 - [2025-07-17T21:03:48] Add error handling for yt-dlp rate limits
 - [2025-07-17T13:48:23] Update automated pytest test suites
 - [2025-07-17T13:38:34] Update documentation and architectural guides
+- [2025-07-17T20:16:30] Add Redis rate limit backoff handlers
