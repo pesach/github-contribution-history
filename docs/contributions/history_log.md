@@ -1609,3 +1609,4 @@
 - [2025-07-17T18:17:02] Update schema migration helpers
 - [2025-07-17T09:47:14] Optimize PostgreSQL query execution plans
 - [2025-07-17T21:40:26] Improve ffmpeg streaming pipe buffer management
+- [2025-07-18T19:28:28] Add retries for transient network drops
