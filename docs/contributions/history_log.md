@@ -1611,3 +1611,4 @@
 - [2025-07-17T21:40:26] Improve ffmpeg streaming pipe buffer management
 - [2025-07-18T19:28:28] Add retries for transient network drops
 - [2025-07-18T22:51:59] Update documentation and architectural guides
+- [2025-07-18T22:14:28] Update documentation and architectural guides
