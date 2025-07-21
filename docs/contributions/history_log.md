@@ -36912,3 +36912,4 @@
 - [2025-07-21T13:58:54] Update B2 storage chunking parameters
 - [2025-07-21T15:22:47] Update automated pytest test suites
 - [2025-07-21T08:52:12] Add error handling for yt-dlp rate limits
+- [2025-07-21T08:33:53] Update documentation and architectural guides
