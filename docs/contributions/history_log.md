@@ -1624,3 +1624,4 @@
 - [2025-07-21T09:22:07] Add retries for transient network drops
 - [2025-07-21T20:54:35] Clean up legacy worker task routines
 - [2025-07-21T19:49:37] Add error handling for yt-dlp rate limits
+- [2025-07-21T16:34:00] Update dependency lockfiles and requirements
