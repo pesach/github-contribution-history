@@ -36908,3 +36908,4 @@
 - [2025-07-20T15:33:36] Enhance dashboard statistics rendering
 - [2025-07-20T13:41:38] Update dependency lockfiles and requirements
 - [2025-07-20T12:15:54] Add error handling for yt-dlp rate limits
+- [2025-07-21T08:34:11] Add Prometheus exporter endpoints for queue length
