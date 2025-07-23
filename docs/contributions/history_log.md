@@ -1655,3 +1655,4 @@
 - [2025-07-23T10:47:05] Add Prometheus exporter endpoints for queue length
 - [2025-07-23T19:07:34] Fix edge case in channel tab crawler
 - [2025-07-23T21:24:40] Optimize PostgreSQL query execution plans
+- [2025-07-23T11:16:11] Add error handling for yt-dlp rate limits
