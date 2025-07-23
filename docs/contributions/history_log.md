@@ -36929,3 +36929,4 @@
 - [2025-07-22T19:04:22] Fix edge case in URL parsing and validation
 - [2025-07-23T18:39:56] Update dependency lockfiles and requirements
 - [2025-07-23T21:02:57] Update B2 storage chunking parameters
+- [2025-07-23T09:24:43] Add Prometheus exporter endpoints for queue length
