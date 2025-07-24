@@ -1661,3 +1661,4 @@
 - [2025-07-23T19:30:33] Enhance dashboard statistics rendering
 - [2025-07-23T14:35:41] Add retries for transient network drops
 - [2025-07-24T18:57:43] Add retries for transient network drops
+- [2025-07-24T17:44:09] Add error handling for yt-dlp rate limits
