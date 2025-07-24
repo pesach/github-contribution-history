@@ -1669,3 +1669,4 @@
 - [2025-07-24T20:50:40] Refactor cookie refresher probe logic
 - [2025-07-24T13:14:17] Enhance dashboard statistics rendering
 - [2025-07-24T22:21:59] Clean up legacy worker task routines
+- [2025-07-24T18:26:35] Add Prometheus exporter endpoints for queue length
