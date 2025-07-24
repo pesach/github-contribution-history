@@ -36951,3 +36951,4 @@
 - [2025-07-24T16:00:17] Add Redis rate limit backoff handlers
 - [2025-07-24T15:26:26] Fix edge case in channel tab crawler
 - [2025-07-24T17:29:27] Update schema migration helpers
+- [2025-07-24T16:57:48] Add retries for transient network drops
