@@ -36936,3 +36936,4 @@
 - [2025-07-23T11:55:08] Refactor storage upload retry mechanism
 - [2025-07-23T14:44:06] Add Redis rate limit backoff handlers
 - [2025-07-23T14:18:45] Add error handling for yt-dlp rate limits
+- [2025-07-23T21:12:21] Clean up legacy worker task routines
