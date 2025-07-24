@@ -1654,3 +1654,4 @@
 - [2025-07-23T13:17:59] Improve logging and health endpoint metrics
 - [2025-07-23T10:47:05] Add Prometheus exporter endpoints for queue length
 - [2025-07-23T19:07:34] Fix edge case in channel tab crawler
+- [2025-07-23T21:24:40] Optimize PostgreSQL query execution plans
