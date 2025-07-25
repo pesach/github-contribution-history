@@ -1666,3 +1666,4 @@
 - [2025-07-24T20:25:10] Fix edge case in URL parsing and validation
 - [2025-07-24T18:13:52] Update documentation and architectural guides
 - [2025-07-24T18:51:47] Enhance dashboard statistics rendering
+- [2025-07-24T20:50:40] Refactor cookie refresher probe logic
