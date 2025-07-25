@@ -1672,3 +1672,4 @@
 - [2025-07-24T18:26:35] Add Prometheus exporter endpoints for queue length
 - [2025-07-24T14:48:06] Update automated pytest test suites
 - [2025-07-24T20:05:02] Update B2 storage chunking parameters
+- [2025-07-25T18:12:56] Add retries for transient network drops
