@@ -1676,3 +1676,4 @@
 - [2025-07-25T22:33:47] Add error handling for yt-dlp rate limits
 - [2025-07-25T08:01:09] Fix edge case in URL parsing and validation
 - [2025-07-25T13:27:39] Add Redis rate limit backoff handlers
+- [2025-07-25T08:25:30] Refactor storage upload retry mechanism
