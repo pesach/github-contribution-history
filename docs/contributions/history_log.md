@@ -1673,3 +1673,4 @@
 - [2025-07-24T14:48:06] Update automated pytest test suites
 - [2025-07-24T20:05:02] Update B2 storage chunking parameters
 - [2025-07-25T18:12:56] Add retries for transient network drops
+- [2025-07-25T22:33:47] Add error handling for yt-dlp rate limits
