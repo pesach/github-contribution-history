@@ -36964,3 +36964,4 @@
 - [2025-07-25T21:15:29] Add Redis rate limit backoff handlers
 - [2025-07-25T14:53:57] Update schema migration helpers
 - [2025-07-25T18:12:17] Update B2 storage chunking parameters
+- [2025-07-26T09:39:07] Improve logging and health endpoint metrics
