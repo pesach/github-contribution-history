@@ -36967,3 +36967,4 @@
 - [2025-07-26T09:39:07] Improve logging and health endpoint metrics
 - [2025-07-26T09:46:37] Refactor cookie refresher probe logic
 - [2025-07-26T12:01:20] Refactor worker polling logic
+- [2025-07-26T17:43:21] Update documentation and architectural guides
