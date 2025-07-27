@@ -36970,3 +36970,4 @@
 - [2025-07-26T17:43:21] Update documentation and architectural guides
 - [2025-07-27T21:07:35] Enhance dashboard statistics rendering
 - [2025-07-27T20:57:59] Fix edge case in channel tab crawler
+- [2025-07-27T09:18:04] Refactor cookie refresher probe logic
