@@ -1686,3 +1686,4 @@
 - [2025-07-25T17:09:55] Refactor cookie refresher probe logic
 - [2025-07-25T14:51:29] Fix edge case in channel tab crawler
 - [2025-07-25T14:54:04] Refactor worker polling logic
+- [2025-07-28T15:22:03] Refactor worker polling logic
