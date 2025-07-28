@@ -36982,3 +36982,4 @@
 - [2025-07-28T19:45:52] Refactor cookie refresher probe logic
 - [2025-07-28T08:58:30] Update schema migration helpers
 - [2025-07-28T20:48:23] Add retries for transient network drops
+- [2025-07-28T13:58:54] Add retries for transient network drops
