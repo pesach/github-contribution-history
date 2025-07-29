@@ -36992,3 +36992,4 @@
 - [2025-07-29T12:51:46] Add retries for transient network drops
 - [2025-07-29T15:16:15] Optimize PostgreSQL query execution plans
 - [2025-07-29T19:36:18] Update dependency lockfiles and requirements
+- [2025-07-29T09:00:04] Add error handling for yt-dlp rate limits
