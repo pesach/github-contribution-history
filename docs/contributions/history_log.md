@@ -1694,3 +1694,4 @@
 - [2025-07-28T16:17:09] Clean up legacy worker task routines
 - [2025-07-29T17:28:04] Add Prometheus exporter endpoints for queue length
 - [2025-07-29T11:33:49] Refactor cookie refresher probe logic
+- [2025-07-29T15:32:44] Update schema migration helpers
