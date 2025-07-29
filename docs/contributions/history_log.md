@@ -36989,3 +36989,4 @@
 - [2025-07-29T16:58:55] Clean up legacy worker task routines
 - [2025-07-29T08:02:17] Update documentation and architectural guides
 - [2025-07-29T20:21:42] Refactor worker polling logic
+- [2025-07-29T12:51:46] Add retries for transient network drops
