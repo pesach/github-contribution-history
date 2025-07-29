@@ -36986,3 +36986,4 @@
 - [2025-07-28T09:55:53] Update schema migration helpers
 - [2025-07-28T14:37:32] Clean up legacy worker task routines
 - [2025-07-29T15:44:12] Add Prometheus exporter endpoints for queue length
+- [2025-07-29T16:58:55] Clean up legacy worker task routines
