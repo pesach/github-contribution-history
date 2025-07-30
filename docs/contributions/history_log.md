@@ -1703,3 +1703,4 @@
 - [2025-07-29T08:24:45] Update schema migration helpers
 - [2025-07-29T10:54:37] Clean up legacy worker task routines
 - [2025-07-29T16:54:53] Add error handling for yt-dlp rate limits
+- [2025-07-30T11:15:09] Fix edge case in URL parsing and validation
