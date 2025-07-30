@@ -36998,3 +36998,4 @@
 - [2025-07-29T13:49:37] Improve logging and health endpoint metrics
 - [2025-07-30T08:48:06] Add retries for transient network drops
 - [2025-07-30T17:33:10] Update B2 storage chunking parameters
+- [2025-07-30T08:08:44] Clean up legacy worker task routines
