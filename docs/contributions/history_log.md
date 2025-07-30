@@ -36988,3 +36988,4 @@
 - [2025-07-29T15:44:12] Add Prometheus exporter endpoints for queue length
 - [2025-07-29T16:58:55] Clean up legacy worker task routines
 - [2025-07-29T08:02:17] Update documentation and architectural guides
+- [2025-07-29T20:21:42] Refactor worker polling logic
