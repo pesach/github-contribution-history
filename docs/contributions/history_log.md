@@ -37003,3 +37003,4 @@
 - [2025-07-30T18:53:04] Update documentation and architectural guides
 - [2025-07-30T16:52:01] Improve ffmpeg streaming pipe buffer management
 - [2025-07-30T10:48:24] Refactor cookie refresher probe logic
+- [2025-07-30T12:25:12] Add retries for transient network drops
