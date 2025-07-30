@@ -36996,3 +36996,4 @@
 - [2025-07-29T09:24:39] Update dependency lockfiles and requirements
 - [2025-07-29T14:35:57] Update schema migration helpers
 - [2025-07-29T13:49:37] Improve logging and health endpoint metrics
+- [2025-07-30T08:48:06] Add retries for transient network drops
