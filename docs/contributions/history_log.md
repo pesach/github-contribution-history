@@ -37015,3 +37015,4 @@
 - [2025-07-31T18:24:26] Fix edge case in channel tab crawler
 - [2025-07-31T11:54:20] Update B2 storage chunking parameters
 - [2025-07-31T17:07:17] Add retries for transient network drops
+- [2025-07-31T13:14:02] Clean up legacy worker task routines
