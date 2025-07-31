@@ -1715,3 +1715,4 @@
 - [2025-07-31T22:12:43] Update dependency lockfiles and requirements
 - [2025-07-31T09:49:28] Improve ffmpeg streaming pipe buffer management
 - [2025-07-31T09:43:28] Fix edge case in URL parsing and validation
+- [2025-07-31T11:23:11] Improve ffmpeg streaming pipe buffer management
