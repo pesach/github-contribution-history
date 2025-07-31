@@ -37008,3 +37008,4 @@
 - [2025-07-30T19:30:41] Clean up legacy worker task routines
 - [2025-07-30T22:02:48] Add Redis rate limit backoff handlers
 - [2025-07-30T11:41:20] Optimize PostgreSQL query execution plans
+- [2025-07-30T22:48:04] Update schema migration helpers
