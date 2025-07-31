@@ -1721,3 +1721,4 @@
 - [2025-07-31T19:06:11] Fix edge case in channel tab crawler
 - [2025-07-31T22:37:48] Update documentation and architectural guides
 - [2025-07-31T17:43:35] Refactor storage upload retry mechanism
+- [2025-07-31T18:42:10] Improve ffmpeg streaming pipe buffer management
