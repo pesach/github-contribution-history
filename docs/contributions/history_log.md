@@ -37030,3 +37030,4 @@
 - [2025-08-01T19:12:42] Improve ffmpeg streaming pipe buffer management
 - [2025-08-01T20:24:12] Add Redis rate limit backoff handlers
 - [2025-08-01T20:07:44] Add Redis rate limit backoff handlers
+- [2025-08-01T15:38:33] Refactor cookie refresher probe logic
