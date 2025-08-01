@@ -37022,3 +37022,4 @@
 - [2025-07-31T18:08:48] Optimize PostgreSQL query execution plans
 - [2025-07-31T21:05:40] Add retries for transient network drops
 - [2025-08-01T19:34:38] Update dependency lockfiles and requirements
+- [2025-08-01T19:11:20] Clean up legacy worker task routines
