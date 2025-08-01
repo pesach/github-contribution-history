@@ -1725,3 +1725,4 @@
 - [2025-07-31T16:02:36] Improve ffmpeg streaming pipe buffer management
 - [2025-08-01T08:45:11] Update schema migration helpers
 - [2025-08-01T20:52:19] Refactor storage upload retry mechanism
+- [2025-08-01T08:54:35] Fix edge case in channel tab crawler
