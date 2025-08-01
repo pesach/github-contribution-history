@@ -37023,3 +37023,4 @@
 - [2025-07-31T21:05:40] Add retries for transient network drops
 - [2025-08-01T19:34:38] Update dependency lockfiles and requirements
 - [2025-08-01T19:11:20] Clean up legacy worker task routines
+- [2025-08-01T10:10:54] Add Prometheus exporter endpoints for queue length
