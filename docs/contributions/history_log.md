@@ -37028,3 +37028,4 @@
 - [2025-08-01T08:01:27] Improve logging and health endpoint metrics
 - [2025-08-01T10:40:26] Enhance dashboard statistics rendering
 - [2025-08-01T19:12:42] Improve ffmpeg streaming pipe buffer management
+- [2025-08-01T20:24:12] Add Redis rate limit backoff handlers
