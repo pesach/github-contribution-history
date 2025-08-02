@@ -37024,3 +37024,4 @@
 - [2025-08-01T19:34:38] Update dependency lockfiles and requirements
 - [2025-08-01T19:11:20] Clean up legacy worker task routines
 - [2025-08-01T10:10:54] Add Prometheus exporter endpoints for queue length
+- [2025-08-01T20:03:09] Improve logging and health endpoint metrics
