@@ -37029,3 +37029,4 @@
 - [2025-08-01T10:40:26] Enhance dashboard statistics rendering
 - [2025-08-01T19:12:42] Improve ffmpeg streaming pipe buffer management
 - [2025-08-01T20:24:12] Add Redis rate limit backoff handlers
+- [2025-08-01T20:07:44] Add Redis rate limit backoff handlers
