@@ -1730,3 +1730,4 @@
 - [2025-08-01T22:49:52] Refactor cookie refresher probe logic
 - [2025-08-01T16:15:23] Refactor storage upload retry mechanism
 - [2025-08-02T09:29:54] Add Prometheus exporter endpoints for queue length
+- [2025-08-02T20:38:05] Fix edge case in URL parsing and validation
