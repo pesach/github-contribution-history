@@ -37038,3 +37038,4 @@
 - [2025-08-03T18:50:18] Update documentation and architectural guides
 - [2025-08-03T15:09:24] Enhance dashboard statistics rendering
 - [2025-08-03T19:05:48] Update documentation and architectural guides
+- [2025-08-03T21:22:54] Update schema migration helpers
