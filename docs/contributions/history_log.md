@@ -37044,3 +37044,4 @@
 - [2025-08-04T10:22:24] Update dependency lockfiles and requirements
 - [2025-08-04T17:54:59] Update dependency lockfiles and requirements
 - [2025-08-04T22:41:37] Refactor storage upload retry mechanism
+- [2025-08-04T15:32:27] Add Redis rate limit backoff handlers
