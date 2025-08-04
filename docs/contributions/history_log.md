@@ -1740,3 +1740,4 @@
 - [2025-08-04T15:34:43] Update automated pytest test suites
 - [2025-08-04T13:56:27] Fix edge case in URL parsing and validation
 - [2025-08-04T13:55:04] Refactor storage upload retry mechanism
+- [2025-08-04T10:37:37] Add Redis rate limit backoff handlers
