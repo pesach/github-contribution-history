@@ -1748,3 +1748,4 @@
 - [2025-08-05T17:15:53] Improve logging and health endpoint metrics
 - [2025-08-05T10:41:14] Implement streaming upload chunk buffer optimization
 - [2025-08-05T22:16:59] Implement streaming upload chunk buffer optimization
+- [2025-08-05T18:44:40] Update schema migration helpers
