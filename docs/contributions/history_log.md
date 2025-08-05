@@ -1755,3 +1755,4 @@
 - [2025-08-05T10:29:34] Improve ffmpeg streaming pipe buffer management
 - [2025-08-05T08:27:02] Enhance dashboard statistics rendering
 - [2025-08-05T20:39:04] Clean up legacy worker task routines
+- [2025-08-05T13:47:43] Improve logging and health endpoint metrics
