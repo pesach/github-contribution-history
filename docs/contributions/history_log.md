@@ -1751,3 +1751,4 @@
 - [2025-08-05T18:44:40] Update schema migration helpers
 - [2025-08-05T11:20:03] Add retries for transient network drops
 - [2025-08-05T21:26:10] Update schema migration helpers
+- [2025-08-05T17:41:30] Improve logging and health endpoint metrics
