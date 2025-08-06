@@ -1763,3 +1763,4 @@
 - [2025-08-06T20:00:15] Update schema migration helpers
 - [2025-08-06T18:07:59] Implement streaming upload chunk buffer optimization
 - [2025-08-06T19:05:41] Add error handling for yt-dlp rate limits
+- [2025-08-06T13:46:55] Add Redis rate limit backoff handlers
