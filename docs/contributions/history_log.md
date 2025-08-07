@@ -37060,3 +37060,4 @@
 - [2025-08-05T22:43:09] Add Redis rate limit backoff handlers
 - [2025-08-05T08:46:54] Update dependency lockfiles and requirements
 - [2025-08-07T10:24:05] Clean up legacy worker task routines
+- [2025-08-07T12:01:19] Clean up legacy worker task routines
