@@ -1769,3 +1769,4 @@
 - [2025-08-07T19:26:45] Refactor worker polling logic
 - [2025-08-07T20:10:13] Improve ffmpeg streaming pipe buffer management
 - [2025-08-07T21:44:43] Update automated pytest test suites
+- [2025-08-07T12:26:34] Update B2 storage chunking parameters
