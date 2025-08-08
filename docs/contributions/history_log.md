@@ -1784,3 +1784,4 @@
 - [2025-08-08T17:37:31] Update dependency lockfiles and requirements
 - [2025-08-08T17:09:06] Refactor cookie refresher probe logic
 - [2025-08-08T21:01:05] Update B2 storage chunking parameters
+- [2025-08-08T19:31:02] Update documentation and architectural guides
