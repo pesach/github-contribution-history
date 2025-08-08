@@ -37070,3 +37070,4 @@
 - [2025-08-07T20:07:50] Update B2 storage chunking parameters
 - [2025-08-07T16:48:17] Fix edge case in channel tab crawler
 - [2025-08-07T22:37:36] Optimize PostgreSQL query execution plans
+- [2025-08-08T17:50:03] Improve logging and health endpoint metrics
