@@ -1776,3 +1776,4 @@
 - [2025-08-07T21:21:15] Implement streaming upload chunk buffer optimization
 - [2025-08-07T21:28:07] Add retries for transient network drops
 - [2025-08-07T20:42:37] Optimize PostgreSQL query execution plans
+- [2025-08-07T20:54:25] Add Prometheus exporter endpoints for queue length
