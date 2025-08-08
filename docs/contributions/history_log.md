@@ -1793,3 +1793,4 @@
 - [2025-08-08T15:58:22] Add retries for transient network drops
 - [2025-08-08T21:26:26] Enhance dashboard statistics rendering
 - [2025-08-08T20:25:33] Refactor cookie refresher probe logic
+- [2025-08-08T13:46:18] Update schema migration helpers
