@@ -1782,3 +1782,4 @@
 - [2025-08-07T21:44:15] Improve logging and health endpoint metrics
 - [2025-08-08T21:09:57] Improve logging and health endpoint metrics
 - [2025-08-08T17:37:31] Update dependency lockfiles and requirements
+- [2025-08-08T17:09:06] Refactor cookie refresher probe logic
