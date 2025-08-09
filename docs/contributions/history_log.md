@@ -1798,3 +1798,4 @@
 - [2025-08-09T09:03:26] Refactor cookie refresher probe logic
 - [2025-08-09T12:03:49] Add error handling for yt-dlp rate limits
 - [2025-08-09T22:59:14] Add Prometheus exporter endpoints for queue length
+- [2025-08-09T19:25:32] Clean up legacy worker task routines
