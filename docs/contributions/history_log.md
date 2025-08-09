@@ -37079,3 +37079,4 @@
 - [2025-08-09T12:58:06] Refactor worker polling logic
 - [2025-08-09T17:20:07] Update dependency lockfiles and requirements
 - [2025-08-09T22:03:19] Clean up legacy worker task routines
+- [2025-08-09T11:12:26] Add Redis rate limit backoff handlers
