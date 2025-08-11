@@ -1803,3 +1803,4 @@
 - [2025-08-11T08:09:02] Refactor storage upload retry mechanism
 - [2025-08-11T08:09:32] Fix edge case in channel tab crawler
 - [2025-08-11T18:29:54] Clean up legacy worker task routines
+- [2025-08-11T10:57:54] Update schema migration helpers
