@@ -37083,3 +37083,4 @@
 - [2025-08-09T14:08:18] Add error handling for yt-dlp rate limits
 - [2025-08-09T21:05:21] Improve logging and health endpoint metrics
 - [2025-08-11T14:52:35] Update automated pytest test suites
+- [2025-08-11T16:03:02] Refactor worker polling logic
