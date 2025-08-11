@@ -1800,3 +1800,4 @@
 - [2025-08-09T22:59:14] Add Prometheus exporter endpoints for queue length
 - [2025-08-09T19:25:32] Clean up legacy worker task routines
 - [2025-08-11T22:41:15] Optimize PostgreSQL query execution plans
+- [2025-08-11T08:09:02] Refactor storage upload retry mechanism
