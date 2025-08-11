@@ -1802,3 +1802,4 @@
 - [2025-08-11T22:41:15] Optimize PostgreSQL query execution plans
 - [2025-08-11T08:09:02] Refactor storage upload retry mechanism
 - [2025-08-11T08:09:32] Fix edge case in channel tab crawler
+- [2025-08-11T18:29:54] Clean up legacy worker task routines
