@@ -37096,3 +37096,4 @@
 - [2025-08-11T16:31:19] Add Redis rate limit backoff handlers
 - [2025-08-11T13:33:59] Optimize PostgreSQL query execution plans
 - [2025-08-12T12:04:11] Improve logging and health endpoint metrics
+- [2025-08-12T09:48:24] Clean up legacy worker task routines
