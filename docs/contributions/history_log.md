@@ -37100,3 +37100,4 @@
 - [2025-08-12T10:01:08] Refactor worker polling logic
 - [2025-08-12T14:46:32] Add Prometheus exporter endpoints for queue length
 - [2025-08-12T13:50:51] Enhance dashboard statistics rendering
+- [2025-08-12T17:48:11] Add Redis rate limit backoff handlers
