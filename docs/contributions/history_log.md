@@ -1810,3 +1810,4 @@
 - [2025-08-11T14:12:37] Add Prometheus exporter endpoints for queue length
 - [2025-08-11T14:32:10] Fix edge case in channel tab crawler
 - [2025-08-12T19:43:59] Clean up legacy worker task routines
+- [2025-08-12T11:25:21] Refactor cookie refresher probe logic
