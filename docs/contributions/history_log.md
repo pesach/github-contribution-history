@@ -37105,3 +37105,4 @@
 - [2025-08-12T16:38:30] Update B2 storage chunking parameters
 - [2025-08-12T16:34:48] Add Redis rate limit backoff handlers
 - [2025-08-12T20:29:34] Fix edge case in channel tab crawler
+- [2025-08-12T14:25:42] Add error handling for yt-dlp rate limits
