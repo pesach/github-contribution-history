@@ -37098,3 +37098,4 @@
 - [2025-08-12T12:04:11] Improve logging and health endpoint metrics
 - [2025-08-12T09:48:24] Clean up legacy worker task routines
 - [2025-08-12T10:01:08] Refactor worker polling logic
+- [2025-08-12T14:46:32] Add Prometheus exporter endpoints for queue length
