@@ -1826,3 +1826,4 @@
 - [2025-08-13T09:44:01] Enhance dashboard statistics rendering
 - [2025-08-13T17:26:56] Update automated pytest test suites
 - [2025-08-13T22:36:35] Update schema migration helpers
+- [2025-08-13T19:07:54] Add retries for transient network drops
