@@ -37113,3 +37113,4 @@
 - [2025-08-13T21:18:16] Refactor worker polling logic
 - [2025-08-13T16:25:35] Update B2 storage chunking parameters
 - [2025-08-13T21:33:56] Fix edge case in channel tab crawler
+- [2025-08-13T17:05:37] Refactor storage upload retry mechanism
