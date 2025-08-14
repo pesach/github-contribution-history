@@ -37122,3 +37122,4 @@
 - [2025-08-14T20:43:17] Add error handling for yt-dlp rate limits
 - [2025-08-14T14:53:52] Update dependency lockfiles and requirements
 - [2025-08-14T16:49:58] Improve logging and health endpoint metrics
+- [2025-08-14T18:13:10] Fix edge case in URL parsing and validation
