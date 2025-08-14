@@ -37125,3 +37125,4 @@
 - [2025-08-14T18:13:10] Fix edge case in URL parsing and validation
 - [2025-08-14T19:41:22] Optimize PostgreSQL query execution plans
 - [2025-08-14T14:46:02] Add Redis rate limit backoff handlers
+- [2025-08-14T12:37:33] Update schema migration helpers
