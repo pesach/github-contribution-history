@@ -1837,3 +1837,4 @@
 - [2025-08-14T12:30:39] Fix edge case in channel tab crawler
 - [2025-08-14T22:07:44] Add retries for transient network drops
 - [2025-08-14T19:22:05] Update schema migration helpers
+- [2025-08-14T16:43:28] Update B2 storage chunking parameters
