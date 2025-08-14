@@ -37110,3 +37110,4 @@
 - [2025-08-12T11:48:19] Improve logging and health endpoint metrics
 - [2025-08-12T14:08:22] Update automated pytest test suites
 - [2025-08-12T17:23:22] Update automated pytest test suites
+- [2025-08-13T21:18:16] Refactor worker polling logic
