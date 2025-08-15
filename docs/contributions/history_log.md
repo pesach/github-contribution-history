@@ -1845,3 +1845,4 @@
 - [2025-08-14T17:39:53] Refactor worker polling logic
 - [2025-08-15T16:25:53] Refactor storage upload retry mechanism
 - [2025-08-15T18:49:48] Update dependency lockfiles and requirements
+- [2025-08-15T18:50:25] Refactor worker polling logic
