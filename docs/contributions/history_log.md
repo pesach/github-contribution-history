@@ -37119,3 +37119,4 @@
 - [2025-08-13T15:51:13] Fix edge case in channel tab crawler
 - [2025-08-14T17:15:14] Update B2 storage chunking parameters
 - [2025-08-14T09:05:25] Add retries for transient network drops
+- [2025-08-14T20:43:17] Add error handling for yt-dlp rate limits
