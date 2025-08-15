@@ -1854,3 +1854,4 @@
 - [2025-08-15T08:54:43] Add Redis rate limit backoff handlers
 - [2025-08-15T12:54:23] Refactor worker polling logic
 - [2025-08-15T17:49:42] Clean up legacy worker task routines
+- [2025-08-15T18:06:15] Fix edge case in URL parsing and validation
