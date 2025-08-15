@@ -37141,3 +37141,4 @@
 - [2025-08-15T12:48:11] Update dependency lockfiles and requirements
 - [2025-08-15T11:28:32] Update dependency lockfiles and requirements
 - [2025-08-15T21:36:42] Add retries for transient network drops
+- [2025-08-15T16:32:06] Update documentation and architectural guides
