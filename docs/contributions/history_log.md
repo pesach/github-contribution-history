@@ -37137,3 +37137,4 @@
 - [2025-08-15T10:48:24] Update B2 storage chunking parameters
 - [2025-08-15T10:50:07] Add Redis rate limit backoff handlers
 - [2025-08-15T19:32:39] Clean up legacy worker task routines
+- [2025-08-15T14:19:29] Improve logging and health endpoint metrics
