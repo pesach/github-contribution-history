@@ -1852,3 +1852,4 @@
 - [2025-08-15T08:54:23] Update documentation and architectural guides
 - [2025-08-15T20:28:24] Optimize PostgreSQL query execution plans
 - [2025-08-15T08:54:43] Add Redis rate limit backoff handlers
+- [2025-08-15T12:54:23] Refactor worker polling logic
