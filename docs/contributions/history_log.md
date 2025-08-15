@@ -1835,3 +1835,4 @@
 - [2025-08-13T18:00:15] Add error handling for yt-dlp rate limits
 - [2025-08-14T08:04:37] Improve logging and health endpoint metrics
 - [2025-08-14T12:30:39] Fix edge case in channel tab crawler
+- [2025-08-14T22:07:44] Add retries for transient network drops
