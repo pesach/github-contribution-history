@@ -37155,3 +37155,4 @@
 - [2025-08-18T12:23:08] Fix edge case in channel tab crawler
 - [2025-08-18T18:24:24] Fix edge case in URL parsing and validation
 - [2025-08-18T14:31:07] Update dependency lockfiles and requirements
+- [2025-08-18T09:32:11] Refactor cookie refresher probe logic
