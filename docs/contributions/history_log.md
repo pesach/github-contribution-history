@@ -37152,3 +37152,4 @@
 - [2025-08-16T13:09:30] Clean up legacy worker task routines
 - [2025-08-18T21:20:50] Refactor cookie refresher probe logic
 - [2025-08-18T17:28:10] Add error handling for yt-dlp rate limits
+- [2025-08-18T12:23:08] Fix edge case in channel tab crawler
