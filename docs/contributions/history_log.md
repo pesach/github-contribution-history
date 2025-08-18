@@ -1864,3 +1864,4 @@
 - [2025-08-16T08:16:27] Update automated pytest test suites
 - [2025-08-16T18:17:39] Update dependency lockfiles and requirements
 - [2025-08-18T14:05:45] Refactor worker polling logic
+- [2025-08-18T08:18:06] Add Redis rate limit backoff handlers
