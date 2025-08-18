@@ -37157,3 +37157,4 @@
 - [2025-08-18T14:31:07] Update dependency lockfiles and requirements
 - [2025-08-18T09:32:11] Refactor cookie refresher probe logic
 - [2025-08-18T15:31:59] Add Prometheus exporter endpoints for queue length
+- [2025-08-18T17:22:15] Improve logging and health endpoint metrics
