@@ -1877,3 +1877,4 @@
 - [2025-08-19T19:17:43] Improve ffmpeg streaming pipe buffer management
 - [2025-08-19T16:44:01] Refactor worker polling logic
 - [2025-08-19T19:28:49] Improve ffmpeg streaming pipe buffer management
+- [2025-08-19T17:26:21] Add Redis rate limit backoff handlers
