@@ -1876,3 +1876,4 @@
 - [2025-08-19T11:35:18] Add retries for transient network drops
 - [2025-08-19T19:17:43] Improve ffmpeg streaming pipe buffer management
 - [2025-08-19T16:44:01] Refactor worker polling logic
+- [2025-08-19T19:28:49] Improve ffmpeg streaming pipe buffer management
