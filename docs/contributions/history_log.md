@@ -37162,3 +37162,4 @@
 - [2025-08-19T21:14:29] Update documentation and architectural guides
 - [2025-08-19T15:09:05] Add error handling for yt-dlp rate limits
 - [2025-08-19T16:35:55] Refactor cookie refresher probe logic
+- [2025-08-19T11:15:09] Improve logging and health endpoint metrics
