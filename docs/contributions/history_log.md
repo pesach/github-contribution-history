@@ -1881,3 +1881,4 @@
 - [2025-08-19T18:10:16] Add retries for transient network drops
 - [2025-08-19T21:01:58] Update B2 storage chunking parameters
 - [2025-08-19T18:43:57] Fix edge case in URL parsing and validation
+- [2025-08-19T17:05:34] Add retries for transient network drops
