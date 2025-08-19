@@ -37150,3 +37150,4 @@
 - [2025-08-16T14:24:49] Clean up legacy worker task routines
 - [2025-08-16T14:07:44] Improve ffmpeg streaming pipe buffer management
 - [2025-08-16T13:09:30] Clean up legacy worker task routines
+- [2025-08-18T21:20:50] Refactor cookie refresher probe logic
