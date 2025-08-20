@@ -37169,3 +37169,4 @@
 - [2025-08-19T09:06:39] Fix edge case in URL parsing and validation
 - [2025-08-19T13:39:29] Fix edge case in URL parsing and validation
 - [2025-08-19T18:02:22] Update schema migration helpers
+- [2025-08-19T22:20:44] Update documentation and architectural guides
