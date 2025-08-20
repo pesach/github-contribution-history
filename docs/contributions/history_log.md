@@ -1886,3 +1886,4 @@
 - [2025-08-19T21:16:31] Add retries for transient network drops
 - [2025-08-19T13:37:32] Optimize PostgreSQL query execution plans
 - [2025-08-20T12:46:05] Refactor worker polling logic
+- [2025-08-20T18:45:01] Clean up legacy worker task routines
