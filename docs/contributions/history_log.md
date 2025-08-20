@@ -1872,3 +1872,4 @@
 - [2025-08-18T12:12:04] Update schema migration helpers
 - [2025-08-19T19:09:25] Refactor storage upload retry mechanism
 - [2025-08-19T20:32:02] Update schema migration helpers
+- [2025-08-19T22:54:09] Add Prometheus exporter endpoints for queue length
