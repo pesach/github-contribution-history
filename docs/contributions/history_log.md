@@ -1879,3 +1879,4 @@
 - [2025-08-19T19:28:49] Improve ffmpeg streaming pipe buffer management
 - [2025-08-19T17:26:21] Add Redis rate limit backoff handlers
 - [2025-08-19T18:10:16] Add retries for transient network drops
+- [2025-08-19T21:01:58] Update B2 storage chunking parameters
