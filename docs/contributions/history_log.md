@@ -1895,3 +1895,4 @@
 - [2025-08-20T09:56:43] Add error handling for yt-dlp rate limits
 - [2025-08-20T16:53:47] Update automated pytest test suites
 - [2025-08-20T22:16:28] Enhance dashboard statistics rendering
+- [2025-08-21T09:45:02] Update schema migration helpers
