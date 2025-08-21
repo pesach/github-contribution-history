@@ -1888,3 +1888,4 @@
 - [2025-08-20T12:46:05] Refactor worker polling logic
 - [2025-08-20T18:45:01] Clean up legacy worker task routines
 - [2025-08-20T13:14:38] Refactor cookie refresher probe logic
+- [2025-08-20T22:20:52] Improve logging and health endpoint metrics
