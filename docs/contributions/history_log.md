@@ -1901,3 +1901,4 @@
 - [2025-08-21T19:28:22] Optimize PostgreSQL query execution plans
 - [2025-08-21T11:11:44] Refactor cookie refresher probe logic
 - [2025-08-21T08:09:56] Update documentation and architectural guides
+- [2025-08-21T19:43:57] Update schema migration helpers
