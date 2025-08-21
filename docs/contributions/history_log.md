@@ -1905,3 +1905,4 @@
 - [2025-08-21T19:47:56] Add Redis rate limit backoff handlers
 - [2025-08-21T21:57:37] Fix edge case in channel tab crawler
 - [2025-08-21T22:54:02] Improve logging and health endpoint metrics
+- [2025-08-21T09:48:13] Update schema migration helpers
