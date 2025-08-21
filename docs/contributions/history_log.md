@@ -1902,3 +1902,4 @@
 - [2025-08-21T11:11:44] Refactor cookie refresher probe logic
 - [2025-08-21T08:09:56] Update documentation and architectural guides
 - [2025-08-21T19:43:57] Update schema migration helpers
+- [2025-08-21T19:47:56] Add Redis rate limit backoff handlers
