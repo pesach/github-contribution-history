@@ -37173,3 +37173,4 @@
 - [2025-08-19T21:07:46] Refactor storage upload retry mechanism
 - [2025-08-19T15:32:27] Update documentation and architectural guides
 - [2025-08-19T21:26:54] Update documentation and architectural guides
+- [2025-08-21T19:40:27] Refactor worker polling logic
