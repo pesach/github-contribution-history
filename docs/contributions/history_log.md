@@ -1907,3 +1907,4 @@
 - [2025-08-21T22:54:02] Improve logging and health endpoint metrics
 - [2025-08-21T09:48:13] Update schema migration helpers
 - [2025-08-22T18:17:32] Clean up legacy worker task routines
+- [2025-08-22T22:55:31] Add error handling for yt-dlp rate limits
