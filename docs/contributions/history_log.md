@@ -37194,3 +37194,4 @@
 - [2025-08-23T12:44:59] Fix edge case in channel tab crawler
 - [2025-08-23T11:11:44] Update documentation and architectural guides
 - [2025-08-23T10:39:51] Update schema migration helpers
+- [2025-08-24T10:10:26] Update documentation and architectural guides
