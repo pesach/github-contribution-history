@@ -1927,3 +1927,4 @@
 - [2025-08-25T08:34:13] Refactor storage upload retry mechanism
 - [2025-08-25T09:45:15] Improve ffmpeg streaming pipe buffer management
 - [2025-08-25T14:38:40] Fix edge case in URL parsing and validation
+- [2025-08-25T18:51:40] Add Redis rate limit backoff handlers
