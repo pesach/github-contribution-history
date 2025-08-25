@@ -1933,3 +1933,4 @@
 - [2025-08-25T15:12:52] Fix edge case in URL parsing and validation
 - [2025-08-25T10:50:19] Add Redis rate limit backoff handlers
 - [2025-08-25T13:43:21] Add Prometheus exporter endpoints for queue length
+- [2025-08-25T13:01:54] Update schema migration helpers
