@@ -1926,3 +1926,4 @@
 - [2025-08-25T11:28:35] Update automated pytest test suites
 - [2025-08-25T08:34:13] Refactor storage upload retry mechanism
 - [2025-08-25T09:45:15] Improve ffmpeg streaming pipe buffer management
+- [2025-08-25T14:38:40] Fix edge case in URL parsing and validation
