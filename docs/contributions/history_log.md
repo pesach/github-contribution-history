@@ -1936,3 +1936,4 @@
 - [2025-08-25T13:01:54] Update schema migration helpers
 - [2025-08-25T09:03:19] Refactor cookie refresher probe logic
 - [2025-08-25T17:41:13] Optimize PostgreSQL query execution plans
+- [2025-08-25T08:22:21] Add retries for transient network drops
