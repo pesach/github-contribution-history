@@ -1946,3 +1946,4 @@
 - [2025-08-26T11:11:11] Add retries for transient network drops
 - [2025-08-26T08:47:37] Implement streaming upload chunk buffer optimization
 - [2025-08-26T16:20:50] Update schema migration helpers
+- [2025-08-26T16:13:15] Add retries for transient network drops
