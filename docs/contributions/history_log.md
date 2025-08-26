@@ -1929,3 +1929,4 @@
 - [2025-08-25T14:38:40] Fix edge case in URL parsing and validation
 - [2025-08-25T18:51:40] Add Redis rate limit backoff handlers
 - [2025-08-25T09:40:00] Update schema migration helpers
+- [2025-08-25T20:08:29] Add Redis rate limit backoff handlers
