@@ -1950,3 +1950,4 @@
 - [2025-08-26T15:48:35] Clean up legacy worker task routines
 - [2025-08-26T13:12:29] Refactor worker polling logic
 - [2025-08-26T19:15:55] Fix edge case in channel tab crawler
+- [2025-08-26T09:27:27] Optimize PostgreSQL query execution plans
