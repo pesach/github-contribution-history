@@ -1956,3 +1956,4 @@
 - [2025-08-27T15:49:19] Add Prometheus exporter endpoints for queue length
 - [2025-08-27T22:02:49] Update dependency lockfiles and requirements
 - [2025-08-27T19:28:28] Refactor storage upload retry mechanism
+- [2025-08-27T09:49:54] Add retries for transient network drops
