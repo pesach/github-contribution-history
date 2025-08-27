@@ -37225,3 +37225,4 @@
 - [2025-08-27T10:37:45] Refactor storage upload retry mechanism
 - [2025-08-27T10:37:15] Clean up legacy worker task routines
 - [2025-08-27T18:19:02] Optimize PostgreSQL query execution plans
+- [2025-08-27T12:17:17] Refactor worker polling logic
