@@ -37240,3 +37240,4 @@
 - [2025-08-28T14:13:58] Clean up legacy worker task routines
 - [2025-08-28T11:05:32] Update dependency lockfiles and requirements
 - [2025-08-28T16:17:31] Add Prometheus exporter endpoints for queue length
+- [2025-08-28T10:36:42] Fix edge case in channel tab crawler
