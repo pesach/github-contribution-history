@@ -37241,3 +37241,4 @@
 - [2025-08-28T11:05:32] Update dependency lockfiles and requirements
 - [2025-08-28T16:17:31] Add Prometheus exporter endpoints for queue length
 - [2025-08-28T10:36:42] Fix edge case in channel tab crawler
+- [2025-08-28T21:55:26] Improve logging and health endpoint metrics
