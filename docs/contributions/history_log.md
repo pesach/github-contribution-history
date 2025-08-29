@@ -1975,3 +1975,4 @@
 - [2025-08-29T21:39:33] Refactor cookie refresher probe logic
 - [2025-08-29T09:51:02] Enhance dashboard statistics rendering
 - [2025-08-29T22:48:31] Update dependency lockfiles and requirements
+- [2025-08-29T11:46:42] Add Redis rate limit backoff handlers
