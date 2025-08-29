@@ -37244,3 +37244,4 @@
 - [2025-08-28T21:55:26] Improve logging and health endpoint metrics
 - [2025-08-28T16:18:58] Update B2 storage chunking parameters
 - [2025-08-29T08:29:14] Refactor cookie refresher probe logic
+- [2025-08-29T18:00:50] Enhance dashboard statistics rendering
