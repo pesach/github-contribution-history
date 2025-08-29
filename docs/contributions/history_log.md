@@ -1967,3 +1967,4 @@
 - [2025-08-28T12:20:01] Enhance dashboard statistics rendering
 - [2025-08-28T22:17:32] Update automated pytest test suites
 - [2025-08-28T10:01:44] Optimize PostgreSQL query execution plans
+- [2025-08-28T20:38:25] Add Prometheus exporter endpoints for queue length
