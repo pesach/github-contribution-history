@@ -1982,3 +1982,4 @@
 - [2025-08-30T09:44:26] Update B2 storage chunking parameters
 - [2025-08-30T22:48:20] Implement streaming upload chunk buffer optimization
 - [2025-08-31T22:47:25] Add Redis rate limit backoff handlers
+- [2025-08-31T11:35:19] Update schema migration helpers
