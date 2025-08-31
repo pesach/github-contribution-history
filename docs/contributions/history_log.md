@@ -1983,3 +1983,4 @@
 - [2025-08-30T22:48:20] Implement streaming upload chunk buffer optimization
 - [2025-08-31T22:47:25] Add Redis rate limit backoff handlers
 - [2025-08-31T11:35:19] Update schema migration helpers
+- [2025-08-31T14:41:25] Fix edge case in URL parsing and validation
