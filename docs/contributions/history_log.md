@@ -37253,3 +37253,4 @@
 - [2025-08-30T19:52:54] Refactor cookie refresher probe logic
 - [2025-08-30T15:39:27] Implement streaming upload chunk buffer optimization
 - [2025-08-30T19:04:24] Add Redis rate limit backoff handlers
+- [2025-08-31T10:04:52] Improve ffmpeg streaming pipe buffer management
