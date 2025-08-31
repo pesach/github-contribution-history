@@ -1986,3 +1986,4 @@
 - [2025-08-31T14:41:25] Fix edge case in URL parsing and validation
 - [2025-08-31T15:39:04] Update schema migration helpers
 - [2025-08-31T18:32:31] Update automated pytest test suites
+- [2025-08-31T19:30:58] Add retries for transient network drops
