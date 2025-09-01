@@ -1989,3 +1989,4 @@
 - [2025-08-31T19:30:58] Add retries for transient network drops
 - [2025-09-01T20:42:37] Add Redis rate limit backoff handlers
 - [2025-09-01T19:59:26] Clean up legacy worker task routines
+- [2025-09-01T11:45:00] Update schema migration helpers
