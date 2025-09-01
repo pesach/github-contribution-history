@@ -1988,3 +1988,4 @@
 - [2025-08-31T18:32:31] Update automated pytest test suites
 - [2025-08-31T19:30:58] Add retries for transient network drops
 - [2025-09-01T20:42:37] Add Redis rate limit backoff handlers
+- [2025-09-01T19:59:26] Clean up legacy worker task routines
