@@ -37257,3 +37257,4 @@
 - [2025-08-31T13:59:10] Add Prometheus exporter endpoints for queue length
 - [2025-08-31T13:30:59] Add Redis rate limit backoff handlers
 - [2025-08-31T09:51:09] Optimize PostgreSQL query execution plans
+- [2025-09-01T11:27:39] Update schema migration helpers
