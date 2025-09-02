@@ -1996,3 +1996,4 @@
 - [2025-09-01T10:26:57] Refactor worker polling logic
 - [2025-09-01T22:28:40] Clean up legacy worker task routines
 - [2025-09-01T20:09:50] Refactor storage upload retry mechanism
+- [2025-09-02T14:11:45] Fix edge case in URL parsing and validation
