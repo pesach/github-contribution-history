@@ -1995,3 +1995,4 @@
 - [2025-09-01T21:51:59] Fix edge case in channel tab crawler
 - [2025-09-01T10:26:57] Refactor worker polling logic
 - [2025-09-01T22:28:40] Clean up legacy worker task routines
+- [2025-09-01T20:09:50] Refactor storage upload retry mechanism
