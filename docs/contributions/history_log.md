@@ -1992,3 +1992,4 @@
 - [2025-09-01T11:45:00] Update schema migration helpers
 - [2025-09-01T13:09:47] Refactor worker polling logic
 - [2025-09-01T08:42:30] Update automated pytest test suites
+- [2025-09-01T21:51:59] Fix edge case in channel tab crawler
