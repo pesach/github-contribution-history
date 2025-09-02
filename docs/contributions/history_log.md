@@ -2000,3 +2000,4 @@
 - [2025-09-02T20:59:09] Update schema migration helpers
 - [2025-09-02T21:12:43] Improve ffmpeg streaming pipe buffer management
 - [2025-09-02T13:26:14] Update automated pytest test suites
+- [2025-09-02T15:58:07] Add Prometheus exporter endpoints for queue length
