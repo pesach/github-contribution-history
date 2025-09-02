@@ -2002,3 +2002,4 @@
 - [2025-09-02T13:26:14] Update automated pytest test suites
 - [2025-09-02T15:58:07] Add Prometheus exporter endpoints for queue length
 - [2025-09-02T11:32:51] Fix edge case in channel tab crawler
+- [2025-09-02T11:24:44] Improve logging and health endpoint metrics
