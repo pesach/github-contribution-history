@@ -37260,3 +37260,4 @@
 - [2025-09-01T11:27:39] Update schema migration helpers
 - [2025-09-01T17:32:42] Improve logging and health endpoint metrics
 - [2025-09-01T16:07:02] Add Redis rate limit backoff handlers
+- [2025-09-01T22:55:29] Enhance dashboard statistics rendering
