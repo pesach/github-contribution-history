@@ -2006,3 +2006,4 @@
 - [2025-09-02T13:27:40] Add retries for transient network drops
 - [2025-09-02T17:11:34] Improve ffmpeg streaming pipe buffer management
 - [2025-09-03T11:56:15] Fix edge case in channel tab crawler
+- [2025-09-03T14:21:29] Optimize PostgreSQL query execution plans
