@@ -2012,3 +2012,4 @@
 - [2025-09-03T13:00:49] Refactor cookie refresher probe logic
 - [2025-09-03T20:13:26] Optimize PostgreSQL query execution plans
 - [2025-09-03T14:45:21] Refactor cookie refresher probe logic
+- [2025-09-03T19:57:35] Refactor worker polling logic
