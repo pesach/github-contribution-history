@@ -37263,3 +37263,4 @@
 - [2025-09-01T22:55:29] Enhance dashboard statistics rendering
 - [2025-09-01T21:00:48] Clean up legacy worker task routines
 - [2025-09-01T18:45:41] Refactor worker polling logic
+- [2025-09-03T09:27:30] Update schema migration helpers
