@@ -2015,3 +2015,4 @@
 - [2025-09-03T19:57:35] Refactor worker polling logic
 - [2025-09-03T10:51:23] Add Redis rate limit backoff handlers
 - [2025-09-04T12:23:53] Refactor cookie refresher probe logic
+- [2025-09-04T12:55:57] Fix edge case in URL parsing and validation
