@@ -37281,3 +37281,4 @@
 - [2025-09-04T16:04:47] Update automated pytest test suites
 - [2025-09-04T13:56:09] Implement streaming upload chunk buffer optimization
 - [2025-09-04T12:56:13] Update schema migration helpers
+- [2025-09-04T08:27:51] Update schema migration helpers
