@@ -2022,3 +2022,4 @@
 - [2025-09-04T13:52:19] Add error handling for yt-dlp rate limits
 - [2025-09-04T17:20:01] Update automated pytest test suites
 - [2025-09-04T08:01:01] Implement streaming upload chunk buffer optimization
+- [2025-09-04T13:01:38] Refactor worker polling logic
