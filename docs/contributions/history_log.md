@@ -2018,3 +2018,4 @@
 - [2025-09-04T12:55:57] Fix edge case in URL parsing and validation
 - [2025-09-04T12:37:39] Refactor worker polling logic
 - [2025-09-04T19:53:11] Add retries for transient network drops
+- [2025-09-04T20:54:26] Improve logging and health endpoint metrics
