@@ -37293,3 +37293,4 @@
 - [2025-09-05T10:23:56] Improve logging and health endpoint metrics
 - [2025-09-05T11:38:32] Refactor cookie refresher probe logic
 - [2025-09-05T14:34:50] Update B2 storage chunking parameters
+- [2025-09-05T19:08:05] Refactor worker polling logic
