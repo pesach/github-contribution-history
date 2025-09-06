@@ -37297,3 +37297,4 @@
 - [2025-09-06T20:59:19] Refactor worker polling logic
 - [2025-09-06T08:20:06] Refactor storage upload retry mechanism
 - [2025-09-06T15:31:58] Update dependency lockfiles and requirements
+- [2025-09-06T14:20:28] Add error handling for yt-dlp rate limits
