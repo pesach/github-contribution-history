@@ -37299,3 +37299,4 @@
 - [2025-09-06T15:31:58] Update dependency lockfiles and requirements
 - [2025-09-06T14:20:28] Add error handling for yt-dlp rate limits
 - [2025-09-07T22:32:43] Clean up legacy worker task routines
+- [2025-09-07T17:06:24] Refactor storage upload retry mechanism
