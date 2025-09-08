@@ -2031,3 +2031,4 @@
 - [2025-09-05T11:40:11] Clean up legacy worker task routines
 - [2025-09-05T09:07:38] Refactor storage upload retry mechanism
 - [2025-09-07T18:23:47] Add Redis rate limit backoff handlers
+- [2025-09-07T22:24:26] Update B2 storage chunking parameters
