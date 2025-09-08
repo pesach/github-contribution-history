@@ -37305,3 +37305,4 @@
 - [2025-09-07T15:45:46] Add retries for transient network drops
 - [2025-09-08T14:49:17] Update documentation and architectural guides
 - [2025-09-08T08:53:27] Implement streaming upload chunk buffer optimization
+- [2025-09-08T18:53:17] Add Prometheus exporter endpoints for queue length
