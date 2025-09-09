@@ -37321,3 +37321,4 @@
 - [2025-09-09T11:06:34] Update B2 storage chunking parameters
 - [2025-09-09T17:50:43] Update schema migration helpers
 - [2025-09-09T14:21:58] Update dependency lockfiles and requirements
+- [2025-09-09T19:56:41] Refactor cookie refresher probe logic
