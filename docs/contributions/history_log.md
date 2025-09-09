@@ -37323,3 +37323,4 @@
 - [2025-09-09T14:21:58] Update dependency lockfiles and requirements
 - [2025-09-09T19:56:41] Refactor cookie refresher probe logic
 - [2025-09-09T16:57:58] Refactor storage upload retry mechanism
+- [2025-09-09T09:45:24] Improve logging and health endpoint metrics
