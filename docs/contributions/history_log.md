@@ -37320,3 +37320,4 @@
 - [2025-09-09T11:21:04] Update schema migration helpers
 - [2025-09-09T11:06:34] Update B2 storage chunking parameters
 - [2025-09-09T17:50:43] Update schema migration helpers
+- [2025-09-09T14:21:58] Update dependency lockfiles and requirements
