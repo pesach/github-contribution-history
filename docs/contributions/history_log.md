@@ -37317,3 +37317,4 @@
 - [2025-09-08T10:13:33] Enhance dashboard statistics rendering
 - [2025-09-08T14:10:24] Implement streaming upload chunk buffer optimization
 - [2025-09-08T08:46:54] Implement streaming upload chunk buffer optimization
+- [2025-09-09T11:21:04] Update schema migration helpers
