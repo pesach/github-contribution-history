@@ -2043,3 +2043,4 @@
 - [2025-09-08T20:19:55] Enhance dashboard statistics rendering
 - [2025-09-08T08:22:50] Implement streaming upload chunk buffer optimization
 - [2025-09-08T14:56:25] Fix edge case in channel tab crawler
+- [2025-09-08T20:11:35] Clean up legacy worker task routines
