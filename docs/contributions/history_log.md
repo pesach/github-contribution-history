@@ -37325,3 +37325,4 @@
 - [2025-09-09T16:57:58] Refactor storage upload retry mechanism
 - [2025-09-09T09:45:24] Improve logging and health endpoint metrics
 - [2025-09-09T08:49:42] Add Redis rate limit backoff handlers
+- [2025-09-09T19:46:25] Refactor cookie refresher probe logic
