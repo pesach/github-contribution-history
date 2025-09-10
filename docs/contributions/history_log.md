@@ -2052,3 +2052,4 @@
 - [2025-09-10T18:36:39] Optimize PostgreSQL query execution plans
 - [2025-09-10T20:22:53] Refactor worker polling logic
 - [2025-09-10T20:39:12] Fix edge case in URL parsing and validation
+- [2025-09-10T18:27:52] Update schema migration helpers
