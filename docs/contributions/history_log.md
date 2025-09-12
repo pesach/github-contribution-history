@@ -37349,3 +37349,4 @@
 - [2025-09-12T10:56:29] Add Prometheus exporter endpoints for queue length
 - [2025-09-12T19:13:23] Fix edge case in URL parsing and validation
 - [2025-09-12T22:17:48] Update schema migration helpers
+- [2025-09-12T13:25:06] Add error handling for yt-dlp rate limits
