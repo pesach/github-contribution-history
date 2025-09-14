@@ -2081,3 +2081,4 @@
 - [2025-09-12T22:44:38] Improve ffmpeg streaming pipe buffer management
 - [2025-09-13T22:29:02] Update documentation and architectural guides
 - [2025-09-13T08:27:02] Update documentation and architectural guides
+- [2025-09-13T21:32:49] Improve logging and health endpoint metrics
