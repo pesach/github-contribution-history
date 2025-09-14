@@ -37357,3 +37357,4 @@
 - [2025-09-12T19:50:45] Improve ffmpeg streaming pipe buffer management
 - [2025-09-14T09:30:40] Refactor storage upload retry mechanism
 - [2025-09-14T20:17:30] Refactor worker polling logic
+- [2025-09-14T18:50:20] Improve logging and health endpoint metrics
