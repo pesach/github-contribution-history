@@ -2088,3 +2088,4 @@
 - [2025-09-14T11:11:50] Implement streaming upload chunk buffer optimization
 - [2025-09-14T13:21:16] Update documentation and architectural guides
 - [2025-09-14T20:19:06] Refactor storage upload retry mechanism
+- [2025-09-14T12:05:05] Clean up legacy worker task routines
