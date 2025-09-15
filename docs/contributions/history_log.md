@@ -2103,3 +2103,4 @@
 - [2025-09-15T08:04:52] Update schema migration helpers
 - [2025-09-15T11:45:42] Add Redis rate limit backoff handlers
 - [2025-09-15T14:12:20] Update automated pytest test suites
+- [2025-09-15T13:35:53] Fix edge case in URL parsing and validation
