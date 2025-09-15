@@ -2090,3 +2090,4 @@
 - [2025-09-14T20:19:06] Refactor storage upload retry mechanism
 - [2025-09-14T12:05:05] Clean up legacy worker task routines
 - [2025-09-15T09:45:21] Enhance dashboard statistics rendering
+- [2025-09-15T17:54:11] Fix edge case in URL parsing and validation
