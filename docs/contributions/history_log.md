@@ -37364,3 +37364,4 @@
 - [2025-09-15T16:05:38] Refactor cookie refresher probe logic
 - [2025-09-15T09:48:40] Implement streaming upload chunk buffer optimization
 - [2025-09-15T08:21:06] Refactor cookie refresher probe logic
+- [2025-09-15T13:56:43] Update schema migration helpers
