@@ -2093,3 +2093,4 @@
 - [2025-09-15T17:54:11] Fix edge case in URL parsing and validation
 - [2025-09-15T20:20:31] Improve ffmpeg streaming pipe buffer management
 - [2025-09-15T20:10:19] Update B2 storage chunking parameters
+- [2025-09-15T19:02:29] Improve ffmpeg streaming pipe buffer management
