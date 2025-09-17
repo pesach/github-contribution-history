@@ -37382,3 +37382,4 @@
 - [2025-09-16T17:36:14] Implement streaming upload chunk buffer optimization
 - [2025-09-17T12:58:14] Improve ffmpeg streaming pipe buffer management
 - [2025-09-17T16:00:45] Fix edge case in URL parsing and validation
+- [2025-09-17T17:07:46] Update schema migration helpers
