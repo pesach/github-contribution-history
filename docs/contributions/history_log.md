@@ -2118,3 +2118,4 @@
 - [2025-09-16T13:03:58] Add error handling for yt-dlp rate limits
 - [2025-09-17T17:47:25] Improve ffmpeg streaming pipe buffer management
 - [2025-09-17T08:43:46] Update B2 storage chunking parameters
+- [2025-09-17T13:33:28] Improve logging and health endpoint metrics
