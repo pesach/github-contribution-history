@@ -2119,3 +2119,4 @@
 - [2025-09-17T17:47:25] Improve ffmpeg streaming pipe buffer management
 - [2025-09-17T08:43:46] Update B2 storage chunking parameters
 - [2025-09-17T13:33:28] Improve logging and health endpoint metrics
+- [2025-09-17T14:33:41] Update documentation and architectural guides
