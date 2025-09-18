@@ -37386,3 +37386,4 @@
 - [2025-09-17T13:30:14] Update schema migration helpers
 - [2025-09-17T13:27:09] Add Prometheus exporter endpoints for queue length
 - [2025-09-17T19:27:34] Add retries for transient network drops
+- [2025-09-17T21:12:12] Refactor cookie refresher probe logic
