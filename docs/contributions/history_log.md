@@ -2130,3 +2130,4 @@
 - [2025-09-18T11:06:32] Update dependency lockfiles and requirements
 - [2025-09-18T21:09:29] Fix edge case in channel tab crawler
 - [2025-09-18T20:53:34] Add Prometheus exporter endpoints for queue length
+- [2025-09-18T11:08:10] Add error handling for yt-dlp rate limits
