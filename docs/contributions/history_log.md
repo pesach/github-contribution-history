@@ -37388,3 +37388,4 @@
 - [2025-09-17T19:27:34] Add retries for transient network drops
 - [2025-09-17T21:12:12] Refactor cookie refresher probe logic
 - [2025-09-17T10:28:46] Add error handling for yt-dlp rate limits
+- [2025-09-17T20:10:13] Improve logging and health endpoint metrics
