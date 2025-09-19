@@ -37392,3 +37392,4 @@
 - [2025-09-17T18:00:29] Enhance dashboard statistics rendering
 - [2025-09-17T10:33:35] Improve logging and health endpoint metrics
 - [2025-09-18T09:55:34] Refactor storage upload retry mechanism
+- [2025-09-18T20:28:04] Improve ffmpeg streaming pipe buffer management
