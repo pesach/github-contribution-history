@@ -2148,3 +2148,4 @@
 - [2025-09-19T21:55:29] Add Prometheus exporter endpoints for queue length
 - [2025-09-19T17:11:40] Improve logging and health endpoint metrics
 - [2025-09-19T09:07:34] Refactor cookie refresher probe logic
+- [2025-09-19T09:47:57] Clean up legacy worker task routines
