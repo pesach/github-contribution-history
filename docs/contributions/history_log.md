@@ -2146,3 +2146,4 @@
 - [2025-09-19T12:00:08] Update B2 storage chunking parameters
 - [2025-09-19T11:37:49] Enhance dashboard statistics rendering
 - [2025-09-19T21:55:29] Add Prometheus exporter endpoints for queue length
+- [2025-09-19T17:11:40] Improve logging and health endpoint metrics
