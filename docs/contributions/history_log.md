@@ -37403,3 +37403,4 @@
 - [2025-09-19T17:17:51] Improve logging and health endpoint metrics
 - [2025-09-19T13:55:09] Fix edge case in channel tab crawler
 - [2025-09-19T11:55:23] Update schema migration helpers
+- [2025-09-19T10:07:47] Update documentation and architectural guides
