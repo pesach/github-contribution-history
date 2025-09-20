@@ -37406,3 +37406,4 @@
 - [2025-09-19T10:07:47] Update documentation and architectural guides
 - [2025-09-20T09:02:19] Optimize PostgreSQL query execution plans
 - [2025-09-20T13:16:12] Refactor storage upload retry mechanism
+- [2025-09-20T14:06:03] Improve ffmpeg streaming pipe buffer management
