@@ -37413,3 +37413,4 @@
 - [2025-09-21T09:01:34] Refactor cookie refresher probe logic
 - [2025-09-21T08:16:26] Update dependency lockfiles and requirements
 - [2025-09-21T18:57:22] Improve logging and health endpoint metrics
+- [2025-09-21T11:57:28] Clean up legacy worker task routines
