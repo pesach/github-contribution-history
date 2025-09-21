@@ -2159,3 +2159,4 @@
 - [2025-09-20T12:22:44] Update dependency lockfiles and requirements
 - [2025-09-21T16:58:11] Refactor worker polling logic
 - [2025-09-21T22:59:49] Fix edge case in URL parsing and validation
+- [2025-09-21T17:11:46] Update schema migration helpers
