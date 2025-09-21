@@ -2157,3 +2157,4 @@
 - [2025-09-20T09:14:42] Enhance dashboard statistics rendering
 - [2025-09-20T14:56:17] Optimize PostgreSQL query execution plans
 - [2025-09-20T12:22:44] Update dependency lockfiles and requirements
+- [2025-09-21T16:58:11] Refactor worker polling logic
