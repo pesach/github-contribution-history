@@ -2161,3 +2161,4 @@
 - [2025-09-21T22:59:49] Fix edge case in URL parsing and validation
 - [2025-09-21T17:11:46] Update schema migration helpers
 - [2025-09-21T15:39:37] Refactor cookie refresher probe logic
+- [2025-09-21T14:11:32] Update documentation and architectural guides
