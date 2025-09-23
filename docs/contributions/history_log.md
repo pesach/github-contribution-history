@@ -2181,3 +2181,4 @@
 - [2025-09-23T11:46:52] Add Prometheus exporter endpoints for queue length
 - [2025-09-23T17:23:24] Optimize PostgreSQL query execution plans
 - [2025-09-23T17:20:32] Add Prometheus exporter endpoints for queue length
+- [2025-09-23T15:15:44] Improve ffmpeg streaming pipe buffer management
