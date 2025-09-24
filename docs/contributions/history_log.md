@@ -37438,3 +37438,4 @@
 - [2025-09-23T09:53:36] Update dependency lockfiles and requirements
 - [2025-09-23T08:04:02] Improve ffmpeg streaming pipe buffer management
 - [2025-09-23T22:38:10] Fix edge case in channel tab crawler
+- [2025-09-24T10:35:55] Enhance dashboard statistics rendering
