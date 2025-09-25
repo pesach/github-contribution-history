@@ -37445,3 +37445,4 @@
 - [2025-09-24T21:34:19] Fix edge case in channel tab crawler
 - [2025-09-24T20:35:17] Update automated pytest test suites
 - [2025-09-24T08:34:54] Refactor cookie refresher probe logic
+- [2025-09-25T19:14:49] Fix edge case in URL parsing and validation
