@@ -2193,3 +2193,4 @@
 - [2025-09-24T20:15:59] Update B2 storage chunking parameters
 - [2025-09-24T08:06:53] Improve ffmpeg streaming pipe buffer management
 - [2025-09-24T21:42:49] Update B2 storage chunking parameters
+- [2025-09-24T21:29:19] Refactor storage upload retry mechanism
