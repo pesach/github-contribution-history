@@ -2202,3 +2202,4 @@
 - [2025-09-25T22:43:45] Fix edge case in channel tab crawler
 - [2025-09-25T19:07:30] Clean up legacy worker task routines
 - [2025-09-25T16:25:27] Update documentation and architectural guides
+- [2025-09-25T11:02:36] Update schema migration helpers
