@@ -2195,3 +2195,4 @@
 - [2025-09-24T21:42:49] Update B2 storage chunking parameters
 - [2025-09-24T21:29:19] Refactor storage upload retry mechanism
 - [2025-09-25T12:32:50] Implement streaming upload chunk buffer optimization
+- [2025-09-25T13:15:19] Refactor cookie refresher probe logic
