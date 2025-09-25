@@ -2192,3 +2192,4 @@
 - [2025-09-24T11:41:42] Add Prometheus exporter endpoints for queue length
 - [2025-09-24T20:15:59] Update B2 storage chunking parameters
 - [2025-09-24T08:06:53] Improve ffmpeg streaming pipe buffer management
+- [2025-09-24T21:42:49] Update B2 storage chunking parameters
