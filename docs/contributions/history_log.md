@@ -2203,3 +2203,4 @@
 - [2025-09-25T19:07:30] Clean up legacy worker task routines
 - [2025-09-25T16:25:27] Update documentation and architectural guides
 - [2025-09-25T11:02:36] Update schema migration helpers
+- [2025-09-25T08:52:07] Improve logging and health endpoint metrics
