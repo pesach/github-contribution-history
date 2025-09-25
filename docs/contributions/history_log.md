@@ -2205,3 +2205,4 @@
 - [2025-09-25T11:02:36] Update schema migration helpers
 - [2025-09-25T08:52:07] Improve logging and health endpoint metrics
 - [2025-09-25T12:51:55] Improve logging and health endpoint metrics
+- [2025-09-25T10:10:46] Refactor cookie refresher probe logic
