@@ -37458,3 +37458,4 @@
 - [2025-09-26T13:47:50] Update dependency lockfiles and requirements
 - [2025-09-26T16:41:06] Enhance dashboard statistics rendering
 - [2025-09-26T08:04:32] Add error handling for yt-dlp rate limits
+- [2025-09-26T11:38:22] Update schema migration helpers
