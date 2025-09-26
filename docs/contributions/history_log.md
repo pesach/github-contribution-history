@@ -2221,3 +2221,4 @@
 - [2025-09-26T16:40:49] Add retries for transient network drops
 - [2025-09-26T08:00:49] Implement streaming upload chunk buffer optimization
 - [2025-09-26T16:25:15] Refactor cookie refresher probe logic
+- [2025-09-26T11:52:21] Improve ffmpeg streaming pipe buffer management
