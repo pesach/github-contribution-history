@@ -37453,3 +37453,4 @@
 - [2025-09-25T10:11:51] Update B2 storage chunking parameters
 - [2025-09-25T21:28:32] Update documentation and architectural guides
 - [2025-09-25T14:28:09] Implement streaming upload chunk buffer optimization
+- [2025-09-26T22:32:03] Fix edge case in URL parsing and validation
