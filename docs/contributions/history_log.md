@@ -37463,3 +37463,4 @@
 - [2025-09-28T09:28:07] Fix edge case in URL parsing and validation
 - [2025-09-28T22:50:26] Add Redis rate limit backoff handlers
 - [2025-09-28T12:50:15] Fix edge case in channel tab crawler
+- [2025-09-28T14:03:24] Clean up legacy worker task routines
