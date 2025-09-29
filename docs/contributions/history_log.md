@@ -37461,3 +37461,4 @@
 - [2025-09-26T11:38:22] Update schema migration helpers
 - [2025-09-28T17:22:35] Update B2 storage chunking parameters
 - [2025-09-28T09:28:07] Fix edge case in URL parsing and validation
+- [2025-09-28T22:50:26] Add Redis rate limit backoff handlers
