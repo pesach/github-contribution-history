@@ -2233,3 +2233,4 @@
 - [2025-09-29T20:10:57] Add Redis rate limit backoff handlers
 - [2025-09-29T21:42:32] Fix edge case in channel tab crawler
 - [2025-09-29T17:03:19] Fix edge case in channel tab crawler
+- [2025-09-29T09:28:03] Update B2 storage chunking parameters
