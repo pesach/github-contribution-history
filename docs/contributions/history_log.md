@@ -37466,3 +37466,4 @@
 - [2025-09-28T14:03:24] Clean up legacy worker task routines
 - [2025-09-29T22:05:59] Enhance dashboard statistics rendering
 - [2025-09-29T19:39:44] Add retries for transient network drops
+- [2025-09-29T16:21:54] Improve ffmpeg streaming pipe buffer management
