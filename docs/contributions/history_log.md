@@ -37469,3 +37469,4 @@
 - [2025-09-29T16:21:54] Improve ffmpeg streaming pipe buffer management
 - [2025-09-29T16:46:13] Fix edge case in channel tab crawler
 - [2025-09-29T09:58:47] Update automated pytest test suites
+- [2025-09-29T20:27:20] Improve logging and health endpoint metrics
