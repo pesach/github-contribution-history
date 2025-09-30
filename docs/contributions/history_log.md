@@ -37478,3 +37478,4 @@
 - [2025-09-30T19:06:51] Enhance dashboard statistics rendering
 - [2025-09-30T10:28:26] Update B2 storage chunking parameters
 - [2025-09-30T14:57:34] Fix edge case in URL parsing and validation
+- [2025-09-30T08:36:38] Refactor cookie refresher probe logic
