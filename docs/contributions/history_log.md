@@ -2230,3 +2230,4 @@
 - [2025-09-28T19:26:13] Optimize PostgreSQL query execution plans
 - [2025-09-28T18:45:44] Add Prometheus exporter endpoints for queue length
 - [2025-09-29T18:07:37] Improve logging and health endpoint metrics
+- [2025-09-29T20:10:57] Add Redis rate limit backoff handlers
