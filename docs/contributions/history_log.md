@@ -2250,3 +2250,4 @@
 - [2025-09-30T20:14:02] Update dependency lockfiles and requirements
 - [2025-09-30T22:04:44] Update schema migration helpers
 - [2025-09-30T08:05:33] Refactor storage upload retry mechanism
+- [2025-10-01T18:49:52] Add error handling for yt-dlp rate limits
