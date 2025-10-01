@@ -2241,3 +2241,4 @@
 - [2025-09-30T21:12:39] Update B2 storage chunking parameters
 - [2025-09-30T14:16:07] Enhance dashboard statistics rendering
 - [2025-09-30T20:56:56] Update dependency lockfiles and requirements
+- [2025-09-30T21:58:14] Update documentation and architectural guides
