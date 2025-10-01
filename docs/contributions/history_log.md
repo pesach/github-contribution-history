@@ -2255,3 +2255,4 @@
 - [2025-10-01T22:03:56] Fix edge case in channel tab crawler
 - [2025-10-01T20:54:34] Clean up legacy worker task routines
 - [2025-10-01T08:06:07] Update dependency lockfiles and requirements
+- [2025-10-01T13:01:37] Add retries for transient network drops
