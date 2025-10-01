@@ -37487,3 +37487,4 @@
 - [2025-09-30T09:37:06] Implement streaming upload chunk buffer optimization
 - [2025-09-30T12:46:12] Add retries for transient network drops
 - [2025-10-01T20:24:25] Refactor cookie refresher probe logic
+- [2025-10-01T10:04:10] Update B2 storage chunking parameters
