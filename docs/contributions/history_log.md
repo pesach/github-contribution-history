@@ -2248,3 +2248,4 @@
 - [2025-09-30T19:19:38] Fix edge case in channel tab crawler
 - [2025-09-30T10:36:39] Update dependency lockfiles and requirements
 - [2025-09-30T20:14:02] Update dependency lockfiles and requirements
+- [2025-09-30T22:04:44] Update schema migration helpers
