@@ -37512,3 +37512,4 @@
 - [2025-10-02T22:02:18] Add error handling for yt-dlp rate limits
 - [2025-10-02T18:51:39] Add error handling for yt-dlp rate limits
 - [2025-10-02T18:28:43] Improve ffmpeg streaming pipe buffer management
+- [2025-10-02T19:38:46] Fix edge case in channel tab crawler
