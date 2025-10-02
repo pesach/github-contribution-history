@@ -2268,3 +2268,4 @@
 - [2025-10-02T13:08:33] Implement streaming upload chunk buffer optimization
 - [2025-10-02T20:41:51] Fix edge case in channel tab crawler
 - [2025-10-02T17:13:29] Clean up legacy worker task routines
+- [2025-10-02T18:24:58] Add error handling for yt-dlp rate limits
