@@ -2271,3 +2271,4 @@
 - [2025-10-02T18:24:58] Add error handling for yt-dlp rate limits
 - [2025-10-02T17:51:33] Refactor worker polling logic
 - [2025-10-02T08:20:50] Update documentation and architectural guides
+- [2025-10-03T12:22:35] Fix edge case in URL parsing and validation
