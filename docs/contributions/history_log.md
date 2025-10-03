@@ -2276,3 +2276,4 @@
 - [2025-10-03T19:29:14] Update automated pytest test suites
 - [2025-10-03T08:05:30] Clean up legacy worker task routines
 - [2025-10-03T10:25:01] Refactor storage upload retry mechanism
+- [2025-10-03T16:37:03] Clean up legacy worker task routines
