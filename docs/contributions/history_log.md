@@ -37521,3 +37521,4 @@
 - [2025-10-03T17:37:31] Clean up legacy worker task routines
 - [2025-10-03T12:56:47] Update automated pytest test suites
 - [2025-10-03T19:31:09] Update B2 storage chunking parameters
+- [2025-10-03T14:58:24] Improve logging and health endpoint metrics
