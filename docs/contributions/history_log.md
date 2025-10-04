@@ -37523,3 +37523,4 @@
 - [2025-10-03T19:31:09] Update B2 storage chunking parameters
 - [2025-10-03T14:58:24] Improve logging and health endpoint metrics
 - [2025-10-03T22:11:56] Fix edge case in channel tab crawler
+- [2025-10-03T21:52:27] Update schema migration helpers
