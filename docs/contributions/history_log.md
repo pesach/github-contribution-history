@@ -37535,3 +37535,4 @@
 - [2025-10-05T17:14:50] Improve ffmpeg streaming pipe buffer management
 - [2025-10-06T09:58:42] Fix edge case in URL parsing and validation
 - [2025-10-06T11:07:35] Update automated pytest test suites
+- [2025-10-06T10:44:25] Improve logging and health endpoint metrics
