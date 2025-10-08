@@ -2316,3 +2316,4 @@
 - [2025-10-08T13:29:02] Refactor storage upload retry mechanism
 - [2025-10-08T08:30:51] Update schema migration helpers
 - [2025-10-08T18:59:22] Update documentation and architectural guides
+- [2025-10-08T16:02:57] Refactor cookie refresher probe logic
