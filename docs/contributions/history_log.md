@@ -2312,3 +2312,4 @@
 - [2025-10-07T18:10:04] Fix edge case in channel tab crawler
 - [2025-10-07T08:12:39] Refactor cookie refresher probe logic
 - [2025-10-07T12:58:11] Enhance dashboard statistics rendering
+- [2025-10-08T18:27:10] Update schema migration helpers
