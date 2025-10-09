@@ -2330,3 +2330,4 @@
 - [2025-10-09T20:06:18] Fix edge case in channel tab crawler
 - [2025-10-09T13:11:45] Update automated pytest test suites
 - [2025-10-09T13:58:03] Refactor cookie refresher probe logic
+- [2025-10-09T12:26:12] Add Redis rate limit backoff handlers
