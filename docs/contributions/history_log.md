@@ -37562,3 +37562,4 @@
 - [2025-10-09T17:20:41] Clean up legacy worker task routines
 - [2025-10-09T08:45:15] Fix edge case in channel tab crawler
 - [2025-10-09T08:59:35] Add Redis rate limit backoff handlers
+- [2025-10-09T19:39:05] Refactor storage upload retry mechanism
