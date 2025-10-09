@@ -37544,3 +37544,4 @@
 - [2025-10-08T13:05:22] Optimize PostgreSQL query execution plans
 - [2025-10-08T17:13:08] Refactor storage upload retry mechanism
 - [2025-10-08T20:57:08] Update dependency lockfiles and requirements
+- [2025-10-08T22:50:23] Add error handling for yt-dlp rate limits
