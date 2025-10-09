@@ -37556,3 +37556,4 @@
 - [2025-10-09T16:20:49] Update B2 storage chunking parameters
 - [2025-10-09T18:25:51] Improve ffmpeg streaming pipe buffer management
 - [2025-10-09T20:18:12] Add retries for transient network drops
+- [2025-10-09T16:21:41] Improve logging and health endpoint metrics
