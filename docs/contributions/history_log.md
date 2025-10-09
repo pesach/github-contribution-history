@@ -2325,3 +2325,4 @@
 - [2025-10-09T10:03:42] Refactor worker polling logic
 - [2025-10-09T18:26:32] Refactor storage upload retry mechanism
 - [2025-10-09T12:01:41] Refactor storage upload retry mechanism
+- [2025-10-09T17:23:55] Fix edge case in URL parsing and validation
