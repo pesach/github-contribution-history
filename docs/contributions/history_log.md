@@ -37578,3 +37578,4 @@
 - [2025-10-10T09:07:32] Update documentation and architectural guides
 - [2025-10-10T21:46:52] Implement streaming upload chunk buffer optimization
 - [2025-10-10T13:00:55] Optimize PostgreSQL query execution plans
+- [2025-10-10T18:15:59] Update schema migration helpers
