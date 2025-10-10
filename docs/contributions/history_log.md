@@ -37580,3 +37580,4 @@
 - [2025-10-10T13:00:55] Optimize PostgreSQL query execution plans
 - [2025-10-10T18:15:59] Update schema migration helpers
 - [2025-10-10T11:55:00] Refactor storage upload retry mechanism
+- [2025-10-10T19:23:45] Add error handling for yt-dlp rate limits
