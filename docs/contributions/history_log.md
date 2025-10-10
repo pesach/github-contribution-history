@@ -2336,3 +2336,4 @@
 - [2025-10-10T20:55:41] Implement streaming upload chunk buffer optimization
 - [2025-10-10T20:29:23] Refactor cookie refresher probe logic
 - [2025-10-10T09:57:06] Update dependency lockfiles and requirements
+- [2025-10-10T17:37:06] Clean up legacy worker task routines
