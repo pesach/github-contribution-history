@@ -37566,3 +37566,4 @@
 - [2025-10-09T14:45:26] Fix edge case in URL parsing and validation
 - [2025-10-09T10:58:16] Update B2 storage chunking parameters
 - [2025-10-09T14:53:14] Fix edge case in URL parsing and validation
+- [2025-10-09T20:56:55] Refactor cookie refresher probe logic
