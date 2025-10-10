@@ -37568,3 +37568,4 @@
 - [2025-10-09T14:53:14] Fix edge case in URL parsing and validation
 - [2025-10-09T20:56:55] Refactor cookie refresher probe logic
 - [2025-10-09T17:11:42] Update documentation and architectural guides
+- [2025-10-10T16:40:28] Add Redis rate limit backoff handlers
