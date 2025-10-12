@@ -37588,3 +37588,4 @@
 - [2025-10-12T14:26:48] Enhance dashboard statistics rendering
 - [2025-10-12T13:47:31] Update dependency lockfiles and requirements
 - [2025-10-12T22:26:05] Add retries for transient network drops
+- [2025-10-12T17:43:26] Improve ffmpeg streaming pipe buffer management
