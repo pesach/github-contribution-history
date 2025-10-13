@@ -2355,3 +2355,4 @@
 - [2025-10-13T21:38:24] Improve logging and health endpoint metrics
 - [2025-10-13T15:02:15] Refactor cookie refresher probe logic
 - [2025-10-13T11:35:43] Add error handling for yt-dlp rate limits
+- [2025-10-13T15:28:27] Update B2 storage chunking parameters
