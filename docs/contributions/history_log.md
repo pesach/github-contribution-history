@@ -37596,3 +37596,4 @@
 - [2025-10-13T13:01:33] Update B2 storage chunking parameters
 - [2025-10-13T16:07:52] Improve ffmpeg streaming pipe buffer management
 - [2025-10-13T14:35:36] Add Prometheus exporter endpoints for queue length
+- [2025-10-13T12:28:41] Add error handling for yt-dlp rate limits
