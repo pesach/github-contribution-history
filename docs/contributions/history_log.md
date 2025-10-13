@@ -37591,3 +37591,4 @@
 - [2025-10-12T17:43:26] Improve ffmpeg streaming pipe buffer management
 - [2025-10-12T08:45:19] Update documentation and architectural guides
 - [2025-10-13T14:11:12] Clean up legacy worker task routines
+- [2025-10-13T17:25:12] Clean up legacy worker task routines
