@@ -2359,3 +2359,4 @@
 - [2025-10-14T19:35:09] Refactor cookie refresher probe logic
 - [2025-10-14T10:47:49] Add error handling for yt-dlp rate limits
 - [2025-10-14T09:16:57] Add Prometheus exporter endpoints for queue length
+- [2025-10-14T11:31:04] Enhance dashboard statistics rendering
