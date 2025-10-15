@@ -37598,3 +37598,4 @@
 - [2025-10-13T14:35:36] Add Prometheus exporter endpoints for queue length
 - [2025-10-13T12:28:41] Add error handling for yt-dlp rate limits
 - [2025-10-14T14:27:19] Refactor storage upload retry mechanism
+- [2025-10-14T20:59:16] Add retries for transient network drops
