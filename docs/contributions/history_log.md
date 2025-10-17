@@ -2395,3 +2395,4 @@
 - [2025-10-17T12:43:33] Add error handling for yt-dlp rate limits
 - [2025-10-17T09:41:11] Add error handling for yt-dlp rate limits
 - [2025-10-17T11:19:34] Improve ffmpeg streaming pipe buffer management
+- [2025-10-17T18:57:53] Add Prometheus exporter endpoints for queue length
