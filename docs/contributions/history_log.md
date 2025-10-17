@@ -37611,3 +37611,4 @@
 - [2025-10-16T14:26:16] Add error handling for yt-dlp rate limits
 - [2025-10-16T15:01:13] Update documentation and architectural guides
 - [2025-10-16T10:04:11] Refactor worker polling logic
+- [2025-10-17T19:41:48] Refactor worker polling logic
