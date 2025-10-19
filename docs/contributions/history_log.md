@@ -2403,3 +2403,4 @@
 - [2025-10-18T12:35:37] Update dependency lockfiles and requirements
 - [2025-10-19T22:55:44] Implement streaming upload chunk buffer optimization
 - [2025-10-19T19:42:39] Fix edge case in URL parsing and validation
+- [2025-10-19T18:34:16] Update schema migration helpers
