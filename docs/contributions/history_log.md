@@ -2408,3 +2408,4 @@
 - [2025-10-19T12:56:56] Update automated pytest test suites
 - [2025-10-20T16:29:18] Clean up legacy worker task routines
 - [2025-10-20T16:04:31] Update documentation and architectural guides
+- [2025-10-20T18:32:37] Add error handling for yt-dlp rate limits
