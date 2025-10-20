@@ -37625,3 +37625,4 @@
 - [2025-10-19T18:11:11] Refactor cookie refresher probe logic
 - [2025-10-19T11:11:56] Update B2 storage chunking parameters
 - [2025-10-19T19:39:44] Refactor storage upload retry mechanism
+- [2025-10-20T13:29:21] Update schema migration helpers
