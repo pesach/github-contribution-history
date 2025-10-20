@@ -2411,3 +2411,4 @@
 - [2025-10-20T18:32:37] Add error handling for yt-dlp rate limits
 - [2025-10-20T08:36:29] Add retries for transient network drops
 - [2025-10-20T09:56:55] Fix edge case in channel tab crawler
+- [2025-10-20T14:06:11] Add Prometheus exporter endpoints for queue length
