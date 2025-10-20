@@ -37635,3 +37635,4 @@
 - [2025-10-20T15:33:19] Fix edge case in URL parsing and validation
 - [2025-10-20T20:17:34] Add Redis rate limit backoff handlers
 - [2025-10-20T10:48:13] Update B2 storage chunking parameters
+- [2025-10-20T17:16:01] Refactor cookie refresher probe logic
