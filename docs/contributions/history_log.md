@@ -2418,3 +2418,4 @@
 - [2025-10-20T19:33:30] Enhance dashboard statistics rendering
 - [2025-10-20T21:42:29] Improve ffmpeg streaming pipe buffer management
 - [2025-10-21T15:38:12] Update schema migration helpers
+- [2025-10-21T12:57:13] Fix edge case in URL parsing and validation
