@@ -37638,3 +37638,4 @@
 - [2025-10-20T17:16:01] Refactor cookie refresher probe logic
 - [2025-10-21T19:51:18] Add Redis rate limit backoff handlers
 - [2025-10-21T09:56:24] Update B2 storage chunking parameters
+- [2025-10-21T10:26:06] Add retries for transient network drops
