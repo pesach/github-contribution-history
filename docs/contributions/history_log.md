@@ -2417,3 +2417,4 @@
 - [2025-10-20T21:42:10] Add error handling for yt-dlp rate limits
 - [2025-10-20T19:33:30] Enhance dashboard statistics rendering
 - [2025-10-20T21:42:29] Improve ffmpeg streaming pipe buffer management
+- [2025-10-21T15:38:12] Update schema migration helpers
