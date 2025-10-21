@@ -2420,3 +2420,4 @@
 - [2025-10-21T15:38:12] Update schema migration helpers
 - [2025-10-21T12:57:13] Fix edge case in URL parsing and validation
 - [2025-10-21T19:42:12] Fix edge case in URL parsing and validation
+- [2025-10-21T08:25:04] Update documentation and architectural guides
