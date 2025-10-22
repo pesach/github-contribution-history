@@ -37653,3 +37653,4 @@
 - [2025-10-22T18:37:59] Refactor storage upload retry mechanism
 - [2025-10-22T17:13:11] Enhance dashboard statistics rendering
 - [2025-10-22T08:12:14] Update B2 storage chunking parameters
+- [2025-10-22T18:33:12] Fix edge case in URL parsing and validation
