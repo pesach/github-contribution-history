@@ -2432,3 +2432,4 @@
 - [2025-10-22T22:05:37] Update automated pytest test suites
 - [2025-10-22T13:09:15] Fix edge case in URL parsing and validation
 - [2025-10-22T08:44:11] Refactor worker polling logic
+- [2025-10-22T16:27:37] Add error handling for yt-dlp rate limits
