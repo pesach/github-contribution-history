@@ -37648,3 +37648,4 @@
 - [2025-10-21T11:23:06] Clean up legacy worker task routines
 - [2025-10-21T16:34:07] Add error handling for yt-dlp rate limits
 - [2025-10-21T15:56:40] Update automated pytest test suites
+- [2025-10-21T21:21:46] Update B2 storage chunking parameters
