@@ -2434,3 +2434,4 @@
 - [2025-10-22T08:44:11] Refactor worker polling logic
 - [2025-10-22T16:27:37] Add error handling for yt-dlp rate limits
 - [2025-10-22T17:57:34] Optimize PostgreSQL query execution plans
+- [2025-10-22T09:38:23] Improve logging and health endpoint metrics
