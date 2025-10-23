@@ -2439,3 +2439,4 @@
 - [2025-10-22T22:15:23] Clean up legacy worker task routines
 - [2025-10-23T22:27:43] Refactor storage upload retry mechanism
 - [2025-10-23T12:53:31] Refactor worker polling logic
+- [2025-10-23T11:07:14] Improve logging and health endpoint metrics
