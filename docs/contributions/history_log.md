@@ -2436,3 +2436,4 @@
 - [2025-10-22T17:57:34] Optimize PostgreSQL query execution plans
 - [2025-10-22T09:38:23] Improve logging and health endpoint metrics
 - [2025-10-22T16:31:47] Update dependency lockfiles and requirements
+- [2025-10-22T22:15:23] Clean up legacy worker task routines
