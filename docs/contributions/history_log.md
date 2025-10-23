@@ -2450,3 +2450,4 @@
 - [2025-10-23T08:44:20] Enhance dashboard statistics rendering
 - [2025-10-23T12:49:29] Update automated pytest test suites
 - [2025-10-23T22:49:06] Enhance dashboard statistics rendering
+- [2025-10-23T08:22:58] Clean up legacy worker task routines
