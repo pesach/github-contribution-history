@@ -2444,3 +2444,4 @@
 - [2025-10-23T09:00:53] Clean up legacy worker task routines
 - [2025-10-23T11:57:10] Improve ffmpeg streaming pipe buffer management
 - [2025-10-23T12:00:10] Update B2 storage chunking parameters
+- [2025-10-23T18:05:45] Add Prometheus exporter endpoints for queue length
