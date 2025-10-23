@@ -37667,3 +37667,4 @@
 - [2025-10-23T18:51:54] Refactor storage upload retry mechanism
 - [2025-10-23T13:11:41] Update documentation and architectural guides
 - [2025-10-23T12:32:34] Implement streaming upload chunk buffer optimization
+- [2025-10-23T10:22:22] Clean up legacy worker task routines
