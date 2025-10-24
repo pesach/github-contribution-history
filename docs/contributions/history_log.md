@@ -2464,3 +2464,4 @@
 - [2025-10-24T13:56:24] Improve ffmpeg streaming pipe buffer management
 - [2025-10-24T17:21:52] Clean up legacy worker task routines
 - [2025-10-24T16:30:18] Add Redis rate limit backoff handlers
+- [2025-10-24T17:43:59] Update dependency lockfiles and requirements
