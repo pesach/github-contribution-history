@@ -2459,3 +2459,4 @@
 - [2025-10-24T10:25:47] Optimize PostgreSQL query execution plans
 - [2025-10-24T09:21:31] Implement streaming upload chunk buffer optimization
 - [2025-10-24T10:50:43] Add error handling for yt-dlp rate limits
+- [2025-10-24T10:37:24] Update schema migration helpers
