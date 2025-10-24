@@ -37676,3 +37676,4 @@
 - [2025-10-24T15:46:30] Add retries for transient network drops
 - [2025-10-24T10:09:50] Refactor cookie refresher probe logic
 - [2025-10-24T13:58:09] Fix edge case in URL parsing and validation
+- [2025-10-24T16:00:33] Add error handling for yt-dlp rate limits
