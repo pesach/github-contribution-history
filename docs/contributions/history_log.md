@@ -2437,3 +2437,4 @@
 - [2025-10-22T09:38:23] Improve logging and health endpoint metrics
 - [2025-10-22T16:31:47] Update dependency lockfiles and requirements
 - [2025-10-22T22:15:23] Clean up legacy worker task routines
+- [2025-10-23T22:27:43] Refactor storage upload retry mechanism
