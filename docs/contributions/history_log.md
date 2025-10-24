@@ -2451,3 +2451,4 @@
 - [2025-10-23T12:49:29] Update automated pytest test suites
 - [2025-10-23T22:49:06] Enhance dashboard statistics rendering
 - [2025-10-23T08:22:58] Clean up legacy worker task routines
+- [2025-10-24T15:43:16] Update schema migration helpers
