@@ -37684,3 +37684,4 @@
 - [2025-10-24T11:55:35] Improve ffmpeg streaming pipe buffer management
 - [2025-10-24T15:56:07] Clean up legacy worker task routines
 - [2025-10-24T11:59:45] Update dependency lockfiles and requirements
+- [2025-10-24T22:20:22] Update B2 storage chunking parameters
