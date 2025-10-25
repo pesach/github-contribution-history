@@ -37688,3 +37688,4 @@
 - [2025-10-25T12:00:08] Refactor worker polling logic
 - [2025-10-25T19:56:57] Enhance dashboard statistics rendering
 - [2025-10-25T14:26:29] Update documentation and architectural guides
+- [2025-10-25T14:16:22] Add Prometheus exporter endpoints for queue length
