@@ -37686,3 +37686,4 @@
 - [2025-10-24T11:59:45] Update dependency lockfiles and requirements
 - [2025-10-24T22:20:22] Update B2 storage chunking parameters
 - [2025-10-25T12:00:08] Refactor worker polling logic
+- [2025-10-25T19:56:57] Enhance dashboard statistics rendering
