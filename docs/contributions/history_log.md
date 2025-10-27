@@ -2484,3 +2484,4 @@
 - [2025-10-27T13:13:42] Implement streaming upload chunk buffer optimization
 - [2025-10-27T11:25:07] Refactor worker polling logic
 - [2025-10-27T10:12:51] Update B2 storage chunking parameters
+- [2025-10-27T15:05:39] Add Redis rate limit backoff handlers
