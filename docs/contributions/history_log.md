@@ -37692,3 +37692,4 @@
 - [2025-10-25T15:29:08] Add error handling for yt-dlp rate limits
 - [2025-10-26T21:31:17] Add error handling for yt-dlp rate limits
 - [2025-10-26T12:44:10] Update schema migration helpers
+- [2025-10-26T22:56:52] Improve ffmpeg streaming pipe buffer management
