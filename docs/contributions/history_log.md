@@ -2482,3 +2482,4 @@
 - [2025-10-27T15:52:38] Improve ffmpeg streaming pipe buffer management
 - [2025-10-27T11:08:08] Improve ffmpeg streaming pipe buffer management
 - [2025-10-27T13:13:42] Implement streaming upload chunk buffer optimization
+- [2025-10-27T11:25:07] Refactor worker polling logic
