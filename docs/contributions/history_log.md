@@ -37699,3 +37699,4 @@
 - [2025-10-27T19:05:34] Refactor worker polling logic
 - [2025-10-27T12:26:11] Refactor storage upload retry mechanism
 - [2025-10-27T18:01:02] Add retries for transient network drops
+- [2025-10-27T21:44:55] Add error handling for yt-dlp rate limits
