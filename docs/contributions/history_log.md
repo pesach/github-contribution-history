@@ -37701,3 +37701,4 @@
 - [2025-10-27T18:01:02] Add retries for transient network drops
 - [2025-10-27T21:44:55] Add error handling for yt-dlp rate limits
 - [2025-10-27T10:40:01] Add error handling for yt-dlp rate limits
+- [2025-10-27T22:18:20] Update dependency lockfiles and requirements
