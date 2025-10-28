@@ -2485,3 +2485,4 @@
 - [2025-10-27T11:25:07] Refactor worker polling logic
 - [2025-10-27T10:12:51] Update B2 storage chunking parameters
 - [2025-10-27T15:05:39] Add Redis rate limit backoff handlers
+- [2025-10-28T19:28:37] Improve logging and health endpoint metrics
