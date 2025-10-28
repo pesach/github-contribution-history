@@ -2488,3 +2488,4 @@
 - [2025-10-28T19:28:37] Improve logging and health endpoint metrics
 - [2025-10-28T13:32:40] Update B2 storage chunking parameters
 - [2025-10-28T17:29:33] Refactor worker polling logic
+- [2025-10-28T14:42:11] Enhance dashboard statistics rendering
