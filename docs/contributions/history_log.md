@@ -37721,3 +37721,4 @@
 - [2025-10-29T22:02:33] Add error handling for yt-dlp rate limits
 - [2025-10-29T22:16:37] Update B2 storage chunking parameters
 - [2025-10-29T19:50:35] Optimize PostgreSQL query execution plans
+- [2025-10-29T16:17:07] Add Prometheus exporter endpoints for queue length
