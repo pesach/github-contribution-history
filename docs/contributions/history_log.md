@@ -2491,3 +2491,4 @@
 - [2025-10-28T14:42:11] Enhance dashboard statistics rendering
 - [2025-10-28T11:43:39] Implement streaming upload chunk buffer optimization
 - [2025-10-28T17:38:52] Update B2 storage chunking parameters
+- [2025-10-29T18:26:16] Improve logging and health endpoint metrics
