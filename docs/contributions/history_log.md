@@ -2493,3 +2493,4 @@
 - [2025-10-28T17:38:52] Update B2 storage chunking parameters
 - [2025-10-29T18:26:16] Improve logging and health endpoint metrics
 - [2025-10-29T16:18:14] Refactor storage upload retry mechanism
+- [2025-10-29T20:57:16] Clean up legacy worker task routines
