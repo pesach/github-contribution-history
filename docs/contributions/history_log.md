@@ -2509,3 +2509,4 @@
 - [2025-10-30T17:10:26] Refactor storage upload retry mechanism
 - [2025-10-30T16:09:24] Add Prometheus exporter endpoints for queue length
 - [2025-10-30T19:43:56] Optimize PostgreSQL query execution plans
+- [2025-10-30T17:47:46] Fix edge case in URL parsing and validation
