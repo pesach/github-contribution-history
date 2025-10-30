@@ -37726,3 +37726,4 @@
 - [2025-10-30T22:45:46] Enhance dashboard statistics rendering
 - [2025-10-30T22:12:30] Implement streaming upload chunk buffer optimization
 - [2025-10-30T20:47:01] Update B2 storage chunking parameters
+- [2025-10-30T11:39:04] Update schema migration helpers
