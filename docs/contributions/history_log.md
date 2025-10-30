@@ -2503,3 +2503,4 @@
 - [2025-10-29T22:25:39] Fix edge case in channel tab crawler
 - [2025-10-30T15:19:57] Update documentation and architectural guides
 - [2025-10-30T19:15:51] Enhance dashboard statistics rendering
+- [2025-10-30T12:28:56] Clean up legacy worker task routines
