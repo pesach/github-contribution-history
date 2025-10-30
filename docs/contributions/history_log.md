@@ -37722,3 +37722,4 @@
 - [2025-10-29T22:16:37] Update B2 storage chunking parameters
 - [2025-10-29T19:50:35] Optimize PostgreSQL query execution plans
 - [2025-10-29T16:17:07] Add Prometheus exporter endpoints for queue length
+- [2025-10-29T20:16:39] Refactor cookie refresher probe logic
