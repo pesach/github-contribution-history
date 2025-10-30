@@ -2506,3 +2506,4 @@
 - [2025-10-30T12:28:56] Clean up legacy worker task routines
 - [2025-10-30T19:46:26] Update B2 storage chunking parameters
 - [2025-10-30T22:46:23] Update automated pytest test suites
+- [2025-10-30T17:10:26] Refactor storage upload retry mechanism
