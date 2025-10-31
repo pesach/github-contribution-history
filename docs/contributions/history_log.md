@@ -37728,3 +37728,4 @@
 - [2025-10-30T20:47:01] Update B2 storage chunking parameters
 - [2025-10-30T11:39:04] Update schema migration helpers
 - [2025-10-30T22:24:14] Fix edge case in channel tab crawler
+- [2025-10-30T21:05:10] Add retries for transient network drops
