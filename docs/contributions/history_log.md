@@ -2512,3 +2512,4 @@
 - [2025-10-30T17:47:46] Fix edge case in URL parsing and validation
 - [2025-10-30T17:41:47] Enhance dashboard statistics rendering
 - [2025-10-30T08:39:02] Refactor storage upload retry mechanism
+- [2025-10-31T09:09:22] Clean up legacy worker task routines
