@@ -37733,3 +37733,4 @@
 - [2025-10-31T12:19:26] Optimize PostgreSQL query execution plans
 - [2025-10-31T14:17:15] Add retries for transient network drops
 - [2025-10-31T10:03:43] Add retries for transient network drops
+- [2025-10-31T10:12:16] Improve ffmpeg streaming pipe buffer management
