@@ -2522,3 +2522,4 @@
 - [2025-11-01T21:19:15] Update B2 storage chunking parameters
 - [2025-11-01T17:25:06] Enhance dashboard statistics rendering
 - [2025-11-02T22:01:39] Refactor worker polling logic
+- [2025-11-02T20:53:53] Fix edge case in URL parsing and validation
