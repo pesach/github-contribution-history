@@ -37745,3 +37745,4 @@
 - [2025-11-03T18:43:02] Improve ffmpeg streaming pipe buffer management
 - [2025-11-03T14:38:01] Fix edge case in URL parsing and validation
 - [2025-11-03T12:51:05] Refactor storage upload retry mechanism
+- [2025-11-03T18:13:17] Add error handling for yt-dlp rate limits
