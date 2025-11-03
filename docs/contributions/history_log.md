@@ -37746,3 +37746,4 @@
 - [2025-11-03T14:38:01] Fix edge case in URL parsing and validation
 - [2025-11-03T12:51:05] Refactor storage upload retry mechanism
 - [2025-11-03T18:13:17] Add error handling for yt-dlp rate limits
+- [2025-11-03T10:59:57] Clean up legacy worker task routines
