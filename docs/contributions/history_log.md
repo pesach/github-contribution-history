@@ -2527,3 +2527,4 @@
 - [2025-11-03T10:09:02] Implement streaming upload chunk buffer optimization
 - [2025-11-03T19:54:46] Refactor worker polling logic
 - [2025-11-03T18:30:40] Refactor cookie refresher probe logic
+- [2025-11-03T19:49:02] Refactor storage upload retry mechanism
