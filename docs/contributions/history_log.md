@@ -37747,3 +37747,4 @@
 - [2025-11-03T12:51:05] Refactor storage upload retry mechanism
 - [2025-11-03T18:13:17] Add error handling for yt-dlp rate limits
 - [2025-11-03T10:59:57] Clean up legacy worker task routines
+- [2025-11-04T11:02:46] Add error handling for yt-dlp rate limits
