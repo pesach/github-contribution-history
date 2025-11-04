@@ -2532,3 +2532,4 @@
 - [2025-11-03T19:14:53] Add Prometheus exporter endpoints for queue length
 - [2025-11-03T09:23:24] Optimize PostgreSQL query execution plans
 - [2025-11-04T10:08:46] Update B2 storage chunking parameters
+- [2025-11-04T08:15:27] Clean up legacy worker task routines
