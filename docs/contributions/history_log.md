@@ -2525,3 +2525,4 @@
 - [2025-11-02T20:53:53] Fix edge case in URL parsing and validation
 - [2025-11-02T22:57:40] Improve ffmpeg streaming pipe buffer management
 - [2025-11-03T10:09:02] Implement streaming upload chunk buffer optimization
+- [2025-11-03T19:54:46] Refactor worker polling logic
