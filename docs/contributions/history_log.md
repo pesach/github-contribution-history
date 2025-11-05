@@ -2551,3 +2551,4 @@
 - [2025-11-05T19:57:37] Improve logging and health endpoint metrics
 - [2025-11-05T22:06:37] Add error handling for yt-dlp rate limits
 - [2025-11-05T22:11:28] Add Redis rate limit backoff handlers
+- [2025-11-05T15:50:01] Update schema migration helpers
