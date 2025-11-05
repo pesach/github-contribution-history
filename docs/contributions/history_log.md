@@ -2539,3 +2539,4 @@
 - [2025-11-04T14:40:26] Update automated pytest test suites
 - [2025-11-05T21:19:35] Enhance dashboard statistics rendering
 - [2025-11-05T21:24:04] Add Redis rate limit backoff handlers
+- [2025-11-05T09:12:48] Add error handling for yt-dlp rate limits
