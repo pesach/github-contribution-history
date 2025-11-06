@@ -2544,3 +2544,4 @@
 - [2025-11-05T13:50:45] Add retries for transient network drops
 - [2025-11-05T19:25:31] Enhance dashboard statistics rendering
 - [2025-11-05T12:02:23] Enhance dashboard statistics rendering
+- [2025-11-05T21:34:31] Update schema migration helpers
