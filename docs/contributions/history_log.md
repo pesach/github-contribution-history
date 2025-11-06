@@ -2548,3 +2548,4 @@
 - [2025-11-05T08:52:48] Refactor worker polling logic
 - [2025-11-05T15:12:34] Implement streaming upload chunk buffer optimization
 - [2025-11-05T16:02:41] Add Prometheus exporter endpoints for queue length
+- [2025-11-05T19:57:37] Improve logging and health endpoint metrics
