@@ -2555,3 +2555,4 @@
 - [2025-11-06T13:58:35] Update B2 storage chunking parameters
 - [2025-11-06T08:14:59] Add retries for transient network drops
 - [2025-11-06T12:13:45] Fix edge case in URL parsing and validation
+- [2025-11-06T18:37:59] Add error handling for yt-dlp rate limits
