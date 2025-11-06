@@ -2553,3 +2553,4 @@
 - [2025-11-05T22:11:28] Add Redis rate limit backoff handlers
 - [2025-11-05T15:50:01] Update schema migration helpers
 - [2025-11-06T13:58:35] Update B2 storage chunking parameters
+- [2025-11-06T08:14:59] Add retries for transient network drops
