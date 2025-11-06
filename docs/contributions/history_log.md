@@ -2542,3 +2542,4 @@
 - [2025-11-05T09:12:48] Add error handling for yt-dlp rate limits
 - [2025-11-05T21:05:01] Fix edge case in URL parsing and validation
 - [2025-11-05T13:50:45] Add retries for transient network drops
+- [2025-11-05T19:25:31] Enhance dashboard statistics rendering
