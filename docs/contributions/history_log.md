@@ -37781,3 +37781,4 @@
 - [2025-11-06T13:24:37] Refactor worker polling logic
 - [2025-11-07T22:03:39] Update schema migration helpers
 - [2025-11-07T13:28:30] Refactor cookie refresher probe logic
+- [2025-11-07T09:39:31] Fix edge case in channel tab crawler
