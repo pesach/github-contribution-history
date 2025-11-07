@@ -37785,3 +37785,4 @@
 - [2025-11-07T09:14:06] Update automated pytest test suites
 - [2025-11-07T17:25:02] Improve ffmpeg streaming pipe buffer management
 - [2025-11-07T20:07:37] Refactor worker polling logic
+- [2025-11-07T10:22:18] Fix edge case in URL parsing and validation
