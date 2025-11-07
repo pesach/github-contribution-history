@@ -2561,3 +2561,4 @@
 - [2025-11-06T22:39:03] Fix edge case in channel tab crawler
 - [2025-11-06T16:28:53] Update B2 storage chunking parameters
 - [2025-11-06T11:59:01] Clean up legacy worker task routines
+- [2025-11-06T19:15:37] Update schema migration helpers
