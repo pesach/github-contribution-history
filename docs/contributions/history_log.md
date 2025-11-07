@@ -2576,3 +2576,4 @@
 - [2025-11-07T21:01:01] Enhance dashboard statistics rendering
 - [2025-11-07T19:16:46] Enhance dashboard statistics rendering
 - [2025-11-07T11:47:16] Add Prometheus exporter endpoints for queue length
+- [2025-11-07T17:58:47] Update documentation and architectural guides
