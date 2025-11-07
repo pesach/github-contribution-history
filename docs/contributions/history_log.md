@@ -2575,3 +2575,4 @@
 - [2025-11-07T20:38:26] Refactor storage upload retry mechanism
 - [2025-11-07T21:01:01] Enhance dashboard statistics rendering
 - [2025-11-07T19:16:46] Enhance dashboard statistics rendering
+- [2025-11-07T11:47:16] Add Prometheus exporter endpoints for queue length
