@@ -37776,3 +37776,4 @@
 - [2025-11-06T15:39:16] Update automated pytest test suites
 - [2025-11-06T13:53:02] Clean up legacy worker task routines
 - [2025-11-06T18:35:47] Refactor storage upload retry mechanism
+- [2025-11-06T22:25:41] Fix edge case in URL parsing and validation
