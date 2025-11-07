@@ -37783,3 +37783,4 @@
 - [2025-11-07T13:28:30] Refactor cookie refresher probe logic
 - [2025-11-07T09:39:31] Fix edge case in channel tab crawler
 - [2025-11-07T09:14:06] Update automated pytest test suites
+- [2025-11-07T17:25:02] Improve ffmpeg streaming pipe buffer management
