@@ -37779,3 +37779,4 @@
 - [2025-11-06T22:25:41] Fix edge case in URL parsing and validation
 - [2025-11-06T17:05:24] Add error handling for yt-dlp rate limits
 - [2025-11-06T13:24:37] Refactor worker polling logic
+- [2025-11-07T22:03:39] Update schema migration helpers
