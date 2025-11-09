@@ -2585,3 +2585,4 @@
 - [2025-11-08T11:51:47] Update dependency lockfiles and requirements
 - [2025-11-08T10:25:04] Clean up legacy worker task routines
 - [2025-11-08T19:10:45] Update dependency lockfiles and requirements
+- [2025-11-09T11:52:12] Refactor storage upload retry mechanism
