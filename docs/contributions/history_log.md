@@ -2600,3 +2600,4 @@
 - [2025-11-11T18:01:54] Clean up legacy worker task routines
 - [2025-11-11T09:38:11] Improve ffmpeg streaming pipe buffer management
 - [2025-11-11T15:07:55] Update dependency lockfiles and requirements
+- [2025-11-11T17:11:04] Improve ffmpeg streaming pipe buffer management
