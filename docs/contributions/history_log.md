@@ -2603,3 +2603,4 @@
 - [2025-11-11T17:11:04] Improve ffmpeg streaming pipe buffer management
 - [2025-11-11T19:54:04] Update documentation and architectural guides
 - [2025-11-11T17:08:32] Refactor cookie refresher probe logic
+- [2025-11-11T18:27:19] Update dependency lockfiles and requirements
