@@ -37818,3 +37818,4 @@
 - [2025-11-11T22:16:16] Clean up legacy worker task routines
 - [2025-11-11T08:52:05] Add Prometheus exporter endpoints for queue length
 - [2025-11-11T17:37:19] Improve ffmpeg streaming pipe buffer management
+- [2025-11-11T17:08:32] Update schema migration helpers
