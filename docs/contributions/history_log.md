@@ -37827,3 +37827,4 @@
 - [2025-11-12T15:26:45] Improve ffmpeg streaming pipe buffer management
 - [2025-11-12T18:18:43] Add Redis rate limit backoff handlers
 - [2025-11-12T08:25:50] Update dependency lockfiles and requirements
+- [2025-11-12T17:18:20] Add error handling for yt-dlp rate limits
