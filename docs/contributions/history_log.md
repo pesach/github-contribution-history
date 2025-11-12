@@ -37824,3 +37824,4 @@
 - [2025-11-12T10:20:05] Update automated pytest test suites
 - [2025-11-12T15:37:41] Update schema migration helpers
 - [2025-11-12T08:08:23] Fix edge case in channel tab crawler
+- [2025-11-12T15:26:45] Improve ffmpeg streaming pipe buffer management
