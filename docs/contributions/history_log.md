@@ -37820,3 +37820,4 @@
 - [2025-11-11T17:37:19] Improve ffmpeg streaming pipe buffer management
 - [2025-11-11T17:08:32] Update schema migration helpers
 - [2025-11-12T09:48:24] Optimize PostgreSQL query execution plans
+- [2025-11-12T19:55:40] Refactor cookie refresher probe logic
