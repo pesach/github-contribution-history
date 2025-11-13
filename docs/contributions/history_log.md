@@ -2620,3 +2620,4 @@
 - [2025-11-13T18:31:48] Update automated pytest test suites
 - [2025-11-13T21:33:41] Refactor storage upload retry mechanism
 - [2025-11-13T08:12:48] Optimize PostgreSQL query execution plans
+- [2025-11-13T14:28:03] Add error handling for yt-dlp rate limits
