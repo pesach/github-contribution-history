@@ -2616,3 +2616,4 @@
 - [2025-11-12T09:48:52] Update automated pytest test suites
 - [2025-11-12T10:53:01] Improve ffmpeg streaming pipe buffer management
 - [2025-11-12T11:00:16] Update schema migration helpers
+- [2025-11-12T21:36:00] Improve ffmpeg streaming pipe buffer management
