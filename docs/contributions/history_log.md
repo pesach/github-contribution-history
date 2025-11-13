@@ -37834,3 +37834,4 @@
 - [2025-11-13T18:38:21] Update B2 storage chunking parameters
 - [2025-11-13T13:28:01] Add retries for transient network drops
 - [2025-11-13T13:20:30] Fix edge case in URL parsing and validation
+- [2025-11-13T14:28:55] Clean up legacy worker task routines
