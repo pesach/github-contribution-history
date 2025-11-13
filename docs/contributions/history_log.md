@@ -2611,3 +2611,4 @@
 - [2025-11-12T15:17:00] Improve logging and health endpoint metrics
 - [2025-11-12T22:18:35] Refactor worker polling logic
 - [2025-11-12T09:56:59] Update automated pytest test suites
+- [2025-11-12T19:43:20] Add retries for transient network drops
