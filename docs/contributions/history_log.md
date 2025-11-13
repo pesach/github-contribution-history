@@ -37830,3 +37830,4 @@
 - [2025-11-12T17:18:20] Add error handling for yt-dlp rate limits
 - [2025-11-12T21:28:31] Add Prometheus exporter endpoints for queue length
 - [2025-11-12T16:19:13] Optimize PostgreSQL query execution plans
+- [2025-11-13T15:39:12] Add Redis rate limit backoff handlers
