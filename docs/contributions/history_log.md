@@ -2606,3 +2606,4 @@
 - [2025-11-11T18:27:19] Update dependency lockfiles and requirements
 - [2025-11-12T10:03:00] Refactor cookie refresher probe logic
 - [2025-11-12T16:52:11] Update dependency lockfiles and requirements
+- [2025-11-12T19:24:13] Improve ffmpeg streaming pipe buffer management
