@@ -2631,3 +2631,4 @@
 - [2025-11-14T17:09:30] Update documentation and architectural guides
 - [2025-11-14T10:07:08] Update automated pytest test suites
 - [2025-11-14T12:46:38] Enhance dashboard statistics rendering
+- [2025-11-14T09:02:56] Refactor worker polling logic
