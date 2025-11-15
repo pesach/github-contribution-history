@@ -37858,3 +37858,4 @@
 - [2025-11-14T15:50:10] Update dependency lockfiles and requirements
 - [2025-11-14T11:49:53] Add error handling for yt-dlp rate limits
 - [2025-11-14T08:59:16] Update schema migration helpers
+- [2025-11-15T08:38:35] Add retries for transient network drops
