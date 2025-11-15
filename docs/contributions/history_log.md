@@ -37860,3 +37860,4 @@
 - [2025-11-14T08:59:16] Update schema migration helpers
 - [2025-11-15T08:38:35] Add retries for transient network drops
 - [2025-11-15T15:04:15] Optimize PostgreSQL query execution plans
+- [2025-11-15T08:24:44] Update documentation and architectural guides
