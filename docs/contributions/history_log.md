@@ -2640,3 +2640,4 @@
 - [2025-11-15T08:32:50] Refactor worker polling logic
 - [2025-11-16T08:34:33] Refactor storage upload retry mechanism
 - [2025-11-16T08:51:32] Clean up legacy worker task routines
+- [2025-11-16T15:56:11] Add retries for transient network drops
