@@ -2646,3 +2646,4 @@
 - [2025-11-17T08:49:58] Update documentation and architectural guides
 - [2025-11-17T18:05:02] Update dependency lockfiles and requirements
 - [2025-11-17T08:42:45] Refactor storage upload retry mechanism
+- [2025-11-17T09:36:13] Improve logging and health endpoint metrics
