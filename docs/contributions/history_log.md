@@ -2643,3 +2643,4 @@
 - [2025-11-16T15:56:11] Add retries for transient network drops
 - [2025-11-17T21:56:38] Update automated pytest test suites
 - [2025-11-17T10:44:19] Update B2 storage chunking parameters
+- [2025-11-17T08:49:58] Update documentation and architectural guides
