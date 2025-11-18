@@ -2656,3 +2656,4 @@
 - [2025-11-18T22:40:53] Refactor cookie refresher probe logic
 - [2025-11-18T17:52:09] Add retries for transient network drops
 - [2025-11-18T13:08:06] Update schema migration helpers
+- [2025-11-18T10:57:06] Update B2 storage chunking parameters
