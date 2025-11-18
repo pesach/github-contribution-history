@@ -2654,3 +2654,4 @@
 - [2025-11-18T19:43:51] Add Prometheus exporter endpoints for queue length
 - [2025-11-18T20:53:29] Add Redis rate limit backoff handlers
 - [2025-11-18T22:40:53] Refactor cookie refresher probe logic
+- [2025-11-18T17:52:09] Add retries for transient network drops
