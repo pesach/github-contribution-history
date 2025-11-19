@@ -37889,3 +37889,4 @@
 - [2025-11-18T18:40:38] Add error handling for yt-dlp rate limits
 - [2025-11-18T10:37:46] Update B2 storage chunking parameters
 - [2025-11-18T13:05:18] Update automated pytest test suites
+- [2025-11-19T16:45:41] Refactor storage upload retry mechanism
