@@ -2662,3 +2662,4 @@
 - [2025-11-18T11:41:16] Update schema migration helpers
 - [2025-11-19T18:21:58] Implement streaming upload chunk buffer optimization
 - [2025-11-19T21:33:12] Fix edge case in channel tab crawler
+- [2025-11-19T15:29:16] Add retries for transient network drops
