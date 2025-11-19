@@ -2664,3 +2664,4 @@
 - [2025-11-19T21:33:12] Fix edge case in channel tab crawler
 - [2025-11-19T15:29:16] Add retries for transient network drops
 - [2025-11-19T09:16:10] Refactor worker polling logic
+- [2025-11-19T13:32:27] Add error handling for yt-dlp rate limits
