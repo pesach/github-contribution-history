@@ -37914,3 +37914,4 @@
 - [2025-11-21T18:36:51] Update documentation and architectural guides
 - [2025-11-21T15:35:53] Refactor worker polling logic
 - [2025-11-21T12:15:18] Update B2 storage chunking parameters
+- [2025-11-21T09:35:31] Improve ffmpeg streaming pipe buffer management
