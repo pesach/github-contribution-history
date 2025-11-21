@@ -37899,3 +37899,4 @@
 - [2025-11-19T16:23:12] Update documentation and architectural guides
 - [2025-11-20T20:57:30] Add Redis rate limit backoff handlers
 - [2025-11-20T22:22:34] Refactor worker polling logic
+- [2025-11-20T20:44:45] Refactor worker polling logic
