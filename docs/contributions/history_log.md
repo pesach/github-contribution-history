@@ -2666,3 +2666,4 @@
 - [2025-11-19T09:16:10] Refactor worker polling logic
 - [2025-11-19T13:32:27] Add error handling for yt-dlp rate limits
 - [2025-11-19T10:32:58] Improve ffmpeg streaming pipe buffer management
+- [2025-11-20T19:20:51] Add error handling for yt-dlp rate limits
