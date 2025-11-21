@@ -2677,3 +2677,4 @@
 - [2025-11-21T21:00:42] Update automated pytest test suites
 - [2025-11-21T17:29:38] Refactor storage upload retry mechanism
 - [2025-11-21T15:34:06] Add Prometheus exporter endpoints for queue length
+- [2025-11-21T10:32:56] Update schema migration helpers
