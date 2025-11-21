@@ -37915,3 +37915,4 @@
 - [2025-11-21T15:35:53] Refactor worker polling logic
 - [2025-11-21T12:15:18] Update B2 storage chunking parameters
 - [2025-11-21T09:35:31] Improve ffmpeg streaming pipe buffer management
+- [2025-11-21T08:35:59] Clean up legacy worker task routines
