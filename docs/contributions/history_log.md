@@ -37918,3 +37918,4 @@
 - [2025-11-21T08:35:59] Clean up legacy worker task routines
 - [2025-11-22T14:09:17] Refactor cookie refresher probe logic
 - [2025-11-22T11:17:05] Add Prometheus exporter endpoints for queue length
+- [2025-11-22T09:05:43] Add Redis rate limit backoff handlers
