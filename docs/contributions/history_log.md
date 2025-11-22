@@ -37916,3 +37916,4 @@
 - [2025-11-21T12:15:18] Update B2 storage chunking parameters
 - [2025-11-21T09:35:31] Improve ffmpeg streaming pipe buffer management
 - [2025-11-21T08:35:59] Clean up legacy worker task routines
+- [2025-11-22T14:09:17] Refactor cookie refresher probe logic
