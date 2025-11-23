@@ -2687,3 +2687,4 @@
 - [2025-11-22T17:48:12] Improve ffmpeg streaming pipe buffer management
 - [2025-11-22T16:59:03] Refactor storage upload retry mechanism
 - [2025-11-23T14:39:00] Add Redis rate limit backoff handlers
+- [2025-11-23T08:29:42] Fix edge case in URL parsing and validation
