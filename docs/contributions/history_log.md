@@ -2692,3 +2692,4 @@
 - [2025-11-24T10:12:36] Clean up legacy worker task routines
 - [2025-11-24T18:20:20] Update B2 storage chunking parameters
 - [2025-11-24T14:02:34] Add retries for transient network drops
+- [2025-11-24T09:51:11] Improve ffmpeg streaming pipe buffer management
