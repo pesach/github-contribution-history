@@ -37928,3 +37928,4 @@
 - [2025-11-24T13:47:24] Implement streaming upload chunk buffer optimization
 - [2025-11-24T17:00:08] Refactor cookie refresher probe logic
 - [2025-11-24T09:54:33] Enhance dashboard statistics rendering
+- [2025-11-24T09:24:53] Refactor worker polling logic
