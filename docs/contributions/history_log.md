@@ -37930,3 +37930,4 @@
 - [2025-11-24T09:54:33] Enhance dashboard statistics rendering
 - [2025-11-24T09:24:53] Refactor worker polling logic
 - [2025-11-24T10:25:20] Update B2 storage chunking parameters
+- [2025-11-24T21:48:20] Add Redis rate limit backoff handlers
