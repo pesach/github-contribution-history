@@ -2708,3 +2708,4 @@
 - [2025-11-25T09:41:09] Add error handling for yt-dlp rate limits
 - [2025-11-25T16:24:06] Fix edge case in channel tab crawler
 - [2025-11-25T12:17:34] Add retries for transient network drops
+- [2025-11-25T11:48:36] Enhance dashboard statistics rendering
