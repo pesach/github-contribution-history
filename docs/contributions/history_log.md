@@ -2710,3 +2710,4 @@
 - [2025-11-25T12:17:34] Add retries for transient network drops
 - [2025-11-25T11:48:36] Enhance dashboard statistics rendering
 - [2025-11-25T15:29:02] Add Prometheus exporter endpoints for queue length
+- [2025-11-25T09:15:36] Add Prometheus exporter endpoints for queue length
