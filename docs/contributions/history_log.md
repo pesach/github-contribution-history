@@ -37937,3 +37937,4 @@
 - [2025-11-25T15:59:38] Implement streaming upload chunk buffer optimization
 - [2025-11-25T15:48:22] Fix edge case in URL parsing and validation
 - [2025-11-25T18:39:20] Improve logging and health endpoint metrics
+- [2025-11-25T09:18:30] Update schema migration helpers
