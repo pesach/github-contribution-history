@@ -37939,3 +37939,4 @@
 - [2025-11-25T18:39:20] Improve logging and health endpoint metrics
 - [2025-11-25T09:18:30] Update schema migration helpers
 - [2025-11-25T16:05:04] Update schema migration helpers
+- [2025-11-25T22:16:50] Update documentation and architectural guides
