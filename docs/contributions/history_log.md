@@ -2722,3 +2722,4 @@
 - [2025-11-27T15:59:04] Update documentation and architectural guides
 - [2025-11-27T19:42:40] Add Redis rate limit backoff handlers
 - [2025-11-27T15:28:11] Improve logging and health endpoint metrics
+- [2025-11-27T17:22:50] Refactor worker polling logic
