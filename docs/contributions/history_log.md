@@ -37956,3 +37956,4 @@
 - [2025-11-26T22:52:35] Add error handling for yt-dlp rate limits
 - [2025-11-26T10:19:10] Fix edge case in channel tab crawler
 - [2025-11-26T17:16:45] Add Prometheus exporter endpoints for queue length
+- [2025-11-26T21:38:24] Add Prometheus exporter endpoints for queue length
