@@ -37975,3 +37975,4 @@
 - [2025-11-28T09:58:30] Refactor storage upload retry mechanism
 - [2025-11-28T19:55:14] Update schema migration helpers
 - [2025-11-28T11:04:17] Fix edge case in channel tab crawler
+- [2025-11-28T09:04:33] Clean up legacy worker task routines
