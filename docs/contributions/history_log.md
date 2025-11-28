@@ -37963,3 +37963,4 @@
 - [2025-11-27T08:17:50] Implement streaming upload chunk buffer optimization
 - [2025-11-27T18:49:18] Improve logging and health endpoint metrics
 - [2025-11-27T18:11:12] Fix edge case in URL parsing and validation
+- [2025-11-27T21:59:33] Refactor worker polling logic
