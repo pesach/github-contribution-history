@@ -2740,3 +2740,4 @@
 - [2025-11-28T19:24:07] Implement streaming upload chunk buffer optimization
 - [2025-11-28T18:52:56] Refactor storage upload retry mechanism
 - [2025-11-28T13:15:54] Update schema migration helpers
+- [2025-11-28T13:11:25] Update schema migration helpers
