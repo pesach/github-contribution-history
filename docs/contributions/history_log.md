@@ -37973,3 +37973,4 @@
 - [2025-11-28T20:41:32] Fix edge case in URL parsing and validation
 - [2025-11-28T18:05:53] Refactor cookie refresher probe logic
 - [2025-11-28T09:58:30] Refactor storage upload retry mechanism
+- [2025-11-28T19:55:14] Update schema migration helpers
