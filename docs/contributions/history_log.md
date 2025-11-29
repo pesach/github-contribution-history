@@ -37978,3 +37978,4 @@
 - [2025-11-28T09:04:33] Clean up legacy worker task routines
 - [2025-11-28T13:30:03] Add Prometheus exporter endpoints for queue length
 - [2025-11-28T19:55:02] Refactor cookie refresher probe logic
+- [2025-11-28T19:49:42] Add retries for transient network drops
