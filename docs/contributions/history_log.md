@@ -37970,3 +37970,4 @@
 - [2025-11-28T18:01:50] Add error handling for yt-dlp rate limits
 - [2025-11-28T15:15:09] Optimize PostgreSQL query execution plans
 - [2025-11-28T16:39:15] Update B2 storage chunking parameters
+- [2025-11-28T20:41:32] Fix edge case in URL parsing and validation
