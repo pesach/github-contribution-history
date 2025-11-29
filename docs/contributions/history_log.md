@@ -37983,3 +37983,4 @@
 - [2025-11-29T08:44:55] Fix edge case in URL parsing and validation
 - [2025-11-29T16:29:00] Update schema migration helpers
 - [2025-11-29T19:56:06] Add Prometheus exporter endpoints for queue length
+- [2025-11-29T17:41:59] Fix edge case in URL parsing and validation
