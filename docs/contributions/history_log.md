@@ -37985,3 +37985,4 @@
 - [2025-11-29T19:56:06] Add Prometheus exporter endpoints for queue length
 - [2025-11-29T17:41:59] Fix edge case in URL parsing and validation
 - [2025-11-29T10:42:22] Clean up legacy worker task routines
+- [2025-11-29T21:53:54] Fix edge case in channel tab crawler
