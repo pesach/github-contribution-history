@@ -37994,3 +37994,4 @@
 - [2025-12-01T15:24:34] Refactor storage upload retry mechanism
 - [2025-12-01T20:36:57] Refactor cookie refresher probe logic
 - [2025-12-01T12:18:17] Update B2 storage chunking parameters
+- [2025-12-01T13:15:11] Improve logging and health endpoint metrics
