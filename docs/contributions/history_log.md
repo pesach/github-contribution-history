@@ -37998,3 +37998,4 @@
 - [2025-12-01T09:10:36] Update documentation and architectural guides
 - [2025-12-01T12:01:39] Fix edge case in channel tab crawler
 - [2025-12-01T14:05:17] Improve ffmpeg streaming pipe buffer management
+- [2025-12-01T11:33:17] Add Redis rate limit backoff handlers
