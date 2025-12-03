@@ -2763,3 +2763,4 @@
 - [2025-12-03T11:00:55] Update automated pytest test suites
 - [2025-12-03T19:32:04] Add retries for transient network drops
 - [2025-12-03T12:59:12] Improve ffmpeg streaming pipe buffer management
+- [2025-12-03T18:24:32] Add retries for transient network drops
