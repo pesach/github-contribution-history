@@ -2756,3 +2756,4 @@
 - [2025-12-02T17:19:51] Implement streaming upload chunk buffer optimization
 - [2025-12-02T08:24:15] Update automated pytest test suites
 - [2025-12-03T09:31:27] Add error handling for yt-dlp rate limits
+- [2025-12-03T18:49:11] Improve ffmpeg streaming pipe buffer management
