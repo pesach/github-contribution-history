@@ -38014,3 +38014,4 @@
 - [2025-12-03T13:04:23] Enhance dashboard statistics rendering
 - [2025-12-04T13:43:13] Optimize PostgreSQL query execution plans
 - [2025-12-04T16:32:17] Refactor storage upload retry mechanism
+- [2025-12-04T12:51:09] Add Prometheus exporter endpoints for queue length
