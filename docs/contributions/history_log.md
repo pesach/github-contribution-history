@@ -2759,3 +2759,4 @@
 - [2025-12-03T18:49:11] Improve ffmpeg streaming pipe buffer management
 - [2025-12-03T19:55:28] Add retries for transient network drops
 - [2025-12-03T20:41:11] Optimize PostgreSQL query execution plans
+- [2025-12-03T19:12:12] Update schema migration helpers
