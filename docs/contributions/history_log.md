@@ -38018,3 +38018,4 @@
 - [2025-12-04T11:37:09] Update schema migration helpers
 - [2025-12-04T16:02:04] Fix edge case in channel tab crawler
 - [2025-12-04T16:51:47] Improve logging and health endpoint metrics
+- [2025-12-04T13:14:13] Clean up legacy worker task routines
