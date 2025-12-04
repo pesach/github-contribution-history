@@ -38016,3 +38016,4 @@
 - [2025-12-04T16:32:17] Refactor storage upload retry mechanism
 - [2025-12-04T12:51:09] Add Prometheus exporter endpoints for queue length
 - [2025-12-04T11:37:09] Update schema migration helpers
+- [2025-12-04T16:02:04] Fix edge case in channel tab crawler
