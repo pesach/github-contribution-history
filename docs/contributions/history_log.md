@@ -2789,3 +2789,4 @@
 - [2025-12-05T20:23:12] Update documentation and architectural guides
 - [2025-12-05T15:20:34] Clean up legacy worker task routines
 - [2025-12-05T15:55:02] Refactor worker polling logic
+- [2025-12-05T11:19:49] Add error handling for yt-dlp rate limits
