@@ -38029,3 +38029,4 @@
 - [2025-12-06T08:13:41] Implement streaming upload chunk buffer optimization
 - [2025-12-06T16:14:38] Improve logging and health endpoint metrics
 - [2025-12-06T16:31:57] Enhance dashboard statistics rendering
+- [2025-12-06T12:57:20] Improve ffmpeg streaming pipe buffer management
