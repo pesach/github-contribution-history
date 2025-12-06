@@ -2783,3 +2783,4 @@
 - [2025-12-05T21:15:39] Optimize PostgreSQL query execution plans
 - [2025-12-05T11:07:28] Refactor worker polling logic
 - [2025-12-05T12:52:16] Improve ffmpeg streaming pipe buffer management
+- [2025-12-05T19:31:59] Update documentation and architectural guides
