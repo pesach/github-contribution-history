@@ -38035,3 +38035,4 @@
 - [2025-12-08T14:43:31] Improve ffmpeg streaming pipe buffer management
 - [2025-12-08T10:16:36] Refactor worker polling logic
 - [2025-12-08T12:50:35] Optimize PostgreSQL query execution plans
+- [2025-12-08T09:28:36] Add Redis rate limit backoff handlers
