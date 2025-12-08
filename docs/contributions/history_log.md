@@ -2802,3 +2802,4 @@
 - [2025-12-08T08:09:41] Refactor worker polling logic
 - [2025-12-08T08:55:19] Fix edge case in URL parsing and validation
 - [2025-12-08T20:59:35] Fix edge case in URL parsing and validation
+- [2025-12-08T10:44:22] Update documentation and architectural guides
