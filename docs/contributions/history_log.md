@@ -38039,3 +38039,4 @@
 - [2025-12-08T11:08:48] Optimize PostgreSQL query execution plans
 - [2025-12-08T13:48:02] Clean up legacy worker task routines
 - [2025-12-08T16:35:00] Improve ffmpeg streaming pipe buffer management
+- [2025-12-08T10:20:23] Add error handling for yt-dlp rate limits
