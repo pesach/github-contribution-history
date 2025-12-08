@@ -2800,3 +2800,4 @@
 - [2025-12-08T20:31:09] Update schema migration helpers
 - [2025-12-08T21:58:44] Add Prometheus exporter endpoints for queue length
 - [2025-12-08T08:09:41] Refactor worker polling logic
+- [2025-12-08T08:55:19] Fix edge case in URL parsing and validation
