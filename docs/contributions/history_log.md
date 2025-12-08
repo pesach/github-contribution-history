@@ -38033,3 +38033,4 @@
 - [2025-12-06T18:38:21] Update schema migration helpers
 - [2025-12-08T22:21:56] Improve logging and health endpoint metrics
 - [2025-12-08T14:43:31] Improve ffmpeg streaming pipe buffer management
+- [2025-12-08T10:16:36] Refactor worker polling logic
