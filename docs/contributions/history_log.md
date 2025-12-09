@@ -38048,3 +38048,4 @@
 - [2025-12-09T08:57:07] Add error handling for yt-dlp rate limits
 - [2025-12-09T13:17:15] Enhance dashboard statistics rendering
 - [2025-12-09T18:43:00] Refactor cookie refresher probe logic
+- [2025-12-09T13:36:56] Refactor worker polling logic
