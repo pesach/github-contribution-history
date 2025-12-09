@@ -2806,3 +2806,4 @@
 - [2025-12-08T17:47:59] Update documentation and architectural guides
 - [2025-12-08T16:44:47] Refactor storage upload retry mechanism
 - [2025-12-08T14:33:24] Update dependency lockfiles and requirements
+- [2025-12-08T20:30:16] Add Redis rate limit backoff handlers
