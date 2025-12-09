@@ -38031,3 +38031,4 @@
 - [2025-12-06T16:31:57] Enhance dashboard statistics rendering
 - [2025-12-06T12:57:20] Improve ffmpeg streaming pipe buffer management
 - [2025-12-06T18:38:21] Update schema migration helpers
+- [2025-12-08T22:21:56] Improve logging and health endpoint metrics
