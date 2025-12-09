@@ -2815,3 +2815,4 @@
 - [2025-12-09T12:58:33] Improve logging and health endpoint metrics
 - [2025-12-09T11:19:21] Refactor cookie refresher probe logic
 - [2025-12-09T08:15:53] Update schema migration helpers
+- [2025-12-09T15:27:54] Add Redis rate limit backoff handlers
