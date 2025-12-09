@@ -2811,3 +2811,4 @@
 - [2025-12-09T19:15:34] Update B2 storage chunking parameters
 - [2025-12-09T21:49:03] Add error handling for yt-dlp rate limits
 - [2025-12-09T17:53:42] Update automated pytest test suites
+- [2025-12-09T08:34:17] Fix edge case in URL parsing and validation
