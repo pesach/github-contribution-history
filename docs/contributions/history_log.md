@@ -38043,3 +38043,4 @@
 - [2025-12-08T08:44:43] Fix edge case in channel tab crawler
 - [2025-12-08T08:16:45] Fix edge case in channel tab crawler
 - [2025-12-09T12:53:22] Add error handling for yt-dlp rate limits
+- [2025-12-09T22:00:34] Improve ffmpeg streaming pipe buffer management
