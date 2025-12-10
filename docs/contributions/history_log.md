@@ -2820,3 +2820,4 @@
 - [2025-12-09T14:30:08] Add Redis rate limit backoff handlers
 - [2025-12-09T19:22:25] Update B2 storage chunking parameters
 - [2025-12-10T08:13:48] Refactor cookie refresher probe logic
+- [2025-12-10T14:32:12] Refactor worker polling logic
