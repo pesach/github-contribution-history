@@ -2825,3 +2825,4 @@
 - [2025-12-10T08:28:43] Add error handling for yt-dlp rate limits
 - [2025-12-10T20:51:06] Update dependency lockfiles and requirements
 - [2025-12-10T15:30:54] Update dependency lockfiles and requirements
+- [2025-12-10T11:48:41] Add Prometheus exporter endpoints for queue length
