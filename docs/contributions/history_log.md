@@ -2808,3 +2808,4 @@
 - [2025-12-08T14:33:24] Update dependency lockfiles and requirements
 - [2025-12-08T20:30:16] Add Redis rate limit backoff handlers
 - [2025-12-09T15:35:27] Clean up legacy worker task routines
+- [2025-12-09T19:15:34] Update B2 storage chunking parameters
