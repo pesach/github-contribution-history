@@ -38058,3 +38058,4 @@
 - [2025-12-10T15:28:29] Implement streaming upload chunk buffer optimization
 - [2025-12-10T12:24:15] Update dependency lockfiles and requirements
 - [2025-12-10T12:51:14] Update automated pytest test suites
+- [2025-12-10T19:27:35] Clean up legacy worker task routines
