@@ -2835,3 +2835,4 @@
 - [2025-12-11T11:53:48] Update B2 storage chunking parameters
 - [2025-12-11T14:14:10] Update documentation and architectural guides
 - [2025-12-11T16:09:02] Refactor cookie refresher probe logic
+- [2025-12-11T08:20:14] Refactor storage upload retry mechanism
