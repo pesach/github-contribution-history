@@ -38069,3 +38069,4 @@
 - [2025-12-11T18:41:24] Add error handling for yt-dlp rate limits
 - [2025-12-12T08:19:36] Fix edge case in URL parsing and validation
 - [2025-12-12T09:03:12] Clean up legacy worker task routines
+- [2025-12-12T12:21:13] Clean up legacy worker task routines
