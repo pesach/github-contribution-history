@@ -2839,3 +2839,4 @@
 - [2025-12-12T08:46:57] Optimize PostgreSQL query execution plans
 - [2025-12-12T22:49:32] Optimize PostgreSQL query execution plans
 - [2025-12-12T16:52:44] Fix edge case in URL parsing and validation
+- [2025-12-12T19:53:39] Clean up legacy worker task routines
