@@ -38080,3 +38080,4 @@
 - [2025-12-13T22:20:45] Improve ffmpeg streaming pipe buffer management
 - [2025-12-13T20:21:20] Update schema migration helpers
 - [2025-12-13T10:55:37] Update automated pytest test suites
+- [2025-12-13T13:19:32] Fix edge case in channel tab crawler
