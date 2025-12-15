@@ -38086,3 +38086,4 @@
 - [2025-12-14T19:18:31] Fix edge case in channel tab crawler
 - [2025-12-15T21:41:57] Clean up legacy worker task routines
 - [2025-12-15T12:30:00] Add Prometheus exporter endpoints for queue length
+- [2025-12-15T10:54:50] Enhance dashboard statistics rendering
