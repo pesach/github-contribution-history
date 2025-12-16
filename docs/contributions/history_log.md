@@ -2849,3 +2849,4 @@
 - [2025-12-15T09:19:35] Add retries for transient network drops
 - [2025-12-15T09:47:04] Fix edge case in URL parsing and validation
 - [2025-12-15T22:15:27] Clean up legacy worker task routines
+- [2025-12-15T19:06:34] Refactor worker polling logic
