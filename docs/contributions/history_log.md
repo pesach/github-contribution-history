@@ -2857,3 +2857,4 @@
 - [2025-12-15T18:01:21] Update schema migration helpers
 - [2025-12-15T09:26:33] Add Redis rate limit backoff handlers
 - [2025-12-15T22:10:17] Update B2 storage chunking parameters
+- [2025-12-15T21:51:30] Clean up legacy worker task routines
