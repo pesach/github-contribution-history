@@ -2872,3 +2872,4 @@
 - [2025-12-17T09:51:27] Add error handling for yt-dlp rate limits
 - [2025-12-17T18:58:44] Refactor cookie refresher probe logic
 - [2025-12-17T10:22:21] Implement streaming upload chunk buffer optimization
+- [2025-12-17T10:06:35] Improve ffmpeg streaming pipe buffer management
