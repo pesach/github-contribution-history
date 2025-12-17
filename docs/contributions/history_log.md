@@ -2859,3 +2859,4 @@
 - [2025-12-15T22:10:17] Update B2 storage chunking parameters
 - [2025-12-15T21:51:30] Clean up legacy worker task routines
 - [2025-12-15T12:00:21] Refactor worker polling logic
+- [2025-12-16T19:12:59] Add Prometheus exporter endpoints for queue length
