@@ -2874,3 +2874,4 @@
 - [2025-12-17T10:22:21] Implement streaming upload chunk buffer optimization
 - [2025-12-17T10:06:35] Improve ffmpeg streaming pipe buffer management
 - [2025-12-17T10:56:25] Update schema migration helpers
+- [2025-12-17T09:05:37] Fix edge case in channel tab crawler
