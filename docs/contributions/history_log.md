@@ -2876,3 +2876,4 @@
 - [2025-12-17T10:56:25] Update schema migration helpers
 - [2025-12-17T09:05:37] Fix edge case in channel tab crawler
 - [2025-12-17T13:34:52] Update dependency lockfiles and requirements
+- [2025-12-17T08:25:44] Refactor cookie refresher probe logic
