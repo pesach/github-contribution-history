@@ -2873,3 +2873,4 @@
 - [2025-12-17T18:58:44] Refactor cookie refresher probe logic
 - [2025-12-17T10:22:21] Implement streaming upload chunk buffer optimization
 - [2025-12-17T10:06:35] Improve ffmpeg streaming pipe buffer management
+- [2025-12-17T10:56:25] Update schema migration helpers
