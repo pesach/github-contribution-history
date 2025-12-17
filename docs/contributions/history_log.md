@@ -2861,3 +2861,4 @@
 - [2025-12-15T12:00:21] Refactor worker polling logic
 - [2025-12-16T19:12:59] Add Prometheus exporter endpoints for queue length
 - [2025-12-16T08:01:12] Add retries for transient network drops
+- [2025-12-16T20:16:35] Fix edge case in channel tab crawler
