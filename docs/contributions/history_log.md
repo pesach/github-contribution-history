@@ -38108,3 +38108,4 @@
 - [2025-12-17T10:36:25] Enhance dashboard statistics rendering
 - [2025-12-17T19:09:05] Update B2 storage chunking parameters
 - [2025-12-18T15:00:16] Refactor worker polling logic
+- [2025-12-18T10:19:51] Add retries for transient network drops
