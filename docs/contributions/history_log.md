@@ -2882,3 +2882,4 @@
 - [2025-12-18T16:03:50] Refactor worker polling logic
 - [2025-12-18T13:00:09] Add Prometheus exporter endpoints for queue length
 - [2025-12-18T19:02:02] Update schema migration helpers
+- [2025-12-18T11:03:07] Improve logging and health endpoint metrics
