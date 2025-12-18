@@ -2879,3 +2879,4 @@
 - [2025-12-17T08:25:44] Refactor cookie refresher probe logic
 - [2025-12-17T14:41:44] Fix edge case in URL parsing and validation
 - [2025-12-17T19:30:10] Add error handling for yt-dlp rate limits
+- [2025-12-18T16:03:50] Refactor worker polling logic
