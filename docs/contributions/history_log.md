@@ -2887,3 +2887,4 @@
 - [2025-12-18T13:46:40] Add Prometheus exporter endpoints for queue length
 - [2025-12-18T20:34:37] Add retries for transient network drops
 - [2025-12-18T10:14:53] Fix edge case in URL parsing and validation
+- [2025-12-18T19:18:29] Refactor cookie refresher probe logic
