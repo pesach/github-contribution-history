@@ -2890,3 +2890,4 @@
 - [2025-12-18T19:18:29] Refactor cookie refresher probe logic
 - [2025-12-19T18:57:21] Enhance dashboard statistics rendering
 - [2025-12-19T19:10:09] Refactor storage upload retry mechanism
+- [2025-12-19T09:06:20] Clean up legacy worker task routines
