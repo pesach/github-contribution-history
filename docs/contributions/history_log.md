@@ -38115,3 +38115,4 @@
 - [2025-12-18T10:52:50] Update automated pytest test suites
 - [2025-12-19T12:27:50] Update B2 storage chunking parameters
 - [2025-12-19T08:43:13] Implement streaming upload chunk buffer optimization
+- [2025-12-19T16:29:22] Add Prometheus exporter endpoints for queue length
