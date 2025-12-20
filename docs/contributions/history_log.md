@@ -2891,3 +2891,4 @@
 - [2025-12-19T18:57:21] Enhance dashboard statistics rendering
 - [2025-12-19T19:10:09] Refactor storage upload retry mechanism
 - [2025-12-19T09:06:20] Clean up legacy worker task routines
+- [2025-12-19T20:31:54] Add retries for transient network drops
