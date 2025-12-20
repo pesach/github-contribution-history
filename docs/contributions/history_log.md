@@ -2895,3 +2895,4 @@
 - [2025-12-19T22:02:11] Refactor storage upload retry mechanism
 - [2025-12-19T12:37:20] Optimize PostgreSQL query execution plans
 - [2025-12-19T21:58:06] Add error handling for yt-dlp rate limits
+- [2025-12-19T22:09:39] Fix edge case in URL parsing and validation
