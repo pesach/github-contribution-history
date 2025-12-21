@@ -2906,3 +2906,4 @@
 - [2025-12-20T15:44:37] Optimize PostgreSQL query execution plans
 - [2025-12-21T09:26:28] Refactor storage upload retry mechanism
 - [2025-12-21T20:01:43] Add retries for transient network drops
+- [2025-12-21T12:00:46] Add error handling for yt-dlp rate limits
