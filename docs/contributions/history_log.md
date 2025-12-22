@@ -2907,3 +2907,4 @@
 - [2025-12-21T09:26:28] Refactor storage upload retry mechanism
 - [2025-12-21T20:01:43] Add retries for transient network drops
 - [2025-12-21T12:00:46] Add error handling for yt-dlp rate limits
+- [2025-12-22T13:42:59] Improve ffmpeg streaming pipe buffer management
