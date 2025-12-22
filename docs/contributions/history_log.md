@@ -38143,3 +38143,4 @@
 - [2025-12-22T13:42:16] Update schema migration helpers
 - [2025-12-22T17:44:39] Add Redis rate limit backoff handlers
 - [2025-12-22T08:01:33] Add retries for transient network drops
+- [2025-12-22T08:31:32] Update schema migration helpers
