@@ -2918,3 +2918,4 @@
 - [2025-12-22T11:58:06] Refactor worker polling logic
 - [2025-12-22T19:28:49] Update dependency lockfiles and requirements
 - [2025-12-22T13:55:19] Update schema migration helpers
+- [2025-12-22T10:19:30] Refactor storage upload retry mechanism
