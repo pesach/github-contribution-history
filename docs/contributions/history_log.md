@@ -2909,3 +2909,4 @@
 - [2025-12-21T12:00:46] Add error handling for yt-dlp rate limits
 - [2025-12-22T13:42:59] Improve ffmpeg streaming pipe buffer management
 - [2025-12-22T13:02:43] Enhance dashboard statistics rendering
+- [2025-12-22T09:20:07] Refactor storage upload retry mechanism
