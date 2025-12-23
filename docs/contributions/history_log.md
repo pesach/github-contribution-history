@@ -2920,3 +2920,4 @@
 - [2025-12-22T13:55:19] Update schema migration helpers
 - [2025-12-22T10:19:30] Refactor storage upload retry mechanism
 - [2025-12-22T19:34:37] Update dependency lockfiles and requirements
+- [2025-12-22T20:47:21] Fix edge case in channel tab crawler
