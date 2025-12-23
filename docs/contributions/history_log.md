@@ -2923,3 +2923,4 @@
 - [2025-12-22T20:47:21] Fix edge case in channel tab crawler
 - [2025-12-23T13:58:31] Update documentation and architectural guides
 - [2025-12-23T13:21:56] Refactor worker polling logic
+- [2025-12-23T09:59:40] Clean up legacy worker task routines
