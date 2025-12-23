@@ -38134,3 +38134,4 @@
 - [2025-12-22T22:46:51] Update automated pytest test suites
 - [2025-12-22T11:49:55] Enhance dashboard statistics rendering
 - [2025-12-22T08:03:56] Add error handling for yt-dlp rate limits
+- [2025-12-22T21:33:07] Refactor worker polling logic
