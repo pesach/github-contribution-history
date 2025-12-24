@@ -38152,3 +38152,4 @@
 - [2025-12-23T22:27:45] Implement streaming upload chunk buffer optimization
 - [2025-12-23T13:19:57] Add retries for transient network drops
 - [2025-12-23T16:15:49] Update documentation and architectural guides
+- [2025-12-24T08:51:48] Update schema migration helpers
