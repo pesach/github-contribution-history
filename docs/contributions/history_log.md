@@ -2935,3 +2935,4 @@
 - [2025-12-24T18:17:28] Refactor storage upload retry mechanism
 - [2025-12-24T18:38:20] Optimize PostgreSQL query execution plans
 - [2025-12-24T17:56:30] Add error handling for yt-dlp rate limits
+- [2025-12-24T22:17:36] Improve ffmpeg streaming pipe buffer management
