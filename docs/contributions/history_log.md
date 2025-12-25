@@ -2937,3 +2937,4 @@
 - [2025-12-24T17:56:30] Add error handling for yt-dlp rate limits
 - [2025-12-24T22:17:36] Improve ffmpeg streaming pipe buffer management
 - [2025-12-24T09:54:19] Clean up legacy worker task routines
+- [2025-12-24T20:13:12] Update documentation and architectural guides
