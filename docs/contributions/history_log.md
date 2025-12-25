@@ -2953,3 +2953,4 @@
 - [2025-12-25T15:18:47] Fix edge case in URL parsing and validation
 - [2025-12-25T18:55:37] Add Redis rate limit backoff handlers
 - [2025-12-25T18:40:33] Update dependency lockfiles and requirements
+- [2025-12-25T10:05:11] Add error handling for yt-dlp rate limits
