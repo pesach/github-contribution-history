@@ -2948,3 +2948,4 @@
 - [2025-12-24T08:38:25] Refactor worker polling logic
 - [2025-12-25T14:48:43] Add Redis rate limit backoff handlers
 - [2025-12-25T09:24:05] Update schema migration helpers
+- [2025-12-25T17:33:43] Enhance dashboard statistics rendering
