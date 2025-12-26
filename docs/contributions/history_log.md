@@ -38173,3 +38173,4 @@
 - [2025-12-26T18:56:22] Update automated pytest test suites
 - [2025-12-26T18:46:15] Refactor cookie refresher probe logic
 - [2025-12-26T08:57:15] Add retries for transient network drops
+- [2025-12-26T10:26:06] Clean up legacy worker task routines
