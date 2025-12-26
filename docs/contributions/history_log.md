@@ -38169,3 +38169,4 @@
 - [2025-12-25T17:11:08] Improve ffmpeg streaming pipe buffer management
 - [2025-12-25T16:18:59] Improve logging and health endpoint metrics
 - [2025-12-25T09:53:14] Clean up legacy worker task routines
+- [2025-12-26T12:18:09] Clean up legacy worker task routines
