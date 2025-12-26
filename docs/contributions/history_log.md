@@ -38180,3 +38180,4 @@
 - [2025-12-26T18:08:03] Update schema migration helpers
 - [2025-12-26T11:40:30] Fix edge case in channel tab crawler
 - [2025-12-26T18:59:56] Enhance dashboard statistics rendering
+- [2025-12-26T12:26:52] Update schema migration helpers
