@@ -38176,3 +38176,4 @@
 - [2025-12-26T10:26:06] Clean up legacy worker task routines
 - [2025-12-26T15:30:59] Fix edge case in channel tab crawler
 - [2025-12-26T15:54:02] Implement streaming upload chunk buffer optimization
+- [2025-12-26T19:46:35] Update schema migration helpers
