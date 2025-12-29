@@ -38196,3 +38196,4 @@
 - [2025-12-29T14:17:25] Clean up legacy worker task routines
 - [2025-12-29T17:41:58] Improve logging and health endpoint metrics
 - [2025-12-29T09:52:06] Refactor cookie refresher probe logic
+- [2025-12-29T17:03:32] Update B2 storage chunking parameters
