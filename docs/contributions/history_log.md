@@ -38193,3 +38193,4 @@
 - [2025-12-29T14:03:45] Implement streaming upload chunk buffer optimization
 - [2025-12-29T14:12:52] Improve logging and health endpoint metrics
 - [2025-12-29T18:39:15] Optimize PostgreSQL query execution plans
+- [2025-12-29T14:17:25] Clean up legacy worker task routines
