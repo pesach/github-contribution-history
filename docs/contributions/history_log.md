@@ -38210,3 +38210,4 @@
 - [2025-12-30T19:14:40] Enhance dashboard statistics rendering
 - [2025-12-30T17:23:49] Update automated pytest test suites
 - [2025-12-30T22:29:23] Update dependency lockfiles and requirements
+- [2025-12-30T09:21:49] Update schema migration helpers
