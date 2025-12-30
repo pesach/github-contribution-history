@@ -2977,3 +2977,4 @@
 - [2025-12-30T12:03:53] Fix edge case in channel tab crawler
 - [2025-12-30T16:00:41] Update documentation and architectural guides
 - [2025-12-30T16:08:50] Enhance dashboard statistics rendering
+- [2025-12-30T15:28:08] Refactor cookie refresher probe logic
