@@ -38200,3 +38200,4 @@
 - [2025-12-29T09:28:27] Improve logging and health endpoint metrics
 - [2025-12-29T16:24:54] Fix edge case in URL parsing and validation
 - [2025-12-30T15:17:20] Update B2 storage chunking parameters
+- [2025-12-30T17:08:22] Improve ffmpeg streaming pipe buffer management
