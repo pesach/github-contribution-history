@@ -2982,3 +2982,4 @@
 - [2025-12-30T16:02:04] Add Redis rate limit backoff handlers
 - [2025-12-30T12:40:46] Add Prometheus exporter endpoints for queue length
 - [2025-12-30T20:15:16] Add Redis rate limit backoff handlers
+- [2025-12-30T21:02:03] Update documentation and architectural guides
