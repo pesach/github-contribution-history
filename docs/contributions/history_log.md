@@ -38211,3 +38211,4 @@
 - [2025-12-30T17:23:49] Update automated pytest test suites
 - [2025-12-30T22:29:23] Update dependency lockfiles and requirements
 - [2025-12-30T09:21:49] Update schema migration helpers
+- [2025-12-31T13:46:46] Add error handling for yt-dlp rate limits
