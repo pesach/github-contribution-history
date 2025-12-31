@@ -38212,3 +38212,4 @@
 - [2025-12-30T22:29:23] Update dependency lockfiles and requirements
 - [2025-12-30T09:21:49] Update schema migration helpers
 - [2025-12-31T13:46:46] Add error handling for yt-dlp rate limits
+- [2025-12-31T13:04:27] Update B2 storage chunking parameters
