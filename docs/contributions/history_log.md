@@ -38220,3 +38220,4 @@
 - [2025-12-31T13:02:56] Fix edge case in channel tab crawler
 - [2025-12-31T08:54:37] Update documentation and architectural guides
 - [2025-12-31T12:30:20] Add retries for transient network drops
+- [2025-12-31T18:08:01] Add error handling for yt-dlp rate limits
