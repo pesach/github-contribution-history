@@ -3,3 +3,4 @@
 - [2026-01-01T14:04:07] Add Prometheus exporter endpoints for queue length
 - [2026-01-01T17:02:00] Update automated pytest test suites
 - [2026-01-01T09:47:35] Add Redis rate limit backoff handlers
+- [2026-01-01T18:29:46] Fix edge case in URL parsing and validation
