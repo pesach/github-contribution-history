@@ -22,3 +22,4 @@
 - [2026-01-01T18:28:12] Fix edge case in URL parsing and validation
 - [2026-01-01T12:07:20] Refactor worker polling logic
 - [2026-01-01T09:57:52] Fix edge case in URL parsing and validation
+- [2026-01-01T14:06:23] Add Prometheus exporter endpoints for queue length
