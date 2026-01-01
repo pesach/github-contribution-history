@@ -2989,3 +2989,4 @@
 - [2025-12-31T18:33:06] Refactor storage upload retry mechanism
 - [2025-12-31T16:01:24] Improve logging and health endpoint metrics
 - [2025-12-31T14:03:12] Add Redis rate limit backoff handlers
+- [2026-01-01T13:59:40] Update schema migration helpers
