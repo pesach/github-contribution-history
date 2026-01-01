@@ -15,3 +15,4 @@
 - [2026-01-01T13:24:06] Update schema migration helpers
 - [2026-01-01T18:51:55] Add retries for transient network drops
 - [2026-01-01T18:14:32] Add retries for transient network drops
+- [2026-01-01T13:58:54] Optimize PostgreSQL query execution plans
