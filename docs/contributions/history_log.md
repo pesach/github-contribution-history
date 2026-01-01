@@ -19,3 +19,4 @@
 - [2026-01-01T09:12:00] Improve ffmpeg streaming pipe buffer management
 - [2026-01-01T21:07:27] Refactor worker polling logic
 - [2026-01-01T16:15:41] Add error handling for yt-dlp rate limits
+- [2026-01-01T18:28:12] Fix edge case in URL parsing and validation
