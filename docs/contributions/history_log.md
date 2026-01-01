@@ -27,3 +27,4 @@
 - [2026-01-01T20:08:41] Fix edge case in channel tab crawler
 - [2026-01-01T14:08:37] Update automated pytest test suites
 - [2026-01-01T14:56:49] Add retries for transient network drops
+- [2026-01-01T18:39:59] Add error handling for yt-dlp rate limits
