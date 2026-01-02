@@ -31,3 +31,4 @@
 - [2026-01-01T15:01:40] Clean up legacy worker task routines
 - [2026-01-01T16:59:31] Refactor cookie refresher probe logic
 - [2026-01-01T14:09:33] Update dependency lockfiles and requirements
+- [2026-01-02T10:08:41] Enhance dashboard statistics rendering
