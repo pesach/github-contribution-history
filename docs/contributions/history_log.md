@@ -9,3 +9,4 @@
 - [2026-01-01T14:03:23] Fix edge case in channel tab crawler
 - [2026-01-01T16:39:21] Update documentation and architectural guides
 - [2026-01-01T14:19:13] Add Prometheus exporter endpoints for queue length
+- [2026-01-01T19:06:35] Clean up legacy worker task routines
