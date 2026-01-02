@@ -34,3 +34,4 @@
 - [2026-01-02T10:08:41] Enhance dashboard statistics rendering
 - [2026-01-02T18:45:37] Add error handling for yt-dlp rate limits
 - [2026-01-02T22:12:27] Update schema migration helpers
+- [2026-01-02T16:05:10] Fix edge case in URL parsing and validation
