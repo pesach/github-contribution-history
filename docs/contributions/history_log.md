@@ -47,3 +47,4 @@
 - [2026-01-02T11:41:15] Add Redis rate limit backoff handlers
 - [2026-01-02T09:43:42] Clean up legacy worker task routines
 - [2026-01-02T10:57:23] Fix edge case in channel tab crawler
+- [2026-01-02T13:42:36] Update dependency lockfiles and requirements
