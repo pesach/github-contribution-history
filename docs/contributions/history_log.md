@@ -24,3 +24,4 @@
 - [2026-01-01T09:57:52] Fix edge case in URL parsing and validation
 - [2026-01-01T14:06:23] Add Prometheus exporter endpoints for queue length
 - [2026-01-01T20:40:56] Refactor storage upload retry mechanism
+- [2026-01-01T20:08:41] Fix edge case in channel tab crawler
