@@ -32,3 +32,4 @@
 - [2026-01-01T16:59:31] Refactor cookie refresher probe logic
 - [2026-01-01T14:09:33] Update dependency lockfiles and requirements
 - [2026-01-02T10:08:41] Enhance dashboard statistics rendering
+- [2026-01-02T18:45:37] Add error handling for yt-dlp rate limits
