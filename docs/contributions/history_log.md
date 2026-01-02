@@ -2,3 +2,4 @@
 - [2026-01-01T20:54:08] Optimize PostgreSQL query execution plans
 - [2026-01-01T16:30:49] Refactor storage upload retry mechanism
 - [2026-01-01T18:04:58] Update schema migration helpers
+- [2026-01-01T21:26:31] Add error handling for yt-dlp rate limits
