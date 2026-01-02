@@ -48,3 +48,4 @@
 - [2026-01-02T09:43:42] Clean up legacy worker task routines
 - [2026-01-02T10:57:23] Fix edge case in channel tab crawler
 - [2026-01-02T13:42:36] Update dependency lockfiles and requirements
+- [2026-01-02T13:33:21] Enhance dashboard statistics rendering
