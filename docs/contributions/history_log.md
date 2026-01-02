@@ -39,3 +39,4 @@
 - [2026-01-02T14:01:55] Refactor storage upload retry mechanism
 - [2026-01-02T08:05:48] Improve ffmpeg streaming pipe buffer management
 - [2026-01-02T20:26:13] Improve ffmpeg streaming pipe buffer management
+- [2026-01-02T10:51:02] Improve logging and health endpoint metrics
