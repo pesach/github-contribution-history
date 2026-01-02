@@ -54,3 +54,4 @@
 - [2026-01-02T18:52:21] Add retries for transient network drops
 - [2026-01-02T11:40:04] Add error handling for yt-dlp rate limits
 - [2026-01-02T15:08:42] Update dependency lockfiles and requirements
+- [2026-01-02T17:30:54] Enhance dashboard statistics rendering
