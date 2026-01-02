@@ -45,3 +45,4 @@
 - [2026-01-02T12:19:22] Refactor worker polling logic
 - [2026-01-02T16:56:11] Refactor storage upload retry mechanism
 - [2026-01-02T11:41:15] Add Redis rate limit backoff handlers
+- [2026-01-02T09:43:42] Clean up legacy worker task routines
