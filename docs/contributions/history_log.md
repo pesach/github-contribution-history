@@ -6,3 +6,4 @@
 - [2026-01-02T17:29:00] Add error handling for yt-dlp rate limits
 - [2026-01-02T20:15:50] Implement streaming upload chunk buffer optimization
 - [2026-01-02T14:05:31] Refactor worker polling logic
+- [2026-01-02T20:50:00] Update documentation and architectural guides
