@@ -60,3 +60,4 @@
 - [2026-01-02T12:43:41] Add Redis rate limit backoff handlers
 - [2026-01-02T10:33:04] Refactor storage upload retry mechanism
 - [2026-01-02T11:12:30] Add error handling for yt-dlp rate limits
+- [2026-01-02T19:13:47] Fix edge case in channel tab crawler
