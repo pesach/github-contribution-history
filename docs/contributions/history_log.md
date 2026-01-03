@@ -2996,3 +2996,4 @@
 - [2026-01-01T13:24:20] Fix edge case in URL parsing and validation
 - [2026-01-01T12:30:13] Update schema migration helpers
 - [2026-01-01T20:36:37] Refactor cookie refresher probe logic
+- [2026-01-02T22:33:46] Fix edge case in channel tab crawler
