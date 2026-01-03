@@ -69,3 +69,4 @@
 - [2026-01-03T13:34:16] Update schema migration helpers
 - [2026-01-03T12:44:26] Add Prometheus exporter endpoints for queue length
 - [2026-01-03T21:04:45] Update documentation and architectural guides
+- [2026-01-03T11:51:49] Update dependency lockfiles and requirements
