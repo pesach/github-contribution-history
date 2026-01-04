@@ -10,3 +10,4 @@
 - [2026-01-02T18:46:06] Enhance dashboard statistics rendering
 - [2026-01-03T08:50:23] Add Prometheus exporter endpoints for queue length
 - [2026-01-03T16:15:04] Enhance dashboard statistics rendering
+- [2026-01-04T10:50:50] Improve ffmpeg streaming pipe buffer management
