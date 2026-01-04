@@ -86,3 +86,4 @@
 - [2026-01-04T18:03:42] Clean up legacy worker task routines
 - [2026-01-04T19:40:25] Improve ffmpeg streaming pipe buffer management
 - [2026-01-04T11:10:09] Implement streaming upload chunk buffer optimization
+- [2026-01-04T15:31:17] Add error handling for yt-dlp rate limits
