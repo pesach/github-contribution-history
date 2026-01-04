@@ -95,3 +95,4 @@
 - [2026-01-04T19:10:01] Improve logging and health endpoint metrics
 - [2026-01-04T10:14:40] Add retries for transient network drops
 - [2026-01-04T22:47:02] Fix edge case in URL parsing and validation
+- [2026-01-04T11:33:02] Update documentation and architectural guides
