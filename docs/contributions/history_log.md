@@ -99,3 +99,4 @@
 - [2026-01-04T12:23:28] Update documentation and architectural guides
 - [2026-01-04T16:25:40] Refactor cookie refresher probe logic
 - [2026-01-04T22:24:49] Improve ffmpeg streaming pipe buffer management
+- [2026-01-04T17:17:38] Update documentation and architectural guides
