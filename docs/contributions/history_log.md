@@ -103,3 +103,4 @@
 - [2026-01-04T11:52:15] Clean up legacy worker task routines
 - [2026-01-05T08:34:40] Add error handling for yt-dlp rate limits
 - [2026-01-05T15:22:48] Add Redis rate limit backoff handlers
+- [2026-01-05T09:54:25] Update automated pytest test suites
