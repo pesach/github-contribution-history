@@ -126,3 +126,4 @@
 - [2026-01-05T08:17:12] Improve ffmpeg streaming pipe buffer management
 - [2026-01-05T18:56:49] Clean up legacy worker task routines
 - [2026-01-05T09:59:37] Fix edge case in URL parsing and validation
+- [2026-01-05T14:43:18] Optimize PostgreSQL query execution plans
