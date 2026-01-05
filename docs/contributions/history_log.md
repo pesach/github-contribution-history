@@ -113,3 +113,4 @@
 - [2026-01-05T19:17:34] Refactor storage upload retry mechanism
 - [2026-01-05T18:00:29] Update B2 storage chunking parameters
 - [2026-01-05T15:33:27] Optimize PostgreSQL query execution plans
+- [2026-01-05T15:05:13] Improve logging and health endpoint metrics
