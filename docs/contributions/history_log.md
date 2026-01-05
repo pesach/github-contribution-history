@@ -135,3 +135,4 @@
 - [2026-01-05T08:52:18] Update automated pytest test suites
 - [2026-01-05T14:29:14] Implement streaming upload chunk buffer optimization
 - [2026-01-05T22:18:02] Add Prometheus exporter endpoints for queue length
+- [2026-01-05T18:29:01] Refactor worker polling logic
