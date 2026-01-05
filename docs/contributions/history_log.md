@@ -116,3 +116,4 @@
 - [2026-01-05T15:05:13] Improve logging and health endpoint metrics
 - [2026-01-05T14:49:31] Fix edge case in URL parsing and validation
 - [2026-01-05T20:24:31] Refactor worker polling logic
+- [2026-01-05T12:02:38] Enhance dashboard statistics rendering
