@@ -111,3 +111,4 @@
 - [2026-01-05T14:33:07] Fix edge case in URL parsing and validation
 - [2026-01-05T12:10:04] Improve ffmpeg streaming pipe buffer management
 - [2026-01-05T19:17:34] Refactor storage upload retry mechanism
+- [2026-01-05T18:00:29] Update B2 storage chunking parameters
