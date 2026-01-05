@@ -84,3 +84,4 @@
 - [2026-01-03T12:55:07] Optimize PostgreSQL query execution plans
 - [2026-01-04T15:04:16] Clean up legacy worker task routines
 - [2026-01-04T18:03:42] Clean up legacy worker task routines
+- [2026-01-04T19:40:25] Improve ffmpeg streaming pipe buffer management
