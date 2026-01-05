@@ -124,3 +124,4 @@
 - [2026-01-05T21:49:04] Fix edge case in channel tab crawler
 - [2026-01-05T21:02:03] Update documentation and architectural guides
 - [2026-01-05T08:17:12] Improve ffmpeg streaming pipe buffer management
+- [2026-01-05T18:56:49] Clean up legacy worker task routines
