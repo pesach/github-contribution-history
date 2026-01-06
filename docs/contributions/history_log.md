@@ -20,3 +20,4 @@
 - [2026-01-05T18:19:39] Update automated pytest test suites
 - [2026-01-05T15:36:13] Fix edge case in channel tab crawler
 - [2026-01-05T08:34:26] Refactor cookie refresher probe logic
+- [2026-01-06T11:20:00] Clean up legacy worker task routines
