@@ -3022,3 +3022,4 @@
 - [2026-01-06T11:52:13] Update schema migration helpers
 - [2026-01-06T18:42:15] Update automated pytest test suites
 - [2026-01-06T15:47:06] Implement streaming upload chunk buffer optimization
+- [2026-01-06T17:40:18] Update schema migration helpers
