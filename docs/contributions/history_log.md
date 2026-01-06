@@ -13,3 +13,4 @@
 - [2026-01-04T10:50:50] Improve ffmpeg streaming pipe buffer management
 - [2026-01-04T09:28:49] Optimize PostgreSQL query execution plans
 - [2026-01-04T11:59:04] Fix edge case in URL parsing and validation
+- [2026-01-05T19:01:36] Refactor worker polling logic
