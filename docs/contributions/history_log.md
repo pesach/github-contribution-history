@@ -3019,3 +3019,4 @@
 - [2026-01-05T11:19:31] Fix edge case in channel tab crawler
 - [2026-01-06T19:48:05] Enhance dashboard statistics rendering
 - [2026-01-06T17:14:17] Optimize PostgreSQL query execution plans
+- [2026-01-06T11:52:13] Update schema migration helpers
