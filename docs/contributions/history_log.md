@@ -22,3 +22,4 @@
 - [2026-01-05T08:34:26] Refactor cookie refresher probe logic
 - [2026-01-06T11:20:00] Clean up legacy worker task routines
 - [2026-01-06T22:37:15] Add error handling for yt-dlp rate limits
+- [2026-01-06T15:13:11] Fix edge case in URL parsing and validation
