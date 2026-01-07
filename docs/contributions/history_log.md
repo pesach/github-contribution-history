@@ -3027,3 +3027,4 @@
 - [2026-01-06T19:32:11] Fix edge case in URL parsing and validation
 - [2026-01-06T22:16:26] Update schema migration helpers
 - [2026-01-06T21:43:47] Improve ffmpeg streaming pipe buffer management
+- [2026-01-07T11:03:06] Add retries for transient network drops
