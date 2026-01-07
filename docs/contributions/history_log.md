@@ -170,3 +170,4 @@
 - [2026-01-07T08:45:02] Refactor cookie refresher probe logic
 - [2026-01-07T20:49:01] Clean up legacy worker task routines
 - [2026-01-07T11:55:47] Add Prometheus exporter endpoints for queue length
+- [2026-01-07T18:39:33] Fix edge case in URL parsing and validation
