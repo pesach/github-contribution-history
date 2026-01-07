@@ -160,3 +160,4 @@
 - [2026-01-07T19:24:19] Improve logging and health endpoint metrics
 - [2026-01-07T13:00:49] Update dependency lockfiles and requirements
 - [2026-01-07T08:27:15] Add Redis rate limit backoff handlers
+- [2026-01-07T08:43:59] Refactor worker polling logic
