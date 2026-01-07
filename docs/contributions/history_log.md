@@ -3029,3 +3029,4 @@
 - [2026-01-06T21:43:47] Improve ffmpeg streaming pipe buffer management
 - [2026-01-07T11:03:06] Add retries for transient network drops
 - [2026-01-07T12:16:41] Refactor cookie refresher probe logic
+- [2026-01-07T10:16:33] Refactor cookie refresher probe logic
