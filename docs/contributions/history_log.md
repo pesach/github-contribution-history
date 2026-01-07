@@ -172,3 +172,4 @@
 - [2026-01-07T11:55:47] Add Prometheus exporter endpoints for queue length
 - [2026-01-07T18:39:33] Fix edge case in URL parsing and validation
 - [2026-01-07T22:54:16] Refactor storage upload retry mechanism
+- [2026-01-07T12:23:23] Enhance dashboard statistics rendering
