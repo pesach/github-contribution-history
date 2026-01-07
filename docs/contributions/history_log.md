@@ -3030,3 +3030,4 @@
 - [2026-01-07T11:03:06] Add retries for transient network drops
 - [2026-01-07T12:16:41] Refactor cookie refresher probe logic
 - [2026-01-07T10:16:33] Refactor cookie refresher probe logic
+- [2026-01-07T10:16:31] Clean up legacy worker task routines
