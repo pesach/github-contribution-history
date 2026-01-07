@@ -169,3 +169,4 @@
 - [2026-01-07T16:34:03] Add retries for transient network drops
 - [2026-01-07T08:45:02] Refactor cookie refresher probe logic
 - [2026-01-07T20:49:01] Clean up legacy worker task routines
+- [2026-01-07T11:55:47] Add Prometheus exporter endpoints for queue length
