@@ -21,3 +21,4 @@
 - [2026-01-05T15:36:13] Fix edge case in channel tab crawler
 - [2026-01-05T08:34:26] Refactor cookie refresher probe logic
 - [2026-01-06T11:20:00] Clean up legacy worker task routines
+- [2026-01-06T22:37:15] Add error handling for yt-dlp rate limits
