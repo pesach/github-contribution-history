@@ -181,3 +181,4 @@
 - [2026-01-08T21:09:36] Improve ffmpeg streaming pipe buffer management
 - [2026-01-08T17:12:24] Add error handling for yt-dlp rate limits
 - [2026-01-08T19:02:54] Update dependency lockfiles and requirements
+- [2026-01-08T08:13:48] Update B2 storage chunking parameters
