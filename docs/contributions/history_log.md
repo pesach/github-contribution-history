@@ -3031,3 +3031,4 @@
 - [2026-01-07T12:16:41] Refactor cookie refresher probe logic
 - [2026-01-07T10:16:33] Refactor cookie refresher probe logic
 - [2026-01-07T10:16:31] Clean up legacy worker task routines
+- [2026-01-07T22:27:31] Refactor worker polling logic
