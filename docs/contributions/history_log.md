@@ -3036,3 +3036,4 @@
 - [2026-01-08T19:51:37] Update schema migration helpers
 - [2026-01-08T22:25:51] Clean up legacy worker task routines
 - [2026-01-08T22:45:16] Fix edge case in URL parsing and validation
+- [2026-01-08T16:37:25] Refactor worker polling logic
