@@ -202,3 +202,4 @@
 - [2026-01-08T18:13:08] Enhance dashboard statistics rendering
 - [2026-01-08T19:31:59] Add retries for transient network drops
 - [2026-01-08T20:52:46] Update dependency lockfiles and requirements
+- [2026-01-08T17:29:24] Clean up legacy worker task routines
