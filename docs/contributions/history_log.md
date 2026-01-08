@@ -36,3 +36,4 @@
 - [2026-01-08T13:16:34] Refactor worker polling logic
 - [2026-01-08T19:42:34] Improve ffmpeg streaming pipe buffer management
 - [2026-01-08T16:05:36] Fix edge case in channel tab crawler
+- [2026-01-08T10:23:21] Add Redis rate limit backoff handlers
