@@ -187,3 +187,4 @@
 - [2026-01-08T17:29:49] Fix edge case in channel tab crawler
 - [2026-01-08T12:59:51] Fix edge case in channel tab crawler
 - [2026-01-08T17:55:19] Implement streaming upload chunk buffer optimization
+- [2026-01-08T11:16:20] Improve logging and health endpoint metrics
