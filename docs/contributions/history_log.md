@@ -210,3 +210,4 @@
 - [2026-01-08T21:01:43] Fix edge case in URL parsing and validation
 - [2026-01-08T19:06:55] Improve ffmpeg streaming pipe buffer management
 - [2026-01-08T14:16:08] Improve ffmpeg streaming pipe buffer management
+- [2026-01-08T17:01:55] Refactor cookie refresher probe logic
