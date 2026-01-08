@@ -33,3 +33,4 @@
 - [2026-01-07T09:36:56] Refactor worker polling logic
 - [2026-01-07T20:05:40] Refactor cookie refresher probe logic
 - [2026-01-08T16:12:18] Improve logging and health endpoint metrics
+- [2026-01-08T13:16:34] Refactor worker polling logic
