@@ -35,3 +35,4 @@
 - [2026-01-08T16:12:18] Improve logging and health endpoint metrics
 - [2026-01-08T13:16:34] Refactor worker polling logic
 - [2026-01-08T19:42:34] Improve ffmpeg streaming pipe buffer management
+- [2026-01-08T16:05:36] Fix edge case in channel tab crawler
