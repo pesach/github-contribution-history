@@ -152,3 +152,4 @@
 - [2026-01-07T22:24:10] Optimize PostgreSQL query execution plans
 - [2026-01-07T20:31:52] Add Redis rate limit backoff handlers
 - [2026-01-07T09:06:51] Refactor cookie refresher probe logic
+- [2026-01-07T21:03:02] Clean up legacy worker task routines
