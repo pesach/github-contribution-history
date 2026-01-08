@@ -3032,3 +3032,4 @@
 - [2026-01-07T10:16:33] Refactor cookie refresher probe logic
 - [2026-01-07T10:16:31] Clean up legacy worker task routines
 - [2026-01-07T22:27:31] Refactor worker polling logic
+- [2026-01-07T19:16:35] Fix edge case in URL parsing and validation
