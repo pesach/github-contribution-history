@@ -194,3 +194,4 @@
 - [2026-01-08T13:19:09] Improve ffmpeg streaming pipe buffer management
 - [2026-01-08T16:45:33] Fix edge case in URL parsing and validation
 - [2026-01-08T18:23:01] Update automated pytest test suites
+- [2026-01-08T11:44:43] Improve logging and health endpoint metrics
