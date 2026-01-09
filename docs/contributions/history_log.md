@@ -203,3 +203,4 @@
 - [2026-01-08T19:31:59] Add retries for transient network drops
 - [2026-01-08T20:52:46] Update dependency lockfiles and requirements
 - [2026-01-08T17:29:24] Clean up legacy worker task routines
+- [2026-01-08T20:15:09] Fix edge case in URL parsing and validation
