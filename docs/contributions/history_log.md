@@ -208,3 +208,4 @@
 - [2026-01-08T20:35:48] Fix edge case in channel tab crawler
 - [2026-01-08T11:42:44] Add Prometheus exporter endpoints for queue length
 - [2026-01-08T21:01:43] Fix edge case in URL parsing and validation
+- [2026-01-08T19:06:55] Improve ffmpeg streaming pipe buffer management
