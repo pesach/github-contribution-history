@@ -229,3 +229,4 @@
 - [2026-01-09T19:26:52] Refactor cookie refresher probe logic
 - [2026-01-09T08:12:43] Add Redis rate limit backoff handlers
 - [2026-01-09T13:58:30] Refactor storage upload retry mechanism
+- [2026-01-09T09:50:26] Clean up legacy worker task routines
