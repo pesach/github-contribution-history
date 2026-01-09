@@ -205,3 +205,4 @@
 - [2026-01-08T17:29:24] Clean up legacy worker task routines
 - [2026-01-08T20:15:09] Fix edge case in URL parsing and validation
 - [2026-01-08T18:17:52] Improve logging and health endpoint metrics
+- [2026-01-08T20:35:48] Fix edge case in channel tab crawler
