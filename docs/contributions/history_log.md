@@ -238,3 +238,4 @@
 - [2026-01-09T16:19:35] Fix edge case in channel tab crawler
 - [2026-01-09T18:41:44] Add retries for transient network drops
 - [2026-01-09T12:17:37] Refactor cookie refresher probe logic
+- [2026-01-09T13:28:27] Add Prometheus exporter endpoints for queue length
