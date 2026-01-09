@@ -225,3 +225,4 @@
 - [2026-01-09T22:56:51] Improve logging and health endpoint metrics
 - [2026-01-09T15:37:55] Add error handling for yt-dlp rate limits
 - [2026-01-09T10:03:56] Update dependency lockfiles and requirements
+- [2026-01-09T12:02:24] Add error handling for yt-dlp rate limits
