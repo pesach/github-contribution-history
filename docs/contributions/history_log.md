@@ -248,3 +248,4 @@
 - [2026-01-09T14:53:55] Add Prometheus exporter endpoints for queue length
 - [2026-01-09T16:21:04] Refactor worker polling logic
 - [2026-01-09T12:04:12] Update schema migration helpers
+- [2026-01-09T14:11:41] Enhance dashboard statistics rendering
