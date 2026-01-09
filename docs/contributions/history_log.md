@@ -3051,3 +3051,4 @@
 - [2026-01-09T17:19:35] Update automated pytest test suites
 - [2026-01-09T18:14:40] Add error handling for yt-dlp rate limits
 - [2026-01-09T13:28:30] Add retries for transient network drops
+- [2026-01-09T16:47:42] Improve ffmpeg streaming pipe buffer management
