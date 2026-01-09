@@ -241,3 +241,4 @@
 - [2026-01-09T13:28:27] Add Prometheus exporter endpoints for queue length
 - [2026-01-09T21:55:14] Update schema migration helpers
 - [2026-01-09T09:04:11] Add Redis rate limit backoff handlers
+- [2026-01-09T10:17:18] Add Redis rate limit backoff handlers
