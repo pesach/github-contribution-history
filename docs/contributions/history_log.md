@@ -3050,3 +3050,4 @@
 - [2026-01-09T16:13:55] Clean up legacy worker task routines
 - [2026-01-09T17:19:35] Update automated pytest test suites
 - [2026-01-09T18:14:40] Add error handling for yt-dlp rate limits
+- [2026-01-09T13:28:30] Add retries for transient network drops
