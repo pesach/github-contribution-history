@@ -264,3 +264,4 @@
 - [2026-01-10T19:10:53] Update automated pytest test suites
 - [2026-01-10T16:45:32] Add Redis rate limit backoff handlers
 - [2026-01-10T09:05:36] Add error handling for yt-dlp rate limits
+- [2026-01-10T18:01:04] Add error handling for yt-dlp rate limits
