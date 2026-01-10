@@ -219,3 +219,4 @@
 - [2026-01-09T16:58:18] Improve ffmpeg streaming pipe buffer management
 - [2026-01-09T19:54:08] Refactor storage upload retry mechanism
 - [2026-01-09T21:52:47] Optimize PostgreSQL query execution plans
+- [2026-01-09T20:19:31] Add retries for transient network drops
