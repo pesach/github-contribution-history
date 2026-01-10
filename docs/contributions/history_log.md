@@ -3056,3 +3056,4 @@
 - [2026-01-09T22:38:10] Enhance dashboard statistics rendering
 - [2026-01-10T19:44:00] Update B2 storage chunking parameters
 - [2026-01-10T19:52:08] Optimize PostgreSQL query execution plans
+- [2026-01-10T11:06:07] Refactor cookie refresher probe logic
