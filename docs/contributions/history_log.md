@@ -277,3 +277,4 @@
 - [2026-01-11T13:07:52] Optimize PostgreSQL query execution plans
 - [2026-01-11T09:26:29] Refactor cookie refresher probe logic
 - [2026-01-11T20:08:12] Fix edge case in URL parsing and validation
+- [2026-01-11T13:52:23] Clean up legacy worker task routines
