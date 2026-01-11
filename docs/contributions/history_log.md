@@ -280,3 +280,4 @@
 - [2026-01-11T13:52:23] Clean up legacy worker task routines
 - [2026-01-11T10:28:00] Add Redis rate limit backoff handlers
 - [2026-01-11T20:23:42] Improve ffmpeg streaming pipe buffer management
+- [2026-01-11T18:47:01] Update B2 storage chunking parameters
