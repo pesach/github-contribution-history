@@ -261,3 +261,4 @@
 - [2026-01-10T16:51:17] Add Redis rate limit backoff handlers
 - [2026-01-10T14:23:17] Refactor worker polling logic
 - [2026-01-10T19:08:49] Update schema migration helpers
+- [2026-01-10T19:10:53] Update automated pytest test suites
