@@ -260,3 +260,4 @@
 - [2026-01-10T18:06:40] Clean up legacy worker task routines
 - [2026-01-10T16:51:17] Add Redis rate limit backoff handlers
 - [2026-01-10T14:23:17] Refactor worker polling logic
+- [2026-01-10T19:08:49] Update schema migration helpers
