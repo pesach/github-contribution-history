@@ -252,3 +252,4 @@
 - [2026-01-10T22:53:50] Enhance dashboard statistics rendering
 - [2026-01-10T09:41:35] Refactor storage upload retry mechanism
 - [2026-01-10T14:06:55] Improve ffmpeg streaming pipe buffer management
+- [2026-01-10T19:10:18] Add Prometheus exporter endpoints for queue length
