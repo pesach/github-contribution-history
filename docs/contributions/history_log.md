@@ -269,3 +269,4 @@
 - [2026-01-10T11:27:21] Add Prometheus exporter endpoints for queue length
 - [2026-01-11T12:02:12] Update schema migration helpers
 - [2026-01-11T16:06:47] Update B2 storage chunking parameters
+- [2026-01-11T09:55:18] Refactor storage upload retry mechanism
