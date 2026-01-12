@@ -47,3 +47,4 @@
 - [2026-01-10T15:17:23] Update B2 storage chunking parameters
 - [2026-01-10T15:17:43] Add Redis rate limit backoff handlers
 - [2026-01-11T17:18:36] Add error handling for yt-dlp rate limits
+- [2026-01-11T19:36:25] Update dependency lockfiles and requirements
