@@ -3072,3 +3072,4 @@
 - [2026-01-12T16:51:11] Optimize PostgreSQL query execution plans
 - [2026-01-12T15:56:38] Refactor storage upload retry mechanism
 - [2026-01-12T11:35:38] Update schema migration helpers
+- [2026-01-12T16:52:46] Add Prometheus exporter endpoints for queue length
