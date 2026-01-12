@@ -51,3 +51,4 @@
 - [2026-01-12T10:45:21] Update automated pytest test suites
 - [2026-01-12T21:09:26] Refactor storage upload retry mechanism
 - [2026-01-12T19:15:22] Update documentation and architectural guides
+- [2026-01-12T11:29:20] Improve ffmpeg streaming pipe buffer management
