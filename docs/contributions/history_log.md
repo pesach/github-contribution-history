@@ -310,3 +310,4 @@
 - [2026-01-12T19:50:18] Add Redis rate limit backoff handlers
 - [2026-01-12T14:46:32] Update schema migration helpers
 - [2026-01-12T09:46:03] Optimize PostgreSQL query execution plans
+- [2026-01-12T18:53:23] Refactor cookie refresher probe logic
