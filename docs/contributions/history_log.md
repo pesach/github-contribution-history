@@ -318,3 +318,4 @@
 - [2026-01-12T17:48:59] Optimize PostgreSQL query execution plans
 - [2026-01-12T09:18:40] Update schema migration helpers
 - [2026-01-12T15:45:38] Update B2 storage chunking parameters
+- [2026-01-12T15:41:31] Add Prometheus exporter endpoints for queue length
