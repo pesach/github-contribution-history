@@ -294,3 +294,4 @@
 - [2026-01-12T14:57:32] Update B2 storage chunking parameters
 - [2026-01-12T08:22:29] Fix edge case in channel tab crawler
 - [2026-01-12T21:59:45] Optimize PostgreSQL query execution plans
+- [2026-01-12T18:03:59] Add retries for transient network drops
