@@ -292,3 +292,4 @@
 - [2026-01-12T17:35:18] Implement streaming upload chunk buffer optimization
 - [2026-01-12T11:24:36] Update dependency lockfiles and requirements
 - [2026-01-12T14:57:32] Update B2 storage chunking parameters
+- [2026-01-12T08:22:29] Fix edge case in channel tab crawler
