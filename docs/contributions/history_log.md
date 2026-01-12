@@ -296,3 +296,4 @@
 - [2026-01-12T21:59:45] Optimize PostgreSQL query execution plans
 - [2026-01-12T18:03:59] Add retries for transient network drops
 - [2026-01-12T10:05:14] Add Prometheus exporter endpoints for queue length
+- [2026-01-12T16:50:41] Refactor worker polling logic
