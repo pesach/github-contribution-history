@@ -300,3 +300,4 @@
 - [2026-01-12T12:46:00] Fix edge case in URL parsing and validation
 - [2026-01-12T16:37:21] Add Redis rate limit backoff handlers
 - [2026-01-12T10:35:06] Update B2 storage chunking parameters
+- [2026-01-12T19:12:26] Enhance dashboard statistics rendering
