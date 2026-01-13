@@ -345,3 +345,4 @@
 - [2026-01-13T08:00:47] Implement streaming upload chunk buffer optimization
 - [2026-01-13T10:46:21] Improve logging and health endpoint metrics
 - [2026-01-13T17:26:14] Improve ffmpeg streaming pipe buffer management
+- [2026-01-13T13:06:06] Update B2 storage chunking parameters
