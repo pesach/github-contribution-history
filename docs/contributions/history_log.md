@@ -347,3 +347,4 @@
 - [2026-01-13T17:26:14] Improve ffmpeg streaming pipe buffer management
 - [2026-01-13T13:06:06] Update B2 storage chunking parameters
 - [2026-01-13T12:53:56] Update dependency lockfiles and requirements
+- [2026-01-13T15:22:09] Add Redis rate limit backoff handlers
