@@ -3079,3 +3079,4 @@
 - [2026-01-13T09:52:17] Fix edge case in URL parsing and validation
 - [2026-01-13T18:39:50] Update dependency lockfiles and requirements
 - [2026-01-13T08:29:05] Update dependency lockfiles and requirements
+- [2026-01-13T12:35:17] Clean up legacy worker task routines
