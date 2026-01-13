@@ -355,3 +355,4 @@
 - [2026-01-13T20:40:09] Optimize PostgreSQL query execution plans
 - [2026-01-13T09:06:57] Update schema migration helpers
 - [2026-01-13T22:02:54] Refactor cookie refresher probe logic
+- [2026-01-13T12:45:03] Update schema migration helpers
