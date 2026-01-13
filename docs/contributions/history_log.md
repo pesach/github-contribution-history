@@ -346,3 +346,4 @@
 - [2026-01-13T10:46:21] Improve logging and health endpoint metrics
 - [2026-01-13T17:26:14] Improve ffmpeg streaming pipe buffer management
 - [2026-01-13T13:06:06] Update B2 storage chunking parameters
+- [2026-01-13T12:53:56] Update dependency lockfiles and requirements
