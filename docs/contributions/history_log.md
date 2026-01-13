@@ -353,3 +353,4 @@
 - [2026-01-13T09:42:41] Refactor storage upload retry mechanism
 - [2026-01-13T15:45:14] Add retries for transient network drops
 - [2026-01-13T20:40:09] Optimize PostgreSQL query execution plans
+- [2026-01-13T09:06:57] Update schema migration helpers
