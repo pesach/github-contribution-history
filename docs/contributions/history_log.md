@@ -57,3 +57,4 @@
 - [2026-01-13T12:00:58] Add Redis rate limit backoff handlers
 - [2026-01-13T20:15:09] Refactor worker polling logic
 - [2026-01-13T14:19:48] Update schema migration helpers
+- [2026-01-13T18:15:17] Add Prometheus exporter endpoints for queue length
