@@ -326,3 +326,4 @@
 - [2026-01-13T14:37:47] Improve logging and health endpoint metrics
 - [2026-01-13T11:53:48] Update automated pytest test suites
 - [2026-01-13T19:24:06] Add Prometheus exporter endpoints for queue length
+- [2026-01-13T14:40:01] Refactor storage upload retry mechanism
