@@ -58,3 +58,4 @@
 - [2026-01-13T20:15:09] Refactor worker polling logic
 - [2026-01-13T14:19:48] Update schema migration helpers
 - [2026-01-13T18:15:17] Add Prometheus exporter endpoints for queue length
+- [2026-01-14T08:33:27] Refactor cookie refresher probe logic
