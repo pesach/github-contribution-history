@@ -358,3 +358,4 @@
 - [2026-01-13T12:45:03] Update schema migration helpers
 - [2026-01-13T20:49:33] Update schema migration helpers
 - [2026-01-13T22:40:53] Refactor worker polling logic
+- [2026-01-14T09:24:06] Add retries for transient network drops
