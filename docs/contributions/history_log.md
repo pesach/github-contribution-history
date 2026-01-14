@@ -383,3 +383,4 @@
 - [2026-01-14T20:18:17] Optimize PostgreSQL query execution plans
 - [2026-01-14T21:20:05] Update dependency lockfiles and requirements
 - [2026-01-14T10:01:52] Update dependency lockfiles and requirements
+- [2026-01-14T16:17:51] Add error handling for yt-dlp rate limits
