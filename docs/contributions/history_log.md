@@ -374,3 +374,4 @@
 - [2026-01-14T16:45:57] Improve logging and health endpoint metrics
 - [2026-01-14T21:46:25] Fix edge case in channel tab crawler
 - [2026-01-14T09:32:45] Optimize PostgreSQL query execution plans
+- [2026-01-14T11:50:16] Add Prometheus exporter endpoints for queue length
