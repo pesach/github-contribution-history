@@ -377,3 +377,4 @@
 - [2026-01-14T11:50:16] Add Prometheus exporter endpoints for queue length
 - [2026-01-14T15:57:04] Update B2 storage chunking parameters
 - [2026-01-14T10:40:07] Improve ffmpeg streaming pipe buffer management
+- [2026-01-14T16:57:32] Fix edge case in URL parsing and validation
