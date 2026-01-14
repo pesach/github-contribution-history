@@ -3089,3 +3089,4 @@
 - [2026-01-14T09:42:06] Improve logging and health endpoint metrics
 - [2026-01-14T20:39:20] Refactor storage upload retry mechanism
 - [2026-01-14T21:22:31] Update automated pytest test suites
+- [2026-01-14T15:07:35] Refactor cookie refresher probe logic
