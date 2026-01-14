@@ -340,3 +340,4 @@
 - [2026-01-13T21:12:22] Clean up legacy worker task routines
 - [2026-01-13T16:09:55] Update B2 storage chunking parameters
 - [2026-01-13T22:57:02] Add Redis rate limit backoff handlers
+- [2026-01-13T19:24:25] Refactor storage upload retry mechanism
