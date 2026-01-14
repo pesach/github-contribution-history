@@ -384,3 +384,4 @@
 - [2026-01-14T21:20:05] Update dependency lockfiles and requirements
 - [2026-01-14T10:01:52] Update dependency lockfiles and requirements
 - [2026-01-14T16:17:51] Add error handling for yt-dlp rate limits
+- [2026-01-14T13:51:33] Refactor storage upload retry mechanism
