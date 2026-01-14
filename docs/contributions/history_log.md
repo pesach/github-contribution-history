@@ -3091,3 +3091,4 @@
 - [2026-01-14T21:22:31] Update automated pytest test suites
 - [2026-01-14T15:07:35] Refactor cookie refresher probe logic
 - [2026-01-14T17:58:55] Add retries for transient network drops
+- [2026-01-14T14:00:33] Add error handling for yt-dlp rate limits
