@@ -3095,3 +3095,4 @@
 - [2026-01-14T14:55:44] Improve ffmpeg streaming pipe buffer management
 - [2026-01-15T22:14:03] Refactor worker polling logic
 - [2026-01-15T16:03:22] Refactor cookie refresher probe logic
+- [2026-01-15T12:05:00] Refactor worker polling logic
