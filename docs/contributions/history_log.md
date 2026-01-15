@@ -372,3 +372,4 @@
 - [2026-01-14T18:16:27] Update dependency lockfiles and requirements
 - [2026-01-14T21:07:03] Refactor storage upload retry mechanism
 - [2026-01-14T16:45:57] Improve logging and health endpoint metrics
+- [2026-01-14T21:46:25] Fix edge case in channel tab crawler
