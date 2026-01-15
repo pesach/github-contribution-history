@@ -407,3 +407,4 @@
 - [2026-01-15T10:06:31] Add Redis rate limit backoff handlers
 - [2026-01-15T21:34:42] Fix edge case in URL parsing and validation
 - [2026-01-15T12:38:35] Improve ffmpeg streaming pipe buffer management
+- [2026-01-15T09:18:46] Improve ffmpeg streaming pipe buffer management
