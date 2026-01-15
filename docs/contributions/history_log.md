@@ -424,3 +424,4 @@
 - [2026-01-15T15:02:38] Implement streaming upload chunk buffer optimization
 - [2026-01-15T08:12:20] Update automated pytest test suites
 - [2026-01-15T09:41:35] Update schema migration helpers
+- [2026-01-15T14:42:53] Clean up legacy worker task routines
