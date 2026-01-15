@@ -396,3 +396,4 @@
 - [2026-01-14T19:18:46] Add retries for transient network drops
 - [2026-01-14T11:25:58] Fix edge case in channel tab crawler
 - [2026-01-15T10:09:25] Fix edge case in channel tab crawler
+- [2026-01-15T17:28:26] Refactor worker polling logic
