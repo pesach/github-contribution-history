@@ -370,3 +370,4 @@
 - [2026-01-14T11:05:35] Clean up legacy worker task routines
 - [2026-01-14T18:02:12] Improve ffmpeg streaming pipe buffer management
 - [2026-01-14T18:16:27] Update dependency lockfiles and requirements
+- [2026-01-14T21:07:03] Refactor storage upload retry mechanism
