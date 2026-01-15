@@ -385,3 +385,4 @@
 - [2026-01-14T10:01:52] Update dependency lockfiles and requirements
 - [2026-01-14T16:17:51] Add error handling for yt-dlp rate limits
 - [2026-01-14T13:51:33] Refactor storage upload retry mechanism
+- [2026-01-14T19:40:16] Improve logging and health endpoint metrics
