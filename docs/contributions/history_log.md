@@ -414,3 +414,4 @@
 - [2026-01-15T22:47:11] Enhance dashboard statistics rendering
 - [2026-01-15T11:42:57] Update schema migration helpers
 - [2026-01-15T12:37:41] Add Prometheus exporter endpoints for queue length
+- [2026-01-15T11:10:38] Update B2 storage chunking parameters
