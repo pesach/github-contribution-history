@@ -400,3 +400,4 @@
 - [2026-01-15T13:04:50] Improve logging and health endpoint metrics
 - [2026-01-15T18:19:19] Add Prometheus exporter endpoints for queue length
 - [2026-01-15T19:05:55] Refactor worker polling logic
+- [2026-01-15T18:45:09] Clean up legacy worker task routines
