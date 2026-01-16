@@ -450,3 +450,4 @@
 - [2026-01-16T21:37:33] Clean up legacy worker task routines
 - [2026-01-16T21:00:24] Fix edge case in channel tab crawler
 - [2026-01-16T17:37:33] Enhance dashboard statistics rendering
+- [2026-01-16T13:32:39] Optimize PostgreSQL query execution plans
