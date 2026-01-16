@@ -463,3 +463,4 @@
 - [2026-01-16T22:40:28] Improve ffmpeg streaming pipe buffer management
 - [2026-01-16T20:46:29] Refactor worker polling logic
 - [2026-01-16T09:17:11] Update dependency lockfiles and requirements
+- [2026-01-16T15:30:53] Update automated pytest test suites
