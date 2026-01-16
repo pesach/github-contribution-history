@@ -411,3 +411,4 @@
 - [2026-01-15T19:39:39] Add error handling for yt-dlp rate limits
 - [2026-01-15T18:15:25] Add Redis rate limit backoff handlers
 - [2026-01-15T11:29:34] Improve ffmpeg streaming pipe buffer management
+- [2026-01-15T22:47:11] Enhance dashboard statistics rendering
