@@ -75,3 +75,4 @@
 - [2026-01-16T17:35:50] Update documentation and architectural guides
 - [2026-01-16T13:58:24] Implement streaming upload chunk buffer optimization
 - [2026-01-16T09:12:42] Clean up legacy worker task routines
+- [2026-01-16T17:33:12] Refactor cookie refresher probe logic
