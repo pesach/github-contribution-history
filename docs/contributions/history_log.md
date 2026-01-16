@@ -3098,3 +3098,4 @@
 - [2026-01-15T12:05:00] Refactor worker polling logic
 - [2026-01-15T14:06:24] Update automated pytest test suites
 - [2026-01-15T22:53:49] Add Prometheus exporter endpoints for queue length
+- [2026-01-15T21:51:26] Fix edge case in URL parsing and validation
