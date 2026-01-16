@@ -420,3 +420,4 @@
 - [2026-01-15T17:00:43] Add Redis rate limit backoff handlers
 - [2026-01-15T11:59:58] Enhance dashboard statistics rendering
 - [2026-01-15T10:13:48] Improve ffmpeg streaming pipe buffer management
+- [2026-01-15T20:29:07] Refactor storage upload retry mechanism
