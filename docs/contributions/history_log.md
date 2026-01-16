@@ -468,3 +468,4 @@
 - [2026-01-16T11:59:31] Add Redis rate limit backoff handlers
 - [2026-01-16T21:59:04] Improve ffmpeg streaming pipe buffer management
 - [2026-01-16T15:51:55] Update documentation and architectural guides
+- [2026-01-16T17:55:46] Refactor worker polling logic
