@@ -3093,3 +3093,4 @@
 - [2026-01-14T17:58:55] Add retries for transient network drops
 - [2026-01-14T14:00:33] Add error handling for yt-dlp rate limits
 - [2026-01-14T14:55:44] Improve ffmpeg streaming pipe buffer management
+- [2026-01-15T22:14:03] Refactor worker polling logic
