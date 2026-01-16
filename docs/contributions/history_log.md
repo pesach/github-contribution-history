@@ -70,3 +70,4 @@
 - [2026-01-15T08:39:56] Improve ffmpeg streaming pipe buffer management
 - [2026-01-15T12:11:56] Update documentation and architectural guides
 - [2026-01-16T14:50:37] Refactor worker polling logic
+- [2026-01-16T09:34:15] Enhance dashboard statistics rendering
