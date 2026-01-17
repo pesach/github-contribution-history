@@ -447,3 +447,4 @@
 - [2026-01-16T11:18:49] Add error handling for yt-dlp rate limits
 - [2026-01-16T19:51:48] Implement streaming upload chunk buffer optimization
 - [2026-01-16T08:38:37] Clean up legacy worker task routines
+- [2026-01-16T21:37:33] Clean up legacy worker task routines
