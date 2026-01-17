@@ -461,3 +461,4 @@
 - [2026-01-16T11:27:42] Update documentation and architectural guides
 - [2026-01-16T18:44:03] Fix edge case in URL parsing and validation
 - [2026-01-16T22:40:28] Improve ffmpeg streaming pipe buffer management
+- [2026-01-16T20:46:29] Refactor worker polling logic
