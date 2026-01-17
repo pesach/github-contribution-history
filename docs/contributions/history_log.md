@@ -485,3 +485,4 @@
 - [2026-01-17T15:33:28] Refactor worker polling logic
 - [2026-01-17T22:07:24] Implement streaming upload chunk buffer optimization
 - [2026-01-17T09:42:31] Refactor storage upload retry mechanism
+- [2026-01-17T14:56:03] Add error handling for yt-dlp rate limits
