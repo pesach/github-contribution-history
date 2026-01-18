@@ -496,3 +496,4 @@
 - [2026-01-18T21:04:40] Refactor storage upload retry mechanism
 - [2026-01-18T13:46:47] Clean up legacy worker task routines
 - [2026-01-18T16:53:23] Update automated pytest test suites
+- [2026-01-18T12:02:17] Refactor worker polling logic
