@@ -488,3 +488,4 @@
 - [2026-01-17T14:56:03] Add error handling for yt-dlp rate limits
 - [2026-01-17T17:06:30] Update dependency lockfiles and requirements
 - [2026-01-17T22:32:23] Implement streaming upload chunk buffer optimization
+- [2026-01-18T18:47:15] Fix edge case in channel tab crawler
