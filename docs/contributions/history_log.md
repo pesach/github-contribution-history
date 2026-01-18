@@ -478,3 +478,4 @@
 - [2026-01-17T12:25:52] Update schema migration helpers
 - [2026-01-17T14:34:12] Fix edge case in channel tab crawler
 - [2026-01-17T11:31:28] Add retries for transient network drops
+- [2026-01-17T22:10:40] Optimize PostgreSQL query execution plans
