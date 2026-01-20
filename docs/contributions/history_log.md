@@ -519,3 +519,4 @@
 - [2026-01-20T14:04:37] Update B2 storage chunking parameters
 - [2026-01-20T10:22:31] Fix edge case in URL parsing and validation
 - [2026-01-20T14:10:28] Refactor storage upload retry mechanism
+- [2026-01-20T14:46:55] Update B2 storage chunking parameters
