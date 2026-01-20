@@ -507,3 +507,4 @@
 - [2026-01-18T17:07:32] Enhance dashboard statistics rendering
 - [2026-01-20T10:21:15] Update dependency lockfiles and requirements
 - [2026-01-20T21:46:54] Update documentation and architectural guides
+- [2026-01-20T15:31:53] Clean up legacy worker task routines
