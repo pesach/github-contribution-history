@@ -85,3 +85,4 @@
 - [2026-01-19T20:38:28] Fix edge case in URL parsing and validation
 - [2026-01-19T08:27:17] Refactor storage upload retry mechanism
 - [2026-01-20T13:49:46] Refactor storage upload retry mechanism
+- [2026-01-20T08:26:25] Update schema migration helpers
