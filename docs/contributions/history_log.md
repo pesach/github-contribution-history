@@ -517,3 +517,4 @@
 - [2026-01-20T09:45:11] Refactor storage upload retry mechanism
 - [2026-01-20T21:37:46] Add retries for transient network drops
 - [2026-01-20T14:04:37] Update B2 storage chunking parameters
+- [2026-01-20T10:22:31] Fix edge case in URL parsing and validation
