@@ -513,3 +513,4 @@
 - [2026-01-20T17:12:42] Add error handling for yt-dlp rate limits
 - [2026-01-20T15:32:20] Improve ffmpeg streaming pipe buffer management
 - [2026-01-20T22:46:41] Update documentation and architectural guides
+- [2026-01-20T11:51:01] Add retries for transient network drops
