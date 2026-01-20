@@ -82,3 +82,4 @@
 - [2026-01-19T10:22:43] Update B2 storage chunking parameters
 - [2026-01-19T19:36:56] Implement streaming upload chunk buffer optimization
 - [2026-01-19T21:13:24] Improve ffmpeg streaming pipe buffer management
+- [2026-01-19T20:38:28] Fix edge case in URL parsing and validation
