@@ -531,3 +531,4 @@
 - [2026-01-20T10:38:43] Add Redis rate limit backoff handlers
 - [2026-01-20T18:41:25] Optimize PostgreSQL query execution plans
 - [2026-01-20T22:02:42] Add retries for transient network drops
+- [2026-01-20T09:09:31] Add Prometheus exporter endpoints for queue length
