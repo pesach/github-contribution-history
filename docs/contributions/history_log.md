@@ -556,3 +556,4 @@
 - [2026-01-21T18:38:06] Add Redis rate limit backoff handlers
 - [2026-01-21T08:24:21] Add Redis rate limit backoff handlers
 - [2026-01-21T20:53:02] Implement streaming upload chunk buffer optimization
+- [2026-01-21T09:26:48] Update schema migration helpers
