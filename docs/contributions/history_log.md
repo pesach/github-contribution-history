@@ -548,3 +548,4 @@
 - [2026-01-21T12:11:29] Add retries for transient network drops
 - [2026-01-21T19:44:33] Add retries for transient network drops
 - [2026-01-21T11:38:32] Improve logging and health endpoint metrics
+- [2026-01-21T09:27:38] Add Redis rate limit backoff handlers
