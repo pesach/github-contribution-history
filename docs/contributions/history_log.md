@@ -571,3 +571,4 @@
 - [2026-01-21T13:58:10] Update schema migration helpers
 - [2026-01-21T10:54:08] Refactor cookie refresher probe logic
 - [2026-01-21T21:27:12] Update B2 storage chunking parameters
+- [2026-01-21T14:11:43] Refactor cookie refresher probe logic
