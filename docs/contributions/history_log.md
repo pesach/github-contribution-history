@@ -535,3 +535,4 @@
 - [2026-01-20T18:40:59] Clean up legacy worker task routines
 - [2026-01-20T21:53:51] Add Prometheus exporter endpoints for queue length
 - [2026-01-20T22:33:20] Add Redis rate limit backoff handlers
+- [2026-01-20T21:45:50] Update schema migration helpers
