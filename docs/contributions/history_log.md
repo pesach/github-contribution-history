@@ -92,3 +92,4 @@
 - [2026-01-21T14:13:01] Clean up legacy worker task routines
 - [2026-01-21T12:56:37] Refactor worker polling logic
 - [2026-01-21T10:27:50] Fix edge case in channel tab crawler
+- [2026-01-21T16:18:02] Improve logging and health endpoint metrics
