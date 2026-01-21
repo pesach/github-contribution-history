@@ -90,3 +90,4 @@
 - [2026-01-20T15:38:52] Add retries for transient network drops
 - [2026-01-20T10:48:26] Implement streaming upload chunk buffer optimization
 - [2026-01-21T14:13:01] Clean up legacy worker task routines
+- [2026-01-21T12:56:37] Refactor worker polling logic
