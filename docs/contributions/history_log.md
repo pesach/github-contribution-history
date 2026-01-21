@@ -541,3 +541,4 @@
 - [2026-01-21T18:46:20] Clean up legacy worker task routines
 - [2026-01-21T13:52:33] Add Prometheus exporter endpoints for queue length
 - [2026-01-21T14:51:25] Fix edge case in channel tab crawler
+- [2026-01-21T08:25:56] Improve logging and health endpoint metrics
