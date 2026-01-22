@@ -600,3 +600,4 @@
 - [2026-01-22T13:45:58] Improve logging and health endpoint metrics
 - [2026-01-22T18:45:01] Update documentation and architectural guides
 - [2026-01-22T12:39:51] Update schema migration helpers
+- [2026-01-22T11:47:11] Clean up legacy worker task routines
