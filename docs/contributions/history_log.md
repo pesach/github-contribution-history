@@ -606,3 +606,4 @@
 - [2026-01-22T11:14:29] Update documentation and architectural guides
 - [2026-01-22T17:44:49] Update schema migration helpers
 - [2026-01-22T13:43:13] Refactor storage upload retry mechanism
+- [2026-01-22T14:25:07] Add Prometheus exporter endpoints for queue length
