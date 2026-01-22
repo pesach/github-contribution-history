@@ -543,3 +543,4 @@
 - [2026-01-21T14:51:25] Fix edge case in channel tab crawler
 - [2026-01-21T08:25:56] Improve logging and health endpoint metrics
 - [2026-01-21T22:31:58] Refactor cookie refresher probe logic
+- [2026-01-21T22:26:31] Improve ffmpeg streaming pipe buffer management
