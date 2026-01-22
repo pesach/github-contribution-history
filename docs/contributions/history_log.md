@@ -603,3 +603,4 @@
 - [2026-01-22T11:47:11] Clean up legacy worker task routines
 - [2026-01-22T19:23:15] Update schema migration helpers
 - [2026-01-22T13:41:06] Update automated pytest test suites
+- [2026-01-22T11:14:29] Update documentation and architectural guides
