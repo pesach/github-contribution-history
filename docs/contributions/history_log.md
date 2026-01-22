@@ -95,3 +95,4 @@
 - [2026-01-21T16:18:02] Improve logging and health endpoint metrics
 - [2026-01-21T15:38:35] Implement streaming upload chunk buffer optimization
 - [2026-01-21T13:21:49] Fix edge case in channel tab crawler
+- [2026-01-22T15:18:47] Refactor storage upload retry mechanism
