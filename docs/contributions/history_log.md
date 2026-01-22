@@ -576,3 +576,4 @@
 - [2026-01-22T12:28:03] Implement streaming upload chunk buffer optimization
 - [2026-01-22T22:44:06] Update documentation and architectural guides
 - [2026-01-22T10:05:34] Update documentation and architectural guides
+- [2026-01-22T12:32:02] Refactor worker polling logic
