@@ -3145,3 +3145,4 @@
 - [2026-01-22T13:45:11] Clean up legacy worker task routines
 - [2026-01-22T17:13:20] Refactor storage upload retry mechanism
 - [2026-01-22T09:15:55] Refactor cookie refresher probe logic
+- [2026-01-22T08:21:05] Improve ffmpeg streaming pipe buffer management
