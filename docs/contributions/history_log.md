@@ -566,3 +566,4 @@
 - [2026-01-21T13:22:00] Update B2 storage chunking parameters
 - [2026-01-21T22:09:56] Update automated pytest test suites
 - [2026-01-21T11:16:06] Optimize PostgreSQL query execution plans
+- [2026-01-21T19:03:51] Add error handling for yt-dlp rate limits
