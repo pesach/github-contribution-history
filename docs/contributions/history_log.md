@@ -570,3 +570,4 @@
 - [2026-01-21T15:28:43] Improve ffmpeg streaming pipe buffer management
 - [2026-01-21T13:58:10] Update schema migration helpers
 - [2026-01-21T10:54:08] Refactor cookie refresher probe logic
+- [2026-01-21T21:27:12] Update B2 storage chunking parameters
