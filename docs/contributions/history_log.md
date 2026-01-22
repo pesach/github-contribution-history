@@ -546,3 +546,4 @@
 - [2026-01-21T22:26:31] Improve ffmpeg streaming pipe buffer management
 - [2026-01-21T15:29:29] Update dependency lockfiles and requirements
 - [2026-01-21T12:11:29] Add retries for transient network drops
+- [2026-01-21T19:44:33] Add retries for transient network drops
