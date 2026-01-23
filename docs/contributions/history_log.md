@@ -617,3 +617,4 @@
 - [2026-01-23T12:19:32] Add retries for transient network drops
 - [2026-01-23T09:59:51] Refactor storage upload retry mechanism
 - [2026-01-23T21:23:50] Clean up legacy worker task routines
+- [2026-01-23T16:56:06] Update schema migration helpers
