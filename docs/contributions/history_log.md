@@ -623,3 +623,4 @@
 - [2026-01-23T18:02:45] Update documentation and architectural guides
 - [2026-01-23T22:46:40] Fix edge case in URL parsing and validation
 - [2026-01-23T11:12:40] Fix edge case in URL parsing and validation
+- [2026-01-23T17:35:00] Add Redis rate limit backoff handlers
