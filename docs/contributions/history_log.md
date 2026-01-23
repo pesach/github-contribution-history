@@ -105,3 +105,4 @@
 - [2026-01-23T14:23:39] Enhance dashboard statistics rendering
 - [2026-01-23T12:12:20] Refactor cookie refresher probe logic
 - [2026-01-23T20:25:44] Update schema migration helpers
+- [2026-01-23T15:26:33] Update B2 storage chunking parameters
