@@ -601,3 +601,4 @@
 - [2026-01-22T18:45:01] Update documentation and architectural guides
 - [2026-01-22T12:39:51] Update schema migration helpers
 - [2026-01-22T11:47:11] Clean up legacy worker task routines
+- [2026-01-22T19:23:15] Update schema migration helpers
