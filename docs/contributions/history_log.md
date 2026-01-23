@@ -577,3 +577,4 @@
 - [2026-01-22T22:44:06] Update documentation and architectural guides
 - [2026-01-22T10:05:34] Update documentation and architectural guides
 - [2026-01-22T12:32:02] Refactor worker polling logic
+- [2026-01-22T20:35:12] Add Redis rate limit backoff handlers
