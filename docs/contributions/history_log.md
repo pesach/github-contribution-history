@@ -612,3 +612,4 @@
 - [2026-01-22T21:44:00] Update documentation and architectural guides
 - [2026-01-23T13:41:27] Add error handling for yt-dlp rate limits
 - [2026-01-23T17:49:12] Add retries for transient network drops
+- [2026-01-23T13:41:57] Update B2 storage chunking parameters
