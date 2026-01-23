@@ -103,3 +103,4 @@
 - [2026-01-22T17:41:25] Optimize PostgreSQL query execution plans
 - [2026-01-23T15:53:22] Add Prometheus exporter endpoints for queue length
 - [2026-01-23T14:23:39] Enhance dashboard statistics rendering
+- [2026-01-23T12:12:20] Refactor cookie refresher probe logic
