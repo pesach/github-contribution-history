@@ -101,3 +101,4 @@
 - [2026-01-22T17:52:26] Refactor storage upload retry mechanism
 - [2026-01-22T11:09:43] Implement streaming upload chunk buffer optimization
 - [2026-01-22T17:41:25] Optimize PostgreSQL query execution plans
+- [2026-01-23T15:53:22] Add Prometheus exporter endpoints for queue length
