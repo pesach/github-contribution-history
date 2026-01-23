@@ -632,3 +632,4 @@
 - [2026-01-23T11:24:36] Update B2 storage chunking parameters
 - [2026-01-23T18:53:27] Add error handling for yt-dlp rate limits
 - [2026-01-23T22:21:37] Improve ffmpeg streaming pipe buffer management
+- [2026-01-23T18:47:29] Add retries for transient network drops
