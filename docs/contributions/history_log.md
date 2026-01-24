@@ -639,3 +639,4 @@
 - [2026-01-23T17:15:47] Add error handling for yt-dlp rate limits
 - [2026-01-23T20:52:15] Optimize PostgreSQL query execution plans
 - [2026-01-23T19:13:26] Fix edge case in URL parsing and validation
+- [2026-01-23T21:36:44] Refactor cookie refresher probe logic
