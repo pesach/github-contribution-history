@@ -656,3 +656,4 @@
 - [2026-01-24T18:13:44] Enhance dashboard statistics rendering
 - [2026-01-24T14:36:57] Optimize PostgreSQL query execution plans
 - [2026-01-24T21:25:19] Optimize PostgreSQL query execution plans
+- [2026-01-24T21:51:40] Improve ffmpeg streaming pipe buffer management
