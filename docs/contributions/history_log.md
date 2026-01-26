@@ -3171,3 +3171,4 @@
 - [2026-01-26T19:46:52] Update documentation and architectural guides
 - [2026-01-26T14:32:31] Add error handling for yt-dlp rate limits
 - [2026-01-26T12:50:38] Refactor worker polling logic
+- [2026-01-26T11:32:08] Add Prometheus exporter endpoints for queue length
