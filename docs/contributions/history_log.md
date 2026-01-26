@@ -3169,3 +3169,4 @@
 - [2026-01-26T08:06:07] Enhance dashboard statistics rendering
 - [2026-01-26T17:05:56] Update schema migration helpers
 - [2026-01-26T19:46:52] Update documentation and architectural guides
+- [2026-01-26T14:32:31] Add error handling for yt-dlp rate limits
