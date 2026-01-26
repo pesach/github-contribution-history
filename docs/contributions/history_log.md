@@ -694,3 +694,4 @@
 - [2026-01-26T15:07:17] Update schema migration helpers
 - [2026-01-26T11:36:02] Improve ffmpeg streaming pipe buffer management
 - [2026-01-26T20:23:54] Update automated pytest test suites
+- [2026-01-26T10:24:17] Fix edge case in channel tab crawler
