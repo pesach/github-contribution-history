@@ -677,3 +677,4 @@
 - [2026-01-26T18:48:12] Update B2 storage chunking parameters
 - [2026-01-26T17:56:44] Improve logging and health endpoint metrics
 - [2026-01-26T13:50:58] Update automated pytest test suites
+- [2026-01-26T17:21:20] Clean up legacy worker task routines
