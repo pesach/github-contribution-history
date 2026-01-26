@@ -697,3 +697,4 @@
 - [2026-01-26T10:24:17] Fix edge case in channel tab crawler
 - [2026-01-26T22:02:52] Improve logging and health endpoint metrics
 - [2026-01-26T08:41:02] Update dependency lockfiles and requirements
+- [2026-01-26T08:51:13] Optimize PostgreSQL query execution plans
