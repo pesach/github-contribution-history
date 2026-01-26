@@ -692,3 +692,4 @@
 - [2026-01-26T14:37:54] Clean up legacy worker task routines
 - [2026-01-26T19:47:55] Refactor worker polling logic
 - [2026-01-26T15:07:17] Update schema migration helpers
+- [2026-01-26T11:36:02] Improve ffmpeg streaming pipe buffer management
