@@ -115,3 +115,4 @@
 - [2026-01-25T14:55:27] Refactor storage upload retry mechanism
 - [2026-01-25T20:19:38] Add Redis rate limit backoff handlers
 - [2026-01-26T18:20:40] Add Redis rate limit backoff handlers
+- [2026-01-26T13:42:42] Clean up legacy worker task routines
