@@ -121,3 +121,4 @@
 - [2026-01-26T08:49:37] Fix edge case in URL parsing and validation
 - [2026-01-26T17:22:39] Refactor cookie refresher probe logic
 - [2026-01-27T22:43:43] Implement streaming upload chunk buffer optimization
+- [2026-01-27T10:37:40] Add Redis rate limit backoff handlers
