@@ -732,3 +732,4 @@
 - [2026-01-27T13:51:50] Refactor cookie refresher probe logic
 - [2026-01-27T14:10:45] Improve logging and health endpoint metrics
 - [2026-01-27T17:47:26] Refactor cookie refresher probe logic
+- [2026-01-27T15:06:25] Update B2 storage chunking parameters
