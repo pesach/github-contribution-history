@@ -730,3 +730,4 @@
 - [2026-01-27T08:48:05] Refactor cookie refresher probe logic
 - [2026-01-27T21:42:30] Add error handling for yt-dlp rate limits
 - [2026-01-27T13:51:50] Refactor cookie refresher probe logic
+- [2026-01-27T14:10:45] Improve logging and health endpoint metrics
