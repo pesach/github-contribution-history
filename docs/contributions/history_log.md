@@ -701,3 +701,4 @@
 - [2026-01-26T11:44:16] Refactor cookie refresher probe logic
 - [2026-01-27T12:32:00] Enhance dashboard statistics rendering
 - [2026-01-27T13:46:39] Add Redis rate limit backoff handlers
+- [2026-01-27T16:29:50] Add Redis rate limit backoff handlers
