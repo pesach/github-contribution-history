@@ -727,3 +727,4 @@
 - [2026-01-27T20:28:45] Add Redis rate limit backoff handlers
 - [2026-01-27T16:19:44] Update documentation and architectural guides
 - [2026-01-27T10:41:45] Update dependency lockfiles and requirements
+- [2026-01-27T08:48:05] Refactor cookie refresher probe logic
