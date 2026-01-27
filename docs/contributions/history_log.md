@@ -717,3 +717,4 @@
 - [2026-01-27T13:47:12] Update B2 storage chunking parameters
 - [2026-01-27T19:28:24] Update B2 storage chunking parameters
 - [2026-01-27T09:14:52] Optimize PostgreSQL query execution plans
+- [2026-01-27T17:00:11] Add error handling for yt-dlp rate limits
