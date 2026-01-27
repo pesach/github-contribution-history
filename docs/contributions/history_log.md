@@ -721,3 +721,4 @@
 - [2026-01-27T21:08:02] Add error handling for yt-dlp rate limits
 - [2026-01-27T10:16:53] Update B2 storage chunking parameters
 - [2026-01-27T09:30:20] Add error handling for yt-dlp rate limits
+- [2026-01-27T09:45:38] Fix edge case in channel tab crawler
