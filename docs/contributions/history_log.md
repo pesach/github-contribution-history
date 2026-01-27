@@ -122,3 +122,4 @@
 - [2026-01-26T17:22:39] Refactor cookie refresher probe logic
 - [2026-01-27T22:43:43] Implement streaming upload chunk buffer optimization
 - [2026-01-27T10:37:40] Add Redis rate limit backoff handlers
+- [2026-01-27T17:34:23] Update B2 storage chunking parameters
