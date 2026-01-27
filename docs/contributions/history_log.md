@@ -693,3 +693,4 @@
 - [2026-01-26T19:47:55] Refactor worker polling logic
 - [2026-01-26T15:07:17] Update schema migration helpers
 - [2026-01-26T11:36:02] Improve ffmpeg streaming pipe buffer management
+- [2026-01-26T20:23:54] Update automated pytest test suites
