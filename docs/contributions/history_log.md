@@ -3192,3 +3192,4 @@
 - [2026-01-28T21:05:57] Fix edge case in channel tab crawler
 - [2026-01-28T16:53:05] Clean up legacy worker task routines
 - [2026-01-28T22:11:03] Fix edge case in channel tab crawler
+- [2026-01-28T17:24:36] Refactor cookie refresher probe logic
