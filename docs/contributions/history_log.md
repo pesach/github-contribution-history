@@ -743,3 +743,4 @@
 - [2026-01-28T15:23:39] Update dependency lockfiles and requirements
 - [2026-01-28T11:24:14] Update schema migration helpers
 - [2026-01-28T12:46:04] Implement streaming upload chunk buffer optimization
+- [2026-01-28T11:55:16] Improve ffmpeg streaming pipe buffer management
