@@ -761,3 +761,4 @@
 - [2026-01-28T17:29:53] Refactor cookie refresher probe logic
 - [2026-01-28T19:59:30] Add error handling for yt-dlp rate limits
 - [2026-01-28T18:50:57] Fix edge case in URL parsing and validation
+- [2026-01-28T11:48:17] Refactor storage upload retry mechanism
