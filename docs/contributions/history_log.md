@@ -724,3 +724,4 @@
 - [2026-01-27T09:45:38] Fix edge case in channel tab crawler
 - [2026-01-27T17:51:38] Update B2 storage chunking parameters
 - [2026-01-27T15:55:05] Optimize PostgreSQL query execution plans
+- [2026-01-27T20:28:45] Add Redis rate limit backoff handlers
