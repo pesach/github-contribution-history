@@ -127,3 +127,4 @@
 - [2026-01-27T21:27:20] Add Prometheus exporter endpoints for queue length
 - [2026-01-28T13:32:23] Add Redis rate limit backoff handlers
 - [2026-01-28T14:50:05] Improve ffmpeg streaming pipe buffer management
+- [2026-01-28T10:09:04] Clean up legacy worker task routines
