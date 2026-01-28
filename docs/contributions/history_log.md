@@ -735,3 +735,4 @@
 - [2026-01-27T15:06:25] Update B2 storage chunking parameters
 - [2026-01-27T22:48:16] Refactor cookie refresher probe logic
 - [2026-01-28T14:17:27] Update dependency lockfiles and requirements
+- [2026-01-28T16:19:23] Add retries for transient network drops
