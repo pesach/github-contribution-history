@@ -741,3 +741,4 @@
 - [2026-01-28T09:59:42] Update automated pytest test suites
 - [2026-01-28T09:38:31] Implement streaming upload chunk buffer optimization
 - [2026-01-28T15:23:39] Update dependency lockfiles and requirements
+- [2026-01-28T11:24:14] Update schema migration helpers
