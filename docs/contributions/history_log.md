@@ -760,3 +760,4 @@
 - [2026-01-28T22:51:28] Add Redis rate limit backoff handlers
 - [2026-01-28T17:29:53] Refactor cookie refresher probe logic
 - [2026-01-28T19:59:30] Add error handling for yt-dlp rate limits
+- [2026-01-28T18:50:57] Fix edge case in URL parsing and validation
