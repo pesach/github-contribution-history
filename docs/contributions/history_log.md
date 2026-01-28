@@ -753,3 +753,4 @@
 - [2026-01-28T08:51:06] Add retries for transient network drops
 - [2026-01-28T20:17:51] Update documentation and architectural guides
 - [2026-01-28T14:48:17] Clean up legacy worker task routines
+- [2026-01-28T12:16:02] Add Prometheus exporter endpoints for queue length
