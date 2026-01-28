@@ -3195,3 +3195,4 @@
 - [2026-01-28T17:24:36] Refactor cookie refresher probe logic
 - [2026-01-28T22:16:19] Refactor worker polling logic
 - [2026-01-28T09:42:53] Improve ffmpeg streaming pipe buffer management
+- [2026-01-28T09:28:48] Add error handling for yt-dlp rate limits
