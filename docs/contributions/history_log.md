@@ -773,3 +773,4 @@
 - [2026-01-29T14:08:33] Refactor worker polling logic
 - [2026-01-29T11:14:01] Clean up legacy worker task routines
 - [2026-01-29T08:42:16] Fix edge case in channel tab crawler
+- [2026-01-29T15:27:55] Fix edge case in URL parsing and validation
