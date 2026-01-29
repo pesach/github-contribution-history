@@ -770,3 +770,4 @@
 - [2026-01-28T17:51:07] Update documentation and architectural guides
 - [2026-01-29T19:27:09] Update schema migration helpers
 - [2026-01-29T17:48:34] Refactor worker polling logic
+- [2026-01-29T14:08:33] Refactor worker polling logic
