@@ -785,3 +785,4 @@
 - [2026-01-29T16:22:25] Fix edge case in URL parsing and validation
 - [2026-01-29T22:30:22] Improve ffmpeg streaming pipe buffer management
 - [2026-01-29T18:42:13] Update dependency lockfiles and requirements
+- [2026-01-29T15:21:48] Fix edge case in URL parsing and validation
