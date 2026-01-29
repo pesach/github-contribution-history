@@ -136,3 +136,4 @@
 - [2026-01-29T14:52:00] Update automated pytest test suites
 - [2026-01-29T12:24:58] Update B2 storage chunking parameters
 - [2026-01-29T14:46:54] Refactor worker polling logic
+- [2026-01-29T11:26:35] Improve ffmpeg streaming pipe buffer management
