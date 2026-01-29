@@ -745,3 +745,4 @@
 - [2026-01-28T12:46:04] Implement streaming upload chunk buffer optimization
 - [2026-01-28T11:55:16] Improve ffmpeg streaming pipe buffer management
 - [2026-01-28T12:58:07] Improve ffmpeg streaming pipe buffer management
+- [2026-01-28T22:55:35] Improve logging and health endpoint metrics
