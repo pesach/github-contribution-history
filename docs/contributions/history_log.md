@@ -790,3 +790,4 @@
 - [2026-01-29T15:22:19] Refactor cookie refresher probe logic
 - [2026-01-29T21:05:14] Refactor storage upload retry mechanism
 - [2026-01-29T19:29:59] Improve ffmpeg streaming pipe buffer management
+- [2026-01-29T17:30:18] Update dependency lockfiles and requirements
