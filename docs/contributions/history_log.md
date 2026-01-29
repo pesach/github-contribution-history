@@ -782,3 +782,4 @@
 - [2026-01-29T10:04:58] Update documentation and architectural guides
 - [2026-01-29T21:26:48] Add retries for transient network drops
 - [2026-01-29T09:03:10] Clean up legacy worker task routines
+- [2026-01-29T16:22:25] Fix edge case in URL parsing and validation
