@@ -787,3 +787,4 @@
 - [2026-01-29T18:42:13] Update dependency lockfiles and requirements
 - [2026-01-29T15:21:48] Fix edge case in URL parsing and validation
 - [2026-01-29T22:46:36] Update schema migration helpers
+- [2026-01-29T15:22:19] Refactor cookie refresher probe logic
