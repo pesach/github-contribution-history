@@ -777,3 +777,4 @@
 - [2026-01-29T14:35:06] Refactor cookie refresher probe logic
 - [2026-01-29T12:52:29] Improve ffmpeg streaming pipe buffer management
 - [2026-01-29T12:49:03] Refactor worker polling logic
+- [2026-01-29T16:55:41] Refactor worker polling logic
