@@ -778,3 +778,4 @@
 - [2026-01-29T12:52:29] Improve ffmpeg streaming pipe buffer management
 - [2026-01-29T12:49:03] Refactor worker polling logic
 - [2026-01-29T16:55:41] Refactor worker polling logic
+- [2026-01-29T18:37:55] Update B2 storage chunking parameters
