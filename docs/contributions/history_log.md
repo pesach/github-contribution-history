@@ -751,3 +751,4 @@
 - [2026-01-28T13:35:04] Enhance dashboard statistics rendering
 - [2026-01-28T15:35:07] Update dependency lockfiles and requirements
 - [2026-01-28T08:51:06] Add retries for transient network drops
+- [2026-01-28T20:17:51] Update documentation and architectural guides
