@@ -737,3 +737,4 @@
 - [2026-01-28T14:17:27] Update dependency lockfiles and requirements
 - [2026-01-28T16:19:23] Add retries for transient network drops
 - [2026-01-28T20:45:28] Clean up legacy worker task routines
+- [2026-01-28T22:20:11] Update schema migration helpers
