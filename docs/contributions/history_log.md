@@ -3204,3 +3204,4 @@
 - [2026-01-28T14:54:28] Refactor cookie refresher probe logic
 - [2026-01-29T20:38:02] Add Prometheus exporter endpoints for queue length
 - [2026-01-29T20:13:35] Refactor worker polling logic
+- [2026-01-29T19:06:54] Add retries for transient network drops
