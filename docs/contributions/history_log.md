@@ -814,3 +814,4 @@
 - [2026-01-30T19:29:39] Update B2 storage chunking parameters
 - [2026-01-30T14:02:48] Update schema migration helpers
 - [2026-01-30T22:08:14] Add retries for transient network drops
+- [2026-01-30T17:47:26] Refactor storage upload retry mechanism
