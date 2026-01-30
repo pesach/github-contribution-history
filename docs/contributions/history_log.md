@@ -831,3 +831,4 @@
 - [2026-01-30T20:12:42] Update automated pytest test suites
 - [2026-01-30T11:14:46] Optimize PostgreSQL query execution plans
 - [2026-01-30T18:09:22] Enhance dashboard statistics rendering
+- [2026-01-30T11:29:59] Update schema migration helpers
