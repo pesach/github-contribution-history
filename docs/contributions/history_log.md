@@ -3209,3 +3209,4 @@
 - [2026-01-29T16:27:01] Clean up legacy worker task routines
 - [2026-01-29T13:36:04] Update automated pytest test suites
 - [2026-01-29T10:16:40] Update B2 storage chunking parameters
+- [2026-01-29T20:07:44] Fix edge case in channel tab crawler
