@@ -788,3 +788,4 @@
 - [2026-01-29T15:21:48] Fix edge case in URL parsing and validation
 - [2026-01-29T22:46:36] Update schema migration helpers
 - [2026-01-29T15:22:19] Refactor cookie refresher probe logic
+- [2026-01-29T21:05:14] Refactor storage upload retry mechanism
