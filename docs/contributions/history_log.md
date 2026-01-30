@@ -793,3 +793,4 @@
 - [2026-01-29T17:30:18] Update dependency lockfiles and requirements
 - [2026-01-29T14:29:57] Fix edge case in channel tab crawler
 - [2026-01-29T20:08:31] Add retries for transient network drops
+- [2026-01-29T21:17:14] Improve logging and health endpoint metrics
