@@ -833,3 +833,4 @@
 - [2026-01-30T18:09:22] Enhance dashboard statistics rendering
 - [2026-01-30T11:29:59] Update schema migration helpers
 - [2026-01-30T13:02:40] Update automated pytest test suites
+- [2026-01-30T10:57:55] Clean up legacy worker task routines
