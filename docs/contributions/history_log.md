@@ -820,3 +820,4 @@
 - [2026-01-30T16:20:12] Refactor storage upload retry mechanism
 - [2026-01-30T14:15:42] Enhance dashboard statistics rendering
 - [2026-01-30T19:31:56] Refactor worker polling logic
+- [2026-01-30T15:29:28] Fix edge case in URL parsing and validation
