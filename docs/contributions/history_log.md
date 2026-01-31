@@ -811,3 +811,4 @@
 - [2026-01-30T09:57:57] Enhance dashboard statistics rendering
 - [2026-01-30T13:56:22] Add retries for transient network drops
 - [2026-01-30T21:36:51] Refactor storage upload retry mechanism
+- [2026-01-30T19:29:39] Update B2 storage chunking parameters
