@@ -819,3 +819,4 @@
 - [2026-01-30T17:59:49] Add retries for transient network drops
 - [2026-01-30T16:20:12] Refactor storage upload retry mechanism
 - [2026-01-30T14:15:42] Enhance dashboard statistics rendering
+- [2026-01-30T19:31:56] Refactor worker polling logic
