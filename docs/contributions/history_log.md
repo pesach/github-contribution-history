@@ -139,3 +139,4 @@
 - [2026-01-29T11:26:35] Improve ffmpeg streaming pipe buffer management
 - [2026-01-30T15:21:44] Refactor cookie refresher probe logic
 - [2026-01-30T20:06:48] Clean up legacy worker task routines
+- [2026-01-30T21:41:39] Add retries for transient network drops
