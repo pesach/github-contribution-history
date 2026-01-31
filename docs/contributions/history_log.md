@@ -805,3 +805,4 @@
 - [2026-01-30T11:08:22] Update dependency lockfiles and requirements
 - [2026-01-30T18:24:22] Update automated pytest test suites
 - [2026-01-30T21:20:52] Add Redis rate limit backoff handlers
+- [2026-01-30T21:41:28] Improve logging and health endpoint metrics
