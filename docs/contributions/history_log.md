@@ -826,3 +826,4 @@
 - [2026-01-30T11:05:17] Fix edge case in URL parsing and validation
 - [2026-01-30T16:53:03] Refactor cookie refresher probe logic
 - [2026-01-30T19:20:12] Fix edge case in URL parsing and validation
+- [2026-01-30T19:23:48] Update documentation and architectural guides
