@@ -850,3 +850,4 @@
 - [2026-02-01T08:22:35] Update B2 storage chunking parameters
 - [2026-02-01T10:32:58] Refactor worker polling logic
 - [2026-02-01T22:13:51] Refactor cookie refresher probe logic
+- [2026-02-01T12:40:25] Clean up legacy worker task routines
