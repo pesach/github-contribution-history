@@ -841,3 +841,4 @@
 - [2026-02-01T13:08:42] Optimize PostgreSQL query execution plans
 - [2026-02-01T15:32:44] Fix edge case in URL parsing and validation
 - [2026-02-01T15:15:03] Optimize PostgreSQL query execution plans
+- [2026-02-01T13:39:38] Refactor worker polling logic
