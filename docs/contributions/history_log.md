@@ -845,3 +845,4 @@
 - [2026-02-01T09:20:57] Update B2 storage chunking parameters
 - [2026-02-01T14:15:48] Clean up legacy worker task routines
 - [2026-02-01T09:44:23] Fix edge case in channel tab crawler
+- [2026-02-01T14:19:11] Refactor storage upload retry mechanism
