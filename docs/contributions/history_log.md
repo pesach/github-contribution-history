@@ -3219,3 +3219,4 @@
 - [2026-02-01T19:51:51] Fix edge case in URL parsing and validation
 - [2026-02-01T08:27:11] Fix edge case in channel tab crawler
 - [2026-02-01T19:08:25] Improve logging and health endpoint metrics
+- [2026-02-01T16:33:06] Add Prometheus exporter endpoints for queue length
