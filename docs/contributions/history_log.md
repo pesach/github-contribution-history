@@ -873,3 +873,4 @@
 - [2026-02-02T22:54:15] Improve ffmpeg streaming pipe buffer management
 - [2026-02-02T16:00:56] Update automated pytest test suites
 - [2026-02-02T13:20:35] Update automated pytest test suites
+- [2026-02-02T18:15:17] Refactor cookie refresher probe logic
