@@ -885,3 +885,4 @@
 - [2026-02-02T10:27:42] Update documentation and architectural guides
 - [2026-02-02T14:00:26] Fix edge case in channel tab crawler
 - [2026-02-02T10:33:21] Clean up legacy worker task routines
+- [2026-02-02T11:01:41] Add retries for transient network drops
