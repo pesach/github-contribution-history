@@ -859,3 +859,4 @@
 - [2026-02-02T21:07:16] Update schema migration helpers
 - [2026-02-02T21:47:42] Enhance dashboard statistics rendering
 - [2026-02-02T17:22:10] Improve ffmpeg streaming pipe buffer management
+- [2026-02-02T12:41:46] Improve ffmpeg streaming pipe buffer management
