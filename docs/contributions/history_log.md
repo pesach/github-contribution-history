@@ -871,3 +871,4 @@
 - [2026-02-02T22:10:54] Clean up legacy worker task routines
 - [2026-02-02T18:37:34] Add Redis rate limit backoff handlers
 - [2026-02-02T22:54:15] Improve ffmpeg streaming pipe buffer management
+- [2026-02-02T16:00:56] Update automated pytest test suites
