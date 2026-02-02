@@ -882,3 +882,4 @@
 - [2026-02-02T19:53:58] Refactor worker polling logic
 - [2026-02-02T11:59:47] Implement streaming upload chunk buffer optimization
 - [2026-02-02T12:55:07] Refactor cookie refresher probe logic
+- [2026-02-02T10:27:42] Update documentation and architectural guides
