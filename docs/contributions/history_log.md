@@ -887,3 +887,4 @@
 - [2026-02-02T10:33:21] Clean up legacy worker task routines
 - [2026-02-02T11:01:41] Add retries for transient network drops
 - [2026-02-02T14:45:09] Enhance dashboard statistics rendering
+- [2026-02-02T12:28:16] Refactor cookie refresher probe logic
