@@ -3218,3 +3218,4 @@
 - [2026-01-31T20:35:19] Fix edge case in channel tab crawler
 - [2026-02-01T19:51:51] Fix edge case in URL parsing and validation
 - [2026-02-01T08:27:11] Fix edge case in channel tab crawler
+- [2026-02-01T19:08:25] Improve logging and health endpoint metrics
