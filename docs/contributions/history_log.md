@@ -863,3 +863,4 @@
 - [2026-02-02T13:24:07] Add Redis rate limit backoff handlers
 - [2026-02-02T10:16:33] Improve ffmpeg streaming pipe buffer management
 - [2026-02-02T10:39:01] Update automated pytest test suites
+- [2026-02-02T12:35:26] Refactor storage upload retry mechanism
