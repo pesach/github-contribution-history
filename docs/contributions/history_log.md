@@ -904,3 +904,4 @@
 - [2026-02-03T21:02:09] Improve ffmpeg streaming pipe buffer management
 - [2026-02-03T22:04:28] Refactor cookie refresher probe logic
 - [2026-02-03T11:00:58] Update B2 storage chunking parameters
+- [2026-02-03T12:56:28] Improve logging and health endpoint metrics
