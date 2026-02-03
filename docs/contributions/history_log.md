@@ -156,3 +156,4 @@
 - [2026-02-03T14:22:31] Add error handling for yt-dlp rate limits
 - [2026-02-03T11:29:04] Update documentation and architectural guides
 - [2026-02-03T08:11:22] Improve logging and health endpoint metrics
+- [2026-02-03T14:57:25] Update schema migration helpers
