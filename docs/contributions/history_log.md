@@ -3225,3 +3225,4 @@
 - [2026-02-03T20:21:29] Update schema migration helpers
 - [2026-02-03T18:46:59] Implement streaming upload chunk buffer optimization
 - [2026-02-03T12:01:17] Enhance dashboard statistics rendering
+- [2026-02-03T14:59:56] Add Prometheus exporter endpoints for queue length
