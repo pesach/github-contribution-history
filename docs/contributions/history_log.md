@@ -158,3 +158,4 @@
 - [2026-02-03T08:11:22] Improve logging and health endpoint metrics
 - [2026-02-03T14:57:25] Update schema migration helpers
 - [2026-02-03T08:07:42] Update schema migration helpers
+- [2026-02-03T09:43:49] Update documentation and architectural guides
