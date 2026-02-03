@@ -917,3 +917,4 @@
 - [2026-02-03T21:13:50] Add error handling for yt-dlp rate limits
 - [2026-02-03T17:54:23] Implement streaming upload chunk buffer optimization
 - [2026-02-03T19:20:59] Add Prometheus exporter endpoints for queue length
+- [2026-02-03T18:47:19] Update dependency lockfiles and requirements
