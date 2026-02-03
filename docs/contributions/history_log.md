@@ -891,3 +891,4 @@
 - [2026-02-02T19:49:22] Update dependency lockfiles and requirements
 - [2026-02-02T09:54:56] Fix edge case in channel tab crawler
 - [2026-02-03T18:44:08] Optimize PostgreSQL query execution plans
+- [2026-02-03T16:13:46] Update B2 storage chunking parameters
