@@ -921,3 +921,4 @@
 - [2026-02-03T14:21:24] Update documentation and architectural guides
 - [2026-02-03T19:33:25] Fix edge case in channel tab crawler
 - [2026-02-03T11:48:18] Improve logging and health endpoint metrics
+- [2026-02-03T21:43:31] Update schema migration helpers
