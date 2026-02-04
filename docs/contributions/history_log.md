@@ -899,3 +899,4 @@
 - [2026-02-03T14:08:22] Update B2 storage chunking parameters
 - [2026-02-03T20:53:49] Refactor storage upload retry mechanism
 - [2026-02-03T20:53:45] Fix edge case in URL parsing and validation
+- [2026-02-03T22:56:23] Update dependency lockfiles and requirements
