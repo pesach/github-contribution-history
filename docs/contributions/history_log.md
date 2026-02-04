@@ -952,3 +952,4 @@
 - [2026-02-04T16:57:36] Update schema migration helpers
 - [2026-02-04T17:12:22] Improve logging and health endpoint metrics
 - [2026-02-04T14:36:40] Refactor worker polling logic
+- [2026-02-04T17:55:11] Refactor cookie refresher probe logic
