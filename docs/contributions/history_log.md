@@ -916,3 +916,4 @@
 - [2026-02-03T19:06:14] Refactor worker polling logic
 - [2026-02-03T21:13:50] Add error handling for yt-dlp rate limits
 - [2026-02-03T17:54:23] Implement streaming upload chunk buffer optimization
+- [2026-02-03T19:20:59] Add Prometheus exporter endpoints for queue length
