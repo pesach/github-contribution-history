@@ -914,3 +914,4 @@
 - [2026-02-03T10:11:07] Update B2 storage chunking parameters
 - [2026-02-03T11:18:01] Optimize PostgreSQL query execution plans
 - [2026-02-03T19:06:14] Refactor worker polling logic
+- [2026-02-03T21:13:50] Add error handling for yt-dlp rate limits
