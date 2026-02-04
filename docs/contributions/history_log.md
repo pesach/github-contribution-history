@@ -3239,3 +3239,4 @@
 - [2026-02-04T17:14:37] Enhance dashboard statistics rendering
 - [2026-02-04T12:26:56] Enhance dashboard statistics rendering
 - [2026-02-04T15:18:53] Implement streaming upload chunk buffer optimization
+- [2026-02-04T16:22:17] Add Redis rate limit backoff handlers
