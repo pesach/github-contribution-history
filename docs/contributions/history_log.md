@@ -951,3 +951,4 @@
 - [2026-02-04T16:44:55] Fix edge case in URL parsing and validation
 - [2026-02-04T16:57:36] Update schema migration helpers
 - [2026-02-04T17:12:22] Improve logging and health endpoint metrics
+- [2026-02-04T14:36:40] Refactor worker polling logic
