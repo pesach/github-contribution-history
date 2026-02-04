@@ -942,3 +942,4 @@
 - [2026-02-04T09:58:49] Update B2 storage chunking parameters
 - [2026-02-04T09:55:31] Refactor worker polling logic
 - [2026-02-04T15:03:11] Refactor worker polling logic
+- [2026-02-04T13:09:27] Refactor storage upload retry mechanism
