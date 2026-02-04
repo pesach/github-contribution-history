@@ -949,3 +949,4 @@
 - [2026-02-04T16:36:12] Refactor cookie refresher probe logic
 - [2026-02-04T22:02:24] Fix edge case in URL parsing and validation
 - [2026-02-04T16:44:55] Fix edge case in URL parsing and validation
+- [2026-02-04T16:57:36] Update schema migration helpers
