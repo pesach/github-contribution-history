@@ -897,3 +897,4 @@
 - [2026-02-03T12:39:30] Update documentation and architectural guides
 - [2026-02-03T20:12:28] Enhance dashboard statistics rendering
 - [2026-02-03T14:08:22] Update B2 storage chunking parameters
+- [2026-02-03T20:53:49] Refactor storage upload retry mechanism
