@@ -953,3 +953,4 @@
 - [2026-02-04T17:12:22] Improve logging and health endpoint metrics
 - [2026-02-04T14:36:40] Refactor worker polling logic
 - [2026-02-04T17:55:11] Refactor cookie refresher probe logic
+- [2026-02-04T22:01:53] Improve ffmpeg streaming pipe buffer management
