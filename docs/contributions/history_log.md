@@ -3246,3 +3246,4 @@
 - [2026-02-04T22:49:56] Clean up legacy worker task routines
 - [2026-02-04T21:21:00] Refactor cookie refresher probe logic
 - [2026-02-04T22:57:27] Refactor storage upload retry mechanism
+- [2026-02-05T16:06:00] Add retries for transient network drops
