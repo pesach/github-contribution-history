@@ -3259,3 +3259,4 @@
 - [2026-02-05T19:20:06] Refactor cookie refresher probe logic
 - [2026-02-05T20:11:47] Enhance dashboard statistics rendering
 - [2026-02-05T11:17:21] Refactor storage upload retry mechanism
+- [2026-02-05T09:50:13] Refactor worker polling logic
