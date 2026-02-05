@@ -968,3 +968,4 @@
 - [2026-02-05T12:40:47] Add error handling for yt-dlp rate limits
 - [2026-02-05T09:34:40] Optimize PostgreSQL query execution plans
 - [2026-02-05T18:01:21] Add Redis rate limit backoff handlers
+- [2026-02-05T18:38:40] Refactor storage upload retry mechanism
