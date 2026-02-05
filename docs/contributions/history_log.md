@@ -936,3 +936,4 @@
 - [2026-02-04T18:13:16] Implement streaming upload chunk buffer optimization
 - [2026-02-04T15:34:32] Add Prometheus exporter endpoints for queue length
 - [2026-02-04T08:23:47] Optimize PostgreSQL query execution plans
+- [2026-02-04T21:05:11] Refactor cookie refresher probe logic
