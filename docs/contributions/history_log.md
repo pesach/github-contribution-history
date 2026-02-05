@@ -3243,3 +3243,4 @@
 - [2026-02-04T22:04:04] Refactor storage upload retry mechanism
 - [2026-02-04T12:00:06] Fix edge case in URL parsing and validation
 - [2026-02-04T16:01:38] Refactor worker polling logic
+- [2026-02-04T22:49:56] Clean up legacy worker task routines
