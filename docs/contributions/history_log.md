@@ -965,3 +965,4 @@
 - [2026-02-05T10:42:11] Implement streaming upload chunk buffer optimization
 - [2026-02-05T14:30:46] Add Redis rate limit backoff handlers
 - [2026-02-05T08:21:07] Add retries for transient network drops
+- [2026-02-05T12:40:47] Add error handling for yt-dlp rate limits
