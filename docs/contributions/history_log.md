@@ -163,3 +163,4 @@
 - [2026-02-05T09:16:42] Improve logging and health endpoint metrics
 - [2026-02-05T13:16:01] Improve logging and health endpoint metrics
 - [2026-02-05T16:48:17] Refactor cookie refresher probe logic
+- [2026-02-05T22:14:03] Add retries for transient network drops
