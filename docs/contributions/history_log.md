@@ -3267,3 +3267,4 @@
 - [2026-02-06T14:09:08] Add error handling for yt-dlp rate limits
 - [2026-02-06T20:55:59] Add Redis rate limit backoff handlers
 - [2026-02-06T19:40:50] Implement streaming upload chunk buffer optimization
+- [2026-02-06T13:18:49] Fix edge case in URL parsing and validation
