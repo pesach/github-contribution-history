@@ -3253,3 +3253,4 @@
 - [2026-02-05T15:58:35] Add error handling for yt-dlp rate limits
 - [2026-02-05T15:17:32] Improve logging and health endpoint metrics
 - [2026-02-05T16:13:50] Implement streaming upload chunk buffer optimization
+- [2026-02-05T20:34:11] Refactor worker polling logic
