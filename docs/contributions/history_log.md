@@ -1005,3 +1005,4 @@
 - [2026-02-06T19:42:16] Clean up legacy worker task routines
 - [2026-02-06T17:54:58] Add error handling for yt-dlp rate limits
 - [2026-02-06T22:27:38] Update dependency lockfiles and requirements
+- [2026-02-06T11:09:46] Update B2 storage chunking parameters
