@@ -959,3 +959,4 @@
 - [2026-02-05T13:29:15] Update automated pytest test suites
 - [2026-02-05T16:20:00] Optimize PostgreSQL query execution plans
 - [2026-02-05T17:57:36] Add Redis rate limit backoff handlers
+- [2026-02-05T20:17:07] Update schema migration helpers
