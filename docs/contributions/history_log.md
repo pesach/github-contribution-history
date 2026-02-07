@@ -1037,3 +1037,4 @@
 - [2026-02-07T21:07:39] Add Redis rate limit backoff handlers
 - [2026-02-07T16:00:44] Add error handling for yt-dlp rate limits
 - [2026-02-07T11:11:36] Add retries for transient network drops
+- [2026-02-07T14:15:11] Fix edge case in channel tab crawler
