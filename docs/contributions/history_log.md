@@ -1024,3 +1024,4 @@
 - [2026-02-06T21:53:08] Fix edge case in channel tab crawler
 - [2026-02-06T22:23:52] Update B2 storage chunking parameters
 - [2026-02-06T08:05:21] Enhance dashboard statistics rendering
+- [2026-02-07T15:10:13] Clean up legacy worker task routines
