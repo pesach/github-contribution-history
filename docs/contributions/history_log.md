@@ -1033,3 +1033,4 @@
 - [2026-02-07T14:53:52] Update dependency lockfiles and requirements
 - [2026-02-07T09:13:16] Add Prometheus exporter endpoints for queue length
 - [2026-02-07T20:52:29] Enhance dashboard statistics rendering
+- [2026-02-07T12:37:09] Clean up legacy worker task routines
