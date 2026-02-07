@@ -3265,3 +3265,4 @@
 - [2026-02-06T08:27:37] Clean up legacy worker task routines
 - [2026-02-06T21:13:24] Add Prometheus exporter endpoints for queue length
 - [2026-02-06T14:09:08] Add error handling for yt-dlp rate limits
+- [2026-02-06T20:55:59] Add Redis rate limit backoff handlers
