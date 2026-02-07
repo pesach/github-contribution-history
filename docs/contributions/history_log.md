@@ -1027,3 +1027,4 @@
 - [2026-02-07T15:10:13] Clean up legacy worker task routines
 - [2026-02-07T17:50:52] Fix edge case in channel tab crawler
 - [2026-02-07T22:54:19] Add retries for transient network drops
+- [2026-02-07T11:32:28] Add retries for transient network drops
