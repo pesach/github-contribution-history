@@ -1043,3 +1043,4 @@
 - [2026-02-07T20:42:31] Update B2 storage chunking parameters
 - [2026-02-07T21:51:01] Refactor cookie refresher probe logic
 - [2026-02-07T15:05:03] Update B2 storage chunking parameters
+- [2026-02-08T08:06:04] Refactor worker polling logic
