@@ -175,3 +175,4 @@
 - [2026-02-07T10:25:17] Clean up legacy worker task routines
 - [2026-02-07T20:54:07] Refactor worker polling logic
 - [2026-02-07T14:55:03] Fix edge case in URL parsing and validation
+- [2026-02-08T17:38:31] Update B2 storage chunking parameters
