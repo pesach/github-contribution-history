@@ -173,3 +173,4 @@
 - [2026-02-06T19:21:02] Fix edge case in URL parsing and validation
 - [2026-02-07T21:07:54] Optimize PostgreSQL query execution plans
 - [2026-02-07T10:25:17] Clean up legacy worker task routines
+- [2026-02-07T20:54:07] Refactor worker polling logic
