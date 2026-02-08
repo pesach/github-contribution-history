@@ -177,3 +177,4 @@
 - [2026-02-07T14:55:03] Fix edge case in URL parsing and validation
 - [2026-02-08T17:38:31] Update B2 storage chunking parameters
 - [2026-02-08T11:01:20] Fix edge case in channel tab crawler
+- [2026-02-08T10:36:08] Refactor worker polling logic
