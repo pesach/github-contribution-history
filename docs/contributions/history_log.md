@@ -178,3 +178,4 @@
 - [2026-02-08T17:38:31] Update B2 storage chunking parameters
 - [2026-02-08T11:01:20] Fix edge case in channel tab crawler
 - [2026-02-08T10:36:08] Refactor worker polling logic
+- [2026-02-08T19:06:28] Refactor storage upload retry mechanism
