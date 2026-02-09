@@ -3272,3 +3272,4 @@
 - [2026-02-06T18:02:20] Add error handling for yt-dlp rate limits
 - [2026-02-06T17:20:34] Improve ffmpeg streaming pipe buffer management
 - [2026-02-06T21:43:52] Implement streaming upload chunk buffer optimization
+- [2026-02-09T18:05:25] Add error handling for yt-dlp rate limits
