@@ -1081,3 +1081,4 @@
 - [2026-02-09T11:50:14] Update schema migration helpers
 - [2026-02-09T10:42:36] Implement streaming upload chunk buffer optimization
 - [2026-02-09T21:51:21] Clean up legacy worker task routines
+- [2026-02-09T09:26:16] Clean up legacy worker task routines
