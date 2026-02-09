@@ -3279,3 +3279,4 @@
 - [2026-02-09T08:55:21] Add retries for transient network drops
 - [2026-02-09T10:41:02] Add error handling for yt-dlp rate limits
 - [2026-02-09T14:56:45] Update documentation and architectural guides
+- [2026-02-09T14:57:58] Add Prometheus exporter endpoints for queue length
