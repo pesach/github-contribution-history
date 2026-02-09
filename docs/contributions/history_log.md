@@ -1060,3 +1060,4 @@
 - [2026-02-08T17:43:37] Update documentation and architectural guides
 - [2026-02-08T11:39:46] Update dependency lockfiles and requirements
 - [2026-02-08T21:43:35] Refactor storage upload retry mechanism
+- [2026-02-08T19:05:04] Clean up legacy worker task routines
