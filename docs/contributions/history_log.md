@@ -3276,3 +3276,4 @@
 - [2026-02-09T14:32:35] Fix edge case in channel tab crawler
 - [2026-02-09T16:25:42] Clean up legacy worker task routines
 - [2026-02-09T08:25:40] Fix edge case in URL parsing and validation
+- [2026-02-09T08:55:21] Add retries for transient network drops
