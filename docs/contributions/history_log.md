@@ -1061,3 +1061,4 @@
 - [2026-02-08T11:39:46] Update dependency lockfiles and requirements
 - [2026-02-08T21:43:35] Refactor storage upload retry mechanism
 - [2026-02-08T19:05:04] Clean up legacy worker task routines
+- [2026-02-08T22:25:24] Add retries for transient network drops
