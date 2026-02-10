@@ -1102,3 +1102,4 @@
 - [2026-02-09T20:50:19] Update automated pytest test suites
 - [2026-02-10T09:02:47] Add Redis rate limit backoff handlers
 - [2026-02-10T14:28:17] Refactor worker polling logic
+- [2026-02-10T17:47:00] Add error handling for yt-dlp rate limits
