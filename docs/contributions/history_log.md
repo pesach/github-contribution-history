@@ -1124,3 +1124,4 @@
 - [2026-02-10T14:43:13] Add retries for transient network drops
 - [2026-02-10T16:59:26] Improve logging and health endpoint metrics
 - [2026-02-10T21:42:23] Refactor worker polling logic
+- [2026-02-10T11:32:42] Update B2 storage chunking parameters
