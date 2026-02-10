@@ -3286,3 +3286,4 @@
 - [2026-02-10T13:46:58] Refactor cookie refresher probe logic
 - [2026-02-10T22:52:59] Add retries for transient network drops
 - [2026-02-10T20:34:15] Fix edge case in channel tab crawler
+- [2026-02-10T18:18:12] Update documentation and architectural guides
