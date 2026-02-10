@@ -1127,3 +1127,4 @@
 - [2026-02-10T11:32:42] Update B2 storage chunking parameters
 - [2026-02-10T14:13:06] Clean up legacy worker task routines
 - [2026-02-10T09:43:58] Improve ffmpeg streaming pipe buffer management
+- [2026-02-10T09:54:36] Update documentation and architectural guides
