@@ -1125,3 +1125,4 @@
 - [2026-02-10T16:59:26] Improve logging and health endpoint metrics
 - [2026-02-10T21:42:23] Refactor worker polling logic
 - [2026-02-10T11:32:42] Update B2 storage chunking parameters
+- [2026-02-10T14:13:06] Clean up legacy worker task routines
