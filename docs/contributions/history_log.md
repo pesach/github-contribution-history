@@ -1066,3 +1066,4 @@
 - [2026-02-09T16:31:46] Update automated pytest test suites
 - [2026-02-09T22:55:31] Optimize PostgreSQL query execution plans
 - [2026-02-09T13:36:48] Add Prometheus exporter endpoints for queue length
+- [2026-02-09T21:21:03] Update schema migration helpers
