@@ -1109,3 +1109,4 @@
 - [2026-02-10T21:45:48] Improve logging and health endpoint metrics
 - [2026-02-10T12:22:43] Update automated pytest test suites
 - [2026-02-10T16:05:21] Add Redis rate limit backoff handlers
+- [2026-02-10T11:18:05] Refactor cookie refresher probe logic
