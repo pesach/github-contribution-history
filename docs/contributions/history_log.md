@@ -1144,3 +1144,4 @@
 - [2026-02-11T19:05:24] Refactor worker polling logic
 - [2026-02-11T20:36:36] Refactor cookie refresher probe logic
 - [2026-02-11T20:08:02] Update B2 storage chunking parameters
+- [2026-02-11T13:59:11] Fix edge case in channel tab crawler
