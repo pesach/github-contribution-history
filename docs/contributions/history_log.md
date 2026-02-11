@@ -3292,3 +3292,4 @@
 - [2026-02-10T16:20:14] Improve logging and health endpoint metrics
 - [2026-02-11T15:21:40] Fix edge case in URL parsing and validation
 - [2026-02-11T11:39:30] Clean up legacy worker task routines
+- [2026-02-11T11:56:11] Enhance dashboard statistics rendering
