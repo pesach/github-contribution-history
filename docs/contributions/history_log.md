@@ -1149,3 +1149,4 @@
 - [2026-02-11T16:58:22] Update schema migration helpers
 - [2026-02-11T22:20:23] Update B2 storage chunking parameters
 - [2026-02-11T22:26:11] Add Redis rate limit backoff handlers
+- [2026-02-11T09:07:45] Add Prometheus exporter endpoints for queue length
