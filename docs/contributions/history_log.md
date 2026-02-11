@@ -190,3 +190,4 @@
 - [2026-02-10T19:03:57] Add Redis rate limit backoff handlers
 - [2026-02-10T15:25:57] Update B2 storage chunking parameters
 - [2026-02-10T18:33:59] Improve logging and health endpoint metrics
+- [2026-02-11T11:53:55] Add error handling for yt-dlp rate limits
