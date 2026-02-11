@@ -187,3 +187,4 @@
 - [2026-02-09T12:59:00] Add Redis rate limit backoff handlers
 - [2026-02-10T11:20:23] Improve ffmpeg streaming pipe buffer management
 - [2026-02-10T11:46:42] Update B2 storage chunking parameters
+- [2026-02-10T19:03:57] Add Redis rate limit backoff handlers
