@@ -1137,3 +1137,4 @@
 - [2026-02-11T13:18:38] Update documentation and architectural guides
 - [2026-02-11T09:29:57] Update documentation and architectural guides
 - [2026-02-11T10:50:40] Update B2 storage chunking parameters
+- [2026-02-11T08:10:22] Refactor worker polling logic
