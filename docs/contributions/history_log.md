@@ -1140,3 +1140,4 @@
 - [2026-02-11T08:10:22] Refactor worker polling logic
 - [2026-02-11T17:44:10] Add retries for transient network drops
 - [2026-02-11T10:42:45] Update automated pytest test suites
+- [2026-02-11T09:09:24] Improve ffmpeg streaming pipe buffer management
