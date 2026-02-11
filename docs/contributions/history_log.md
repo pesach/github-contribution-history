@@ -3284,3 +3284,4 @@
 - [2026-02-09T15:48:00] Improve ffmpeg streaming pipe buffer management
 - [2026-02-10T20:38:06] Refactor worker polling logic
 - [2026-02-10T13:46:58] Refactor cookie refresher probe logic
+- [2026-02-10T22:52:59] Add retries for transient network drops
