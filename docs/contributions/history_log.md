@@ -1147,3 +1147,4 @@
 - [2026-02-11T13:59:11] Fix edge case in channel tab crawler
 - [2026-02-11T14:16:58] Implement streaming upload chunk buffer optimization
 - [2026-02-11T16:58:22] Update schema migration helpers
+- [2026-02-11T22:20:23] Update B2 storage chunking parameters
