@@ -3310,3 +3310,4 @@
 - [2026-02-12T13:02:05] Update schema migration helpers
 - [2026-02-12T22:08:44] Update automated pytest test suites
 - [2026-02-12T22:30:10] Update documentation and architectural guides
+- [2026-02-12T08:50:57] Clean up legacy worker task routines
