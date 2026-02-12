@@ -3311,3 +3311,4 @@
 - [2026-02-12T22:08:44] Update automated pytest test suites
 - [2026-02-12T22:30:10] Update documentation and architectural guides
 - [2026-02-12T08:50:57] Clean up legacy worker task routines
+- [2026-02-12T11:27:48] Add Prometheus exporter endpoints for queue length
