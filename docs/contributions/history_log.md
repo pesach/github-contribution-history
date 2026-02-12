@@ -1165,3 +1165,4 @@
 - [2026-02-11T08:16:32] Update B2 storage chunking parameters
 - [2026-02-11T19:41:04] Fix edge case in channel tab crawler
 - [2026-02-11T22:00:54] Add retries for transient network drops
+- [2026-02-11T19:40:59] Fix edge case in URL parsing and validation
