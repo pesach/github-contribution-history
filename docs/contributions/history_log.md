@@ -3312,3 +3312,4 @@
 - [2026-02-12T22:30:10] Update documentation and architectural guides
 - [2026-02-12T08:50:57] Clean up legacy worker task routines
 - [2026-02-12T11:27:48] Add Prometheus exporter endpoints for queue length
+- [2026-02-12T09:55:57] Refactor worker polling logic
