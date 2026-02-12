@@ -196,3 +196,4 @@
 - [2026-02-11T18:57:25] Refactor cookie refresher probe logic
 - [2026-02-11T18:46:14] Refactor cookie refresher probe logic
 - [2026-02-12T18:55:44] Add retries for transient network drops
+- [2026-02-12T14:12:51] Update schema migration helpers
