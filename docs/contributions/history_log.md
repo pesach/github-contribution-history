@@ -1189,3 +1189,4 @@
 - [2026-02-13T15:17:59] Add Prometheus exporter endpoints for queue length
 - [2026-02-13T09:00:07] Refactor storage upload retry mechanism
 - [2026-02-13T12:38:03] Clean up legacy worker task routines
+- [2026-02-13T08:00:00] Add error handling for yt-dlp rate limits
