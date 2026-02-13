@@ -1195,3 +1195,4 @@
 - [2026-02-13T21:55:49] Fix edge case in channel tab crawler
 - [2026-02-13T11:29:31] Improve ffmpeg streaming pipe buffer management
 - [2026-02-13T18:58:46] Refactor cookie refresher probe logic
+- [2026-02-13T17:04:59] Update schema migration helpers
