@@ -202,3 +202,4 @@
 - [2026-02-12T11:46:31] Enhance dashboard statistics rendering
 - [2026-02-13T13:07:09] Fix edge case in URL parsing and validation
 - [2026-02-13T16:41:47] Add error handling for yt-dlp rate limits
+- [2026-02-13T08:49:11] Clean up legacy worker task routines
