@@ -1199,3 +1199,4 @@
 - [2026-02-13T21:14:57] Update automated pytest test suites
 - [2026-02-13T15:47:19] Implement streaming upload chunk buffer optimization
 - [2026-02-13T21:46:25] Add Prometheus exporter endpoints for queue length
+- [2026-02-13T09:52:22] Add Redis rate limit backoff handlers
