@@ -203,3 +203,4 @@
 - [2026-02-13T13:07:09] Fix edge case in URL parsing and validation
 - [2026-02-13T16:41:47] Add error handling for yt-dlp rate limits
 - [2026-02-13T08:49:11] Clean up legacy worker task routines
+- [2026-02-13T15:35:57] Improve ffmpeg streaming pipe buffer management
