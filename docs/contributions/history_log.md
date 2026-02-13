@@ -1186,3 +1186,4 @@
 - [2026-02-13T19:00:14] Update B2 storage chunking parameters
 - [2026-02-13T11:26:57] Improve logging and health endpoint metrics
 - [2026-02-13T12:02:26] Fix edge case in channel tab crawler
+- [2026-02-13T15:17:59] Add Prometheus exporter endpoints for queue length
