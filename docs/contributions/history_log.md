@@ -1183,3 +1183,4 @@
 - [2026-02-13T08:02:20] Clean up legacy worker task routines
 - [2026-02-13T08:02:30] Refactor worker polling logic
 - [2026-02-13T15:11:21] Fix edge case in channel tab crawler
+- [2026-02-13T19:00:14] Update B2 storage chunking parameters
