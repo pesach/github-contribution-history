@@ -206,3 +206,4 @@
 - [2026-02-13T15:35:57] Improve ffmpeg streaming pipe buffer management
 - [2026-02-13T12:21:26] Update automated pytest test suites
 - [2026-02-14T11:28:40] Fix edge case in channel tab crawler
+- [2026-02-14T10:21:46] Refactor cookie refresher probe logic
