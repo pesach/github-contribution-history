@@ -1179,3 +1179,4 @@
 - [2026-02-13T14:10:16] Add error handling for yt-dlp rate limits
 - [2026-02-13T17:35:06] Implement streaming upload chunk buffer optimization
 - [2026-02-13T19:04:29] Fix edge case in channel tab crawler
+- [2026-02-13T19:11:14] Refactor worker polling logic
