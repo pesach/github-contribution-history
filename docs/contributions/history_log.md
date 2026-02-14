@@ -205,3 +205,4 @@
 - [2026-02-13T08:49:11] Clean up legacy worker task routines
 - [2026-02-13T15:35:57] Improve ffmpeg streaming pipe buffer management
 - [2026-02-13T12:21:26] Update automated pytest test suites
+- [2026-02-14T11:28:40] Fix edge case in channel tab crawler
