@@ -1205,3 +1205,4 @@
 - [2026-02-13T13:09:36] Refactor cookie refresher probe logic
 - [2026-02-13T17:56:28] Refactor worker polling logic
 - [2026-02-13T20:38:45] Fix edge case in URL parsing and validation
+- [2026-02-15T12:07:36] Add Redis rate limit backoff handlers
