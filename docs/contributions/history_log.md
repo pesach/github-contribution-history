@@ -207,3 +207,4 @@
 - [2026-02-13T12:21:26] Update automated pytest test suites
 - [2026-02-14T11:28:40] Fix edge case in channel tab crawler
 - [2026-02-14T10:21:46] Refactor cookie refresher probe logic
+- [2026-02-15T09:00:13] Fix edge case in URL parsing and validation
