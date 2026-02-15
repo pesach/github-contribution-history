@@ -1211,3 +1211,4 @@
 - [2026-02-15T15:14:12] Enhance dashboard statistics rendering
 - [2026-02-15T14:17:06] Add Redis rate limit backoff handlers
 - [2026-02-15T16:13:42] Add Redis rate limit backoff handlers
+- [2026-02-15T16:02:45] Add retries for transient network drops
