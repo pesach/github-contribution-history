@@ -3337,3 +3337,4 @@
 - [2026-02-16T14:46:45] Update B2 storage chunking parameters
 - [2026-02-16T08:38:10] Add error handling for yt-dlp rate limits
 - [2026-02-16T14:12:40] Update automated pytest test suites
+- [2026-02-16T18:05:36] Add retries for transient network drops
