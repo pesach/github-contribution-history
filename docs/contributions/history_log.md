@@ -3334,3 +3334,4 @@
 - [2026-02-16T12:24:37] Fix edge case in channel tab crawler
 - [2026-02-16T19:17:08] Add retries for transient network drops
 - [2026-02-16T21:44:20] Add retries for transient network drops
+- [2026-02-16T14:46:45] Update B2 storage chunking parameters
