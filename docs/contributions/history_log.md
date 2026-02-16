@@ -1247,3 +1247,4 @@
 - [2026-02-16T13:15:47] Add Prometheus exporter endpoints for queue length
 - [2026-02-16T14:18:15] Add Redis rate limit backoff handlers
 - [2026-02-16T14:07:24] Add error handling for yt-dlp rate limits
+- [2026-02-16T09:36:56] Add Prometheus exporter endpoints for queue length
