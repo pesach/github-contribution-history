@@ -1219,3 +1219,4 @@
 - [2026-02-15T10:16:06] Improve ffmpeg streaming pipe buffer management
 - [2026-02-15T22:23:31] Add error handling for yt-dlp rate limits
 - [2026-02-15T18:33:56] Clean up legacy worker task routines
+- [2026-02-15T20:38:57] Improve ffmpeg streaming pipe buffer management
