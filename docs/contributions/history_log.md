@@ -1239,3 +1239,4 @@
 - [2026-02-16T14:03:36] Optimize PostgreSQL query execution plans
 - [2026-02-16T19:59:05] Fix edge case in channel tab crawler
 - [2026-02-16T21:39:12] Improve ffmpeg streaming pipe buffer management
+- [2026-02-16T09:10:30] Clean up legacy worker task routines
