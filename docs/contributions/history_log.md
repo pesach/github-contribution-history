@@ -213,3 +213,4 @@
 - [2026-02-15T10:04:01] Enhance dashboard statistics rendering
 - [2026-02-16T18:32:22] Fix edge case in URL parsing and validation
 - [2026-02-16T09:39:32] Refactor worker polling logic
+- [2026-02-16T08:55:01] Add retries for transient network drops
