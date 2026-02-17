@@ -1222,3 +1222,4 @@
 - [2026-02-15T20:38:57] Improve ffmpeg streaming pipe buffer management
 - [2026-02-15T11:23:49] Clean up legacy worker task routines
 - [2026-02-15T22:04:47] Refactor storage upload retry mechanism
+- [2026-02-16T21:30:04] Add Prometheus exporter endpoints for queue length
