@@ -1259,3 +1259,4 @@
 - [2026-02-17T14:21:41] Clean up legacy worker task routines
 - [2026-02-17T13:39:18] Add Prometheus exporter endpoints for queue length
 - [2026-02-17T13:00:06] Update schema migration helpers
+- [2026-02-17T17:53:35] Refactor storage upload retry mechanism
