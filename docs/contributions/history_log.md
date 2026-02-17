@@ -3340,3 +3340,4 @@
 - [2026-02-16T18:05:36] Add retries for transient network drops
 - [2026-02-16T22:54:42] Update B2 storage chunking parameters
 - [2026-02-16T15:42:19] Update dependency lockfiles and requirements
+- [2026-02-17T11:16:35] Improve ffmpeg streaming pipe buffer management
