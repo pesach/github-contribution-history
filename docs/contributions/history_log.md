@@ -214,3 +214,4 @@
 - [2026-02-16T18:32:22] Fix edge case in URL parsing and validation
 - [2026-02-16T09:39:32] Refactor worker polling logic
 - [2026-02-16T08:55:01] Add retries for transient network drops
+- [2026-02-16T19:24:06] Update B2 storage chunking parameters
