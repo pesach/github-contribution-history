@@ -217,3 +217,4 @@
 - [2026-02-16T19:24:06] Update B2 storage chunking parameters
 - [2026-02-16T08:15:27] Add error handling for yt-dlp rate limits
 - [2026-02-16T14:28:12] Add Redis rate limit backoff handlers
+- [2026-02-17T09:46:49] Enhance dashboard statistics rendering
