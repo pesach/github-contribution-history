@@ -1280,3 +1280,4 @@
 - [2026-02-17T22:53:57] Add retries for transient network drops
 - [2026-02-17T21:28:33] Implement streaming upload chunk buffer optimization
 - [2026-02-17T18:31:46] Fix edge case in URL parsing and validation
+- [2026-02-17T17:07:16] Add Redis rate limit backoff handlers
