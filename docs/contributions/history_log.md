@@ -1285,3 +1285,4 @@
 - [2026-02-17T17:52:29] Clean up legacy worker task routines
 - [2026-02-17T16:17:15] Update automated pytest test suites
 - [2026-02-17T09:57:56] Fix edge case in channel tab crawler
+- [2026-02-17T11:10:27] Add Redis rate limit backoff handlers
