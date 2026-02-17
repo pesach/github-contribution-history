@@ -1242,3 +1242,4 @@
 - [2026-02-16T09:10:30] Clean up legacy worker task routines
 - [2026-02-16T19:14:35] Update automated pytest test suites
 - [2026-02-16T17:33:44] Refactor storage upload retry mechanism
+- [2026-02-16T22:09:33] Update B2 storage chunking parameters
