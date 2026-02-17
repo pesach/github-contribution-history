@@ -1282,3 +1282,4 @@
 - [2026-02-17T18:31:46] Fix edge case in URL parsing and validation
 - [2026-02-17T17:07:16] Add Redis rate limit backoff handlers
 - [2026-02-17T17:22:36] Fix edge case in URL parsing and validation
+- [2026-02-17T17:52:29] Clean up legacy worker task routines
