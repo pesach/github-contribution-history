@@ -1256,3 +1256,4 @@
 - [2026-02-16T09:56:58] Update documentation and architectural guides
 - [2026-02-17T12:51:14] Add error handling for yt-dlp rate limits
 - [2026-02-17T10:41:02] Add retries for transient network drops
+- [2026-02-17T14:21:41] Clean up legacy worker task routines
