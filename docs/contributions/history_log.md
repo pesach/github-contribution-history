@@ -1312,3 +1312,4 @@
 - [2026-02-18T09:32:49] Improve ffmpeg streaming pipe buffer management
 - [2026-02-18T10:41:03] Improve logging and health endpoint metrics
 - [2026-02-18T15:12:30] Update schema migration helpers
+- [2026-02-18T10:04:29] Update dependency lockfiles and requirements
