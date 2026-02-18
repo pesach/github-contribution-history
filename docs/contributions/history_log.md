@@ -1311,3 +1311,4 @@
 - [2026-02-18T14:41:32] Update automated pytest test suites
 - [2026-02-18T09:32:49] Improve ffmpeg streaming pipe buffer management
 - [2026-02-18T10:41:03] Improve logging and health endpoint metrics
+- [2026-02-18T15:12:30] Update schema migration helpers
