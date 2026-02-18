@@ -1305,3 +1305,4 @@
 - [2026-02-18T15:31:32] Clean up legacy worker task routines
 - [2026-02-18T12:09:46] Refactor worker polling logic
 - [2026-02-18T10:16:56] Add error handling for yt-dlp rate limits
+- [2026-02-18T12:10:13] Fix edge case in URL parsing and validation
