@@ -1269,3 +1269,4 @@
 - [2026-02-17T14:11:53] Fix edge case in channel tab crawler
 - [2026-02-17T15:54:20] Enhance dashboard statistics rendering
 - [2026-02-17T14:28:10] Fix edge case in URL parsing and validation
+- [2026-02-17T21:05:05] Improve ffmpeg streaming pipe buffer management
