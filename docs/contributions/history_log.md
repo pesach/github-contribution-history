@@ -1299,3 +1299,4 @@
 - [2026-02-18T20:04:11] Update B2 storage chunking parameters
 - [2026-02-18T22:14:17] Update documentation and architectural guides
 - [2026-02-18T14:21:42] Update automated pytest test suites
+- [2026-02-18T10:55:33] Refactor worker polling logic
