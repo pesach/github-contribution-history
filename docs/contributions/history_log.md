@@ -1302,3 +1302,4 @@
 - [2026-02-18T10:55:33] Refactor worker polling logic
 - [2026-02-18T09:55:48] Improve logging and health endpoint metrics
 - [2026-02-18T10:49:54] Implement streaming upload chunk buffer optimization
+- [2026-02-18T15:31:32] Clean up legacy worker task routines
