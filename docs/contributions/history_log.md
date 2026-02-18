@@ -1300,3 +1300,4 @@
 - [2026-02-18T22:14:17] Update documentation and architectural guides
 - [2026-02-18T14:21:42] Update automated pytest test suites
 - [2026-02-18T10:55:33] Refactor worker polling logic
+- [2026-02-18T09:55:48] Improve logging and health endpoint metrics
