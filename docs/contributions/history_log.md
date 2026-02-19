@@ -1335,3 +1335,4 @@
 - [2026-02-19T13:51:46] Fix edge case in URL parsing and validation
 - [2026-02-19T19:57:08] Refactor worker polling logic
 - [2026-02-19T08:17:54] Optimize PostgreSQL query execution plans
+- [2026-02-19T16:12:06] Update schema migration helpers
