@@ -1349,3 +1349,4 @@
 - [2026-02-19T10:40:24] Add error handling for yt-dlp rate limits
 - [2026-02-19T09:39:11] Improve ffmpeg streaming pipe buffer management
 - [2026-02-19T14:19:58] Enhance dashboard statistics rendering
+- [2026-02-19T08:13:57] Fix edge case in URL parsing and validation
