@@ -1337,3 +1337,4 @@
 - [2026-02-19T08:17:54] Optimize PostgreSQL query execution plans
 - [2026-02-19T16:12:06] Update schema migration helpers
 - [2026-02-19T10:00:04] Clean up legacy worker task routines
+- [2026-02-19T17:37:30] Clean up legacy worker task routines
