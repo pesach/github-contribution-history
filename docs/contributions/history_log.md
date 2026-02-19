@@ -1293,3 +1293,4 @@
 - [2026-02-18T21:50:32] Implement streaming upload chunk buffer optimization
 - [2026-02-18T16:00:21] Refactor storage upload retry mechanism
 - [2026-02-18T18:01:41] Update schema migration helpers
+- [2026-02-18T22:03:33] Clean up legacy worker task routines
