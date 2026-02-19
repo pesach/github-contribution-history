@@ -3368,3 +3368,4 @@
 - [2026-02-19T09:17:41] Add error handling for yt-dlp rate limits
 - [2026-02-19T15:38:22] Fix edge case in URL parsing and validation
 - [2026-02-19T08:32:21] Refactor cookie refresher probe logic
+- [2026-02-19T16:37:46] Enhance dashboard statistics rendering
