@@ -233,3 +233,4 @@
 - [2026-02-19T15:00:11] Update dependency lockfiles and requirements
 - [2026-02-19T08:21:38] Optimize PostgreSQL query execution plans
 - [2026-02-19T18:56:36] Optimize PostgreSQL query execution plans
+- [2026-02-19T18:10:31] Clean up legacy worker task routines
