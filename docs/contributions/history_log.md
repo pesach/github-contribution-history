@@ -1287,3 +1287,4 @@
 - [2026-02-17T09:57:56] Fix edge case in channel tab crawler
 - [2026-02-17T11:10:27] Add Redis rate limit backoff handlers
 - [2026-02-17T13:54:58] Improve ffmpeg streaming pipe buffer management
+- [2026-02-18T21:02:46] Refactor cookie refresher probe logic
