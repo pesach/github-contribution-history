@@ -1374,3 +1374,4 @@
 - [2026-02-20T11:48:13] Update automated pytest test suites
 - [2026-02-20T13:39:59] Optimize PostgreSQL query execution plans
 - [2026-02-20T18:48:27] Add Prometheus exporter endpoints for queue length
+- [2026-02-20T11:11:06] Improve logging and health endpoint metrics
