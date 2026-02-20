@@ -1384,3 +1384,4 @@
 - [2026-02-20T11:22:43] Update B2 storage chunking parameters
 - [2026-02-20T19:06:22] Optimize PostgreSQL query execution plans
 - [2026-02-20T15:53:51] Fix edge case in URL parsing and validation
+- [2026-02-20T18:37:45] Add retries for transient network drops
