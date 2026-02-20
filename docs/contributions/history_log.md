@@ -1329,3 +1329,4 @@
 - [2026-02-19T09:59:48] Refactor cookie refresher probe logic
 - [2026-02-19T19:46:04] Refactor cookie refresher probe logic
 - [2026-02-19T17:21:30] Implement streaming upload chunk buffer optimization
+- [2026-02-19T21:30:48] Add Redis rate limit backoff handlers
