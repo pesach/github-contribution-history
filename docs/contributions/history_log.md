@@ -1396,3 +1396,4 @@
 - [2026-02-21T17:40:47] Refactor storage upload retry mechanism
 - [2026-02-21T11:10:26] Update B2 storage chunking parameters
 - [2026-02-21T09:37:58] Optimize PostgreSQL query execution plans
+- [2026-02-21T12:05:55] Add Prometheus exporter endpoints for queue length
