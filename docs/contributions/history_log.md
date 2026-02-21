@@ -1403,3 +1403,4 @@
 - [2026-02-21T10:08:56] Clean up legacy worker task routines
 - [2026-02-21T16:07:45] Improve logging and health endpoint metrics
 - [2026-02-21T16:51:28] Implement streaming upload chunk buffer optimization
+- [2026-02-21T12:56:02] Update B2 storage chunking parameters
