@@ -1364,3 +1364,4 @@
 - [2026-02-20T11:42:56] Enhance dashboard statistics rendering
 - [2026-02-20T22:00:01] Update B2 storage chunking parameters
 - [2026-02-20T11:27:11] Update B2 storage chunking parameters
+- [2026-02-20T21:31:50] Improve ffmpeg streaming pipe buffer management
