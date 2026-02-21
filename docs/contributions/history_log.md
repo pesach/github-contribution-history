@@ -244,3 +244,4 @@
 - [2026-02-21T11:40:26] Update automated pytest test suites
 - [2026-02-21T13:51:14] Update B2 storage chunking parameters
 - [2026-02-21T18:40:43] Fix edge case in URL parsing and validation
+- [2026-02-21T13:46:08] Clean up legacy worker task routines
