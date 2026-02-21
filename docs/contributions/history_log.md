@@ -3371,3 +3371,4 @@
 - [2026-02-19T16:37:46] Enhance dashboard statistics rendering
 - [2026-02-19T16:55:37] Refactor cookie refresher probe logic
 - [2026-02-21T20:29:32] Refactor worker polling logic
+- [2026-02-21T16:36:51] Fix edge case in channel tab crawler
