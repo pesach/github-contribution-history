@@ -1409,3 +1409,4 @@
 - [2026-02-22T09:07:28] Update B2 storage chunking parameters
 - [2026-02-22T18:13:26] Update schema migration helpers
 - [2026-02-22T16:48:43] Add Redis rate limit backoff handlers
+- [2026-02-22T09:30:05] Update documentation and architectural guides
