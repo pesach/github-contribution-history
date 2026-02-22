@@ -1417,3 +1417,4 @@
 - [2026-02-22T20:55:00] Update B2 storage chunking parameters
 - [2026-02-22T08:07:11] Enhance dashboard statistics rendering
 - [2026-02-22T22:50:31] Update schema migration helpers
+- [2026-02-22T10:50:51] Improve logging and health endpoint metrics
