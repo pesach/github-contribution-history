@@ -3379,3 +3379,4 @@
 - [2026-02-22T13:16:59] Add Prometheus exporter endpoints for queue length
 - [2026-02-22T15:19:21] Optimize PostgreSQL query execution plans
 - [2026-02-22T14:31:25] Enhance dashboard statistics rendering
+- [2026-02-22T17:59:40] Refactor worker polling logic
