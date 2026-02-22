@@ -3376,3 +3376,4 @@
 - [2026-02-21T08:19:03] Fix edge case in channel tab crawler
 - [2026-02-22T19:32:44] Update dependency lockfiles and requirements
 - [2026-02-22T16:53:25] Add retries for transient network drops
+- [2026-02-22T13:16:59] Add Prometheus exporter endpoints for queue length
