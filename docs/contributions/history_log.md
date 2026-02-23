@@ -3374,3 +3374,4 @@
 - [2026-02-21T16:36:51] Fix edge case in channel tab crawler
 - [2026-02-21T13:43:42] Add retries for transient network drops
 - [2026-02-21T08:19:03] Fix edge case in channel tab crawler
+- [2026-02-22T19:32:44] Update dependency lockfiles and requirements
