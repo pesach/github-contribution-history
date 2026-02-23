@@ -3388,3 +3388,4 @@
 - [2026-02-23T12:30:50] Fix edge case in URL parsing and validation
 - [2026-02-23T12:57:04] Refactor cookie refresher probe logic
 - [2026-02-23T12:30:15] Update automated pytest test suites
+- [2026-02-23T18:28:42] Update schema migration helpers
