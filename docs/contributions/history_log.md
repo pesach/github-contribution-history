@@ -1429,3 +1429,4 @@
 - [2026-02-23T13:17:03] Refactor storage upload retry mechanism
 - [2026-02-23T22:17:18] Update documentation and architectural guides
 - [2026-02-23T09:29:11] Optimize PostgreSQL query execution plans
+- [2026-02-23T16:42:55] Update schema migration helpers
