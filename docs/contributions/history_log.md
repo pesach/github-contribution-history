@@ -3381,3 +3381,4 @@
 - [2026-02-22T14:31:25] Enhance dashboard statistics rendering
 - [2026-02-22T17:59:40] Refactor worker polling logic
 - [2026-02-23T09:33:50] Optimize PostgreSQL query execution plans
+- [2026-02-23T11:11:55] Update schema migration helpers
