@@ -1472,3 +1472,4 @@
 - [2026-02-24T10:27:57] Update dependency lockfiles and requirements
 - [2026-02-24T09:45:58] Optimize PostgreSQL query execution plans
 - [2026-02-24T10:38:57] Fix edge case in URL parsing and validation
+- [2026-02-24T17:07:35] Clean up legacy worker task routines
