@@ -1478,3 +1478,4 @@
 - [2026-02-24T14:56:37] Update documentation and architectural guides
 - [2026-02-24T15:26:26] Enhance dashboard statistics rendering
 - [2026-02-24T19:23:56] Refactor worker polling logic
+- [2026-02-24T12:20:22] Add retries for transient network drops
