@@ -3391,3 +3391,4 @@
 - [2026-02-23T18:28:42] Update schema migration helpers
 - [2026-02-23T19:06:48] Add Redis rate limit backoff handlers
 - [2026-02-23T10:34:03] Improve ffmpeg streaming pipe buffer management
+- [2026-02-24T11:19:25] Update B2 storage chunking parameters
