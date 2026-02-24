@@ -1427,3 +1427,4 @@
 - [2026-02-23T20:04:19] Update B2 storage chunking parameters
 - [2026-02-23T19:47:56] Update B2 storage chunking parameters
 - [2026-02-23T13:17:03] Refactor storage upload retry mechanism
+- [2026-02-23T22:17:18] Update documentation and architectural guides
