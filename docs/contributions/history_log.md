@@ -1485,3 +1485,4 @@
 - [2026-02-24T14:30:56] Implement streaming upload chunk buffer optimization
 - [2026-02-24T21:55:02] Fix edge case in channel tab crawler
 - [2026-02-24T10:47:13] Update B2 storage chunking parameters
+- [2026-02-24T18:58:39] Add error handling for yt-dlp rate limits
