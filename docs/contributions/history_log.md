@@ -249,3 +249,4 @@
 - [2026-02-22T16:03:13] Update dependency lockfiles and requirements
 - [2026-02-22T17:32:50] Clean up legacy worker task routines
 - [2026-02-22T18:51:32] Add Redis rate limit backoff handlers
+- [2026-02-24T14:21:44] Add Redis rate limit backoff handlers
