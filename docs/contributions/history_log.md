@@ -1455,3 +1455,4 @@
 - [2026-02-23T17:05:04] Improve ffmpeg streaming pipe buffer management
 - [2026-02-23T18:06:37] Update schema migration helpers
 - [2026-02-23T10:01:41] Refactor cookie refresher probe logic
+- [2026-02-24T14:49:05] Add Prometheus exporter endpoints for queue length
