@@ -1461,3 +1461,4 @@
 - [2026-02-24T09:53:14] Refactor storage upload retry mechanism
 - [2026-02-24T11:24:40] Refactor storage upload retry mechanism
 - [2026-02-24T16:38:27] Implement streaming upload chunk buffer optimization
+- [2026-02-24T10:16:17] Refactor worker polling logic
