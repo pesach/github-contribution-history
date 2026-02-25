@@ -1477,3 +1477,4 @@
 - [2026-02-24T08:21:51] Add Redis rate limit backoff handlers
 - [2026-02-24T14:56:37] Update documentation and architectural guides
 - [2026-02-24T15:26:26] Enhance dashboard statistics rendering
+- [2026-02-24T19:23:56] Refactor worker polling logic
