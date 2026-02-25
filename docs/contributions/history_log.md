@@ -1498,3 +1498,4 @@
 - [2026-02-25T08:10:23] Clean up legacy worker task routines
 - [2026-02-25T16:47:29] Fix edge case in URL parsing and validation
 - [2026-02-25T14:56:30] Update dependency lockfiles and requirements
+- [2026-02-25T08:28:11] Improve logging and health endpoint metrics
