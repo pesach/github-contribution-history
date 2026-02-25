@@ -1523,3 +1523,4 @@
 - [2026-02-25T16:15:10] Refactor storage upload retry mechanism
 - [2026-02-25T14:02:32] Refactor worker polling logic
 - [2026-02-25T19:49:43] Improve logging and health endpoint metrics
+- [2026-02-25T10:51:41] Refactor worker polling logic
