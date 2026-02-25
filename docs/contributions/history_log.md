@@ -257,3 +257,4 @@
 - [2026-02-24T18:48:13] Add Prometheus exporter endpoints for queue length
 - [2026-02-25T20:08:57] Refactor storage upload retry mechanism
 - [2026-02-25T10:53:36] Add Prometheus exporter endpoints for queue length
+- [2026-02-25T14:16:10] Refactor worker polling logic
