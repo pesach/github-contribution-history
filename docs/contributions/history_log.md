@@ -1521,3 +1521,4 @@
 - [2026-02-25T13:51:47] Refactor storage upload retry mechanism
 - [2026-02-25T16:13:50] Improve ffmpeg streaming pipe buffer management
 - [2026-02-25T16:15:10] Refactor storage upload retry mechanism
+- [2026-02-25T14:02:32] Refactor worker polling logic
