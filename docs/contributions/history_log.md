@@ -1496,3 +1496,4 @@
 - [2026-02-25T17:38:42] Update dependency lockfiles and requirements
 - [2026-02-25T22:36:31] Add Redis rate limit backoff handlers
 - [2026-02-25T08:10:23] Clean up legacy worker task routines
+- [2026-02-25T16:47:29] Fix edge case in URL parsing and validation
