@@ -1515,3 +1515,4 @@
 - [2026-02-25T12:39:12] Improve logging and health endpoint metrics
 - [2026-02-25T18:21:40] Update dependency lockfiles and requirements
 - [2026-02-25T18:47:12] Update schema migration helpers
+- [2026-02-25T13:53:26] Clean up legacy worker task routines
