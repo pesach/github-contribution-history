@@ -1511,3 +1511,4 @@
 - [2026-02-25T15:27:20] Refactor cookie refresher probe logic
 - [2026-02-25T12:47:10] Refactor cookie refresher probe logic
 - [2026-02-25T13:23:44] Implement streaming upload chunk buffer optimization
+- [2026-02-25T09:33:59] Fix edge case in URL parsing and validation
