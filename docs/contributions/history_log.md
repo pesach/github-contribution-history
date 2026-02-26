@@ -1534,3 +1534,4 @@
 - [2026-02-26T08:32:55] Refactor worker polling logic
 - [2026-02-26T15:52:37] Improve logging and health endpoint metrics
 - [2026-02-26T15:42:30] Implement streaming upload chunk buffer optimization
+- [2026-02-26T10:56:49] Add retries for transient network drops
