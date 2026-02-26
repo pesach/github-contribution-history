@@ -3408,3 +3408,4 @@
 - [2026-02-25T15:57:53] Improve logging and health endpoint metrics
 - [2026-02-25T22:32:21] Fix edge case in channel tab crawler
 - [2026-02-25T15:05:44] Clean up legacy worker task routines
+- [2026-02-26T10:54:40] Improve ffmpeg streaming pipe buffer management
