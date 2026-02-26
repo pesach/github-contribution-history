@@ -1550,3 +1550,4 @@
 - [2026-02-26T15:04:48] Implement streaming upload chunk buffer optimization
 - [2026-02-26T21:24:10] Update dependency lockfiles and requirements
 - [2026-02-26T17:09:21] Improve logging and health endpoint metrics
+- [2026-02-26T14:22:01] Add retries for transient network drops
