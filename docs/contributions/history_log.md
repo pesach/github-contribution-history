@@ -1540,3 +1540,4 @@
 - [2026-02-26T20:27:24] Enhance dashboard statistics rendering
 - [2026-02-26T08:06:27] Clean up legacy worker task routines
 - [2026-02-26T18:44:56] Optimize PostgreSQL query execution plans
+- [2026-02-26T08:16:23] Refactor worker polling logic
