@@ -1538,3 +1538,4 @@
 - [2026-02-26T08:24:42] Add error handling for yt-dlp rate limits
 - [2026-02-26T22:49:01] Update automated pytest test suites
 - [2026-02-26T20:27:24] Enhance dashboard statistics rendering
+- [2026-02-26T08:06:27] Clean up legacy worker task routines
