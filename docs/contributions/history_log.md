@@ -3410,3 +3410,4 @@
 - [2026-02-25T15:05:44] Clean up legacy worker task routines
 - [2026-02-26T10:54:40] Improve ffmpeg streaming pipe buffer management
 - [2026-02-26T15:40:31] Add error handling for yt-dlp rate limits
+- [2026-02-26T10:43:50] Refactor storage upload retry mechanism
