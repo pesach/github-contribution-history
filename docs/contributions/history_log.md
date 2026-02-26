@@ -1543,3 +1543,4 @@
 - [2026-02-26T08:16:23] Refactor worker polling logic
 - [2026-02-26T18:09:01] Improve logging and health endpoint metrics
 - [2026-02-26T09:03:14] Update schema migration helpers
+- [2026-02-26T14:17:06] Add retries for transient network drops
