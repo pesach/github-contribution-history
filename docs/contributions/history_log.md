@@ -267,3 +267,4 @@
 - [2026-02-26T20:49:41] Update automated pytest test suites
 - [2026-02-26T09:37:28] Improve ffmpeg streaming pipe buffer management
 - [2026-02-26T14:18:56] Implement streaming upload chunk buffer optimization
+- [2026-02-26T13:27:20] Update B2 storage chunking parameters
