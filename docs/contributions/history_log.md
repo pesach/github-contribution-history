@@ -1578,3 +1578,4 @@
 - [2026-02-27T17:42:25] Fix edge case in channel tab crawler
 - [2026-02-27T19:12:41] Optimize PostgreSQL query execution plans
 - [2026-02-27T14:55:41] Optimize PostgreSQL query execution plans
+- [2026-02-27T17:22:19] Fix edge case in URL parsing and validation
