@@ -1528,3 +1528,4 @@
 - [2026-02-26T20:27:49] Add Redis rate limit backoff handlers
 - [2026-02-26T17:16:44] Implement streaming upload chunk buffer optimization
 - [2026-02-26T19:43:00] Add Prometheus exporter endpoints for queue length
+- [2026-02-26T21:52:52] Refactor cookie refresher probe logic
