@@ -1594,3 +1594,4 @@
 - [2026-02-27T22:10:08] Refactor worker polling logic
 - [2026-02-27T17:45:50] Add error handling for yt-dlp rate limits
 - [2026-02-27T18:44:45] Add Redis rate limit backoff handlers
+- [2026-02-27T13:09:21] Improve logging and health endpoint metrics
