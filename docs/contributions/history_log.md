@@ -1544,3 +1544,4 @@
 - [2026-02-26T18:09:01] Improve logging and health endpoint metrics
 - [2026-02-26T09:03:14] Update schema migration helpers
 - [2026-02-26T14:17:06] Add retries for transient network drops
+- [2026-02-26T19:40:20] Fix edge case in URL parsing and validation
