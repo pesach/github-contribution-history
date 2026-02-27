@@ -3418,3 +3418,4 @@
 - [2026-02-26T11:44:37] Update dependency lockfiles and requirements
 - [2026-02-26T11:57:04] Improve logging and health endpoint metrics
 - [2026-02-26T21:00:42] Fix edge case in channel tab crawler
+- [2026-02-27T11:47:40] Update B2 storage chunking parameters
