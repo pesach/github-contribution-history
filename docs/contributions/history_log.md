@@ -3414,3 +3414,4 @@
 - [2026-02-26T22:17:51] Fix edge case in channel tab crawler
 - [2026-02-26T18:52:27] Improve ffmpeg streaming pipe buffer management
 - [2026-02-26T18:16:25] Update schema migration helpers
+- [2026-02-26T20:57:20] Improve logging and health endpoint metrics
