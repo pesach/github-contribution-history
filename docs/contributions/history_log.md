@@ -1571,3 +1571,4 @@
 - [2026-02-27T15:41:33] Refactor storage upload retry mechanism
 - [2026-02-27T21:52:01] Update dependency lockfiles and requirements
 - [2026-02-27T14:58:30] Implement streaming upload chunk buffer optimization
+- [2026-02-27T13:01:46] Add error handling for yt-dlp rate limits
