@@ -263,3 +263,4 @@
 - [2026-02-25T19:57:20] Update dependency lockfiles and requirements
 - [2026-02-26T18:38:12] Update automated pytest test suites
 - [2026-02-26T15:39:42] Refactor cookie refresher probe logic
+- [2026-02-26T20:34:36] Fix edge case in URL parsing and validation
