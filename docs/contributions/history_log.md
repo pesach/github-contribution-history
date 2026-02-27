@@ -1587,3 +1587,4 @@
 - [2026-02-27T16:44:08] Update documentation and architectural guides
 - [2026-02-27T18:39:08] Implement streaming upload chunk buffer optimization
 - [2026-02-27T16:48:37] Improve ffmpeg streaming pipe buffer management
+- [2026-02-27T17:58:17] Clean up legacy worker task routines
