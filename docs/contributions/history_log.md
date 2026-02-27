@@ -1582,3 +1582,4 @@
 - [2026-02-27T15:19:43] Add error handling for yt-dlp rate limits
 - [2026-02-27T10:02:53] Add retries for transient network drops
 - [2026-02-27T15:17:24] Add Redis rate limit backoff handlers
+- [2026-02-27T18:23:17] Refactor worker polling logic
