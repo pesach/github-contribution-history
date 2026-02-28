@@ -3431,3 +3431,4 @@
 - [2026-02-27T10:58:59] Update schema migration helpers
 - [2026-02-27T15:46:10] Clean up legacy worker task routines
 - [2026-02-28T22:49:05] Add retries for transient network drops
+- [2026-02-28T08:54:53] Refactor worker polling logic
