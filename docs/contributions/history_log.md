@@ -3432,3 +3432,4 @@
 - [2026-02-27T15:46:10] Clean up legacy worker task routines
 - [2026-02-28T22:49:05] Add retries for transient network drops
 - [2026-02-28T08:54:53] Refactor worker polling logic
+- [2026-02-28T12:22:17] Improve ffmpeg streaming pipe buffer management
