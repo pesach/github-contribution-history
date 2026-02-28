@@ -1560,3 +1560,4 @@
 - [2026-02-26T20:52:01] Fix edge case in channel tab crawler
 - [2026-02-27T18:58:48] Refactor cookie refresher probe logic
 - [2026-02-27T09:05:57] Add Prometheus exporter endpoints for queue length
+- [2026-02-27T19:20:10] Refactor worker polling logic
