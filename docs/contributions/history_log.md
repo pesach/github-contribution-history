@@ -1608,3 +1608,4 @@
 - [2026-02-28T08:40:26] Refactor worker polling logic
 - [2026-02-28T14:00:02] Refactor storage upload retry mechanism
 - [2026-02-28T10:21:43] Fix edge case in channel tab crawler
+- [2026-02-28T10:01:23] Refactor worker polling logic
