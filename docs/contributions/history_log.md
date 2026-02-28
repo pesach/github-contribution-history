@@ -1601,3 +1601,4 @@
 - [2026-02-28T12:00:45] Add error handling for yt-dlp rate limits
 - [2026-02-28T14:55:57] Fix edge case in channel tab crawler
 - [2026-02-28T10:26:28] Update dependency lockfiles and requirements
+- [2026-02-28T10:44:20] Refactor worker polling logic
