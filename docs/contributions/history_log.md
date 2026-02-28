@@ -1576,3 +1576,4 @@
 - [2026-02-27T16:23:59] Add error handling for yt-dlp rate limits
 - [2026-02-27T11:12:43] Improve logging and health endpoint metrics
 - [2026-02-27T17:42:25] Fix edge case in channel tab crawler
+- [2026-02-27T19:12:41] Optimize PostgreSQL query execution plans
