@@ -3433,3 +3433,4 @@
 - [2026-02-28T22:49:05] Add retries for transient network drops
 - [2026-02-28T08:54:53] Refactor worker polling logic
 - [2026-02-28T12:22:17] Improve ffmpeg streaming pipe buffer management
+- [2026-02-28T15:08:31] Update schema migration helpers
