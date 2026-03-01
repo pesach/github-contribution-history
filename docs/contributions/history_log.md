@@ -1622,3 +1622,4 @@
 - [2026-03-01T21:52:36] Refactor cookie refresher probe logic
 - [2026-03-01T17:32:10] Add error handling for yt-dlp rate limits
 - [2026-03-01T09:52:03] Update automated pytest test suites
+- [2026-03-01T09:54:19] Refactor worker polling logic
