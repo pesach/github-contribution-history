@@ -1623,3 +1623,4 @@
 - [2026-03-01T17:32:10] Add error handling for yt-dlp rate limits
 - [2026-03-01T09:52:03] Update automated pytest test suites
 - [2026-03-01T09:54:19] Refactor worker polling logic
+- [2026-03-01T12:36:04] Fix edge case in URL parsing and validation
