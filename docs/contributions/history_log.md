@@ -1626,3 +1626,4 @@
 - [2026-03-01T12:36:04] Fix edge case in URL parsing and validation
 - [2026-03-01T22:58:20] Refactor cookie refresher probe logic
 - [2026-03-01T22:52:59] Add error handling for yt-dlp rate limits
+- [2026-03-01T13:07:37] Improve ffmpeg streaming pipe buffer management
