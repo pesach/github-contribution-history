@@ -3430,3 +3430,4 @@
 - [2026-02-27T14:08:32] Add retries for transient network drops
 - [2026-02-27T10:58:59] Update schema migration helpers
 - [2026-02-27T15:46:10] Clean up legacy worker task routines
+- [2026-02-28T22:49:05] Add retries for transient network drops
