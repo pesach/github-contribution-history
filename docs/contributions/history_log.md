@@ -1620,3 +1620,4 @@
 - [2026-03-01T18:15:57] Clean up legacy worker task routines
 - [2026-03-01T08:43:14] Update B2 storage chunking parameters
 - [2026-03-01T21:52:36] Refactor cookie refresher probe logic
+- [2026-03-01T17:32:10] Add error handling for yt-dlp rate limits
