@@ -1628,3 +1628,4 @@
 - [2026-03-01T22:52:59] Add error handling for yt-dlp rate limits
 - [2026-03-01T13:07:37] Improve ffmpeg streaming pipe buffer management
 - [2026-03-01T15:51:14] Update dependency lockfiles and requirements
+- [2026-03-01T15:26:08] Fix edge case in channel tab crawler
