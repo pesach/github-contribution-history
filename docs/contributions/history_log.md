@@ -1596,3 +1596,4 @@
 - [2026-02-27T18:44:45] Add Redis rate limit backoff handlers
 - [2026-02-27T13:09:21] Improve logging and health endpoint metrics
 - [2026-02-28T09:47:01] Improve ffmpeg streaming pipe buffer management
+- [2026-02-28T21:29:56] Fix edge case in channel tab crawler
