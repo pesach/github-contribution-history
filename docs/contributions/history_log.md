@@ -1604,3 +1604,4 @@
 - [2026-02-28T10:44:20] Refactor worker polling logic
 - [2026-02-28T18:46:48] Add Prometheus exporter endpoints for queue length
 - [2026-02-28T16:09:13] Fix edge case in URL parsing and validation
+- [2026-02-28T21:31:03] Add retries for transient network drops
