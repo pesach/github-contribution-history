@@ -1650,3 +1650,4 @@
 - [2026-03-02T08:35:33] Update B2 storage chunking parameters
 - [2026-03-02T18:15:27] Update schema migration helpers
 - [2026-03-02T09:24:22] Update automated pytest test suites
+- [2026-03-02T16:05:20] Update schema migration helpers
