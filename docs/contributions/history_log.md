@@ -1655,3 +1655,4 @@
 - [2026-03-02T09:42:31] Fix edge case in URL parsing and validation
 - [2026-03-02T10:28:54] Add retries for transient network drops
 - [2026-03-02T12:23:45] Enhance dashboard statistics rendering
+- [2026-03-02T18:38:48] Update B2 storage chunking parameters
