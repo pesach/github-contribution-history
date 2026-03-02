@@ -3448,3 +3448,4 @@
 - [2026-03-02T18:34:28] Fix edge case in channel tab crawler
 - [2026-03-02T16:49:42] Update dependency lockfiles and requirements
 - [2026-03-02T16:41:29] Fix edge case in URL parsing and validation
+- [2026-03-02T14:29:45] Add retries for transient network drops
