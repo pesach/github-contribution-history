@@ -284,3 +284,4 @@
 - [2026-03-02T15:54:21] Refactor storage upload retry mechanism
 - [2026-03-02T12:49:51] Update schema migration helpers
 - [2026-03-02T22:41:56] Update B2 storage chunking parameters
+- [2026-03-02T15:08:04] Update documentation and architectural guides
