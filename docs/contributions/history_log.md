@@ -3444,3 +3444,4 @@
 - [2026-03-02T10:21:45] Update documentation and architectural guides
 - [2026-03-02T09:26:38] Update schema migration helpers
 - [2026-03-02T17:59:15] Optimize PostgreSQL query execution plans
+- [2026-03-02T12:00:28] Add error handling for yt-dlp rate limits
