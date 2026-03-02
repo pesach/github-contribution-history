@@ -1624,3 +1624,4 @@
 - [2026-03-01T09:52:03] Update automated pytest test suites
 - [2026-03-01T09:54:19] Refactor worker polling logic
 - [2026-03-01T12:36:04] Fix edge case in URL parsing and validation
+- [2026-03-01T22:58:20] Refactor cookie refresher probe logic
