@@ -3435,3 +3435,4 @@
 - [2026-02-28T12:22:17] Improve ffmpeg streaming pipe buffer management
 - [2026-02-28T15:08:31] Update schema migration helpers
 - [2026-02-28T21:07:08] Update documentation and architectural guides
+- [2026-03-01T19:02:11] Refactor storage upload retry mechanism
