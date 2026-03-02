@@ -1652,3 +1652,4 @@
 - [2026-03-02T09:24:22] Update automated pytest test suites
 - [2026-03-02T16:05:20] Update schema migration helpers
 - [2026-03-02T09:35:14] Add Prometheus exporter endpoints for queue length
+- [2026-03-02T09:42:31] Fix edge case in URL parsing and validation
