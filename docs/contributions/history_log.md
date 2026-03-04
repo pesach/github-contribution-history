@@ -1674,3 +1674,4 @@
 - [2026-03-04T18:57:01] Update B2 storage chunking parameters
 - [2026-03-04T09:27:28] Update dependency lockfiles and requirements
 - [2026-03-04T12:36:26] Update dependency lockfiles and requirements
+- [2026-03-04T09:25:17] Update schema migration helpers
