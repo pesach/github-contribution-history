@@ -1694,3 +1694,4 @@
 - [2026-03-04T21:40:09] Improve logging and health endpoint metrics
 - [2026-03-04T12:43:44] Update schema migration helpers
 - [2026-03-04T15:50:29] Refactor cookie refresher probe logic
+- [2026-03-04T17:00:36] Update B2 storage chunking parameters
