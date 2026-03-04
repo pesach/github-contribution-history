@@ -1699,3 +1699,4 @@
 - [2026-03-04T09:45:23] Add Redis rate limit backoff handlers
 - [2026-03-04T20:18:14] Clean up legacy worker task routines
 - [2026-03-04T19:30:05] Improve ffmpeg streaming pipe buffer management
+- [2026-03-04T09:02:03] Refactor storage upload retry mechanism
