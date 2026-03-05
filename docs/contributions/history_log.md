@@ -1718,3 +1718,4 @@
 - [2026-03-05T22:57:13] Fix edge case in URL parsing and validation
 - [2026-03-05T17:15:20] Enhance dashboard statistics rendering
 - [2026-03-05T19:23:45] Add retries for transient network drops
+- [2026-03-05T14:07:25] Add Prometheus exporter endpoints for queue length
