@@ -1730,3 +1730,4 @@
 - [2026-03-05T20:07:59] Clean up legacy worker task routines
 - [2026-03-05T12:55:51] Add retries for transient network drops
 - [2026-03-05T17:30:55] Add retries for transient network drops
+- [2026-03-05T13:04:19] Update B2 storage chunking parameters
