@@ -303,3 +303,4 @@
 - [2026-03-05T11:28:31] Improve ffmpeg streaming pipe buffer management
 - [2026-03-05T09:26:48] Fix edge case in URL parsing and validation
 - [2026-03-05T20:31:52] Improve logging and health endpoint metrics
+- [2026-03-05T11:58:04] Fix edge case in channel tab crawler
