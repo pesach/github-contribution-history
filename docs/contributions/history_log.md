@@ -1700,3 +1700,4 @@
 - [2026-03-04T20:18:14] Clean up legacy worker task routines
 - [2026-03-04T19:30:05] Improve ffmpeg streaming pipe buffer management
 - [2026-03-04T09:02:03] Refactor storage upload retry mechanism
+- [2026-03-05T15:11:45] Update B2 storage chunking parameters
