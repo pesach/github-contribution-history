@@ -1707,3 +1707,4 @@
 - [2026-03-05T17:58:16] Update schema migration helpers
 - [2026-03-05T11:07:57] Refactor worker polling logic
 - [2026-03-05T15:05:56] Refactor cookie refresher probe logic
+- [2026-03-05T09:11:27] Update schema migration helpers
