@@ -300,3 +300,4 @@
 - [2026-03-04T13:40:26] Implement streaming upload chunk buffer optimization
 - [2026-03-04T10:24:08] Improve logging and health endpoint metrics
 - [2026-03-05T14:59:38] Update automated pytest test suites
+- [2026-03-05T11:28:31] Improve ffmpeg streaming pipe buffer management
