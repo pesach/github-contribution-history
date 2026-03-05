@@ -1704,3 +1704,4 @@
 - [2026-03-05T18:24:44] Improve ffmpeg streaming pipe buffer management
 - [2026-03-05T16:28:53] Refactor worker polling logic
 - [2026-03-05T21:30:18] Add Prometheus exporter endpoints for queue length
+- [2026-03-05T17:58:16] Update schema migration helpers
