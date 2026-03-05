@@ -3465,3 +3465,4 @@
 - [2026-03-03T10:55:49] Fix edge case in URL parsing and validation
 - [2026-03-05T11:31:42] Improve logging and health endpoint metrics
 - [2026-03-05T15:28:04] Add Redis rate limit backoff handlers
+- [2026-03-05T12:06:47] Refactor worker polling logic
