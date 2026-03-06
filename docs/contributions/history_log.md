@@ -3475,3 +3475,4 @@
 - [2026-03-06T12:22:13] Update dependency lockfiles and requirements
 - [2026-03-06T10:58:07] Update dependency lockfiles and requirements
 - [2026-03-06T11:29:20] Add Redis rate limit backoff handlers
+- [2026-03-06T08:10:04] Add error handling for yt-dlp rate limits
