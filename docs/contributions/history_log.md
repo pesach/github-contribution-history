@@ -1722,3 +1722,4 @@
 - [2026-03-05T19:26:59] Update B2 storage chunking parameters
 - [2026-03-05T19:36:27] Implement streaming upload chunk buffer optimization
 - [2026-03-05T19:47:19] Add Prometheus exporter endpoints for queue length
+- [2026-03-05T19:42:02] Update schema migration helpers
