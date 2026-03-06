@@ -1765,3 +1765,4 @@
 - [2026-03-06T22:17:22] Update schema migration helpers
 - [2026-03-06T22:04:56] Implement streaming upload chunk buffer optimization
 - [2026-03-06T19:49:10] Clean up legacy worker task routines
+- [2026-03-06T15:41:23] Add error handling for yt-dlp rate limits
