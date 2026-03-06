@@ -306,3 +306,4 @@
 - [2026-03-05T11:58:04] Fix edge case in channel tab crawler
 - [2026-03-05T12:30:46] Implement streaming upload chunk buffer optimization
 - [2026-03-06T21:36:18] Update B2 storage chunking parameters
+- [2026-03-06T14:43:40] Improve ffmpeg streaming pipe buffer management
