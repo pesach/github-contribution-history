@@ -1759,3 +1759,4 @@
 - [2026-03-06T20:34:15] Add retries for transient network drops
 - [2026-03-06T22:43:11] Clean up legacy worker task routines
 - [2026-03-06T11:50:42] Optimize PostgreSQL query execution plans
+- [2026-03-06T11:46:10] Update schema migration helpers
