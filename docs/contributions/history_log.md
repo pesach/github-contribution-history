@@ -1738,3 +1738,4 @@
 - [2026-03-06T15:46:30] Implement streaming upload chunk buffer optimization
 - [2026-03-06T14:57:47] Optimize PostgreSQL query execution plans
 - [2026-03-06T12:04:53] Add Redis rate limit backoff handlers
+- [2026-03-06T10:24:58] Update schema migration helpers
