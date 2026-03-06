@@ -1743,3 +1743,4 @@
 - [2026-03-06T19:03:42] Improve logging and health endpoint metrics
 - [2026-03-06T13:47:33] Update B2 storage chunking parameters
 - [2026-03-06T21:33:26] Update schema migration helpers
+- [2026-03-06T18:20:34] Update schema migration helpers
