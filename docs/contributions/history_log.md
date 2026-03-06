@@ -1711,3 +1711,4 @@
 - [2026-03-05T10:55:44] Implement streaming upload chunk buffer optimization
 - [2026-03-05T19:13:08] Fix edge case in channel tab crawler
 - [2026-03-05T12:48:31] Add Redis rate limit backoff handlers
+- [2026-03-05T19:30:09] Add Redis rate limit backoff handlers
