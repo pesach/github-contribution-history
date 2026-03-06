@@ -1727,3 +1727,4 @@
 - [2026-03-05T18:59:04] Add error handling for yt-dlp rate limits
 - [2026-03-05T16:18:00] Optimize PostgreSQL query execution plans
 - [2026-03-05T14:46:18] Update dependency lockfiles and requirements
+- [2026-03-05T20:07:59] Clean up legacy worker task routines
