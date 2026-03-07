@@ -308,3 +308,4 @@
 - [2026-03-06T21:36:18] Update B2 storage chunking parameters
 - [2026-03-06T14:43:40] Improve ffmpeg streaming pipe buffer management
 - [2026-03-06T15:55:42] Add Redis rate limit backoff handlers
+- [2026-03-06T21:24:54] Enhance dashboard statistics rendering
