@@ -3484,3 +3484,4 @@
 - [2026-03-07T20:33:43] Update automated pytest test suites
 - [2026-03-07T16:36:30] Optimize PostgreSQL query execution plans
 - [2026-03-07T19:21:44] Add Redis rate limit backoff handlers
+- [2026-03-07T16:59:44] Improve ffmpeg streaming pipe buffer management
