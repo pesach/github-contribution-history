@@ -1732,3 +1732,4 @@
 - [2026-03-05T17:30:55] Add retries for transient network drops
 - [2026-03-05T13:04:19] Update B2 storage chunking parameters
 - [2026-03-05T18:21:05] Add Prometheus exporter endpoints for queue length
+- [2026-03-06T19:42:41] Add error handling for yt-dlp rate limits
