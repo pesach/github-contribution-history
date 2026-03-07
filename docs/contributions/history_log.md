@@ -313,3 +313,4 @@
 - [2026-03-07T22:37:36] Implement streaming upload chunk buffer optimization
 - [2026-03-07T18:01:26] Improve logging and health endpoint metrics
 - [2026-03-07T18:53:29] Fix edge case in URL parsing and validation
+- [2026-03-07T11:04:38] Add Redis rate limit backoff handlers
