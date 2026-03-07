@@ -1775,3 +1775,4 @@
 - [2026-03-07T08:52:16] Improve logging and health endpoint metrics
 - [2026-03-07T16:49:25] Update schema migration helpers
 - [2026-03-07T12:06:02] Fix edge case in URL parsing and validation
+- [2026-03-07T14:59:20] Fix edge case in channel tab crawler
