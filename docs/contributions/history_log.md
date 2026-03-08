@@ -1786,3 +1786,4 @@
 - [2026-03-07T19:14:13] Add Prometheus exporter endpoints for queue length
 - [2026-03-08T21:23:18] Add Redis rate limit backoff handlers
 - [2026-03-08T21:00:38] Update B2 storage chunking parameters
+- [2026-03-08T14:53:41] Update documentation and architectural guides
