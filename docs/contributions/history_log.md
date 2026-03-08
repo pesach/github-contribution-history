@@ -1800,3 +1800,4 @@
 - [2026-03-08T13:42:31] Update documentation and architectural guides
 - [2026-03-08T17:46:01] Improve ffmpeg streaming pipe buffer management
 - [2026-03-08T15:49:43] Update schema migration helpers
+- [2026-03-08T19:23:50] Fix edge case in channel tab crawler
