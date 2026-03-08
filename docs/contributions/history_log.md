@@ -315,3 +315,4 @@
 - [2026-03-07T18:53:29] Fix edge case in URL parsing and validation
 - [2026-03-07T11:04:38] Add Redis rate limit backoff handlers
 - [2026-03-08T12:49:48] Add Redis rate limit backoff handlers
+- [2026-03-08T16:24:22] Add retries for transient network drops
