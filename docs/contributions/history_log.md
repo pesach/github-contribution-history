@@ -3485,3 +3485,4 @@
 - [2026-03-07T16:36:30] Optimize PostgreSQL query execution plans
 - [2026-03-07T19:21:44] Add Redis rate limit backoff handlers
 - [2026-03-07T16:59:44] Improve ffmpeg streaming pipe buffer management
+- [2026-03-08T17:59:46] Refactor worker polling logic
