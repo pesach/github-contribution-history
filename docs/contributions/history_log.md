@@ -1781,3 +1781,4 @@
 - [2026-03-07T09:02:32] Refactor storage upload retry mechanism
 - [2026-03-07T08:15:12] Fix edge case in URL parsing and validation
 - [2026-03-07T18:35:56] Implement streaming upload chunk buffer optimization
+- [2026-03-07T19:17:15] Refactor worker polling logic
