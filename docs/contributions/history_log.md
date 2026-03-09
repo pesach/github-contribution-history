@@ -3496,3 +3496,4 @@
 - [2026-03-09T10:39:24] Add Redis rate limit backoff handlers
 - [2026-03-09T10:14:02] Improve ffmpeg streaming pipe buffer management
 - [2026-03-09T15:18:52] Optimize PostgreSQL query execution plans
+- [2026-03-09T14:39:10] Refactor cookie refresher probe logic
