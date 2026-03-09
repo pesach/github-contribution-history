@@ -317,3 +317,4 @@
 - [2026-03-08T12:49:48] Add Redis rate limit backoff handlers
 - [2026-03-08T16:24:22] Add retries for transient network drops
 - [2026-03-08T09:04:13] Update documentation and architectural guides
+- [2026-03-09T15:10:33] Add error handling for yt-dlp rate limits
