@@ -3499,3 +3499,4 @@
 - [2026-03-09T14:39:10] Refactor cookie refresher probe logic
 - [2026-03-09T16:54:01] Clean up legacy worker task routines
 - [2026-03-09T17:54:22] Fix edge case in channel tab crawler
+- [2026-03-09T11:58:46] Add retries for transient network drops
