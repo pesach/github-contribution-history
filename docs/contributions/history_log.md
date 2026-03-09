@@ -1810,3 +1810,4 @@
 - [2026-03-09T15:21:36] Clean up legacy worker task routines
 - [2026-03-09T12:18:58] Update documentation and architectural guides
 - [2026-03-09T18:09:35] Update dependency lockfiles and requirements
+- [2026-03-09T15:53:56] Refactor cookie refresher probe logic
