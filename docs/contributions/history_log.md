@@ -3487,3 +3487,4 @@
 - [2026-03-07T16:59:44] Improve ffmpeg streaming pipe buffer management
 - [2026-03-08T17:59:46] Refactor worker polling logic
 - [2026-03-08T12:36:56] Enhance dashboard statistics rendering
+- [2026-03-08T22:53:19] Fix edge case in channel tab crawler
