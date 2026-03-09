@@ -1823,3 +1823,4 @@
 - [2026-03-09T10:16:01] Fix edge case in channel tab crawler
 - [2026-03-09T10:35:49] Optimize PostgreSQL query execution plans
 - [2026-03-09T15:26:02] Update documentation and architectural guides
+- [2026-03-09T17:37:18] Add error handling for yt-dlp rate limits
