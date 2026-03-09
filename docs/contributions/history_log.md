@@ -1808,3 +1808,4 @@
 - [2026-03-09T20:03:12] Add Prometheus exporter endpoints for queue length
 - [2026-03-09T12:45:38] Refactor cookie refresher probe logic
 - [2026-03-09T15:21:36] Clean up legacy worker task routines
+- [2026-03-09T12:18:58] Update documentation and architectural guides
