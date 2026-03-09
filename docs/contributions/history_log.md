@@ -3502,3 +3502,4 @@
 - [2026-03-09T11:58:46] Add retries for transient network drops
 - [2026-03-09T12:11:36] Update dependency lockfiles and requirements
 - [2026-03-09T16:24:26] Update automated pytest test suites
+- [2026-03-09T10:10:09] Refactor worker polling logic
