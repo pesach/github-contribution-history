@@ -3511,3 +3511,4 @@
 - [2026-03-10T15:57:57] Fix edge case in channel tab crawler
 - [2026-03-10T18:04:27] Enhance dashboard statistics rendering
 - [2026-03-10T20:46:58] Add Prometheus exporter endpoints for queue length
+- [2026-03-10T09:48:16] Update documentation and architectural guides
