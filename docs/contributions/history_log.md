@@ -3506,3 +3506,4 @@
 - [2026-03-10T11:26:36] Update dependency lockfiles and requirements
 - [2026-03-10T19:49:23] Clean up legacy worker task routines
 - [2026-03-10T08:25:06] Add error handling for yt-dlp rate limits
+- [2026-03-10T12:35:52] Add error handling for yt-dlp rate limits
