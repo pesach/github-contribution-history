@@ -1836,3 +1836,4 @@
 - [2026-03-09T18:27:37] Fix edge case in URL parsing and validation
 - [2026-03-09T22:04:27] Improve ffmpeg streaming pipe buffer management
 - [2026-03-09T13:16:13] Optimize PostgreSQL query execution plans
+- [2026-03-09T22:43:36] Add error handling for yt-dlp rate limits
