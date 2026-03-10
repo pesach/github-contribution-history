@@ -1864,3 +1864,4 @@
 - [2026-03-10T14:42:53] Improve logging and health endpoint metrics
 - [2026-03-10T20:59:11] Update documentation and architectural guides
 - [2026-03-10T21:07:24] Add error handling for yt-dlp rate limits
+- [2026-03-10T14:32:50] Clean up legacy worker task routines
