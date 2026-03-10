@@ -1867,3 +1867,4 @@
 - [2026-03-10T14:32:50] Clean up legacy worker task routines
 - [2026-03-10T19:07:25] Add Redis rate limit backoff handlers
 - [2026-03-10T17:51:06] Fix edge case in URL parsing and validation
+- [2026-03-10T16:33:39] Improve ffmpeg streaming pipe buffer management
