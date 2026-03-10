@@ -328,3 +328,4 @@
 - [2026-03-10T21:09:51] Update B2 storage chunking parameters
 - [2026-03-10T20:26:59] Refactor cookie refresher probe logic
 - [2026-03-10T09:07:08] Add retries for transient network drops
+- [2026-03-10T13:54:54] Add error handling for yt-dlp rate limits
