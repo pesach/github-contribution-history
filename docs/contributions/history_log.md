@@ -1841,3 +1841,4 @@
 - [2026-03-09T17:07:33] Add error handling for yt-dlp rate limits
 - [2026-03-10T17:39:03] Add error handling for yt-dlp rate limits
 - [2026-03-10T09:58:51] Enhance dashboard statistics rendering
+- [2026-03-10T10:20:54] Refactor worker polling logic
