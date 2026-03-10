@@ -1852,3 +1852,4 @@
 - [2026-03-10T21:39:20] Improve logging and health endpoint metrics
 - [2026-03-10T08:38:50] Clean up legacy worker task routines
 - [2026-03-10T12:37:47] Improve ffmpeg streaming pipe buffer management
+- [2026-03-10T12:55:15] Refactor worker polling logic
