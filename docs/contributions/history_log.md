@@ -333,3 +333,4 @@
 - [2026-03-11T13:00:58] Update automated pytest test suites
 - [2026-03-11T14:56:47] Refactor storage upload retry mechanism
 - [2026-03-11T15:19:06] Improve logging and health endpoint metrics
+- [2026-03-11T11:14:45] Add error handling for yt-dlp rate limits
