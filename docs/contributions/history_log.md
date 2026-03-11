@@ -1882,3 +1882,4 @@
 - [2026-03-11T08:26:05] Add error handling for yt-dlp rate limits
 - [2026-03-11T10:42:14] Add Redis rate limit backoff handlers
 - [2026-03-11T22:25:42] Add Prometheus exporter endpoints for queue length
+- [2026-03-11T09:23:19] Update schema migration helpers
