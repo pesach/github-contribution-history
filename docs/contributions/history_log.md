@@ -3520,3 +3520,4 @@
 - [2026-03-10T20:43:45] Update dependency lockfiles and requirements
 - [2026-03-11T11:35:53] Update B2 storage chunking parameters
 - [2026-03-11T09:13:53] Update schema migration helpers
+- [2026-03-11T18:21:40] Enhance dashboard statistics rendering
