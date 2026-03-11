@@ -1878,3 +1878,4 @@
 - [2026-03-11T15:15:32] Refactor worker polling logic
 - [2026-03-11T16:39:44] Refactor worker polling logic
 - [2026-03-11T12:28:05] Update dependency lockfiles and requirements
+- [2026-03-11T14:26:10] Refactor storage upload retry mechanism
