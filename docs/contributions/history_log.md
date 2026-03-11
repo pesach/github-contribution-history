@@ -1880,3 +1880,4 @@
 - [2026-03-11T12:28:05] Update dependency lockfiles and requirements
 - [2026-03-11T14:26:10] Refactor storage upload retry mechanism
 - [2026-03-11T08:26:05] Add error handling for yt-dlp rate limits
+- [2026-03-11T10:42:14] Add Redis rate limit backoff handlers
