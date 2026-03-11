@@ -1886,3 +1886,4 @@
 - [2026-03-11T15:42:59] Fix edge case in URL parsing and validation
 - [2026-03-11T08:41:38] Enhance dashboard statistics rendering
 - [2026-03-11T20:19:35] Update documentation and architectural guides
+- [2026-03-11T17:29:31] Improve ffmpeg streaming pipe buffer management
