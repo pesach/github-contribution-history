@@ -3521,3 +3521,4 @@
 - [2026-03-11T11:35:53] Update B2 storage chunking parameters
 - [2026-03-11T09:13:53] Update schema migration helpers
 - [2026-03-11T18:21:40] Enhance dashboard statistics rendering
+- [2026-03-11T17:07:30] Clean up legacy worker task routines
