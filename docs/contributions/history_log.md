@@ -326,3 +326,4 @@
 - [2026-03-09T19:32:21] Refactor cookie refresher probe logic
 - [2026-03-10T14:46:31] Fix edge case in URL parsing and validation
 - [2026-03-10T21:09:51] Update B2 storage chunking parameters
+- [2026-03-10T20:26:59] Refactor cookie refresher probe logic
