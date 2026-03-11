@@ -3518,3 +3518,4 @@
 - [2026-03-10T20:22:38] Fix edge case in URL parsing and validation
 - [2026-03-10T09:02:26] Refactor worker polling logic
 - [2026-03-10T20:43:45] Update dependency lockfiles and requirements
+- [2026-03-11T11:35:53] Update B2 storage chunking parameters
