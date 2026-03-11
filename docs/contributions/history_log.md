@@ -3529,3 +3529,4 @@
 - [2026-03-11T14:35:21] Update documentation and architectural guides
 - [2026-03-11T11:41:31] Fix edge case in channel tab crawler
 - [2026-03-11T17:02:53] Update B2 storage chunking parameters
+- [2026-03-11T16:10:22] Refactor cookie refresher probe logic
