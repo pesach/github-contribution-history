@@ -1936,3 +1936,4 @@
 - [2026-03-12T17:28:11] Update documentation and architectural guides
 - [2026-03-12T17:41:28] Improve logging and health endpoint metrics
 - [2026-03-12T11:10:49] Update B2 storage chunking parameters
+- [2026-03-12T19:41:54] Add Prometheus exporter endpoints for queue length
