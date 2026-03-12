@@ -1930,3 +1930,4 @@
 - [2026-03-12T10:49:43] Add Prometheus exporter endpoints for queue length
 - [2026-03-12T18:00:39] Optimize PostgreSQL query execution plans
 - [2026-03-12T15:50:39] Improve logging and health endpoint metrics
+- [2026-03-12T18:48:44] Add Redis rate limit backoff handlers
