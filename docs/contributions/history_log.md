@@ -3533,3 +3533,4 @@
 - [2026-03-12T17:15:52] Add error handling for yt-dlp rate limits
 - [2026-03-12T17:56:19] Update automated pytest test suites
 - [2026-03-12T08:27:45] Refactor storage upload retry mechanism
+- [2026-03-12T10:40:40] Add Redis rate limit backoff handlers
