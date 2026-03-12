@@ -340,3 +340,4 @@
 - [2026-03-12T15:54:53] Update schema migration helpers
 - [2026-03-12T22:40:15] Enhance dashboard statistics rendering
 - [2026-03-12T12:01:16] Update B2 storage chunking parameters
+- [2026-03-12T13:48:01] Refactor worker polling logic
