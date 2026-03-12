@@ -3530,3 +3530,4 @@
 - [2026-03-11T11:41:31] Fix edge case in channel tab crawler
 - [2026-03-11T17:02:53] Update B2 storage chunking parameters
 - [2026-03-11T16:10:22] Refactor cookie refresher probe logic
+- [2026-03-12T17:15:52] Add error handling for yt-dlp rate limits
