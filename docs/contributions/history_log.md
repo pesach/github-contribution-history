@@ -342,3 +342,4 @@
 - [2026-03-12T12:01:16] Update B2 storage chunking parameters
 - [2026-03-12T13:48:01] Refactor worker polling logic
 - [2026-03-12T15:07:48] Implement streaming upload chunk buffer optimization
+- [2026-03-12T09:24:29] Add Redis rate limit backoff handlers
