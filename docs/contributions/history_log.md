@@ -1922,3 +1922,4 @@
 - [2026-03-12T20:31:38] Update schema migration helpers
 - [2026-03-12T11:40:57] Fix edge case in channel tab crawler
 - [2026-03-12T09:03:53] Refactor storage upload retry mechanism
+- [2026-03-12T19:04:20] Add error handling for yt-dlp rate limits
