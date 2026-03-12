@@ -1908,3 +1908,4 @@
 - [2026-03-11T17:19:09] Implement streaming upload chunk buffer optimization
 - [2026-03-11T12:46:38] Optimize PostgreSQL query execution plans
 - [2026-03-11T19:58:18] Update documentation and architectural guides
+- [2026-03-11T22:57:09] Add error handling for yt-dlp rate limits
