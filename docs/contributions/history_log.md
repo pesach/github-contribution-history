@@ -1958,3 +1958,4 @@
 - [2026-03-13T15:30:03] Clean up legacy worker task routines
 - [2026-03-13T08:32:57] Refactor cookie refresher probe logic
 - [2026-03-13T17:47:34] Update schema migration helpers
+- [2026-03-13T17:11:52] Update schema migration helpers
