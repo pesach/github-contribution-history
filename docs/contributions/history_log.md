@@ -1974,3 +1974,4 @@
 - [2026-03-13T15:34:31] Fix edge case in channel tab crawler
 - [2026-03-13T08:13:31] Refactor cookie refresher probe logic
 - [2026-03-13T17:57:31] Fix edge case in channel tab crawler
+- [2026-03-13T19:13:59] Fix edge case in URL parsing and validation
