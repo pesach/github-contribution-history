@@ -1977,3 +1977,4 @@
 - [2026-03-13T19:13:59] Fix edge case in URL parsing and validation
 - [2026-03-13T10:13:00] Clean up legacy worker task routines
 - [2026-03-13T15:28:25] Update schema migration helpers
+- [2026-03-13T13:13:44] Refactor cookie refresher probe logic
