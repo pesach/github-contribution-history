@@ -1919,3 +1919,4 @@
 - [2026-03-12T09:29:10] Fix edge case in channel tab crawler
 - [2026-03-12T17:28:11] Improve ffmpeg streaming pipe buffer management
 - [2026-03-12T21:12:53] Improve ffmpeg streaming pipe buffer management
+- [2026-03-12T20:31:38] Update schema migration helpers
