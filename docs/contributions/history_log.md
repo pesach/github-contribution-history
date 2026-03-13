@@ -1978,3 +1978,4 @@
 - [2026-03-13T10:13:00] Clean up legacy worker task routines
 - [2026-03-13T15:28:25] Update schema migration helpers
 - [2026-03-13T13:13:44] Refactor cookie refresher probe logic
+- [2026-03-13T16:01:12] Optimize PostgreSQL query execution plans
