@@ -1952,3 +1952,4 @@
 - [2026-03-13T12:19:05] Refactor storage upload retry mechanism
 - [2026-03-13T14:19:05] Add retries for transient network drops
 - [2026-03-13T09:42:14] Add retries for transient network drops
+- [2026-03-13T12:21:14] Clean up legacy worker task routines
