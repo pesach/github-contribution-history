@@ -1956,3 +1956,4 @@
 - [2026-03-13T15:34:40] Update B2 storage chunking parameters
 - [2026-03-13T08:52:01] Improve logging and health endpoint metrics
 - [2026-03-13T15:30:03] Clean up legacy worker task routines
+- [2026-03-13T08:32:57] Refactor cookie refresher probe logic
