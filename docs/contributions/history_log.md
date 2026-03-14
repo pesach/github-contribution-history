@@ -1992,3 +1992,4 @@
 - [2026-03-14T21:17:41] Fix edge case in URL parsing and validation
 - [2026-03-14T18:07:07] Add Redis rate limit backoff handlers
 - [2026-03-14T19:14:13] Clean up legacy worker task routines
+- [2026-03-14T18:08:10] Improve logging and health endpoint metrics
