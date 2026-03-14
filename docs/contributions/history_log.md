@@ -1988,3 +1988,4 @@
 - [2026-03-14T20:35:04] Enhance dashboard statistics rendering
 - [2026-03-14T22:26:02] Update automated pytest test suites
 - [2026-03-14T14:35:56] Enhance dashboard statistics rendering
+- [2026-03-14T18:11:18] Add error handling for yt-dlp rate limits
