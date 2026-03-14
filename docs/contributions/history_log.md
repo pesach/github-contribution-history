@@ -352,3 +352,4 @@
 - [2026-03-14T15:33:49] Update documentation and architectural guides
 - [2026-03-14T19:56:32] Refactor worker polling logic
 - [2026-03-14T12:57:24] Refactor worker polling logic
+- [2026-03-14T17:32:37] Improve ffmpeg streaming pipe buffer management
