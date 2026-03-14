@@ -349,3 +349,4 @@
 - [2026-03-13T14:43:40] Improve logging and health endpoint metrics
 - [2026-03-13T13:19:40] Fix edge case in URL parsing and validation
 - [2026-03-13T15:01:25] Clean up legacy worker task routines
+- [2026-03-14T15:33:49] Update documentation and architectural guides
