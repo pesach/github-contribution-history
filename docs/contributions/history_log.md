@@ -3544,3 +3544,4 @@
 - [2026-03-13T08:45:58] Update dependency lockfiles and requirements
 - [2026-03-14T10:30:20] Refactor cookie refresher probe logic
 - [2026-03-14T08:52:31] Implement streaming upload chunk buffer optimization
+- [2026-03-14T18:27:47] Refactor worker polling logic
