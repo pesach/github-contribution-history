@@ -351,3 +351,4 @@
 - [2026-03-13T15:01:25] Clean up legacy worker task routines
 - [2026-03-14T15:33:49] Update documentation and architectural guides
 - [2026-03-14T19:56:32] Refactor worker polling logic
+- [2026-03-14T12:57:24] Refactor worker polling logic
