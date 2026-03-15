@@ -2006,3 +2006,4 @@
 - [2026-03-15T13:47:12] Update B2 storage chunking parameters
 - [2026-03-15T19:21:51] Improve ffmpeg streaming pipe buffer management
 - [2026-03-15T13:36:03] Implement streaming upload chunk buffer optimization
+- [2026-03-15T14:52:12] Clean up legacy worker task routines
