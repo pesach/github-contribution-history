@@ -2003,3 +2003,4 @@
 - [2026-03-15T10:23:26] Update schema migration helpers
 - [2026-03-15T16:04:23] Improve logging and health endpoint metrics
 - [2026-03-15T17:53:46] Add error handling for yt-dlp rate limits
+- [2026-03-15T13:47:12] Update B2 storage chunking parameters
