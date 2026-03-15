@@ -1996,3 +1996,4 @@
 - [2026-03-14T10:07:25] Enhance dashboard statistics rendering
 - [2026-03-14T19:49:09] Update documentation and architectural guides
 - [2026-03-14T12:18:21] Update dependency lockfiles and requirements
+- [2026-03-15T18:55:56] Add Redis rate limit backoff handlers
