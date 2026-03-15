@@ -354,3 +354,4 @@
 - [2026-03-14T12:57:24] Refactor worker polling logic
 - [2026-03-14T17:32:37] Improve ffmpeg streaming pipe buffer management
 - [2026-03-15T15:48:09] Refactor worker polling logic
+- [2026-03-15T14:23:53] Optimize PostgreSQL query execution plans
