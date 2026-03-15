@@ -2000,3 +2000,4 @@
 - [2026-03-15T08:36:46] Update schema migration helpers
 - [2026-03-15T19:39:43] Improve logging and health endpoint metrics
 - [2026-03-15T11:49:35] Refactor worker polling logic
+- [2026-03-15T10:23:26] Update schema migration helpers
