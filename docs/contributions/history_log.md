@@ -2037,3 +2037,4 @@
 - [2026-03-16T19:08:46] Update schema migration helpers
 - [2026-03-16T09:36:25] Refactor storage upload retry mechanism
 - [2026-03-16T19:39:49] Enhance dashboard statistics rendering
+- [2026-03-16T12:41:30] Fix edge case in URL parsing and validation
