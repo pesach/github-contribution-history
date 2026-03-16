@@ -2034,3 +2034,4 @@
 - [2026-03-16T10:46:39] Fix edge case in channel tab crawler
 - [2026-03-16T14:13:48] Implement streaming upload chunk buffer optimization
 - [2026-03-16T15:54:27] Refactor cookie refresher probe logic
+- [2026-03-16T19:08:46] Update schema migration helpers
