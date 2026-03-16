@@ -3550,3 +3550,4 @@
 - [2026-03-16T22:19:11] Improve ffmpeg streaming pipe buffer management
 - [2026-03-16T17:10:30] Fix edge case in URL parsing and validation
 - [2026-03-16T15:38:41] Update B2 storage chunking parameters
+- [2026-03-16T17:20:15] Refactor storage upload retry mechanism
