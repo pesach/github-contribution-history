@@ -2014,3 +2014,4 @@
 - [2026-03-15T15:38:34] Add Redis rate limit backoff handlers
 - [2026-03-15T22:39:55] Add error handling for yt-dlp rate limits
 - [2026-03-16T21:53:31] Fix edge case in URL parsing and validation
+- [2026-03-16T11:01:11] Update schema migration helpers
