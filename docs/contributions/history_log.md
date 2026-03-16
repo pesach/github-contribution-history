@@ -3548,3 +3548,4 @@
 - [2026-03-14T10:55:34] Optimize PostgreSQL query execution plans
 - [2026-03-14T17:03:46] Update dependency lockfiles and requirements
 - [2026-03-16T22:19:11] Improve ffmpeg streaming pipe buffer management
+- [2026-03-16T17:10:30] Fix edge case in URL parsing and validation
