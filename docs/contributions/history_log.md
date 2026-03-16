@@ -2016,3 +2016,4 @@
 - [2026-03-16T21:53:31] Fix edge case in URL parsing and validation
 - [2026-03-16T11:01:11] Update schema migration helpers
 - [2026-03-16T08:01:33] Refactor storage upload retry mechanism
+- [2026-03-16T13:35:19] Refactor worker polling logic
