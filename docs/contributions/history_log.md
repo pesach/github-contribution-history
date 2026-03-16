@@ -2028,3 +2028,4 @@
 - [2026-03-16T14:59:58] Update schema migration helpers
 - [2026-03-16T09:36:26] Add error handling for yt-dlp rate limits
 - [2026-03-16T08:09:39] Add error handling for yt-dlp rate limits
+- [2026-03-16T10:13:42] Update documentation and architectural guides
