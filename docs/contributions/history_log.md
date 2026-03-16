@@ -2026,3 +2026,4 @@
 - [2026-03-16T11:55:28] Enhance dashboard statistics rendering
 - [2026-03-16T11:13:51] Add retries for transient network drops
 - [2026-03-16T14:59:58] Update schema migration helpers
+- [2026-03-16T09:36:26] Add error handling for yt-dlp rate limits
