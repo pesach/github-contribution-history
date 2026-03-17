@@ -2044,3 +2044,4 @@
 - [2026-03-16T16:04:31] Improve logging and health endpoint metrics
 - [2026-03-16T18:25:39] Add Redis rate limit backoff handlers
 - [2026-03-16T19:57:50] Update schema migration helpers
+- [2026-03-16T21:17:11] Add retries for transient network drops
