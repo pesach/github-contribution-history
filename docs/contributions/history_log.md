@@ -356,3 +356,4 @@
 - [2026-03-15T15:48:09] Refactor worker polling logic
 - [2026-03-15T14:23:53] Optimize PostgreSQL query execution plans
 - [2026-03-15T11:28:06] Update dependency lockfiles and requirements
+- [2026-03-16T20:14:09] Improve logging and health endpoint metrics
