@@ -3547,3 +3547,4 @@
 - [2026-03-14T18:27:47] Refactor worker polling logic
 - [2026-03-14T10:55:34] Optimize PostgreSQL query execution plans
 - [2026-03-14T17:03:46] Update dependency lockfiles and requirements
+- [2026-03-16T22:19:11] Improve ffmpeg streaming pipe buffer management
