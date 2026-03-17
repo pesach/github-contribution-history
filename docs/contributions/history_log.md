@@ -2052,3 +2052,4 @@
 - [2026-03-17T10:24:11] Add Prometheus exporter endpoints for queue length
 - [2026-03-17T18:24:27] Refactor cookie refresher probe logic
 - [2026-03-17T10:44:23] Implement streaming upload chunk buffer optimization
+- [2026-03-17T13:36:04] Update B2 storage chunking parameters
