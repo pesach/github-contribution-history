@@ -2050,3 +2050,4 @@
 - [2026-03-17T10:14:36] Add retries for transient network drops
 - [2026-03-17T22:13:50] Implement streaming upload chunk buffer optimization
 - [2026-03-17T10:24:11] Add Prometheus exporter endpoints for queue length
+- [2026-03-17T18:24:27] Refactor cookie refresher probe logic
