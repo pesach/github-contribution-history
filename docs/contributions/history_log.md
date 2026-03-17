@@ -362,3 +362,4 @@
 - [2026-03-16T20:24:59] Enhance dashboard statistics rendering
 - [2026-03-16T22:28:07] Add retries for transient network drops
 - [2026-03-17T08:04:16] Update automated pytest test suites
+- [2026-03-17T09:38:01] Fix edge case in URL parsing and validation
