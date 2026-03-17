@@ -358,3 +358,4 @@
 - [2026-03-15T11:28:06] Update dependency lockfiles and requirements
 - [2026-03-16T20:14:09] Improve logging and health endpoint metrics
 - [2026-03-16T17:56:14] Refactor storage upload retry mechanism
+- [2026-03-16T21:22:00] Update schema migration helpers
