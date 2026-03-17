@@ -2021,3 +2021,4 @@
 - [2026-03-16T14:38:20] Update dependency lockfiles and requirements
 - [2026-03-16T11:42:09] Update dependency lockfiles and requirements
 - [2026-03-16T15:21:21] Refactor cookie refresher probe logic
+- [2026-03-16T21:42:08] Improve logging and health endpoint metrics
