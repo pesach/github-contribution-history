@@ -2066,3 +2066,4 @@
 - [2026-03-17T20:50:29] Enhance dashboard statistics rendering
 - [2026-03-17T21:19:51] Clean up legacy worker task routines
 - [2026-03-17T19:43:37] Refactor worker polling logic
+- [2026-03-17T09:59:23] Fix edge case in channel tab crawler
