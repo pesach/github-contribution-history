@@ -2013,3 +2013,4 @@
 - [2026-03-15T09:08:23] Implement streaming upload chunk buffer optimization
 - [2026-03-15T15:38:34] Add Redis rate limit backoff handlers
 - [2026-03-15T22:39:55] Add error handling for yt-dlp rate limits
+- [2026-03-16T21:53:31] Fix edge case in URL parsing and validation
