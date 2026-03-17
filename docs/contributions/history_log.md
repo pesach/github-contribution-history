@@ -2055,3 +2055,4 @@
 - [2026-03-17T13:36:04] Update B2 storage chunking parameters
 - [2026-03-17T10:16:27] Add retries for transient network drops
 - [2026-03-17T22:45:54] Update dependency lockfiles and requirements
+- [2026-03-17T10:50:56] Enhance dashboard statistics rendering
