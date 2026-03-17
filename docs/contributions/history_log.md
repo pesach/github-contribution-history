@@ -2062,3 +2062,4 @@
 - [2026-03-17T17:48:09] Enhance dashboard statistics rendering
 - [2026-03-17T22:09:09] Clean up legacy worker task routines
 - [2026-03-17T13:56:18] Refactor worker polling logic
+- [2026-03-17T13:16:27] Improve logging and health endpoint metrics
