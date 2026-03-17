@@ -367,3 +367,4 @@
 - [2026-03-17T12:09:32] Update dependency lockfiles and requirements
 - [2026-03-17T17:37:16] Update B2 storage chunking parameters
 - [2026-03-17T11:59:25] Update documentation and architectural guides
+- [2026-03-17T09:53:54] Clean up legacy worker task routines
