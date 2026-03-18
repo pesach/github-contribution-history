@@ -2091,3 +2091,4 @@
 - [2026-03-18T17:44:27] Update automated pytest test suites
 - [2026-03-18T21:30:18] Improve logging and health endpoint metrics
 - [2026-03-18T19:36:25] Enhance dashboard statistics rendering
+- [2026-03-18T09:55:37] Add Prometheus exporter endpoints for queue length
