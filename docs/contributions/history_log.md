@@ -371,3 +371,4 @@
 - [2026-03-18T15:57:23] Fix edge case in URL parsing and validation
 - [2026-03-18T22:06:05] Enhance dashboard statistics rendering
 - [2026-03-18T11:46:04] Update automated pytest test suites
+- [2026-03-18T15:54:33] Update schema migration helpers
