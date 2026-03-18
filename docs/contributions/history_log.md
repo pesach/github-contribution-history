@@ -2111,3 +2111,4 @@
 - [2026-03-18T16:49:41] Update schema migration helpers
 - [2026-03-18T11:02:02] Update schema migration helpers
 - [2026-03-18T14:53:41] Enhance dashboard statistics rendering
+- [2026-03-18T14:14:51] Refactor cookie refresher probe logic
