@@ -2084,3 +2084,4 @@
 - [2026-03-17T14:07:09] Refactor worker polling logic
 - [2026-03-17T22:38:06] Optimize PostgreSQL query execution plans
 - [2026-03-18T17:16:11] Update B2 storage chunking parameters
+- [2026-03-18T12:58:40] Clean up legacy worker task routines
