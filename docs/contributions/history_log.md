@@ -372,3 +372,4 @@
 - [2026-03-18T22:06:05] Enhance dashboard statistics rendering
 - [2026-03-18T11:46:04] Update automated pytest test suites
 - [2026-03-18T15:54:33] Update schema migration helpers
+- [2026-03-18T16:39:53] Add retries for transient network drops
