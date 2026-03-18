@@ -3562,3 +3562,4 @@
 - [2026-03-18T22:38:50] Improve ffmpeg streaming pipe buffer management
 - [2026-03-18T16:14:07] Update dependency lockfiles and requirements
 - [2026-03-18T22:55:10] Add retries for transient network drops
+- [2026-03-18T15:43:18] Enhance dashboard statistics rendering
