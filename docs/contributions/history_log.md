@@ -2086,3 +2086,4 @@
 - [2026-03-18T17:16:11] Update B2 storage chunking parameters
 - [2026-03-18T12:58:40] Clean up legacy worker task routines
 - [2026-03-18T16:54:14] Refactor cookie refresher probe logic
+- [2026-03-18T10:32:16] Update dependency lockfiles and requirements
