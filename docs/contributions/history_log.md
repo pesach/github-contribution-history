@@ -2104,3 +2104,4 @@
 - [2026-03-18T19:04:52] Add Redis rate limit backoff handlers
 - [2026-03-18T13:49:57] Enhance dashboard statistics rendering
 - [2026-03-18T12:08:13] Update dependency lockfiles and requirements
+- [2026-03-18T21:24:43] Add error handling for yt-dlp rate limits
