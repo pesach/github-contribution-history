@@ -2137,3 +2137,4 @@
 - [2026-03-19T08:15:21] Add Prometheus exporter endpoints for queue length
 - [2026-03-19T16:45:56] Add Redis rate limit backoff handlers
 - [2026-03-19T19:52:51] Update B2 storage chunking parameters
+- [2026-03-19T18:37:54] Clean up legacy worker task routines
