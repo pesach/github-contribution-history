@@ -2100,3 +2100,4 @@
 - [2026-03-18T22:54:37] Implement streaming upload chunk buffer optimization
 - [2026-03-18T20:27:18] Fix edge case in URL parsing and validation
 - [2026-03-18T20:41:12] Update documentation and architectural guides
+- [2026-03-18T22:29:22] Improve ffmpeg streaming pipe buffer management
