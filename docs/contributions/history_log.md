@@ -2122,3 +2122,4 @@
 - [2026-03-19T13:46:18] Improve ffmpeg streaming pipe buffer management
 - [2026-03-19T09:26:50] Update automated pytest test suites
 - [2026-03-19T12:07:49] Improve ffmpeg streaming pipe buffer management
+- [2026-03-19T18:23:19] Add retries for transient network drops
