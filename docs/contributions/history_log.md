@@ -379,3 +379,4 @@
 - [2026-03-19T22:07:56] Improve ffmpeg streaming pipe buffer management
 - [2026-03-19T08:39:38] Improve logging and health endpoint metrics
 - [2026-03-19T18:31:21] Fix edge case in URL parsing and validation
+- [2026-03-19T08:08:16] Update schema migration helpers
