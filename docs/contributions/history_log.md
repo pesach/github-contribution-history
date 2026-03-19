@@ -3566,3 +3566,4 @@
 - [2026-03-18T18:41:57] Refactor storage upload retry mechanism
 - [2026-03-18T11:40:46] Enhance dashboard statistics rendering
 - [2026-03-18T11:13:39] Update dependency lockfiles and requirements
+- [2026-03-19T11:08:11] Refactor worker polling logic
