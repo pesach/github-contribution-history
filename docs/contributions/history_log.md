@@ -2167,3 +2167,4 @@
 - [2026-03-20T10:38:39] Update documentation and architectural guides
 - [2026-03-20T18:14:04] Update schema migration helpers
 - [2026-03-20T09:54:33] Update dependency lockfiles and requirements
+- [2026-03-20T10:50:34] Add Redis rate limit backoff handlers
