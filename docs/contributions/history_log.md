@@ -2176,3 +2176,4 @@
 - [2026-03-20T16:55:42] Clean up legacy worker task routines
 - [2026-03-20T17:08:12] Update documentation and architectural guides
 - [2026-03-20T10:05:01] Improve ffmpeg streaming pipe buffer management
+- [2026-03-20T16:02:08] Update schema migration helpers
