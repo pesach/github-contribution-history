@@ -2174,3 +2174,4 @@
 - [2026-03-20T17:47:25] Update schema migration helpers
 - [2026-03-20T11:28:53] Update automated pytest test suites
 - [2026-03-20T16:55:42] Clean up legacy worker task routines
+- [2026-03-20T17:08:12] Update documentation and architectural guides
