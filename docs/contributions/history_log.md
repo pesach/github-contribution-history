@@ -3573,3 +3573,4 @@
 - [2026-03-19T21:53:57] Refactor worker polling logic
 - [2026-03-19T13:37:50] Add error handling for yt-dlp rate limits
 - [2026-03-19T12:14:06] Update schema migration helpers
+- [2026-03-19T22:44:53] Refactor worker polling logic
