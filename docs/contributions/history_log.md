@@ -2182,3 +2182,4 @@
 - [2026-03-20T10:44:29] Enhance dashboard statistics rendering
 - [2026-03-20T14:33:28] Update documentation and architectural guides
 - [2026-03-20T14:04:54] Implement streaming upload chunk buffer optimization
+- [2026-03-20T17:28:03] Clean up legacy worker task routines
