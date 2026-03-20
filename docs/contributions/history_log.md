@@ -2168,3 +2168,4 @@
 - [2026-03-20T18:14:04] Update schema migration helpers
 - [2026-03-20T09:54:33] Update dependency lockfiles and requirements
 - [2026-03-20T10:50:34] Add Redis rate limit backoff handlers
+- [2026-03-20T17:08:17] Add retries for transient network drops
