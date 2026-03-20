@@ -384,3 +384,4 @@
 - [2026-03-20T11:48:05] Implement streaming upload chunk buffer optimization
 - [2026-03-20T14:51:03] Update automated pytest test suites
 - [2026-03-20T12:26:38] Add error handling for yt-dlp rate limits
+- [2026-03-20T13:02:17] Update B2 storage chunking parameters
