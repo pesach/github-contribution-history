@@ -3581,3 +3581,4 @@
 - [2026-03-20T09:38:40] Fix edge case in URL parsing and validation
 - [2026-03-20T12:06:11] Clean up legacy worker task routines
 - [2026-03-20T12:32:26] Update schema migration helpers
+- [2026-03-20T18:10:56] Add retries for transient network drops
