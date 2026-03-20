@@ -2163,3 +2163,4 @@
 - [2026-03-20T18:05:32] Fix edge case in channel tab crawler
 - [2026-03-20T21:06:07] Fix edge case in URL parsing and validation
 - [2026-03-20T16:31:16] Improve logging and health endpoint metrics
+- [2026-03-20T08:12:36] Refactor cookie refresher probe logic
