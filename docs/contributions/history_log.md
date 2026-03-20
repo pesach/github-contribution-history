@@ -385,3 +385,4 @@
 - [2026-03-20T14:51:03] Update automated pytest test suites
 - [2026-03-20T12:26:38] Add error handling for yt-dlp rate limits
 - [2026-03-20T13:02:17] Update B2 storage chunking parameters
+- [2026-03-20T19:54:00] Update documentation and architectural guides
