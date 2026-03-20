@@ -381,3 +381,4 @@
 - [2026-03-19T18:31:21] Fix edge case in URL parsing and validation
 - [2026-03-19T08:08:16] Update schema migration helpers
 - [2026-03-20T11:51:29] Update B2 storage chunking parameters
+- [2026-03-20T11:48:05] Implement streaming upload chunk buffer optimization
