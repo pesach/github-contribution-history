@@ -380,3 +380,4 @@
 - [2026-03-19T08:39:38] Improve logging and health endpoint metrics
 - [2026-03-19T18:31:21] Fix edge case in URL parsing and validation
 - [2026-03-19T08:08:16] Update schema migration helpers
+- [2026-03-20T11:51:29] Update B2 storage chunking parameters
