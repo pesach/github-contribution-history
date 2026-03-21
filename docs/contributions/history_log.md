@@ -2185,3 +2185,4 @@
 - [2026-03-20T17:28:03] Clean up legacy worker task routines
 - [2026-03-20T19:27:05] Clean up legacy worker task routines
 - [2026-03-20T22:39:47] Add Redis rate limit backoff handlers
+- [2026-03-21T10:18:57] Enhance dashboard statistics rendering
