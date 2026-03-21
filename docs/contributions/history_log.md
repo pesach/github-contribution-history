@@ -3587,3 +3587,4 @@
 - [2026-03-21T08:27:23] Update automated pytest test suites
 - [2026-03-21T11:51:03] Fix edge case in URL parsing and validation
 - [2026-03-21T22:13:05] Update dependency lockfiles and requirements
+- [2026-03-21T13:01:31] Refactor worker polling logic
