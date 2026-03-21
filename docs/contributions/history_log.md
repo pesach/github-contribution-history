@@ -3585,3 +3585,4 @@
 - [2026-03-21T16:36:06] Add error handling for yt-dlp rate limits
 - [2026-03-21T13:23:18] Add Prometheus exporter endpoints for queue length
 - [2026-03-21T08:27:23] Update automated pytest test suites
+- [2026-03-21T11:51:03] Fix edge case in URL parsing and validation
