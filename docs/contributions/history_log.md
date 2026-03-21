@@ -2184,3 +2184,4 @@
 - [2026-03-20T14:04:54] Implement streaming upload chunk buffer optimization
 - [2026-03-20T17:28:03] Clean up legacy worker task routines
 - [2026-03-20T19:27:05] Clean up legacy worker task routines
+- [2026-03-20T22:39:47] Add Redis rate limit backoff handlers
