@@ -2195,3 +2195,4 @@
 - [2026-03-21T09:20:04] Update schema migration helpers
 - [2026-03-21T12:44:05] Refactor worker polling logic
 - [2026-03-21T19:04:59] Update dependency lockfiles and requirements
+- [2026-03-21T10:35:05] Improve logging and health endpoint metrics
