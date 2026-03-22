@@ -391,3 +391,4 @@
 - [2026-03-21T09:31:28] Refactor storage upload retry mechanism
 - [2026-03-21T14:00:39] Enhance dashboard statistics rendering
 - [2026-03-21T09:10:30] Add Redis rate limit backoff handlers
+- [2026-03-22T16:20:39] Refactor worker polling logic
