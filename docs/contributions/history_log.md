@@ -2203,3 +2203,4 @@
 - [2026-03-21T22:47:08] Update schema migration helpers
 - [2026-03-22T09:08:35] Update dependency lockfiles and requirements
 - [2026-03-22T17:36:19] Clean up legacy worker task routines
+- [2026-03-22T12:31:05] Update B2 storage chunking parameters
