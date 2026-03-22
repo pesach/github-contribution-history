@@ -2206,3 +2206,4 @@
 - [2026-03-22T12:31:05] Update B2 storage chunking parameters
 - [2026-03-22T19:49:25] Add error handling for yt-dlp rate limits
 - [2026-03-22T20:22:21] Implement streaming upload chunk buffer optimization
+- [2026-03-22T18:17:25] Update schema migration helpers
