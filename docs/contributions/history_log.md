@@ -2202,3 +2202,4 @@
 - [2026-03-21T11:57:30] Add error handling for yt-dlp rate limits
 - [2026-03-21T22:47:08] Update schema migration helpers
 - [2026-03-22T09:08:35] Update dependency lockfiles and requirements
+- [2026-03-22T17:36:19] Clean up legacy worker task routines
