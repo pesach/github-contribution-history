@@ -2212,3 +2212,4 @@
 - [2026-03-22T12:34:20] Add error handling for yt-dlp rate limits
 - [2026-03-22T16:02:21] Update schema migration helpers
 - [2026-03-22T13:02:59] Optimize PostgreSQL query execution plans
+- [2026-03-22T17:35:39] Clean up legacy worker task routines
