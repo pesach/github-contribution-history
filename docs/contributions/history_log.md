@@ -2218,3 +2218,4 @@
 - [2026-03-22T19:42:55] Refactor cookie refresher probe logic
 - [2026-03-22T09:25:55] Refactor cookie refresher probe logic
 - [2026-03-22T18:39:18] Update documentation and architectural guides
+- [2026-03-22T14:52:34] Update schema migration helpers
