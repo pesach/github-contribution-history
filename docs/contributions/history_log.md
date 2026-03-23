@@ -394,3 +394,4 @@
 - [2026-03-22T16:20:39] Refactor worker polling logic
 - [2026-03-22T15:29:46] Improve logging and health endpoint metrics
 - [2026-03-23T09:06:49] Add retries for transient network drops
+- [2026-03-23T11:19:31] Add retries for transient network drops
