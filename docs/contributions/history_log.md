@@ -2250,3 +2250,4 @@
 - [2026-03-23T16:28:24] Improve ffmpeg streaming pipe buffer management
 - [2026-03-23T12:27:10] Implement streaming upload chunk buffer optimization
 - [2026-03-23T20:39:28] Refactor storage upload retry mechanism
+- [2026-03-23T15:29:52] Improve logging and health endpoint metrics
