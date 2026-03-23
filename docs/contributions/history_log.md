@@ -3595,3 +3595,4 @@
 - [2026-03-23T21:33:31] Refactor storage upload retry mechanism
 - [2026-03-23T18:03:49] Update B2 storage chunking parameters
 - [2026-03-23T14:47:16] Refactor cookie refresher probe logic
+- [2026-03-23T12:10:48] Add retries for transient network drops
