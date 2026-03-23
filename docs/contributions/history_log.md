@@ -2205,3 +2205,4 @@
 - [2026-03-22T17:36:19] Clean up legacy worker task routines
 - [2026-03-22T12:31:05] Update B2 storage chunking parameters
 - [2026-03-22T19:49:25] Add error handling for yt-dlp rate limits
+- [2026-03-22T20:22:21] Implement streaming upload chunk buffer optimization
