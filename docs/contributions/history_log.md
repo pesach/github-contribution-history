@@ -2225,3 +2225,4 @@
 - [2026-03-23T13:26:42] Add Redis rate limit backoff handlers
 - [2026-03-23T20:09:52] Update documentation and architectural guides
 - [2026-03-23T12:39:00] Update schema migration helpers
+- [2026-03-23T17:09:02] Update schema migration helpers
