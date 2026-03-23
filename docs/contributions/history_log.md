@@ -2254,3 +2254,4 @@
 - [2026-03-23T22:11:54] Fix edge case in channel tab crawler
 - [2026-03-23T12:45:55] Implement streaming upload chunk buffer optimization
 - [2026-03-23T21:32:49] Refactor cookie refresher probe logic
+- [2026-03-23T14:27:44] Fix edge case in URL parsing and validation
