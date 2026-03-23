@@ -398,3 +398,4 @@
 - [2026-03-23T16:03:49] Refactor cookie refresher probe logic
 - [2026-03-23T18:14:06] Add Prometheus exporter endpoints for queue length
 - [2026-03-23T22:25:34] Update B2 storage chunking parameters
+- [2026-03-23T11:23:39] Refactor cookie refresher probe logic
