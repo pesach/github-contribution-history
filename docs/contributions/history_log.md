@@ -2259,3 +2259,4 @@
 - [2026-03-23T11:45:49] Add Prometheus exporter endpoints for queue length
 - [2026-03-23T08:51:13] Add Redis rate limit backoff handlers
 - [2026-03-24T14:39:58] Update B2 storage chunking parameters
+- [2026-03-24T16:58:00] Add error handling for yt-dlp rate limits
