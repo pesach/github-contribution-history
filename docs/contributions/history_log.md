@@ -2238,3 +2238,4 @@
 - [2026-03-23T18:57:38] Update documentation and architectural guides
 - [2026-03-23T11:30:26] Update documentation and architectural guides
 - [2026-03-23T22:15:50] Refactor worker polling logic
+- [2026-03-23T21:21:32] Add error handling for yt-dlp rate limits
