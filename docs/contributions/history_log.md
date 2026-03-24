@@ -2253,3 +2253,4 @@
 - [2026-03-23T15:29:52] Improve logging and health endpoint metrics
 - [2026-03-23T22:11:54] Fix edge case in channel tab crawler
 - [2026-03-23T12:45:55] Implement streaming upload chunk buffer optimization
+- [2026-03-23T21:32:49] Refactor cookie refresher probe logic
