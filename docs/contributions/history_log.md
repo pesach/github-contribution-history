@@ -3604,3 +3604,4 @@
 - [2026-03-24T16:24:15] Add error handling for yt-dlp rate limits
 - [2026-03-24T08:21:42] Update B2 storage chunking parameters
 - [2026-03-24T22:21:39] Update schema migration helpers
+- [2026-03-24T11:42:45] Update schema migration helpers
