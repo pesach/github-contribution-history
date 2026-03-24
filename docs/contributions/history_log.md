@@ -2292,3 +2292,4 @@
 - [2026-03-24T08:19:15] Improve logging and health endpoint metrics
 - [2026-03-24T10:02:01] Add retries for transient network drops
 - [2026-03-24T17:34:28] Refactor storage upload retry mechanism
+- [2026-03-24T08:03:09] Refactor cookie refresher probe logic
