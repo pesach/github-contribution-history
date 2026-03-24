@@ -2289,3 +2289,4 @@
 - [2026-03-24T10:33:12] Enhance dashboard statistics rendering
 - [2026-03-24T10:42:44] Add retries for transient network drops
 - [2026-03-24T11:48:42] Update dependency lockfiles and requirements
+- [2026-03-24T08:19:15] Improve logging and health endpoint metrics
