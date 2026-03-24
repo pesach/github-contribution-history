@@ -2278,3 +2278,4 @@
 - [2026-03-24T13:44:58] Update dependency lockfiles and requirements
 - [2026-03-24T15:48:38] Optimize PostgreSQL query execution plans
 - [2026-03-24T13:06:13] Fix edge case in channel tab crawler
+- [2026-03-24T14:28:57] Update schema migration helpers
