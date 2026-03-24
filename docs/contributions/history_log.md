@@ -400,3 +400,4 @@
 - [2026-03-23T22:25:34] Update B2 storage chunking parameters
 - [2026-03-23T11:23:39] Refactor cookie refresher probe logic
 - [2026-03-23T16:02:18] Fix edge case in URL parsing and validation
+- [2026-03-24T11:32:03] Update dependency lockfiles and requirements
