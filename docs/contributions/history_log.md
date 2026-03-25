@@ -404,3 +404,4 @@
 - [2026-03-24T22:11:23] Fix edge case in channel tab crawler
 - [2026-03-24T11:04:07] Refactor storage upload retry mechanism
 - [2026-03-24T17:15:44] Update schema migration helpers
+- [2026-03-24T21:30:40] Add retries for transient network drops
