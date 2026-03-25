@@ -2300,3 +2300,4 @@
 - [2026-03-25T08:25:51] Implement streaming upload chunk buffer optimization
 - [2026-03-25T10:28:18] Add Redis rate limit backoff handlers
 - [2026-03-25T18:44:39] Update B2 storage chunking parameters
+- [2026-03-25T14:06:21] Improve logging and health endpoint metrics
