@@ -2356,3 +2356,4 @@
 - [2026-03-26T19:56:58] Add Prometheus exporter endpoints for queue length
 - [2026-03-26T13:35:58] Update schema migration helpers
 - [2026-03-26T20:53:43] Refactor worker polling logic
+- [2026-03-26T14:10:45] Optimize PostgreSQL query execution plans
