@@ -2336,3 +2336,4 @@
 - [2026-03-26T13:44:27] Clean up legacy worker task routines
 - [2026-03-26T14:41:01] Update dependency lockfiles and requirements
 - [2026-03-26T18:08:44] Fix edge case in channel tab crawler
+- [2026-03-26T09:53:40] Improve ffmpeg streaming pipe buffer management
