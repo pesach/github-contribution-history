@@ -3617,3 +3617,4 @@
 - [2026-03-25T10:32:26] Update dependency lockfiles and requirements
 - [2026-03-25T16:19:58] Add retries for transient network drops
 - [2026-03-25T08:05:56] Enhance dashboard statistics rendering
+- [2026-03-26T11:36:00] Add Redis rate limit backoff handlers
