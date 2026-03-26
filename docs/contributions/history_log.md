@@ -3621,3 +3621,4 @@
 - [2026-03-26T20:32:13] Update B2 storage chunking parameters
 - [2026-03-26T16:23:48] Optimize PostgreSQL query execution plans
 - [2026-03-26T17:39:09] Fix edge case in URL parsing and validation
+- [2026-03-26T14:57:14] Clean up legacy worker task routines
