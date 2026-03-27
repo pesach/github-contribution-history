@@ -420,3 +420,4 @@
 - [2026-03-26T15:04:15] Update schema migration helpers
 - [2026-03-27T12:53:13] Update B2 storage chunking parameters
 - [2026-03-27T20:28:16] Add retries for transient network drops
+- [2026-03-27T09:37:04] Add retries for transient network drops
