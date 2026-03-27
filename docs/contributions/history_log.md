@@ -2391,3 +2391,4 @@
 - [2026-03-27T14:47:18] Optimize PostgreSQL query execution plans
 - [2026-03-27T19:34:42] Update dependency lockfiles and requirements
 - [2026-03-27T22:05:28] Update automated pytest test suites
+- [2026-03-27T14:40:23] Update schema migration helpers
