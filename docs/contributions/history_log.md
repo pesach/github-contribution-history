@@ -2362,3 +2362,4 @@
 - [2026-03-26T19:56:54] Optimize PostgreSQL query execution plans
 - [2026-03-26T09:34:29] Update B2 storage chunking parameters
 - [2026-03-26T19:51:07] Improve logging and health endpoint metrics
+- [2026-03-27T14:17:16] Fix edge case in channel tab crawler
