@@ -3628,3 +3628,4 @@
 - [2026-03-27T20:09:14] Fix edge case in channel tab crawler
 - [2026-03-27T17:59:07] Clean up legacy worker task routines
 - [2026-03-27T11:35:17] Implement streaming upload chunk buffer optimization
+- [2026-03-27T15:11:33] Refactor worker polling logic
