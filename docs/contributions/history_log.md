@@ -2357,3 +2357,4 @@
 - [2026-03-26T13:35:58] Update schema migration helpers
 - [2026-03-26T20:53:43] Refactor worker polling logic
 - [2026-03-26T14:10:45] Optimize PostgreSQL query execution plans
+- [2026-03-26T22:27:26] Add Redis rate limit backoff handlers
