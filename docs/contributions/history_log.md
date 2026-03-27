@@ -2369,3 +2369,4 @@
 - [2026-03-27T19:01:31] Fix edge case in URL parsing and validation
 - [2026-03-27T09:19:38] Add Redis rate limit backoff handlers
 - [2026-03-27T14:28:11] Improve logging and health endpoint metrics
+- [2026-03-27T16:38:46] Refactor cookie refresher probe logic
