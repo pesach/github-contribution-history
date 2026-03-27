@@ -3626,3 +3626,4 @@
 - [2026-03-27T12:23:25] Optimize PostgreSQL query execution plans
 - [2026-03-27T22:57:17] Enhance dashboard statistics rendering
 - [2026-03-27T20:09:14] Fix edge case in channel tab crawler
+- [2026-03-27T17:59:07] Clean up legacy worker task routines
