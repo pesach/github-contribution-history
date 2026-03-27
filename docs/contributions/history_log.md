@@ -2337,3 +2337,4 @@
 - [2026-03-26T14:41:01] Update dependency lockfiles and requirements
 - [2026-03-26T18:08:44] Fix edge case in channel tab crawler
 - [2026-03-26T09:53:40] Improve ffmpeg streaming pipe buffer management
+- [2026-03-26T22:06:45] Fix edge case in channel tab crawler
