@@ -3630,3 +3630,4 @@
 - [2026-03-27T11:35:17] Implement streaming upload chunk buffer optimization
 - [2026-03-27T15:11:33] Refactor worker polling logic
 - [2026-03-27T19:47:46] Add error handling for yt-dlp rate limits
+- [2026-03-27T18:49:32] Add error handling for yt-dlp rate limits
