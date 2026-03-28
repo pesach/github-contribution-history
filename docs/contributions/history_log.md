@@ -2411,3 +2411,4 @@
 - [2026-03-28T13:45:14] Improve ffmpeg streaming pipe buffer management
 - [2026-03-28T20:44:10] Refactor cookie refresher probe logic
 - [2026-03-28T17:49:28] Add error handling for yt-dlp rate limits
+- [2026-03-28T19:25:22] Refactor storage upload retry mechanism
