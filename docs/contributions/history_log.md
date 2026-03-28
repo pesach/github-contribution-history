@@ -426,3 +426,4 @@
 - [2026-03-28T22:54:21] Update automated pytest test suites
 - [2026-03-28T17:22:16] Clean up legacy worker task routines
 - [2026-03-28T16:43:42] Fix edge case in channel tab crawler
+- [2026-03-28T10:31:37] Improve logging and health endpoint metrics
