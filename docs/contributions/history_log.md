@@ -2400,3 +2400,4 @@
 - [2026-03-27T13:10:04] Enhance dashboard statistics rendering
 - [2026-03-27T19:02:17] Enhance dashboard statistics rendering
 - [2026-03-28T16:05:09] Add retries for transient network drops
+- [2026-03-28T11:54:42] Improve logging and health endpoint metrics
