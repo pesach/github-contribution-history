@@ -419,3 +419,4 @@
 - [2026-03-26T14:38:30] Update automated pytest test suites
 - [2026-03-26T15:04:15] Update schema migration helpers
 - [2026-03-27T12:53:13] Update B2 storage chunking parameters
+- [2026-03-27T20:28:16] Add retries for transient network drops
