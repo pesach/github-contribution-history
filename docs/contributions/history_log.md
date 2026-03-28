@@ -424,3 +424,4 @@
 - [2026-03-27T10:46:55] Implement streaming upload chunk buffer optimization
 - [2026-03-27T21:38:35] Add Prometheus exporter endpoints for queue length
 - [2026-03-28T22:54:21] Update automated pytest test suites
+- [2026-03-28T17:22:16] Clean up legacy worker task routines
