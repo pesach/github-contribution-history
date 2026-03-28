@@ -3635,3 +3635,4 @@
 - [2026-03-27T21:42:06] Clean up legacy worker task routines
 - [2026-03-27T22:08:31] Update dependency lockfiles and requirements
 - [2026-03-28T22:40:30] Fix edge case in channel tab crawler
+- [2026-03-28T17:06:10] Update schema migration helpers
