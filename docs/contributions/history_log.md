@@ -3632,3 +3632,4 @@
 - [2026-03-27T19:47:46] Add error handling for yt-dlp rate limits
 - [2026-03-27T18:49:32] Add error handling for yt-dlp rate limits
 - [2026-03-27T14:36:14] Optimize PostgreSQL query execution plans
+- [2026-03-27T21:42:06] Clean up legacy worker task routines
