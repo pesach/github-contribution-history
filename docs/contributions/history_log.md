@@ -2418,3 +2418,4 @@
 - [2026-03-28T13:42:40] Fix edge case in channel tab crawler
 - [2026-03-28T11:14:14] Improve ffmpeg streaming pipe buffer management
 - [2026-03-29T09:24:20] Improve ffmpeg streaming pipe buffer management
+- [2026-03-29T16:49:53] Optimize PostgreSQL query execution plans
