@@ -3637,3 +3637,4 @@
 - [2026-03-28T22:40:30] Fix edge case in channel tab crawler
 - [2026-03-28T17:06:10] Update schema migration helpers
 - [2026-03-28T22:38:38] Add retries for transient network drops
+- [2026-03-28T22:44:03] Update schema migration helpers
