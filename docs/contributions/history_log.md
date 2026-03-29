@@ -3634,3 +3634,4 @@
 - [2026-03-27T14:36:14] Optimize PostgreSQL query execution plans
 - [2026-03-27T21:42:06] Clean up legacy worker task routines
 - [2026-03-27T22:08:31] Update dependency lockfiles and requirements
+- [2026-03-28T22:40:30] Fix edge case in channel tab crawler
