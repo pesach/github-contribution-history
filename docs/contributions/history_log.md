@@ -2430,3 +2430,4 @@
 - [2026-03-29T09:09:20] Update documentation and architectural guides
 - [2026-03-29T10:33:26] Improve ffmpeg streaming pipe buffer management
 - [2026-03-29T08:04:42] Update schema migration helpers
+- [2026-03-29T08:46:28] Update automated pytest test suites
