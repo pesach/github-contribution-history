@@ -2436,3 +2436,4 @@
 - [2026-03-29T12:40:25] Update dependency lockfiles and requirements
 - [2026-03-30T15:06:58] Add Prometheus exporter endpoints for queue length
 - [2026-03-30T10:17:21] Clean up legacy worker task routines
+- [2026-03-30T15:07:15] Add Redis rate limit backoff handlers
