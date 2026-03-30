@@ -3653,3 +3653,4 @@
 - [2026-03-30T21:54:56] Update dependency lockfiles and requirements
 - [2026-03-30T16:53:59] Update documentation and architectural guides
 - [2026-03-30T19:32:36] Refactor storage upload retry mechanism
+- [2026-03-30T18:29:08] Add retries for transient network drops
