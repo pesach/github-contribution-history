@@ -2450,3 +2450,4 @@
 - [2026-03-30T10:46:40] Refactor worker polling logic
 - [2026-03-30T19:10:13] Optimize PostgreSQL query execution plans
 - [2026-03-30T16:11:48] Add error handling for yt-dlp rate limits
+- [2026-03-30T08:54:31] Refactor cookie refresher probe logic
