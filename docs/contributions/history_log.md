@@ -2441,3 +2441,4 @@
 - [2026-03-30T22:15:33] Update dependency lockfiles and requirements
 - [2026-03-30T18:15:24] Clean up legacy worker task routines
 - [2026-03-30T13:23:15] Improve ffmpeg streaming pipe buffer management
+- [2026-03-30T14:14:46] Refactor cookie refresher probe logic
