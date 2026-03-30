@@ -432,3 +432,4 @@
 - [2026-03-29T10:52:51] Refactor worker polling logic
 - [2026-03-30T10:54:34] Refactor worker polling logic
 - [2026-03-30T12:25:31] Improve ffmpeg streaming pipe buffer management
+- [2026-03-30T18:18:41] Clean up legacy worker task routines
