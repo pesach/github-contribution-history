@@ -2492,3 +2492,4 @@
 - [2026-03-31T11:55:52] Add Prometheus exporter endpoints for queue length
 - [2026-03-31T10:37:16] Update automated pytest test suites
 - [2026-03-31T09:51:38] Update automated pytest test suites
+- [2026-03-31T10:43:37] Improve ffmpeg streaming pipe buffer management
