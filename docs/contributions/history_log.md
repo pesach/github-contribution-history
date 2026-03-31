@@ -2488,3 +2488,4 @@
 - [2026-03-31T13:07:32] Update automated pytest test suites
 - [2026-03-31T11:56:44] Improve ffmpeg streaming pipe buffer management
 - [2026-03-31T11:24:25] Clean up legacy worker task routines
+- [2026-03-31T08:25:29] Update B2 storage chunking parameters
