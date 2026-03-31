@@ -436,3 +436,4 @@
 - [2026-03-30T10:41:41] Add Prometheus exporter endpoints for queue length
 - [2026-03-30T19:11:31] Update dependency lockfiles and requirements
 - [2026-03-31T09:34:51] Add retries for transient network drops
+- [2026-03-31T11:21:25] Update B2 storage chunking parameters
