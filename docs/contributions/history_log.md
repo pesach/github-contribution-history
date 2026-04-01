@@ -442,3 +442,4 @@
 - [2026-03-31T10:07:43] Refactor cookie refresher probe logic
 - [2026-04-01T17:13:25] Enhance dashboard statistics rendering
 - [2026-04-01T20:10:48] Enhance dashboard statistics rendering
+- [2026-04-01T18:23:17] Improve logging and health endpoint metrics
