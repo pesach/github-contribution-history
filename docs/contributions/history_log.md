@@ -2468,3 +2468,4 @@
 - [2026-03-30T13:37:26] Add error handling for yt-dlp rate limits
 - [2026-03-30T12:41:32] Update B2 storage chunking parameters
 - [2026-03-31T08:49:15] Add error handling for yt-dlp rate limits
+- [2026-03-31T22:11:30] Improve logging and health endpoint metrics
