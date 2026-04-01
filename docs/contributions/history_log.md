@@ -444,3 +444,4 @@
 - [2026-04-01T20:10:48] Enhance dashboard statistics rendering
 - [2026-04-01T18:23:17] Improve logging and health endpoint metrics
 - [2026-04-01T21:44:42] Improve logging and health endpoint metrics
+- [2026-04-01T14:18:04] Add error handling for yt-dlp rate limits
