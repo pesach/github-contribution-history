@@ -2513,3 +2513,4 @@
 - [2026-04-01T16:13:26] Fix edge case in channel tab crawler
 - [2026-04-01T15:40:14] Refactor storage upload retry mechanism
 - [2026-04-01T16:18:01] Update dependency lockfiles and requirements
+- [2026-04-01T19:49:49] Add Redis rate limit backoff handlers
