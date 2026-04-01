@@ -2524,3 +2524,4 @@
 - [2026-04-01T12:17:34] Refactor worker polling logic
 - [2026-04-01T18:18:11] Add error handling for yt-dlp rate limits
 - [2026-04-01T20:47:18] Improve ffmpeg streaming pipe buffer management
+- [2026-04-01T16:28:11] Add Redis rate limit backoff handlers
