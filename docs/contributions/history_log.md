@@ -2532,3 +2532,4 @@
 - [2026-04-01T12:29:55] Improve ffmpeg streaming pipe buffer management
 - [2026-04-01T20:14:13] Update documentation and architectural guides
 - [2026-04-01T22:47:56] Optimize PostgreSQL query execution plans
+- [2026-04-01T12:05:12] Add Prometheus exporter endpoints for queue length
