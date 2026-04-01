@@ -2503,3 +2503,4 @@
 - [2026-03-31T22:16:58] Improve ffmpeg streaming pipe buffer management
 - [2026-04-01T10:19:54] Refactor worker polling logic
 - [2026-04-01T18:26:38] Update schema migration helpers
+- [2026-04-01T16:06:55] Add Redis rate limit backoff handlers
