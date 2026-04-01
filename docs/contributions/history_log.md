@@ -2522,3 +2522,4 @@
 - [2026-04-01T19:45:36] Update schema migration helpers
 - [2026-04-01T22:43:08] Improve logging and health endpoint metrics
 - [2026-04-01T12:17:34] Refactor worker polling logic
+- [2026-04-01T18:18:11] Add error handling for yt-dlp rate limits
