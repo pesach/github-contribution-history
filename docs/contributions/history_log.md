@@ -2560,3 +2560,4 @@
 - [2026-04-02T18:57:04] Update B2 storage chunking parameters
 - [2026-04-02T12:53:21] Improve logging and health endpoint metrics
 - [2026-04-02T19:48:23] Refactor worker polling logic
+- [2026-04-02T15:28:37] Update documentation and architectural guides
