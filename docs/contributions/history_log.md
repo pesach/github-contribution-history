@@ -451,3 +451,4 @@
 - [2026-04-02T21:50:22] Clean up legacy worker task routines
 - [2026-04-02T08:05:48] Refactor cookie refresher probe logic
 - [2026-04-02T20:36:37] Add Redis rate limit backoff handlers
+- [2026-04-02T17:41:57] Refactor worker polling logic
