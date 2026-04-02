@@ -446,3 +446,4 @@
 - [2026-04-01T21:44:42] Improve logging and health endpoint metrics
 - [2026-04-01T14:18:04] Add error handling for yt-dlp rate limits
 - [2026-04-02T21:58:22] Update schema migration helpers
+- [2026-04-02T18:15:47] Implement streaming upload chunk buffer optimization
