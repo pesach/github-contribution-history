@@ -2549,3 +2549,4 @@
 - [2026-04-02T17:33:54] Update dependency lockfiles and requirements
 - [2026-04-02T18:32:01] Fix edge case in URL parsing and validation
 - [2026-04-02T11:58:17] Refactor worker polling logic
+- [2026-04-02T10:00:24] Add error handling for yt-dlp rate limits
