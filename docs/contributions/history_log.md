@@ -3671,3 +3671,4 @@
 - [2026-04-02T19:57:25] Refactor cookie refresher probe logic
 - [2026-04-02T18:31:27] Add retries for transient network drops
 - [2026-04-02T11:09:43] Update schema migration helpers
+- [2026-04-02T17:24:36] Fix edge case in URL parsing and validation
