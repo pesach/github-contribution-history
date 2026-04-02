@@ -2538,3 +2538,4 @@
 - [2026-04-02T08:31:40] Enhance dashboard statistics rendering
 - [2026-04-02T18:18:08] Clean up legacy worker task routines
 - [2026-04-02T12:11:50] Update schema migration helpers
+- [2026-04-02T11:06:04] Add Prometheus exporter endpoints for queue length
