@@ -2520,3 +2520,4 @@
 - [2026-04-01T15:49:22] Update automated pytest test suites
 - [2026-04-01T14:12:17] Fix edge case in URL parsing and validation
 - [2026-04-01T19:45:36] Update schema migration helpers
+- [2026-04-01T22:43:08] Improve logging and health endpoint metrics
