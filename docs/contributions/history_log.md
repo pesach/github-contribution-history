@@ -3674,3 +3674,4 @@
 - [2026-04-02T17:24:36] Fix edge case in URL parsing and validation
 - [2026-04-02T20:06:22] Add retries for transient network drops
 - [2026-04-02T14:33:48] Add error handling for yt-dlp rate limits
+- [2026-04-02T09:36:38] Update documentation and architectural guides
