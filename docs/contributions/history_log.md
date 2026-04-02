@@ -2547,3 +2547,4 @@
 - [2026-04-02T17:58:23] Refactor cookie refresher probe logic
 - [2026-04-02T17:19:02] Refactor cookie refresher probe logic
 - [2026-04-02T17:33:54] Update dependency lockfiles and requirements
+- [2026-04-02T18:32:01] Fix edge case in URL parsing and validation
