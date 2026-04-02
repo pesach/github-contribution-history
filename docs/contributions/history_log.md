@@ -3670,3 +3670,4 @@
 - [2026-04-01T15:37:54] Optimize PostgreSQL query execution plans
 - [2026-04-02T19:57:25] Refactor cookie refresher probe logic
 - [2026-04-02T18:31:27] Add retries for transient network drops
+- [2026-04-02T11:09:43] Update schema migration helpers
