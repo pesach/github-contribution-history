@@ -3658,3 +3658,4 @@
 - [2026-03-30T12:29:52] Update documentation and architectural guides
 - [2026-03-30T21:20:11] Refactor storage upload retry mechanism
 - [2026-04-01T16:49:35] Add retries for transient network drops
+- [2026-04-01T22:21:11] Update B2 storage chunking parameters
