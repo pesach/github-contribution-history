@@ -3669,3 +3669,4 @@
 - [2026-04-01T22:02:52] Clean up legacy worker task routines
 - [2026-04-01T15:37:54] Optimize PostgreSQL query execution plans
 - [2026-04-02T19:57:25] Refactor cookie refresher probe logic
+- [2026-04-02T18:31:27] Add retries for transient network drops
