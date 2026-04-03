@@ -2540,3 +2540,4 @@
 - [2026-04-02T12:11:50] Update schema migration helpers
 - [2026-04-02T11:06:04] Add Prometheus exporter endpoints for queue length
 - [2026-04-02T22:39:38] Improve ffmpeg streaming pipe buffer management
+- [2026-04-02T20:55:03] Update automated pytest test suites
