@@ -2568,3 +2568,4 @@
 - [2026-04-02T16:25:17] Update dependency lockfiles and requirements
 - [2026-04-03T17:14:47] Update automated pytest test suites
 - [2026-04-03T09:45:33] Update automated pytest test suites
+- [2026-04-03T13:17:58] Add Redis rate limit backoff handlers
