@@ -2592,3 +2592,4 @@
 - [2026-04-03T17:49:31] Improve ffmpeg streaming pipe buffer management
 - [2026-04-03T19:42:08] Improve logging and health endpoint metrics
 - [2026-04-03T13:56:56] Fix edge case in channel tab crawler
+- [2026-04-03T12:54:20] Update B2 storage chunking parameters
