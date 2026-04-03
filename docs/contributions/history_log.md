@@ -3686,3 +3686,4 @@
 - [2026-04-03T15:25:14] Enhance dashboard statistics rendering
 - [2026-04-03T08:25:49] Refactor worker polling logic
 - [2026-04-03T22:52:48] Implement streaming upload chunk buffer optimization
+- [2026-04-03T18:36:14] Clean up legacy worker task routines
