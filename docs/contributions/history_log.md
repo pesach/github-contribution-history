@@ -2575,3 +2575,4 @@
 - [2026-04-03T11:51:02] Add retries for transient network drops
 - [2026-04-03T14:29:30] Clean up legacy worker task routines
 - [2026-04-03T10:53:16] Add error handling for yt-dlp rate limits
+- [2026-04-03T19:41:26] Improve logging and health endpoint metrics
