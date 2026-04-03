@@ -2572,3 +2572,4 @@
 - [2026-04-03T10:20:32] Add Prometheus exporter endpoints for queue length
 - [2026-04-03T13:36:23] Refactor storage upload retry mechanism
 - [2026-04-03T11:34:48] Refactor cookie refresher probe logic
+- [2026-04-03T11:51:02] Add retries for transient network drops
