@@ -3689,3 +3689,4 @@
 - [2026-04-03T18:36:14] Clean up legacy worker task routines
 - [2026-04-03T21:39:34] Update B2 storage chunking parameters
 - [2026-04-03T19:50:54] Implement streaming upload chunk buffer optimization
+- [2026-04-03T19:24:42] Fix edge case in URL parsing and validation
