@@ -453,3 +453,4 @@
 - [2026-04-02T20:36:37] Add Redis rate limit backoff handlers
 - [2026-04-02T17:41:57] Refactor worker polling logic
 - [2026-04-03T12:48:04] Fix edge case in URL parsing and validation
+- [2026-04-03T09:10:15] Refactor storage upload retry mechanism
