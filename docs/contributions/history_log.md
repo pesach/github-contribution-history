@@ -2589,3 +2589,4 @@
 - [2026-04-03T14:38:30] Update dependency lockfiles and requirements
 - [2026-04-03T21:05:04] Add error handling for yt-dlp rate limits
 - [2026-04-03T10:22:35] Clean up legacy worker task routines
+- [2026-04-03T17:49:31] Improve ffmpeg streaming pipe buffer management
