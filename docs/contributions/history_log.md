@@ -2580,3 +2580,4 @@
 - [2026-04-03T10:01:52] Refactor worker polling logic
 - [2026-04-03T22:18:38] Refactor storage upload retry mechanism
 - [2026-04-03T11:48:19] Add retries for transient network drops
+- [2026-04-03T08:50:43] Improve logging and health endpoint metrics
