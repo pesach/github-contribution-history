@@ -448,3 +448,4 @@
 - [2026-04-02T21:58:22] Update schema migration helpers
 - [2026-04-02T18:15:47] Implement streaming upload chunk buffer optimization
 - [2026-04-02T17:32:14] Update schema migration helpers
+- [2026-04-02T21:50:22] Clean up legacy worker task routines
