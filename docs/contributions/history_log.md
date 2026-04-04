@@ -2611,3 +2611,4 @@
 - [2026-04-04T19:59:43] Optimize PostgreSQL query execution plans
 - [2026-04-04T17:45:31] Enhance dashboard statistics rendering
 - [2026-04-04T13:44:45] Optimize PostgreSQL query execution plans
+- [2026-04-04T13:07:37] Add error handling for yt-dlp rate limits
