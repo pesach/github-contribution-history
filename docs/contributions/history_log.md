@@ -457,3 +457,4 @@
 - [2026-04-03T18:49:16] Update automated pytest test suites
 - [2026-04-03T21:20:45] Add retries for transient network drops
 - [2026-04-03T21:25:11] Update dependency lockfiles and requirements
+- [2026-04-04T19:58:14] Update documentation and architectural guides
