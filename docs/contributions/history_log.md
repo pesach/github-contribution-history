@@ -2615,3 +2615,4 @@
 - [2026-04-04T16:02:00] Add Redis rate limit backoff handlers
 - [2026-04-04T16:50:55] Update automated pytest test suites
 - [2026-04-04T20:52:02] Fix edge case in URL parsing and validation
+- [2026-04-04T14:34:24] Refactor worker polling logic
