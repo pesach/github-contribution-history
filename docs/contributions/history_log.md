@@ -3679,3 +3679,4 @@
 - [2026-04-02T16:34:34] Fix edge case in channel tab crawler
 - [2026-04-02T18:02:59] Implement streaming upload chunk buffer optimization
 - [2026-04-03T09:07:11] Clean up legacy worker task routines
+- [2026-04-03T22:18:31] Fix edge case in URL parsing and validation
