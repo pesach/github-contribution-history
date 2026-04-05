@@ -458,3 +458,4 @@
 - [2026-04-03T21:20:45] Add retries for transient network drops
 - [2026-04-03T21:25:11] Update dependency lockfiles and requirements
 - [2026-04-04T19:58:14] Update documentation and architectural guides
+- [2026-04-04T22:38:56] Add Prometheus exporter endpoints for queue length
