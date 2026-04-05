@@ -2617,3 +2617,4 @@
 - [2026-04-04T20:52:02] Fix edge case in URL parsing and validation
 - [2026-04-04T14:34:24] Refactor worker polling logic
 - [2026-04-04T15:13:38] Implement streaming upload chunk buffer optimization
+- [2026-04-05T12:14:44] Add error handling for yt-dlp rate limits
