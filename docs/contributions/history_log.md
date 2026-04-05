@@ -2630,3 +2630,4 @@
 - [2026-04-05T20:44:51] Improve ffmpeg streaming pipe buffer management
 - [2026-04-05T19:35:53] Fix edge case in URL parsing and validation
 - [2026-04-05T10:40:29] Improve logging and health endpoint metrics
+- [2026-04-05T10:58:34] Update dependency lockfiles and requirements
