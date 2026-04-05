@@ -2614,3 +2614,4 @@
 - [2026-04-04T13:07:37] Add error handling for yt-dlp rate limits
 - [2026-04-04T16:02:00] Add Redis rate limit backoff handlers
 - [2026-04-04T16:50:55] Update automated pytest test suites
+- [2026-04-04T20:52:02] Fix edge case in URL parsing and validation
