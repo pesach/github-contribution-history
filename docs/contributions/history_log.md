@@ -3695,3 +3695,4 @@
 - [2026-04-06T18:10:48] Add Redis rate limit backoff handlers
 - [2026-04-06T18:15:09] Refactor worker polling logic
 - [2026-04-06T22:57:18] Clean up legacy worker task routines
+- [2026-04-06T14:30:16] Add retries for transient network drops
