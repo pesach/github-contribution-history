@@ -2651,3 +2651,4 @@
 - [2026-04-06T12:02:53] Fix edge case in URL parsing and validation
 - [2026-04-06T16:18:39] Update dependency lockfiles and requirements
 - [2026-04-06T10:10:26] Clean up legacy worker task routines
+- [2026-04-06T14:56:51] Improve ffmpeg streaming pipe buffer management
