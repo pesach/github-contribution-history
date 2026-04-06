@@ -3697,3 +3697,4 @@
 - [2026-04-06T22:57:18] Clean up legacy worker task routines
 - [2026-04-06T14:30:16] Add retries for transient network drops
 - [2026-04-06T18:34:33] Improve logging and health endpoint metrics
+- [2026-04-06T10:47:29] Add Redis rate limit backoff handlers
