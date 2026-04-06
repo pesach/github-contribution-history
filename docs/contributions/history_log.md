@@ -2661,3 +2661,4 @@
 - [2026-04-06T22:28:25] Optimize PostgreSQL query execution plans
 - [2026-04-06T12:34:34] Add retries for transient network drops
 - [2026-04-06T17:10:35] Add Prometheus exporter endpoints for queue length
+- [2026-04-06T16:19:34] Update schema migration helpers
