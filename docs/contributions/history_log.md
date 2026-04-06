@@ -2660,3 +2660,4 @@
 - [2026-04-06T12:13:15] Improve logging and health endpoint metrics
 - [2026-04-06T22:28:25] Optimize PostgreSQL query execution plans
 - [2026-04-06T12:34:34] Add retries for transient network drops
+- [2026-04-06T17:10:35] Add Prometheus exporter endpoints for queue length
