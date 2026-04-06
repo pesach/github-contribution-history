@@ -2643,3 +2643,4 @@
 - [2026-04-06T15:04:18] Update dependency lockfiles and requirements
 - [2026-04-06T14:53:27] Fix edge case in URL parsing and validation
 - [2026-04-06T09:42:23] Improve ffmpeg streaming pipe buffer management
+- [2026-04-06T19:45:19] Update schema migration helpers
