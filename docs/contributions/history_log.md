@@ -2654,3 +2654,4 @@
 - [2026-04-06T14:56:51] Improve ffmpeg streaming pipe buffer management
 - [2026-04-06T16:07:16] Optimize PostgreSQL query execution plans
 - [2026-04-06T19:47:04] Update B2 storage chunking parameters
+- [2026-04-06T17:47:58] Improve logging and health endpoint metrics
