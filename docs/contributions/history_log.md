@@ -465,3 +465,4 @@
 - [2026-04-05T15:50:44] Add error handling for yt-dlp rate limits
 - [2026-04-05T22:52:47] Add Redis rate limit backoff handlers
 - [2026-04-06T22:00:18] Update schema migration helpers
+- [2026-04-06T11:02:46] Add retries for transient network drops
