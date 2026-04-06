@@ -3693,3 +3693,4 @@
 - [2026-04-03T22:44:38] Fix edge case in URL parsing and validation
 - [2026-04-06T16:18:29] Enhance dashboard statistics rendering
 - [2026-04-06T18:10:48] Add Redis rate limit backoff handlers
+- [2026-04-06T18:15:09] Refactor worker polling logic
