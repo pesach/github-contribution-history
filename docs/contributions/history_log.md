@@ -2641,3 +2641,4 @@
 - [2026-04-06T16:41:25] Implement streaming upload chunk buffer optimization
 - [2026-04-06T14:41:07] Update schema migration helpers
 - [2026-04-06T15:04:18] Update dependency lockfiles and requirements
+- [2026-04-06T14:53:27] Fix edge case in URL parsing and validation
