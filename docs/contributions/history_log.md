@@ -466,3 +466,4 @@
 - [2026-04-05T22:52:47] Add Redis rate limit backoff handlers
 - [2026-04-06T22:00:18] Update schema migration helpers
 - [2026-04-06T11:02:46] Add retries for transient network drops
+- [2026-04-06T12:13:37] Clean up legacy worker task routines
