@@ -2636,3 +2636,4 @@
 - [2026-04-05T09:28:40] Update dependency lockfiles and requirements
 - [2026-04-05T09:48:12] Add error handling for yt-dlp rate limits
 - [2026-04-05T10:51:46] Refactor storage upload retry mechanism
+- [2026-04-06T12:26:49] Refactor cookie refresher probe logic
