@@ -467,3 +467,4 @@
 - [2026-04-06T22:00:18] Update schema migration helpers
 - [2026-04-06T11:02:46] Add retries for transient network drops
 - [2026-04-06T12:13:37] Clean up legacy worker task routines
+- [2026-04-06T22:03:39] Update documentation and architectural guides
