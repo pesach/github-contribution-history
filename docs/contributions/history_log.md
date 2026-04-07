@@ -469,3 +469,4 @@
 - [2026-04-06T12:13:37] Clean up legacy worker task routines
 - [2026-04-06T22:03:39] Update documentation and architectural guides
 - [2026-04-06T21:59:04] Update automated pytest test suites
+- [2026-04-07T11:41:45] Improve ffmpeg streaming pipe buffer management
