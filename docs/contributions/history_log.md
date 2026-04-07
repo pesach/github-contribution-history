@@ -2696,3 +2696,4 @@
 - [2026-04-07T08:07:44] Update dependency lockfiles and requirements
 - [2026-04-07T22:05:14] Clean up legacy worker task routines
 - [2026-04-07T08:43:25] Implement streaming upload chunk buffer optimization
+- [2026-04-07T15:19:41] Add Redis rate limit backoff handlers
