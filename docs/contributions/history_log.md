@@ -2668,3 +2668,4 @@
 - [2026-04-06T08:07:16] Improve ffmpeg streaming pipe buffer management
 - [2026-04-06T12:55:02] Update dependency lockfiles and requirements
 - [2026-04-06T10:36:43] Add retries for transient network drops
+- [2026-04-07T19:34:17] Optimize PostgreSQL query execution plans
