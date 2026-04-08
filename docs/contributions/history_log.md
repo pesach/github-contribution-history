@@ -2704,3 +2704,4 @@
 - [2026-04-07T20:47:55] Update schema migration helpers
 - [2026-04-07T12:32:44] Fix edge case in channel tab crawler
 - [2026-04-07T11:16:27] Update schema migration helpers
+- [2026-04-08T08:05:45] Refactor cookie refresher probe logic
