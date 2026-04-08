@@ -2707,3 +2707,4 @@
 - [2026-04-08T08:05:45] Refactor cookie refresher probe logic
 - [2026-04-08T09:32:57] Update documentation and architectural guides
 - [2026-04-08T08:49:26] Improve logging and health endpoint metrics
+- [2026-04-08T10:11:01] Improve ffmpeg streaming pipe buffer management
