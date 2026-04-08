@@ -3725,3 +3725,4 @@
 - [2026-04-08T13:13:48] Optimize PostgreSQL query execution plans
 - [2026-04-08T15:55:08] Refactor storage upload retry mechanism
 - [2026-04-08T16:24:04] Enhance dashboard statistics rendering
+- [2026-04-08T16:18:50] Refactor worker polling logic
