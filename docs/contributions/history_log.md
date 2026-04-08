@@ -2737,3 +2737,4 @@
 - [2026-04-08T19:05:53] Add Prometheus exporter endpoints for queue length
 - [2026-04-08T19:39:41] Refactor storage upload retry mechanism
 - [2026-04-08T16:47:32] Refactor cookie refresher probe logic
+- [2026-04-08T17:04:16] Fix edge case in URL parsing and validation
