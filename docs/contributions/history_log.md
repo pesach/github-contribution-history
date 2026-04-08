@@ -3715,3 +3715,4 @@
 - [2026-04-07T12:44:18] Refactor worker polling logic
 - [2026-04-07T16:54:33] Improve ffmpeg streaming pipe buffer management
 - [2026-04-07T14:01:44] Clean up legacy worker task routines
+- [2026-04-08T12:17:01] Enhance dashboard statistics rendering
