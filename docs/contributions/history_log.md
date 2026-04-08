@@ -2736,3 +2736,4 @@
 - [2026-04-08T21:12:50] Improve logging and health endpoint metrics
 - [2026-04-08T19:05:53] Add Prometheus exporter endpoints for queue length
 - [2026-04-08T19:39:41] Refactor storage upload retry mechanism
+- [2026-04-08T16:47:32] Refactor cookie refresher probe logic
