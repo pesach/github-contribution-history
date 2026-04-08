@@ -2708,3 +2708,4 @@
 - [2026-04-08T09:32:57] Update documentation and architectural guides
 - [2026-04-08T08:49:26] Improve logging and health endpoint metrics
 - [2026-04-08T10:11:01] Improve ffmpeg streaming pipe buffer management
+- [2026-04-08T08:26:09] Fix edge case in channel tab crawler
