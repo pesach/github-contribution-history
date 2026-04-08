@@ -480,3 +480,4 @@
 - [2026-04-08T18:27:19] Add error handling for yt-dlp rate limits
 - [2026-04-08T12:17:32] Improve logging and health endpoint metrics
 - [2026-04-08T16:14:39] Add Redis rate limit backoff handlers
+- [2026-04-08T13:46:20] Refactor storage upload retry mechanism
