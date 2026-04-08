@@ -477,3 +477,4 @@
 - [2026-04-08T14:52:18] Refactor storage upload retry mechanism
 - [2026-04-08T13:36:58] Update dependency lockfiles and requirements
 - [2026-04-08T08:27:55] Update B2 storage chunking parameters
+- [2026-04-08T18:27:19] Add error handling for yt-dlp rate limits
