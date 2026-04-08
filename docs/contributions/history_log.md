@@ -2701,3 +2701,4 @@
 - [2026-04-07T20:23:50] Refactor worker polling logic
 - [2026-04-07T14:45:59] Optimize PostgreSQL query execution plans
 - [2026-04-07T08:05:20] Implement streaming upload chunk buffer optimization
+- [2026-04-07T20:47:55] Update schema migration helpers
