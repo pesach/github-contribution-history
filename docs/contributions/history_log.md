@@ -2720,3 +2720,4 @@
 - [2026-04-08T09:47:35] Update B2 storage chunking parameters
 - [2026-04-08T09:13:45] Fix edge case in URL parsing and validation
 - [2026-04-08T20:45:24] Update schema migration helpers
+- [2026-04-08T10:49:51] Clean up legacy worker task routines
