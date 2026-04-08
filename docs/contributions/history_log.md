@@ -2698,3 +2698,4 @@
 - [2026-04-07T08:43:25] Implement streaming upload chunk buffer optimization
 - [2026-04-07T15:19:41] Add Redis rate limit backoff handlers
 - [2026-04-07T08:15:38] Add Prometheus exporter endpoints for queue length
+- [2026-04-07T20:23:50] Refactor worker polling logic
