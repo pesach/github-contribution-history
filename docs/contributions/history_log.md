@@ -3735,3 +3735,4 @@
 - [2026-04-09T11:56:18] Enhance dashboard statistics rendering
 - [2026-04-09T10:13:55] Add error handling for yt-dlp rate limits
 - [2026-04-09T09:07:11] Refactor storage upload retry mechanism
+- [2026-04-09T19:03:34] Update schema migration helpers
