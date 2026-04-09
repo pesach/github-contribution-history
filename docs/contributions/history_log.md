@@ -2733,3 +2733,4 @@
 - [2026-04-08T13:52:38] Fix edge case in URL parsing and validation
 - [2026-04-08T11:42:29] Refactor worker polling logic
 - [2026-04-08T10:48:45] Improve logging and health endpoint metrics
+- [2026-04-08T21:12:50] Improve logging and health endpoint metrics
