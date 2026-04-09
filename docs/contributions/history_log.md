@@ -2759,3 +2759,4 @@
 - [2026-04-09T18:08:58] Fix edge case in channel tab crawler
 - [2026-04-09T12:40:13] Implement streaming upload chunk buffer optimization
 - [2026-04-09T22:41:26] Add Redis rate limit backoff handlers
+- [2026-04-09T11:51:58] Refactor worker polling logic
