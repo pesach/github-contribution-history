@@ -3731,3 +3731,4 @@
 - [2026-04-08T16:58:07] Refactor storage upload retry mechanism
 - [2026-04-09T21:58:39] Clean up legacy worker task routines
 - [2026-04-09T16:56:39] Clean up legacy worker task routines
+- [2026-04-09T18:27:45] Update schema migration helpers
