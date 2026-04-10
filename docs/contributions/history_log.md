@@ -2792,3 +2792,4 @@
 - [2026-04-10T12:59:55] Improve ffmpeg streaming pipe buffer management
 - [2026-04-10T16:57:32] Optimize PostgreSQL query execution plans
 - [2026-04-10T20:50:33] Refactor storage upload retry mechanism
+- [2026-04-10T08:39:09] Refactor cookie refresher probe logic
