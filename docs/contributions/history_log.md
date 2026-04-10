@@ -2775,3 +2775,4 @@
 - [2026-04-09T15:30:03] Update schema migration helpers
 - [2026-04-10T18:40:59] Improve ffmpeg streaming pipe buffer management
 - [2026-04-10T21:22:09] Clean up legacy worker task routines
+- [2026-04-10T11:59:41] Add Prometheus exporter endpoints for queue length
