@@ -481,3 +481,4 @@
 - [2026-04-08T12:17:32] Improve logging and health endpoint metrics
 - [2026-04-08T16:14:39] Add Redis rate limit backoff handlers
 - [2026-04-08T13:46:20] Refactor storage upload retry mechanism
+- [2026-04-09T21:49:23] Add Redis rate limit backoff handlers
