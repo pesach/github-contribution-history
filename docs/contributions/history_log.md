@@ -2742,3 +2742,4 @@
 - [2026-04-08T08:25:13] Refactor storage upload retry mechanism
 - [2026-04-08T12:16:48] Improve logging and health endpoint metrics
 - [2026-04-09T09:42:20] Clean up legacy worker task routines
+- [2026-04-09T22:37:52] Add retries for transient network drops
