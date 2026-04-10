@@ -2763,3 +2763,4 @@
 - [2026-04-09T19:08:57] Update automated pytest test suites
 - [2026-04-09T12:20:18] Clean up legacy worker task routines
 - [2026-04-09T14:44:44] Add Redis rate limit backoff handlers
+- [2026-04-09T21:07:44] Enhance dashboard statistics rendering
