@@ -2789,3 +2789,4 @@
 - [2026-04-10T21:24:59] Enhance dashboard statistics rendering
 - [2026-04-10T14:39:46] Add Redis rate limit backoff handlers
 - [2026-04-10T14:01:01] Clean up legacy worker task routines
+- [2026-04-10T12:59:55] Improve ffmpeg streaming pipe buffer management
