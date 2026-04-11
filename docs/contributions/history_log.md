@@ -2781,3 +2781,4 @@
 - [2026-04-10T20:37:34] Implement streaming upload chunk buffer optimization
 - [2026-04-10T13:28:09] Add Prometheus exporter endpoints for queue length
 - [2026-04-10T17:19:52] Enhance dashboard statistics rendering
+- [2026-04-10T21:15:51] Update B2 storage chunking parameters
