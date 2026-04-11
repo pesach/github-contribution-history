@@ -495,3 +495,4 @@
 - [2026-04-10T18:49:43] Add Redis rate limit backoff handlers
 - [2026-04-10T22:17:53] Update dependency lockfiles and requirements
 - [2026-04-11T10:44:44] Fix edge case in channel tab crawler
+- [2026-04-11T19:03:32] Update documentation and architectural guides
