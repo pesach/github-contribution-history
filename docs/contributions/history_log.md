@@ -2809,3 +2809,4 @@
 - [2026-04-10T20:38:26] Fix edge case in URL parsing and validation
 - [2026-04-10T11:10:18] Clean up legacy worker task routines
 - [2026-04-11T12:35:37] Enhance dashboard statistics rendering
+- [2026-04-11T10:24:29] Refactor storage upload retry mechanism
