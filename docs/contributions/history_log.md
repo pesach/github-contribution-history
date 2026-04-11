@@ -2813,3 +2813,4 @@
 - [2026-04-11T20:29:04] Update documentation and architectural guides
 - [2026-04-11T12:47:57] Optimize PostgreSQL query execution plans
 - [2026-04-11T15:29:24] Optimize PostgreSQL query execution plans
+- [2026-04-11T14:22:45] Improve ffmpeg streaming pipe buffer management
