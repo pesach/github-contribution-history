@@ -2833,3 +2833,4 @@
 - [2026-04-13T11:56:37] Refactor worker polling logic
 - [2026-04-13T14:56:18] Fix edge case in URL parsing and validation
 - [2026-04-13T19:42:44] Update B2 storage chunking parameters
+- [2026-04-13T11:46:30] Add Prometheus exporter endpoints for queue length
