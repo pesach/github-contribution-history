@@ -2837,3 +2837,4 @@
 - [2026-04-13T20:19:56] Update schema migration helpers
 - [2026-04-13T22:29:32] Improve logging and health endpoint metrics
 - [2026-04-13T14:48:38] Improve ffmpeg streaming pipe buffer management
+- [2026-04-13T15:50:53] Enhance dashboard statistics rendering
