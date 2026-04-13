@@ -2828,3 +2828,4 @@
 - [2026-04-13T17:14:24] Fix edge case in channel tab crawler
 - [2026-04-13T12:03:23] Update dependency lockfiles and requirements
 - [2026-04-13T21:35:56] Add Prometheus exporter endpoints for queue length
+- [2026-04-13T12:09:03] Fix edge case in URL parsing and validation
