@@ -2853,3 +2853,4 @@
 - [2026-04-13T12:02:05] Fix edge case in channel tab crawler
 - [2026-04-13T17:53:38] Implement streaming upload chunk buffer optimization
 - [2026-04-13T10:52:29] Update automated pytest test suites
+- [2026-04-13T09:55:59] Update schema migration helpers
