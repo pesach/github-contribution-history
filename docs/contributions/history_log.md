@@ -498,3 +498,4 @@
 - [2026-04-11T19:03:32] Update documentation and architectural guides
 - [2026-04-11T09:14:48] Update automated pytest test suites
 - [2026-04-11T16:16:24] Add retries for transient network drops
+- [2026-04-12T20:29:42] Fix edge case in URL parsing and validation
