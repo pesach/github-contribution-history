@@ -2840,3 +2840,4 @@
 - [2026-04-13T15:50:53] Enhance dashboard statistics rendering
 - [2026-04-13T19:08:42] Add Prometheus exporter endpoints for queue length
 - [2026-04-13T20:23:53] Refactor cookie refresher probe logic
+- [2026-04-13T09:21:52] Refactor worker polling logic
