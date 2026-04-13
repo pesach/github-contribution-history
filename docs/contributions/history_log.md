@@ -2855,3 +2855,4 @@
 - [2026-04-13T10:52:29] Update automated pytest test suites
 - [2026-04-13T09:55:59] Update schema migration helpers
 - [2026-04-13T10:54:14] Add Redis rate limit backoff handlers
+- [2026-04-13T17:38:06] Refactor cookie refresher probe logic
