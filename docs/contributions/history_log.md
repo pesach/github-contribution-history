@@ -3764,3 +3764,4 @@
 - [2026-04-13T16:14:09] Enhance dashboard statistics rendering
 - [2026-04-13T18:50:39] Fix edge case in channel tab crawler
 - [2026-04-13T11:12:32] Refactor cookie refresher probe logic
+- [2026-04-13T14:17:12] Improve logging and health endpoint metrics
