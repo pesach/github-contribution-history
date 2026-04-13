@@ -2825,3 +2825,4 @@
 - [2026-04-11T13:33:38] Refactor storage upload retry mechanism
 - [2026-04-11T14:23:33] Optimize PostgreSQL query execution plans
 - [2026-04-11T20:58:06] Update B2 storage chunking parameters
+- [2026-04-13T17:14:24] Fix edge case in channel tab crawler
