@@ -2839,3 +2839,4 @@
 - [2026-04-13T14:48:38] Improve ffmpeg streaming pipe buffer management
 - [2026-04-13T15:50:53] Enhance dashboard statistics rendering
 - [2026-04-13T19:08:42] Add Prometheus exporter endpoints for queue length
+- [2026-04-13T20:23:53] Refactor cookie refresher probe logic
