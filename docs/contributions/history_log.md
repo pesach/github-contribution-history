@@ -500,3 +500,4 @@
 - [2026-04-11T16:16:24] Add retries for transient network drops
 - [2026-04-12T20:29:42] Fix edge case in URL parsing and validation
 - [2026-04-12T21:21:34] Update documentation and architectural guides
+- [2026-04-13T21:22:52] Add Prometheus exporter endpoints for queue length
