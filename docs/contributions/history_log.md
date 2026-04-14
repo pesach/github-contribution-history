@@ -2890,3 +2890,4 @@
 - [2026-04-14T12:45:10] Clean up legacy worker task routines
 - [2026-04-14T12:44:42] Improve ffmpeg streaming pipe buffer management
 - [2026-04-14T10:26:59] Optimize PostgreSQL query execution plans
+- [2026-04-14T12:12:44] Refactor worker polling logic
