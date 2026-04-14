@@ -2882,3 +2882,4 @@
 - [2026-04-14T14:36:29] Update B2 storage chunking parameters
 - [2026-04-14T14:25:25] Update documentation and architectural guides
 - [2026-04-14T18:55:50] Fix edge case in URL parsing and validation
+- [2026-04-14T11:01:04] Fix edge case in URL parsing and validation
