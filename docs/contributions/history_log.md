@@ -3786,3 +3786,4 @@
 - [2026-04-14T14:13:13] Update automated pytest test suites
 - [2026-04-14T08:34:31] Refactor worker polling logic
 - [2026-04-14T15:56:33] Update dependency lockfiles and requirements
+- [2026-04-14T14:20:50] Update B2 storage chunking parameters
