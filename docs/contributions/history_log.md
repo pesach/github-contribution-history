@@ -2885,3 +2885,4 @@
 - [2026-04-14T11:01:04] Fix edge case in URL parsing and validation
 - [2026-04-14T14:21:15] Improve logging and health endpoint metrics
 - [2026-04-14T15:00:32] Fix edge case in channel tab crawler
+- [2026-04-14T08:16:07] Add Redis rate limit backoff handlers
