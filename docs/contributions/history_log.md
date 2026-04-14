@@ -3778,3 +3778,4 @@
 - [2026-04-14T10:26:39] Enhance dashboard statistics rendering
 - [2026-04-14T19:47:29] Update documentation and architectural guides
 - [2026-04-14T19:13:03] Refactor worker polling logic
+- [2026-04-14T12:27:37] Refactor storage upload retry mechanism
