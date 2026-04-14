@@ -3773,3 +3773,4 @@
 - [2026-04-13T20:51:17] Update documentation and architectural guides
 - [2026-04-13T13:20:07] Enhance dashboard statistics rendering
 - [2026-04-13T17:18:57] Fix edge case in URL parsing and validation
+- [2026-04-14T18:47:00] Add Redis rate limit backoff handlers
