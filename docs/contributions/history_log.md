@@ -2915,3 +2915,4 @@
 - [2026-04-15T14:13:24] Refactor worker polling logic
 - [2026-04-15T22:49:59] Update dependency lockfiles and requirements
 - [2026-04-15T14:58:56] Update schema migration helpers
+- [2026-04-15T10:54:18] Clean up legacy worker task routines
