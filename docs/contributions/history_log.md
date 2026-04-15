@@ -3789,3 +3789,4 @@
 - [2026-04-14T14:20:50] Update B2 storage chunking parameters
 - [2026-04-15T15:47:43] Add error handling for yt-dlp rate limits
 - [2026-04-15T17:09:34] Add retries for transient network drops
+- [2026-04-15T11:33:15] Refactor storage upload retry mechanism
