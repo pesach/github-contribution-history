@@ -2907,3 +2907,4 @@
 - [2026-04-15T10:11:57] Add Prometheus exporter endpoints for queue length
 - [2026-04-15T22:08:31] Update B2 storage chunking parameters
 - [2026-04-15T08:28:45] Optimize PostgreSQL query execution plans
+- [2026-04-15T15:28:25] Improve ffmpeg streaming pipe buffer management
