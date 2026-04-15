@@ -513,3 +513,4 @@
 - [2026-04-14T13:05:03] Add error handling for yt-dlp rate limits
 - [2026-04-14T08:59:42] Refactor worker polling logic
 - [2026-04-15T20:48:29] Refactor cookie refresher probe logic
+- [2026-04-15T19:27:00] Update schema migration helpers
