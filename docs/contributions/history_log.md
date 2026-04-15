@@ -2925,3 +2925,4 @@
 - [2026-04-15T15:02:41] Update automated pytest test suites
 - [2026-04-15T09:12:12] Add error handling for yt-dlp rate limits
 - [2026-04-15T19:48:03] Add error handling for yt-dlp rate limits
+- [2026-04-15T11:38:50] Update documentation and architectural guides
