@@ -514,3 +514,4 @@
 - [2026-04-14T08:59:42] Refactor worker polling logic
 - [2026-04-15T20:48:29] Refactor cookie refresher probe logic
 - [2026-04-15T19:27:00] Update schema migration helpers
+- [2026-04-15T12:11:34] Refactor worker polling logic
