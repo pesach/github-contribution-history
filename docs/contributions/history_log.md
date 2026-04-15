@@ -2903,3 +2903,4 @@
 - [2026-04-15T17:39:42] Add retries for transient network drops
 - [2026-04-15T17:14:48] Refactor worker polling logic
 - [2026-04-15T19:31:17] Improve logging and health endpoint metrics
+- [2026-04-15T16:08:40] Add Prometheus exporter endpoints for queue length
