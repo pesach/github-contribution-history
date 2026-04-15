@@ -3788,3 +3788,4 @@
 - [2026-04-14T15:56:33] Update dependency lockfiles and requirements
 - [2026-04-14T14:20:50] Update B2 storage chunking parameters
 - [2026-04-15T15:47:43] Add error handling for yt-dlp rate limits
+- [2026-04-15T17:09:34] Add retries for transient network drops
