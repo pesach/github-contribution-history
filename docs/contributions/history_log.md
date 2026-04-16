@@ -2943,3 +2943,4 @@
 - [2026-04-16T09:23:59] Improve ffmpeg streaming pipe buffer management
 - [2026-04-16T17:46:41] Add error handling for yt-dlp rate limits
 - [2026-04-16T16:42:12] Update schema migration helpers
+- [2026-04-16T16:11:17] Update automated pytest test suites
