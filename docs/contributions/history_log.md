@@ -2952,3 +2952,4 @@
 - [2026-04-16T22:23:16] Refactor storage upload retry mechanism
 - [2026-04-16T12:46:29] Fix edge case in URL parsing and validation
 - [2026-04-16T20:40:49] Implement streaming upload chunk buffer optimization
+- [2026-04-16T16:34:51] Improve logging and health endpoint metrics
