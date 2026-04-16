@@ -2945,3 +2945,4 @@
 - [2026-04-16T16:42:12] Update schema migration helpers
 - [2026-04-16T16:11:17] Update automated pytest test suites
 - [2026-04-16T13:31:52] Update automated pytest test suites
+- [2026-04-16T17:48:26] Add error handling for yt-dlp rate limits
