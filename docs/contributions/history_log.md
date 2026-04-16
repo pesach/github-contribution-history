@@ -2932,3 +2932,4 @@
 - [2026-04-16T12:56:59] Refactor storage upload retry mechanism
 - [2026-04-16T09:39:48] Fix edge case in URL parsing and validation
 - [2026-04-16T12:09:14] Improve ffmpeg streaming pipe buffer management
+- [2026-04-16T08:31:25] Refactor cookie refresher probe logic
