@@ -2928,3 +2928,4 @@
 - [2026-04-15T11:38:50] Update documentation and architectural guides
 - [2026-04-16T20:10:34] Update automated pytest test suites
 - [2026-04-16T15:32:48] Refactor storage upload retry mechanism
+- [2026-04-16T17:45:05] Update schema migration helpers
