@@ -2941,3 +2941,4 @@
 - [2026-04-16T15:53:21] Refactor storage upload retry mechanism
 - [2026-04-16T21:53:16] Improve logging and health endpoint metrics
 - [2026-04-16T09:23:59] Improve ffmpeg streaming pipe buffer management
+- [2026-04-16T17:46:41] Add error handling for yt-dlp rate limits
