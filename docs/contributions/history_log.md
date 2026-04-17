@@ -2977,3 +2977,4 @@
 - [2026-04-17T22:13:39] Optimize PostgreSQL query execution plans
 - [2026-04-17T18:00:29] Fix edge case in URL parsing and validation
 - [2026-04-17T11:14:35] Add error handling for yt-dlp rate limits
+- [2026-04-17T13:21:59] Add Prometheus exporter endpoints for queue length
