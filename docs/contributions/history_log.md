@@ -2962,3 +2962,4 @@
 - [2026-04-17T09:52:04] Update dependency lockfiles and requirements
 - [2026-04-17T10:51:13] Update B2 storage chunking parameters
 - [2026-04-17T11:05:21] Update automated pytest test suites
+- [2026-04-17T10:21:14] Add error handling for yt-dlp rate limits
