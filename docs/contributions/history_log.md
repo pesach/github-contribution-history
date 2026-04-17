@@ -3806,3 +3806,4 @@
 - [2026-04-17T22:25:48] Refactor storage upload retry mechanism
 - [2026-04-17T15:57:04] Add retries for transient network drops
 - [2026-04-17T20:49:05] Refactor cookie refresher probe logic
+- [2026-04-17T17:57:03] Update documentation and architectural guides
