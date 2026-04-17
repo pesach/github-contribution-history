@@ -2992,3 +2992,4 @@
 - [2026-04-17T18:55:51] Add retries for transient network drops
 - [2026-04-17T16:10:27] Enhance dashboard statistics rendering
 - [2026-04-17T17:19:05] Add error handling for yt-dlp rate limits
+- [2026-04-17T13:28:58] Improve logging and health endpoint metrics
