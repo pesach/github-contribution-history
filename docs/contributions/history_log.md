@@ -2960,3 +2960,4 @@
 - [2026-04-16T08:11:46] Improve logging and health endpoint metrics
 - [2026-04-17T18:09:05] Refactor worker polling logic
 - [2026-04-17T09:52:04] Update dependency lockfiles and requirements
+- [2026-04-17T10:51:13] Update B2 storage chunking parameters
