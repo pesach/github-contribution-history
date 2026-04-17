@@ -2949,3 +2949,4 @@
 - [2026-04-16T18:00:09] Update dependency lockfiles and requirements
 - [2026-04-16T13:28:28] Fix edge case in channel tab crawler
 - [2026-04-16T13:29:56] Fix edge case in channel tab crawler
+- [2026-04-16T22:23:16] Refactor storage upload retry mechanism
