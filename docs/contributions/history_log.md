@@ -2971,3 +2971,4 @@
 - [2026-04-17T21:56:11] Update automated pytest test suites
 - [2026-04-17T13:32:35] Refactor worker polling logic
 - [2026-04-17T13:36:14] Refactor storage upload retry mechanism
+- [2026-04-17T18:07:40] Improve ffmpeg streaming pipe buffer management
