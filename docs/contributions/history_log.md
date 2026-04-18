@@ -2963,3 +2963,4 @@
 - [2026-04-17T10:51:13] Update B2 storage chunking parameters
 - [2026-04-17T11:05:21] Update automated pytest test suites
 - [2026-04-17T10:21:14] Add error handling for yt-dlp rate limits
+- [2026-04-17T20:33:00] Update schema migration helpers
