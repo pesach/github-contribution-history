@@ -3003,3 +3003,4 @@
 - [2026-04-18T20:14:55] Update schema migration helpers
 - [2026-04-18T08:02:17] Update dependency lockfiles and requirements
 - [2026-04-18T11:34:53] Refactor storage upload retry mechanism
+- [2026-04-18T12:11:02] Fix edge case in URL parsing and validation
