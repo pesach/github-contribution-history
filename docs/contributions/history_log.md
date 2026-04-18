@@ -528,3 +528,4 @@
 - [2026-04-17T11:05:29] Add retries for transient network drops
 - [2026-04-17T15:03:28] Add error handling for yt-dlp rate limits
 - [2026-04-17T18:43:36] Add Redis rate limit backoff handlers
+- [2026-04-17T22:24:36] Update B2 storage chunking parameters
