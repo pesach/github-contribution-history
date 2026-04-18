@@ -2981,3 +2981,4 @@
 - [2026-04-17T15:26:17] Add error handling for yt-dlp rate limits
 - [2026-04-17T12:54:49] Update schema migration helpers
 - [2026-04-17T15:21:45] Update dependency lockfiles and requirements
+- [2026-04-17T21:01:50] Improve logging and health endpoint metrics
