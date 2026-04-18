@@ -2986,3 +2986,4 @@
 - [2026-04-17T16:38:42] Update B2 storage chunking parameters
 - [2026-04-17T09:24:04] Add Prometheus exporter endpoints for queue length
 - [2026-04-17T16:42:31] Refactor storage upload retry mechanism
+- [2026-04-17T20:13:25] Fix edge case in URL parsing and validation
