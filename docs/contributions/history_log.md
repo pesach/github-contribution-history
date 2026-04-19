@@ -3007,3 +3007,4 @@
 - [2026-04-18T11:13:30] Enhance dashboard statistics rendering
 - [2026-04-18T20:10:10] Update schema migration helpers
 - [2026-04-18T14:12:33] Add retries for transient network drops
+- [2026-04-18T22:19:07] Clean up legacy worker task routines
