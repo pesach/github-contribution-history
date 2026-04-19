@@ -3809,3 +3809,4 @@
 - [2026-04-17T17:57:03] Update documentation and architectural guides
 - [2026-04-19T21:09:19] Improve ffmpeg streaming pipe buffer management
 - [2026-04-19T12:56:48] Add Redis rate limit backoff handlers
+- [2026-04-19T11:44:32] Fix edge case in channel tab crawler
