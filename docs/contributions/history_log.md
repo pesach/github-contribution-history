@@ -3810,3 +3810,4 @@
 - [2026-04-19T21:09:19] Improve ffmpeg streaming pipe buffer management
 - [2026-04-19T12:56:48] Add Redis rate limit backoff handlers
 - [2026-04-19T11:44:32] Fix edge case in channel tab crawler
+- [2026-04-19T11:22:38] Improve ffmpeg streaming pipe buffer management
