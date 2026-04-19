@@ -535,3 +535,4 @@
 - [2026-04-19T13:02:23] Improve logging and health endpoint metrics
 - [2026-04-19T09:13:14] Enhance dashboard statistics rendering
 - [2026-04-19T16:02:02] Add retries for transient network drops
+- [2026-04-19T13:09:41] Update B2 storage chunking parameters
