@@ -532,3 +532,4 @@
 - [2026-04-17T22:43:38] Update documentation and architectural guides
 - [2026-04-17T20:50:11] Fix edge case in channel tab crawler
 - [2026-04-17T18:19:59] Refactor cookie refresher probe logic
+- [2026-04-19T13:02:23] Improve logging and health endpoint metrics
