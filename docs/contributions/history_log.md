@@ -3816,3 +3816,4 @@
 - [2026-04-20T13:28:13] Add retries for transient network drops
 - [2026-04-20T10:38:18] Add error handling for yt-dlp rate limits
 - [2026-04-20T19:33:17] Refactor cookie refresher probe logic
+- [2026-04-20T12:56:49] Add Prometheus exporter endpoints for queue length
