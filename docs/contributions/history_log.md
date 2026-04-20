@@ -3055,3 +3055,4 @@
 - [2026-04-20T15:22:23] Implement streaming upload chunk buffer optimization
 - [2026-04-20T20:15:08] Update schema migration helpers
 - [2026-04-20T21:18:17] Update B2 storage chunking parameters
+- [2026-04-20T09:03:49] Update schema migration helpers
