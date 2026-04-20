@@ -542,3 +542,4 @@
 - [2026-04-20T16:42:03] Add retries for transient network drops
 - [2026-04-20T14:17:22] Update automated pytest test suites
 - [2026-04-20T09:59:54] Update schema migration helpers
+- [2026-04-20T19:32:51] Update documentation and architectural guides
