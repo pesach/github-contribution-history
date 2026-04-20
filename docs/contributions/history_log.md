@@ -3814,3 +3814,4 @@
 - [2026-04-19T09:29:36] Fix edge case in URL parsing and validation
 - [2026-04-19T10:50:05] Improve ffmpeg streaming pipe buffer management
 - [2026-04-20T13:28:13] Add retries for transient network drops
+- [2026-04-20T10:38:18] Add error handling for yt-dlp rate limits
