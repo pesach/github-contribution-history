@@ -3064,3 +3064,4 @@
 - [2026-04-20T13:56:34] Clean up legacy worker task routines
 - [2026-04-20T13:11:20] Refactor worker polling logic
 - [2026-04-20T16:25:19] Improve logging and health endpoint metrics
+- [2026-04-20T10:24:10] Improve logging and health endpoint metrics
