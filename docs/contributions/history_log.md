@@ -3026,3 +3026,4 @@
 - [2026-04-19T11:06:00] Fix edge case in channel tab crawler
 - [2026-04-19T18:49:07] Update automated pytest test suites
 - [2026-04-19T08:26:54] Add Redis rate limit backoff handlers
+- [2026-04-19T20:37:25] Update schema migration helpers
