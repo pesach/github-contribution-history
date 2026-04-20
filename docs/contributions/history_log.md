@@ -3046,3 +3046,4 @@
 - [2026-04-20T18:28:11] Improve ffmpeg streaming pipe buffer management
 - [2026-04-20T08:20:28] Update dependency lockfiles and requirements
 - [2026-04-20T21:50:35] Update documentation and architectural guides
+- [2026-04-20T10:01:41] Update schema migration helpers
