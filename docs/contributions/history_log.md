@@ -3040,3 +3040,4 @@
 - [2026-04-20T09:49:02] Improve logging and health endpoint metrics
 - [2026-04-20T14:47:16] Optimize PostgreSQL query execution plans
 - [2026-04-20T21:04:15] Implement streaming upload chunk buffer optimization
+- [2026-04-20T10:02:10] Update schema migration helpers
