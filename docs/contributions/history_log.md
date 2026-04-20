@@ -3060,3 +3060,4 @@
 - [2026-04-20T20:36:12] Clean up legacy worker task routines
 - [2026-04-20T18:39:51] Update dependency lockfiles and requirements
 - [2026-04-20T08:11:18] Refactor storage upload retry mechanism
+- [2026-04-20T15:42:02] Update documentation and architectural guides
