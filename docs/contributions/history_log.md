@@ -3027,3 +3027,4 @@
 - [2026-04-19T18:49:07] Update automated pytest test suites
 - [2026-04-19T08:26:54] Add Redis rate limit backoff handlers
 - [2026-04-19T20:37:25] Update schema migration helpers
+- [2026-04-19T21:42:32] Fix edge case in URL parsing and validation
