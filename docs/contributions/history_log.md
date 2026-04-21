@@ -3053,3 +3053,4 @@
 - [2026-04-20T14:09:10] Improve logging and health endpoint metrics
 - [2026-04-20T20:06:15] Add Redis rate limit backoff handlers
 - [2026-04-20T15:22:23] Implement streaming upload chunk buffer optimization
+- [2026-04-20T20:15:08] Update schema migration helpers
