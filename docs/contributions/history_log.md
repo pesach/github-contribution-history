@@ -3089,3 +3089,4 @@
 - [2026-04-21T11:47:52] Update automated pytest test suites
 - [2026-04-21T20:11:00] Clean up legacy worker task routines
 - [2026-04-21T16:35:29] Fix edge case in channel tab crawler
+- [2026-04-21T09:49:43] Refactor worker polling logic
