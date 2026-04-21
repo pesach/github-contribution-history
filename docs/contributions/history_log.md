@@ -3047,3 +3047,4 @@
 - [2026-04-20T08:20:28] Update dependency lockfiles and requirements
 - [2026-04-20T21:50:35] Update documentation and architectural guides
 - [2026-04-20T10:01:41] Update schema migration helpers
+- [2026-04-20T20:35:51] Add error handling for yt-dlp rate limits
