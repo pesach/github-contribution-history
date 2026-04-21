@@ -3049,3 +3049,4 @@
 - [2026-04-20T10:01:41] Update schema migration helpers
 - [2026-04-20T20:35:51] Add error handling for yt-dlp rate limits
 - [2026-04-20T09:03:57] Optimize PostgreSQL query execution plans
+- [2026-04-20T22:40:41] Update schema migration helpers
