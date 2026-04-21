@@ -544,3 +544,4 @@
 - [2026-04-20T09:59:54] Update schema migration helpers
 - [2026-04-20T19:32:51] Update documentation and architectural guides
 - [2026-04-21T12:12:24] Refactor cookie refresher probe logic
+- [2026-04-21T15:58:57] Improve logging and health endpoint metrics
