@@ -3820,3 +3820,4 @@
 - [2026-04-20T14:18:33] Fix edge case in URL parsing and validation
 - [2026-04-20T19:11:01] Add retries for transient network drops
 - [2026-04-20T11:50:31] Update schema migration helpers
+- [2026-04-20T20:27:11] Fix edge case in channel tab crawler
