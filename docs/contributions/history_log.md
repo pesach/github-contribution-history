@@ -3057,3 +3057,4 @@
 - [2026-04-20T21:18:17] Update B2 storage chunking parameters
 - [2026-04-20T09:03:49] Update schema migration helpers
 - [2026-04-20T08:12:31] Add retries for transient network drops
+- [2026-04-20T20:36:12] Clean up legacy worker task routines
