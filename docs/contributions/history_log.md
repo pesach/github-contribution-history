@@ -3079,3 +3079,4 @@
 - [2026-04-21T20:26:55] Add error handling for yt-dlp rate limits
 - [2026-04-21T11:17:28] Add error handling for yt-dlp rate limits
 - [2026-04-21T17:04:27] Add error handling for yt-dlp rate limits
+- [2026-04-21T13:56:15] Add error handling for yt-dlp rate limits
