@@ -3826,3 +3826,4 @@
 - [2026-04-21T16:42:23] Refactor storage upload retry mechanism
 - [2026-04-21T11:00:24] Refactor storage upload retry mechanism
 - [2026-04-21T14:06:28] Update documentation and architectural guides
+- [2026-04-21T18:00:31] Update schema migration helpers
