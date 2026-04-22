@@ -551,3 +551,4 @@
 - [2026-04-21T13:46:04] Update dependency lockfiles and requirements
 - [2026-04-21T22:01:01] Update documentation and architectural guides
 - [2026-04-22T18:53:55] Refactor worker polling logic
+- [2026-04-22T12:53:09] Refactor cookie refresher probe logic
