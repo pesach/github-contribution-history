@@ -3076,3 +3076,4 @@
 - [2026-04-21T13:43:12] Refactor cookie refresher probe logic
 - [2026-04-21T13:53:08] Refactor storage upload retry mechanism
 - [2026-04-21T20:40:23] Improve logging and health endpoint metrics
+- [2026-04-21T20:26:55] Add error handling for yt-dlp rate limits
