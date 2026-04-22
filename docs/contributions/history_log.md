@@ -3127,3 +3127,4 @@
 - [2026-04-22T10:08:50] Add retries for transient network drops
 - [2026-04-22T17:48:59] Update schema migration helpers
 - [2026-04-22T12:20:53] Update B2 storage chunking parameters
+- [2026-04-22T08:50:27] Optimize PostgreSQL query execution plans
