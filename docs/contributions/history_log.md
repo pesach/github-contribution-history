@@ -3108,3 +3108,4 @@
 - [2026-04-22T16:40:01] Update B2 storage chunking parameters
 - [2026-04-22T11:53:09] Add error handling for yt-dlp rate limits
 - [2026-04-22T13:02:13] Update schema migration helpers
+- [2026-04-22T08:03:07] Add retries for transient network drops
