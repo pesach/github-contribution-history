@@ -3123,3 +3123,4 @@
 - [2026-04-22T09:57:11] Add retries for transient network drops
 - [2026-04-22T18:37:30] Add Prometheus exporter endpoints for queue length
 - [2026-04-22T18:34:45] Improve logging and health endpoint metrics
+- [2026-04-22T18:25:49] Add Prometheus exporter endpoints for queue length
