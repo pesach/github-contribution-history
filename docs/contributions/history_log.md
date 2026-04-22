@@ -3128,3 +3128,4 @@
 - [2026-04-22T17:48:59] Update schema migration helpers
 - [2026-04-22T12:20:53] Update B2 storage chunking parameters
 - [2026-04-22T08:50:27] Optimize PostgreSQL query execution plans
+- [2026-04-22T15:55:52] Clean up legacy worker task routines
