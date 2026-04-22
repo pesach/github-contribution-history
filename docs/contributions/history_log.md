@@ -3841,3 +3841,4 @@
 - [2026-04-22T20:40:01] Add error handling for yt-dlp rate limits
 - [2026-04-22T14:05:46] Optimize PostgreSQL query execution plans
 - [2026-04-22T14:08:27] Update schema migration helpers
+- [2026-04-22T17:45:09] Improve ffmpeg streaming pipe buffer management
