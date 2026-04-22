@@ -3087,3 +3087,4 @@
 - [2026-04-21T08:53:15] Add Redis rate limit backoff handlers
 - [2026-04-21T19:59:04] Update documentation and architectural guides
 - [2026-04-21T11:47:52] Update automated pytest test suites
+- [2026-04-21T20:11:00] Clean up legacy worker task routines
