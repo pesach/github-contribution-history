@@ -3856,3 +3856,4 @@
 - [2026-04-23T17:28:39] Add error handling for yt-dlp rate limits
 - [2026-04-23T11:36:34] Refactor storage upload retry mechanism
 - [2026-04-23T19:34:48] Optimize PostgreSQL query execution plans
+- [2026-04-23T18:51:39] Add retries for transient network drops
