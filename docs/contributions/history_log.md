@@ -3852,3 +3852,4 @@
 - [2026-04-23T17:19:45] Update documentation and architectural guides
 - [2026-04-23T21:04:21] Refactor storage upload retry mechanism
 - [2026-04-23T15:28:13] Refactor storage upload retry mechanism
+- [2026-04-23T19:20:24] Add Prometheus exporter endpoints for queue length
