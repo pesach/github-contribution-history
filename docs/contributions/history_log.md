@@ -3129,3 +3129,4 @@
 - [2026-04-22T12:20:53] Update B2 storage chunking parameters
 - [2026-04-22T08:50:27] Optimize PostgreSQL query execution plans
 - [2026-04-22T15:55:52] Clean up legacy worker task routines
+- [2026-04-22T22:08:25] Add Redis rate limit backoff handlers
