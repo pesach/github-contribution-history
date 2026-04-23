@@ -556,3 +556,4 @@
 - [2026-04-22T08:23:47] Optimize PostgreSQL query execution plans
 - [2026-04-22T22:48:59] Implement streaming upload chunk buffer optimization
 - [2026-04-22T21:33:57] Implement streaming upload chunk buffer optimization
+- [2026-04-23T10:23:48] Update schema migration helpers
