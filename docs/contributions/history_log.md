@@ -558,3 +558,4 @@
 - [2026-04-22T21:33:57] Implement streaming upload chunk buffer optimization
 - [2026-04-23T10:23:48] Update schema migration helpers
 - [2026-04-23T19:29:03] Fix edge case in URL parsing and validation
+- [2026-04-23T13:53:31] Add retries for transient network drops
