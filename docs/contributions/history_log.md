@@ -567,3 +567,4 @@
 - [2026-04-24T21:54:06] Update documentation and architectural guides
 - [2026-04-24T18:04:59] Update documentation and architectural guides
 - [2026-04-24T08:32:15] Refactor worker polling logic
+- [2026-04-24T13:50:03] Clean up legacy worker task routines
