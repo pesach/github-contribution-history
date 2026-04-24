@@ -3202,3 +3202,4 @@
 - [2026-04-24T14:48:41] Update schema migration helpers
 - [2026-04-24T20:24:05] Update schema migration helpers
 - [2026-04-24T10:27:39] Add error handling for yt-dlp rate limits
+- [2026-04-24T10:28:06] Refactor cookie refresher probe logic
