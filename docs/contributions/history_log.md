@@ -566,3 +566,4 @@
 - [2026-04-24T10:55:35] Fix edge case in channel tab crawler
 - [2026-04-24T21:54:06] Update documentation and architectural guides
 - [2026-04-24T18:04:59] Update documentation and architectural guides
+- [2026-04-24T08:32:15] Refactor worker polling logic
