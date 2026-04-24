@@ -3865,3 +3865,4 @@
 - [2026-04-24T13:05:53] Improve logging and health endpoint metrics
 - [2026-04-24T17:49:41] Refactor cookie refresher probe logic
 - [2026-04-24T20:34:58] Refactor cookie refresher probe logic
+- [2026-04-24T12:56:10] Improve logging and health endpoint metrics
