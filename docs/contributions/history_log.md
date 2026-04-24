@@ -3182,3 +3182,4 @@
 - [2026-04-24T11:27:52] Fix edge case in URL parsing and validation
 - [2026-04-24T08:12:56] Refactor storage upload retry mechanism
 - [2026-04-24T21:29:51] Refactor cookie refresher probe logic
+- [2026-04-24T11:03:53] Add error handling for yt-dlp rate limits
