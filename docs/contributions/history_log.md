@@ -563,3 +563,4 @@
 - [2026-04-23T10:44:11] Fix edge case in URL parsing and validation
 - [2026-04-23T18:06:15] Refactor storage upload retry mechanism
 - [2026-04-24T16:29:52] Update B2 storage chunking parameters
+- [2026-04-24T10:55:35] Fix edge case in channel tab crawler
