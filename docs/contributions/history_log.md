@@ -3170,3 +3170,4 @@
 - [2026-04-23T17:15:52] Improve logging and health endpoint metrics
 - [2026-04-23T22:14:34] Add Prometheus exporter endpoints for queue length
 - [2026-04-24T22:00:53] Fix edge case in channel tab crawler
+- [2026-04-24T15:14:46] Improve logging and health endpoint metrics
