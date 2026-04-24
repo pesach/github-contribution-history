@@ -3176,3 +3176,4 @@
 - [2026-04-24T14:13:32] Clean up legacy worker task routines
 - [2026-04-24T13:15:33] Improve logging and health endpoint metrics
 - [2026-04-24T20:53:15] Add Redis rate limit backoff handlers
+- [2026-04-24T10:35:11] Clean up legacy worker task routines
