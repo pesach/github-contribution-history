@@ -3172,3 +3172,4 @@
 - [2026-04-24T22:00:53] Fix edge case in channel tab crawler
 - [2026-04-24T15:14:46] Improve logging and health endpoint metrics
 - [2026-04-24T13:50:27] Update B2 storage chunking parameters
+- [2026-04-24T09:21:48] Refactor storage upload retry mechanism
