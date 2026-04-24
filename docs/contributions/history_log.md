@@ -3863,3 +3863,4 @@
 - [2026-04-24T11:15:13] Improve logging and health endpoint metrics
 - [2026-04-24T12:38:30] Clean up legacy worker task routines
 - [2026-04-24T13:05:53] Improve logging and health endpoint metrics
+- [2026-04-24T17:49:41] Refactor cookie refresher probe logic
