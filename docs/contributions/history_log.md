@@ -3201,3 +3201,4 @@
 - [2026-04-24T13:01:34] Clean up legacy worker task routines
 - [2026-04-24T14:48:41] Update schema migration helpers
 - [2026-04-24T20:24:05] Update schema migration helpers
+- [2026-04-24T10:27:39] Add error handling for yt-dlp rate limits
