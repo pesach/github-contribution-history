@@ -571,3 +571,4 @@
 - [2026-04-25T13:40:20] Refactor storage upload retry mechanism
 - [2026-04-25T09:31:07] Implement streaming upload chunk buffer optimization
 - [2026-04-25T09:55:23] Update B2 storage chunking parameters
+- [2026-04-25T13:52:53] Improve logging and health endpoint metrics
