@@ -3211,3 +3211,4 @@
 - [2026-04-26T17:03:59] Update automated pytest test suites
 - [2026-04-26T18:02:39] Fix edge case in channel tab crawler
 - [2026-04-26T10:41:34] Fix edge case in channel tab crawler
+- [2026-04-26T12:07:15] Add retries for transient network drops
