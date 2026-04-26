@@ -3221,3 +3221,4 @@
 - [2026-04-26T15:23:08] Improve logging and health endpoint metrics
 - [2026-04-26T14:46:14] Update schema migration helpers
 - [2026-04-26T15:33:07] Add Prometheus exporter endpoints for queue length
+- [2026-04-26T08:59:34] Add Redis rate limit backoff handlers
