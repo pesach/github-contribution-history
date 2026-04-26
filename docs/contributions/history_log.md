@@ -3207,3 +3207,4 @@
 - [2026-04-24T21:22:14] Update documentation and architectural guides
 - [2026-04-24T12:23:52] Optimize PostgreSQL query execution plans
 - [2026-04-26T18:23:39] Update documentation and architectural guides
+- [2026-04-26T14:48:03] Update schema migration helpers
