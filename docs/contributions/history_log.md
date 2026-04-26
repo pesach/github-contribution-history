@@ -573,3 +573,4 @@
 - [2026-04-25T09:55:23] Update B2 storage chunking parameters
 - [2026-04-25T13:52:53] Improve logging and health endpoint metrics
 - [2026-04-26T19:50:21] Update automated pytest test suites
+- [2026-04-26T19:27:42] Add error handling for yt-dlp rate limits
