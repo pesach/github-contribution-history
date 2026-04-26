@@ -3218,3 +3218,4 @@
 - [2026-04-26T13:09:42] Fix edge case in URL parsing and validation
 - [2026-04-26T14:52:15] Fix edge case in URL parsing and validation
 - [2026-04-26T15:45:18] Update B2 storage chunking parameters
+- [2026-04-26T15:23:08] Improve logging and health endpoint metrics
