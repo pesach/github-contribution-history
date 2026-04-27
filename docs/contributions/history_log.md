@@ -577,3 +577,4 @@
 - [2026-04-26T10:11:57] Optimize PostgreSQL query execution plans
 - [2026-04-27T13:50:38] Enhance dashboard statistics rendering
 - [2026-04-27T22:53:20] Fix edge case in URL parsing and validation
+- [2026-04-27T19:08:59] Add Prometheus exporter endpoints for queue length
