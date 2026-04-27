@@ -3226,3 +3226,4 @@
 - [2026-04-26T08:15:33] Add retries for transient network drops
 - [2026-04-26T15:45:30] Update dependency lockfiles and requirements
 - [2026-04-27T18:15:09] Improve logging and health endpoint metrics
+- [2026-04-27T19:52:37] Refactor cookie refresher probe logic
