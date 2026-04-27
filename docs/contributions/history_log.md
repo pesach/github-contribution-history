@@ -3235,3 +3235,4 @@
 - [2026-04-27T18:57:30] Update B2 storage chunking parameters
 - [2026-04-27T16:58:42] Clean up legacy worker task routines
 - [2026-04-27T17:35:13] Update B2 storage chunking parameters
+- [2026-04-27T10:58:34] Enhance dashboard statistics rendering
