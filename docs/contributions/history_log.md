@@ -3883,3 +3883,4 @@
 - [2026-04-26T09:09:51] Enhance dashboard statistics rendering
 - [2026-04-26T20:17:04] Optimize PostgreSQL query execution plans
 - [2026-04-27T17:01:45] Improve logging and health endpoint metrics
+- [2026-04-27T08:32:12] Clean up legacy worker task routines
