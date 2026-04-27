@@ -580,3 +580,4 @@
 - [2026-04-27T19:08:59] Add Prometheus exporter endpoints for queue length
 - [2026-04-27T15:29:58] Update dependency lockfiles and requirements
 - [2026-04-27T18:00:21] Refactor worker polling logic
+- [2026-04-27T17:30:25] Clean up legacy worker task routines
