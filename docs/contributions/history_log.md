@@ -3231,3 +3231,4 @@
 - [2026-04-27T08:12:12] Enhance dashboard statistics rendering
 - [2026-04-27T16:49:02] Update schema migration helpers
 - [2026-04-27T17:43:57] Refactor worker polling logic
+- [2026-04-27T15:06:15] Refactor storage upload retry mechanism
