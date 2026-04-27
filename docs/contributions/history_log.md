@@ -3237,3 +3237,4 @@
 - [2026-04-27T17:35:13] Update B2 storage chunking parameters
 - [2026-04-27T10:58:34] Enhance dashboard statistics rendering
 - [2026-04-27T14:15:51] Update automated pytest test suites
+- [2026-04-27T16:51:43] Fix edge case in URL parsing and validation
