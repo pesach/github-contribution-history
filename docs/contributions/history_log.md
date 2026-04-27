@@ -3225,3 +3225,4 @@
 - [2026-04-26T17:53:23] Add Redis rate limit backoff handlers
 - [2026-04-26T08:15:33] Add retries for transient network drops
 - [2026-04-26T15:45:30] Update dependency lockfiles and requirements
+- [2026-04-27T18:15:09] Improve logging and health endpoint metrics
