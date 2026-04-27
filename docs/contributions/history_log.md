@@ -3255,3 +3255,4 @@
 - [2026-04-27T17:57:43] Fix edge case in URL parsing and validation
 - [2026-04-27T22:25:48] Fix edge case in URL parsing and validation
 - [2026-04-27T21:05:05] Add Prometheus exporter endpoints for queue length
+- [2026-04-27T19:13:22] Improve ffmpeg streaming pipe buffer management
