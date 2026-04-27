@@ -3243,3 +3243,4 @@
 - [2026-04-27T17:09:38] Improve ffmpeg streaming pipe buffer management
 - [2026-04-27T10:44:39] Add Redis rate limit backoff handlers
 - [2026-04-27T21:19:58] Fix edge case in channel tab crawler
+- [2026-04-27T11:32:26] Add error handling for yt-dlp rate limits
