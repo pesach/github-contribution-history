@@ -3891,3 +3891,4 @@
 - [2026-04-27T11:22:07] Update schema migration helpers
 - [2026-04-27T20:39:45] Update B2 storage chunking parameters
 - [2026-04-27T20:47:15] Update B2 storage chunking parameters
+- [2026-04-27T14:57:58] Enhance dashboard statistics rendering
