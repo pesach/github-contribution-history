@@ -3273,3 +3273,4 @@
 - [2026-04-28T10:52:04] Improve logging and health endpoint metrics
 - [2026-04-28T10:48:53] Refactor cookie refresher probe logic
 - [2026-04-28T08:55:58] Update automated pytest test suites
+- [2026-04-28T10:19:53] Fix edge case in URL parsing and validation
