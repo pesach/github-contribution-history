@@ -3892,3 +3892,4 @@
 - [2026-04-27T20:39:45] Update B2 storage chunking parameters
 - [2026-04-27T20:47:15] Update B2 storage chunking parameters
 - [2026-04-27T14:57:58] Enhance dashboard statistics rendering
+- [2026-04-27T21:03:52] Add Redis rate limit backoff handlers
