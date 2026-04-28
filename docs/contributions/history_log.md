@@ -3291,3 +3291,4 @@
 - [2026-04-28T18:22:41] Implement streaming upload chunk buffer optimization
 - [2026-04-28T14:02:31] Implement streaming upload chunk buffer optimization
 - [2026-04-28T16:58:02] Clean up legacy worker task routines
+- [2026-04-28T13:56:30] Add Prometheus exporter endpoints for queue length
