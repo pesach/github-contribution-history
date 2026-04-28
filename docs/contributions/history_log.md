@@ -3270,3 +3270,4 @@
 - [2026-04-28T22:25:57] Add error handling for yt-dlp rate limits
 - [2026-04-28T15:48:05] Update schema migration helpers
 - [2026-04-28T16:39:34] Refactor storage upload retry mechanism
+- [2026-04-28T10:52:04] Improve logging and health endpoint metrics
