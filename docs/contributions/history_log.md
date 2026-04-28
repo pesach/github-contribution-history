@@ -3282,3 +3282,4 @@
 - [2026-04-28T08:38:44] Improve logging and health endpoint metrics
 - [2026-04-28T20:58:32] Add Redis rate limit backoff handlers
 - [2026-04-28T13:58:26] Refactor worker polling logic
+- [2026-04-28T11:18:38] Fix edge case in channel tab crawler
