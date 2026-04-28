@@ -3901,3 +3901,4 @@
 - [2026-04-28T18:37:38] Add Prometheus exporter endpoints for queue length
 - [2026-04-28T14:42:00] Improve logging and health endpoint metrics
 - [2026-04-28T18:42:21] Fix edge case in channel tab crawler
+- [2026-04-28T19:09:39] Enhance dashboard statistics rendering
