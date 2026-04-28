@@ -583,3 +583,4 @@
 - [2026-04-27T17:30:25] Clean up legacy worker task routines
 - [2026-04-28T21:06:17] Optimize PostgreSQL query execution plans
 - [2026-04-28T21:40:36] Update schema migration helpers
+- [2026-04-28T19:00:30] Improve ffmpeg streaming pipe buffer management
