@@ -3290,3 +3290,4 @@
 - [2026-04-28T21:17:49] Refactor cookie refresher probe logic
 - [2026-04-28T18:22:41] Implement streaming upload chunk buffer optimization
 - [2026-04-28T14:02:31] Implement streaming upload chunk buffer optimization
+- [2026-04-28T16:58:02] Clean up legacy worker task routines
