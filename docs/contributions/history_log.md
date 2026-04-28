@@ -584,3 +584,4 @@
 - [2026-04-28T21:06:17] Optimize PostgreSQL query execution plans
 - [2026-04-28T21:40:36] Update schema migration helpers
 - [2026-04-28T19:00:30] Improve ffmpeg streaming pipe buffer management
+- [2026-04-28T09:12:30] Improve ffmpeg streaming pipe buffer management
