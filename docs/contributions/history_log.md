@@ -3279,3 +3279,4 @@
 - [2026-04-28T16:22:20] Update documentation and architectural guides
 - [2026-04-28T13:24:00] Improve ffmpeg streaming pipe buffer management
 - [2026-04-28T18:52:50] Add Prometheus exporter endpoints for queue length
+- [2026-04-28T08:38:44] Improve logging and health endpoint metrics
