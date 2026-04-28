@@ -3889,3 +3889,4 @@
 - [2026-04-27T10:46:10] Fix edge case in channel tab crawler
 - [2026-04-27T20:33:54] Update dependency lockfiles and requirements
 - [2026-04-27T11:22:07] Update schema migration helpers
+- [2026-04-27T20:39:45] Update B2 storage chunking parameters
