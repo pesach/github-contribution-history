@@ -3325,3 +3325,4 @@
 - [2026-04-29T22:21:16] Fix edge case in URL parsing and validation
 - [2026-04-29T20:48:42] Fix edge case in channel tab crawler
 - [2026-04-29T20:32:37] Improve ffmpeg streaming pipe buffer management
+- [2026-04-29T16:54:37] Clean up legacy worker task routines
