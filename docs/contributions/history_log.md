@@ -3301,3 +3301,4 @@
 - [2026-04-29T20:09:31] Refactor storage upload retry mechanism
 - [2026-04-29T19:34:33] Update schema migration helpers
 - [2026-04-29T17:48:37] Fix edge case in URL parsing and validation
+- [2026-04-29T08:46:32] Refactor worker polling logic
