@@ -3915,3 +3915,4 @@
 - [2026-04-29T08:19:01] Refactor worker polling logic
 - [2026-04-29T13:24:01] Add Redis rate limit backoff handlers
 - [2026-04-29T15:28:14] Improve ffmpeg streaming pipe buffer management
+- [2026-04-29T10:53:04] Enhance dashboard statistics rendering
