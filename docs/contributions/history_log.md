@@ -3299,3 +3299,4 @@
 - [2026-04-28T11:34:48] Add Redis rate limit backoff handlers
 - [2026-04-28T20:18:59] Update B2 storage chunking parameters
 - [2026-04-29T20:09:31] Refactor storage upload retry mechanism
+- [2026-04-29T19:34:33] Update schema migration helpers
