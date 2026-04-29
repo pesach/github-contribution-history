@@ -586,3 +586,4 @@
 - [2026-04-28T19:00:30] Improve ffmpeg streaming pipe buffer management
 - [2026-04-28T09:12:30] Improve ffmpeg streaming pipe buffer management
 - [2026-04-28T17:31:11] Refactor cookie refresher probe logic
+- [2026-04-29T17:54:44] Implement streaming upload chunk buffer optimization
