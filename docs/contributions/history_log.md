@@ -3297,3 +3297,4 @@
 - [2026-04-28T17:03:59] Fix edge case in URL parsing and validation
 - [2026-04-28T10:41:08] Add Redis rate limit backoff handlers
 - [2026-04-28T11:34:48] Add Redis rate limit backoff handlers
+- [2026-04-28T20:18:59] Update B2 storage chunking parameters
