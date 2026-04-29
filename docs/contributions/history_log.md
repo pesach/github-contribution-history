@@ -3309,3 +3309,4 @@
 - [2026-04-29T18:28:53] Fix edge case in channel tab crawler
 - [2026-04-29T17:45:50] Update B2 storage chunking parameters
 - [2026-04-29T09:26:47] Improve ffmpeg streaming pipe buffer management
+- [2026-04-29T16:33:52] Update B2 storage chunking parameters
