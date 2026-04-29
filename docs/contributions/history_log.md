@@ -3330,3 +3330,4 @@
 - [2026-04-29T19:20:49] Improve logging and health endpoint metrics
 - [2026-04-29T20:26:02] Add error handling for yt-dlp rate limits
 - [2026-04-29T20:11:45] Update schema migration helpers
+- [2026-04-29T08:05:54] Add Prometheus exporter endpoints for queue length
