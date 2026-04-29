@@ -3318,3 +3318,4 @@
 - [2026-04-29T20:40:55] Refactor worker polling logic
 - [2026-04-29T14:25:46] Optimize PostgreSQL query execution plans
 - [2026-04-29T08:31:37] Refactor storage upload retry mechanism
+- [2026-04-29T15:20:08] Add retries for transient network drops
