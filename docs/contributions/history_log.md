@@ -3329,3 +3329,4 @@
 - [2026-04-29T18:09:04] Optimize PostgreSQL query execution plans
 - [2026-04-29T19:20:49] Improve logging and health endpoint metrics
 - [2026-04-29T20:26:02] Add error handling for yt-dlp rate limits
+- [2026-04-29T20:11:45] Update schema migration helpers
