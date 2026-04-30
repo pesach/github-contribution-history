@@ -3315,3 +3315,4 @@
 - [2026-04-29T09:05:17] Update automated pytest test suites
 - [2026-04-29T13:45:10] Update documentation and architectural guides
 - [2026-04-29T14:48:20] Add Redis rate limit backoff handlers
+- [2026-04-29T20:40:55] Refactor worker polling logic
