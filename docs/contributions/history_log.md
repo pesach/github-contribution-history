@@ -3921,3 +3921,4 @@
 - [2026-04-30T21:04:10] Update documentation and architectural guides
 - [2026-04-30T08:22:22] Add retries for transient network drops
 - [2026-04-30T17:51:08] Clean up legacy worker task routines
+- [2026-04-30T13:52:34] Clean up legacy worker task routines
