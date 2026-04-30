@@ -3908,3 +3908,4 @@
 - [2026-04-29T08:48:39] Enhance dashboard statistics rendering
 - [2026-04-29T20:04:00] Update B2 storage chunking parameters
 - [2026-04-29T20:17:45] Fix edge case in URL parsing and validation
+- [2026-04-29T21:01:48] Add Prometheus exporter endpoints for queue length
