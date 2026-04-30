@@ -3363,3 +3363,4 @@
 - [2026-04-30T13:29:55] Clean up legacy worker task routines
 - [2026-04-30T17:16:11] Add Prometheus exporter endpoints for queue length
 - [2026-04-30T08:59:12] Refactor storage upload retry mechanism
+- [2026-04-30T16:10:31] Add Prometheus exporter endpoints for queue length
