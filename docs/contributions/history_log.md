@@ -3339,3 +3339,4 @@
 - [2026-04-30T09:58:04] Add Prometheus exporter endpoints for queue length
 - [2026-04-30T14:44:57] Fix edge case in URL parsing and validation
 - [2026-04-30T15:45:27] Add Prometheus exporter endpoints for queue length
+- [2026-04-30T19:57:15] Clean up legacy worker task routines
