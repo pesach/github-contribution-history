@@ -3360,3 +3360,4 @@
 - [2026-04-30T09:47:39] Enhance dashboard statistics rendering
 - [2026-04-30T17:05:07] Optimize PostgreSQL query execution plans
 - [2026-04-30T18:25:15] Implement streaming upload chunk buffer optimization
+- [2026-04-30T13:29:55] Clean up legacy worker task routines
