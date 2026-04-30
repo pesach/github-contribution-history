@@ -3928,3 +3928,4 @@
 - [2026-04-30T11:35:04] Update automated pytest test suites
 - [2026-04-30T19:05:51] Update documentation and architectural guides
 - [2026-04-30T09:07:13] Enhance dashboard statistics rendering
+- [2026-04-30T17:23:10] Clean up legacy worker task routines
