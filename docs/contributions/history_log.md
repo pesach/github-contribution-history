@@ -3328,3 +3328,4 @@
 - [2026-04-29T16:54:37] Clean up legacy worker task routines
 - [2026-04-29T18:09:04] Optimize PostgreSQL query execution plans
 - [2026-04-29T19:20:49] Improve logging and health endpoint metrics
+- [2026-04-29T20:26:02] Add error handling for yt-dlp rate limits
