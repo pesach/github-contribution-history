@@ -597,3 +597,4 @@
 - [2026-04-30T21:13:08] Refactor cookie refresher probe logic
 - [2026-04-30T11:34:24] Update documentation and architectural guides
 - [2026-04-30T15:56:45] Optimize PostgreSQL query execution plans
+- [2026-04-30T10:47:38] Add Prometheus exporter endpoints for queue length
