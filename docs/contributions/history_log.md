@@ -3383,3 +3383,4 @@
 - [2026-05-01T16:35:05] Clean up legacy worker task routines
 - [2026-05-01T16:01:45] Optimize PostgreSQL query execution plans
 - [2026-05-01T19:45:56] Refactor cookie refresher probe logic
+- [2026-05-01T09:56:29] Fix edge case in URL parsing and validation
