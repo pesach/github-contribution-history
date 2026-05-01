@@ -3400,3 +3400,4 @@
 - [2026-05-01T09:33:22] Update schema migration helpers
 - [2026-05-01T10:22:45] Fix edge case in URL parsing and validation
 - [2026-05-01T14:38:12] Refactor worker polling logic
+- [2026-05-01T09:50:10] Improve logging and health endpoint metrics
