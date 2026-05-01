@@ -3397,3 +3397,4 @@
 - [2026-05-01T20:38:57] Refactor worker polling logic
 - [2026-05-01T11:52:13] Enhance dashboard statistics rendering
 - [2026-05-01T17:26:04] Refactor cookie refresher probe logic
+- [2026-05-01T09:33:22] Update schema migration helpers
