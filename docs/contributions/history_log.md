@@ -605,3 +605,4 @@
 - [2026-05-01T09:01:28] Refactor storage upload retry mechanism
 - [2026-05-01T22:29:01] Refactor worker polling logic
 - [2026-05-01T11:12:19] Fix edge case in channel tab crawler
+- [2026-05-01T17:40:50] Enhance dashboard statistics rendering
