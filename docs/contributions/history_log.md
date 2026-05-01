@@ -3370,3 +3370,4 @@
 - [2026-04-30T15:42:56] Update automated pytest test suites
 - [2026-05-01T08:54:37] Optimize PostgreSQL query execution plans
 - [2026-05-01T16:58:35] Improve ffmpeg streaming pipe buffer management
+- [2026-05-01T09:41:26] Refactor cookie refresher probe logic
