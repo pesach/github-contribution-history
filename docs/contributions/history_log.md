@@ -3398,3 +3398,4 @@
 - [2026-05-01T11:52:13] Enhance dashboard statistics rendering
 - [2026-05-01T17:26:04] Refactor cookie refresher probe logic
 - [2026-05-01T09:33:22] Update schema migration helpers
+- [2026-05-01T10:22:45] Fix edge case in URL parsing and validation
