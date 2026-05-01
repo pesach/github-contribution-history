@@ -3382,3 +3382,4 @@
 - [2026-05-01T19:04:16] Update dependency lockfiles and requirements
 - [2026-05-01T16:35:05] Clean up legacy worker task routines
 - [2026-05-01T16:01:45] Optimize PostgreSQL query execution plans
+- [2026-05-01T19:45:56] Refactor cookie refresher probe logic
