@@ -3409,3 +3409,4 @@
 - [2026-05-02T13:00:48] Clean up legacy worker task routines
 - [2026-05-02T08:57:41] Improve ffmpeg streaming pipe buffer management
 - [2026-05-02T15:53:00] Fix edge case in URL parsing and validation
+- [2026-05-02T09:03:45] Fix edge case in URL parsing and validation
