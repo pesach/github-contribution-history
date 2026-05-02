@@ -3938,3 +3938,4 @@
 - [2026-05-01T22:40:14] Add Redis rate limit backoff handlers
 - [2026-05-01T10:55:11] Add Redis rate limit backoff handlers
 - [2026-05-01T14:12:15] Update automated pytest test suites
+- [2026-05-01T20:00:56] Update schema migration helpers
