@@ -3406,3 +3406,4 @@
 - [2026-05-01T12:47:17] Improve logging and health endpoint metrics
 - [2026-05-01T17:21:43] Improve ffmpeg streaming pipe buffer management
 - [2026-05-01T11:59:56] Add Prometheus exporter endpoints for queue length
+- [2026-05-02T13:00:48] Clean up legacy worker task routines
