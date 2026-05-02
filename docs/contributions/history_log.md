@@ -3411,3 +3411,4 @@
 - [2026-05-02T15:53:00] Fix edge case in URL parsing and validation
 - [2026-05-02T09:03:45] Fix edge case in URL parsing and validation
 - [2026-05-02T10:09:54] Refactor storage upload retry mechanism
+- [2026-05-02T08:52:06] Add error handling for yt-dlp rate limits
