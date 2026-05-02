@@ -3419,3 +3419,4 @@
 - [2026-05-02T08:26:54] Refactor storage upload retry mechanism
 - [2026-05-02T18:39:01] Improve ffmpeg streaming pipe buffer management
 - [2026-05-02T15:44:40] Add Prometheus exporter endpoints for queue length
+- [2026-05-02T08:44:19] Update schema migration helpers
