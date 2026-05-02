@@ -3392,3 +3392,4 @@
 - [2026-05-01T10:04:01] Clean up legacy worker task routines
 - [2026-05-01T18:01:35] Fix edge case in URL parsing and validation
 - [2026-05-01T12:10:28] Improve logging and health endpoint metrics
+- [2026-05-01T22:17:26] Update documentation and architectural guides
