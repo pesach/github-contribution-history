@@ -3439,3 +3439,4 @@
 - [2026-05-03T22:49:20] Refactor cookie refresher probe logic
 - [2026-05-03T09:02:41] Improve ffmpeg streaming pipe buffer management
 - [2026-05-03T13:34:35] Add retries for transient network drops
+- [2026-05-03T17:23:20] Fix edge case in URL parsing and validation
