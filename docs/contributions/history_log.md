@@ -3438,3 +3438,4 @@
 - [2026-05-03T16:33:42] Add Prometheus exporter endpoints for queue length
 - [2026-05-03T22:49:20] Refactor cookie refresher probe logic
 - [2026-05-03T09:02:41] Improve ffmpeg streaming pipe buffer management
+- [2026-05-03T13:34:35] Add retries for transient network drops
