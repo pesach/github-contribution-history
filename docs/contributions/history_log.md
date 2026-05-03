@@ -3415,3 +3415,4 @@
 - [2026-05-02T21:17:17] Update documentation and architectural guides
 - [2026-05-02T19:26:29] Implement streaming upload chunk buffer optimization
 - [2026-05-02T09:30:29] Fix edge case in URL parsing and validation
+- [2026-05-02T22:49:09] Add error handling for yt-dlp rate limits
