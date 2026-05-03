@@ -3441,3 +3441,4 @@
 - [2026-05-03T13:34:35] Add retries for transient network drops
 - [2026-05-03T17:23:20] Fix edge case in URL parsing and validation
 - [2026-05-03T15:22:39] Add Prometheus exporter endpoints for queue length
+- [2026-05-03T17:34:27] Update documentation and architectural guides
