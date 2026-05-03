@@ -3433,3 +3433,4 @@
 - [2026-05-03T09:25:22] Clean up legacy worker task routines
 - [2026-05-03T12:13:02] Add retries for transient network drops
 - [2026-05-03T08:48:37] Add error handling for yt-dlp rate limits
+- [2026-05-03T16:25:57] Add error handling for yt-dlp rate limits
