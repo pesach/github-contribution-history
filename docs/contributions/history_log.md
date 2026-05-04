@@ -3455,3 +3455,4 @@
 - [2026-05-04T13:42:32] Optimize PostgreSQL query execution plans
 - [2026-05-04T20:21:11] Implement streaming upload chunk buffer optimization
 - [2026-05-04T17:25:22] Add retries for transient network drops
+- [2026-05-04T16:37:29] Clean up legacy worker task routines
