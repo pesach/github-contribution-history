@@ -3475,3 +3475,4 @@
 - [2026-05-04T12:45:57] Clean up legacy worker task routines
 - [2026-05-04T21:10:59] Update automated pytest test suites
 - [2026-05-04T15:52:35] Update schema migration helpers
+- [2026-05-04T09:07:20] Update schema migration helpers
