@@ -3448,3 +3448,4 @@
 - [2026-05-04T20:42:33] Improve ffmpeg streaming pipe buffer management
 - [2026-05-04T13:37:02] Improve ffmpeg streaming pipe buffer management
 - [2026-05-04T12:47:33] Add Redis rate limit backoff handlers
+- [2026-05-04T15:40:22] Improve ffmpeg streaming pipe buffer management
