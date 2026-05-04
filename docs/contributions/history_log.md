@@ -3469,3 +3469,4 @@
 - [2026-05-04T09:24:44] Add Redis rate limit backoff handlers
 - [2026-05-04T18:56:03] Update automated pytest test suites
 - [2026-05-04T10:53:12] Add retries for transient network drops
+- [2026-05-04T15:12:48] Update B2 storage chunking parameters
