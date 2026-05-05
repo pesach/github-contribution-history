@@ -3509,3 +3509,4 @@
 - [2026-05-05T15:04:35] Update B2 storage chunking parameters
 - [2026-05-05T18:08:38] Add error handling for yt-dlp rate limits
 - [2026-05-05T20:21:17] Enhance dashboard statistics rendering
+- [2026-05-05T12:12:07] Clean up legacy worker task routines
