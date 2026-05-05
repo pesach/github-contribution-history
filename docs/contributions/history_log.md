@@ -3494,3 +3494,4 @@
 - [2026-05-05T10:01:57] Enhance dashboard statistics rendering
 - [2026-05-05T12:32:12] Add error handling for yt-dlp rate limits
 - [2026-05-05T10:33:43] Improve logging and health endpoint metrics
+- [2026-05-05T18:53:52] Improve ffmpeg streaming pipe buffer management
