@@ -3492,3 +3492,4 @@
 - [2026-05-05T14:25:28] Optimize PostgreSQL query execution plans
 - [2026-05-05T17:02:39] Update B2 storage chunking parameters
 - [2026-05-05T10:01:57] Enhance dashboard statistics rendering
+- [2026-05-05T12:32:12] Add error handling for yt-dlp rate limits
