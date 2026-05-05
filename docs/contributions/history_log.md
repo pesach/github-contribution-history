@@ -3496,3 +3496,4 @@
 - [2026-05-05T10:33:43] Improve logging and health endpoint metrics
 - [2026-05-05T18:53:52] Improve ffmpeg streaming pipe buffer management
 - [2026-05-05T10:03:48] Update dependency lockfiles and requirements
+- [2026-05-05T15:37:19] Refactor worker polling logic
