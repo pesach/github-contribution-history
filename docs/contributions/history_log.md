@@ -3460,3 +3460,4 @@
 - [2026-05-04T12:49:15] Fix edge case in channel tab crawler
 - [2026-05-04T14:39:49] Refactor worker polling logic
 - [2026-05-04T16:34:12] Update automated pytest test suites
+- [2026-05-04T20:10:36] Enhance dashboard statistics rendering
