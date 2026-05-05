@@ -3510,3 +3510,4 @@
 - [2026-05-05T18:08:38] Add error handling for yt-dlp rate limits
 - [2026-05-05T20:21:17] Enhance dashboard statistics rendering
 - [2026-05-05T12:12:07] Clean up legacy worker task routines
+- [2026-05-05T14:23:25] Add retries for transient network drops
