@@ -3476,3 +3476,4 @@
 - [2026-05-04T21:10:59] Update automated pytest test suites
 - [2026-05-04T15:52:35] Update schema migration helpers
 - [2026-05-04T09:07:20] Update schema migration helpers
+- [2026-05-04T21:46:40] Refactor cookie refresher probe logic
