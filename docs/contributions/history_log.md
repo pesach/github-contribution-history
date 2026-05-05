@@ -3515,3 +3515,4 @@
 - [2026-05-05T17:20:42] Add Redis rate limit backoff handlers
 - [2026-05-05T08:58:16] Update dependency lockfiles and requirements
 - [2026-05-05T10:49:21] Update dependency lockfiles and requirements
+- [2026-05-05T10:31:23] Update documentation and architectural guides
