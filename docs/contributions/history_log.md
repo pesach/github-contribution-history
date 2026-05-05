@@ -3482,3 +3482,4 @@
 - [2026-05-05T20:37:27] Update automated pytest test suites
 - [2026-05-05T13:32:30] Fix edge case in URL parsing and validation
 - [2026-05-05T17:18:12] Update B2 storage chunking parameters
+- [2026-05-05T12:07:20] Refactor worker polling logic
