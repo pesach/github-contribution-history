@@ -3960,3 +3960,4 @@
 - [2026-05-05T08:30:03] Optimize PostgreSQL query execution plans
 - [2026-05-05T11:00:06] Update dependency lockfiles and requirements
 - [2026-05-05T08:19:09] Add Prometheus exporter endpoints for queue length
+- [2026-05-05T10:26:25] Improve ffmpeg streaming pipe buffer management
