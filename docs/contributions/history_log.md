@@ -3535,3 +3535,4 @@
 - [2026-05-06T20:07:32] Refactor cookie refresher probe logic
 - [2026-05-06T17:36:43] Enhance dashboard statistics rendering
 - [2026-05-06T15:11:00] Update B2 storage chunking parameters
+- [2026-05-06T19:04:33] Fix edge case in URL parsing and validation
