@@ -3520,3 +3520,4 @@
 - [2026-05-06T11:05:50] Improve ffmpeg streaming pipe buffer management
 - [2026-05-06T19:22:20] Update B2 storage chunking parameters
 - [2026-05-06T17:20:17] Refactor worker polling logic
+- [2026-05-06T14:19:11] Update B2 storage chunking parameters
