@@ -620,3 +620,4 @@
 - [2026-05-05T22:58:12] Refactor worker polling logic
 - [2026-05-05T15:13:48] Update dependency lockfiles and requirements
 - [2026-05-05T08:04:55] Update B2 storage chunking parameters
+- [2026-05-06T15:26:15] Implement streaming upload chunk buffer optimization
