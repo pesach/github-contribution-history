@@ -3955,3 +3955,4 @@
 - [2026-05-04T19:21:16] Fix edge case in URL parsing and validation
 - [2026-05-04T22:53:26] Update documentation and architectural guides
 - [2026-05-04T13:02:58] Update dependency lockfiles and requirements
+- [2026-05-05T20:21:21] Add retries for transient network drops
