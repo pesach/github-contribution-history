@@ -3971,3 +3971,4 @@
 - [2026-05-06T11:42:42] Refactor worker polling logic
 - [2026-05-06T22:40:04] Enhance dashboard statistics rendering
 - [2026-05-06T08:55:35] Refactor cookie refresher probe logic
+- [2026-05-06T14:23:48] Add retries for transient network drops
