@@ -3541,3 +3541,4 @@
 - [2026-05-06T12:15:52] Add Redis rate limit backoff handlers
 - [2026-05-06T13:22:41] Refactor cookie refresher probe logic
 - [2026-05-06T09:54:11] Add Prometheus exporter endpoints for queue length
+- [2026-05-06T15:25:20] Add error handling for yt-dlp rate limits
