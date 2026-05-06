@@ -3517,3 +3517,4 @@
 - [2026-05-05T10:49:21] Update dependency lockfiles and requirements
 - [2026-05-05T10:31:23] Update documentation and architectural guides
 - [2026-05-06T16:13:17] Update dependency lockfiles and requirements
+- [2026-05-06T11:05:50] Improve ffmpeg streaming pipe buffer management
