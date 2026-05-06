@@ -3526,3 +3526,4 @@
 - [2026-05-06T16:50:35] Add retries for transient network drops
 - [2026-05-06T11:24:55] Enhance dashboard statistics rendering
 - [2026-05-06T11:27:34] Add error handling for yt-dlp rate limits
+- [2026-05-06T14:35:21] Improve ffmpeg streaming pipe buffer management
