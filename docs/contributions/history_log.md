@@ -3979,3 +3979,4 @@
 - [2026-05-07T13:49:10] Fix edge case in channel tab crawler
 - [2026-05-07T14:14:09] Improve logging and health endpoint metrics
 - [2026-05-07T13:25:27] Implement streaming upload chunk buffer optimization
+- [2026-05-07T17:18:58] Add retries for transient network drops
