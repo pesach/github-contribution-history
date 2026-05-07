@@ -3572,3 +3572,4 @@
 - [2026-05-07T15:16:38] Update B2 storage chunking parameters
 - [2026-05-07T09:56:49] Improve ffmpeg streaming pipe buffer management
 - [2026-05-07T13:23:22] Enhance dashboard statistics rendering
+- [2026-05-07T15:43:39] Improve logging and health endpoint metrics
