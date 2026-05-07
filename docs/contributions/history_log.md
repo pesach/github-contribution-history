@@ -3985,3 +3985,4 @@
 - [2026-05-07T16:14:57] Improve logging and health endpoint metrics
 - [2026-05-07T11:48:22] Update documentation and architectural guides
 - [2026-05-07T14:04:28] Fix edge case in channel tab crawler
+- [2026-05-07T11:29:54] Refactor storage upload retry mechanism
