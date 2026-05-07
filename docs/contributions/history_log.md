@@ -3565,3 +3565,4 @@
 - [2026-05-07T18:46:43] Add Prometheus exporter endpoints for queue length
 - [2026-05-07T21:46:51] Update automated pytest test suites
 - [2026-05-07T21:41:00] Clean up legacy worker task routines
+- [2026-05-07T10:46:18] Enhance dashboard statistics rendering
