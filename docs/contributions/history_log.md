@@ -3569,3 +3569,4 @@
 - [2026-05-07T12:59:12] Add Redis rate limit backoff handlers
 - [2026-05-07T12:54:29] Improve logging and health endpoint metrics
 - [2026-05-07T11:13:37] Add retries for transient network drops
+- [2026-05-07T15:16:38] Update B2 storage chunking parameters
