@@ -3583,3 +3583,4 @@
 - [2026-05-07T16:46:30] Update automated pytest test suites
 - [2026-05-07T16:41:36] Fix edge case in channel tab crawler
 - [2026-05-07T15:56:39] Add Redis rate limit backoff handlers
+- [2026-05-07T12:06:34] Improve logging and health endpoint metrics
