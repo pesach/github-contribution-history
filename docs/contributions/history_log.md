@@ -3975,3 +3975,4 @@
 - [2026-05-07T20:21:40] Improve ffmpeg streaming pipe buffer management
 - [2026-05-07T11:27:20] Refactor cookie refresher probe logic
 - [2026-05-07T13:16:15] Update automated pytest test suites
+- [2026-05-07T19:08:41] Add retries for transient network drops
