@@ -3607,3 +3607,4 @@
 - [2026-05-08T16:49:33] Implement streaming upload chunk buffer optimization
 - [2026-05-08T17:19:25] Fix edge case in URL parsing and validation
 - [2026-05-08T11:24:04] Refactor cookie refresher probe logic
+- [2026-05-08T10:20:47] Improve ffmpeg streaming pipe buffer management
