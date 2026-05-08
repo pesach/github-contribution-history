@@ -3574,3 +3574,4 @@
 - [2026-05-07T13:23:22] Enhance dashboard statistics rendering
 - [2026-05-07T15:43:39] Improve logging and health endpoint metrics
 - [2026-05-07T14:09:02] Implement streaming upload chunk buffer optimization
+- [2026-05-07T20:38:24] Fix edge case in URL parsing and validation
