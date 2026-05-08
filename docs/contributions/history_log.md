@@ -3617,3 +3617,4 @@
 - [2026-05-08T13:51:36] Update schema migration helpers
 - [2026-05-08T22:22:43] Add retries for transient network drops
 - [2026-05-08T20:04:42] Update automated pytest test suites
+- [2026-05-08T08:23:41] Refactor storage upload retry mechanism
