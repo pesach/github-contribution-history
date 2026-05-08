@@ -3593,3 +3593,4 @@
 - [2026-05-08T16:45:56] Improve ffmpeg streaming pipe buffer management
 - [2026-05-08T18:26:31] Refactor cookie refresher probe logic
 - [2026-05-08T08:53:51] Fix edge case in URL parsing and validation
+- [2026-05-08T08:11:49] Add Prometheus exporter endpoints for queue length
