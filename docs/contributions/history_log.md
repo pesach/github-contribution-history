@@ -3591,3 +3591,4 @@
 - [2026-05-08T16:30:32] Clean up legacy worker task routines
 - [2026-05-08T22:04:36] Clean up legacy worker task routines
 - [2026-05-08T16:45:56] Improve ffmpeg streaming pipe buffer management
+- [2026-05-08T18:26:31] Refactor cookie refresher probe logic
