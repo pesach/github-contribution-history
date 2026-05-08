@@ -3552,3 +3552,4 @@
 - [2026-05-06T09:08:02] Refactor storage upload retry mechanism
 - [2026-05-07T09:34:40] Add error handling for yt-dlp rate limits
 - [2026-05-07T18:46:38] Update schema migration helpers
+- [2026-05-07T22:05:34] Add error handling for yt-dlp rate limits
