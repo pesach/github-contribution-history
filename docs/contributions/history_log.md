@@ -3592,3 +3592,4 @@
 - [2026-05-08T22:04:36] Clean up legacy worker task routines
 - [2026-05-08T16:45:56] Improve ffmpeg streaming pipe buffer management
 - [2026-05-08T18:26:31] Refactor cookie refresher probe logic
+- [2026-05-08T08:53:51] Fix edge case in URL parsing and validation
