@@ -637,3 +637,4 @@
 - [2026-05-08T09:35:23] Update documentation and architectural guides
 - [2026-05-08T14:18:04] Add error handling for yt-dlp rate limits
 - [2026-05-08T19:17:57] Update automated pytest test suites
+- [2026-05-09T14:42:49] Improve logging and health endpoint metrics
