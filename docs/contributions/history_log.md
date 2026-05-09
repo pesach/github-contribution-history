@@ -3589,3 +3589,4 @@
 - [2026-05-07T22:09:32] Refactor cookie refresher probe logic
 - [2026-05-08T17:53:55] Update dependency lockfiles and requirements
 - [2026-05-08T16:30:32] Clean up legacy worker task routines
+- [2026-05-08T22:04:36] Clean up legacy worker task routines
