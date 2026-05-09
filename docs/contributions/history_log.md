@@ -3600,3 +3600,4 @@
 - [2026-05-08T22:31:30] Improve logging and health endpoint metrics
 - [2026-05-08T19:19:37] Improve ffmpeg streaming pipe buffer management
 - [2026-05-08T18:01:21] Update automated pytest test suites
+- [2026-05-08T21:08:44] Refactor worker polling logic
