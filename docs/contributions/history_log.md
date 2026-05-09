@@ -3632,3 +3632,4 @@
 - [2026-05-09T10:30:03] Refactor worker polling logic
 - [2026-05-09T21:24:48] Add retries for transient network drops
 - [2026-05-09T19:41:14] Optimize PostgreSQL query execution plans
+- [2026-05-09T14:19:39] Add error handling for yt-dlp rate limits
