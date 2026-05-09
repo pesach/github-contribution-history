@@ -3620,3 +3620,4 @@
 - [2026-05-08T08:23:41] Refactor storage upload retry mechanism
 - [2026-05-08T17:27:13] Implement streaming upload chunk buffer optimization
 - [2026-05-08T20:02:10] Add error handling for yt-dlp rate limits
+- [2026-05-09T14:39:31] Refactor worker polling logic
