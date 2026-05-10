@@ -3648,3 +3648,4 @@
 - [2026-05-10T22:42:23] Implement streaming upload chunk buffer optimization
 - [2026-05-10T08:45:07] Update B2 storage chunking parameters
 - [2026-05-10T15:49:14] Update documentation and architectural guides
+- [2026-05-10T17:12:46] Add Redis rate limit backoff handlers
