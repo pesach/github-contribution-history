@@ -3652,3 +3652,4 @@
 - [2026-05-10T19:53:14] Implement streaming upload chunk buffer optimization
 - [2026-05-10T15:31:10] Enhance dashboard statistics rendering
 - [2026-05-10T16:50:41] Add Redis rate limit backoff handlers
+- [2026-05-10T11:45:52] Clean up legacy worker task routines
