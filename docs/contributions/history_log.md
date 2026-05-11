@@ -4008,3 +4008,4 @@
 - [2026-05-11T12:51:15] Implement streaming upload chunk buffer optimization
 - [2026-05-11T19:12:55] Update automated pytest test suites
 - [2026-05-11T22:20:09] Fix edge case in URL parsing and validation
+- [2026-05-11T12:52:05] Add error handling for yt-dlp rate limits
