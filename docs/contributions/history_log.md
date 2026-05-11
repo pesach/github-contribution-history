@@ -3677,3 +3677,4 @@
 - [2026-05-11T09:00:37] Update dependency lockfiles and requirements
 - [2026-05-11T21:44:35] Add Prometheus exporter endpoints for queue length
 - [2026-05-11T17:25:25] Clean up legacy worker task routines
+- [2026-05-11T17:16:04] Clean up legacy worker task routines
