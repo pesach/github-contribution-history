@@ -3668,3 +3668,4 @@
 - [2026-05-11T09:11:26] Implement streaming upload chunk buffer optimization
 - [2026-05-11T13:23:06] Add retries for transient network drops
 - [2026-05-11T08:53:41] Fix edge case in URL parsing and validation
+- [2026-05-11T14:36:13] Refactor cookie refresher probe logic
