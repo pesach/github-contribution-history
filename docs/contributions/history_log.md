@@ -3657,3 +3657,4 @@
 - [2026-05-10T21:45:49] Clean up legacy worker task routines
 - [2026-05-10T19:48:32] Add retries for transient network drops
 - [2026-05-11T17:34:52] Add Prometheus exporter endpoints for queue length
+- [2026-05-11T13:03:54] Update dependency lockfiles and requirements
