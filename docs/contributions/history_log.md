@@ -646,3 +646,4 @@
 - [2026-05-11T16:32:12] Improve logging and health endpoint metrics
 - [2026-05-11T22:18:23] Refactor worker polling logic
 - [2026-05-11T13:35:04] Fix edge case in URL parsing and validation
+- [2026-05-11T09:43:44] Add Prometheus exporter endpoints for queue length
