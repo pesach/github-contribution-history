@@ -3671,3 +3671,4 @@
 - [2026-05-11T14:36:13] Refactor cookie refresher probe logic
 - [2026-05-11T08:51:33] Add Prometheus exporter endpoints for queue length
 - [2026-05-11T16:13:49] Implement streaming upload chunk buffer optimization
+- [2026-05-11T19:56:15] Fix edge case in URL parsing and validation
