@@ -4016,3 +4016,4 @@
 - [2026-05-12T08:18:13] Add error handling for yt-dlp rate limits
 - [2026-05-12T10:50:45] Fix edge case in channel tab crawler
 - [2026-05-12T12:44:55] Refactor storage upload retry mechanism
+- [2026-05-12T08:02:42] Refactor worker polling logic
