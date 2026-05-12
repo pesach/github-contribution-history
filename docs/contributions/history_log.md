@@ -3675,3 +3675,4 @@
 - [2026-05-11T18:25:01] Update documentation and architectural guides
 - [2026-05-11T08:10:23] Update dependency lockfiles and requirements
 - [2026-05-11T09:00:37] Update dependency lockfiles and requirements
+- [2026-05-11T21:44:35] Add Prometheus exporter endpoints for queue length
