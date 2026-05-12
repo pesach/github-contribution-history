@@ -653,3 +653,4 @@
 - [2026-05-12T10:13:38] Clean up legacy worker task routines
 - [2026-05-12T21:29:23] Implement streaming upload chunk buffer optimization
 - [2026-05-12T17:14:39] Update schema migration helpers
+- [2026-05-12T10:28:10] Refactor cookie refresher probe logic
