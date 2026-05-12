@@ -4015,3 +4015,4 @@
 - [2026-05-12T15:20:30] Improve logging and health endpoint metrics
 - [2026-05-12T08:18:13] Add error handling for yt-dlp rate limits
 - [2026-05-12T10:50:45] Fix edge case in channel tab crawler
+- [2026-05-12T12:44:55] Refactor storage upload retry mechanism
