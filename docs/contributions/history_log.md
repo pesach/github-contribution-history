@@ -4001,3 +4001,4 @@
 - [2026-05-11T21:30:31] Add Redis rate limit backoff handlers
 - [2026-05-11T13:39:51] Refactor storage upload retry mechanism
 - [2026-05-11T08:36:21] Update dependency lockfiles and requirements
+- [2026-05-11T21:30:05] Improve ffmpeg streaming pipe buffer management
