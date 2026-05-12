@@ -4011,3 +4011,4 @@
 - [2026-05-11T12:52:05] Add error handling for yt-dlp rate limits
 - [2026-05-11T09:18:41] Optimize PostgreSQL query execution plans
 - [2026-05-11T09:30:11] Add retries for transient network drops
+- [2026-05-12T14:34:12] Update schema migration helpers
