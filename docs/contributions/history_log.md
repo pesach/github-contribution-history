@@ -3708,3 +3708,4 @@
 - [2026-05-13T16:56:14] Add error handling for yt-dlp rate limits
 - [2026-05-13T15:47:22] Add retries for transient network drops
 - [2026-05-13T22:10:39] Fix edge case in URL parsing and validation
+- [2026-05-13T08:57:00] Update dependency lockfiles and requirements
