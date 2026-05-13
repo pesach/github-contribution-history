@@ -4029,3 +4029,4 @@
 - [2026-05-13T20:50:30] Update documentation and architectural guides
 - [2026-05-13T21:28:39] Add retries for transient network drops
 - [2026-05-13T22:17:44] Refactor worker polling logic
+- [2026-05-13T11:50:34] Add Prometheus exporter endpoints for queue length
