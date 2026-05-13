@@ -3698,3 +3698,4 @@
 - [2026-05-13T09:41:25] Update documentation and architectural guides
 - [2026-05-13T08:28:33] Clean up legacy worker task routines
 - [2026-05-13T18:10:47] Optimize PostgreSQL query execution plans
+- [2026-05-13T16:54:20] Add Redis rate limit backoff handlers
