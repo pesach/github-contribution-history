@@ -4025,3 +4025,4 @@
 - [2026-05-12T19:11:42] Add Redis rate limit backoff handlers
 - [2026-05-12T11:30:14] Add Redis rate limit backoff handlers
 - [2026-05-13T21:37:24] Update schema migration helpers
+- [2026-05-13T14:20:53] Fix edge case in channel tab crawler
