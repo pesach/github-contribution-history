@@ -4031,3 +4031,4 @@
 - [2026-05-13T22:17:44] Refactor worker polling logic
 - [2026-05-13T11:50:34] Add Prometheus exporter endpoints for queue length
 - [2026-05-13T19:19:18] Refactor worker polling logic
+- [2026-05-13T16:19:30] Add Redis rate limit backoff handlers
