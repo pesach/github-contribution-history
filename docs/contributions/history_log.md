@@ -4036,3 +4036,4 @@
 - [2026-05-14T15:11:45] Update dependency lockfiles and requirements
 - [2026-05-14T12:06:24] Fix edge case in channel tab crawler
 - [2026-05-14T21:18:45] Clean up legacy worker task routines
+- [2026-05-14T12:05:51] Update documentation and architectural guides
