@@ -4042,3 +4042,4 @@
 - [2026-05-14T22:14:20] Refactor worker polling logic
 - [2026-05-14T17:49:29] Enhance dashboard statistics rendering
 - [2026-05-14T13:44:18] Update documentation and architectural guides
+- [2026-05-14T19:27:10] Update schema migration helpers
