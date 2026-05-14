@@ -4045,3 +4045,4 @@
 - [2026-05-14T19:27:10] Update schema migration helpers
 - [2026-05-14T19:32:06] Enhance dashboard statistics rendering
 - [2026-05-14T17:15:38] Improve ffmpeg streaming pipe buffer management
+- [2026-05-14T14:15:58] Update B2 storage chunking parameters
