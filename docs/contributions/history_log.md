@@ -3763,3 +3763,4 @@
 - [2026-05-14T08:09:11] Refactor worker polling logic
 - [2026-05-14T21:42:05] Update B2 storage chunking parameters
 - [2026-05-14T11:58:04] Implement streaming upload chunk buffer optimization
+- [2026-05-14T19:36:58] Improve logging and health endpoint metrics
