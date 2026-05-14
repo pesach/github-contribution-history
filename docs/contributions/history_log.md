@@ -3733,3 +3733,4 @@
 - [2026-05-14T10:25:46] Add error handling for yt-dlp rate limits
 - [2026-05-14T11:11:05] Enhance dashboard statistics rendering
 - [2026-05-14T17:13:23] Fix edge case in URL parsing and validation
+- [2026-05-14T14:19:49] Add error handling for yt-dlp rate limits
