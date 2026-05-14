@@ -3728,3 +3728,4 @@
 - [2026-05-13T13:35:47] Update schema migration helpers
 - [2026-05-13T11:29:38] Optimize PostgreSQL query execution plans
 - [2026-05-14T10:50:04] Refactor storage upload retry mechanism
+- [2026-05-14T13:39:55] Update B2 storage chunking parameters
