@@ -4024,3 +4024,4 @@
 - [2026-05-12T20:49:54] Add retries for transient network drops
 - [2026-05-12T19:11:42] Add Redis rate limit backoff handlers
 - [2026-05-12T11:30:14] Add Redis rate limit backoff handlers
+- [2026-05-13T21:37:24] Update schema migration helpers
