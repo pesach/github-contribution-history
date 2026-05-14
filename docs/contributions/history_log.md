@@ -3750,3 +3750,4 @@
 - [2026-05-14T18:25:36] Clean up legacy worker task routines
 - [2026-05-14T11:42:30] Optimize PostgreSQL query execution plans
 - [2026-05-14T16:25:55] Add error handling for yt-dlp rate limits
+- [2026-05-14T08:48:07] Fix edge case in URL parsing and validation
