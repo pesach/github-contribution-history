@@ -660,3 +660,4 @@
 - [2026-05-14T16:58:45] Update automated pytest test suites
 - [2026-05-14T16:32:32] Fix edge case in channel tab crawler
 - [2026-05-14T11:24:31] Improve logging and health endpoint metrics
+- [2026-05-14T11:57:07] Update schema migration helpers
