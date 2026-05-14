@@ -3746,3 +3746,4 @@
 - [2026-05-14T10:10:58] Implement streaming upload chunk buffer optimization
 - [2026-05-14T18:21:38] Update B2 storage chunking parameters
 - [2026-05-14T20:43:59] Fix edge case in channel tab crawler
+- [2026-05-14T08:14:38] Fix edge case in URL parsing and validation
