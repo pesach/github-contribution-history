@@ -3789,3 +3789,4 @@
 - [2026-05-15T12:55:17] Update documentation and architectural guides
 - [2026-05-15T16:36:38] Update dependency lockfiles and requirements
 - [2026-05-15T14:53:30] Refactor cookie refresher probe logic
+- [2026-05-15T11:16:34] Fix edge case in URL parsing and validation
