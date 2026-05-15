@@ -3770,3 +3770,4 @@
 - [2026-05-15T20:21:09] Add retries for transient network drops
 - [2026-05-15T11:21:37] Enhance dashboard statistics rendering
 - [2026-05-15T12:23:21] Improve ffmpeg streaming pipe buffer management
+- [2026-05-15T11:38:01] Update B2 storage chunking parameters
