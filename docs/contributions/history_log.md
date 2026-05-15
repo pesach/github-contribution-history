@@ -3769,3 +3769,4 @@
 - [2026-05-15T20:46:12] Enhance dashboard statistics rendering
 - [2026-05-15T20:21:09] Add retries for transient network drops
 - [2026-05-15T11:21:37] Enhance dashboard statistics rendering
+- [2026-05-15T12:23:21] Improve ffmpeg streaming pipe buffer management
