@@ -3783,3 +3783,4 @@
 - [2026-05-15T13:11:38] Update automated pytest test suites
 - [2026-05-15T12:50:16] Fix edge case in URL parsing and validation
 - [2026-05-15T10:46:14] Improve ffmpeg streaming pipe buffer management
+- [2026-05-15T11:20:29] Update dependency lockfiles and requirements
