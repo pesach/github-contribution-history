@@ -4057,3 +4057,4 @@
 - [2026-05-15T09:48:01] Update schema migration helpers
 - [2026-05-15T13:08:35] Optimize PostgreSQL query execution plans
 - [2026-05-15T12:13:07] Enhance dashboard statistics rendering
+- [2026-05-15T15:32:28] Add Prometheus exporter endpoints for queue length
