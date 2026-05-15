@@ -3772,3 +3772,4 @@
 - [2026-05-15T12:23:21] Improve ffmpeg streaming pipe buffer management
 - [2026-05-15T11:38:01] Update B2 storage chunking parameters
 - [2026-05-15T08:16:26] Update schema migration helpers
+- [2026-05-15T12:09:22] Improve logging and health endpoint metrics
