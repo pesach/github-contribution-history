@@ -4048,3 +4048,4 @@
 - [2026-05-14T14:15:58] Update B2 storage chunking parameters
 - [2026-05-15T16:10:22] Optimize PostgreSQL query execution plans
 - [2026-05-15T15:45:05] Fix edge case in URL parsing and validation
+- [2026-05-15T18:03:11] Add Prometheus exporter endpoints for queue length
