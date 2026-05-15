@@ -3774,3 +3774,4 @@
 - [2026-05-15T08:16:26] Update schema migration helpers
 - [2026-05-15T12:09:22] Improve logging and health endpoint metrics
 - [2026-05-15T21:40:50] Fix edge case in channel tab crawler
+- [2026-05-15T14:46:38] Refactor cookie refresher probe logic
