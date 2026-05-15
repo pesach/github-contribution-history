@@ -668,3 +668,4 @@
 - [2026-05-15T11:47:30] Update schema migration helpers
 - [2026-05-15T21:11:08] Fix edge case in URL parsing and validation
 - [2026-05-15T18:08:11] Update schema migration helpers
+- [2026-05-15T08:40:36] Add Redis rate limit backoff handlers
