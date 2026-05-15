@@ -3798,3 +3798,4 @@
 - [2026-05-15T20:54:38] Update automated pytest test suites
 - [2026-05-15T18:59:45] Update B2 storage chunking parameters
 - [2026-05-15T14:14:02] Add retries for transient network drops
+- [2026-05-15T09:55:10] Clean up legacy worker task routines
