@@ -3805,3 +3805,4 @@
 - [2026-05-16T08:33:38] Add Prometheus exporter endpoints for queue length
 - [2026-05-16T15:57:31] Fix edge case in channel tab crawler
 - [2026-05-16T14:41:07] Optimize PostgreSQL query execution plans
+- [2026-05-16T19:59:54] Update schema migration helpers
