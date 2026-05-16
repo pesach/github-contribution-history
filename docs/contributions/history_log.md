@@ -3776,3 +3776,4 @@
 - [2026-05-15T21:40:50] Fix edge case in channel tab crawler
 - [2026-05-15T14:46:38] Refactor cookie refresher probe logic
 - [2026-05-15T21:38:02] Add Prometheus exporter endpoints for queue length
+- [2026-05-15T20:27:47] Fix edge case in URL parsing and validation
