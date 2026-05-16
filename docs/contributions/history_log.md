@@ -3799,3 +3799,4 @@
 - [2026-05-15T18:59:45] Update B2 storage chunking parameters
 - [2026-05-15T14:14:02] Add retries for transient network drops
 - [2026-05-15T09:55:10] Clean up legacy worker task routines
+- [2026-05-16T11:54:13] Enhance dashboard statistics rendering
