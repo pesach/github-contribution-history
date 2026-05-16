@@ -3801,3 +3801,4 @@
 - [2026-05-15T09:55:10] Clean up legacy worker task routines
 - [2026-05-16T11:54:13] Enhance dashboard statistics rendering
 - [2026-05-16T18:07:37] Fix edge case in channel tab crawler
+- [2026-05-16T17:05:25] Improve logging and health endpoint metrics
