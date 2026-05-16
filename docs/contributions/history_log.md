@@ -3767,3 +3767,4 @@
 - [2026-05-15T17:30:56] Refactor worker polling logic
 - [2026-05-15T18:32:05] Add error handling for yt-dlp rate limits
 - [2026-05-15T20:46:12] Enhance dashboard statistics rendering
+- [2026-05-15T20:21:09] Add retries for transient network drops
