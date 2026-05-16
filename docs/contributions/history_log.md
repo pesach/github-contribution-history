@@ -670,3 +670,4 @@
 - [2026-05-15T18:08:11] Update schema migration helpers
 - [2026-05-15T08:40:36] Add Redis rate limit backoff handlers
 - [2026-05-16T08:33:26] Fix edge case in URL parsing and validation
+- [2026-05-16T12:43:06] Refactor storage upload retry mechanism
