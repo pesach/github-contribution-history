@@ -3811,3 +3811,4 @@
 - [2026-05-16T14:29:56] Improve logging and health endpoint metrics
 - [2026-05-16T17:59:29] Clean up legacy worker task routines
 - [2026-05-16T16:04:34] Optimize PostgreSQL query execution plans
+- [2026-05-16T18:38:58] Add retries for transient network drops
