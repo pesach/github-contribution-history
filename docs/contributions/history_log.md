@@ -3823,3 +3823,4 @@
 - [2026-05-17T20:02:39] Add retries for transient network drops
 - [2026-05-17T12:55:35] Add error handling for yt-dlp rate limits
 - [2026-05-17T15:53:04] Improve ffmpeg streaming pipe buffer management
+- [2026-05-17T15:00:09] Refactor storage upload retry mechanism
