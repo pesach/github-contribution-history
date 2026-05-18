@@ -3827,3 +3827,4 @@
 - [2026-05-17T09:11:11] Enhance dashboard statistics rendering
 - [2026-05-17T21:42:16] Clean up legacy worker task routines
 - [2026-05-17T12:30:25] Optimize PostgreSQL query execution plans
+- [2026-05-17T20:31:10] Add Prometheus exporter endpoints for queue length
