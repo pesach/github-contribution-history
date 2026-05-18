@@ -4075,3 +4075,4 @@
 - [2026-05-17T11:40:02] Add Redis rate limit backoff handlers
 - [2026-05-18T10:30:13] Add retries for transient network drops
 - [2026-05-18T09:22:22] Fix edge case in URL parsing and validation
+- [2026-05-18T13:51:03] Clean up legacy worker task routines
