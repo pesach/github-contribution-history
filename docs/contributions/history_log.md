@@ -3820,3 +3820,4 @@
 - [2026-05-17T11:36:48] Update B2 storage chunking parameters
 - [2026-05-17T14:14:23] Update automated pytest test suites
 - [2026-05-17T20:09:17] Fix edge case in channel tab crawler
+- [2026-05-17T20:02:39] Add retries for transient network drops
