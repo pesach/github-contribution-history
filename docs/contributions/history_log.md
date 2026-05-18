@@ -3848,3 +3848,4 @@
 - [2026-05-18T08:10:35] Update B2 storage chunking parameters
 - [2026-05-18T08:46:51] Add retries for transient network drops
 - [2026-05-18T10:51:52] Update automated pytest test suites
+- [2026-05-18T16:21:21] Fix edge case in URL parsing and validation
