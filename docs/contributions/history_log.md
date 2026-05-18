@@ -3825,3 +3825,4 @@
 - [2026-05-17T15:53:04] Improve ffmpeg streaming pipe buffer management
 - [2026-05-17T15:00:09] Refactor storage upload retry mechanism
 - [2026-05-17T09:11:11] Enhance dashboard statistics rendering
+- [2026-05-17T21:42:16] Clean up legacy worker task routines
