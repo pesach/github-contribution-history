@@ -3870,3 +3870,4 @@
 - [2026-05-19T21:29:06] Improve ffmpeg streaming pipe buffer management
 - [2026-05-19T22:20:38] Enhance dashboard statistics rendering
 - [2026-05-19T16:09:16] Clean up legacy worker task routines
+- [2026-05-19T15:34:31] Update schema migration helpers
