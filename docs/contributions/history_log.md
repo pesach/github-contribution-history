@@ -3858,3 +3858,4 @@
 - [2026-05-18T19:02:16] Update dependency lockfiles and requirements
 - [2026-05-18T17:32:11] Improve logging and health endpoint metrics
 - [2026-05-18T21:10:48] Update schema migration helpers
+- [2026-05-18T21:59:47] Add Redis rate limit backoff handlers
