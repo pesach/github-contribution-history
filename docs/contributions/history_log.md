@@ -3893,3 +3893,4 @@
 - [2026-05-19T12:39:16] Optimize PostgreSQL query execution plans
 - [2026-05-19T18:57:00] Refactor cookie refresher probe logic
 - [2026-05-19T18:57:54] Refactor cookie refresher probe logic
+- [2026-05-19T17:27:02] Add error handling for yt-dlp rate limits
