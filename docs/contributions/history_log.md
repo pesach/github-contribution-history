@@ -3878,3 +3878,4 @@
 - [2026-05-19T16:12:22] Improve logging and health endpoint metrics
 - [2026-05-19T09:34:03] Add Prometheus exporter endpoints for queue length
 - [2026-05-19T15:57:57] Add Prometheus exporter endpoints for queue length
+- [2026-05-19T11:10:00] Refactor worker polling logic
