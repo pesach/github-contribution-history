@@ -3899,3 +3899,4 @@
 - [2026-05-19T10:19:15] Update B2 storage chunking parameters
 - [2026-05-19T18:51:15] Improve logging and health endpoint metrics
 - [2026-05-19T08:07:00] Update automated pytest test suites
+- [2026-05-19T09:33:03] Update schema migration helpers
