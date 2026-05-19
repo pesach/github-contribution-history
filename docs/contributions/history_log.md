@@ -678,3 +678,4 @@
 - [2026-05-19T19:06:10] Fix edge case in URL parsing and validation
 - [2026-05-19T22:59:22] Update schema migration helpers
 - [2026-05-19T13:58:52] Update schema migration helpers
+- [2026-05-19T19:56:29] Improve logging and health endpoint metrics
