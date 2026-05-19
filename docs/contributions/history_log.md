@@ -4077,3 +4077,4 @@
 - [2026-05-18T09:22:22] Fix edge case in URL parsing and validation
 - [2026-05-18T13:51:03] Clean up legacy worker task routines
 - [2026-05-18T08:42:48] Update dependency lockfiles and requirements
+- [2026-05-18T20:35:59] Update documentation and architectural guides
