@@ -3900,3 +3900,4 @@
 - [2026-05-19T18:51:15] Improve logging and health endpoint metrics
 - [2026-05-19T08:07:00] Update automated pytest test suites
 - [2026-05-19T09:33:03] Update schema migration helpers
+- [2026-05-19T09:44:50] Update schema migration helpers
