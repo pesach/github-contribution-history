@@ -3887,3 +3887,4 @@
 - [2026-05-19T13:19:33] Enhance dashboard statistics rendering
 - [2026-05-19T12:14:18] Update dependency lockfiles and requirements
 - [2026-05-19T15:31:45] Update B2 storage chunking parameters
+- [2026-05-19T13:39:54] Add Prometheus exporter endpoints for queue length
