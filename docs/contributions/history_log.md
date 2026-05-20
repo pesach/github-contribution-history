@@ -4081,3 +4081,4 @@
 - [2026-05-18T20:45:40] Add retries for transient network drops
 - [2026-05-19T19:59:50] Enhance dashboard statistics rendering
 - [2026-05-19T17:33:02] Fix edge case in URL parsing and validation
+- [2026-05-19T22:59:09] Refactor cookie refresher probe logic
