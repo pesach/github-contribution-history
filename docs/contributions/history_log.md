@@ -3915,3 +3915,4 @@
 - [2026-05-20T11:23:59] Improve ffmpeg streaming pipe buffer management
 - [2026-05-20T21:13:01] Implement streaming upload chunk buffer optimization
 - [2026-05-20T15:39:15] Optimize PostgreSQL query execution plans
+- [2026-05-20T10:37:03] Clean up legacy worker task routines
