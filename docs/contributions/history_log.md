@@ -3932,3 +3932,4 @@
 - [2026-05-20T14:35:57] Optimize PostgreSQL query execution plans
 - [2026-05-20T09:47:03] Update documentation and architectural guides
 - [2026-05-20T16:58:37] Update automated pytest test suites
+- [2026-05-20T13:58:55] Add Prometheus exporter endpoints for queue length
