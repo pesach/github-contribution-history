@@ -3867,3 +3867,4 @@
 - [2026-05-18T12:31:19] Update documentation and architectural guides
 - [2026-05-18T11:46:50] Implement streaming upload chunk buffer optimization
 - [2026-05-18T10:22:04] Refactor storage upload retry mechanism
+- [2026-05-19T21:29:06] Improve ffmpeg streaming pipe buffer management
