@@ -3937,3 +3937,4 @@
 - [2026-05-20T13:21:02] Clean up legacy worker task routines
 - [2026-05-20T15:55:05] Update schema migration helpers
 - [2026-05-20T10:48:18] Add error handling for yt-dlp rate limits
+- [2026-05-20T08:52:23] Refactor storage upload retry mechanism
