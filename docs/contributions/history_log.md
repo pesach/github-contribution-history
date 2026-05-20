@@ -3922,3 +3922,4 @@
 - [2026-05-20T15:03:42] Enhance dashboard statistics rendering
 - [2026-05-20T15:11:39] Update dependency lockfiles and requirements
 - [2026-05-20T21:06:24] Update schema migration helpers
+- [2026-05-20T19:42:18] Improve logging and health endpoint metrics
