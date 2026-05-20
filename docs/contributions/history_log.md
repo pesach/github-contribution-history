@@ -682,3 +682,4 @@
 - [2026-05-20T08:44:44] Refactor cookie refresher probe logic
 - [2026-05-20T19:06:10] Refactor storage upload retry mechanism
 - [2026-05-20T11:31:11] Update B2 storage chunking parameters
+- [2026-05-20T17:00:30] Update schema migration helpers
