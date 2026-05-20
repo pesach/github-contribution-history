@@ -680,3 +680,4 @@
 - [2026-05-19T13:58:52] Update schema migration helpers
 - [2026-05-19T19:56:29] Improve logging and health endpoint metrics
 - [2026-05-20T08:44:44] Refactor cookie refresher probe logic
+- [2026-05-20T19:06:10] Refactor storage upload retry mechanism
