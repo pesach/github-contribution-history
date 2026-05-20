@@ -3924,3 +3924,4 @@
 - [2026-05-20T21:06:24] Update schema migration helpers
 - [2026-05-20T19:42:18] Improve logging and health endpoint metrics
 - [2026-05-20T19:31:34] Refactor storage upload retry mechanism
+- [2026-05-20T17:16:28] Update documentation and architectural guides
