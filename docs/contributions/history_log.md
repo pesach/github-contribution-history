@@ -3935,3 +3935,4 @@
 - [2026-05-20T13:58:55] Add Prometheus exporter endpoints for queue length
 - [2026-05-20T14:50:25] Add retries for transient network drops
 - [2026-05-20T13:21:02] Clean up legacy worker task routines
+- [2026-05-20T15:55:05] Update schema migration helpers
