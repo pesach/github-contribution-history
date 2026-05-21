@@ -3944,3 +3944,4 @@
 - [2026-05-20T17:26:23] Refactor worker polling logic
 - [2026-05-21T09:04:08] Refactor storage upload retry mechanism
 - [2026-05-21T22:28:25] Fix edge case in URL parsing and validation
+- [2026-05-21T13:17:16] Update B2 storage chunking parameters
