@@ -691,3 +691,4 @@
 - [2026-05-21T18:40:45] Fix edge case in channel tab crawler
 - [2026-05-21T12:33:20] Update documentation and architectural guides
 - [2026-05-21T19:53:37] Update schema migration helpers
+- [2026-05-21T18:08:38] Refactor worker polling logic
