@@ -3906,3 +3906,4 @@
 - [2026-05-19T22:08:33] Add retries for transient network drops
 - [2026-05-20T20:29:40] Improve ffmpeg streaming pipe buffer management
 - [2026-05-20T14:47:03] Update B2 storage chunking parameters
+- [2026-05-20T22:24:29] Update automated pytest test suites
