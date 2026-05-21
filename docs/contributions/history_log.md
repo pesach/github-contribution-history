@@ -4088,3 +4088,4 @@
 - [2026-05-19T19:58:18] Refactor cookie refresher probe logic
 - [2026-05-19T11:22:57] Add retries for transient network drops
 - [2026-05-20T10:36:50] Update automated pytest test suites
+- [2026-05-20T21:56:35] Clean up legacy worker task routines
