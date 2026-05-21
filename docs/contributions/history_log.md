@@ -3950,3 +3950,4 @@
 - [2026-05-21T15:36:52] Update automated pytest test suites
 - [2026-05-21T15:30:05] Update automated pytest test suites
 - [2026-05-21T12:50:34] Update B2 storage chunking parameters
+- [2026-05-21T15:03:19] Update documentation and architectural guides
