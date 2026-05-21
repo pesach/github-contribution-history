@@ -3958,3 +3958,4 @@
 - [2026-05-21T17:08:46] Fix edge case in URL parsing and validation
 - [2026-05-21T18:32:11] Add Prometheus exporter endpoints for queue length
 - [2026-05-21T14:09:23] Update B2 storage chunking parameters
+- [2026-05-21T15:46:31] Add retries for transient network drops
