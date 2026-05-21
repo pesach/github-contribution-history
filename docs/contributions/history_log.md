@@ -687,3 +687,4 @@
 - [2026-05-20T09:10:03] Refactor cookie refresher probe logic
 - [2026-05-21T15:43:38] Update dependency lockfiles and requirements
 - [2026-05-21T19:40:00] Update documentation and architectural guides
+- [2026-05-21T12:06:16] Fix edge case in channel tab crawler
