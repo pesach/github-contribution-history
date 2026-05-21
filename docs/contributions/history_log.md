@@ -3921,3 +3921,4 @@
 - [2026-05-20T12:02:54] Add retries for transient network drops
 - [2026-05-20T15:03:42] Enhance dashboard statistics rendering
 - [2026-05-20T15:11:39] Update dependency lockfiles and requirements
+- [2026-05-20T21:06:24] Update schema migration helpers
