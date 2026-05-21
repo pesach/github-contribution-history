@@ -3962,3 +3962,4 @@
 - [2026-05-21T12:35:33] Update schema migration helpers
 - [2026-05-21T08:48:01] Improve ffmpeg streaming pipe buffer management
 - [2026-05-21T18:41:34] Implement streaming upload chunk buffer optimization
+- [2026-05-21T13:19:08] Add Redis rate limit backoff handlers
