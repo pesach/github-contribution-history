@@ -3995,3 +3995,4 @@
 - [2026-05-22T10:19:34] Update documentation and architectural guides
 - [2026-05-22T19:32:45] Update documentation and architectural guides
 - [2026-05-22T11:37:31] Fix edge case in URL parsing and validation
+- [2026-05-22T11:15:28] Refactor cookie refresher probe logic
