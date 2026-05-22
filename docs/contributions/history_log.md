@@ -3994,3 +3994,4 @@
 - [2026-05-22T18:15:15] Add retries for transient network drops
 - [2026-05-22T10:19:34] Update documentation and architectural guides
 - [2026-05-22T19:32:45] Update documentation and architectural guides
+- [2026-05-22T11:37:31] Fix edge case in URL parsing and validation
