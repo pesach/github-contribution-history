@@ -4000,3 +4000,4 @@
 - [2026-05-22T14:27:38] Enhance dashboard statistics rendering
 - [2026-05-22T14:29:01] Fix edge case in URL parsing and validation
 - [2026-05-22T09:48:58] Add retries for transient network drops
+- [2026-05-22T19:10:31] Add Redis rate limit backoff handlers
