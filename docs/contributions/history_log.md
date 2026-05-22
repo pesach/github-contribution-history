@@ -692,3 +692,4 @@
 - [2026-05-21T12:33:20] Update documentation and architectural guides
 - [2026-05-21T19:53:37] Update schema migration helpers
 - [2026-05-21T18:08:38] Refactor worker polling logic
+- [2026-05-22T16:30:53] Clean up legacy worker task routines
