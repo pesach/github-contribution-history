@@ -3974,3 +3974,4 @@
 - [2026-05-21T16:50:40] Refactor cookie refresher probe logic
 - [2026-05-21T22:18:52] Fix edge case in channel tab crawler
 - [2026-05-21T10:20:34] Optimize PostgreSQL query execution plans
+- [2026-05-21T20:44:53] Add Redis rate limit backoff handlers
