@@ -4005,3 +4005,4 @@
 - [2026-05-22T22:46:23] Update automated pytest test suites
 - [2026-05-22T22:30:48] Add error handling for yt-dlp rate limits
 - [2026-05-22T17:03:34] Fix edge case in channel tab crawler
+- [2026-05-22T19:09:28] Add Redis rate limit backoff handlers
