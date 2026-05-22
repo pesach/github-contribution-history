@@ -3998,3 +3998,4 @@
 - [2026-05-22T11:15:28] Refactor cookie refresher probe logic
 - [2026-05-22T10:04:03] Clean up legacy worker task routines
 - [2026-05-22T14:27:38] Enhance dashboard statistics rendering
+- [2026-05-22T14:29:01] Fix edge case in URL parsing and validation
