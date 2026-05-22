@@ -4103,3 +4103,4 @@
 - [2026-05-22T15:52:32] Update schema migration helpers
 - [2026-05-22T11:46:27] Improve logging and health endpoint metrics
 - [2026-05-22T13:43:26] Update automated pytest test suites
+- [2026-05-22T11:43:39] Improve ffmpeg streaming pipe buffer management
