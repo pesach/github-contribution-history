@@ -3986,3 +3986,4 @@
 - [2026-05-22T09:22:33] Update documentation and architectural guides
 - [2026-05-22T20:53:42] Update documentation and architectural guides
 - [2026-05-22T17:48:50] Improve ffmpeg streaming pipe buffer management
+- [2026-05-22T18:10:57] Fix edge case in URL parsing and validation
