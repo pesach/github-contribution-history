@@ -693,3 +693,4 @@
 - [2026-05-21T19:53:37] Update schema migration helpers
 - [2026-05-21T18:08:38] Refactor worker polling logic
 - [2026-05-22T16:30:53] Clean up legacy worker task routines
+- [2026-05-22T11:32:17] Add Prometheus exporter endpoints for queue length
