@@ -3977,3 +3977,4 @@
 - [2026-05-21T20:44:53] Add Redis rate limit backoff handlers
 - [2026-05-21T22:03:49] Enhance dashboard statistics rendering
 - [2026-05-21T14:36:40] Improve logging and health endpoint metrics
+- [2026-05-22T08:46:40] Fix edge case in URL parsing and validation
