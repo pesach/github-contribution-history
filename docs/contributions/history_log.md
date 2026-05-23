@@ -4012,3 +4012,4 @@
 - [2026-05-22T15:25:36] Optimize PostgreSQL query execution plans
 - [2026-05-22T18:07:47] Improve ffmpeg streaming pipe buffer management
 - [2026-05-23T22:24:56] Update B2 storage chunking parameters
+- [2026-05-23T16:24:20] Refactor worker polling logic
