@@ -4023,3 +4023,4 @@
 - [2026-05-23T18:47:46] Improve logging and health endpoint metrics
 - [2026-05-23T18:33:23] Refactor cookie refresher probe logic
 - [2026-05-23T17:20:28] Refactor cookie refresher probe logic
+- [2026-05-23T10:15:20] Update schema migration helpers
