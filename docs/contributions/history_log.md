@@ -4003,3 +4003,4 @@
 - [2026-05-22T19:10:31] Add Redis rate limit backoff handlers
 - [2026-05-22T22:00:24] Optimize PostgreSQL query execution plans
 - [2026-05-22T22:46:23] Update automated pytest test suites
+- [2026-05-22T22:30:48] Add error handling for yt-dlp rate limits
