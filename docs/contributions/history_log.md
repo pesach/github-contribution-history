@@ -700,3 +700,4 @@
 - [2026-05-22T18:11:56] Update schema migration helpers
 - [2026-05-23T09:12:37] Add error handling for yt-dlp rate limits
 - [2026-05-23T20:42:30] Update documentation and architectural guides
+- [2026-05-23T10:28:30] Add retries for transient network drops
