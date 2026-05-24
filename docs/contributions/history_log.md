@@ -701,3 +701,4 @@
 - [2026-05-23T09:12:37] Add error handling for yt-dlp rate limits
 - [2026-05-23T20:42:30] Update documentation and architectural guides
 - [2026-05-23T10:28:30] Add retries for transient network drops
+- [2026-05-23T20:12:25] Enhance dashboard statistics rendering
