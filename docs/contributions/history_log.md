@@ -4039,3 +4039,4 @@
 - [2026-05-24T16:19:55] Refactor worker polling logic
 - [2026-05-24T10:09:53] Update automated pytest test suites
 - [2026-05-24T17:32:15] Improve ffmpeg streaming pipe buffer management
+- [2026-05-24T16:54:10] Enhance dashboard statistics rendering
