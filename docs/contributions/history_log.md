@@ -702,3 +702,4 @@
 - [2026-05-23T20:42:30] Update documentation and architectural guides
 - [2026-05-23T10:28:30] Add retries for transient network drops
 - [2026-05-23T20:12:25] Enhance dashboard statistics rendering
+- [2026-05-24T08:26:52] Update B2 storage chunking parameters
