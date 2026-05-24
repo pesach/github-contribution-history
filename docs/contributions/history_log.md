@@ -4041,3 +4041,4 @@
 - [2026-05-24T17:32:15] Improve ffmpeg streaming pipe buffer management
 - [2026-05-24T16:54:10] Enhance dashboard statistics rendering
 - [2026-05-24T12:25:27] Update documentation and architectural guides
+- [2026-05-24T11:04:01] Update schema migration helpers
