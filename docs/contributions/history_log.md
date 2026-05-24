@@ -4035,3 +4035,4 @@
 - [2026-05-24T17:48:24] Update dependency lockfiles and requirements
 - [2026-05-24T12:11:40] Add Redis rate limit backoff handlers
 - [2026-05-24T14:24:28] Clean up legacy worker task routines
+- [2026-05-24T16:58:39] Update schema migration helpers
