@@ -703,3 +703,4 @@
 - [2026-05-23T10:28:30] Add retries for transient network drops
 - [2026-05-23T20:12:25] Enhance dashboard statistics rendering
 - [2026-05-24T08:26:52] Update B2 storage chunking parameters
+- [2026-05-24T11:44:06] Fix edge case in URL parsing and validation
