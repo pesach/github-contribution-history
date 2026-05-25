@@ -4079,3 +4079,4 @@
 - [2026-05-25T11:59:28] Refactor cookie refresher probe logic
 - [2026-05-25T15:26:42] Refactor worker polling logic
 - [2026-05-25T19:08:48] Implement streaming upload chunk buffer optimization
+- [2026-05-25T14:03:02] Clean up legacy worker task routines
