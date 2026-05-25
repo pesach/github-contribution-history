@@ -4055,3 +4055,4 @@
 - [2026-05-25T08:02:08] Fix edge case in URL parsing and validation
 - [2026-05-25T22:07:24] Refactor cookie refresher probe logic
 - [2026-05-25T09:32:37] Add Prometheus exporter endpoints for queue length
+- [2026-05-25T19:03:18] Update dependency lockfiles and requirements
