@@ -4067,3 +4067,4 @@
 - [2026-05-25T21:33:24] Implement streaming upload chunk buffer optimization
 - [2026-05-25T11:28:14] Update dependency lockfiles and requirements
 - [2026-05-25T13:37:18] Improve ffmpeg streaming pipe buffer management
+- [2026-05-25T12:00:53] Improve logging and health endpoint metrics
