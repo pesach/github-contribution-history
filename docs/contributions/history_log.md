@@ -706,3 +706,4 @@
 - [2026-05-24T11:44:06] Fix edge case in URL parsing and validation
 - [2026-05-25T13:43:39] Refactor worker polling logic
 - [2026-05-25T12:39:55] Improve logging and health endpoint metrics
+- [2026-05-25T16:58:29] Add retries for transient network drops
