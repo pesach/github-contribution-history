@@ -705,3 +705,4 @@
 - [2026-05-24T08:26:52] Update B2 storage chunking parameters
 - [2026-05-24T11:44:06] Fix edge case in URL parsing and validation
 - [2026-05-25T13:43:39] Refactor worker polling logic
+- [2026-05-25T12:39:55] Improve logging and health endpoint metrics
