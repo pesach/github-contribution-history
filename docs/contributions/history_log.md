@@ -4077,3 +4077,4 @@
 - [2026-05-25T18:19:04] Enhance dashboard statistics rendering
 - [2026-05-25T13:17:09] Fix edge case in URL parsing and validation
 - [2026-05-25T11:59:28] Refactor cookie refresher probe logic
+- [2026-05-25T15:26:42] Refactor worker polling logic
