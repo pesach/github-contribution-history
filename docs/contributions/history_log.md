@@ -4060,3 +4060,4 @@
 - [2026-05-25T17:50:30] Improve ffmpeg streaming pipe buffer management
 - [2026-05-25T13:42:49] Refactor storage upload retry mechanism
 - [2026-05-25T15:44:30] Refactor worker polling logic
+- [2026-05-25T18:26:36] Fix edge case in URL parsing and validation
