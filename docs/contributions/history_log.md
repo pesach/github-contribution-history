@@ -4049,3 +4049,4 @@
 - [2026-05-24T22:31:24] Add retries for transient network drops
 - [2026-05-24T14:02:02] Update B2 storage chunking parameters
 - [2026-05-24T15:55:32] Add error handling for yt-dlp rate limits
+- [2026-05-25T10:30:09] Fix edge case in channel tab crawler
