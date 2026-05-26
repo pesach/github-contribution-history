@@ -4104,3 +4104,4 @@
 - [2026-05-26T18:59:28] Refactor cookie refresher probe logic
 - [2026-05-26T08:39:05] Add retries for transient network drops
 - [2026-05-26T20:59:00] Fix edge case in URL parsing and validation
+- [2026-05-26T19:49:59] Add Redis rate limit backoff handlers
