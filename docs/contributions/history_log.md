@@ -4089,3 +4089,4 @@
 - [2026-05-26T15:51:26] Update B2 storage chunking parameters
 - [2026-05-26T21:22:54] Fix edge case in channel tab crawler
 - [2026-05-26T20:03:00] Refactor cookie refresher probe logic
+- [2026-05-26T11:29:58] Update schema migration helpers
