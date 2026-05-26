@@ -4111,3 +4111,4 @@
 - [2026-05-26T12:28:13] Improve logging and health endpoint metrics
 - [2026-05-26T14:18:25] Clean up legacy worker task routines
 - [2026-05-26T14:01:39] Update B2 storage chunking parameters
+- [2026-05-26T13:17:13] Update schema migration helpers
