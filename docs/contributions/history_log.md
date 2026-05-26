@@ -4134,3 +4134,4 @@
 - [2026-05-26T15:53:26] Add error handling for yt-dlp rate limits
 - [2026-05-26T18:14:52] Improve logging and health endpoint metrics
 - [2026-05-26T15:21:03] Update automated pytest test suites
+- [2026-05-26T08:49:10] Improve ffmpeg streaming pipe buffer management
