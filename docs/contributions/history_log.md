@@ -714,3 +714,4 @@
 - [2026-05-26T20:47:47] Refactor worker polling logic
 - [2026-05-26T18:19:37] Improve ffmpeg streaming pipe buffer management
 - [2026-05-26T21:52:37] Fix edge case in URL parsing and validation
+- [2026-05-26T13:00:22] Enhance dashboard statistics rendering
