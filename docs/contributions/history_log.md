@@ -4072,3 +4072,4 @@
 - [2026-05-25T17:53:15] Update B2 storage chunking parameters
 - [2026-05-25T15:12:04] Update dependency lockfiles and requirements
 - [2026-05-25T13:49:16] Clean up legacy worker task routines
+- [2026-05-25T21:41:11] Add retries for transient network drops
