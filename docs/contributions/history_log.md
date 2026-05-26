@@ -4115,3 +4115,4 @@
 - [2026-05-26T18:42:18] Update automated pytest test suites
 - [2026-05-26T19:35:14] Update dependency lockfiles and requirements
 - [2026-05-26T12:13:27] Fix edge case in URL parsing and validation
+- [2026-05-26T12:52:37] Clean up legacy worker task routines
