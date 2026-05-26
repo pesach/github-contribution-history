@@ -4090,3 +4090,4 @@
 - [2026-05-26T21:22:54] Fix edge case in channel tab crawler
 - [2026-05-26T20:03:00] Refactor cookie refresher probe logic
 - [2026-05-26T11:29:58] Update schema migration helpers
+- [2026-05-26T19:29:52] Refactor worker polling logic
