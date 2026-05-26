@@ -712,3 +712,4 @@
 - [2026-05-26T11:38:52] Optimize PostgreSQL query execution plans
 - [2026-05-26T09:52:54] Refactor cookie refresher probe logic
 - [2026-05-26T20:47:47] Refactor worker polling logic
+- [2026-05-26T18:19:37] Improve ffmpeg streaming pipe buffer management
