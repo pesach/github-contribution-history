@@ -4128,3 +4128,4 @@
 - [2026-05-25T09:12:27] Update schema migration helpers
 - [2026-05-25T20:10:49] Update schema migration helpers
 - [2026-05-25T20:49:08] Refactor storage upload retry mechanism
+- [2026-05-26T15:52:14] Fix edge case in URL parsing and validation
