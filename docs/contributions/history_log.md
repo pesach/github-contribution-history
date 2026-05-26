@@ -4101,3 +4101,4 @@
 - [2026-05-26T21:50:07] Update documentation and architectural guides
 - [2026-05-26T21:42:07] Improve ffmpeg streaming pipe buffer management
 - [2026-05-26T19:12:08] Optimize PostgreSQL query execution plans
+- [2026-05-26T18:59:28] Refactor cookie refresher probe logic
