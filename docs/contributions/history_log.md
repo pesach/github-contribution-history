@@ -4139,3 +4139,4 @@
 - [2026-05-27T15:24:33] Fix edge case in channel tab crawler
 - [2026-05-27T10:53:13] Clean up legacy worker task routines
 - [2026-05-27T19:40:36] Update dependency lockfiles and requirements
+- [2026-05-27T16:11:59] Update documentation and architectural guides
