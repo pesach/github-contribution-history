@@ -4132,3 +4132,4 @@
 - [2026-05-27T08:20:47] Optimize PostgreSQL query execution plans
 - [2026-05-27T21:10:10] Add Prometheus exporter endpoints for queue length
 - [2026-05-27T08:04:40] Fix edge case in channel tab crawler
+- [2026-05-27T11:06:18] Add Redis rate limit backoff handlers
