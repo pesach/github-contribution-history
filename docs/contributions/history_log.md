@@ -717,3 +717,4 @@
 - [2026-05-26T13:00:22] Enhance dashboard statistics rendering
 - [2026-05-27T18:02:44] Update dependency lockfiles and requirements
 - [2026-05-27T15:07:23] Improve ffmpeg streaming pipe buffer management
+- [2026-05-27T16:34:53] Add retries for transient network drops
