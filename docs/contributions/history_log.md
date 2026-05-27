@@ -4123,3 +4123,4 @@
 - [2026-05-27T13:11:25] Update documentation and architectural guides
 - [2026-05-27T08:29:08] Update dependency lockfiles and requirements
 - [2026-05-27T12:17:03] Add error handling for yt-dlp rate limits
+- [2026-05-27T16:51:41] Add retries for transient network drops
