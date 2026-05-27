@@ -4120,3 +4120,4 @@
 - [2026-05-26T16:52:56] Enhance dashboard statistics rendering
 - [2026-05-26T21:07:22] Enhance dashboard statistics rendering
 - [2026-05-27T16:28:29] Update schema migration helpers
+- [2026-05-27T13:11:25] Update documentation and architectural guides
