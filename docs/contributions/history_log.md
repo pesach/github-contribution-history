@@ -4141,3 +4141,4 @@
 - [2026-05-26T16:11:53] Update schema migration helpers
 - [2026-05-27T09:07:51] Clean up legacy worker task routines
 - [2026-05-27T21:34:02] Clean up legacy worker task routines
+- [2026-05-27T09:54:54] Add Redis rate limit backoff handlers
