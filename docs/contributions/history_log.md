@@ -4128,3 +4128,4 @@
 - [2026-05-27T09:59:33] Fix edge case in URL parsing and validation
 - [2026-05-27T11:19:13] Update schema migration helpers
 - [2026-05-27T21:09:28] Update dependency lockfiles and requirements
+- [2026-05-27T12:43:32] Update B2 storage chunking parameters
