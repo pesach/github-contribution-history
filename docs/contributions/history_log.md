@@ -720,3 +720,4 @@
 - [2026-05-27T16:34:53] Add retries for transient network drops
 - [2026-05-27T17:26:12] Update automated pytest test suites
 - [2026-05-27T21:44:52] Add Prometheus exporter endpoints for queue length
+- [2026-05-27T18:34:31] Enhance dashboard statistics rendering
