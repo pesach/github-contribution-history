@@ -4146,3 +4146,4 @@
 - [2026-05-27T20:18:42] Update schema migration helpers
 - [2026-05-27T13:17:24] Improve logging and health endpoint metrics
 - [2026-05-27T10:58:05] Add Redis rate limit backoff handlers
+- [2026-05-27T14:10:13] Refactor worker polling logic
