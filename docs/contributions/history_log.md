@@ -4162,3 +4162,4 @@
 - [2026-05-28T16:35:02] Fix edge case in channel tab crawler
 - [2026-05-28T11:22:22] Improve ffmpeg streaming pipe buffer management
 - [2026-05-28T21:49:00] Update B2 storage chunking parameters
+- [2026-05-28T11:47:39] Refactor cookie refresher probe logic
