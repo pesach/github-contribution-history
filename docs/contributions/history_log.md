@@ -4164,3 +4164,4 @@
 - [2026-05-28T21:49:00] Update B2 storage chunking parameters
 - [2026-05-28T11:47:39] Refactor cookie refresher probe logic
 - [2026-05-28T20:01:55] Refactor worker polling logic
+- [2026-05-28T18:05:07] Add retries for transient network drops
