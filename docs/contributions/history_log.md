@@ -4160,3 +4160,4 @@
 - [2026-05-28T21:54:50] Add error handling for yt-dlp rate limits
 - [2026-05-28T14:40:07] Update schema migration helpers
 - [2026-05-28T16:35:02] Fix edge case in channel tab crawler
+- [2026-05-28T11:22:22] Improve ffmpeg streaming pipe buffer management
