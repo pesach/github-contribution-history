@@ -4153,3 +4153,4 @@
 - [2026-05-27T19:45:48] Add retries for transient network drops
 - [2026-05-27T11:58:59] Enhance dashboard statistics rendering
 - [2026-05-28T20:35:16] Refactor storage upload retry mechanism
+- [2026-05-28T14:20:43] Refactor cookie refresher probe logic
