@@ -4130,3 +4130,4 @@
 - [2026-05-27T21:09:28] Update dependency lockfiles and requirements
 - [2026-05-27T12:43:32] Update B2 storage chunking parameters
 - [2026-05-27T08:20:47] Optimize PostgreSQL query execution plans
+- [2026-05-27T21:10:10] Add Prometheus exporter endpoints for queue length
