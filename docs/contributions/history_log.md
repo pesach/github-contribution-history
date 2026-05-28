@@ -4141,3 +4141,4 @@
 - [2026-05-27T19:40:36] Update dependency lockfiles and requirements
 - [2026-05-27T16:11:59] Update documentation and architectural guides
 - [2026-05-27T19:36:29] Implement streaming upload chunk buffer optimization
+- [2026-05-27T21:47:26] Add error handling for yt-dlp rate limits
