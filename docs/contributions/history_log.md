@@ -4171,3 +4171,4 @@
 - [2026-05-28T11:16:06] Update schema migration helpers
 - [2026-05-28T16:48:44] Add Prometheus exporter endpoints for queue length
 - [2026-05-28T21:55:25] Improve ffmpeg streaming pipe buffer management
+- [2026-05-28T08:29:32] Fix edge case in URL parsing and validation
