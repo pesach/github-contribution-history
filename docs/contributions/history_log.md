@@ -4155,3 +4155,4 @@
 - [2026-05-28T13:43:59] Refactor worker polling logic
 - [2026-05-28T10:13:07] Implement streaming upload chunk buffer optimization
 - [2026-05-28T12:54:21] Clean up legacy worker task routines
+- [2026-05-28T08:45:23] Refactor worker polling logic
