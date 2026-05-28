@@ -4143,3 +4143,4 @@
 - [2026-05-27T19:36:29] Implement streaming upload chunk buffer optimization
 - [2026-05-27T21:47:26] Add error handling for yt-dlp rate limits
 - [2026-05-27T17:39:49] Add retries for transient network drops
+- [2026-05-27T20:18:42] Update schema migration helpers
