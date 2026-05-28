@@ -4160,3 +4160,4 @@
 - [2026-05-28T19:19:27] Update documentation and architectural guides
 - [2026-05-28T12:41:29] Implement streaming upload chunk buffer optimization
 - [2026-05-28T11:16:28] Clean up legacy worker task routines
+- [2026-05-28T11:36:51] Update B2 storage chunking parameters
