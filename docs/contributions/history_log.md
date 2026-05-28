@@ -4176,3 +4176,4 @@
 - [2026-05-28T13:54:21] Improve ffmpeg streaming pipe buffer management
 - [2026-05-28T09:25:06] Update dependency lockfiles and requirements
 - [2026-05-28T11:25:19] Refactor cookie refresher probe logic
+- [2026-05-28T08:40:28] Update B2 storage chunking parameters
