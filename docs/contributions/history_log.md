@@ -719,3 +719,4 @@
 - [2026-05-27T15:07:23] Improve ffmpeg streaming pipe buffer management
 - [2026-05-27T16:34:53] Add retries for transient network drops
 - [2026-05-27T17:26:12] Update automated pytest test suites
+- [2026-05-27T21:44:52] Add Prometheus exporter endpoints for queue length
