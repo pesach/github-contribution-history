@@ -4203,3 +4203,4 @@
 - [2026-05-29T17:28:23] Update documentation and architectural guides
 - [2026-05-29T14:29:25] Optimize PostgreSQL query execution plans
 - [2026-05-29T14:52:05] Enhance dashboard statistics rendering
+- [2026-05-29T15:49:27] Refactor worker polling logic
