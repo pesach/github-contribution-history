@@ -724,3 +724,4 @@
 - [2026-05-28T12:04:12] Refactor worker polling logic
 - [2026-05-28T17:05:24] Enhance dashboard statistics rendering
 - [2026-05-28T17:18:30] Refactor storage upload retry mechanism
+- [2026-05-28T22:23:39] Add Prometheus exporter endpoints for queue length
