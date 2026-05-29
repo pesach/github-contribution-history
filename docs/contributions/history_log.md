@@ -4191,3 +4191,4 @@
 - [2026-05-29T08:26:12] Implement streaming upload chunk buffer optimization
 - [2026-05-29T10:09:20] Add retries for transient network drops
 - [2026-05-29T17:40:21] Improve logging and health endpoint metrics
+- [2026-05-29T11:05:07] Improve ffmpeg streaming pipe buffer management
