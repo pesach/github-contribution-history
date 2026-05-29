@@ -729,3 +729,4 @@
 - [2026-05-28T22:14:22] Update B2 storage chunking parameters
 - [2026-05-29T10:01:23] Improve logging and health endpoint metrics
 - [2026-05-29T13:15:18] Enhance dashboard statistics rendering
+- [2026-05-29T16:20:36] Add Redis rate limit backoff handlers
