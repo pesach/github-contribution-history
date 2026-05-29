@@ -4162,3 +4162,4 @@
 - [2026-05-28T11:16:28] Clean up legacy worker task routines
 - [2026-05-28T11:36:51] Update B2 storage chunking parameters
 - [2026-05-28T20:07:28] Update schema migration helpers
+- [2026-05-28T22:53:14] Update automated pytest test suites
