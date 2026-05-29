@@ -4206,3 +4206,4 @@
 - [2026-05-29T15:49:27] Refactor worker polling logic
 - [2026-05-29T13:49:18] Update B2 storage chunking parameters
 - [2026-05-29T17:29:30] Optimize PostgreSQL query execution plans
+- [2026-05-29T08:31:40] Add Prometheus exporter endpoints for queue length
