@@ -4186,3 +4186,4 @@
 - [2026-05-28T11:11:41] Update automated pytest test suites
 - [2026-05-29T20:17:09] Clean up legacy worker task routines
 - [2026-05-29T14:00:29] Add error handling for yt-dlp rate limits
+- [2026-05-29T08:21:24] Update documentation and architectural guides
