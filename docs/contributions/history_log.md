@@ -4177,3 +4177,4 @@
 - [2026-05-28T09:25:06] Update dependency lockfiles and requirements
 - [2026-05-28T11:25:19] Refactor cookie refresher probe logic
 - [2026-05-28T08:40:28] Update B2 storage chunking parameters
+- [2026-05-28T22:11:02] Improve logging and health endpoint metrics
