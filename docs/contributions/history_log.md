@@ -4216,3 +4216,4 @@
 - [2026-05-29T18:14:18] Add retries for transient network drops
 - [2026-05-29T12:53:58] Implement streaming upload chunk buffer optimization
 - [2026-05-29T11:27:40] Add Prometheus exporter endpoints for queue length
+- [2026-05-30T17:34:44] Update B2 storage chunking parameters
