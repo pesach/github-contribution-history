@@ -4226,3 +4226,4 @@
 - [2026-05-30T10:24:51] Update B2 storage chunking parameters
 - [2026-05-30T10:24:19] Update automated pytest test suites
 - [2026-05-30T18:59:57] Refactor cookie refresher probe logic
+- [2026-05-30T16:19:54] Fix edge case in URL parsing and validation
