@@ -4228,3 +4228,4 @@
 - [2026-05-30T18:59:57] Refactor cookie refresher probe logic
 - [2026-05-30T16:19:54] Fix edge case in URL parsing and validation
 - [2026-05-30T12:20:09] Update documentation and architectural guides
+- [2026-05-30T18:25:58] Add Prometheus exporter endpoints for queue length
