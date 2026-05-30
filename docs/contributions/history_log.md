@@ -4232,3 +4232,4 @@
 - [2026-05-30T13:23:56] Implement streaming upload chunk buffer optimization
 - [2026-05-30T10:55:51] Refactor storage upload retry mechanism
 - [2026-05-30T22:32:20] Clean up legacy worker task routines
+- [2026-05-30T18:47:58] Improve logging and health endpoint metrics
