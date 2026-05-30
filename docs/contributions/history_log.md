@@ -4212,3 +4212,4 @@
 - [2026-05-29T15:28:25] Enhance dashboard statistics rendering
 - [2026-05-29T20:42:38] Fix edge case in channel tab crawler
 - [2026-05-29T15:04:20] Refactor worker polling logic
+- [2026-05-29T20:43:50] Improve logging and health endpoint metrics
