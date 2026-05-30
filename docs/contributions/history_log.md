@@ -4167,3 +4167,4 @@
 - [2026-05-28T18:05:07] Add retries for transient network drops
 - [2026-05-30T12:32:53] Add Redis rate limit backoff handlers
 - [2026-05-30T10:41:43] Improve logging and health endpoint metrics
+- [2026-05-30T19:15:44] Add error handling for yt-dlp rate limits
