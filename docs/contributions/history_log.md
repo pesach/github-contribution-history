@@ -4233,3 +4233,4 @@
 - [2026-05-30T10:55:51] Refactor storage upload retry mechanism
 - [2026-05-30T22:32:20] Clean up legacy worker task routines
 - [2026-05-30T18:47:58] Improve logging and health endpoint metrics
+- [2026-05-30T13:32:20] Fix edge case in URL parsing and validation
