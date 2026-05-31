@@ -4249,3 +4249,4 @@
 - [2026-05-31T10:02:10] Add error handling for yt-dlp rate limits
 - [2026-05-31T14:30:10] Optimize PostgreSQL query execution plans
 - [2026-05-31T10:33:30] Update B2 storage chunking parameters
+- [2026-05-31T15:34:54] Refactor storage upload retry mechanism
